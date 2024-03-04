@@ -7,25 +7,23 @@ const upgradeHeader = /(^|,)\s*upgrade\s*($|,)/i;
 const isSSL = /^https|wss/;
 
 /**
- * Creates an outgoing HTTP request options object with the right headers copied from
- * `options` and `req`.
+ * Creates an outgoing HTTP request options object with the right headers, method, etc.
  */
 export function getProxyHttpRequestOptions(
-  params: Pick<ProxyParams, 'options' | 'req'>,
+  params: Pick<ProxyParams, 'req'> & { target: url.Url },
 ): http.RequestOptions {
-  const { options, req } = params;
+  const { target, req } = params;
 
-  const target = options.target;
   const outgoing: http.RequestOptions & https.RequestOptions = {
     port: target.port || (isSSL.test(target.protocol || '') ? 443 : 80),
     host: target.host,
     hostname: target.hostname,
-    method: options.method || req.method,
+    method: req.method,
     auth: target.auth,
     agent: false,
   };
   // make sure TS knows this is set
-  outgoing.headers = { ...req.headers, ...options.headers };
+  outgoing.headers = { ...req.headers, host: target.host || '' };
 
   if (isSSL.test(target.protocol || '')) {
     outgoing.rejectUnauthorized = true;
@@ -51,6 +49,13 @@ export function getProxyHttpRequestOptions(
  */
 export function prepareResponse(params: Pick<ProxyParams, 'req' | 'res' | 'proxyRes'>) {
   const { req, res, proxyRes } = params;
+
+  // Strip cookies
+  delete proxyRes.headers['set-cookie'];
+  delete proxyRes.headers['set-cookie2'];
+
+  // Add CORS headers
+  withCORS(proxyRes.headers, req);
 
   // Set the appropriate connection header.
   // If is a HTTP 1.0 request, also remove chunk headers
@@ -91,4 +96,54 @@ export function hasEncryptedConnection(req: http.IncomingMessage) {
   const maybeTlsSocket = req.socket as any;
   // not sure where .pair comes from (not on tls.TLSSocket)
   return !!(maybeTlsSocket.encrypted || maybeTlsSocket.pair);
+}
+
+/**
+ * Adds CORS headers to the response headers.
+ */
+export function withCORS(headers: http.IncomingHttpHeaders, request: http.IncomingMessage) {
+  headers['access-control-allow-origin'] = '*';
+  if (request.headers['access-control-request-method']) {
+    headers['access-control-allow-methods'] = request.headers['access-control-request-method'];
+    delete request.headers['access-control-request-method'];
+  }
+  if (request.headers['access-control-request-headers']) {
+    headers['access-control-allow-headers'] = request.headers['access-control-request-headers'];
+    delete request.headers['access-control-request-headers'];
+  }
+
+  headers['access-control-expose-headers'] = Object.keys(headers).join(',');
+
+  return headers;
+}
+
+export function parseURL(reqUrl: string) {
+  const match = reqUrl.match(
+    /^(?:(https?:)?\/\/)?(([^/?]+?)(?::(\d{0,5})(?=[/?]|$))?)([/?][\S\s]*|$)/i,
+  );
+  //      ^^^^^^^          ^^^^^^^^      ^^^^^^^                ^^^^^^^^^^^^
+  //    1:protocol       3:hostname     4:port                 5:path + query string
+  //                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  //                    2:host
+  if (!match) {
+    return null;
+  }
+  if (!match[1]) {
+    if (/^https?:/i.test(reqUrl)) {
+      // The pattern at top could mistakenly parse "http:///" as host="http:" and path=///.
+      return null;
+    }
+    // Scheme is omitted.
+    if (reqUrl.lastIndexOf('//', 0) === -1) {
+      // "//" is omitted.
+      reqUrl = '//' + reqUrl;
+    }
+    reqUrl = (match[4] === '443' ? 'https:' : 'http:') + reqUrl;
+  }
+  const parsed = url.parse(reqUrl);
+  if (!parsed.hostname) {
+    // "http://:1/" and "http:/notenoughslashes" could end up here.
+    return null;
+  }
+  return parsed;
 }
