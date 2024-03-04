@@ -100,21 +100,13 @@ export const webPasses: IncomingPassFunction[] = [
     req.on('error', proxyError);
     proxyReq.on('error', proxyError);
 
-    if (options.pipeProxyRequest) {
-      options.pipeProxyRequest(proxyReq);
-    } else {
-      req.pipe(proxyReq);
-    }
+    req.pipe(proxyReq);
 
     proxyReq.on('response', function (_res) {
       const proxyRes = _res as ProxyResponse;
-      server.emitEvent('proxyRes', proxyRes, req, res, options.target);
-      // new version
-      // if (server.emitEvent('proxyRes', proxyRes, req, res, options.target)) {
-      //   return;
-      // }
+      server.emitEvent('proxyRes', proxyReq, proxyRes, req, res, options.target);
 
-      if (!res.headersSent && !options.selfHandleResponse) {
+      if (!res.headersSent) {
         for (const outgoing of webOutgoing) {
           outgoing(req, res, proxyRes, options);
         }
@@ -125,8 +117,7 @@ export const webPasses: IncomingPassFunction[] = [
         proxyRes.on('end', function () {
           server.emitEvent('end', req, res, proxyRes);
         });
-        // We pipe to the response unless its expected to be handled by the user
-        if (!options.selfHandleResponse) proxyRes.pipe(res);
+        proxyRes.pipe(res);
       } else {
         server.emitEvent('end', req, res, proxyRes);
       }
