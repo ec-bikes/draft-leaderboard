@@ -1,16 +1,11 @@
 import type http from 'http';
 import url from 'url';
-import type { CorsServerRequest } from './types';
 
 /**
  * Adds CORS headers to the response headers.
  */
-export function withCORS(headers: http.IncomingHttpHeaders, request: CorsServerRequest) {
+export function withCORS(headers: http.IncomingHttpHeaders, request: http.IncomingMessage) {
   headers['access-control-allow-origin'] = '*';
-  const corsMaxAge = request.corsAnywhereRequestState.corsMaxAge;
-  if (request.method === 'OPTIONS' && corsMaxAge) {
-    headers['access-control-max-age'] = String(corsMaxAge);
-  }
   if (request.headers['access-control-request-method']) {
     headers['access-control-allow-methods'] = request.headers['access-control-request-method'];
     delete request.headers['access-control-request-method'];
