@@ -1,20 +1,3 @@
-# Build
-/dist
-/lib
-/lib-types
-/server
-
-# Development
-node_modules
-*.local
-
-# Cache
-.cache
-.mf
-.rollup.cache
-tsconfig.tsbuildinfo
-
-# Logs
 logs
 *.log
 npm-debug.log*
@@ -23,10 +6,11 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-# Editor
-.vscode/*
-!.vscode/launch.json
-!.vscode/*.code-snippets
+.yarn
+node_modules
+dist
+dist-ssr
+*.local
 
 .idea
 .DS_Store
@@ -35,7 +19,3 @@ lerna-debug.log*
 *.njsproj
 *.sln
 *.sw?
-
-# Yarn
-.yarn/*
-!.yarn/releases
