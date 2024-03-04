@@ -1,0 +1,29 @@
+.root {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  line-height: 1.3em;
+}
+
+.root th,
+.root td {
+  padding: 0.5em;
+  width: 20%;
+}
+
+.root th {
+  text-align: center;
+  vertical-align: bottom;
+}
+
+.root td {
+  height: 2em;
+}
+
+.root td strong {
+  padding-inline-start: 0.5em;
+}
+
+.teamPoints {
+  font-weight: bold;
+}

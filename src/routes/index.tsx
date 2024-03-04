@@ -1,6 +1,6 @@
 import { component$ } from '@builder.io/qwik';
 import type { DocumentHead } from '@builder.io/qwik-city';
-import CorsDemo from '../components/cors-demo/cors-demo';
+import TeamTable from '../components/team-table/team-table';
 
 export const head: DocumentHead = {
   title: 'Welcome to Qwik',
@@ -15,7 +15,7 @@ export const head: DocumentHead = {
 export default component$(() => {
   return (
     <div class="container">
-      <CorsDemo />
+      <TeamTable />
     </div>
   );
 });
