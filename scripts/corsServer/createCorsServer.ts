@@ -2,16 +2,15 @@
 //   © 2013 - 2016 Rob Wu <rob@robwu.nl>
 //   Released under the MIT license
 import http from 'http';
-import type url from 'url';
-import { ProxyServer } from './http-proxy/index';
-import { parseURL, withCORS } from './util';
+import url from 'url';
+import { ProxyHandler } from './ProxyHandler';
 
 /** Incoming HTTP request, augmented with state */
 type CorsServerRequest = http.IncomingMessage & {
   corsAnywhereRequestState: {
     /** Base URL of the CORS API endpoint */
     proxyBaseUrl: string;
-    location: url.Url;
+    target: url.Url;
     corsHeaders: http.IncomingHttpHeaders;
   };
 };
@@ -27,12 +26,10 @@ type CorsServerRequest = http.IncomingMessage & {
  * Redirects are NOT followed in this version.
  */
 export function createCorsServer() {
-  const proxy = new ProxyServer({
-    xfwd: true, // Append X-Forwarded-* headers
-  });
+  const proxy = new ProxyHandler();
 
   // Handle proxy server responses
-  proxy.onEvent('proxyRes', (proxyReq, proxyRes, _req, res) => {
+  proxy.on('proxyRes', ({ proxyRes, req: _req, res }) => {
     const req = _req as CorsServerRequest;
     const requestState = req.corsAnywhereRequestState;
 
@@ -42,8 +39,7 @@ export function createCorsServer() {
     // Redirect support was removed for simplicity (look at history)
     const statusCode = proxyRes.statusCode;
     if ([301, 302, 303, 307, 308].includes(statusCode || 0)) {
-      // Note: ending the request here will disable the final processing (outgoingPasses)
-      // in the proxy server.
+      // Note: ending the request here will disable the final processing in the proxy server.
       res.setHeader('location', requestState.proxyBaseUrl + '/' + proxyRes.headers.location);
       res.writeHead(404, 'Redirect not supported', requestState.corsHeaders);
       res.end(
@@ -60,7 +56,7 @@ export function createCorsServer() {
   });
 
   // When the server fails, just show a 404 instead of Internal server error
-  proxy.onEvent('error', (err, req, res) => {
+  proxy.on('error', ({ err, req, res }) => {
     if (res.headersSent) {
       // This could happen when a protocol error occurs when an error occurs
       // after the headers have been received (and forwarded). Do not write
@@ -107,8 +103,8 @@ export function createCorsServer() {
     }
 
     // Check basic URL validity
-    const location = parseURL(req.url.slice(1)); // // remove the leading /
-    if (!location || !/^\/https?:/.test(req.url)) {
+    const target = parseURL(req.url.slice(1)); // // remove the leading /
+    if (!target || !/^\/https?:/.test(req.url)) {
       res.writeHead(404, 'Invalid URL', corsHeaders);
       res.end('Invalid URL: ' + req.url);
       return;
@@ -119,22 +115,74 @@ export function createCorsServer() {
 
     req.corsAnywhereRequestState = {
       corsHeaders,
-      location,
+      target: target,
       proxyBaseUrl: 'http://' + req.headers.host,
     };
 
-    req.url = location.path || '';
+    req.url = target.path || '';
 
     // Start proxying the request
     try {
-      proxy.proxyRequest(req, res, {
-        target: location,
-        headers: {
-          host: location.host || '',
+      proxy.proxyRequest({
+        req,
+        res,
+        options: {
+          target,
+          headers: { host: target.host || '' },
         },
       });
     } catch (err) {
-      proxy.emitEvent('error', err, req, res, location);
+      proxy.emit('error', { err, req, res, target });
     }
   });
+}
+
+/**
+ * Adds CORS headers to the response headers.
+ */
+function withCORS(headers: http.IncomingHttpHeaders, request: http.IncomingMessage) {
+  headers['access-control-allow-origin'] = '*';
+  if (request.headers['access-control-request-method']) {
+    headers['access-control-allow-methods'] = request.headers['access-control-request-method'];
+    delete request.headers['access-control-request-method'];
+  }
+  if (request.headers['access-control-request-headers']) {
+    headers['access-control-allow-headers'] = request.headers['access-control-request-headers'];
+    delete request.headers['access-control-request-headers'];
+  }
+
+  headers['access-control-expose-headers'] = Object.keys(headers).join(',');
+
+  return headers;
+}
+
+function parseURL(reqUrl: string) {
+  const match = reqUrl.match(
+    /^(?:(https?:)?\/\/)?(([^/?]+?)(?::(\d{0,5})(?=[/?]|$))?)([/?][\S\s]*|$)/i,
+  );
+  //      ^^^^^^^          ^^^^^^^^      ^^^^^^^                ^^^^^^^^^^^^
+  //    1:protocol       3:hostname     4:port                 5:path + query string
+  //                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  //                    2:host
+  if (!match) {
+    return null;
+  }
+  if (!match[1]) {
+    if (/^https?:/i.test(reqUrl)) {
+      // The pattern at top could mistakenly parse "http:///" as host="http:" and path=///.
+      return null;
+    }
+    // Scheme is omitted.
+    if (reqUrl.lastIndexOf('//', 0) === -1) {
+      // "//" is omitted.
+      reqUrl = '//' + reqUrl;
+    }
+    reqUrl = (match[4] === '443' ? 'https:' : 'http:') + reqUrl;
+  }
+  const parsed = url.parse(reqUrl);
+  if (!parsed.hostname) {
+    // "http://:1/" and "http:/notenoughslashes" could end up here.
+    return null;
+  }
+  return parsed;
 }
