@@ -1,5 +1,6 @@
 import { component$ } from '@builder.io/qwik';
 import type { DocumentHead } from '@builder.io/qwik-city';
+import CorsDemo from '../components/cors-demo/cors-demo';
 
 export const head: DocumentHead = {
   title: 'Welcome to Qwik',
@@ -12,5 +13,9 @@ export const head: DocumentHead = {
 };
 
 export default component$(() => {
-  return <div class="container container-flex">hello</div>;
+  return (
+    <div class="container">
+      <CorsDemo />
+    </div>
+  );
 });
