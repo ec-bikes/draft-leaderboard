@@ -14,7 +14,8 @@ export interface ProxyServerOptions {
   timeout?: number;
   /** If set to true, none of the webOutgoing passes are called and it's your responsibility to appropriately return the response by listening and acting on the proxyRes event */
   selfHandleResponse?: boolean;
-  buffer?: Pick<stream.Writable, 'pipe'>;
+  /** Once the proxy request is ready, pipe it here instead of to the original request. */
+  pipeProxyRequest?: stream.Writable['pipe'];
 }
 
 export interface ProxyServerRequestOptions extends ProxyServerOptions {

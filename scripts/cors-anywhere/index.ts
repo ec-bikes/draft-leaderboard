@@ -1,9 +1,7 @@
 // Based on cors-anywhere
 //   © 2013 - 2016 Rob Wu <rob@robwu.nl>
 //   Released under the MIT license
-
 import http from 'http';
-import url from 'url';
 import { ProxyServer, type ProxyServerOptions } from './http-proxy/index';
 import type { ProxyRequest, ProxyResponse } from './http-proxy/types';
 import { parseURL, withCORS } from './util';
@@ -12,7 +10,6 @@ import type { CorsAnywhereOptions, CorsAnywhereRequestState, CorsServerRequest }
 /**
  * Create server with default and given values.
  * Creator still needs to call `.listen()`.
- *
  *
  * Server usage:
  * Requesting `/<url>` creates a request to `<url>`, and includes CORS headers in the response.
@@ -119,7 +116,7 @@ function createHttpServer(options: CorsAnywhereOptions, proxy: ProxyServer) {
       corsMaxAge: corsAnywhere.corsMaxAge,
     } as CorsAnywhereRequestState);
 
-    const corsHeaders = withCORS({}, req);
+    const corsHeaders = (corsState.corsHeaders = withCORS({}, req));
     if (req.method === 'OPTIONS') {
       // Pre-flight request. Reply successfully:
       res.writeHead(200, corsHeaders);
@@ -141,9 +138,6 @@ function createHttpServer(options: CorsAnywhereOptions, proxy: ProxyServer) {
       return;
     }
 
-    // const isRequestedOverHttps =
-    //   req.connection.encrypted || /^\s*https/.test(req.headers['x-forwarded-proto']);
-    // const proxyBaseUrl = (isRequestedOverHttps ? 'https://' : 'http://') + req.headers.host;
     const proxyBaseUrl = 'http://' + req.headers.host;
 
     corsAnywhere.removeHeaders.forEach(function (header) {
@@ -170,59 +164,27 @@ function onProxyResponse(params: {
   req: CorsServerRequest;
   res: http.ServerResponse;
 }) {
-  const { proxy, proxyReq, proxyRes, req, res } = params;
+  const { proxyRes, req, res } = params;
   const requestState = req.corsAnywhereRequestState;
-
-  const statusCode = proxyRes.statusCode;
 
   if (!requestState.redirectCount) {
     res.setHeader('x-request-url', requestState.location.href);
   }
 
-  // Handle redirects
-  // if (redirectStatuses.includes(statusCode || 0)) {
-  //   let locationHeader = proxyRes.headers.location;
-  //   let parsedLocation: url.Url | null = null;
-  //   if (locationHeader) {
-  //     locationHeader = url.resolve(requestState.location.href, locationHeader);
-  //     parsedLocation = parseURL(locationHeader);
-  //   }
-  //   if (parsedLocation) {
-  //     // Exclude 307 & 308, because they are rare, and require preserving the method + request body
-  //     if (statusCode !== 307 && statusCode !== 308) {
-  //       requestState.redirectCount++;
-  //       if (requestState.redirectCount <= requestState.maxRedirects) {
-  //         // Handle redirects within the server, because some clients (e.g. Android Stock Browser)
-  //         // cancel redirects.
-  //         // Set header for debugging purposes. Do not try to parse it!
-  //         res.setHeader(
-  //           'X-CORS-Redirect-' + requestState.redirectCount,
-  //           `${statusCode} ${locationHeader}`,
-  //         );
-
-  //         req.method = 'GET';
-  //         req.headers['content-length'] = '0';
-  //         delete req.headers['content-type'];
-  //         requestState.location = parsedLocation;
-
-  //         // Remove all listeners (=reset events to initial state)
-  //         req.removeAllListeners();
-
-  //         // Remove the error listener so that the ECONNRESET "error" that
-  //         // may occur after aborting a request does not propagate to res.
-  //         // https://github.com/nodejitsu/node-http-proxy/blob/v1.11.1/lib/http-proxy/passes/web-incoming.js#L134
-  //         proxyReq.removeAllListeners('error');
-  //         proxyReq.once('error', function catchAndIgnoreError() {});
-  //         proxyReq.destroy();
-
-  //         // Initiate a new proxy request.
-  //         proxyRequest(req, res, proxy);
-  //         return false;
-  //       }
-  //     }
-  //     proxyRes.headers.location = `${requestState.proxyBaseUrl}/${locationHeader}`;
-  //   }
-  // }
+  const statusCode = proxyRes.statusCode;
+  if (redirectStatuses.includes(statusCode || 0)) {
+    // to handle redirects:
+    // const sentRedirectRequest = redirect(params);
+    // if (sentRedirectRequest) {
+    //   return false;
+    // }
+    res.setHeader('location', requestState.proxyBaseUrl + '/' + proxyRes.headers.location);
+    res.writeHead(404, 'Redirect not supported', requestState.corsHeaders);
+    res.end(
+      `Returned a redirect (${statusCode}, ${proxyRes.statusMessage}) to ${proxyRes.headers.location}`,
+    );
+    return false;
+  }
 
   // Strip cookies
   delete proxyRes.headers['set-cookie'];
@@ -250,45 +212,96 @@ function proxyRequest(req: CorsServerRequest, res: http.ServerResponse, proxy: P
       },
       // HACK: Get hold of the proxyReq object, because we need it later.
       // https://github.com/nodejitsu/node-http-proxy/blob/v1.11.1/lib/http-proxy/passes/web-incoming.js#L144
-      buffer: {
-        pipe: function (proxyReq) {
-          const proxyReqOn = proxyReq.on;
-          // Intercepts the handler that connects proxyRes to res.
-          // https://github.com/nodejitsu/node-http-proxy/blob/v1.11.1/lib/http-proxy/passes/web-incoming.js#L146-L158
-          proxyReq.on = function (eventName, listener) {
-            if (eventName !== 'response') {
-              return proxyReqOn.call(this, eventName, listener);
-            }
-            return proxyReqOn.call(this, 'response', function (proxyRes) {
-              const shouldCallOriginalListener = onProxyResponse({
-                proxy,
-                proxyReq: proxyReq as any,
-                proxyRes,
-                req,
-                res,
-              });
-              if (shouldCallOriginalListener) {
-                try {
-                  listener(proxyRes);
-                } catch (err) {
-                  // Wrap in try-catch because an error could occur:
-                  // "RangeError: Invalid status code: 0"
-                  // https://github.com/Rob--W/cors-anywhere/issues/95
-                  // https://github.com/nodejitsu/node-http-proxy/issues/1080
-
-                  // Forward error (will ultimately emit the 'error' event on our proxy object):
-                  // https://github.com/nodejitsu/node-http-proxy/blob/v1.11.1/lib/http-proxy/passes/web-incoming.js#L134
-                  proxyReq.emit('error', err);
-                }
-              }
+      pipeProxyRequest: function (proxyReq) {
+        const proxyReqOn = proxyReq.on;
+        // Intercepts the handler that connects proxyRes to res.
+        // https://github.com/nodejitsu/node-http-proxy/blob/v1.11.1/lib/http-proxy/passes/web-incoming.js#L146-L158
+        proxyReq.on = function (eventName, listener) {
+          if (eventName !== 'response') {
+            return proxyReqOn.call(this, eventName, listener);
+          }
+          return proxyReqOn.call(this, 'response', function (proxyRes) {
+            const shouldCallOriginalListener = onProxyResponse({
+              proxy,
+              proxyReq: proxyReq as any,
+              proxyRes,
+              req,
+              res,
             });
-          };
+            if (shouldCallOriginalListener) {
+              try {
+                listener(proxyRes);
+              } catch (err) {
+                // Wrap in try-catch because an error could occur:
+                // "RangeError: Invalid status code: 0"
+                // https://github.com/Rob--W/cors-anywhere/issues/95
+                // https://github.com/nodejitsu/node-http-proxy/issues/1080
 
-          return req.pipe(proxyReq);
-        },
+                // Forward error (will ultimately emit the 'error' event on our proxy object):
+                // https://github.com/nodejitsu/node-http-proxy/blob/v1.11.1/lib/http-proxy/passes/web-incoming.js#L134
+                proxyReq.emit('error', err);
+              }
+            }
+          });
+        };
+
+        return req.pipe(proxyReq);
       },
     });
   } catch (err) {
     proxy.emitEvent('error', err, req, res, location);
   }
 }
+
+// /**
+//  * Handle a redirect status.
+//  * Returns true if a new redirect request was sent.
+//  */
+// function redirect(params: Parameters<typeof onProxyResponse>[0]): boolean {
+//   const { proxy, proxyReq, proxyRes, req, res } = params;
+//   const requestState = req.corsAnywhereRequestState;
+//   const statusCode = proxyRes.statusCode || 0;
+
+//   let locationHeader = proxyRes.headers.location;
+//   let parsedLocation: url.Url | null = null;
+//   if (locationHeader) {
+//     locationHeader = url.resolve(requestState.location.href, locationHeader);
+//     parsedLocation = parseURL(locationHeader);
+//   }
+//   if (parsedLocation) {
+//     // Exclude 307 & 308, because they are rare, and require preserving the method + request body
+//     if (statusCode !== 307 && statusCode !== 308) {
+//       requestState.redirectCount++;
+//       if (requestState.redirectCount <= requestState.maxRedirects) {
+//         // Handle redirects within the server, because some clients (e.g. Android Stock Browser)
+//         // cancel redirects.
+//         // Set header for debugging purposes. Do not try to parse it!
+//         res.setHeader(
+//           'X-CORS-Redirect-' + requestState.redirectCount,
+//           `${statusCode} ${locationHeader}`,
+//         );
+
+//         req.method = 'GET';
+//         req.headers['content-length'] = '0';
+//         delete req.headers['content-type'];
+//         requestState.location = parsedLocation;
+
+//         // Remove all listeners (=reset events to initial state)
+//         req.removeAllListeners();
+
+//         // Remove the error listener so that the ECONNRESET "error" that
+//         // may occur after aborting a request does not propagate to res.
+//         // https://github.com/nodejitsu/node-http-proxy/blob/v1.11.1/lib/http-proxy/passes/web-incoming.js#L134
+//         proxyReq.removeAllListeners('error');
+//         proxyReq.once('error', function catchAndIgnoreError() {});
+//         proxyReq.destroy();
+
+//         // Initiate a new proxy request.
+//         proxyRequest(req, res, proxy);
+//         return true;
+//       }
+//     }
+//     proxyRes.headers.location = `${requestState.proxyBaseUrl}/${locationHeader}`;
+//   }
+//   return false;
+// }

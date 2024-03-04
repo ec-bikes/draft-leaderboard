@@ -10,23 +10,17 @@ import type {
 } from './types';
 
 export class ProxyServer extends EventEmitter3 {
-  // private _server: http.Server | undefined;
-
   constructor(private options: ProxyServerOptions) {
     super();
+    this.on('error', this.onError, this);
   }
 
-  // listen = (port?: number, hostname?: string) => {
-  //   this._server = http.createServer(this.proxyRequest);
-  //   this._server.listen(port, hostname);
-  // };
-
-  // close = (callback?: (err?: Error) => void) => {
-  //   this._server?.close((...args: any[]) => {
-  //     this._server = undefined;
-  //     callback?.(...args);
-  //   });
-  // };
+  private onError(err: unknown) {
+    // Replicate node core behavior so we force people to handle their own errors
+    if (this.listeners('error').length === 1) {
+      throw err;
+    }
+  }
 
   proxyRequest = (
     req: OriginalRequest,

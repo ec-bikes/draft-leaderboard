@@ -1,6 +1,7 @@
 import http from 'http';
+import https from 'https';
 import { webOutgoing } from './web-outgoing';
-import { getPort, setupOutgoing } from '../common';
+import { getPort, hasEncryptedConnection, setupOutgoing } from '../common';
 import type { IncomingPassFunction, ProxyResponse } from '../types';
 
 /**
@@ -39,7 +40,7 @@ export const webPasses: IncomingPassFunction[] = [
     const values = {
       for: req.socket.remoteAddress,
       port: getPort(req),
-      proto: 'http',
+      proto: hasEncryptedConnection(req) ? 'https' : 'http',
     };
 
     for (const header of ['for', 'port', 'proto'] as const) {
@@ -58,7 +59,10 @@ export const webPasses: IncomingPassFunction[] = [
     server.emitEvent('start', req, res, options.target);
 
     // Request initalization
-    const proxyReq = http.request(setupOutgoing(options, req));
+    // (need to use https here if the user-requested target URL is https)
+    const proxyReq = (options.target.protocol === 'https:' ? https : http).request(
+      setupOutgoing(options, req),
+    );
 
     // Enable developers to modify the proxyReq before headers are sent
     proxyReq.on('socket', function () {
@@ -84,8 +88,7 @@ export const webPasses: IncomingPassFunction[] = [
     const proxyError = function proxyError(err: unknown) {
       if (req.socket.destroyed && (err as any).code === 'ECONNRESET') {
         server.emitEvent('econnreset', err, req, res, options.target);
-        proxyReq.destroy();
-        return;
+        return proxyReq.destroy();
       }
 
       if (callback) {
@@ -97,14 +100,19 @@ export const webPasses: IncomingPassFunction[] = [
     req.on('error', proxyError);
     proxyReq.on('error', proxyError);
 
-    (options.buffer || req).pipe(proxyReq);
-    // req.pipe(proxyReq);
+    if (options.pipeProxyRequest) {
+      options.pipeProxyRequest(proxyReq);
+    } else {
+      req.pipe(proxyReq);
+    }
 
     proxyReq.on('response', function (_res) {
       const proxyRes = _res as ProxyResponse;
-      if (server.emitEvent('proxyRes', proxyRes, req, res, options.target)) {
-        return;
-      }
+      server.emitEvent('proxyRes', proxyRes, req, res, options.target);
+      // new version
+      // if (server.emitEvent('proxyRes', proxyRes, req, res, options.target)) {
+      //   return;
+      // }
 
       if (!res.headersSent && !options.selfHandleResponse) {
         for (const outgoing of webOutgoing) {

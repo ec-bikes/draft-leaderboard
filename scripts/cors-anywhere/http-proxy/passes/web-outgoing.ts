@@ -44,11 +44,15 @@ export const webOutgoing: OutgoingPassFunction[] = [
    * Set the statusCode from the proxyResponse
    */
   function writeStatusCode(req, res, proxyRes) {
-    if (proxyRes.statusMessage) {
-      res.statusCode = proxyRes.statusCode || 500;
-      res.statusMessage = proxyRes.statusMessage || 'proxy error';
+    if (proxyRes.statusCode) {
+      res.statusCode = proxyRes.statusCode;
+      if (proxyRes.statusMessage) {
+        res.statusMessage = proxyRes.statusMessage;
+      }
     } else {
-      res.statusCode = proxyRes.statusCode || 500;
+      // added code to handle this (not sure how it could happen but there was an issue about it)
+      res.statusCode = 500;
+      res.statusMessage = 'proxyRes.statusCode not set';
     }
   },
 ];

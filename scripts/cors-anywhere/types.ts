@@ -22,6 +22,7 @@ export interface CorsAnywhereRequestState
   location: url.Url;
   /** Internally used to count redirects */
   redirectCount: number;
+  corsHeaders: http.IncomingHttpHeaders;
 }
 
 /** Incoming HTTP request, augmented with property corsAnywhereRequestState */
