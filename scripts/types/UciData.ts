@@ -69,10 +69,7 @@ export interface UciRiderResult {
     | NonNullable<this['SpecialName']>;
 }
 
-// eslint-disable-next-line
-const data: UciRiderResult[] = [];
-
-export interface UciRiderSearchData {
+export interface UciRiderRanking {
   /** rider ID used for queries */
   ObjectId: number;
   ObjectTypeId: 1;
@@ -96,6 +93,7 @@ export interface UciRiderSearchData {
   BirthDate: `/Date(${number})/`;
   Ages: number;
   Points: number;
+  /** 12-month rolling sanction points */
   SanctionPoints: number;
   ResultTeamTypeId: 0;
   DisciplineSeasonId: 432;

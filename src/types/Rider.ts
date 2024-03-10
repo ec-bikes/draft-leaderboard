@@ -1,11 +1,10 @@
 export interface Rider {
   name: string;
-  /** Points excluding sanctions */
+  /** Points for this year including sanctions */
   totalPoints?: number;
-  /** 12-month rolling sanctions (probably) */
-  sanctions12Mo?: number;
-  /** Sanctions from 2023 */
-  sanctions2023?: number;
+  /** Sanctions for this year */
+  sanctions?: number;
+  /** Race results for this year */
   results?: RaceResult[];
 }
 

@@ -1,10 +1,10 @@
-import { getRiderResultsPostData, getUciHeaders, riderResultsApiUrl } from './uciUrls';
-import type { UciApiResult, UciRiderResult } from '../types/UciData';
 import type { RawRider } from '../types/RawTeam';
 import type { RaceResult, Rider } from '../../src/types/Rider';
+import { getUciRiderResults } from './uciApis';
 
 /**
- * Get race results for a rider. Returns results or an error message.
+ * Get race results for a rider from the UCI API.
+ * Returns results or an error message.
  */
 export async function getRiderResults(params: {
   rider: RawRider;
@@ -13,25 +13,9 @@ export async function getRiderResults(params: {
   const { momentId, rider } = params;
   const { name, id } = rider;
 
-  let rawResults: UciRiderResult[];
-  try {
-    const result = await fetch(riderResultsApiUrl, {
-      method: 'POST',
-      headers: getUciHeaders(),
-      body: getRiderResultsPostData({ individualId: id, momentId }),
-    });
-    const text = await result.text();
-    const json = JSON.parse(text) as UciApiResult<UciRiderResult>;
-    if (json.data.length < json.total) {
-      // possibly need to try the paging params (but the API seems to ignore them)
-      console.error(
-        `❌ Expected ${json.total} results for ${name}, but only got ${json.data.length}`,
-      );
-      return 'Incomplete results for rider';
-    }
-    rawResults = json.data;
-  } catch (err) {
-    console.error(`❌ Error getting results for ${name}:`, (err as Error).message || err);
+  const rawResults = await getUciRiderResults({ momentId, individualId: id });
+  if (typeof rawResults === 'string') {
+    console.error(`❌ Error getting results for ${name}:`, rawResults);
     return 'Error getting results for rider';
   }
 
@@ -39,7 +23,8 @@ export async function getRiderResults(params: {
   const results: RaceResult[] = [];
   for (const result of rawResults) {
     if (result.IsInvalidResult) {
-      console.log(`⚠️ Invalid result for ${name}:`, result);
+      // not sure what this means, so log if it happens
+      console.log(`⚠️ Invalid result for ${name} (ignoring):`, result);
       continue;
     }
     if (new Date(result.Date).getFullYear() !== 2024) {

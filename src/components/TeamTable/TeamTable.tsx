@@ -1,5 +1,4 @@
-// TODO get the latest one?
-import _teamData from '../../data/teams-2023-03-01.json';
+import _teamData from '../../data/teams.json';
 import type { Team } from '../../types/Team';
 import styles from './TeamTable.module.css';
 
