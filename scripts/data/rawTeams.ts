@@ -1,6 +1,9 @@
 import type { RawTeam } from '../types/RawTeam';
 
-// https://escapecollective.com/the-wheel-talk-podcast-2024-draft/
+/**
+ * Team names, owners, and riders.
+ * https://escapecollective.com/the-wheel-talk-podcast-2024-draft/
+ */
 export const rawTeams: RawTeam[] = [
   {
     owner: 'Matt',

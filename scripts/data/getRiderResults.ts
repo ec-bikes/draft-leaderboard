@@ -1,16 +1,18 @@
 import type { RawRider } from '../types/RawTeam';
-import type { RaceResult, Rider } from '../../src/types/Rider';
+import type { RaceResult, RiderDetails } from '../../src/types/Rider';
 import { getUciRiderResults } from './uciApis';
 
 /**
  * Get race results for a rider from the UCI API.
+ * Only includes results for the current year in the total.
  * Returns results or an error message.
  */
 export async function getRiderResults(params: {
   rider: RawRider;
   momentId: number;
-}): Promise<Pick<Rider, 'totalPoints' | 'results'> | string> {
-  const { momentId, rider } = params;
+  year: number;
+}): Promise<Pick<RiderDetails, 'totalPoints' | 'results'> | string> {
+  const { momentId, rider, year } = params;
   const { name, id } = rider;
 
   const rawResults = await getUciRiderResults({ momentId, individualId: id });
@@ -27,7 +29,7 @@ export async function getRiderResults(params: {
       console.log(`⚠️ Invalid result for ${name} (ignoring):`, result);
       continue;
     }
-    if (new Date(result.Date).getFullYear() !== 2024) {
+    if (new Date(result.Date).getFullYear() !== year) {
       continue;
     }
 

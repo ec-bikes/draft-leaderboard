@@ -1,0 +1,278 @@
+{
+  "momentId": 176133,
+  "rankingDate": "5 March 2024",
+  "fetchedDate": "11 Mar 2024, 09:35 GMT",
+  "team": {
+    "owner": "Abby",
+    "name": "Death By A Thousand Attacks",
+    "totalPoints": 2034,
+    "issues": [],
+    "riders": [
+      {
+        "name": "Marianne Vos",
+        "id": 31144,
+        "totalPoints": 590,
+        "results": [
+          {
+            "name": "Strade Bianche",
+            "date": "02 Mar 2024",
+            "points": 80
+          },
+          {
+            "name": "Omloop Nieuwsblad",
+            "date": "24 Feb 2024",
+            "points": 400
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Final Result - General Classification",
+            "date": "18 Feb 2024",
+            "points": 70
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 2 - Stage Classification",
+            "date": "16 Feb 2024",
+            "points": 20
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 1 - Stage Classification",
+            "date": "15 Feb 2024",
+            "points": 20
+          }
+        ]
+      },
+      {
+        "name": "Pfeiffer Georgi",
+        "id": 153350,
+        "totalPoints": 138,
+        "results": [
+          {
+            "name": "Craywinckelhof - Omloop van het Hageland",
+            "date": "25 Feb 2024",
+            "points": 70
+          },
+          {
+            "name": "Omloop Nieuwsblad",
+            "date": "24 Feb 2024",
+            "points": 40
+          },
+          {
+            "name": "UAE Tour Women - Final Result - General Classification",
+            "date": "11 Feb 2024",
+            "points": 28
+          }
+        ]
+      },
+      {
+        "name": "Shirin van Anrooij",
+        "id": 228375,
+        "totalPoints": 447,
+        "results": [
+          {
+            "name": "Strade Bianche",
+            "date": "02 Mar 2024",
+            "points": 180
+          },
+          {
+            "name": "Omloop Nieuwsblad",
+            "date": "24 Feb 2024",
+            "points": 220
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Final Result - General Classification",
+            "date": "18 Feb 2024",
+            "points": 35
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 2 - Stage Classification",
+            "date": "16 Feb 2024",
+            "points": 12
+          }
+        ]
+      },
+      {
+        "name": "Mischa Bredewold",
+        "id": 227721,
+        "totalPoints": 85,
+        "results": [
+          {
+            "name": "Craywinckelhof - Omloop van het Hageland",
+            "date": "25 Feb 2024",
+            "points": 85
+          }
+        ]
+      },
+      {
+        "name": "Arlenis Sierra",
+        "id": 71998,
+        "totalPoints": 128,
+        "results": [
+          {
+            "name": "Omloop Nieuwsblad",
+            "date": "24 Feb 2024",
+            "points": 8
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 4 - Stage Classification",
+            "date": "18 Feb 2024",
+            "points": 20
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 1 - Stage Classification",
+            "date": "15 Feb 2024",
+            "points": 4
+          },
+          {
+            "name": "Vuelta CV Feminas",
+            "date": "04 Feb 2024",
+            "points": 3
+          },
+          {
+            "name": "Women Cycling Pro Costa De Almería",
+            "date": "28 Jan 2024",
+            "points": 3
+          },
+          {
+            "name": "Trofeo Binissalem-Andratx",
+            "date": "22 Jan 2024",
+            "points": 5
+          },
+          {
+            "name": "Trofeo Felanitx-Colònia de Sant Jordi (Ses Salines)",
+            "date": "20 Jan 2024",
+            "points": 85
+          }
+        ]
+      },
+      {
+        "name": "Ricarda Bauernfeind",
+        "id": 153347,
+        "totalPoints": 90,
+        "results": [
+          {
+            "name": "Strade Bianche",
+            "date": "02 Mar 2024",
+            "points": 16
+          },
+          {
+            "name": "UAE Tour Women - Final Result - General Classification",
+            "date": "11 Feb 2024",
+            "points": 68
+          },
+          {
+            "name": "UAE Tour Women - Stage 3 - Stage Classification",
+            "date": "10 Feb 2024",
+            "points": 6
+          }
+        ]
+      },
+      {
+        "name": "Elise Chabbey",
+        "id": 1638135,
+        "totalPoints": 174,
+        "results": [
+          {
+            "name": "Strade Bianche",
+            "date": "02 Mar 2024",
+            "points": 100
+          },
+          {
+            "name": "Omloop Nieuwsblad",
+            "date": "24 Feb 2024",
+            "points": 8
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Final Result - General Classification",
+            "date": "18 Feb 2024",
+            "points": 60
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 2 - Stage Classification",
+            "date": "16 Feb 2024",
+            "points": 6
+          }
+        ]
+      },
+      {
+        "name": "Noemi Rüegg",
+        "id": 347941,
+        "totalPoints": 271,
+        "results": [
+          {
+            "name": "Strade Bianche",
+            "date": "02 Mar 2024",
+            "points": 8
+          },
+          {
+            "name": "Le Samyn des Dames",
+            "date": "27 Feb 2024",
+            "points": 3
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 1 - Stage Classification",
+            "date": "15 Feb 2024",
+            "points": 15
+          },
+          {
+            "name": "Trofeo Binissalem-Andratx",
+            "date": "22 Jan 2024",
+            "points": 85
+          },
+          {
+            "name": "Trofeo Palma Femina",
+            "date": "21 Jan 2024",
+            "points": 35
+          },
+          {
+            "name": "Trofeo Felanitx-Colònia de Sant Jordi (Ses Salines)",
+            "date": "20 Jan 2024",
+            "points": 125
+          }
+        ]
+      },
+      {
+        "name": "Soraya Paladin",
+        "id": 75244,
+        "totalPoints": 88,
+        "results": [
+          {
+            "name": "Omloop Nieuwsblad",
+            "date": "24 Feb 2024",
+            "points": 16
+          },
+          {
+            "name": "Santos Tour Down Under - Final Result - General Classification",
+            "date": "14 Jan 2024",
+            "points": 24
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 2 - Stage Classification",
+            "date": "13 Jan 2024",
+            "points": 40
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 1 - Stage Classification",
+            "date": "12 Jan 2024",
+            "points": 8
+          }
+        ]
+      },
+      {
+        "name": "Alison Jackson",
+        "id": 96860,
+        "totalPoints": 23,
+        "results": [
+          {
+            "name": "Craywinckelhof - Omloop van het Hageland",
+            "date": "25 Feb 2024",
+            "points": 3
+          },
+          {
+            "name": "Trofeo Felanitx-Colònia de Sant Jordi (Ses Salines)",
+            "date": "20 Jan 2024",
+            "points": 20
+          }
+        ]
+      }
+    ]
+  }
+}

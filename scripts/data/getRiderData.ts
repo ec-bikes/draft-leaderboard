@@ -1,5 +1,5 @@
 import type { RawRider } from '../types/RawTeam';
-import type { Rider } from '../../src/types/Rider';
+import type { RiderDetails } from '../../src/types/Rider';
 import { getRiderPcsData } from './getRiderPcsData';
 import { getRiderResults } from './getRiderResults';
 
@@ -8,11 +8,12 @@ import { getRiderResults } from './getRiderResults';
  */
 export async function getRiderData(params: {
   rider: RawRider;
+  year: number;
   momentId: number;
-}): Promise<{ rider: Rider; issues: string[] }> {
+}): Promise<{ rider: RiderDetails; issues: string[] }> {
   const { rider: rawRider } = params;
   const { name } = rawRider;
-  const rider: Rider = { name };
+  const rider: RiderDetails = { name, id: rawRider.id, totalPoints: 0, results: [] };
   const issues: string[] = [];
 
   console.log(`Getting data for ${name}`);
@@ -22,20 +23,19 @@ export async function getRiderData(params: {
   if (typeof riderResults === 'string') {
     issues.push(riderResults);
   } else {
-    Object.assign(rider, riderResults);
+    rider.totalPoints = riderResults.totalPoints;
+    rider.results = riderResults.results;
   }
 
   // Get current year sanctions from PCS, because the only value I can find from the UCI is
   // 12-month rolling, which isn't useful here.
-  const pcsData = await getRiderPcsData({ ...params, year: 2024 });
+  const pcsData = await getRiderPcsData(params);
   if (typeof pcsData === 'string') {
     issues.push(pcsData);
   } else if (pcsData.sanctions) {
     rider.sanctions = pcsData.sanctions;
     console.log(`⚠️ Sanctions for ${name}:`, rider.sanctions);
-    if (rider.totalPoints !== undefined) {
-      rider.totalPoints -= rider.sanctions;
-    }
+    rider.totalPoints -= rider.sanctions;
   }
 
   return { rider, issues };

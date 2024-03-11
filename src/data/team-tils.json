@@ -1,0 +1,273 @@
+{
+  "momentId": 176133,
+  "rankingDate": "5 March 2024",
+  "fetchedDate": "11 Mar 2024, 09:35 GMT",
+  "team": {
+    "owner": "Tils",
+    "name": "Collective Cartel",
+    "totalPoints": 2378,
+    "issues": [],
+    "riders": [
+      {
+        "name": "Demi Vollering",
+        "id": 151466,
+        "totalPoints": 400,
+        "results": [
+          {
+            "name": "Strade Bianche",
+            "date": "02 Mar 2024",
+            "points": 260
+          },
+          {
+            "name": "Omloop Nieuwsblad",
+            "date": "24 Feb 2024",
+            "points": 140
+          }
+        ]
+      },
+      {
+        "name": "Kasia Niewiadoma",
+        "id": 86824,
+        "totalPoints": 527,
+        "results": [
+          {
+            "name": "Strade Bianche",
+            "date": "02 Mar 2024",
+            "points": 220
+          },
+          {
+            "name": "Omloop Nieuwsblad",
+            "date": "24 Feb 2024",
+            "points": 120
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Final Result - General Classification",
+            "date": "18 Feb 2024",
+            "points": 150
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 3 - Stage Classification",
+            "date": "17 Feb 2024",
+            "points": 15
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 2 - Stage Classification",
+            "date": "16 Feb 2024",
+            "points": 10
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 1 - Stage Classification",
+            "date": "15 Feb 2024",
+            "points": 12
+          }
+        ]
+      },
+      {
+        "name": "Juliette Labous",
+        "id": 97498,
+        "totalPoints": 116,
+        "results": [
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Final Result - General Classification",
+            "date": "18 Feb 2024",
+            "points": 100
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 3 - Stage Classification",
+            "date": "17 Feb 2024",
+            "points": 12
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 2 - Stage Classification",
+            "date": "16 Feb 2024",
+            "points": 4
+          }
+        ]
+      },
+      {
+        "name": "Charlotte Kool",
+        "id": 157612,
+        "totalPoints": 40,
+        "results": [
+          {
+            "name": "Le Samyn des Dames",
+            "date": "27 Feb 2024",
+            "points": 35
+          },
+          {
+            "name": "Craywinckelhof - Omloop van het Hageland",
+            "date": "25 Feb 2024",
+            "points": 5
+          }
+        ]
+      },
+      {
+        "name": "Riejanne Markus",
+        "id": 86854,
+        "totalPoints": 125,
+        "results": [
+          {
+            "name": "Strade Bianche",
+            "date": "02 Mar 2024",
+            "points": 120
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Final Result - General Classification",
+            "date": "18 Feb 2024",
+            "points": 5
+          }
+        ]
+      },
+      {
+        "name": "Sarah Gigante",
+        "id": 1557078,
+        "totalPoints": 521,
+        "results": [
+          {
+            "name": "Deakin University Elite Women’s Road Race",
+            "date": "27 Jan 2024",
+            "points": 56
+          },
+          {
+            "name": "Deakin University Elite Women’s Road Race - WWT leader's jersey",
+            "date": "27 Jan 2024",
+            "points": 6
+          },
+          {
+            "name": "Santos Tour Down Under - Final Result - General Classification",
+            "date": "14 Jan 2024",
+            "points": 400
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 3 - Stage Classification",
+            "date": "14 Jan 2024",
+            "points": 50
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 2 - Stage Classification",
+            "date": "13 Jan 2024",
+            "points": 8
+          },
+          {
+            "name": "National Road Championships - Australia - Women Elite - Individual Time Trial",
+            "date": "04 Jan 2024",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "name": "Ella Wyllie",
+        "id": 220428,
+        "totalPoints": 308,
+        "results": [
+          {
+            "name": "National Road Championships - New Zealand - Women Elite - Individual Road Race",
+            "date": "09 Feb 2024",
+            "points": 100
+          },
+          {
+            "name": "National Road Championships - New Zealand - Women Under 23 - Individual Time Trial",
+            "date": "08 Feb 2024",
+            "points": 25
+          },
+          {
+            "name": "Deakin University Elite Women’s Road Race",
+            "date": "27 Jan 2024",
+            "points": 48
+          },
+          {
+            "name": "Santos Tour Down Under - Final Result - General Classification",
+            "date": "14 Jan 2024",
+            "points": 120
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 3 - Stage Classification",
+            "date": "14 Jan 2024",
+            "points": 15
+          }
+        ]
+      },
+      {
+        "name": "Marta Lach",
+        "id": 96399,
+        "totalPoints": 98,
+        "results": [
+          {
+            "name": "Trofeo Oro in Euro - Women's Bike Race",
+            "date": "03 Mar 2024",
+            "points": 15
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 1 - Stage Classification",
+            "date": "15 Feb 2024",
+            "points": 10
+          },
+          {
+            "name": "Vuelta CV Feminas",
+            "date": "04 Feb 2024",
+            "points": 5
+          },
+          {
+            "name": "Trofeo Binissalem-Andratx",
+            "date": "22 Jan 2024",
+            "points": 3
+          },
+          {
+            "name": "Trofeo Palma Femina",
+            "date": "21 Jan 2024",
+            "points": 60
+          },
+          {
+            "name": "Trofeo Felanitx-Colònia de Sant Jordi (Ses Salines)",
+            "date": "20 Jan 2024",
+            "points": 5
+          }
+        ]
+      },
+      {
+        "name": "Sofia Bertizzolo",
+        "id": 106607,
+        "totalPoints": 100,
+        "results": [
+          {
+            "name": "Deakin University Elite Women’s Road Race",
+            "date": "27 Jan 2024",
+            "points": 24
+          },
+          {
+            "name": "Santos Tour Down Under - Final Result - General Classification",
+            "date": "14 Jan 2024",
+            "points": 16
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 2 - Stage Classification",
+            "date": "13 Jan 2024",
+            "points": 30
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 1 - Stage Classification",
+            "date": "12 Jan 2024",
+            "points": 30
+          }
+        ]
+      },
+      {
+        "name": "Vittoria Guazzini",
+        "id": 153391,
+        "totalPoints": 143,
+        "results": [
+          {
+            "name": "Le Samyn des Dames",
+            "date": "27 Feb 2024",
+            "points": 125
+          },
+          {
+            "name": "UAE Tour Women - Stage 2 - Stage Classification",
+            "date": "09 Feb 2024",
+            "points": 18
+          }
+        ]
+      }
+    ]
+  }
+}

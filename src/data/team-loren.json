@@ -1,0 +1,267 @@
+{
+  "momentId": 176133,
+  "rankingDate": "5 March 2024",
+  "fetchedDate": "11 Mar 2024, 09:35 GMT",
+  "team": {
+    "owner": "Loren",
+    "name": "Super Lekker Pro Potato Women's Cycling Team",
+    "totalPoints": 2129,
+    "issues": [],
+    "riders": [
+      {
+        "name": "Marlen Reusser",
+        "id": 1589305,
+        "totalPoints": 245,
+        "results": [
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Final Result - General Classification",
+            "date": "18 Feb 2024",
+            "points": 200
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 3 - Stage Classification",
+            "date": "17 Feb 2024",
+            "points": 10
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 3 - Stage General Classification",
+            "date": "17 Feb 2024",
+            "points": 5
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 2 - Stage Classification",
+            "date": "16 Feb 2024",
+            "points": 25
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 2 - Stage General Classification",
+            "date": "16 Feb 2024",
+            "points": 5
+          }
+        ]
+      },
+      {
+        "name": "Elisa Longo Borghini",
+        "id": 76149,
+        "totalPoints": 840,
+        "results": [
+          {
+            "name": "Trofeo Oro in Euro - Women's Bike Race",
+            "date": "03 Mar 2024",
+            "points": 125
+          },
+          {
+            "name": "Strade Bianche",
+            "date": "02 Mar 2024",
+            "points": 320
+          },
+          {
+            "name": "Omloop Nieuwsblad",
+            "date": "24 Feb 2024",
+            "points": 260
+          },
+          {
+            "name": "UAE Tour Women - Final Result - General Classification",
+            "date": "11 Feb 2024",
+            "points": 120
+          },
+          {
+            "name": "UAE Tour Women - Stage 3 - Stage Classification",
+            "date": "10 Feb 2024",
+            "points": 15
+          }
+        ]
+      },
+      {
+        "name": "Elisa Balsamo",
+        "id": 101826,
+        "totalPoints": 133,
+        "results": [
+          {
+            "name": "Craywinckelhof - Omloop van het Hageland",
+            "date": "25 Feb 2024",
+            "points": 10
+          },
+          {
+            "name": "Omloop Nieuwsblad",
+            "date": "24 Feb 2024",
+            "points": 68
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 4 - Stage Classification",
+            "date": "18 Feb 2024",
+            "points": 25
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 1 - Stage Classification",
+            "date": "15 Feb 2024",
+            "points": 25
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 1 - Stage General Classification",
+            "date": "15 Feb 2024",
+            "points": 5
+          }
+        ]
+      },
+      {
+        "name": "Maike van der Duin",
+        "id": 226974,
+        "totalPoints": 0,
+        "results": []
+      },
+      {
+        "name": "Grace Brown",
+        "id": 143292,
+        "totalPoints": 280,
+        "results": [
+          {
+            "name": "Deakin University Elite Women’s Road Race",
+            "date": "27 Jan 2024",
+            "points": 180
+          },
+          {
+            "name": "National Road Championships - Australia - Women Elite - Individual Road Race",
+            "date": "07 Jan 2024",
+            "points": 50
+          },
+          {
+            "name": "National Road Championships - Australia - Women Elite - Individual Time Trial",
+            "date": "04 Jan 2024",
+            "points": 50
+          }
+        ]
+      },
+      {
+        "name": "Emma Norsgaard",
+        "id": 151974,
+        "totalPoints": 111,
+        "results": [
+          {
+            "name": "Le Samyn des Dames",
+            "date": "27 Feb 2024",
+            "points": 5
+          },
+          {
+            "name": "Craywinckelhof - Omloop van het Hageland",
+            "date": "25 Feb 2024",
+            "points": 50
+          },
+          {
+            "name": "Omloop Nieuwsblad",
+            "date": "24 Feb 2024",
+            "points": 56
+          }
+        ]
+      },
+      {
+        "name": "Evita Muzic",
+        "id": 109412,
+        "totalPoints": 145,
+        "results": [
+          {
+            "name": "Strade Bianche",
+            "date": "02 Mar 2024",
+            "points": 68
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Final Result - General Classification",
+            "date": "18 Feb 2024",
+            "points": 30
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 2 - Stage Classification",
+            "date": "16 Feb 2024",
+            "points": 15
+          },
+          {
+            "name": "Deakin University Elite Women’s Road Race",
+            "date": "27 Jan 2024",
+            "points": 16
+          },
+          {
+            "name": "Santos Tour Down Under - Final Result - General Classification",
+            "date": "14 Jan 2024",
+            "points": 16
+          }
+        ]
+      },
+      {
+        "name": "Chiara Consonni",
+        "id": 156600,
+        "totalPoints": 173,
+        "results": [
+          {
+            "name": "Le Samyn des Dames",
+            "date": "27 Feb 2024",
+            "points": 3
+          },
+          {
+            "name": "Craywinckelhof - Omloop van het Hageland",
+            "date": "25 Feb 2024",
+            "points": 5
+          },
+          {
+            "name": "UAE Tour Women - Stage 4 - Stage Classification",
+            "date": "11 Feb 2024",
+            "points": 25
+          },
+          {
+            "name": "UAE Tour Women - Stage 2 - Stage Classification",
+            "date": "09 Feb 2024",
+            "points": 40
+          },
+          {
+            "name": "UAE Tour Women - Stage 1 - Stage Classification",
+            "date": "08 Feb 2024",
+            "points": 30
+          },
+          {
+            "name": "Trofeo Felanitx-Colònia de Sant Jordi (Ses Salines)",
+            "date": "20 Jan 2024",
+            "points": 70
+          }
+        ]
+      },
+      {
+        "name": "Daria Pikulik",
+        "id": 99885,
+        "totalPoints": 36,
+        "results": [
+          {
+            "name": "UAE Tour Women - Stage 4 - Stage Classification",
+            "date": "11 Feb 2024",
+            "points": 30
+          },
+          {
+            "name": "UAE Tour Women - Stage 2 - Stage Classification",
+            "date": "09 Feb 2024",
+            "points": 6
+          }
+        ]
+      },
+      {
+        "name": "Niamh Fisher-Black",
+        "id": 217072,
+        "totalPoints": 166,
+        "results": [
+          {
+            "name": "Strade Bianche",
+            "date": "02 Mar 2024",
+            "points": 16
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Final Result - General Classification",
+            "date": "18 Feb 2024",
+            "points": 125
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 3 - Stage Classification",
+            "date": "17 Feb 2024",
+            "points": 25
+          }
+        ]
+      }
+    ]
+  }
+}

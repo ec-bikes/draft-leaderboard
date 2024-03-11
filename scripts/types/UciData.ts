@@ -1,3 +1,4 @@
+/** Response from UCI APIs taking POST requests with paging */
 export interface UciApiResult<T> {
   data: T[];
   total: number;
@@ -24,10 +25,9 @@ const eventData = {
   'Stage General Classification': 21,
 } as const;
 
-// TODO
-// U23 rider
-// rider with lower-level and non-UCI races
-// do those points count?
+// For riders with U23 or other discipline results that don't give UCI women's elite road points,
+// those results seem to either not be returned or be return with 0 points based on the
+// ranking ID and/or discipline ID.
 export interface UciRiderResult {
   ResultId: number;
   ClassId: (typeof classData)[this['ClassCode']]['id'];
@@ -125,4 +125,16 @@ export interface UciRiderRanking {
   Position: string;
   /** team display name */
   DisplayTeam: string | null;
+}
+
+export interface UciRankingMoment {
+  /** momentId value, or 0 for most recent */
+  Id: number;
+  /** Date (DD/MM/YYYY) or "Most Recent Ranking" */
+  Name: string;
+  /** Seems same as Name */
+  DisplayText: string;
+  Code: null;
+  Icon: null;
+  Sequence: 0;
 }

@@ -1,32 +1,14 @@
-import fetch from 'node-fetch';
-import type { UciApiResult, UciRiderResult, UciRiderRanking } from '../types/UciData';
+import fetch, { type RequestInit } from 'node-fetch';
+import type {
+  UciApiResult,
+  UciRiderResult,
+  UciRiderRanking,
+  UciRankingMoment,
+} from '../types/UciData';
+import { formatQueryParams, womensRankingParams } from '../../src/data/uciUrls';
 
-// main road results page
-// https://www.uci.org/discipline/road/6TBjsDD8902tud440iv1Cu?tab=rankings
-
-// women's rider page
-// https://dataride.uci.ch/iframe/RiderRankingDetails/151466?rankingId=32&groupId=2&momentId=175727&baseRankingTypeId=1&disciplineSeasonId=432&disciplineId=10&categoryId=23&raceTypeId=0&countryId=0&teamId=0
-
-// women's season rankings page
-// https://dataride.uci.ch/iframe/RankingDetails/32?disciplineId=10&groupId=2&momentId=175727&disciplineSeasonId=432&rankingTypeId=1&categoryId=23&raceTypeId=0
-/*
-  get the list of riders and IDs from the page
-  copy(
-    [...document.querySelectorAll('.uci-table-wrapper > table > tbody > tr')]
-      .map((r) => r.querySelector('a'))
-      .filter(Boolean)
-      .map((a) => `${a.href.match(/RiderRankingDetails\/(\d+)/)?.[1]} ${a.textContent.trim()}`)
-      .join('\n'),
-  );
-*/
-
-const rankingId = 32;
-const rankingTypeId = 1;
-const disciplineId = 10;
-const groupId = 2;
-const disciplineSeasonId = 432; // 2024?
-const categoryId = 23; // women elite; 22 = men elite
-const raceTypeId = 0;
+const { groupId, disciplineId, disciplineSeasonId, categoryId, rankingId, rankingTypeId } =
+  womensRankingParams;
 
 const pageSize = 40;
 
@@ -36,49 +18,92 @@ const pageSize = 40;
  */
 async function doUciRequest<TResult>(params: {
   url: string;
-  postData: Record<string, string | number>;
+  /** Body data for POST request. Assumes a GET request if not set. */
+  postData?: Record<string, string | number>;
+  /** Limit on number of items to fetch (default infinity) */
   limit?: number;
+  /** If true, assume the response is a complete array of items (not paged) */
+  isPlainArray?: boolean;
+  isRetry?: boolean;
 }): Promise<TResult[] | string> {
-  const { url, postData, limit = Infinity } = params;
+  const { url, postData, limit = Infinity, isPlainArray, isRetry } = params;
   let data: TResult[] = [];
 
+  // Get multiple pages if needed, up to the limit, or until all data is fetched.
+  // (the loop includes some breaks internally)
   for (let page = 1; data.length < limit; page++) {
-    const body = new URLSearchParams({
-      ...postData,
-      take: pageSize,
-      skip: (page - 1) * pageSize,
-      page,
-      pageSize,
-      // the types don't accept numbers, but it works fine
-    } as unknown as Record<string, string>).toString();
-
-    try {
-      const result = await fetch(url, {
+    let requestInit: RequestInit;
+    if (postData) {
+      requestInit = {
         method: 'POST',
         headers: { 'content-type': 'application/x-www-form-urlencoded' },
-        body,
-      });
+        body: formatQueryParams({
+          ...postData,
+          take: pageSize,
+          skip: (page - 1) * pageSize,
+          page,
+          pageSize,
+        }),
+      };
+    } else {
+      requestInit = { method: 'GET' };
+    }
+    // time out after 10s
+    requestInit.signal = AbortSignal.timeout(10000);
+    const requestDesc = `${requestInit.method} ${url} ${requestInit.body || ''}`;
+
+    try {
+      const result = await fetch(url, requestInit);
       if (!result.ok) {
-        return `returned ${result.status} ${result.statusText}`;
+        return `Got ${result.status} ${result.statusText} for ${requestDesc}`;
       }
 
       const text = await result.text();
-      const json = JSON.parse(text) as UciApiResult<TResult>;
-      data = data.concat(json.data);
+      const json = JSON.parse(text);
+      if (isPlainArray) {
+        // for a plain array response, there's just one page, so stop now
+        data = json;
+        break;
+      }
 
-      if (data.length >= json.total) {
+      // add this page's data and stop if there's no more
+      const pageData = json as UciApiResult<TResult>;
+      data = data.concat(pageData.data);
+      if (data.length >= pageData.total) {
         break;
       }
     } catch (err) {
-      const requestDesc = `POST ${url} ${body}`;
+      let message: string;
       if (err instanceof SyntaxError) {
-        return `${requestDesc} returned non-JSON response (probably an error page)`;
+        message = `Got a non-JSON response (probably an error page) from ${requestDesc}`;
+      } else {
+        message = `Error while requesting ${requestDesc} - ${(err as Error).message || err}`;
       }
-      return `Error while requesting ${requestDesc} - ${(err as Error).message || err}`;
+
+      if (isRetry) {
+        return message;
+      }
+      console.warn(`⚠️ First fetch attempt failed (will retry): ${message}`);
+      return doUciRequest({ ...params, isRetry: true });
     }
   }
 
   return data;
+}
+
+/**
+ * Get UCI ranking moments, or an error string.
+ */
+export function getUciRankingMoments(): Promise<UciRankingMoment[] | string> {
+  // https://dataride.uci.ch/iframe/GetRankingMoments/?disciplineId=10&disciplineSeasonId=432&rankingId=32
+  return doUciRequest({
+    url: `https://dataride.uci.ch/iframe/GetRankingMoments/?${formatQueryParams({
+      disciplineId,
+      disciplineSeasonId,
+      rankingId,
+    })}`,
+    isPlainArray: true,
+  });
 }
 
 /**
@@ -99,9 +124,9 @@ export function getUciRiderResults(params: {
       disciplineId,
       disciplineSeasonId,
       categoryId,
-      raceTypeId,
       rankingId,
       baseRankingTypeId: rankingTypeId,
+      raceTypeId: 0,
       countryId: 0,
       teamId: 0,
       // the API seems to ignore these limits and return everything
