@@ -34,6 +34,7 @@
     "tsx": "^4.7.1",
     "typescript": "^5.2.2",
     "vike": "^0.4.165",
+    "vike-react": "^0.4.6",
     "vite": "^5.1.4"
   },
   "packageManager": "yarn@4.1.1"

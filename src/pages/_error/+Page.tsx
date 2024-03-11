@@ -1,8 +1,6 @@
-export { Page };
+import { usePageContext } from 'vike-react/usePageContext';
 
-import { usePageContext } from '../../renderer/usePageContext';
-
-function Page() {
+export function Page() {
   const pageContext = usePageContext();
   let { abortReason } = pageContext;
   if (!abortReason) {
@@ -10,7 +8,7 @@ function Page() {
   }
   return (
     <Center>
-      <p style={{ fontSize: '1.3em' }}>{abortReason}</p>
+      <p style={{ fontSize: '1.3em' }}>{abortReason as string}</p>
     </Center>
   );
 }

@@ -1,8 +1,8 @@
 import { Link, Stack } from '@mui/material';
+import { usePageContext } from 'vike-react/usePageContext';
 import { TeamCards } from '../../components/TeamCards/TeamCards';
 import type { TeamsSummaryJson } from '../../types/Team';
 import { getUciSeasonRankingUrl } from '../../data/uciUrls';
-import { useData } from '../../renderer/useData.js';
 
 export const title = 'Wheel Talk draft rankings';
 
@@ -13,7 +13,8 @@ export function data(): Promise<TeamsSummaryJson> {
 }
 
 export function Page() {
-  const teamData = useData<TeamsSummaryJson>();
+  const teamData = usePageContext().data as TeamsSummaryJson;
+
   return (
     <Stack gap={4} useFlexGap alignItems="center">
       <h1 style={{ margin: 0, textAlign: 'center', fontSize: '3.2rem', lineHeight: '1.1' }}>
