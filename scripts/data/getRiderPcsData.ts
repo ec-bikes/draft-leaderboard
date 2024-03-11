@@ -1,7 +1,7 @@
 import fetch from 'node-fetch';
 import { parse, type HTMLElement as BasicHTMLElement } from 'node-html-parser';
-import type { RawRider } from '../types/RawTeam';
-import { getPcsUrl } from '../../src/data/getPcsUrl';
+import type { RawRider } from '../types/RawTeam.js';
+import { getPcsUrl } from '../../src/data/getPcsUrl.js';
 
 /**
  * Get data from a rider's ProCyclingStats page for a given year.

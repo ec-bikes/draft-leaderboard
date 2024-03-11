@@ -1,7 +1,7 @@
-import type { RawRider } from '../types/RawTeam';
-import type { RiderDetails } from '../../src/types/Rider';
-import { getRiderPcsData } from './getRiderPcsData';
-import { getRiderResults } from './getRiderResults';
+import type { RawRider } from '../types/RawTeam.js';
+import type { RiderDetails } from '../../src/types/Rider.js';
+import { getRiderPcsData } from './getRiderPcsData.js';
+import { getRiderResults } from './getRiderResults.js';
 
 /**
  * Get data for a rider, and a list of any possible issues encountered.

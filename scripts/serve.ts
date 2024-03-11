@@ -1,4 +1,4 @@
-import { CorsProxyServer } from './corsServer/CorsProxyServer';
+import { CorsProxyServer } from './corsServer/CorsProxyServer.js';
 
 const port = 5678;
 const host = '127.0.0.1';

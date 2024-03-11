@@ -1,7 +1,7 @@
 import type http from 'http';
 import type https from 'https';
 import url from 'url';
-import type { ProxyParams } from './types';
+import type { ProxyParams } from './types.js';
 
 const upgradeHeader = /(^|,)\s*upgrade\s*($|,)/i;
 const isSSL = /^https|wss/;

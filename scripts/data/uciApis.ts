@@ -4,8 +4,8 @@ import type {
   UciRiderResult,
   UciRiderRanking,
   UciRankingMoment,
-} from '../types/UciData';
-import { formatQueryParams, womensRankingParams } from '../../src/data/uciUrls';
+} from '../types/UciData.js';
+import { formatQueryParams, womensRankingParams } from '../../src/data/uciUrls.js';
 
 const { groupId, disciplineId, disciplineSeasonId, categoryId, rankingId, rankingTypeId } =
   womensRankingParams;

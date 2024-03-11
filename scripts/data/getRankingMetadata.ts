@@ -1,5 +1,5 @@
-import type { TeamJsonMetadata } from '../../src/types/Team';
-import { getUciRankingMoments } from './uciApis';
+import type { TeamJsonMetadata } from '../../src/types/Team.js';
+import { getUciRankingMoments } from './uciApis.js';
 
 /**
  * Get the `momentId` value used by UCI APIs, as well as the ranking date corresponding to that ID,

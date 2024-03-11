@@ -1,6 +1,6 @@
-import type { TeamDetails } from '../../src/types/Team';
-import type { RawTeam } from '../types/RawTeam';
-import { getRiderData } from './getRiderData';
+import type { TeamDetails } from '../../src/types/Team.js';
+import type { RawTeam } from '../types/RawTeam.js';
+import { getRiderData } from './getRiderData.js';
 
 export async function getTeamData(params: {
   team: RawTeam;

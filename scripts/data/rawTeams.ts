@@ -1,4 +1,4 @@
-import type { RawTeam } from '../types/RawTeam';
+import type { RawTeam } from '../types/RawTeam.js';
 
 /**
  * Team names, owners, and riders.

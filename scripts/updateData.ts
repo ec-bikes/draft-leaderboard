@@ -1,8 +1,8 @@
 import fs from 'fs';
-import { rawTeams } from './data/rawTeams';
-import { getTeamData } from './data/getTeamData';
-import type { Team, TeamDetailsJson, TeamsSummaryJson } from '../src/types/Team';
-import { getRankingMetadata } from './data/getRankingMetadata';
+import { rawTeams } from './data/rawTeams.js';
+import { getTeamData } from './data/getTeamData.js';
+import type { Team, TeamDetailsJson, TeamsSummaryJson } from '../src/types/Team.js';
+import { getRankingMetadata } from './data/getRankingMetadata.js';
 
 const year = 2024;
 

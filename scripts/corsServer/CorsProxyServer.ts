@@ -1,4 +1,5 @@
 // Modified and greatly simplified from http-proxy and cors-anywhere.
+// And turned out to be completely unnecessary.
 // https://github.com/http-party/node-http-proxy
 // https://github.com/Rob--W/cors-anywhere/
 import EventEmitter from 'events';
@@ -12,8 +13,8 @@ import {
   prepareResponse,
   withCORS,
   parseURL,
-} from './util';
-import type { ProxyEvents, ProxyParams } from './types';
+} from './util.js';
+import type { ProxyEvents, ProxyParams } from './types.js';
 
 type CorsRequest = ProxyParams['req'] & {
   requestState: {

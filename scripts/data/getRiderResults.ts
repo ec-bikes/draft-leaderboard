@@ -1,6 +1,6 @@
-import type { RawRider } from '../types/RawTeam';
-import type { RaceResult, RiderDetails } from '../../src/types/Rider';
-import { getUciRiderResults } from './uciApis';
+import type { RawRider } from '../types/RawTeam.js';
+import type { RaceResult, RiderDetails } from '../../src/types/Rider.js';
+import { getUciRiderResults } from './uciApis.js';
 
 /**
  * Get race results for a rider from the UCI API.
