@@ -6,7 +6,7 @@ import type { RawTeam } from '../types/RawTeam';
  */
 export const rawTeams: RawTeam[] = [
   {
-    owner: 'Matt',
+    owner: 'Matt de Neef',
     name: 'Amateur Pro Cycling',
     riders: [
       { name: 'Lotte Kopecky', id: 73504 },
@@ -22,7 +22,7 @@ export const rawTeams: RawTeam[] = [
     ],
   },
   {
-    owner: 'Tils',
+    owner: 'Tils Raynolds',
     name: 'Collective Cartel',
     riders: [
       { name: 'Demi Vollering', id: 151466 },
@@ -43,7 +43,7 @@ export const rawTeams: RawTeam[] = [
     ],
   },
   {
-    owner: 'Abby',
+    owner: 'Abby Mickey',
     name: 'Death By A Thousand Attacks',
     riders: [
       { name: 'Marianne Vos', id: 31144 },
@@ -59,7 +59,7 @@ export const rawTeams: RawTeam[] = [
     ],
   },
   {
-    owner: 'Gracie',
+    owner: 'Gracie Elvin',
     name: 'RBF Spokeswoman Racing',
     riders: [
       { name: 'Lorena Wiebes', id: 141733 },
@@ -80,7 +80,7 @@ export const rawTeams: RawTeam[] = [
     ],
   },
   {
-    owner: 'Loren',
+    owner: 'Loren Rowney',
     name: "Super Lekker Pro Potato Women's Cycling Team",
     riders: [
       { name: 'Marlen Reusser', id: 1589305 },
