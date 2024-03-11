@@ -1,4 +1,4 @@
-name: Update rankings
+name: Update site
 
 on:
   push:
