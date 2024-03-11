@@ -1,0 +1,41 @@
+name: Update rankings
+
+on:
+  # Tuesdays at 12pm UTC (not sure when the update is)
+  # https://crontab-generator.org/
+  schedule:
+    - cron: '* 12 * * 2'
+  workflow_dispatch:
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: 'pages'
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+
+      - name: Install dependencies
+        run: yarn
+
+      - name: Update data
+        run: yarn update-data
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'EC'
+          git config --global user.email '161985722+ec-bikes@users.noreply.github.com'
+          git add src/data
+          git commit -m "Update data"
+          git push origin main
