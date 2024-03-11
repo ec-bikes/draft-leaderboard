@@ -1,4 +1,4 @@
-import type { Rider, RiderDetails } from './Rider';
+import type { Rider, RiderDetails } from './Rider.js';
 
 /** Team info without individual race results */
 export interface Team {
