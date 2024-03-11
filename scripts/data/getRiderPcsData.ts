@@ -1,6 +1,7 @@
 import fetch from 'node-fetch';
 import { parse, type HTMLElement as BasicHTMLElement } from 'node-html-parser';
 import type { RawRider } from '../types/RawTeam';
+import { getPcsUrl } from '../../src/data/getPcsUrl';
 
 /**
  * Get data from a rider's ProCyclingStats page for a given year.
@@ -16,12 +17,9 @@ export async function getRiderPcsData(params: {
   year: number;
 }): Promise<{ uciPoints: number; sanctions: number } | string> {
   const { rider, year } = params;
-  const { name } = rider;
-  // By default assume the URL is the lowercase name with dashes
-  const pcsName = rider.pcsName || name.toLowerCase().replaceAll(' ', '-');
+  const pcsUrl = getPcsUrl({ name: rider.name, year });
   const errorStr = `Couldn't get ${year} PCS page data`;
 
-  const pcsUrl = `https://www.procyclingstats.com/rider/${pcsName}/${year}`;
   let root: BasicHTMLElement;
   try {
     const result = await fetch(pcsUrl);
@@ -43,7 +41,7 @@ export async function getRiderPcsData(params: {
   const resultsSum = root.querySelector('.rdrResultsSum');
 
   if (!resultsTable || !resultsSum) {
-    const nameParts = name.toLowerCase().split(' ');
+    const nameParts = rider.name.toLowerCase().split(' ');
     const isNotFound =
       h1Text === 'Page not found' || !nameParts.some((word) => h1Text.toLowerCase().includes(word));
     if (isNotFound) {

@@ -22,7 +22,8 @@
       "runtimeExecutable": "${workspaceFolder}/node_modules/.bin/tsx",
       "console": "integratedTerminal",
       "internalConsoleOptions": "neverOpen",
-      "skipFiles": ["!<node_internals>/**"]
+      "outputCapture": "std"
+      // "skipFiles": ["!<node_internals>/**", "**/internal/async_hooks"]
     }
   ]
 }

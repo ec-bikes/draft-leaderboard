@@ -5,8 +5,6 @@ export interface RawRider {
   id: number;
   /** Alternative name to use in the UCI search API */
   searchName?: string;
-  /** Alternative name to use in PCS URLs (`lowercase-dashed` format) */
-  pcsName?: string;
 }
 
 export interface RawTeam {

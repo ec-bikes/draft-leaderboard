@@ -20,7 +20,7 @@ export function formatQueryParams(params: Record<string, string | number>): stri
 }
 
 /** Get the women's season ranking page URL */
-export function getSeasonRankingUrl(params: { momentId: number }) {
+export function getUciSeasonRankingUrl(params: { momentId: number }) {
   // https://dataride.uci.ch/iframe/RankingDetails/32?disciplineId=10&groupId=2&momentId=175727&disciplineSeasonId=432&rankingTypeId=1&categoryId=23&raceTypeId=0
   return `https://dataride.uci.ch/iframe/RankingDetails/${womensRankingParams.rankingId}?${formatQueryParams(
     {
@@ -46,7 +46,7 @@ export function getSeasonRankingUrl(params: { momentId: number }) {
 }
 
 /** Get a women's rider page URL */
-export function getRiderUrl(params: { momentId: number; individualId: number }) {
+export function getUciRiderUrl(params: { momentId: number; individualId: number }) {
   const { individualId, momentId } = params;
   // https://dataride.uci.ch/iframe/RiderRankingDetails/151466?rankingId=32&groupId=2&momentId=175727&baseRankingTypeId=1&disciplineSeasonId=432&disciplineId=10&categoryId=23&raceTypeId=0&countryId=0&teamId=0
   return `https://dataride.uci.ch/iframe/RiderRankingDetails/${individualId}?${formatQueryParams({

@@ -1,30 +1,50 @@
-import { useState } from 'react';
-import reactLogo from './assets/react.svg';
-import viteLogo from '/vite.svg';
-import './App.css';
+import { Container, Link, Stack } from '@mui/material';
+import { TeamCards } from './components/TeamCards/TeamCards';
+import _teamData from './data/teams.json';
+import type { TeamsSummaryJson } from './types/Team';
+import { getUciSeasonRankingUrl } from './data/uciUrls';
+import { Box } from '@mui/system';
+
+const { rankingDate, fetchedDate, momentId }: TeamsSummaryJson = _teamData;
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
-    <>
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>count is {count}</button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">Click on the Vite and React logos to learn more</p>
-    </>
+    <Container>
+      <Box
+        marginLeft="auto"
+        marginRight="auto"
+        marginTop={{ xs: 2, sm: 4, md: 8 }}
+        marginBottom={{ xs: 2, sm: 4 }}
+      >
+        <Stack gap={4} useFlexGap alignItems="center">
+          <h1 style={{ margin: 0, textAlign: 'center', fontSize: '3.2rem', lineHeight: '1.1' }}>
+            Wheel Talk draft rankings
+          </h1>
+          <div style={{ textAlign: 'center' }}>
+            <p>
+              Teams from Escape Collective’s{' '}
+              <Link
+                target="_blank"
+                href="https://escapecollective.com/the-wheel-talk-podcast-2024-draft/"
+              >
+                Wheel Talk Podcast 2024 Draft
+              </Link>
+            </p>
+            <p>
+              Data from{' '}
+              <Link target="_blank" href={getUciSeasonRankingUrl({ momentId })}>
+                UCI rankings
+              </Link>{' '}
+              as of <strong>{rankingDate}</strong>{' '}
+              <span style={{ fontSize: '0.8rem' }}>(retrieved at {fetchedDate})</span>
+            </p>
+          </div>
+          {/* <a href="https://escapecollective.com/behold-our-mens-worldtour-draft-2024/">Men's teams</a> */}
+
+          <TeamCards />
+        </Stack>
+      </Box>
+    </Container>
   );
 }
 
