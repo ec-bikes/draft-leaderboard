@@ -27,7 +27,9 @@ jobs:
         uses: actions/setup-node@v4
 
       - name: Install dependencies
-        run: yarn
+        run: |
+          corepack enable
+          yarn
 
       - name: Update data
         run: yarn update-data
