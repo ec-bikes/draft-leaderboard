@@ -9,7 +9,7 @@ import { rawTeamsMen } from './data/rawTeamsMen.js';
 
 const year = 2024;
 const groups: Record<Group, RawTeam[]> = {
-  // women: rawTeamsWomen,
+  women: rawTeamsWomen,
   'men-wt': rawTeamsMen,
 };
 

@@ -45,7 +45,7 @@ function Section(props: {
         <span style={{ fontSize: '0.8rem' }}>(retrieved at {teamData.fetchedDate}).</span>
       </div>
 
-      <TeamCards teamData={teamData} />
+      <TeamCards teamData={teamData} group={group} />
     </>
   );
 }
