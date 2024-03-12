@@ -42,7 +42,7 @@ function Section(props: {
           UCI rankings
         </Link>{' '}
         as of <strong>{teamData.rankingDate}</strong>{' '}
-        <span style={{ fontSize: '0.8rem' }}>(retrieved at {teamData.fetchedDate}).</span>
+        <span style={{ fontSize: '0.8rem' }}>(retrieved {teamData.fetchedDate}).</span>
       </div>
 
       <TeamCards teamData={teamData} group={group} />
