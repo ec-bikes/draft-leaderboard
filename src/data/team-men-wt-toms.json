@@ -1,0 +1,308 @@
+{
+  "momentId": 176133,
+  "rankingDate": "5 March 2024",
+  "fetchedDate": "11 Mar 2024, 19:51 GMT",
+  "team": {
+    "owner": "Toms Skujiņš",
+    "name": "EF Education-EasyPost p/b Haribo",
+    "totalPoints": 1844,
+    "issues": [],
+    "riders": [
+      {
+        "name": "Adam Yates",
+        "id": 70590,
+        "totalPoints": 220,
+        "results": [
+          {
+            "name": "Tour of Oman - Final Result - General Classification",
+            "date": "14 Feb 2024",
+            "points": 200
+          },
+          {
+            "name": "Tour of Oman - Stage 5 - Stage Classification",
+            "date": "14 Feb 2024",
+            "points": 20
+          }
+        ]
+      },
+      {
+        "name": "Mattias Skjelmose",
+        "id": 365033,
+        "totalPoints": 210,
+        "results": [
+          {
+            "name": "Faun Drome Classic",
+            "date": "25 Feb 2024",
+            "points": 85
+          },
+          {
+            "name": "Faun-Ardèche Classic",
+            "date": "24 Feb 2024",
+            "points": 125
+          }
+        ]
+      },
+      {
+        "name": "Valentin Madouas",
+        "id": 91637,
+        "totalPoints": 62,
+        "results": [
+          {
+            "name": "Strade Bianche",
+            "date": "02 Mar 2024",
+            "points": 28
+          },
+          {
+            "name": "Faun Drome Classic",
+            "date": "25 Feb 2024",
+            "points": 3
+          },
+          {
+            "name": "Faun-Ardèche Classic",
+            "date": "24 Feb 2024",
+            "points": 3
+          },
+          {
+            "name": "Volta ao Algarve em Bicicleta - Final Result - General Classification",
+            "date": "18 Feb 2024",
+            "points": 3
+          },
+          {
+            "name": "Vuelta Ciclista a la Region de Murcia \"Costa Calida\"",
+            "date": "10 Feb 2024",
+            "points": 50
+          }
+        ],
+        "sanctions": 25
+      },
+      {
+        "name": "João Almeida",
+        "id": 107840,
+        "totalPoints": 0,
+        "results": []
+      },
+      {
+        "name": "Kévin Vauquelin",
+        "id": 1745291,
+        "totalPoints": 191,
+        "results": [
+          {
+            "name": "Strade Bianche",
+            "date": "02 Mar 2024",
+            "points": 16
+          },
+          {
+            "name": "Tour des Alpes-Maritimes - Final Result - General Classification",
+            "date": "18 Feb 2024",
+            "points": 3
+          },
+          {
+            "name": "Etoile de Bessèges - Tour du Gard - Final Result - General Classification",
+            "date": "04 Feb 2024",
+            "points": 85
+          },
+          {
+            "name": "Etoile de Bessèges - Tour du Gard - Stage 5 - Stage Classification",
+            "date": "04 Feb 2024",
+            "points": 14
+          },
+          {
+            "name": "Etoile de Bessèges - Tour du Gard - Stage 2 - Stage Classification",
+            "date": "01 Feb 2024",
+            "points": 3
+          },
+          {
+            "name": "Grand Prix Cycliste de Marseille La Marseillaise",
+            "date": "28 Jan 2024",
+            "points": 70
+          }
+        ]
+      },
+      {
+        "name": "Brandon McNulty",
+        "id": 150923,
+        "totalPoints": 447,
+        "results": [
+          {
+            "name": "UAE Tour - Final Result - General Classification",
+            "date": "25 Feb 2024",
+            "points": 1
+          },
+          {
+            "name": "UAE Tour - Stage 2 - Stage Classification",
+            "date": "20 Feb 2024",
+            "points": 40
+          },
+          {
+            "name": "UAE Tour - Stage 2 - Stage General Classification",
+            "date": "20 Feb 2024",
+            "points": 6
+          },
+          {
+            "name": "Volta a la Comunitat Valenciana - Final Result - General Classification",
+            "date": "04 Feb 2024",
+            "points": 200
+          },
+          {
+            "name": "Volta a la Comunitat Valenciana - Stage 4 - Stage Classification",
+            "date": "03 Feb 2024",
+            "points": 20
+          },
+          {
+            "name": "Volta a la Comunitat Valenciana - Stage 4 - Stage General Classification",
+            "date": "03 Feb 2024",
+            "points": 5
+          },
+          {
+            "name": "Trofeo Pollença - Port d'Andratx",
+            "date": "27 Jan 2024",
+            "points": 35
+          },
+          {
+            "name": "Trofeo Serra Tramuntana",
+            "date": "26 Jan 2024",
+            "points": 70
+          },
+          {
+            "name": "Trofeo Calvià",
+            "date": "24 Jan 2024",
+            "points": 70
+          }
+        ]
+      },
+      {
+        "name": "Cian Uijtdebroeks",
+        "id": 1789559,
+        "totalPoints": 50,
+        "results": [
+          {
+            "name": "O Gran Camiño - The Historical Route - Final Result - General Classification",
+            "date": "25 Feb 2024",
+            "points": 50
+          }
+        ]
+      },
+      {
+        "name": "Laurence Pithie",
+        "id": 221617,
+        "totalPoints": 547,
+        "results": [
+          {
+            "name": "Le Samyn",
+            "date": "27 Feb 2024",
+            "points": 30
+          },
+          {
+            "name": "National Road Championships - New Zealand - Men Elite - Individual Road Race",
+            "date": "10 Feb 2024",
+            "points": 60
+          },
+          {
+            "name": "National Road Championships - New Zealand - Men Elite - Individual Time Trial",
+            "date": "08 Feb 2024",
+            "points": 20
+          },
+          {
+            "name": "Cadel Evans Great Ocean Road Race",
+            "date": "28 Jan 2024",
+            "points": 300
+          },
+          {
+            "name": "Surf Coast Classic",
+            "date": "25 Jan 2024",
+            "points": 50
+          },
+          {
+            "name": "Santos Tour Down Under - Final Result - General Classification",
+            "date": "21 Jan 2024",
+            "points": 20
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 6 - Stage Classification",
+            "date": "21 Jan 2024",
+            "points": 20
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 4 - Stage Classification",
+            "date": "19 Jan 2024",
+            "points": 20
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 3 - Stage Classification",
+            "date": "18 Jan 2024",
+            "points": 25
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 2 - Stage Classification",
+            "date": "17 Jan 2024",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "name": "Jordi Meeus",
+        "id": 148901,
+        "totalPoints": 85,
+        "results": [
+          {
+            "name": "Kuurne - Brussel - Kuurne",
+            "date": "25 Feb 2024",
+            "points": 25
+          },
+          {
+            "name": "Volta ao Algarve em Bicicleta - Stage 1 - Stage Classification",
+            "date": "14 Feb 2024",
+            "points": 10
+          },
+          {
+            "name": "Clasica de Almeria",
+            "date": "11 Feb 2024",
+            "points": 50
+          }
+        ]
+      },
+      {
+        "name": "Casper van Uden",
+        "id": 226805,
+        "totalPoints": 32,
+        "results": [
+          {
+            "name": "Le Samyn",
+            "date": "27 Feb 2024",
+            "points": 3
+          },
+          {
+            "name": "AlUla Tour - Final Result - General Classification",
+            "date": "03 Feb 2024",
+            "points": 3
+          },
+          {
+            "name": "AlUla Tour - Stage 4 - Stage Classification",
+            "date": "02 Feb 2024",
+            "points": 3
+          },
+          {
+            "name": "AlUla Tour - Stage 3 - Stage Classification",
+            "date": "01 Feb 2024",
+            "points": 3
+          },
+          {
+            "name": "AlUla Tour - Stage 3 - Stage General Classification",
+            "date": "01 Feb 2024",
+            "points": 3
+          },
+          {
+            "name": "AlUla Tour - Stage 1 - Stage Classification",
+            "date": "30 Jan 2024",
+            "points": 14
+          },
+          {
+            "name": "AlUla Tour - Stage 1 - Stage General Classification",
+            "date": "30 Jan 2024",
+            "points": 3
+          }
+        ]
+      }
+    ]
+  }
+}

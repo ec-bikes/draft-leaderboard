@@ -1,5 +1,5 @@
 import type { RawRider } from '../types/RawTeam.js';
-import type { RiderDetails } from '../../src/types/Rider.js';
+import type { Group, RiderDetails } from '../../src/types/Rider.js';
 import { getRiderPcsData } from './getRiderPcsData.js';
 import { getRiderResults } from './getRiderResults.js';
 
@@ -10,6 +10,7 @@ export async function getRiderData(params: {
   rider: RawRider;
   year: number;
   momentId: number;
+  group: Group;
 }): Promise<{ rider: RiderDetails; issues: string[] }> {
   const { rider: rawRider } = params;
   const { name } = rawRider;
@@ -21,7 +22,8 @@ export async function getRiderData(params: {
   // Get rider results from the UCI API
   const riderResults = await getRiderResults(params);
   if (typeof riderResults === 'string') {
-    issues.push(riderResults);
+    // It's critical to get everyone's race results, so stop if something is going wrong
+    throw new Error(riderResults);
   } else {
     rider.totalPoints = riderResults.totalPoints;
     rider.results = riderResults.results;

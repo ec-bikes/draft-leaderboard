@@ -1,5 +1,5 @@
 import type { RawRider } from '../types/RawTeam.js';
-import type { RaceResult, RiderDetails } from '../../src/types/Rider.js';
+import type { Group, RaceResult, RiderDetails } from '../../src/types/Rider.js';
 import { getUciRiderResults } from './uciApis.js';
 
 /**
@@ -11,11 +11,12 @@ export async function getRiderResults(params: {
   rider: RawRider;
   momentId: number;
   year: number;
+  group: Group;
 }): Promise<Pick<RiderDetails, 'totalPoints' | 'results'> | string> {
-  const { momentId, rider, year } = params;
+  const { momentId, rider, year, group } = params;
   const { name, id } = rider;
 
-  const rawResults = await getUciRiderResults({ momentId, individualId: id });
+  const rawResults = await getUciRiderResults({ momentId, individualId: id, group });
   if (typeof rawResults === 'string') {
     console.error(`❌ Error getting results for ${name}:`, rawResults);
     return 'Error getting results for rider';

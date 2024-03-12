@@ -1,0 +1,242 @@
+{
+  "momentId": 176133,
+  "rankingDate": "5 March 2024",
+  "fetchedDate": "11 Mar 2024, 19:51 GMT",
+  "team": {
+    "owner": "Jonny Long",
+    "name": "Ines Grenadiers-Greenpeace",
+    "totalPoints": 1184,
+    "issues": [],
+    "riders": [
+      {
+        "name": "Jasper Philipsen",
+        "id": 148275,
+        "totalPoints": 0,
+        "results": []
+      },
+      {
+        "name": "Simon Yates",
+        "id": 1558112,
+        "totalPoints": 304,
+        "results": [
+          {
+            "name": "AlUla Tour - Final Result - General Classification",
+            "date": "03 Feb 2024",
+            "points": 125
+          },
+          {
+            "name": "AlUla Tour - Stage 5 - Stage Classification",
+            "date": "03 Feb 2024",
+            "points": 14
+          },
+          {
+            "name": "Santos Tour Down Under - Final Result - General Classification",
+            "date": "21 Jan 2024",
+            "points": 150
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 5 - Stage Classification",
+            "date": "20 Jan 2024",
+            "points": 15
+          }
+        ]
+      },
+      {
+        "name": "David Gaudu",
+        "id": 112351,
+        "totalPoints": 43,
+        "results": [
+          {
+            "name": "O Gran Camiño - The Historical Route - Final Result - General Classification",
+            "date": "25 Feb 2024",
+            "points": 3
+          },
+          {
+            "name": "Classic Var",
+            "date": "16 Feb 2024",
+            "points": 40
+          }
+        ]
+      },
+      {
+        "name": "Romain Bardet",
+        "id": 64917,
+        "totalPoints": 134,
+        "results": [
+          {
+            "name": "Strade Bianche",
+            "date": "02 Mar 2024",
+            "points": 24
+          },
+          {
+            "name": "Faun Drome Classic",
+            "date": "25 Feb 2024",
+            "points": 20
+          },
+          {
+            "name": "Faun-Ardèche Classic",
+            "date": "24 Feb 2024",
+            "points": 5
+          },
+          {
+            "name": "Tour des Alpes-Maritimes - Final Result - General Classification",
+            "date": "18 Feb 2024",
+            "points": 15
+          },
+          {
+            "name": "Classic Var",
+            "date": "16 Feb 2024",
+            "points": 70
+          }
+        ]
+      },
+      {
+        "name": "Jai Hindley",
+        "id": 109829,
+        "totalPoints": 88,
+        "results": [
+          {
+            "name": "Volta a la Comunitat Valenciana - Final Result - General Classification",
+            "date": "04 Feb 2024",
+            "points": 85
+          },
+          {
+            "name": "Volta a la Comunitat Valenciana - Stage 4 - Stage Classification",
+            "date": "03 Feb 2024",
+            "points": 3
+          }
+        ]
+      },
+      {
+        "name": "Yves Lampaert",
+        "id": 86228,
+        "totalPoints": 47,
+        "results": [
+          {
+            "name": "Kuurne - Brussel - Kuurne",
+            "date": "25 Feb 2024",
+            "points": 5
+          },
+          {
+            "name": "Omloop Nieuwsblad",
+            "date": "24 Feb 2024",
+            "points": 12
+          },
+          {
+            "name": "Trofeo Palma",
+            "date": "28 Jan 2024",
+            "points": 25
+          },
+          {
+            "name": "Trofeo Pollença - Port d'Andratx",
+            "date": "27 Jan 2024",
+            "points": 5
+          }
+        ]
+      },
+      {
+        "name": "Fred Wright",
+        "id": 153275,
+        "totalPoints": 10,
+        "results": [
+          {
+            "name": "Kuurne - Brussel - Kuurne",
+            "date": "25 Feb 2024",
+            "points": 5
+          },
+          {
+            "name": "AlUla Tour - Final Result - General Classification",
+            "date": "03 Feb 2024",
+            "points": 5
+          }
+        ]
+      },
+      {
+        "name": "Bryan Coquard",
+        "id": 68950,
+        "totalPoints": 230,
+        "results": [
+          {
+            "name": "Tour of Oman - Stage 3 - Stage Classification",
+            "date": "12 Feb 2024",
+            "points": 10
+          },
+          {
+            "name": "Tour of Oman - Stage 1 - Stage Classification",
+            "date": "10 Feb 2024",
+            "points": 15
+          },
+          {
+            "name": "Muscat Classic",
+            "date": "09 Feb 2024",
+            "points": 60
+          },
+          {
+            "name": "AlUla Tour - Final Result - General Classification",
+            "date": "03 Feb 2024",
+            "points": 35
+          },
+          {
+            "name": "AlUla Tour - Stage 4 - Stage Classification",
+            "date": "02 Feb 2024",
+            "points": 5
+          },
+          {
+            "name": "Ruta de la Cerámica - Gran Premio Castellón",
+            "date": "21 Jan 2024",
+            "points": 20
+          },
+          {
+            "name": "Clàssica Comunitat Valenciana 1969 - Gran Premi València",
+            "date": "20 Jan 2024",
+            "points": 85
+          }
+        ]
+      },
+      {
+        "name": "Romain Grégoire",
+        "id": 1759422,
+        "totalPoints": 243,
+        "results": [
+          {
+            "name": "Strade Bianche",
+            "date": "02 Mar 2024",
+            "points": 8
+          },
+          {
+            "name": "Trofeo Laigueglia",
+            "date": "28 Feb 2024",
+            "points": 30
+          },
+          {
+            "name": "Faun-Ardèche Classic",
+            "date": "24 Feb 2024",
+            "points": 150
+          },
+          {
+            "name": "Tour des Alpes-Maritimes - Final Result - General Classification",
+            "date": "18 Feb 2024",
+            "points": 35
+          },
+          {
+            "name": "Classic Var",
+            "date": "16 Feb 2024",
+            "points": 20
+          }
+        ]
+      },
+      {
+        "name": "Jack Haig",
+        "id": 78342,
+        "totalPoints": 85,
+        "results": [
+          {
+            "name": "Santos Tour Down Under - Final Result - General Classification",
+            "date": "21 Jan 2024",
+            "points": 85
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -15,15 +15,25 @@ const classData = {
   CC: { id: 72, name: 'Continental Championships' },
   CM: { id: 86, name: 'UCI World Championships' },
   CN: { id: 93, name: 'National Championships' },
+  '1.UWT': { id: 175, name: '1 day - UCI WorldTour' },
+  '2.UWT': { id: 176, name: 'Stages - UCI WorldTour' },
+  '2.1': { id: 24, name: 'Stages - Class 1' },
 } as const;
 
 const eventData = {
   'General Classification': 1,
+  'Mountain Classification': 4,
+  'Points Classification': 2,
   // stage result
   'Stage Classification': 17,
   // bonus for leading GC after a stage
   'Stage General Classification': 21,
 } as const;
+
+enum RankingId {
+  menWT = 1,
+  women = 32,
+}
 
 // For riders with U23 or other discipline results that don't give UCI women's elite road points,
 // those results seem to either not be returned or be return with 0 points based on the
@@ -41,6 +51,8 @@ export interface UciRiderResult {
     | `Stage ${number}`
     | `Women Elite ${string}` /*champs*/
     | `Women Under 23 ${string}`
+    | `Men Elite ${string}` /*champs*/
+    | `Men Under 23 ${string}`
     | 'Final Classification' /*GC final?*/
     | 'Team Time Trial Mixed Relay';
   /** Actual race name */
@@ -58,7 +70,7 @@ export interface UciRiderResult {
   PointsRuleId: 1 | 2 /*WWT stage bonus*/ | 5 /*pro stage bonus*/ | 6 /*WWT leader's jersey*/;
   PointsRuleParentId: 1 | 3 /*WWT stage bonus*/ | 2 /*pro stage bonus*/ | 5 /*WWT leader's jersey*/;
   EventTypeId: (typeof eventData)[this['EventName']];
-  RankingId: 32;
+  RankingId: RankingId;
   /** short date e.g. "07 Sep 2023" */
   Date: string;
   /** repeat of ClassName but with a hidden ordering number sometimes */

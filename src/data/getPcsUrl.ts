@@ -2,6 +2,16 @@ const nameMappings: Record<string, string> = {
   'Kasia Niewiadoma': 'katarzyna-niewiadoma',
   'Noemi Rüegg': 'ruegg-moemi',
   'Lizzie Deignan': 'elizabeth-deignan',
+  "Ben O'Connor": 'ben-o-connor',
+  'Josh Tarling': 'joshua-tarling',
+  'Tom Pidcock': 'thomas-pidcock',
+  'Søren Kragh Andersen': 'soren-kragh-andersen',
+  'Santiago Buitrago': 'santiago-buitrago-sanchez',
+  'Juan Ayuso': 'juan-ayuso-pesquera',
+  'Alexey Lutsenko': 'aleksey-lutsenko',
+  'Esteban Chaves': 'johan-esteban-chaves',
+  'Mattias Skjelmose': 'mattias-skjelmose-jensen',
+  'Fred Wright': 'alfred-wright',
 };
 
 /** Get the ProCyclingStats URL for a rider */

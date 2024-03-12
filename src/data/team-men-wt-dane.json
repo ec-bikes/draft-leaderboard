@@ -1,0 +1,206 @@
+{
+  "momentId": 176133,
+  "rankingDate": "5 March 2024",
+  "fetchedDate": "11 Mar 2024, 19:51 GMT",
+  "team": {
+    "owner": "Dane Cash",
+    "name": "Visma-Lease a Bike-Monster Energy",
+    "totalPoints": 941,
+    "issues": [],
+    "riders": [
+      {
+        "name": "Jonas Vingegaard",
+        "id": 112082,
+        "totalPoints": 173,
+        "results": [
+          {
+            "name": "O Gran Camiño - The Historical Route - Final Result - General Classification",
+            "date": "25 Feb 2024",
+            "points": 125
+          },
+          {
+            "name": "O Gran Camiño - The Historical Route - Stage 4 - Stage Classification",
+            "date": "25 Feb 2024",
+            "points": 14
+          },
+          {
+            "name": "O Gran Camiño - The Historical Route - Stage 3 - Stage Classification",
+            "date": "24 Feb 2024",
+            "points": 14
+          },
+          {
+            "name": "O Gran Camiño - The Historical Route - Stage 3 - Stage General Classification",
+            "date": "24 Feb 2024",
+            "points": 3
+          },
+          {
+            "name": "O Gran Camiño - The Historical Route - Stage 2 - Stage Classification",
+            "date": "23 Feb 2024",
+            "points": 14
+          },
+          {
+            "name": "O Gran Camiño - The Historical Route - Stage 2 - Stage General Classification",
+            "date": "23 Feb 2024",
+            "points": 3
+          }
+        ]
+      },
+      {
+        "name": "Christophe Laporte",
+        "id": 81980,
+        "totalPoints": 288,
+        "results": [
+          {
+            "name": "Strade Bianche",
+            "date": "02 Mar 2024",
+            "points": 68
+          },
+          {
+            "name": "Kuurne - Brussel - Kuurne",
+            "date": "25 Feb 2024",
+            "points": 100
+          },
+          {
+            "name": "Omloop Nieuwsblad",
+            "date": "24 Feb 2024",
+            "points": 120
+          }
+        ]
+      },
+      {
+        "name": "Geraint Thomas",
+        "id": 32532,
+        "totalPoints": 0,
+        "results": []
+      },
+      {
+        "name": "Mikel Landa",
+        "id": 68367,
+        "totalPoints": 10,
+        "results": [
+          {
+            "name": "Volta ao Algarve em Bicicleta - Final Result - General Classification",
+            "date": "18 Feb 2024",
+            "points": 5
+          },
+          {
+            "name": "Figueira Champions Classic",
+            "date": "10 Feb 2024",
+            "points": 5
+          }
+        ]
+      },
+      {
+        "name": "Carlos Rodriguez",
+        "id": 428096,
+        "totalPoints": 3,
+        "results": [
+          {
+            "name": "Clásica Jaén",
+            "date": "12 Feb 2024",
+            "points": 3
+          }
+        ]
+      },
+      {
+        "name": "Marc Hirschi",
+        "id": 111440,
+        "totalPoints": 290,
+        "results": [
+          {
+            "name": "Trofeo Laigueglia",
+            "date": "28 Feb 2024",
+            "points": 15
+          },
+          {
+            "name": "Faun Drome Classic",
+            "date": "25 Feb 2024",
+            "points": 200
+          },
+          {
+            "name": "Faun-Ardèche Classic",
+            "date": "24 Feb 2024",
+            "points": 5
+          },
+          {
+            "name": "Figueira Champions Classic",
+            "date": "10 Feb 2024",
+            "points": 70
+          }
+        ]
+      },
+      {
+        "name": "Stefan Küng",
+        "id": 74994,
+        "totalPoints": 70,
+        "results": [
+          {
+            "name": "Omloop Nieuwsblad",
+            "date": "24 Feb 2024",
+            "points": 20
+          },
+          {
+            "name": "Volta ao Algarve em Bicicleta - Final Result - General Classification",
+            "date": "18 Feb 2024",
+            "points": 40
+          },
+          {
+            "name": "Volta ao Algarve em Bicicleta - Stage 4 - Stage Classification",
+            "date": "17 Feb 2024",
+            "points": 10
+          }
+        ]
+      },
+      {
+        "name": "Fabio Jakobsen",
+        "id": 87061,
+        "totalPoints": 24,
+        "results": [
+          {
+            "name": "UAE Tour - Stage 5 - Stage Classification",
+            "date": "23 Feb 2024",
+            "points": 1
+          },
+          {
+            "name": "UAE Tour - Stage 4 - Stage Classification",
+            "date": "22 Feb 2024",
+            "points": 8
+          },
+          {
+            "name": "UAE Tour - Stage 1 - Stage Classification",
+            "date": "19 Feb 2024",
+            "points": 15
+          }
+        ]
+      },
+      {
+        "name": "Arnaud Démare",
+        "id": 64670,
+        "totalPoints": 83,
+        "results": [
+          {
+            "name": "Volta ao Algarve em Bicicleta - Stage 1 - Stage Classification",
+            "date": "14 Feb 2024",
+            "points": 3
+          },
+          {
+            "name": "Clasica de Almeria",
+            "date": "11 Feb 2024",
+            "points": 30
+          },
+          {
+            "name": "Trofeo Palma",
+            "date": "28 Jan 2024",
+            "points": 50
+          }
+        ]
+      },
+      {
+        "name": "Søren Kragh Andersen",
+        "id": 79156,
+        "totalPoints": 0,
+        "results": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "momentId": 176133,
+  "rankingDate": "5 March 2024",
+  "fetchedDate": "11 Mar 2024, 19:51 GMT",
+  "team": {
+    "owner": "Joe Lindsey",
+    "name": "AlUla-Palantir",
+    "totalPoints": 1297,
+    "issues": [],
+    "riders": [
+      {
+        "name": "Remco Evenepoel",
+        "id": 1596046,
+        "totalPoints": 455,
+        "results": [
+          {
+            "name": "Volta ao Algarve em Bicicleta - Final Result - General Classification",
+            "date": "18 Feb 2024",
+            "points": 200
+          },
+          {
+            "name": "Volta ao Algarve em Bicicleta - Stage 5 - Stage Classification",
+            "date": "18 Feb 2024",
+            "points": 15
+          },
+          {
+            "name": "Volta ao Algarve em Bicicleta - Stage 4 - Stage Classification",
+            "date": "17 Feb 2024",
+            "points": 20
+          },
+          {
+            "name": "Volta ao Algarve em Bicicleta - Stage 4 - Stage General Classification",
+            "date": "17 Feb 2024",
+            "points": 5
+          },
+          {
+            "name": "Volta ao Algarve em Bicicleta - Stage 2 - Stage Classification",
+            "date": "15 Feb 2024",
+            "points": 15
+          },
+          {
+            "name": "Figueira Champions Classic",
+            "date": "10 Feb 2024",
+            "points": 200
+          }
+        ]
+      },
+      {
+        "name": "Mathieu van der Poel",
+        "id": 79462,
+        "totalPoints": 0,
+        "results": []
+      },
+      {
+        "name": "Tao Geoghegan Hart",
+        "id": 86735,
+        "totalPoints": 25,
+        "results": [
+          {
+            "name": "Volta ao Algarve em Bicicleta - Final Result - General Classification",
+            "date": "18 Feb 2024",
+            "points": 25
+          }
+        ]
+      },
+      {
+        "name": "Santiago Buitrago",
+        "id": 353375,
+        "totalPoints": 165,
+        "results": [
+          {
+            "name": "Volta a la Comunitat Valenciana - Final Result - General Classification",
+            "date": "04 Feb 2024",
+            "points": 150
+          },
+          {
+            "name": "Volta a la Comunitat Valenciana - Stage 4 - Stage Classification",
+            "date": "03 Feb 2024",
+            "points": 15
+          }
+        ]
+      },
+      {
+        "name": "Tim Merlier",
+        "id": 70962,
+        "totalPoints": 185,
+        "results": [
+          {
+            "name": "UAE Tour - Stage 6 - Stage Classification",
+            "date": "24 Feb 2024",
+            "points": 40
+          },
+          {
+            "name": "UAE Tour - Stage 5 - Stage Classification",
+            "date": "23 Feb 2024",
+            "points": 25
+          },
+          {
+            "name": "UAE Tour - Stage 4 - Stage Classification",
+            "date": "22 Feb 2024",
+            "points": 40
+          },
+          {
+            "name": "UAE Tour - Stage 1 - Stage Classification",
+            "date": "19 Feb 2024",
+            "points": 40
+          },
+          {
+            "name": "UAE Tour - Stage 1 - Stage General Classification",
+            "date": "19 Feb 2024",
+            "points": 6
+          },
+          {
+            "name": "AlUla Tour - Stage 4 - Stage Classification",
+            "date": "02 Feb 2024",
+            "points": 14
+          },
+          {
+            "name": "AlUla Tour - Stage 4 - Stage General Classification",
+            "date": "02 Feb 2024",
+            "points": 3
+          },
+          {
+            "name": "AlUla Tour - Stage 3 - Stage Classification",
+            "date": "01 Feb 2024",
+            "points": 14
+          },
+          {
+            "name": "AlUla Tour - Stage 1 - Stage Classification",
+            "date": "30 Jan 2024",
+            "points": 3
+          }
+        ]
+      },
+      {
+        "name": "Julian Alaphilippe",
+        "id": 71557,
+        "totalPoints": 215,
+        "results": [
+          {
+            "name": "Santos Tour Down Under - Final Result - General Classification",
+            "date": "21 Jan 2024",
+            "points": 175
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 6 - Stage Classification",
+            "date": "21 Jan 2024",
+            "points": 15
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 5 - Stage Classification",
+            "date": "20 Jan 2024",
+            "points": 25
+          }
+        ]
+      },
+      {
+        "name": "Felix Gall",
+        "id": 150925,
+        "totalPoints": 100,
+        "results": [
+          {
+            "name": "Faun-Ardèche Classic",
+            "date": "24 Feb 2024",
+            "points": 100
+          }
+        ]
+      },
+      {
+        "name": "Giulio Ciccone",
+        "id": 97091,
+        "totalPoints": 0,
+        "results": []
+      },
+      {
+        "name": "Dylan Groenewegen",
+        "id": 72932,
+        "totalPoints": 144,
+        "results": [
+          {
+            "name": "UAE Tour - Stage 6 - Stage Classification",
+            "date": "24 Feb 2024",
+            "points": 8
+          },
+          {
+            "name": "UAE Tour - Stage 5 - Stage Classification",
+            "date": "23 Feb 2024",
+            "points": 6
+          },
+          {
+            "name": "AlUla Tour - Stage 1 - Stage Classification",
+            "date": "30 Jan 2024",
+            "points": 5
+          },
+          {
+            "name": "Clàssica Comunitat Valenciana 1969 - Gran Premi València",
+            "date": "20 Jan 2024",
+            "points": 125
+          }
+        ]
+      },
+      {
+        "name": "Andrea Bagioli",
+        "id": 157221,
+        "totalPoints": 8,
+        "results": [
+          {
+            "name": "Volta ao Algarve em Bicicleta - Final Result - General Classification",
+            "date": "18 Feb 2024",
+            "points": 3
+          },
+          {
+            "name": "Figueira Champions Classic",
+            "date": "10 Feb 2024",
+            "points": 5
+          }
+        ]
+      }
+    ]
+  }
+}

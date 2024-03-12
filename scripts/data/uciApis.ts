@@ -5,10 +5,12 @@ import type {
   UciRiderRanking,
   UciRankingMoment,
 } from '../types/UciData.js';
-import { formatQueryParams, womensRankingParams } from '../../src/data/uciUrls.js';
-
-const { groupId, disciplineId, disciplineSeasonId, categoryId, rankingId, rankingTypeId } =
-  womensRankingParams;
+import {
+  formatQueryParams,
+  womensRankingParams,
+  mensRankingParams,
+} from '../../src/data/uciUrls.js';
+import type { Group } from '../../src/types/Rider.js';
 
 const pageSize = 40;
 
@@ -94,7 +96,10 @@ async function doUciRequest<TResult>(params: {
 /**
  * Get UCI ranking moments, or an error string.
  */
-export function getUciRankingMoments(): Promise<UciRankingMoment[] | string> {
+export function getUciRankingMoments(group: Group): Promise<UciRankingMoment[] | string> {
+  const params = group === 'women' ? womensRankingParams : mensRankingParams;
+  const { disciplineId, disciplineSeasonId, rankingId } = params;
+
   // https://dataride.uci.ch/iframe/GetRankingMoments/?disciplineId=10&disciplineSeasonId=432&rankingId=32
   return doUciRequest({
     url: `https://dataride.uci.ch/iframe/GetRankingMoments/?${formatQueryParams({
@@ -113,27 +118,24 @@ export function getUciRankingMoments(): Promise<UciRankingMoment[] | string> {
 export function getUciRiderResults(params: {
   momentId: number;
   individualId: number;
+  group: Group;
 }): Promise<UciRiderResult[] | string> {
+  const { group, individualId, momentId } = params;
+  const { rankingTypeId, ...otherParams } =
+    group === 'women' ? womensRankingParams : mensRankingParams;
+
   // https://dataride.uci.ch/iframe/IndividualEventRankings/
   // individualId=151466&rankingId=32&momentId=175727&groupId=2&baseRankingTypeId=1&disciplineSeasonId=432&disciplineId=10&categoryId=23&raceTypeId=0&countryId=0&teamId=0&take=40&skip=0&page=1&pageSize=40
   return doUciRequest({
     url: 'https://dataride.uci.ch/iframe/IndividualEventRankings/',
     postData: {
-      ...params,
-      groupId,
-      disciplineId,
-      disciplineSeasonId,
-      categoryId,
-      rankingId,
+      individualId,
+      momentId,
+      ...otherParams,
       baseRankingTypeId: rankingTypeId,
       raceTypeId: 0,
       countryId: 0,
       teamId: 0,
-      // the API seems to ignore these limits and return everything
-      take: 100,
-      skip: 0,
-      page: 1,
-      pageSize: 100,
     },
   });
 }
@@ -144,7 +146,14 @@ const riderRankingsUrl = 'https://dataride.uci.ch/iframe/ObjectRankings/';
  * Search the rider rankings.
  * Returns the result or an error string.
  */
-export function searchUciRiderRankings(text: string): Promise<UciRiderRanking[] | string> {
+export function searchUciRiderRankings(params: {
+  text: string;
+  group: Group;
+}): Promise<UciRiderRanking[] | string> {
+  const { text, group } = params;
+  const { rankingId, disciplineId, rankingTypeId, categoryId, disciplineSeasonId } =
+    group === 'women' ? womensRankingParams : mensRankingParams;
+
   // Search example "vollering"
   // https://dataride.uci.ch/iframe/ObjectRankings/
   // rankingId=32&disciplineId=10&rankingTypeId=1&take=40&skip=0&page=1&pageSize=40&filter%5Bfilters%5D%5B0%5D%5Bfield%5D=RaceTypeId&filter%5Bfilters%5D%5B0%5D%5Bvalue%5D=0&filter%5Bfilters%5D%5B1%5D%5Bfield%5D=CategoryId&filter%5Bfilters%5D%5B1%5D%5Bvalue%5D=23&filter%5Bfilters%5D%5B2%5D%5Bfield%5D=SeasonId&filter%5Bfilters%5D%5B2%5D%5Bvalue%5D=432&filter%5Bfilters%5D%5B3%5D%5Bfield%5D=MomentId&filter%5Bfilters%5D%5B3%5D%5Bvalue%5D=0&filter%5Bfilters%5D%5B4%5D%5Bfield%5D=CountryId&filter%5Bfilters%5D%5B4%5D%5Bvalue%5D=0&filter%5Bfilters%5D%5B5%5D%5Bfield%5D=IndividualName&filter%5Bfilters%5D%5B5%5D%5Bvalue%5D=vollering&filter%5Bfilters%5D%5B6%5D%5Bfield%5D=TeamName&filter%5Bfilters%5D%5B6%5D%5Bvalue%5D=
@@ -171,24 +180,31 @@ export function searchUciRiderRankings(text: string): Promise<UciRiderRanking[] 
   });
 }
 
-// /**
-//  * Get the top `limit` riders.
-//  * Returns the results or an error string.
-//  */
-// export function getUciRiderRankings(limit: number): Promise<UciRiderRanking[] | string> {
-//   return doUciRequest({
-//     url: riderRankingsUrl,
-//     limit,
-//     postData: {
-//       rankingId,
-//       disciplineId,
-//       rankingTypeId,
-//       'filter[filters][0][field]': 'RaceTypeId',
-//       'filter[filters][0][value]': raceTypeId,
-//       'filter[filters][1][field]': 'CategoryId',
-//       'filter[filters][1][value]': categoryId,
-//       'filter[filters][2][field]': 'SeasonId',
-//       'filter[filters][2][value]': disciplineSeasonId,
-//     },
-//   });
-// }
+/**
+ * Get the top `limit` riders in the ranking.
+ * Returns the results or an error string.
+ */
+export function getUciRiderRankings(params: {
+  limit: number;
+  group: Group;
+}): Promise<UciRiderRanking[] | string> {
+  const { limit, group } = params;
+  const { rankingId, disciplineId, rankingTypeId, categoryId, disciplineSeasonId } =
+    group === 'women' ? womensRankingParams : mensRankingParams;
+
+  return doUciRequest({
+    url: riderRankingsUrl,
+    limit,
+    postData: {
+      rankingId,
+      disciplineId,
+      rankingTypeId,
+      'filter[filters][0][field]': 'RaceTypeId',
+      'filter[filters][0][value]': 0,
+      'filter[filters][1][field]': 'CategoryId',
+      'filter[filters][1][value]': categoryId,
+      'filter[filters][2][field]': 'SeasonId',
+      'filter[filters][2][value]': disciplineSeasonId,
+    },
+  });
+}

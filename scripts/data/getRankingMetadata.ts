@@ -8,7 +8,8 @@ import { getUciRankingMoments } from './uciApis.js';
 export async function getRankingMetadata(): Promise<
   (TeamJsonMetadata & { rankingDateShort: string }) | string
 > {
-  const moments = await getUciRankingMoments();
+  // These values appear to be the same for men and women
+  const moments = await getUciRankingMoments('women');
   if (typeof moments === 'string') {
     return moments;
   }

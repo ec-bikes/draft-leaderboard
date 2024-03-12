@@ -4,7 +4,7 @@ import type { RawTeam } from '../types/RawTeam.js';
  * Team names, owners, and riders.
  * https://escapecollective.com/the-wheel-talk-podcast-2024-draft/
  */
-export const rawTeams: RawTeam[] = [
+export const rawTeamsWomen: RawTeam[] = [
   {
     owner: 'Matt de Neef',
     name: 'Amateur Pro Cycling',

@@ -1,0 +1,279 @@
+{
+  "momentId": 176133,
+  "rankingDate": "5 March 2024",
+  "fetchedDate": "11 Mar 2024, 19:51 GMT",
+  "team": {
+    "owner": "Abby Mickey",
+    "name": "Lidl-Trek M&Ms",
+    "totalPoints": 1919,
+    "issues": [],
+    "riders": [
+      {
+        "name": "Mads Pedersen",
+        "id": 86895,
+        "totalPoints": 321,
+        "results": [
+          {
+            "name": "Tour de la Provence - Final Result - General Classification",
+            "date": "11 Feb 2024",
+            "points": 125
+          },
+          {
+            "name": "Tour de la Provence - Stage 3 - Stage Classification",
+            "date": "10 Feb 2024",
+            "points": 14
+          },
+          {
+            "name": "Tour de la Provence - Stage 3 - Stage General Classification",
+            "date": "10 Feb 2024",
+            "points": 3
+          },
+          {
+            "name": "Tour de la Provence - Stage 2 - Stage Classification",
+            "date": "09 Feb 2024",
+            "points": 14
+          },
+          {
+            "name": "Tour de la Provence - Stage 2 - Stage General Classification",
+            "date": "09 Feb 2024",
+            "points": 3
+          },
+          {
+            "name": "Tour de la Provence - Stage 1 - Stage Classification",
+            "date": "08 Feb 2024",
+            "points": 14
+          },
+          {
+            "name": "Tour de la Provence - Stage 1 - Stage General Classification",
+            "date": "08 Feb 2024",
+            "points": 3
+          },
+          {
+            "name": "Etoile de Bessèges - Tour du Gard - Final Result - General Classification",
+            "date": "04 Feb 2024",
+            "points": 125
+          },
+          {
+            "name": "Etoile de Bessèges - Tour du Gard - Stage 5 - Stage Classification",
+            "date": "04 Feb 2024",
+            "points": 5
+          },
+          {
+            "name": "Etoile de Bessèges - Tour du Gard - Stage 4 - Stage General Classification",
+            "date": "03 Feb 2024",
+            "points": 3
+          },
+          {
+            "name": "Etoile de Bessèges - Tour du Gard - Stage 3 - Stage Classification",
+            "date": "02 Feb 2024",
+            "points": 14
+          },
+          {
+            "name": "Etoile de Bessèges - Tour du Gard - Stage 3 - Stage General Classification",
+            "date": "02 Feb 2024",
+            "points": 3
+          },
+          {
+            "name": "Etoile de Bessèges - Tour du Gard - Stage 2 - Stage Classification",
+            "date": "01 Feb 2024",
+            "points": 5
+          }
+        ],
+        "sanctions": 10
+      },
+      {
+        "name": "Sepp Kuss",
+        "id": 88346,
+        "totalPoints": 100,
+        "results": [
+          {
+            "name": "Volta ao Algarve em Bicicleta - Final Result - General Classification",
+            "date": "18 Feb 2024",
+            "points": 50
+          },
+          {
+            "name": "Volta ao Algarve em Bicicleta - Stage 2 - Stage Classification",
+            "date": "15 Feb 2024",
+            "points": 10
+          },
+          {
+            "name": "Clásica Jaén",
+            "date": "12 Feb 2024",
+            "points": 40
+          }
+        ]
+      },
+      {
+        "name": "Matteo Jorgenson",
+        "id": 159567,
+        "totalPoints": 12,
+        "results": [
+          {
+            "name": "Omloop Nieuwsblad",
+            "date": "24 Feb 2024",
+            "points": 12
+          }
+        ]
+      },
+      {
+        "name": "Ben Healy",
+        "id": 235075,
+        "totalPoints": 208,
+        "results": [
+          {
+            "name": "Strade Bianche",
+            "date": "02 Mar 2024",
+            "points": 48
+          },
+          {
+            "name": "Volta ao Algarve em Bicicleta - Final Result - General Classification",
+            "date": "18 Feb 2024",
+            "points": 100
+          },
+          {
+            "name": "Etoile de Bessèges - Tour du Gard - Final Result - General Classification",
+            "date": "04 Feb 2024",
+            "points": 60
+          }
+        ]
+      },
+      {
+        "name": "Kaden Groves",
+        "id": 111683,
+        "totalPoints": -23,
+        "results": [
+          {
+            "name": "UAE Tour - Stage 5 - Stage Classification",
+            "date": "23 Feb 2024",
+            "points": 2
+          }
+        ],
+        "sanctions": 25
+      },
+      {
+        "name": "Toms Skujiņš",
+        "id": 68892,
+        "totalPoints": 352,
+        "results": [
+          {
+            "name": "Strade Bianche",
+            "date": "02 Mar 2024",
+            "points": 320
+          },
+          {
+            "name": "Kuurne - Brussel - Kuurne",
+            "date": "25 Feb 2024",
+            "points": 5
+          },
+          {
+            "name": "Omloop Nieuwsblad",
+            "date": "24 Feb 2024",
+            "points": 12
+          },
+          {
+            "name": "Etoile de Bessèges - Tour du Gard - Final Result - General Classification",
+            "date": "04 Feb 2024",
+            "points": 15
+          }
+        ]
+      },
+      {
+        "name": "Alex Aranburu",
+        "id": 422863,
+        "totalPoints": 0,
+        "results": []
+      },
+      {
+        "name": "Egan Bernal",
+        "id": 95844,
+        "totalPoints": 190,
+        "results": [
+          {
+            "name": "O Gran Camiño - The Historical Route - Final Result - General Classification",
+            "date": "25 Feb 2024",
+            "points": 70
+          },
+          {
+            "name": "O Gran Camiño - The Historical Route - Stage 2 - Stage Classification",
+            "date": "23 Feb 2024",
+            "points": 5
+          },
+          {
+            "name": "Tour Colombia - Final Result - General Classification",
+            "date": "11 Feb 2024",
+            "points": 50
+          },
+          {
+            "name": "National Road Championships - Colombia - Men Elite - Individual Road Race",
+            "date": "28 Jan 2024",
+            "points": 60
+          },
+          {
+            "name": "National Road Championships - Colombia - Men Elite - Individual Time Trial",
+            "date": "25 Jan 2024",
+            "points": 5
+          }
+        ]
+      },
+      {
+        "name": "Ben O'Connor",
+        "id": 97805,
+        "totalPoints": 435,
+        "results": [
+          {
+            "name": "UAE Tour - Final Result - General Classification",
+            "date": "25 Feb 2024",
+            "points": 250
+          },
+          {
+            "name": "UAE Tour - Stage 7 - Stage Classification",
+            "date": "25 Feb 2024",
+            "points": 20
+          },
+          {
+            "name": "UAE Tour - Stage 3 - Stage Classification",
+            "date": "21 Feb 2024",
+            "points": 40
+          },
+          {
+            "name": "Vuelta Ciclista a la Region de Murcia \"Costa Calida\"",
+            "date": "10 Feb 2024",
+            "points": 125
+          }
+        ]
+      },
+      {
+        "name": "Benoît Cosnefroy",
+        "id": 79522,
+        "totalPoints": 324,
+        "results": [
+          {
+            "name": "Strade Bianche",
+            "date": "02 Mar 2024",
+            "points": 140
+          },
+          {
+            "name": "Faun Drome Classic",
+            "date": "25 Feb 2024",
+            "points": 40
+          },
+          {
+            "name": "Tour des Alpes-Maritimes - Final Result - General Classification",
+            "date": "18 Feb 2024",
+            "points": 125
+          },
+          {
+            "name": "Tour des Alpes-Maritimes - Stage 2 - Stage Classification",
+            "date": "18 Feb 2024",
+            "points": 14
+          },
+          {
+            "name": "Etoile de Bessèges - Tour du Gard - Final Result - General Classification",
+            "date": "04 Feb 2024",
+            "points": 5
+          }
+        ]
+      }
+    ]
+  }
+}

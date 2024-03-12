@@ -1,0 +1,170 @@
+{
+  "momentId": 176133,
+  "rankingDate": "5 March 2024",
+  "fetchedDate": "11 Mar 2024, 19:51 GMT",
+  "team": {
+    "owner": "Caley Fretz",
+    "name": "Arkéa-Formula 1 Hotels",
+    "totalPoints": 1240,
+    "issues": [],
+    "riders": [
+      {
+        "name": "Tadej Pogačar",
+        "id": 149727,
+        "totalPoints": 400,
+        "results": [
+          {
+            "name": "Strade Bianche",
+            "date": "02 Mar 2024",
+            "points": 400
+          }
+        ]
+      },
+      {
+        "name": "Neilson Powless",
+        "id": 88143,
+        "totalPoints": 0,
+        "results": []
+      },
+      {
+        "name": "Matej Mohoric",
+        "id": 86863,
+        "totalPoints": 220,
+        "results": [
+          {
+            "name": "Strade Bianche",
+            "date": "02 Mar 2024",
+            "points": 180
+          },
+          {
+            "name": "Omloop Nieuwsblad",
+            "date": "24 Feb 2024",
+            "points": 12
+          },
+          {
+            "name": "Volta a la Comunitat Valenciana - Final Result - General Classification",
+            "date": "04 Feb 2024",
+            "points": 5
+          },
+          {
+            "name": "Volta a la Comunitat Valenciana - Stage 5 - Stage Classification",
+            "date": "04 Feb 2024",
+            "points": 3
+          },
+          {
+            "name": "Volta a la Comunitat Valenciana - Stage 2 - Stage Classification",
+            "date": "01 Feb 2024",
+            "points": 20
+          }
+        ]
+      },
+      {
+        "name": "Victor Lafay",
+        "id": 136296,
+        "totalPoints": 0,
+        "results": []
+      },
+      {
+        "name": "Lenny Martinez",
+        "id": 1843476,
+        "totalPoints": 515,
+        "results": [
+          {
+            "name": "Strade Bianche",
+            "date": "02 Mar 2024",
+            "points": 100
+          },
+          {
+            "name": "Trofeo Laigueglia",
+            "date": "28 Feb 2024",
+            "points": 200
+          },
+          {
+            "name": "O Gran Camiño - The Historical Route - Final Result - General Classification",
+            "date": "25 Feb 2024",
+            "points": 85
+          },
+          {
+            "name": "O Gran Camiño - The Historical Route - Stage 4 - Stage Classification",
+            "date": "25 Feb 2024",
+            "points": 5
+          },
+          {
+            "name": "Classic Var",
+            "date": "16 Feb 2024",
+            "points": 125
+          }
+        ]
+      },
+      {
+        "name": "Tiesj Benoot",
+        "id": 77502,
+        "totalPoints": 5,
+        "results": [
+          {
+            "name": "Omloop Nieuwsblad",
+            "date": "24 Feb 2024",
+            "points": 5
+          }
+        ]
+      },
+      {
+        "name": "Josh Tarling",
+        "id": 1557793,
+        "totalPoints": 20,
+        "results": [
+          {
+            "name": "O Gran Camiño - The Historical Route - Stage 1 - Stage Classification",
+            "date": "22 Feb 2024",
+            "points": 14
+          },
+          {
+            "name": "Cadel Evans Great Ocean Road Race",
+            "date": "28 Jan 2024",
+            "points": 1
+          },
+          {
+            "name": "Santos Tour Down Under - Final Result - General Classification",
+            "date": "21 Jan 2024",
+            "points": 5
+          }
+        ]
+      },
+      {
+        "name": "Enric Mas",
+        "id": 109803,
+        "totalPoints": 0,
+        "results": []
+      },
+      {
+        "name": "Rui Costa",
+        "id": 32596,
+        "totalPoints": 50,
+        "results": [
+          {
+            "name": "Trofeo Serra Tramuntana",
+            "date": "26 Jan 2024",
+            "points": 10
+          },
+          {
+            "name": "Trofeo Calvià",
+            "date": "24 Jan 2024",
+            "points": 40
+          }
+        ]
+      },
+      {
+        "name": "Guillaume Martin",
+        "id": 75170,
+        "totalPoints": 30,
+        "results": [
+          {
+            "name": "Tour des Alpes-Maritimes - Final Result - General Classification",
+            "date": "18 Feb 2024",
+            "points": 30
+          }
+        ]
+      }
+    ]
+  }
+}

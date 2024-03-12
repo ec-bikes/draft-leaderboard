@@ -14,6 +14,7 @@ import {
 import type { Team } from '../../types/Team';
 import { getUciRiderUrl } from '../../data/uciUrls';
 import { getPcsUrl } from '../../data/getPcsUrl';
+import type { Group } from '../../types/Rider.js';
 
 // orange #FF6F42
 
@@ -24,8 +25,40 @@ const CompactTableCell = styled(TableCell)(({ theme }) => ({
   },
 }));
 
-export function TeamCard(props: { team: Team; rank: number; momentId: number }) {
-  const { team, rank, momentId } = props;
+function PointsNumber(props: { rank: number; points: number }) {
+  return (
+    <Stack
+      textAlign="right"
+      gap="3px"
+      useFlexGap
+      lineHeight="1.0"
+      whiteSpace="nowrap"
+      // height="97px"
+      // justifyContent="center"
+      paddingLeft={1}
+    >
+      <span>
+        <span
+          style={{
+            display: 'inline-block',
+            fontSize: '1.5rem',
+            paddingRight: 4,
+            paddingTop: 6,
+            verticalAlign: 'top',
+          }}
+        >
+          #
+        </span>
+        <strong style={{ fontSize: '2.5rem' }}>{props.rank}</strong>
+      </span>
+      {props.points}
+      <span style={{ fontSize: '1rem' }}>points</span>
+    </Stack>
+  );
+}
+
+export function TeamCard(props: { team: Team; rank: number; momentId: number; group: Group }) {
+  const { team, rank, momentId, group } = props;
   const riders = [...team.riders].sort((a, b) => b.totalPoints - a.totalPoints);
 
   // const theme = useTheme();
@@ -43,30 +76,19 @@ export function TeamCard(props: { team: Team; rank: number; momentId: number }) 
             spacing={{ xs: 2.5, sm: 3 }}
             fontSize="1.3rem"
           >
-            <Stack textAlign="right" gap="3px" useFlexGap lineHeight="1.0" whiteSpace="nowrap">
-              <span>
-                <span
-                  style={{
-                    display: 'inline-block',
-                    fontSize: '1.5rem',
-                    paddingRight: 4,
-                    paddingTop: 6,
-                    verticalAlign: 'top',
-                  }}
-                >
-                  #
-                </span>
-                <strong style={{ fontSize: '2.5rem' }}>{rank}</strong>
-              </span>
-              {team.totalPoints}
-              <span style={{ fontSize: '1rem' }}>points</span>
-            </Stack>
+            <PointsNumber rank={rank} points={team.totalPoints} />
             <div style={{ lineHeight: '1.3' }}>
               <span style={{ fontWeight: '500' }}>
                 {team.owner + (team.owner.endsWith('s') ? '’' : '’s')}
               </span>
               <br />
-              <em>{team.name}</em>
+              <em
+                style={
+                  team.name.startsWith('DSM') ? { fontSize: '1.1rem', display: 'inline-block' } : {}
+                }
+              >
+                {team.name}
+              </em>
             </div>
           </Stack>
           <Table size="small" width="100%">
@@ -87,7 +109,7 @@ export function TeamCard(props: { team: Team; rank: number; momentId: number }) 
                   <CompactTableCell style={{ fontSize: '0.7rem', whiteSpace: 'nowrap' }}>
                     <Link
                       target="_blank"
-                      href={getUciRiderUrl({ individualId: rider.id, momentId })}
+                      href={getUciRiderUrl({ individualId: rider.id, momentId, group })}
                     >
                       UCI
                     </Link>

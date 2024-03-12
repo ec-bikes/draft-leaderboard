@@ -20,3 +20,5 @@ export interface RaceResult {
   date: string;
   points: number;
 }
+
+export type Group = 'women' | 'men-wt';

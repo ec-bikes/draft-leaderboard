@@ -1,48 +1,76 @@
-import { Link, Stack } from '@mui/material';
+import { Divider, Link, Stack, useTheme } from '@mui/material';
 import { usePageContext } from 'vike-react/usePageContext';
 import { TeamCards } from '../../components/TeamCards/TeamCards';
 import type { TeamsSummaryJson } from '../../types/Team';
 import { getUciSeasonRankingUrl } from '../../data/uciUrls';
+import type { Group } from '../../types/Rider.js';
+import type { Data } from './+data.js';
 
-export const title = 'Wheel Talk draft rankings';
+export const title = 'Draft leaderboard';
 
-// eslint-disable-next-line react-refresh/only-export-components
-export function data(): Promise<TeamsSummaryJson> {
-  // create a split point
-  return import('../../data/teams.json');
-}
-
-export function Page() {
-  const teamData = usePageContext().data as TeamsSummaryJson;
+function Section(props: {
+  group: Group;
+  title: string;
+  name: string;
+  link: string;
+  teamData: TeamsSummaryJson;
+}) {
+  const { group, title, name, link, teamData } = props;
 
   return (
-    <Stack gap={4} useFlexGap alignItems="center">
-      <h1 style={{ margin: 0, textAlign: 'center', fontSize: '3.2rem', lineHeight: '1.1' }}>
-        Wheel Talk draft rankings
-      </h1>
+    <>
+      <h2
+        style={{
+          margin: 0,
+          textAlign: 'center',
+          fontSize: '3.2rem',
+          lineHeight: '1.1',
+        }}
+      >
+        {title}
+      </h2>
+
       <div style={{ textAlign: 'center' }}>
-        <p>
-          Teams from Escape Collective’s{' '}
-          <Link
-            target="_blank"
-            href="https://escapecollective.com/the-wheel-talk-podcast-2024-draft/"
-            // men's teams:
-            // https://escapecollective.com/behold-our-mens-worldtour-draft-2024/"
-          >
-            Wheel Talk Podcast 2024 Draft
-          </Link>
-        </p>
-        <p>
-          Data from{' '}
-          <Link target="_blank" href={getUciSeasonRankingUrl({ momentId: teamData.momentId })}>
-            UCI rankings
-          </Link>{' '}
-          as of <strong>{teamData.rankingDate}</strong>{' '}
-          <span style={{ fontSize: '0.8rem' }}>(retrieved at {teamData.fetchedDate})</span>
-        </p>
+        Teams from Escape Collective’s{' '}
+        <Link target="_blank" href={link}>
+          {name}
+        </Link>
+        .
+        <br />
+        Data from{' '}
+        <Link target="_blank" href={getUciSeasonRankingUrl({ momentId: teamData.momentId, group })}>
+          UCI rankings
+        </Link>{' '}
+        as of <strong>{teamData.rankingDate}</strong>{' '}
+        <span style={{ fontSize: '0.8rem' }}>(retrieved at {teamData.fetchedDate}).</span>
       </div>
 
       <TeamCards teamData={teamData} />
+    </>
+  );
+}
+
+export function Page() {
+  const teamData = usePageContext().data as Data;
+  const theme = useTheme();
+
+  return (
+    <Stack gap={4} useFlexGap alignItems="center">
+      <Section
+        group="women"
+        title="Wheel Talk draft rankings"
+        name="Wheel Talk podcast 2024 draft"
+        link="https://escapecollective.com/the-wheel-talk-podcast-2024-draft/"
+        teamData={teamData.women}
+      />
+      <Divider flexItem sx={{ marginTop: theme.spacing(2) }} />
+      <Section
+        group="men-wt"
+        title="Placeholders draft rankings"
+        name="Placeholders podcast 2024 draft"
+        link="https://escapecollective.com/behold-our-mens-worldtour-draft-2024/"
+        teamData={teamData['men-wt']}
+      />
     </Stack>
   );
 }
