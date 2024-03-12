@@ -51,7 +51,7 @@ function PointsNumber(props: { rank: number; points: number }) {
         </span>
         <strong style={{ fontSize: '2.5rem' }}>{props.rank}</strong>
       </span>
-      {props.points}
+      {Math.round(props.points)}
       <span style={{ fontSize: '1rem' }}>points</span>
     </Stack>
   );
@@ -76,7 +76,7 @@ export function TeamCard(props: { team: Team; rank: number; momentId: number; gr
             spacing={{ xs: 2.5, sm: 3 }}
             fontSize="1.3rem"
           >
-            <PointsNumber rank={rank} points={team.totalPoints} />
+            <PointsNumber rank={rank} points={Math.round(team.totalPoints)} />
             <div style={{ lineHeight: '1.3' }}>
               <span style={{ fontWeight: '500' }}>
                 {team.owner + (team.owner.endsWith('s') ? '’' : '’s')}
@@ -104,7 +104,7 @@ export function TeamCard(props: { team: Team; rank: number; momentId: number; gr
                 <TableRow key={rider.name}>
                   <CompactTableCell>{rider.name}</CompactTableCell>
                   <CompactTableCell style={{ whiteSpace: 'nowrap' }}>
-                    {rider.totalPoints}
+                    {Math.round(rider.totalPoints)}
                   </CompactTableCell>
                   <CompactTableCell style={{ fontSize: '0.7rem', whiteSpace: 'nowrap' }}>
                     <Link
