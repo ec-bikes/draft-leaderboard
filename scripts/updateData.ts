@@ -6,6 +6,7 @@ import { getRankingMetadata } from './data/getRankingMetadata.js';
 import type { Group } from '../src/types/Rider.js';
 import type { RawTeam } from './types/RawTeam.js';
 import { rawTeamsMen } from './data/rawTeamsMen.js';
+import { logError } from './log.js';
 
 const year = 2024;
 const groups: Record<Group, RawTeam[]> = {
@@ -16,7 +17,7 @@ const groups: Record<Group, RawTeam[]> = {
 (async () => {
   const metadata = await getRankingMetadata();
   if (typeof metadata === 'string') {
-    console.error('❌', metadata);
+    logError(metadata);
     process.exit(1);
   }
 
@@ -49,7 +50,7 @@ const groups: Record<Group, RawTeam[]> = {
     });
   }
 })().catch((err) => {
-  console.error((err as Error).stack || err);
+  logError((err as Error).stack || err);
   process.exit(1);
 });
 

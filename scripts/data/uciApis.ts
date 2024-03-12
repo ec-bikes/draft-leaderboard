@@ -11,6 +11,7 @@ import {
   mensRankingParams,
 } from '../../src/data/uciUrls.js';
 import type { Group } from '../../src/types/Rider.js';
+import { logWarning } from '../log.js';
 
 const pageSize = 40;
 
@@ -85,7 +86,7 @@ async function doUciRequest<TResult>(params: {
       if (isRetry) {
         return message;
       }
-      console.warn(`⚠️ First fetch attempt failed (will retry): ${message}`);
+      logWarning(`⚠️ First fetch attempt failed (will retry): ${message}`);
       return doUciRequest({ ...params, isRetry: true });
     }
   }

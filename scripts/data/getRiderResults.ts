@@ -1,6 +1,7 @@
 import type { RawRider } from '../types/RawTeam.js';
 import type { Group, RaceResult, RiderDetails } from '../../src/types/Rider.js';
 import { getUciRiderResults } from './uciApis.js';
+import { logError, logWarning } from '../log.js';
 
 /**
  * Get race results for a rider from the UCI API.
@@ -18,7 +19,7 @@ export async function getRiderResults(params: {
 
   const rawResults = await getUciRiderResults({ momentId, individualId: id, group });
   if (typeof rawResults === 'string') {
-    console.error(`❌ Error getting results for ${name}:`, rawResults);
+    logError(`Error getting results for ${name}:`, rawResults);
     return 'Error getting results for rider';
   }
 
@@ -27,7 +28,7 @@ export async function getRiderResults(params: {
   for (const result of rawResults) {
     if (result.IsInvalidResult) {
       // not sure what this means, so log if it happens
-      console.log(`⚠️ Invalid result for ${name} (ignoring):`, result);
+      logWarning(`⚠️ Invalid result for ${name} (ignoring):`, result);
       continue;
     }
     if (new Date(result.Date).getFullYear() !== year) {

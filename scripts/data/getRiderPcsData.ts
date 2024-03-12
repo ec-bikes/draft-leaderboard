@@ -2,6 +2,7 @@ import fetch from 'node-fetch';
 import { parse, type HTMLElement as BasicHTMLElement } from 'node-html-parser';
 import type { RawRider } from '../types/RawTeam.js';
 import { getPcsUrl } from '../../src/data/getPcsUrl.js';
+import { logError } from '../log.js';
 
 /**
  * Get data from a rider's ProCyclingStats page for a given year.
@@ -24,12 +25,12 @@ export async function getRiderPcsData(params: {
   try {
     const result = await fetch(pcsUrl);
     if (!result.ok) {
-      console.error(`❌ Failed to load ${pcsUrl} - ${result.status} ${result.statusText}`);
+      logError(`Failed to load ${pcsUrl} - ${result.status} ${result.statusText}`);
       return errorStr;
     }
     root = parse(await result.text());
   } catch (err) {
-    console.error(`❌ Error loading or parsing ${pcsUrl} - ${(err as Error).message || err}`);
+    logError(`Error loading or parsing ${pcsUrl} - ${(err as Error).message || err}`);
     return errorStr;
   }
 
@@ -45,10 +46,10 @@ export async function getRiderPcsData(params: {
     const isNotFound =
       h1Text === 'Page not found' || !nameParts.some((word) => h1Text.toLowerCase().includes(word));
     if (isNotFound) {
-      console.error(`❌ PCS URL didn't work: ${pcsUrl}`);
+      logError(`PCS URL didn't work: ${pcsUrl}`);
       return errorStr;
     }
-    console.error(`❌ PCS page format changed at ${pcsUrl}`);
+    logError(`PCS page format changed at ${pcsUrl}`);
     return errorStr;
   }
 
@@ -61,7 +62,7 @@ export async function getRiderPcsData(params: {
   // <div class="rdrResultsSum"><div>0 km in <b>0</b> days | PCS points: <b></b> |  UCI points: <b></b> </div></div>
   const uciPointsText = resultsSum.textContent.match(/UCI points: ([\d.]+)/)?.[1];
   if (!uciPointsText && !resultsSum.textContent.includes('0 km in 0 days')) {
-    console.error(`❌ Data not in expected format at ${pcsUrl}`);
+    logError(`Data not in expected format at ${pcsUrl}`);
     return errorStr;
   }
   const uciPoints = Number(uciPointsText) || 0;
