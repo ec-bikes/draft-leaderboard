@@ -1,10 +1,10 @@
 name: Update rankings
 
 on:
-  # Tuesdays at 12pm UTC (not sure when the update is)
+  # Tuesdays at 8am UTC (UCI rankings seemed to be updated before then)
   # https://crontab-generator.org/
   schedule:
-    - cron: '* 12 * * 2'
+    - cron: '0 8 * * 2'
   workflow_dispatch:
 
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
