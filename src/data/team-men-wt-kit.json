@@ -1,11 +1,11 @@
 {
-  "momentId": 176133,
-  "rankingDate": "5 March 2024",
-  "fetchedDate": "11 Mar 2024, 19:51 GMT",
+  "momentId": 176376,
+  "rankingDate": "12 March 2024",
+  "fetchedDate": "12 Mar 2024, 08:07 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 1871,
+    "totalPoints": 2729.72,
     "issues": [],
     "riders": [
       {
@@ -43,8 +43,43 @@
       {
         "name": "Juan Ayuso",
         "id": 415141,
-        "totalPoints": 493,
+        "totalPoints": 1063,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Final Result - General Classification",
+            "date": "10 Mar 2024",
+            "points": 400
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 6 - Stage Classification",
+            "date": "09 Mar 2024",
+            "points": 40
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 5 - Stage Classification",
+            "date": "08 Mar 2024",
+            "points": 40
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 3 - Stage General Classification",
+            "date": "06 Mar 2024",
+            "points": 10
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 2 - Stage General Classification",
+            "date": "05 Mar 2024",
+            "points": 10
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 1 - Stage Classification",
+            "date": "04 Mar 2024",
+            "points": 60
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 1 - Stage General Classification",
+            "date": "04 Mar 2024",
+            "points": 10
+          },
           {
             "name": "Trofeo Laigueglia",
             "date": "28 Feb 2024",
@@ -112,8 +147,13 @@
       {
         "name": "Filippo Ganna",
         "id": 91640,
-        "totalPoints": 5,
+        "totalPoints": 45,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Stage 1 - Stage Classification",
+            "date": "04 Mar 2024",
+            "points": 40
+          },
           {
             "name": "Cadel Evans Great Ocean Road Race",
             "date": "28 Jan 2024",
@@ -124,8 +164,18 @@
       {
         "name": "Pello Bilbao",
         "id": 76092,
-        "totalPoints": 321,
+        "totalPoints": 341.28999999999996,
         "results": [
+          {
+            "name": "Paris-Nice - Final Result - General Classification",
+            "date": "10 Mar 2024",
+            "points": 20
+          },
+          {
+            "name": "Paris-Nice - Stage 3 - Stage Classification",
+            "date": "05 Mar 2024",
+            "points": 0.29
+          },
           {
             "name": "UAE Tour - Final Result - General Classification",
             "date": "25 Feb 2024",
@@ -161,8 +211,13 @@
       {
         "name": "Alexey Lutsenko",
         "id": 68778,
-        "totalPoints": 5,
+        "totalPoints": 6.43,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 3 - Stage Classification",
+            "date": "05 Mar 2024",
+            "points": 1.43
+          },
           {
             "name": "Omloop Nieuwsblad",
             "date": "24 Feb 2024",
@@ -173,8 +228,18 @@
       {
         "name": "Lennard Kämna",
         "id": 97741,
-        "totalPoints": 24,
+        "totalPoints": 159,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Final Result - General Classification",
+            "date": "10 Mar 2024",
+            "points": 125
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 6 - Stage Classification",
+            "date": "09 Mar 2024",
+            "points": 10
+          },
           {
             "name": "Strade Bianche",
             "date": "02 Mar 2024",
@@ -185,8 +250,13 @@
       {
         "name": "Gerben Thijssen",
         "id": 107713,
-        "totalPoints": 243,
+        "totalPoints": 263,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 2 - Stage Classification",
+            "date": "04 Mar 2024",
+            "points": 20
+          },
           {
             "name": "Volta ao Algarve em Bicicleta - Stage 3 - Stage Classification",
             "date": "16 Feb 2024",
@@ -222,8 +292,19 @@
       {
         "name": "Wout Poels",
         "id": 1974873,
-        "totalPoints": 0,
-        "results": []
+        "totalPoints": 72,
+        "results": [
+          {
+            "name": "Tirreno-Adriatico - Final Result - General Classification",
+            "date": "10 Mar 2024",
+            "points": 70
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 6 - Stage Classification",
+            "date": "09 Mar 2024",
+            "points": 2
+          }
+        ]
       },
       {
         "name": "Esteban Chaves",

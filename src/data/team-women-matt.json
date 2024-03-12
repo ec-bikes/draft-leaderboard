@@ -1,11 +1,11 @@
 {
-  "momentId": 176133,
-  "rankingDate": "5 March 2024",
-  "fetchedDate": "11 Mar 2024, 09:35 GMT",
+  "momentId": 176376,
+  "rankingDate": "12 March 2024",
+  "fetchedDate": "12 Mar 2024, 08:07 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 2968,
+    "totalPoints": 3054,
     "issues": [],
     "riders": [
       {
@@ -127,8 +127,18 @@
       {
         "name": "Gaia Realini",
         "id": 303036,
-        "totalPoints": 370,
+        "totalPoints": 405,
         "results": [
+          {
+            "name": "Vuelta Extremadura Féminas - Final Result - General Classification",
+            "date": "10 Mar 2024",
+            "points": 30
+          },
+          {
+            "name": "Vuelta Extremadura Féminas - Stage 2 - Stage Classification",
+            "date": "09 Mar 2024",
+            "points": 5
+          },
           {
             "name": "Trofeo Oro in Euro - Women's Bike Race",
             "date": "03 Mar 2024",
@@ -235,8 +245,28 @@
       {
         "name": "Kristen Faulkner",
         "id": 1688341,
-        "totalPoints": 286,
+        "totalPoints": 337,
         "results": [
+          {
+            "name": "Trofeo Ponente in Rosa - Final Result - General Classification",
+            "date": "08 Mar 2024",
+            "points": 30
+          },
+          {
+            "name": "Trofeo Ponente in Rosa - Stage 3 - Stage Classification",
+            "date": "08 Mar 2024",
+            "points": 8
+          },
+          {
+            "name": "Trofeo Ponente in Rosa - Stage 2 - Stage Classification",
+            "date": "07 Mar 2024",
+            "points": 8
+          },
+          {
+            "name": "Trofeo Ponente in Rosa - Stage 1 - Stage Classification",
+            "date": "06 Mar 2024",
+            "points": 5
+          },
           {
             "name": "Strade Bianche",
             "date": "02 Mar 2024",

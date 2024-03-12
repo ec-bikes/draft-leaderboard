@@ -1,18 +1,34 @@
 {
-  "momentId": 176133,
-  "rankingDate": "5 March 2024",
-  "fetchedDate": "11 Mar 2024, 19:51 GMT",
+  "momentId": 176376,
+  "rankingDate": "12 March 2024",
+  "fetchedDate": "12 Mar 2024, 08:07 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 1184,
+    "totalPoints": 1758.86,
     "issues": [],
     "riders": [
       {
         "name": "Jasper Philipsen",
         "id": 148275,
-        "totalPoints": 0,
-        "results": []
+        "totalPoints": 125,
+        "results": [
+          {
+            "name": "Tirreno-Adriatico - Stage 7 - Stage Classification",
+            "date": "10 Mar 2024",
+            "points": 25
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 4 - Stage Classification",
+            "date": "07 Mar 2024",
+            "points": 40
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 2 - Stage Classification",
+            "date": "05 Mar 2024",
+            "points": 60
+          }
+        ]
       },
       {
         "name": "Simon Yates",
@@ -93,8 +109,23 @@
       {
         "name": "Jai Hindley",
         "id": 109829,
-        "totalPoints": 88,
+        "totalPoints": 473,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Final Result - General Classification",
+            "date": "10 Mar 2024",
+            "points": 325
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 6 - Stage Classification",
+            "date": "09 Mar 2024",
+            "points": 30
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 5 - Stage Classification",
+            "date": "08 Mar 2024",
+            "points": 30
+          },
           {
             "name": "Volta a la Comunitat Valenciana - Final Result - General Classification",
             "date": "04 Feb 2024",
@@ -110,8 +141,13 @@
       {
         "name": "Yves Lampaert",
         "id": 86228,
-        "totalPoints": 47,
+        "totalPoints": 50.57,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 3 - Stage Classification",
+            "date": "05 Mar 2024",
+            "points": 3.57
+          },
           {
             "name": "Kuurne - Brussel - Kuurne",
             "date": "25 Feb 2024",
@@ -137,8 +173,18 @@
       {
         "name": "Fred Wright",
         "id": 153275,
-        "totalPoints": 10,
+        "totalPoints": 13.29,
         "results": [
+          {
+            "name": "Paris-Nice - Final Result - General Classification",
+            "date": "10 Mar 2024",
+            "points": 3
+          },
+          {
+            "name": "Paris-Nice - Stage 3 - Stage Classification",
+            "date": "05 Mar 2024",
+            "points": 0.29
+          },
           {
             "name": "Kuurne - Brussel - Kuurne",
             "date": "25 Feb 2024",
@@ -154,8 +200,13 @@
       {
         "name": "Bryan Coquard",
         "id": 68950,
-        "totalPoints": 230,
+        "totalPoints": 230.71,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 3 - Stage Classification",
+            "date": "05 Mar 2024",
+            "points": 0.71
+          },
           {
             "name": "Tour of Oman - Stage 3 - Stage Classification",
             "date": "12 Feb 2024",
@@ -196,8 +247,23 @@
       {
         "name": "Romain Grégoire",
         "id": 1759422,
-        "totalPoints": 243,
+        "totalPoints": 297,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Final Result - General Classification",
+            "date": "10 Mar 2024",
+            "points": 50
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 5 - Stage Classification",
+            "date": "08 Mar 2024",
+            "points": 2
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 1 - Stage Classification",
+            "date": "04 Mar 2024",
+            "points": 2
+          },
           {
             "name": "Strade Bianche",
             "date": "02 Mar 2024",
@@ -228,8 +294,18 @@
       {
         "name": "Jack Haig",
         "id": 78342,
-        "totalPoints": 85,
+        "totalPoints": 88.29,
         "results": [
+          {
+            "name": "Paris-Nice - Final Result - General Classification",
+            "date": "10 Mar 2024",
+            "points": 3
+          },
+          {
+            "name": "Paris-Nice - Stage 3 - Stage Classification",
+            "date": "05 Mar 2024",
+            "points": 0.29
+          },
           {
             "name": "Santos Tour Down Under - Final Result - General Classification",
             "date": "21 Jan 2024",

@@ -1,18 +1,33 @@
 {
-  "momentId": 176133,
-  "rankingDate": "5 March 2024",
-  "fetchedDate": "11 Mar 2024, 19:51 GMT",
+  "momentId": 176376,
+  "rankingDate": "12 March 2024",
+  "fetchedDate": "12 Mar 2024, 08:07 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 1919,
+    "totalPoints": 3064,
     "issues": [],
     "riders": [
       {
         "name": "Mads Pedersen",
         "id": 86895,
-        "totalPoints": 321,
+        "totalPoints": 409,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 5 - Stage Classification",
+            "date": "07 Mar 2024",
+            "points": 40
+          },
+          {
+            "name": "Paris-Nice - Stage 2 - Stage Classification",
+            "date": "04 Mar 2024",
+            "points": 8
+          },
+          {
+            "name": "Paris-Nice - Stage 1 - Stage Classification",
+            "date": "03 Mar 2024",
+            "points": 40
+          },
           {
             "name": "Tour de la Provence - Final Result - General Classification",
             "date": "11 Feb 2024",
@@ -106,8 +121,38 @@
       {
         "name": "Matteo Jorgenson",
         "id": 159567,
-        "totalPoints": 12,
+        "totalPoints": 612.14,
         "results": [
+          {
+            "name": "Paris-Nice - Final Result - General Classification",
+            "date": "10 Mar 2024",
+            "points": 500
+          },
+          {
+            "name": "Paris-Nice - Stage 8 - Stage Classification",
+            "date": "10 Mar 2024",
+            "points": 40
+          },
+          {
+            "name": "Paris-Nice - Stage 7 - Stage Classification",
+            "date": "09 Mar 2024",
+            "points": 20
+          },
+          {
+            "name": "Paris-Nice - Stage 6 - Stage Classification",
+            "date": "08 Mar 2024",
+            "points": 30
+          },
+          {
+            "name": "Paris-Nice - Stage 4 - Stage Classification",
+            "date": "06 Mar 2024",
+            "points": 8
+          },
+          {
+            "name": "Paris-Nice - Stage 3 - Stage Classification",
+            "date": "05 Mar 2024",
+            "points": 2.14
+          },
           {
             "name": "Omloop Nieuwsblad",
             "date": "24 Feb 2024",
@@ -140,8 +185,13 @@
       {
         "name": "Kaden Groves",
         "id": 111683,
-        "totalPoints": -23,
+        "totalPoints": -21,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 1 - Stage Classification",
+            "date": "03 Mar 2024",
+            "points": 2
+          },
           {
             "name": "UAE Tour - Stage 5 - Stage Classification",
             "date": "23 Feb 2024",
@@ -153,8 +203,13 @@
       {
         "name": "Toms Skujiņš",
         "id": 68892,
-        "totalPoints": 352,
+        "totalPoints": 362,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Final Result - General Classification",
+            "date": "10 Mar 2024",
+            "points": 10
+          },
           {
             "name": "Strade Bianche",
             "date": "02 Mar 2024",
@@ -186,8 +241,33 @@
       {
         "name": "Egan Bernal",
         "id": 95844,
-        "totalPoints": 190,
+        "totalPoints": 369.86,
         "results": [
+          {
+            "name": "Paris-Nice - Final Result - General Classification",
+            "date": "10 Mar 2024",
+            "points": 150
+          },
+          {
+            "name": "Paris-Nice - Stage 8 - Stage Classification",
+            "date": "10 Mar 2024",
+            "points": 5
+          },
+          {
+            "name": "Paris-Nice - Stage 6 - Stage Classification",
+            "date": "08 Mar 2024",
+            "points": 2
+          },
+          {
+            "name": "Paris-Nice - Stage 4 - Stage Classification",
+            "date": "06 Mar 2024",
+            "points": 20
+          },
+          {
+            "name": "Paris-Nice - Stage 3 - Stage Classification",
+            "date": "05 Mar 2024",
+            "points": 2.86
+          },
           {
             "name": "O Gran Camiño - The Historical Route - Final Result - General Classification",
             "date": "25 Feb 2024",
@@ -218,8 +298,23 @@
       {
         "name": "Ben O'Connor",
         "id": 97805,
-        "totalPoints": 435,
+        "totalPoints": 700,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Final Result - General Classification",
+            "date": "10 Mar 2024",
+            "points": 225
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 6 - Stage Classification",
+            "date": "09 Mar 2024",
+            "points": 15
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 5 - Stage Classification",
+            "date": "08 Mar 2024",
+            "points": 25
+          },
           {
             "name": "UAE Tour - Final Result - General Classification",
             "date": "25 Feb 2024",

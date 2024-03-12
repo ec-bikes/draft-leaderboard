@@ -1,11 +1,11 @@
 {
-  "momentId": 176133,
-  "rankingDate": "5 March 2024",
-  "fetchedDate": "11 Mar 2024, 09:35 GMT",
+  "momentId": 176376,
+  "rankingDate": "12 March 2024",
+  "fetchedDate": "12 Mar 2024, 08:07 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 2378,
+    "totalPoints": 2630,
     "issues": [],
     "riders": [
       {
@@ -87,8 +87,13 @@
       {
         "name": "Charlotte Kool",
         "id": 157612,
-        "totalPoints": 40,
+        "totalPoints": 96,
         "results": [
+          {
+            "name": "Miron Ronde van Drenthe",
+            "date": "10 Mar 2024",
+            "points": 56
+          },
           {
             "name": "Le Samyn des Dames",
             "date": "27 Feb 2024",
@@ -190,8 +195,13 @@
       {
         "name": "Marta Lach",
         "id": 96399,
-        "totalPoints": 98,
+        "totalPoints": 146,
         "results": [
+          {
+            "name": "Miron Ronde van Drenthe",
+            "date": "10 Mar 2024",
+            "points": 48
+          },
           {
             "name": "Trofeo Oro in Euro - Women's Bike Race",
             "date": "03 Mar 2024",
@@ -227,8 +237,13 @@
       {
         "name": "Sofia Bertizzolo",
         "id": 106607,
-        "totalPoints": 100,
+        "totalPoints": 108,
         "results": [
+          {
+            "name": "Miron Ronde van Drenthe",
+            "date": "10 Mar 2024",
+            "points": 8
+          },
           {
             "name": "Deakin University Elite Women’s Road Race",
             "date": "27 Jan 2024",
@@ -254,8 +269,13 @@
       {
         "name": "Vittoria Guazzini",
         "id": 153391,
-        "totalPoints": 143,
+        "totalPoints": 283,
         "results": [
+          {
+            "name": "Miron Ronde van Drenthe",
+            "date": "10 Mar 2024",
+            "points": 140
+          },
           {
             "name": "Le Samyn des Dames",
             "date": "27 Feb 2024",

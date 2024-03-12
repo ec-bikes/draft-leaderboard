@@ -1,11 +1,11 @@
 {
-  "momentId": 176133,
-  "rankingDate": "5 March 2024",
-  "fetchedDate": "11 Mar 2024, 09:35 GMT",
+  "momentId": 176376,
+  "rankingDate": "12 March 2024",
+  "fetchedDate": "12 Mar 2024, 08:07 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 2034,
+    "totalPoints": 2110,
     "issues": [],
     "riders": [
       {
@@ -43,8 +43,13 @@
       {
         "name": "Pfeiffer Georgi",
         "id": 153350,
-        "totalPoints": 138,
+        "totalPoints": 206,
         "results": [
+          {
+            "name": "Miron Ronde van Drenthe",
+            "date": "10 Mar 2024",
+            "points": 68
+          },
           {
             "name": "Craywinckelhof - Omloop van het Hageland",
             "date": "25 Feb 2024",
@@ -92,8 +97,13 @@
       {
         "name": "Mischa Bredewold",
         "id": 227721,
-        "totalPoints": 85,
+        "totalPoints": 93,
         "results": [
+          {
+            "name": "Miron Ronde van Drenthe",
+            "date": "10 Mar 2024",
+            "points": 8
+          },
           {
             "name": "Craywinckelhof - Omloop van het Hageland",
             "date": "25 Feb 2024",

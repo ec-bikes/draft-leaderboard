@@ -1,11 +1,11 @@
 {
-  "momentId": 176133,
-  "rankingDate": "5 March 2024",
-  "fetchedDate": "11 Mar 2024, 19:51 GMT",
+  "momentId": 176376,
+  "rankingDate": "12 March 2024",
+  "fetchedDate": "12 Mar 2024, 08:07 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 1240,
+    "totalPoints": 1327.86,
     "issues": [],
     "riders": [
       {
@@ -111,8 +111,18 @@
       {
         "name": "Josh Tarling",
         "id": 1557793,
-        "totalPoints": 20,
+        "totalPoints": 27.86,
         "results": [
+          {
+            "name": "Paris-Nice - Final Result - General Classification",
+            "date": "10 Mar 2024",
+            "points": 5
+          },
+          {
+            "name": "Paris-Nice - Stage 3 - Stage Classification",
+            "date": "05 Mar 2024",
+            "points": 2.86
+          },
           {
             "name": "O Gran Camiño - The Historical Route - Stage 1 - Stage Classification",
             "date": "22 Feb 2024",
@@ -133,8 +143,14 @@
       {
         "name": "Enric Mas",
         "id": 109803,
-        "totalPoints": 0,
-        "results": []
+        "totalPoints": 60,
+        "results": [
+          {
+            "name": "Tirreno-Adriatico - Final Result - General Classification",
+            "date": "10 Mar 2024",
+            "points": 60
+          }
+        ]
       },
       {
         "name": "Rui Costa",
@@ -156,8 +172,13 @@
       {
         "name": "Guillaume Martin",
         "id": 75170,
-        "totalPoints": 30,
+        "totalPoints": 50,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Final Result - General Classification",
+            "date": "10 Mar 2024",
+            "points": 20
+          },
           {
             "name": "Tour des Alpes-Maritimes - Final Result - General Classification",
             "date": "18 Feb 2024",

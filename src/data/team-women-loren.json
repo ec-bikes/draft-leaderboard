@@ -1,11 +1,11 @@
 {
-  "momentId": 176133,
-  "rankingDate": "5 March 2024",
-  "fetchedDate": "11 Mar 2024, 09:35 GMT",
+  "momentId": 176376,
+  "rankingDate": "12 March 2024",
+  "fetchedDate": "12 Mar 2024, 08:07 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 2129,
+    "totalPoints": 2547,
     "issues": [],
     "riders": [
       {
@@ -75,8 +75,13 @@
       {
         "name": "Elisa Balsamo",
         "id": 101826,
-        "totalPoints": 133,
+        "totalPoints": 453,
         "results": [
+          {
+            "name": "Miron Ronde van Drenthe",
+            "date": "10 Mar 2024",
+            "points": 320
+          },
           {
             "name": "Craywinckelhof - Omloop van het Hageland",
             "date": "25 Feb 2024",
@@ -189,8 +194,23 @@
       {
         "name": "Chiara Consonni",
         "id": 156600,
-        "totalPoints": 173,
+        "totalPoints": 271,
         "results": [
+          {
+            "name": "Miron Ronde van Drenthe",
+            "date": "10 Mar 2024",
+            "points": 8
+          },
+          {
+            "name": "Drentse Acht van Westerveld",
+            "date": "09 Mar 2024",
+            "points": 85
+          },
+          {
+            "name": "Altez GP Oetingen p/b Lotto",
+            "date": "06 Mar 2024",
+            "points": 5
+          },
           {
             "name": "Le Samyn des Dames",
             "date": "27 Feb 2024",

@@ -1,24 +1,50 @@
 {
-  "momentId": 176133,
-  "rankingDate": "5 March 2024",
-  "fetchedDate": "11 Mar 2024, 19:51 GMT",
+  "momentId": 176376,
+  "rankingDate": "12 March 2024",
+  "fetchedDate": "12 Mar 2024, 08:07 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
-    "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCCWOLUUNLITL",
-    "totalPoints": 2446,
+    "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
+    "totalPoints": 3417.2799999999997,
     "issues": [],
     "riders": [
       {
         "name": "Primož Roglič",
         "id": 88889,
-        "totalPoints": 0,
-        "results": []
+        "totalPoints": 130,
+        "results": [
+          {
+            "name": "Paris-Nice - Final Result - General Classification",
+            "date": "10 Mar 2024",
+            "points": 85
+          },
+          {
+            "name": "Paris-Nice - Stage 7 - Stage Classification",
+            "date": "09 Mar 2024",
+            "points": 30
+          },
+          {
+            "name": "Paris-Nice - Stage 6 - Stage Classification",
+            "date": "08 Mar 2024",
+            "points": 5
+          },
+          {
+            "name": "Paris-Nice - Stage 4 - Stage Classification",
+            "date": "06 Mar 2024",
+            "points": 10
+          }
+        ]
       },
       {
         "name": "Biniam Girmay",
         "id": 1707195,
-        "totalPoints": 245,
+        "totalPoints": 270,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Stage 4 - Stage Classification",
+            "date": "07 Mar 2024",
+            "points": 25
+          },
           {
             "name": "Omloop Nieuwsblad",
             "date": "24 Feb 2024",
@@ -64,8 +90,23 @@
       {
         "name": "Tom Pidcock",
         "id": 109775,
-        "totalPoints": 375,
+        "totalPoints": 503,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Final Result - General Classification",
+            "date": "10 Mar 2024",
+            "points": 100
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 6 - Stage Classification",
+            "date": "09 Mar 2024",
+            "points": 20
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 5 - Stage Classification",
+            "date": "08 Mar 2024",
+            "points": 8
+          },
           {
             "name": "Strade Bianche",
             "date": "02 Mar 2024",
@@ -91,8 +132,28 @@
       {
         "name": "Olav Kooij",
         "id": 227110,
-        "totalPoints": 260,
+        "totalPoints": 392.14,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 5 - Stage Classification",
+            "date": "07 Mar 2024",
+            "points": 60
+          },
+          {
+            "name": "Paris-Nice - Stage 3 - Stage Classification",
+            "date": "05 Mar 2024",
+            "points": 2.14
+          },
+          {
+            "name": "Paris-Nice - Stage 1 - Stage Classification",
+            "date": "03 Mar 2024",
+            "points": 60
+          },
+          {
+            "name": "Paris-Nice - Stage 1 - Stage General Classification",
+            "date": "03 Mar 2024",
+            "points": 10
+          },
           {
             "name": "UAE Tour - Stage 5 - Stage Classification",
             "date": "23 Feb 2024",
@@ -113,8 +174,38 @@
       {
         "name": "Jonathan Milan",
         "id": 301151,
-        "totalPoints": 38,
+        "totalPoints": 243,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Stage 7 - Stage Classification",
+            "date": "10 Mar 2024",
+            "points": 60
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 4 - Stage Classification",
+            "date": "07 Mar 2024",
+            "points": 60
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 4 - Stage General Classification",
+            "date": "07 Mar 2024",
+            "points": 10
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 3 - Stage Classification",
+            "date": "06 Mar 2024",
+            "points": 40
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 2 - Stage Classification",
+            "date": "05 Mar 2024",
+            "points": 5
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 1 - Stage Classification",
+            "date": "04 Mar 2024",
+            "points": 30
+          },
           {
             "name": "Volta a la Comunitat Valenciana - Stage 5 - Stage Classification",
             "date": "04 Feb 2024",
@@ -214,8 +305,23 @@
       {
         "name": "Sam Bennett",
         "id": 65995,
-        "totalPoints": 30,
+        "totalPoints": 71.14,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 5 - Stage Classification",
+            "date": "07 Mar 2024",
+            "points": 25
+          },
+          {
+            "name": "Paris-Nice - Stage 3 - Stage Classification",
+            "date": "05 Mar 2024",
+            "points": 1.14
+          },
+          {
+            "name": "Paris-Nice - Stage 2 - Stage Classification",
+            "date": "04 Mar 2024",
+            "points": 15
+          },
           {
             "name": "Tour de la Provence - Final Result - General Classification",
             "date": "11 Feb 2024",
@@ -231,8 +337,23 @@
       {
         "name": "Isaac del Toro",
         "id": 2002910,
-        "totalPoints": 461,
+        "totalPoints": 771,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Final Result - General Classification",
+            "date": "10 Mar 2024",
+            "points": 275
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 6 - Stage Classification",
+            "date": "09 Mar 2024",
+            "points": 25
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 5 - Stage Classification",
+            "date": "08 Mar 2024",
+            "points": 10
+          },
           {
             "name": "Volta ao Algarve em Bicicleta - Stage 4 - Stage Classification",
             "date": "17 Feb 2024",

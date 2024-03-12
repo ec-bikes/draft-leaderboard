@@ -1,18 +1,48 @@
 {
-  "momentId": 176133,
-  "rankingDate": "5 March 2024",
-  "fetchedDate": "11 Mar 2024, 19:51 GMT",
+  "momentId": 176376,
+  "rankingDate": "12 March 2024",
+  "fetchedDate": "12 Mar 2024, 08:07 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 1297,
+    "totalPoints": 2170.71,
     "issues": [],
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
-        "totalPoints": 455,
+        "totalPoints": 1008.57,
         "results": [
+          {
+            "name": "Paris-Nice - Final Result - General Classification",
+            "date": "10 Mar 2024",
+            "points": 400
+          },
+          {
+            "name": "Paris-Nice - Stage 8 - Stage Classification",
+            "date": "10 Mar 2024",
+            "points": 60
+          },
+          {
+            "name": "Paris-Nice - Stage 7 - Stage Classification",
+            "date": "09 Mar 2024",
+            "points": 40
+          },
+          {
+            "name": "Paris-Nice - Stage 6 - Stage Classification",
+            "date": "08 Mar 2024",
+            "points": 25
+          },
+          {
+            "name": "Paris-Nice - Stage 4 - Stage Classification",
+            "date": "06 Mar 2024",
+            "points": 25
+          },
+          {
+            "name": "Paris-Nice - Stage 3 - Stage Classification",
+            "date": "05 Mar 2024",
+            "points": 3.57
+          },
           {
             "name": "Volta ao Algarve em Bicicleta - Final Result - General Classification",
             "date": "18 Feb 2024",
@@ -54,8 +84,13 @@
       {
         "name": "Tao Geoghegan Hart",
         "id": 86735,
-        "totalPoints": 25,
+        "totalPoints": 45,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Final Result - General Classification",
+            "date": "10 Mar 2024",
+            "points": 20
+          },
           {
             "name": "Volta ao Algarve em Bicicleta - Final Result - General Classification",
             "date": "18 Feb 2024",
@@ -66,8 +101,23 @@
       {
         "name": "Santiago Buitrago",
         "id": 353375,
-        "totalPoints": 165,
+        "totalPoints": 240.29000000000002,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 7 - Stage Classification",
+            "date": "09 Mar 2024",
+            "points": 15
+          },
+          {
+            "name": "Paris-Nice - Stage 4 - Stage Classification",
+            "date": "06 Mar 2024",
+            "points": 60
+          },
+          {
+            "name": "Paris-Nice - Stage 3 - Stage Classification",
+            "date": "05 Mar 2024",
+            "points": 0.29
+          },
           {
             "name": "Volta a la Comunitat Valenciana - Final Result - General Classification",
             "date": "04 Feb 2024",
@@ -83,8 +133,13 @@
       {
         "name": "Tim Merlier",
         "id": 70962,
-        "totalPoints": 185,
+        "totalPoints": 225,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Stage 2 - Stage Classification",
+            "date": "05 Mar 2024",
+            "points": 40
+          },
           {
             "name": "UAE Tour - Stage 6 - Stage Classification",
             "date": "24 Feb 2024",
@@ -135,8 +190,13 @@
       {
         "name": "Julian Alaphilippe",
         "id": 71557,
-        "totalPoints": 215,
+        "totalPoints": 220,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Stage 4 - Stage Classification",
+            "date": "07 Mar 2024",
+            "points": 5
+          },
           {
             "name": "Santos Tour Down Under - Final Result - General Classification",
             "date": "21 Jan 2024",
@@ -157,8 +217,33 @@
       {
         "name": "Felix Gall",
         "id": 150925,
-        "totalPoints": 100,
+        "totalPoints": 234.14,
         "results": [
+          {
+            "name": "Paris-Nice - Final Result - General Classification",
+            "date": "10 Mar 2024",
+            "points": 100
+          },
+          {
+            "name": "Paris-Nice - Stage 8 - Stage Classification",
+            "date": "10 Mar 2024",
+            "points": 8
+          },
+          {
+            "name": "Paris-Nice - Stage 6 - Stage Classification",
+            "date": "08 Mar 2024",
+            "points": 10
+          },
+          {
+            "name": "Paris-Nice - Stage 4 - Stage Classification",
+            "date": "06 Mar 2024",
+            "points": 15
+          },
+          {
+            "name": "Paris-Nice - Stage 3 - Stage Classification",
+            "date": "05 Mar 2024",
+            "points": 1.14
+          },
           {
             "name": "Faun-Ardèche Classic",
             "date": "24 Feb 2024",
@@ -175,8 +260,18 @@
       {
         "name": "Dylan Groenewegen",
         "id": 72932,
-        "totalPoints": 144,
+        "totalPoints": 179.71,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 3 - Stage Classification",
+            "date": "05 Mar 2024",
+            "points": 5.71
+          },
+          {
+            "name": "Paris-Nice - Stage 2 - Stage Classification",
+            "date": "04 Mar 2024",
+            "points": 30
+          },
           {
             "name": "UAE Tour - Stage 6 - Stage Classification",
             "date": "24 Feb 2024",
@@ -202,8 +297,13 @@
       {
         "name": "Andrea Bagioli",
         "id": 157221,
-        "totalPoints": 8,
+        "totalPoints": 18,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Final Result - General Classification",
+            "date": "10 Mar 2024",
+            "points": 10
+          },
           {
             "name": "Volta ao Algarve em Bicicleta - Final Result - General Classification",
             "date": "18 Feb 2024",

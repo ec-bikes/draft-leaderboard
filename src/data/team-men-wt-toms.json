@@ -1,11 +1,11 @@
 {
-  "momentId": 176133,
-  "rankingDate": "5 March 2024",
-  "fetchedDate": "11 Mar 2024, 19:51 GMT",
+  "momentId": 176376,
+  "rankingDate": "12 March 2024",
+  "fetchedDate": "12 Mar 2024, 08:07 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 1844,
+    "totalPoints": 3207.14,
     "issues": [],
     "riders": [
       {
@@ -28,8 +28,38 @@
       {
         "name": "Mattias Skjelmose",
         "id": 365033,
-        "totalPoints": 210,
+        "totalPoints": 633,
         "results": [
+          {
+            "name": "Paris-Nice - Final Result - General Classification",
+            "date": "10 Mar 2024",
+            "points": 275
+          },
+          {
+            "name": "Paris-Nice - Stage 8 - Stage Classification",
+            "date": "10 Mar 2024",
+            "points": 25
+          },
+          {
+            "name": "Paris-Nice - Stage 7 - Stage Classification",
+            "date": "09 Mar 2024",
+            "points": 25
+          },
+          {
+            "name": "Paris-Nice - Stage 6 - Stage Classification",
+            "date": "08 Mar 2024",
+            "points": 60
+          },
+          {
+            "name": "Paris-Nice - Stage 4 - Stage Classification",
+            "date": "06 Mar 2024",
+            "points": 30
+          },
+          {
+            "name": "Paris-Nice - Stage 1 - Stage Classification",
+            "date": "03 Mar 2024",
+            "points": 8
+          },
           {
             "name": "Faun Drome Classic",
             "date": "25 Feb 2024",
@@ -45,8 +75,13 @@
       {
         "name": "Valentin Madouas",
         "id": 91637,
-        "totalPoints": 62,
+        "totalPoints": 82,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Final Result - General Classification",
+            "date": "10 Mar 2024",
+            "points": 20
+          },
           {
             "name": "Strade Bianche",
             "date": "02 Mar 2024",
@@ -78,14 +113,45 @@
       {
         "name": "João Almeida",
         "id": 107840,
-        "totalPoints": 0,
-        "results": []
+        "totalPoints": 78.57,
+        "results": [
+          {
+            "name": "Paris-Nice - Final Result - General Classification",
+            "date": "10 Mar 2024",
+            "points": 70
+          },
+          {
+            "name": "Paris-Nice - Stage 3 - Stage Classification",
+            "date": "05 Mar 2024",
+            "points": 8.57
+          }
+        ]
       },
       {
         "name": "Kévin Vauquelin",
         "id": 1745291,
-        "totalPoints": 191,
+        "totalPoints": 319,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Final Result - General Classification",
+            "date": "10 Mar 2024",
+            "points": 85
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 5 - Stage Classification",
+            "date": "08 Mar 2024",
+            "points": 5
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 3 - Stage Classification",
+            "date": "06 Mar 2024",
+            "points": 30
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 1 - Stage Classification",
+            "date": "04 Mar 2024",
+            "points": 8
+          },
           {
             "name": "Strade Bianche",
             "date": "02 Mar 2024",
@@ -121,8 +187,53 @@
       {
         "name": "Brandon McNulty",
         "id": 150923,
-        "totalPoints": 447,
+        "totalPoints": 882.5699999999999,
         "results": [
+          {
+            "name": "Paris-Nice - Final Result - General Classification",
+            "date": "10 Mar 2024",
+            "points": 325
+          },
+          {
+            "name": "Paris-Nice - Stage 8 - Stage Classification",
+            "date": "10 Mar 2024",
+            "points": 20
+          },
+          {
+            "name": "Paris-Nice - Stage 7 - Stage Classification",
+            "date": "09 Mar 2024",
+            "points": 10
+          },
+          {
+            "name": "Paris-Nice - Stage 7 - Stage General Classification",
+            "date": "09 Mar 2024",
+            "points": 10
+          },
+          {
+            "name": "Paris-Nice - Stage 6 - Stage Classification",
+            "date": "08 Mar 2024",
+            "points": 40
+          },
+          {
+            "name": "Paris-Nice - Stage 6 - Stage General Classification",
+            "date": "08 Mar 2024",
+            "points": 10
+          },
+          {
+            "name": "Paris-Nice - Stage 4 - Stage Classification",
+            "date": "06 Mar 2024",
+            "points": 2
+          },
+          {
+            "name": "Paris-Nice - Stage 3 - Stage Classification",
+            "date": "05 Mar 2024",
+            "points": 8.57
+          },
+          {
+            "name": "Paris-Nice - Stage 3 - Stage General Classification",
+            "date": "05 Mar 2024",
+            "points": 10
+          },
           {
             "name": "UAE Tour - Final Result - General Classification",
             "date": "25 Feb 2024",
@@ -173,8 +284,23 @@
       {
         "name": "Cian Uijtdebroeks",
         "id": 1789559,
-        "totalPoints": 50,
+        "totalPoints": 220,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Final Result - General Classification",
+            "date": "10 Mar 2024",
+            "points": 150
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 6 - Stage Classification",
+            "date": "09 Mar 2024",
+            "points": 5
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 5 - Stage Classification",
+            "date": "08 Mar 2024",
+            "points": 15
+          },
           {
             "name": "O Gran Camiño - The Historical Route - Final Result - General Classification",
             "date": "25 Feb 2024",
@@ -185,8 +311,28 @@
       {
         "name": "Laurence Pithie",
         "id": 221617,
-        "totalPoints": 547,
+        "totalPoints": 635,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 5 - Stage Classification",
+            "date": "07 Mar 2024",
+            "points": 8
+          },
+          {
+            "name": "Paris-Nice - Stage 2 - Stage Classification",
+            "date": "04 Mar 2024",
+            "points": 40
+          },
+          {
+            "name": "Paris-Nice - Stage 2 - Stage General Classification",
+            "date": "04 Mar 2024",
+            "points": 10
+          },
+          {
+            "name": "Paris-Nice - Stage 1 - Stage Classification",
+            "date": "03 Mar 2024",
+            "points": 30
+          },
           {
             "name": "Le Samyn",
             "date": "27 Feb 2024",
@@ -264,8 +410,13 @@
       {
         "name": "Casper van Uden",
         "id": 226805,
-        "totalPoints": 32,
+        "totalPoints": 52,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Stage 2 - Stage Classification",
+            "date": "05 Mar 2024",
+            "points": 20
+          },
           {
             "name": "Le Samyn",
             "date": "27 Feb 2024",

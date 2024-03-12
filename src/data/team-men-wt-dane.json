@@ -1,18 +1,48 @@
 {
-  "momentId": 176133,
-  "rankingDate": "5 March 2024",
-  "fetchedDate": "11 Mar 2024, 19:51 GMT",
+  "momentId": 176376,
+  "rankingDate": "12 March 2024",
+  "fetchedDate": "12 Mar 2024, 08:07 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 941,
+    "totalPoints": 1608.86,
     "issues": [],
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
-        "totalPoints": 173,
+        "totalPoints": 818,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Final Result - General Classification",
+            "date": "10 Mar 2024",
+            "points": 500
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 6 - Stage Classification",
+            "date": "09 Mar 2024",
+            "points": 60
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 6 - Stage General Classification",
+            "date": "09 Mar 2024",
+            "points": 10
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 5 - Stage Classification",
+            "date": "08 Mar 2024",
+            "points": 60
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 5 - Stage General Classification",
+            "date": "08 Mar 2024",
+            "points": 10
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 1 - Stage Classification",
+            "date": "04 Mar 2024",
+            "points": 5
+          },
           {
             "name": "O Gran Camiño - The Historical Route - Final Result - General Classification",
             "date": "25 Feb 2024",
@@ -93,8 +123,18 @@
       {
         "name": "Carlos Rodriguez",
         "id": 428096,
-        "totalPoints": 3,
+        "totalPoints": 25.86,
         "results": [
+          {
+            "name": "Paris-Nice - Final Result - General Classification",
+            "date": "10 Mar 2024",
+            "points": 20
+          },
+          {
+            "name": "Paris-Nice - Stage 3 - Stage Classification",
+            "date": "05 Mar 2024",
+            "points": 2.86
+          },
           {
             "name": "Clásica Jaén",
             "date": "12 Feb 2024",
