@@ -15,6 +15,9 @@ concurrency:
 
 permissions:
   contents: write
+  # these are needed by the update-site workflow which this manually calls
+  pages: write
+  id-token: write
 
 jobs:
   update:
@@ -45,3 +48,4 @@ jobs:
   # this won't be triggered on push since the push was by another action
   call-update-site:
     uses: ./.github/workflows/update-site.yml
+    needs: update
