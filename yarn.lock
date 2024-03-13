@@ -819,6 +819,35 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@mui/lab@npm:^5.0.0-alpha.167":
+  version: 5.0.0-alpha.167
+  resolution: "@mui/lab@npm:5.0.0-alpha.167"
+  dependencies:
+    "@babel/runtime": "npm:^7.23.9"
+    "@mui/base": "npm:5.0.0-beta.38"
+    "@mui/system": "npm:^5.15.12"
+    "@mui/types": "npm:^7.2.13"
+    "@mui/utils": "npm:^5.15.12"
+    clsx: "npm:^2.1.0"
+    prop-types: "npm:^15.8.1"
+  peerDependencies:
+    "@emotion/react": ^11.5.0
+    "@emotion/styled": ^11.3.0
+    "@mui/material": ">=5.15.0"
+    "@types/react": ^17.0.0 || ^18.0.0
+    react: ^17.0.0 || ^18.0.0
+    react-dom: ^17.0.0 || ^18.0.0
+  peerDependenciesMeta:
+    "@emotion/react":
+      optional: true
+    "@emotion/styled":
+      optional: true
+    "@types/react":
+      optional: true
+  checksum: 10c0/031d9c5c553b385b5c7fe32c3cfff3ae613744966aebc9dbe13cc1a4cb81b4a99d8b064a4779c07ac6623fd09c8b66fdbfb990f361da33626a60293d42ee38c0
+  languageName: node
+  linkType: hard
+
 "@mui/material@npm:^5.15.12":
   version: 5.15.12
   resolution: "@mui/material@npm:5.15.12"
@@ -2039,6 +2068,7 @@ __metadata:
   dependencies:
     "@emotion/react": "npm:^11.11.4"
     "@emotion/styled": "npm:^11.11.0"
+    "@mui/lab": "npm:^5.0.0-alpha.167"
     "@mui/material": "npm:^5.15.12"
     "@types/node": "npm:^20.11.6"
     "@types/react": "npm:^18.2.59"

@@ -11,21 +11,24 @@ import {
   Typography,
   styled,
   tableCellClasses,
+  type TableProps,
 } from '@mui/material';
 import type { Team } from '../../common/types/Team';
 import type { Group } from '../../common/types/Group';
 import { getUciRiderUrl } from '../../common/uciUrls.js';
 import { getPcsUrl } from '../../common/getPcsUrl.js';
 
-const RiderTable = styled(Table)(({ theme }) => ({
-  width: '100%',
-  [`& .${tableCellClasses.root}`]: {
-    padding: `${theme.spacing(0.5)} ${theme.spacing(1)}`,
-  },
-  [`& .${tableCellClasses.head}`]: {
-    fontWeight: 'bold',
-  },
-}));
+const RiderTable = styled((props: TableProps) => <Table size="small" {...props} />)(
+  ({ theme }) => ({
+    width: '100%',
+    [`& .${tableCellClasses.root}`]: {
+      padding: `${theme.spacing(0.5)} ${theme.spacing(1)}`,
+    },
+    [`& .${tableCellClasses.head}`]: {
+      fontWeight: 'bold',
+    },
+  }),
+);
 const RiderRow = styled(TableRow)({
   // don't wrap the points count
   '&:nth-child(2)': { whiteSpace: 'nowrap' },
@@ -48,6 +51,7 @@ function PointsNumber(props: { rank: number; points: number }) {
           style={{
             display: 'inline-block',
             fontSize: '1.5rem',
+            // fontSize: '1.4rem',
             paddingRight: 4,
             paddingTop: 6,
             verticalAlign: 'top',
@@ -56,9 +60,12 @@ function PointsNumber(props: { rank: number; points: number }) {
           #
         </span>
         <strong style={{ fontSize: '2.5rem' }}>{props.rank}</strong>
+        {/* <strong style={{ fontSize: '2.2rem' }}>{props.rank}</strong> */}
       </span>
       <span style={{ fontSize: '1.3rem' }}>{Math.round(props.points)}</span>
       <span style={{ fontSize: '1rem' }}>points</span>
+      {/* <span style={{ fontSize: '1.2rem' }}>{Math.round(props.points)}</span>
+      <span style={{ fontSize: '0.9rem' }}>points</span> */}
     </Stack>
   );
 }
@@ -90,7 +97,7 @@ export function TeamCard(props: { team: Team; rank: number; momentId: number; gr
               <em>{team.name}</em>
             </Typography>
           </Stack>
-          <RiderTable size="small">
+          <RiderTable>
             <TableHead>
               <TableRow>
                 <TableCell>Rider</TableCell>

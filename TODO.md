@@ -1,4 +1,3 @@
-- switch to tabs
 - up/down/steady arrows
 - historical rankings
 - summary at top of page
