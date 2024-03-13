@@ -1,3 +1,4 @@
+import type { Group } from '../../src/types/Rider.js';
 import type { TeamJsonMetadata } from '../../src/types/Team.js';
 import { getUciRankingMoments } from './uciApis.js';
 
@@ -5,11 +6,11 @@ import { getUciRankingMoments } from './uciApis.js';
  * Get the `momentId` value used by UCI APIs, as well as the ranking date corresponding to that ID,
  * and the current date/time when the data is being fetched.
  */
-export async function getRankingMetadata(): Promise<
-  (TeamJsonMetadata & { rankingDateShort: string }) | string
-> {
+export async function getRankingMetadata(
+  group: Group,
+): Promise<(TeamJsonMetadata & { rankingDateShort: string }) | string> {
   // These values appear to be the same for men and women
-  const moments = await getUciRankingMoments('women');
+  const moments = await getUciRankingMoments(group);
   if (typeof moments === 'string') {
     return moments;
   }

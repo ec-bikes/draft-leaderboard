@@ -14,14 +14,21 @@ const groups: Record<Group, RawTeam[]> = {
   'men-wt': rawTeamsMen,
 };
 
-(async () => {
-  const metadata = await getRankingMetadata();
-  if (typeof metadata === 'string') {
-    logError(metadata);
-    process.exit(1);
-  }
+const groupArg = process.argv[2] as Group | undefined;
 
+(async () => {
   for (const [group, rawTeams] of Object.entries(groups) as [Group, RawTeam[]][]) {
+    if (groupArg && groupArg !== group) {
+      continue; // skip other groups if a specific one was requested
+    }
+
+    // Get the momentId value (which is slightly different between men and women) and ranking date
+    const metadata = await getRankingMetadata(group);
+    if (typeof metadata === 'string') {
+      logError(metadata);
+      process.exit(1);
+    }
+
     // Get data for each team
     const teams: Team[] = [];
     for (const rawTeam of rawTeams) {
