@@ -1,10 +1,10 @@
 import { Divider, Link, Stack, useTheme } from '@mui/material';
 import { usePageContext } from 'vike-react/usePageContext';
 import { TeamCards } from '../../components/TeamCards/TeamCards';
-import type { TeamsSummaryJson } from '../../../common/types/Team';
-import type { Group } from '../../../common/types/Group';
+import type { TeamsSummaryJson } from '../../common/types/Team';
+import type { Group } from '../../common/types/Group';
 import type { Data } from './+data.js';
-import { getUciSeasonRankingUrl } from '../../../common/uciUrls.js';
+import { getUciSeasonRankingUrl } from '../../common/uciUrls.js';
 
 export const title = 'Draft leaderboard';
 

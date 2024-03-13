@@ -1,8 +1,8 @@
 import React from 'react';
 import { CssBaseline, ThemeProvider, Container, Box } from '@mui/material';
-import { theme } from '../../theme.js';
+import { theme } from './theme.js';
 
-export function Layout(props: { children: React.ReactNode }) {
+export default function Layout(props: { children: React.ReactNode }) {
   // possibly the provider and baseline ought to be in a "Wrapper" component but that extra layer
   // is really not necessary for the site which currently only has one page/layout
   return (

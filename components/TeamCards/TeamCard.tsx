@@ -11,10 +11,10 @@ import {
   styled,
   tableCellClasses,
 } from '@mui/material';
-import type { Team } from '../../../common/types/Team';
-import type { Group } from '../../../common/types/Group';
-import { getUciRiderUrl } from '../../../common/uciUrls.js';
-import { getPcsUrl } from '../../../common/getPcsUrl.js';
+import type { Team } from '../../common/types/Team';
+import type { Group } from '../../common/types/Group';
+import { getUciRiderUrl } from '../../common/uciUrls.js';
+import { getPcsUrl } from '../../common/getPcsUrl.js';
 
 const CompactTableCell = styled(TableCell)(({ theme }) => ({
   padding: `${theme.spacing(0.5)} ${theme.spacing(1)}`,
