@@ -6,6 +6,7 @@
   "teams": [
     {
       "owner": "Abby Mickey",
+      "filename": "abby",
       "name": "Lidl-Trek M&Ms",
       "totalPoints": 3064,
       "riders": [
@@ -65,6 +66,7 @@
     },
     {
       "owner": "Caley Fretz",
+      "filename": "caley",
       "name": "Arkéa-Formula 1 Hotels",
       "totalPoints": 1327.86,
       "riders": [
@@ -122,6 +124,7 @@
     },
     {
       "owner": "Ronan Mc Laughlin",
+      "filename": "ronan",
       "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
       "totalPoints": 3417.2799999999997,
       "riders": [

@@ -7,6 +7,7 @@ import type { Group } from '../src/types/Rider.js';
 import type { RawTeam } from './types/RawTeam.js';
 import { rawTeamsMen } from './data/rawTeamsMen.js';
 import { logError } from './log.js';
+import { getTeamFilename } from '../src/data/getTeamFilename.js';
 
 const year = 2024;
 const groups: Record<Group, RawTeam[]> = {
@@ -37,7 +38,7 @@ const groupArg = process.argv[2] as Group | undefined;
 
       // Update the detailed team data file (only the current version, not dated)
       writeFiles<TeamDetailsJson>({
-        name: `team-${group}-${team.owner.split(' ')[0].toLowerCase()}`,
+        name: `${group}/details/${getTeamFilename(team.owner)}`,
         data: { ...metadata, team },
       });
 
@@ -51,7 +52,7 @@ const groupArg = process.argv[2] as Group | undefined;
 
     // Write the summary file
     writeFiles<TeamsSummaryJson>({
-      name: 'teams-' + group,
+      name: `${group}/summary`,
       data: { ...metadata, teams },
       dated: true, // also write a dated version of this file
     });

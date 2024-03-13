@@ -2,7 +2,9 @@ import type { Rider, RiderDetails } from './Rider.js';
 
 /** Team info without individual race results */
 export interface Team {
+  /** Team owner name */
   owner: string;
+  /** Team name */
   name: string;
   totalPoints: number;
   /** Rider summary data (no race results) */
