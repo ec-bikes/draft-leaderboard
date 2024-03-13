@@ -8,6 +8,7 @@ import {
   TableCell,
   TableHead,
   TableRow,
+  Typography,
   styled,
   tableCellClasses,
 } from '@mui/material';
@@ -30,13 +31,6 @@ const RiderRow = styled(TableRow)({
   '&:nth-child(2)': { whiteSpace: 'nowrap' },
   // make the links smaller and don't wrap
   '&:nth-child(3)': { fontSize: '0.7rem', whiteSpace: 'nowrap' },
-});
-
-const TeamName = styled('h3')({
-  fontSize: '1.3rem',
-  lineHeight: '1.3',
-  fontWeight: 'normal',
-  margin: 0,
 });
 
 function PointsNumber(props: { rank: number; points: number }) {
@@ -88,13 +82,13 @@ export function TeamCard(props: { team: Team; rank: number; momentId: number; gr
             spacing={{ xs: 2.5, sm: 3 }}
           >
             <PointsNumber rank={rank} points={Math.round(team.totalPoints)} />
-            <TeamName>
+            <Typography variant="h3">
               <span style={{ fontWeight: '500' }}>
                 {team.owner + (team.owner.endsWith('s') ? '’' : '’s')}
               </span>
               <br />
               <em>{team.name}</em>
-            </TeamName>
+            </Typography>
           </Stack>
           <RiderTable size="small">
             <TableHead>

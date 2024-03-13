@@ -1,15 +1,8 @@
-import { Link, Stack, styled } from '@mui/material';
+import { Link, Stack, Typography } from '@mui/material';
 import { TeamCards } from '../../components/TeamCards/TeamCards';
 import type { TeamsSummaryJson } from '../../common/types/Team';
 import type { Group } from '../../common/types/Group';
 import { getUciSeasonRankingUrl } from '../../common/uciUrls.js';
-
-const CompetitionTitle = styled('h2')({
-  margin: 0,
-  textAlign: 'center',
-  fontSize: '3.2rem',
-  lineHeight: '1.1',
-});
 
 export function Competition(props: {
   group: Group;
@@ -22,7 +15,7 @@ export function Competition(props: {
 
   return (
     <Stack gap={4} useFlexGap alignItems="center">
-      <CompetitionTitle>{title}</CompetitionTitle>
+      <Typography variant="h2">{title}</Typography>
 
       <div style={{ textAlign: 'center' }}>
         Teams from Escape Collective’s{' '}
