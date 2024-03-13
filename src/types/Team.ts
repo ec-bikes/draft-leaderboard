@@ -5,8 +5,6 @@ export interface Team {
   owner: string;
   name: string;
   totalPoints: number;
-  /** Issues that came up when trying to query data */
-  issues: string[];
   /** Rider summary data (no race results) */
   riders: Rider[];
 }
@@ -19,6 +17,7 @@ export interface TeamDetails extends Omit<Team, 'riders'> {
 
 /** Ranking and fetch dates for team data */
 export interface TeamJsonMetadata {
+  schemaVersion: 1;
   /** UCI ranking momentId for further requests */
   momentId: number;
   /** UCI ranking date (display-friendly, not for parsing) */

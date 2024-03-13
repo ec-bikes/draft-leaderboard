@@ -1,4 +1,5 @@
 {
+  "schemaVersion": 1,
   "momentId": 176365,
   "rankingDate": "12 March 2024",
   "fetchedDate": "12 Mar 2024, 08:23 GMT",
@@ -6,7 +7,6 @@
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
     "totalPoints": 3417.2799999999997,
-    "issues": [],
     "riders": [
       {
         "name": "Primož Roglič",

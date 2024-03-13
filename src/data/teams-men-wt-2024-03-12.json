@@ -1,4 +1,5 @@
 {
+  "schemaVersion": 1,
   "momentId": 176365,
   "rankingDate": "12 March 2024",
   "fetchedDate": "12 Mar 2024, 08:23 GMT",
@@ -7,7 +8,6 @@
       "owner": "Abby Mickey",
       "name": "Lidl-Trek M&Ms",
       "totalPoints": 3064,
-      "issues": [],
       "riders": [
         {
           "name": "Mads Pedersen",
@@ -67,7 +67,6 @@
       "owner": "Caley Fretz",
       "name": "Arkéa-Formula 1 Hotels",
       "totalPoints": 1327.86,
-      "issues": [],
       "riders": [
         {
           "name": "Tadej Pogačar",
@@ -125,7 +124,6 @@
       "owner": "Ronan Mc Laughlin",
       "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
       "totalPoints": 3417.2799999999997,
-      "issues": [],
       "riders": [
         {
           "name": "Primož Roglič",
@@ -183,7 +181,6 @@
       "owner": "Dane Cash",
       "name": "Visma-Lease a Bike-Monster Energy",
       "totalPoints": 1608.86,
-      "issues": [],
       "riders": [
         {
           "name": "Jonas Vingegaard",
@@ -241,7 +238,6 @@
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
       "totalPoints": 2170.71,
-      "issues": [],
       "riders": [
         {
           "name": "Remco Evenepoel",
@@ -299,7 +295,6 @@
       "owner": "Kit Nicholson",
       "name": "Ag2r La Mondiale-Criterion",
       "totalPoints": 2729.72,
-      "issues": [],
       "riders": [
         {
           "name": "Wout van Aert",
@@ -357,7 +352,6 @@
       "owner": "Toms Skujiņš",
       "name": "EF Education-EasyPost p/b Haribo",
       "totalPoints": 3207.14,
-      "issues": [],
       "riders": [
         {
           "name": "Adam Yates",
@@ -416,7 +410,6 @@
       "owner": "Jonny Long",
       "name": "Ines Grenadiers-Greenpeace",
       "totalPoints": 1758.86,
-      "issues": [],
       "riders": [
         {
           "name": "Jasper Philipsen",

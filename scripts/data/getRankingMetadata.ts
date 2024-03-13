@@ -52,6 +52,7 @@ export async function getRankingMetadata(
     }) + ' GMT';
 
   return {
+    schemaVersion: 1,
     momentId: moment.Id,
     rankingDate,
     rankingDateShort,

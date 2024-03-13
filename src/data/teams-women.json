@@ -1,4 +1,5 @@
 {
+  "schemaVersion": 1,
   "momentId": 176376,
   "rankingDate": "12 March 2024",
   "fetchedDate": "12 Mar 2024, 08:23 GMT",
@@ -7,7 +8,6 @@
       "owner": "Matt de Neef",
       "name": "Amateur Pro Cycling",
       "totalPoints": 3054,
-      "issues": [],
       "riders": [
         {
           "name": "Lotte Kopecky",
@@ -65,7 +65,6 @@
       "owner": "Tils Raynolds",
       "name": "Collective Cartel",
       "totalPoints": 2630,
-      "issues": [],
       "riders": [
         {
           "name": "Demi Vollering",
@@ -123,7 +122,6 @@
       "owner": "Abby Mickey",
       "name": "Death By A Thousand Attacks",
       "totalPoints": 2110,
-      "issues": [],
       "riders": [
         {
           "name": "Marianne Vos",
@@ -181,7 +179,6 @@
       "owner": "Gracie Elvin",
       "name": "RBF Spokeswoman Racing",
       "totalPoints": 3538,
-      "issues": [],
       "riders": [
         {
           "name": "Lorena Wiebes",
@@ -239,7 +236,6 @@
       "owner": "Loren Rowney",
       "name": "Super Lekker Pro Potato Women's Cycling Team",
       "totalPoints": 2547,
-      "issues": [],
       "riders": [
         {
           "name": "Marlen Reusser",
