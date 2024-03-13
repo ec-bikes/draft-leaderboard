@@ -2,11 +2,10 @@ import fetch from 'node-fetch';
 import { parse, type HTMLElement as BasicHTMLElement } from 'node-html-parser';
 import type { RawRider } from '../types/RawTeam.js';
 import { getPcsUrl } from '../../src/data/getPcsUrl.js';
-import { logError } from '../log.js';
 
 /**
  * Get data from a rider's ProCyclingStats page for a given year.
- * Returns the data or an error message.
+ * Throws if there's an error fetching data.
  *
  * Note that the UCI points appear *not* to include WWT leader's jersey bonuses.
  *
@@ -16,22 +15,19 @@ import { logError } from '../log.js';
 export async function getRiderPcsData(params: {
   rider: RawRider;
   year: number;
-}): Promise<{ uciPoints: number; sanctions: number } | string> {
+}): Promise<{ uciPoints: number; sanctions: number }> {
   const { rider, year } = params;
   const pcsUrl = getPcsUrl({ name: rider.name, year });
-  const errorStr = `Couldn't get ${year} PCS page data`;
 
   let root: BasicHTMLElement;
   try {
     const result = await fetch(pcsUrl);
     if (!result.ok) {
-      logError(`Failed to load ${pcsUrl} - ${result.status} ${result.statusText}`);
-      return errorStr;
+      throw new Error(`Failed to load ${pcsUrl} - ${result.status} ${result.statusText}`);
     }
     root = parse(await result.text());
   } catch (err) {
-    logError(`Error loading or parsing ${pcsUrl} - ${(err as Error).message || err}`);
-    return errorStr;
+    throw new Error(`Error loading or parsing ${pcsUrl} - ${(err as Error).message || err}`);
   }
 
   // This is usually the page title, or "Page not found" if the URL didn't work
@@ -46,11 +42,9 @@ export async function getRiderPcsData(params: {
     const isNotFound =
       h1Text === 'Page not found' || !nameParts.some((word) => h1Text.toLowerCase().includes(word));
     if (isNotFound) {
-      logError(`PCS URL didn't work: ${pcsUrl}`);
-      return errorStr;
+      throw new Error(`Invalid PCS URL: ${pcsUrl}`);
     }
-    logError(`PCS page format changed at ${pcsUrl}`);
-    return errorStr;
+    throw new Error(`PCS page format changed at ${pcsUrl}`);
   }
 
   // Totals row is like this. The UCI points should always be there (even if 0).
@@ -62,8 +56,7 @@ export async function getRiderPcsData(params: {
   // <div class="rdrResultsSum"><div>0 km in <b>0</b> days | PCS points: <b></b> |  UCI points: <b></b> </div></div>
   const uciPointsText = resultsSum.textContent.match(/UCI points: ([\d.]+)/)?.[1];
   if (!uciPointsText && !resultsSum.textContent.includes('0 km in 0 days')) {
-    logError(`Data not in expected format at ${pcsUrl}`);
-    return errorStr;
+    throw new Error(`Data not in expected format at ${pcsUrl}`);
   }
   const uciPoints = Number(uciPointsText) || 0;
   const sanctions = Number(resultsSum.textContent.match(/Penalties: ([\d.]+)/)?.[1]) || 0;

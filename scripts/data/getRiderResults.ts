@@ -1,26 +1,26 @@
 import type { RawRider } from '../types/RawTeam.js';
 import type { Group, RaceResult, RiderDetails } from '../../src/types/Rider.js';
 import { getUciRiderResults } from './uciApis.js';
-import { logError, logWarning } from '../log.js';
+import { logWarning } from '../log.js';
 
 /**
  * Get race results for a rider from the UCI API.
  * Only includes results for the current year in the total.
- * Returns results or an error message.
+ * Throws if there's an error fetching data.
  */
 export async function getRiderResults(params: {
   rider: RawRider;
   momentId: number;
   year: number;
   group: Group;
-}): Promise<Pick<RiderDetails, 'totalPoints' | 'results'> | string> {
+}): Promise<Pick<RiderDetails, 'totalPoints' | 'results'>> {
   const { momentId, rider, year, group } = params;
   const { name, id } = rider;
 
   const rawResults = await getUciRiderResults({ momentId, individualId: id, group });
   if (typeof rawResults === 'string') {
-    logError(`Error getting results for ${name}:`, rawResults);
-    return 'Error getting results for rider';
+    // It's critical to get everyone's race results, so stop if something is going wrong
+    throw new Error(`Couldn't get results for ${name}: ${rawResults}`);
   }
 
   let totalPoints = 0;

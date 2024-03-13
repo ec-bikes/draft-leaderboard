@@ -15,18 +15,14 @@ export async function getTeamData(params: {
     owner,
     name,
     totalPoints: 0,
-    issues: [],
     riders: [],
   };
 
   // do the requests one at a time for now
   for (const rawRider of riders) {
-    const { rider, issues } = await getRiderData({ rider: rawRider, momentId, year, group });
+    const rider = await getRiderData({ rider: rawRider, momentId, year, group });
     team.riders.push(rider);
     team.totalPoints += rider.totalPoints || 0;
-    if (issues.length) {
-      team.issues.push(`${rider.name}: ${issues.join('; ')}`);
-    }
   }
   return team;
 }
