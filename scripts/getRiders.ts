@@ -11,7 +11,7 @@ import { getRiderPcsData } from './data/getRiderPcsData.js';
   if (fs.existsSync(ridersFile)) {
     riders = JSON.parse(fs.readFileSync(ridersFile, 'utf8'));
   } else {
-    const result = await getUciRiderRankings({ limit: 400, group: 'men-wt' });
+    const result = await getUciRiderRankings({ limit: 400, group: 'men' });
     if (typeof result === 'string') {
       console.error('❌', result);
       process.exit(1);

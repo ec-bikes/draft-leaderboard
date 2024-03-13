@@ -21,4 +21,4 @@ export interface RaceResult {
   points: number;
 }
 
-export type Group = 'women' | 'men-wt';
+export type Group = 'women' | 'men';

@@ -18,7 +18,7 @@ const nameMappings: Record<string, string> = {
 export function getPcsUrl(params: { name: string; year?: number }) {
   const { name, year } = params;
   // By default assume the URL is the lowercase name with dashes
-  const pcsName = nameMappings[name] || name.toLowerCase().replaceAll(' ', '-');
+  const pcsName = nameMappings[name] || name.toLowerCase().replace(/ /g, '-');
   const url = `https://www.procyclingstats.com/rider/${pcsName}`;
   return year ? `${url}/${year}` : url;
 }

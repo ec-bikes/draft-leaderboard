@@ -65,11 +65,11 @@ export function Page() {
       />
       <Divider flexItem sx={{ marginTop: theme.spacing(2) }} />
       <Section
-        group="men-wt"
+        group="men"
         title="Placeholders draft rankings"
         name="Placeholders podcast 2024 draft"
         link="https://escapecollective.com/behold-our-mens-worldtour-draft-2024/"
-        teamData={teamData['men-wt']}
+        teamData={teamData.men}
       />
     </Stack>
   );

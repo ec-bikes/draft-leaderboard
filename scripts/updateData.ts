@@ -12,7 +12,7 @@ import { getTeamFilename } from '../src/data/getTeamFilename.js';
 const year = 2024;
 const groups: Record<Group, RawTeam[]> = {
   women: rawTeamsWomen,
-  'men-wt': rawTeamsMen,
+  men: rawTeamsMen,
 };
 
 const groupArg = process.argv[2] as Group | undefined;
