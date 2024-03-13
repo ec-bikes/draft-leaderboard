@@ -16,8 +16,6 @@ import type { Group } from '../../../common/types/Group';
 import { getUciRiderUrl } from '../../../common/uciUrls.js';
 import { getPcsUrl } from '../../../common/getPcsUrl.js';
 
-// orange #FF6F42
-
 const CompactTableCell = styled(TableCell)(({ theme }) => ({
   padding: `${theme.spacing(0.5)} ${theme.spacing(1)}`,
   [`&.${tableCellClasses.head}`]: {

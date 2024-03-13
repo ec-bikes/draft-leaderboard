@@ -1,16 +1,6 @@
 import React from 'react';
-import { CssBaseline, createTheme, ThemeProvider, Container, Box } from '@mui/material';
-
-const theme = createTheme({
-  typography: {
-    fontFamily: 'Inter, system-ui, Avenir, Helvetica Neue, Helvetica, Arial, sans-serif',
-    // h1: {
-    //   fontSize: '3.2rem',
-    //   fontWeight: 'bold',
-    //   lineHeight: '1.1',
-    // },
-  },
-});
+import { CssBaseline, ThemeProvider, Container, Box } from '@mui/material';
+import { theme } from '../../theme.js';
 
 export function Layout(props: { children: React.ReactNode }) {
   // possibly the provider and baseline ought to be in a "Wrapper" component but that extra layer
