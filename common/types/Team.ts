@@ -1,4 +1,12 @@
-import type { Rider, RiderDetails } from './Rider.js';
+import type { BaseRider, Rider, RiderDetails } from './Rider.js';
+
+/** Basic team info used in the team definition files */
+export interface BaseTeam {
+  owner: string;
+  name: string;
+  /** Basic rider info used to look up results */
+  riders: BaseRider[];
+}
 
 /** Team info without individual race results */
 export interface Team {

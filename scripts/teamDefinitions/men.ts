@@ -1,10 +1,10 @@
-import type { RawTeam } from '../types/RawTeam.js';
+import type { BaseTeam } from '../../common/types/Team.js';
 
 /**
  * Team names, owners, and riders.
  * https://escapecollective.com/behold-our-mens-worldtour-draft-2024/
  */
-export const rawTeamsMen: RawTeam[] = [
+export const mensTeams: BaseTeam[] = [
   {
     owner: 'Abby Mickey',
     name: 'Lidl-Trek M&Ms',

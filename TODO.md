@@ -1,0 +1,10 @@
+- switch to tabs
+- up/down/steady arrows
+- historical rankings
+- summary at top of page
+- theme colors?
+- consistent web font?
+- rider result details (popup?)
+- team images?
+- asterisk for sanctions?
+- retry for pcs fetch

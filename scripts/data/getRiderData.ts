@@ -1,5 +1,5 @@
-import type { RawRider } from '../types/RawTeam.js';
-import type { Group, RiderDetails } from '../../src/types/Rider.js';
+import type { BaseRider, RiderDetails } from '../../common/types/Rider.js';
+import type { Group } from '../../common/types/Group.js';
 import { getRiderPcsData } from './getRiderPcsData.js';
 import { getRiderResults } from './getRiderResults.js';
 
@@ -8,16 +8,14 @@ import { getRiderResults } from './getRiderResults.js';
  * Throws if there's an error fetching data.
  */
 export async function getRiderData(params: {
-  rider: RawRider;
+  rider: BaseRider;
   year: number;
   momentId: number;
   group: Group;
 }): Promise<RiderDetails> {
-  const { rider: rawRider } = params;
-  const { name } = rawRider;
-  const rider: RiderDetails = { name, id: rawRider.id, totalPoints: 0, results: [] };
+  const rider: RiderDetails = { ...params.rider, totalPoints: 0, results: [] };
 
-  console.log(`Getting data for ${name}`);
+  console.log(`Getting data for ${rider.name}`);
 
   // Get rider results from the UCI API
   const riderResults = await getRiderResults(params);

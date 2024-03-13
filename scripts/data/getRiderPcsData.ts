@@ -1,7 +1,7 @@
 import fetch from 'node-fetch';
 import { parse, type HTMLElement as BasicHTMLElement } from 'node-html-parser';
-import type { RawRider } from '../types/RawTeam.js';
-import { getPcsUrl } from '../../src/data/getPcsUrl.js';
+import type { BaseRider } from '../../common/types/Rider.js';
+import { getPcsUrl } from '../../common/getPcsUrl.js';
 
 /**
  * Get data from a rider's ProCyclingStats page for a given year.
@@ -13,7 +13,7 @@ import { getPcsUrl } from '../../src/data/getPcsUrl.js';
  * if needed, but the format is more cmoplex.)
  */
 export async function getRiderPcsData(params: {
-  rider: RawRider;
+  rider: BaseRider;
   year: number;
 }): Promise<{ uciPoints: number; sanctions: number }> {
   const { rider, year } = params;

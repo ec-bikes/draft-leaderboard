@@ -1,7 +1,7 @@
-import type { RawRider } from '../types/RawTeam.js';
-import type { Group, RaceResult, RiderDetails } from '../../src/types/Rider.js';
-import { getUciRiderResults } from './uciApis.js';
+import type { BaseRider, RaceResult, RiderDetails } from '../../common/types/Rider.js';
+import type { Group } from '../../common/types/Group.js';
 import { logWarning } from '../log.js';
+import { getUciRiderResults } from './uci/getUciRiderResults.js';
 
 /**
  * Get race results for a rider from the UCI API.
@@ -9,7 +9,7 @@ import { logWarning } from '../log.js';
  * Throws if there's an error fetching data.
  */
 export async function getRiderResults(params: {
-  rider: RawRider;
+  rider: BaseRider;
   momentId: number;
   year: number;
   group: Group;

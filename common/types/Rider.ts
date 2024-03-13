@@ -1,8 +1,13 @@
-/** Rider info without race results */
-export interface Rider {
+/** Basic rider info used in the team definition files, and as a base for other rider info types. */
+export interface BaseRider {
+  /** Displayed name */
   name: string;
-  /** ID used for UCI queries and URLs */
+  /** Partial UCI ID used to look up the rider in the UCI APIs */
   id: number;
+}
+
+/** Rider info without race results */
+export interface Rider extends BaseRider {
   /** Points for this year including sanctions */
   totalPoints: number;
   /** Sanctions for this year */
@@ -20,5 +25,3 @@ export interface RaceResult {
   date: string;
   points: number;
 }
-
-export type Group = 'women' | 'men';

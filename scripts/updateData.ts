@@ -1,24 +1,23 @@
 import fs from 'fs';
-import { rawTeamsWomen } from './data/rawTeamsWomen.js';
 import { getTeamData } from './data/getTeamData.js';
-import type { Team, TeamDetailsJson, TeamsSummaryJson } from '../src/types/Team.js';
+import type { BaseTeam, Team, TeamDetailsJson, TeamsSummaryJson } from '../common/types/Team.js';
 import { getRankingMetadata } from './data/getRankingMetadata.js';
-import type { Group } from '../src/types/Rider.js';
-import type { RawTeam } from './types/RawTeam.js';
-import { rawTeamsMen } from './data/rawTeamsMen.js';
+import type { Group } from '../common/types/Group.js';
 import { logError } from './log.js';
-import { getTeamFilename } from '../src/data/getTeamFilename.js';
+import { mensTeams } from './teamDefinitions/men.js';
+import { womensTeams } from './teamDefinitions/women.js';
+import { getTeamFilename } from '../common/getTeamFilename.js';
 
 const year = 2024;
-const groups: Record<Group, RawTeam[]> = {
-  women: rawTeamsWomen,
-  men: rawTeamsMen,
+const groups: Record<Group, BaseTeam[]> = {
+  women: womensTeams,
+  men: mensTeams,
 };
 
 const groupArg = process.argv[2] as Group | undefined;
 
 (async () => {
-  for (const [group, rawTeams] of Object.entries(groups) as [Group, RawTeam[]][]) {
+  for (const [group, rawTeams] of Object.entries(groups) as [Group, BaseTeam[]][]) {
     if (groupArg && groupArg !== group) {
       continue; // skip other groups if a specific one was requested
     }
@@ -38,7 +37,8 @@ const groupArg = process.argv[2] as Group | undefined;
 
       // Update the detailed team data file (only the current version, not dated)
       writeFiles<TeamDetailsJson>({
-        name: `${group}/details/${getTeamFilename(team.owner)}`,
+        name: `details/${getTeamFilename(team.owner)}`,
+        group,
         data: { ...metadata, team },
       });
 
@@ -52,7 +52,8 @@ const groupArg = process.argv[2] as Group | undefined;
 
     // Write the summary file
     writeFiles<TeamsSummaryJson>({
-      name: `${group}/summary`,
+      name: 'summary',
+      group,
       data: { ...metadata, teams },
       dated: true, // also write a dated version of this file
     });
@@ -64,6 +65,7 @@ const groupArg = process.argv[2] as Group | undefined;
 
 function writeFiles<TData>(params: {
   name: string;
+  group: Group;
   data: TData & { rankingDateShort: string };
   /** If true, write an extra dated file */
   dated?: boolean;
@@ -71,9 +73,12 @@ function writeFiles<TData>(params: {
   const {
     name,
     dated,
+    group,
     data: { rankingDateShort, ...data },
   } = params;
   const str = JSON.stringify(data, null, 2) + '\n';
-  fs.writeFileSync(`src/data/${name}.json`, str);
-  dated && fs.writeFileSync(`src/data/${name}-${rankingDateShort}.json`, str);
+  fs.writeFileSync(`data/${group}/${name}.json`, str);
+  if (dated) {
+    fs.writeFileSync(`data/${group}/${name}-${rankingDateShort}.json`, str);
+  }
 }

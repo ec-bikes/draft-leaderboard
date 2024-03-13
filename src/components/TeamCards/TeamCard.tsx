@@ -11,10 +11,10 @@ import {
   styled,
   tableCellClasses,
 } from '@mui/material';
-import type { Team } from '../../types/Team';
-import { getUciRiderUrl } from '../../data/uciUrls';
-import { getPcsUrl } from '../../data/getPcsUrl';
-import type { Group } from '../../types/Rider.js';
+import type { Team } from '../../../common/types/Team';
+import type { Group } from '../../../common/types/Group';
+import { getUciRiderUrl } from '../../../common/uciUrls.js';
+import { getPcsUrl } from '../../../common/getPcsUrl.js';
 
 // orange #FF6F42
 

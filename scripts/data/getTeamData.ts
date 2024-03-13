@@ -1,10 +1,9 @@
-import type { Group } from '../../src/types/Rider.js';
-import type { TeamDetails } from '../../src/types/Team.js';
-import type { RawTeam } from '../types/RawTeam.js';
+import type { Group } from '../../common/types/Group.js';
+import type { BaseTeam, TeamDetails } from '../../common/types/Team.js';
 import { getRiderData } from './getRiderData.js';
 
 export async function getTeamData(params: {
-  team: RawTeam;
+  team: BaseTeam;
   momentId: number;
   year: number;
   group: Group;

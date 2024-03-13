@@ -1,7 +1,7 @@
 import { Grid } from '@mui/material';
-import type { TeamsSummaryJson } from '../../types/Team';
+import type { TeamsSummaryJson } from '../../../common/types/Team';
 import { TeamCard } from './TeamCard.js';
-import type { Group } from '../../types/Rider.js';
+import type { Group } from '../../../common/types/Group';
 
 export function TeamCards(props: { teamData: TeamsSummaryJson; group: Group }) {
   const { teamData } = props;
