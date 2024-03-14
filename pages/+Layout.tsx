@@ -1,6 +1,6 @@
 import React from 'react';
-import { CssBaseline, ThemeProvider, Container, Box } from '@mui/material';
-import { theme } from './theme.js';
+import { CssBaseline, ThemeProvider, Container } from '@mui/material';
+import { theme } from '../components/theme.js';
 
 export default function Layout(props: { children: React.ReactNode }) {
   // possibly the provider and baseline ought to be in a "Wrapper" component but that extra layer
@@ -9,16 +9,7 @@ export default function Layout(props: { children: React.ReactNode }) {
     <React.StrictMode>
       <ThemeProvider theme={theme}>
         <CssBaseline />
-        <Container>
-          <Box
-            marginLeft="auto"
-            marginRight="auto"
-            marginTop={{ xs: 2, sm: 4, md: 8 }}
-            marginBottom={{ xs: 2, sm: 4 }}
-          >
-            {props.children}
-          </Box>
-        </Container>
+        <Container>{props.children}</Container>
       </ThemeProvider>
     </React.StrictMode>
   );

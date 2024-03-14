@@ -9,7 +9,7 @@ export function Head() {
       <link rel="preconnect" href="https://fonts.googleapis.com" />
       <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
       <link
-        href="https://fonts.googleapis.com/css2?family=Inter:slnt,wght@-1..0,300..700&display=swap"
+        href="https://fonts.googleapis.com/css2?family=Inter:slnt,wght@-1..0,300..700"
         rel="stylesheet"
       />
     </>
