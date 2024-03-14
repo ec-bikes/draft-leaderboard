@@ -19,7 +19,7 @@ export function Competition(props: CompetitionProps) {
     <Stack gap={spacing.general} alignItems="center">
       <Typography variant="description">
         <Link target="_blank" href={link}>
-          {podcast} podcast draft team
+          <em>{podcast}</em> podcast draft team
         </Link>{' '}
         rankings, based on{' '}
         <Link target="_blank" href={getUciSeasonRankingUrl({ momentId: teamData.momentId, group })}>

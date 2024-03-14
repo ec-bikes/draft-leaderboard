@@ -28,7 +28,9 @@ export function Page() {
 
   return (
     <Stack spacing={spacing.general} alignItems="center">
-      <Typography variant="h1">Escape Collective draft rankings</Typography>
+      <Typography variant="h1">
+        <em>Escape Collective</em> draft rankings
+      </Typography>
       <TabContext value={value}>
         <TabList onChange={handleChange} aria-label="draft groups">
           {Object.keys(drafts).map((group) => (

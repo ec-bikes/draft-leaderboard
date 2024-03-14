@@ -1,4 +1,4 @@
-import { createTheme } from '@mui/material';
+import { createTheme, GlobalStyles } from '@mui/material';
 import '@mui/lab/themeAugmentation';
 
 interface NewTypographyVariants {
@@ -201,3 +201,15 @@ theme.typography.h1[theme.breakpoints.up('md')] = {
   fontSize: '2.7rem',
   marginTop: theme.spacing(spacingMain),
 };
+
+// docs recommend creating this element only once
+export const globalStyles = (
+  <GlobalStyles
+    styles={{
+      em: {
+        fontStyle: 'normal',
+        fontVariationSettings: '"slnt" -8',
+      },
+    }}
+  />
+);

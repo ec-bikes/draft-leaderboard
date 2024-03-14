@@ -1,6 +1,6 @@
 import React from 'react';
 import { CssBaseline, ThemeProvider, Container } from '@mui/material';
-import { theme } from '../components/theme.js';
+import { globalStyles, theme } from '../components/theme.js';
 
 export default function Layout(props: { children: React.ReactNode }) {
   // possibly the provider and baseline ought to be in a "Wrapper" component but that extra layer
@@ -9,6 +9,7 @@ export default function Layout(props: { children: React.ReactNode }) {
     <React.StrictMode>
       <ThemeProvider theme={theme}>
         <CssBaseline />
+        {globalStyles}
         <Container>{props.children}</Container>
       </ThemeProvider>
     </React.StrictMode>
