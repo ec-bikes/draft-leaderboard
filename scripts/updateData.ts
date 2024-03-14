@@ -4,9 +4,9 @@ import type { BaseTeam, Team, TeamDetailsJson, TeamsSummaryJson } from '../commo
 import { getRankingMetadata } from './data/getRankingMetadata.js';
 import type { Group } from '../common/types/Group.js';
 import { logError } from './log.js';
-import { mensTeams } from './teamDefinitions/men.js';
-import { womensTeams } from './teamDefinitions/women.js';
 import { getTeamFilename } from '../common/getTeamFilename.js';
+import { womensTeams } from '../data/women/teams.js';
+import { mensTeams } from '../data/men/teams.js';
 
 const year = 2024;
 const groups: Record<Group, BaseTeam[]> = {
@@ -79,6 +79,6 @@ function writeFiles<TData>(params: {
   const str = JSON.stringify(data, null, 2) + '\n';
   fs.writeFileSync(`data/${group}/${name}.json`, str);
   if (dated) {
-    fs.writeFileSync(`data/${group}/${name}-${rankingDateShort}.json`, str);
+    fs.writeFileSync(`data/${group}/previous/${name}-${rankingDateShort}.json`, str);
   }
 }

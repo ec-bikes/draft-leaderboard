@@ -1,8 +1,8 @@
 import fs from 'fs';
 import type { UciRiderRanking } from './data/uci/types/UciRiderRanking.js';
 import { getRiderPcsData } from './data/getRiderPcsData.js';
-import { mensTeams } from './teamDefinitions/men.js';
 import { getUciRiderRankings } from './data/uci/getUciRiderRankings.js';
+import { mensTeams } from '../data/men/teams.js';
 
 // Initial script to try and get rider IDs and figure out if any need custom PCS URLs
 (async () => {
