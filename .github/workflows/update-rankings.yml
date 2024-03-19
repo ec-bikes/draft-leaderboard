@@ -46,7 +46,10 @@ jobs:
           git commit -m "Update data"
           git push origin main
 
-  # this won't be triggered on push since the push was by another action
+  # This won't be triggered on push since the push was by another action.
+  # We also need to manually pass the correct ref, rather than the ref that triggered this workflow.
   call-update-site:
     uses: ./.github/workflows/update-site.yml
     needs: update
+    with:
+      ref: main
