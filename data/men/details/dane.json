@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 176365,
-  "rankingDate": "12 March 2024",
-  "fetchedDate": "12 Mar 2024, 08:23 GMT",
+  "momentId": 176609,
+  "rankingDate": "19 March 2024",
+  "fetchedDate": "19 Mar 2024, 01:40 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 1608.86,
+    "totalPoints": 1958.86,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -73,7 +73,8 @@
             "date": "23 Feb 2024",
             "points": 3
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Christophe Laporte",
@@ -95,13 +96,15 @@
             "date": "24 Feb 2024",
             "points": 120
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Geraint Thomas",
         "id": 32532,
         "totalPoints": 0,
-        "results": []
+        "results": [],
+        "sanctions": 0
       },
       {
         "name": "Mikel Landa",
@@ -118,7 +121,8 @@
             "date": "10 Feb 2024",
             "points": 5
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Carlos Rodriguez",
@@ -140,13 +144,19 @@
             "date": "12 Feb 2024",
             "points": 3
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Marc Hirschi",
         "id": 111440,
-        "totalPoints": 290,
+        "totalPoints": 415,
         "results": [
+          {
+            "name": "Milano - Torino",
+            "date": "13 Mar 2024",
+            "points": 125
+          },
           {
             "name": "Trofeo Laigueglia",
             "date": "28 Feb 2024",
@@ -167,13 +177,29 @@
             "date": "10 Feb 2024",
             "points": 70
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Stefan Küng",
         "id": 74994,
-        "totalPoints": 70,
+        "totalPoints": 110,
         "results": [
+          {
+            "name": "Milano-Sanremo",
+            "date": "16 Mar 2024",
+            "points": 30
+          },
+          {
+            "name": "Grand Prix de Denain - Porte du Hainaut",
+            "date": "14 Mar 2024",
+            "points": 5
+          },
+          {
+            "name": "Danilith Nokere Koerse",
+            "date": "13 Mar 2024",
+            "points": 5
+          },
           {
             "name": "Omloop Nieuwsblad",
             "date": "24 Feb 2024",
@@ -189,13 +215,19 @@
             "date": "17 Feb 2024",
             "points": 10
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Fabio Jakobsen",
         "id": 87061,
-        "totalPoints": 24,
+        "totalPoints": 174,
         "results": [
+          {
+            "name": "Danilith Nokere Koerse",
+            "date": "13 Mar 2024",
+            "points": 150
+          },
           {
             "name": "UAE Tour - Stage 5 - Stage Classification",
             "date": "23 Feb 2024",
@@ -211,13 +243,24 @@
             "date": "19 Feb 2024",
             "points": 15
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Arnaud Démare",
         "id": 64670,
-        "totalPoints": 83,
+        "totalPoints": 103,
         "results": [
+          {
+            "name": "Milano-Sanremo",
+            "date": "16 Mar 2024",
+            "points": 15
+          },
+          {
+            "name": "Milano - Torino",
+            "date": "13 Mar 2024",
+            "points": 5
+          },
           {
             "name": "Volta ao Algarve em Bicicleta - Stage 1 - Stage Classification",
             "date": "14 Feb 2024",
@@ -233,13 +276,21 @@
             "date": "28 Jan 2024",
             "points": 50
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Søren Kragh Andersen",
         "id": 79156,
-        "totalPoints": 0,
-        "results": []
+        "totalPoints": 15,
+        "results": [
+          {
+            "name": "Milano-Sanremo",
+            "date": "16 Mar 2024",
+            "points": 15
+          }
+        ],
+        "sanctions": 0
       }
     ]
   }

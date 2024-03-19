@@ -1,36 +1,48 @@
 {
   "schemaVersion": 1,
-  "momentId": 176365,
-  "rankingDate": "12 March 2024",
-  "fetchedDate": "12 Mar 2024, 08:23 GMT",
+  "momentId": 176609,
+  "rankingDate": "19 March 2024",
+  "fetchedDate": "19 Mar 2024, 01:40 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 1327.86,
+    "totalPoints": 2130.8599999999997,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
-        "totalPoints": 400,
+        "totalPoints": 920,
         "results": [
+          {
+            "name": "Milano-Sanremo",
+            "date": "16 Mar 2024",
+            "points": 520
+          },
           {
             "name": "Strade Bianche",
             "date": "02 Mar 2024",
             "points": 400
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Neilson Powless",
         "id": 88143,
         "totalPoints": 0,
-        "results": []
+        "results": [],
+        "sanctions": 0
       },
       {
         "name": "Matej Mohoric",
         "id": 86863,
-        "totalPoints": 220,
+        "totalPoints": 500,
         "results": [
+          {
+            "name": "Milano-Sanremo",
+            "date": "16 Mar 2024",
+            "points": 280
+          },
           {
             "name": "Strade Bianche",
             "date": "02 Mar 2024",
@@ -56,13 +68,15 @@
             "date": "01 Feb 2024",
             "points": 20
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Victor Lafay",
         "id": 136296,
         "totalPoints": 0,
-        "results": []
+        "results": [],
+        "sanctions": 0
       },
       {
         "name": "Lenny Martinez",
@@ -94,7 +108,8 @@
             "date": "16 Feb 2024",
             "points": 125
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Tiesj Benoot",
@@ -106,12 +121,13 @@
             "date": "24 Feb 2024",
             "points": 5
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Josh Tarling",
         "id": 1557793,
-        "totalPoints": 27.86,
+        "totalPoints": 30.86,
         "results": [
           {
             "name": "Paris-Nice - Final Result - General Classification",
@@ -129,6 +145,11 @@
             "points": 14
           },
           {
+            "name": "O Gran Camiño - The Historical Route - Stage 1 - Stage General Classification",
+            "date": "22 Feb 2024",
+            "points": 3
+          },
+          {
             "name": "Cadel Evans Great Ocean Road Race",
             "date": "28 Jan 2024",
             "points": 1
@@ -138,7 +159,8 @@
             "date": "21 Jan 2024",
             "points": 5
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Enric Mas",
@@ -150,7 +172,8 @@
             "date": "10 Mar 2024",
             "points": 60
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Rui Costa",
@@ -167,7 +190,8 @@
             "date": "24 Jan 2024",
             "points": 40
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Guillaume Martin",
@@ -184,7 +208,8 @@
             "date": "18 Feb 2024",
             "points": 30
           }
-        ]
+        ],
+        "sanctions": 0
       }
     ]
   }

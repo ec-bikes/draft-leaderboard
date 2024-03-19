@@ -1,18 +1,23 @@
 {
   "schemaVersion": 1,
-  "momentId": 176376,
-  "rankingDate": "12 March 2024",
-  "fetchedDate": "12 Mar 2024, 08:23 GMT",
+  "momentId": 176620,
+  "rankingDate": "19 March 2024",
+  "fetchedDate": "19 Mar 2024, 01:39 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 2547,
+    "totalPoints": 3208,
     "riders": [
       {
         "name": "Marlen Reusser",
         "id": 1589305,
-        "totalPoints": 245,
+        "totalPoints": 273,
         "results": [
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
+            "date": "17 Mar 2024",
+            "points": 28
+          },
           {
             "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Final Result - General Classification",
             "date": "18 Feb 2024",
@@ -38,7 +43,8 @@
             "date": "16 Feb 2024",
             "points": 5
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Elisa Longo Borghini",
@@ -70,13 +76,19 @@
             "date": "10 Feb 2024",
             "points": 15
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Elisa Balsamo",
         "id": 101826,
-        "totalPoints": 453,
+        "totalPoints": 853,
         "results": [
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
+            "date": "17 Mar 2024",
+            "points": 400
+          },
           {
             "name": "Miron Ronde van Drenthe",
             "date": "10 Mar 2024",
@@ -107,13 +119,15 @@
             "date": "15 Feb 2024",
             "points": 5
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Maike van der Duin",
         "id": 226974,
         "totalPoints": 0,
-        "results": []
+        "results": [],
+        "sanctions": 0
       },
       {
         "name": "Grace Brown",
@@ -135,13 +149,19 @@
             "date": "04 Jan 2024",
             "points": 50
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Emma Norsgaard",
         "id": 151974,
-        "totalPoints": 111,
+        "totalPoints": 171,
         "results": [
+          {
+            "name": "Danilith Nokere Koerse Women",
+            "date": "13 Mar 2024",
+            "points": 60
+          },
           {
             "name": "Le Samyn des Dames",
             "date": "27 Feb 2024",
@@ -157,13 +177,19 @@
             "date": "24 Feb 2024",
             "points": 56
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Evita Muzic",
         "id": 109412,
-        "totalPoints": 145,
+        "totalPoints": 225,
         "results": [
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
+            "date": "17 Mar 2024",
+            "points": 80
+          },
           {
             "name": "Strade Bianche",
             "date": "02 Mar 2024",
@@ -189,13 +215,19 @@
             "date": "14 Jan 2024",
             "points": 16
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Chiara Consonni",
         "id": 156600,
-        "totalPoints": 271,
+        "totalPoints": 296,
         "results": [
+          {
+            "name": "Danilith Nokere Koerse Women",
+            "date": "13 Mar 2024",
+            "points": 25
+          },
           {
             "name": "Miron Ronde van Drenthe",
             "date": "10 Mar 2024",
@@ -241,7 +273,8 @@
             "date": "20 Jan 2024",
             "points": 70
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Daria Pikulik",
@@ -258,13 +291,19 @@
             "date": "09 Feb 2024",
             "points": 6
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Niamh Fisher-Black",
         "id": 217072,
-        "totalPoints": 166,
+        "totalPoints": 234,
         "results": [
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
+            "date": "17 Mar 2024",
+            "points": 68
+          },
           {
             "name": "Strade Bianche",
             "date": "02 Mar 2024",
@@ -280,7 +319,8 @@
             "date": "17 Feb 2024",
             "points": 25
           }
-        ]
+        ],
+        "sanctions": 0
       }
     ]
   }

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 176365,
-  "rankingDate": "12 March 2024",
-  "fetchedDate": "12 Mar 2024, 08:23 GMT",
+  "momentId": 176609,
+  "rankingDate": "19 March 2024",
+  "fetchedDate": "19 Mar 2024, 01:40 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 2729.72,
+    "totalPoints": 2884.72,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -38,7 +38,8 @@
             "date": "11 Feb 2024",
             "points": 35
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Juan Ayuso",
@@ -105,7 +106,8 @@
             "date": "12 Feb 2024",
             "points": 3
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Sam Welsford",
@@ -142,13 +144,19 @@
             "date": "16 Jan 2024",
             "points": 10
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Filippo Ganna",
         "id": 91640,
-        "totalPoints": 45,
+        "totalPoints": 60,
         "results": [
+          {
+            "name": "Milano-Sanremo",
+            "date": "16 Mar 2024",
+            "points": 15
+          },
           {
             "name": "Tirreno-Adriatico - Stage 1 - Stage Classification",
             "date": "04 Mar 2024",
@@ -159,7 +167,8 @@
             "date": "28 Jan 2024",
             "points": 5
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Pello Bilbao",
@@ -206,13 +215,19 @@
             "date": "03 Feb 2024",
             "points": 5
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Alexey Lutsenko",
         "id": 68778,
-        "totalPoints": 6.43,
+        "totalPoints": 21.43,
         "results": [
+          {
+            "name": "Milano - Torino",
+            "date": "13 Mar 2024",
+            "points": 30
+          },
           {
             "name": "Paris-Nice - Stage 3 - Stage Classification",
             "date": "05 Mar 2024",
@@ -223,7 +238,8 @@
             "date": "24 Feb 2024",
             "points": 5
           }
-        ]
+        ],
+        "sanctions": 15
       },
       {
         "name": "Lennard Kämna",
@@ -245,13 +261,19 @@
             "date": "02 Mar 2024",
             "points": 24
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Gerben Thijssen",
         "id": 107713,
-        "totalPoints": 263,
+        "totalPoints": 388,
         "results": [
+          {
+            "name": "Bredene Koksijde Classic",
+            "date": "15 Mar 2024",
+            "points": 125
+          },
           {
             "name": "Paris-Nice - Stage 2 - Stage Classification",
             "date": "04 Mar 2024",
@@ -287,7 +309,8 @@
             "date": "25 Jan 2024",
             "points": 3
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Wout Poels",
@@ -304,7 +327,8 @@
             "date": "09 Mar 2024",
             "points": 2
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Esteban Chaves",
@@ -316,7 +340,8 @@
             "date": "11 Feb 2024",
             "points": 30
           }
-        ]
+        ],
+        "sanctions": 0
       }
     ]
   }

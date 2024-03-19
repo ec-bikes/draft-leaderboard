@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 176365,
-  "rankingDate": "12 March 2024",
-  "fetchedDate": "12 Mar 2024, 08:23 GMT",
+  "momentId": 176609,
+  "rankingDate": "19 March 2024",
+  "fetchedDate": "19 Mar 2024, 01:40 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 3417.2799999999997,
+    "totalPoints": 3647.2799999999997,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -33,13 +33,19 @@
             "date": "06 Mar 2024",
             "points": 10
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Biniam Girmay",
         "id": 1707195,
-        "totalPoints": 270,
+        "totalPoints": 300,
         "results": [
+          {
+            "name": "Milano-Sanremo",
+            "date": "16 Mar 2024",
+            "points": 30
+          },
           {
             "name": "Tirreno-Adriatico - Stage 4 - Stage Classification",
             "date": "07 Mar 2024",
@@ -85,13 +91,19 @@
             "date": "16 Jan 2024",
             "points": 30
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Tom Pidcock",
         "id": 109775,
-        "totalPoints": 503,
+        "totalPoints": 613,
         "results": [
+          {
+            "name": "Milano-Sanremo",
+            "date": "16 Mar 2024",
+            "points": 110
+          },
           {
             "name": "Tirreno-Adriatico - Final Result - General Classification",
             "date": "10 Mar 2024",
@@ -127,13 +139,19 @@
             "date": "18 Feb 2024",
             "points": 10
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Olav Kooij",
         "id": 227110,
-        "totalPoints": 392.14,
+        "totalPoints": 457.14,
         "results": [
+          {
+            "name": "Milano-Sanremo",
+            "date": "16 Mar 2024",
+            "points": 65
+          },
           {
             "name": "Paris-Nice - Stage 5 - Stage Classification",
             "date": "07 Mar 2024",
@@ -169,7 +187,8 @@
             "date": "11 Feb 2024",
             "points": 200
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Jonathan Milan",
@@ -221,7 +240,8 @@
             "date": "31 Jan 2024",
             "points": 3
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Richard Carapaz",
@@ -258,13 +278,19 @@
             "date": "01 Feb 2024",
             "points": 50
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Jhonatan Narváez",
         "id": 96372,
-        "totalPoints": 715,
+        "totalPoints": 730,
         "results": [
+          {
+            "name": "Milano-Sanremo",
+            "date": "16 Mar 2024",
+            "points": 15
+          },
           {
             "name": "National Road Championships - Ecuador - Men Elite - Individual Road Race",
             "date": "04 Feb 2024",
@@ -300,13 +326,24 @@
             "date": "16 Jan 2024",
             "points": 20
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Sam Bennett",
         "id": 65995,
-        "totalPoints": 71.14,
+        "totalPoints": 106.14,
         "results": [
+          {
+            "name": "Classic Loire Atlantique",
+            "date": "16 Mar 2024",
+            "points": 5
+          },
+          {
+            "name": "Grand Prix de Denain - Porte du Hainaut",
+            "date": "14 Mar 2024",
+            "points": 30
+          },
           {
             "name": "Paris-Nice - Stage 5 - Stage Classification",
             "date": "07 Mar 2024",
@@ -332,12 +369,13 @@
             "date": "11 Feb 2024",
             "points": 5
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Isaac del Toro",
         "id": 2002910,
-        "totalPoints": 771,
+        "totalPoints": 746,
         "results": [
           {
             "name": "Tirreno-Adriatico - Final Result - General Classification",
@@ -399,7 +437,8 @@
             "date": "17 Jan 2024",
             "points": 10
           }
-        ]
+        ],
+        "sanctions": 25
       },
       {
         "name": "Darren Rafferty",
@@ -421,7 +460,8 @@
             "date": "22 Feb 2024",
             "points": 5
           }
-        ]
+        ],
+        "sanctions": 0
       }
     ]
   }

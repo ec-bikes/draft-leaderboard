@@ -1,18 +1,23 @@
 {
   "schemaVersion": 1,
-  "momentId": 176376,
-  "rankingDate": "12 March 2024",
-  "fetchedDate": "12 Mar 2024, 08:23 GMT",
+  "momentId": 176620,
+  "rankingDate": "19 March 2024",
+  "fetchedDate": "19 Mar 2024, 01:39 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 3538,
+    "totalPoints": 3856,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
-        "totalPoints": 776,
+        "totalPoints": 926,
         "results": [
+          {
+            "name": "Danilith Nokere Koerse Women",
+            "date": "13 Mar 2024",
+            "points": 150
+          },
           {
             "name": "Miron Ronde van Drenthe",
             "date": "10 Mar 2024",
@@ -58,25 +63,33 @@
             "date": "08 Feb 2024",
             "points": 8
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Liane Lippert",
         "id": 140495,
         "totalPoints": 0,
-        "results": []
+        "results": [],
+        "sanctions": 0
       },
       {
         "name": "Chloe Dygert",
         "id": 109716,
         "totalPoints": 0,
-        "results": []
+        "results": [],
+        "sanctions": 0
       },
       {
         "name": "Mavi Garcia",
         "id": 398547,
-        "totalPoints": 453,
+        "totalPoints": 477,
         "results": [
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
+            "date": "17 Mar 2024",
+            "points": 24
+          },
           {
             "name": "Strade Bianche",
             "date": "02 Mar 2024",
@@ -107,13 +120,19 @@
             "date": "21 Jan 2024",
             "points": 70
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Christina Schweinberger",
         "id": 98623,
-        "totalPoints": 306,
+        "totalPoints": 311,
         "results": [
+          {
+            "name": "Danilith Nokere Koerse Women",
+            "date": "13 Mar 2024",
+            "points": 5
+          },
           {
             "name": "Miron Ronde van Drenthe",
             "date": "10 Mar 2024",
@@ -139,13 +158,19 @@
             "date": "24 Feb 2024",
             "points": 28
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Neve Bradbury",
         "id": 1987823,
-        "totalPoints": 707,
+        "totalPoints": 723,
         "results": [
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
+            "date": "17 Mar 2024",
+            "points": 16
+          },
           {
             "name": "Strade Bianche",
             "date": "02 Mar 2024",
@@ -186,13 +211,19 @@
             "date": "04 Jan 2024",
             "points": 10
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Rosita Reijnhout",
         "id": 228699,
-        "totalPoints": 483,
+        "totalPoints": 486,
         "results": [
+          {
+            "name": "Tour de Normandie Féminin - Final Result - General Classification",
+            "date": "17 Mar 2024",
+            "points": 3
+          },
           {
             "name": "Altez GP Oetingen p/b Lotto",
             "date": "06 Mar 2024",
@@ -218,13 +249,19 @@
             "date": "14 Jan 2024",
             "points": 8
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Olivia Baril",
         "id": 151523,
-        "totalPoints": 277,
+        "totalPoints": 397,
         "results": [
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
+            "date": "17 Mar 2024",
+            "points": 120
+          },
           {
             "name": "Vuelta Extremadura Féminas - Final Result - General Classification",
             "date": "10 Mar 2024",
@@ -265,7 +302,8 @@
             "date": "22 Jan 2024",
             "points": 60
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Lizzie Deignan",
@@ -277,7 +315,8 @@
             "date": "02 Mar 2024",
             "points": 16
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Dominika Wlodarczyk",
@@ -299,7 +338,8 @@
             "date": "14 Jan 2024",
             "points": 20
           }
-        ]
+        ],
+        "sanctions": 0
       }
     ]
   }

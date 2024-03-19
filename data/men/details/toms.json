@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 176365,
-  "rankingDate": "12 March 2024",
-  "fetchedDate": "12 Mar 2024, 08:23 GMT",
+  "momentId": 176609,
+  "rankingDate": "19 March 2024",
+  "fetchedDate": "19 Mar 2024, 01:40 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 3207.14,
+    "totalPoints": 3262.14,
     "riders": [
       {
         "name": "Adam Yates",
@@ -23,7 +23,8 @@
             "date": "14 Feb 2024",
             "points": 20
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Mattias Skjelmose",
@@ -70,7 +71,8 @@
             "date": "24 Feb 2024",
             "points": 125
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Valentin Madouas",
@@ -125,7 +127,8 @@
             "date": "05 Mar 2024",
             "points": 8.57
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Kévin Vauquelin",
@@ -182,7 +185,8 @@
             "date": "28 Jan 2024",
             "points": 70
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Brandon McNulty",
@@ -279,7 +283,8 @@
             "date": "24 Jan 2024",
             "points": 70
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Cian Uijtdebroeks",
@@ -306,13 +311,19 @@
             "date": "25 Feb 2024",
             "points": 50
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Laurence Pithie",
         "id": 221617,
-        "totalPoints": 635,
+        "totalPoints": 690,
         "results": [
+          {
+            "name": "Milano-Sanremo",
+            "date": "16 Mar 2024",
+            "points": 55
+          },
           {
             "name": "Paris-Nice - Stage 5 - Stage Classification",
             "date": "07 Mar 2024",
@@ -383,7 +394,8 @@
             "date": "17 Jan 2024",
             "points": 2
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Jordi Meeus",
@@ -405,7 +417,8 @@
             "date": "11 Feb 2024",
             "points": 50
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Casper van Uden",
@@ -452,7 +465,8 @@
             "date": "30 Jan 2024",
             "points": 3
           }
-        ]
+        ],
+        "sanctions": 0
       }
     ]
   }

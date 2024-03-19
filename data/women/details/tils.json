@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 176376,
-  "rankingDate": "12 March 2024",
-  "fetchedDate": "12 Mar 2024, 08:23 GMT",
+  "momentId": 176620,
+  "rankingDate": "19 March 2024",
+  "fetchedDate": "19 Mar 2024, 01:39 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 2630,
+    "totalPoints": 2732,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -23,7 +23,8 @@
             "date": "24 Feb 2024",
             "points": 140
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Kasia Niewiadoma",
@@ -60,13 +61,19 @@
             "date": "15 Feb 2024",
             "points": 12
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Juliette Labous",
         "id": 97498,
-        "totalPoints": 116,
+        "totalPoints": 132,
         "results": [
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
+            "date": "17 Mar 2024",
+            "points": 16
+          },
           {
             "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Final Result - General Classification",
             "date": "18 Feb 2024",
@@ -82,7 +89,8 @@
             "date": "16 Feb 2024",
             "points": 4
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Charlotte Kool",
@@ -104,13 +112,24 @@
             "date": "25 Feb 2024",
             "points": 5
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Riejanne Markus",
         "id": 86854,
-        "totalPoints": 125,
+        "totalPoints": 187,
         "results": [
+          {
+            "name": "Tour de Normandie Féminin - Final Result - General Classification",
+            "date": "17 Mar 2024",
+            "points": 50
+          },
+          {
+            "name": "Tour de Normandie Féminin - Stage 1 - Stage Classification",
+            "date": "14 Mar 2024",
+            "points": 12
+          },
           {
             "name": "Strade Bianche",
             "date": "02 Mar 2024",
@@ -121,13 +140,19 @@
             "date": "18 Feb 2024",
             "points": 5
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Sarah Gigante",
         "id": 1557078,
-        "totalPoints": 521,
+        "totalPoints": 537,
         "results": [
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
+            "date": "17 Mar 2024",
+            "points": 16
+          },
           {
             "name": "Deakin University Elite Women’s Road Race",
             "date": "27 Jan 2024",
@@ -158,13 +183,19 @@
             "date": "04 Jan 2024",
             "points": 1
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Ella Wyllie",
         "id": 220428,
-        "totalPoints": 308,
+        "totalPoints": 316,
         "results": [
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
+            "date": "17 Mar 2024",
+            "points": 8
+          },
           {
             "name": "National Road Championships - New Zealand - Women Elite - Individual Road Race",
             "date": "09 Feb 2024",
@@ -190,7 +221,8 @@
             "date": "14 Jan 2024",
             "points": 15
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Marta Lach",
@@ -232,7 +264,8 @@
             "date": "20 Jan 2024",
             "points": 5
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Sofia Bertizzolo",
@@ -264,7 +297,8 @@
             "date": "12 Jan 2024",
             "points": 30
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Vittoria Guazzini",
@@ -286,7 +320,8 @@
             "date": "09 Feb 2024",
             "points": 18
           }
-        ]
+        ],
+        "sanctions": 0
       }
     ]
   }

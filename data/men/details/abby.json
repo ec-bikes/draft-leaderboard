@@ -1,18 +1,23 @@
 {
   "schemaVersion": 1,
-  "momentId": 176365,
-  "rankingDate": "12 March 2024",
-  "fetchedDate": "12 Mar 2024, 08:23 GMT",
+  "momentId": 176609,
+  "rankingDate": "19 March 2024",
+  "fetchedDate": "19 Mar 2024, 01:40 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 3064,
+    "totalPoints": 3559,
     "riders": [
       {
         "name": "Mads Pedersen",
         "id": 86895,
-        "totalPoints": 409,
+        "totalPoints": 849,
         "results": [
+          {
+            "name": "Milano-Sanremo",
+            "date": "16 Mar 2024",
+            "points": 440
+          },
           {
             "name": "Paris-Nice - Stage 5 - Stage Classification",
             "date": "07 Mar 2024",
@@ -116,7 +121,8 @@
             "date": "12 Feb 2024",
             "points": 40
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Matteo Jorgenson",
@@ -158,7 +164,8 @@
             "date": "24 Feb 2024",
             "points": 12
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Ben Healy",
@@ -180,7 +187,8 @@
             "date": "04 Feb 2024",
             "points": 60
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Kaden Groves",
@@ -203,8 +211,13 @@
       {
         "name": "Toms Skujiņš",
         "id": 68892,
-        "totalPoints": 362,
+        "totalPoints": 377,
         "results": [
+          {
+            "name": "Milano-Sanremo",
+            "date": "16 Mar 2024",
+            "points": 15
+          },
           {
             "name": "Tirreno-Adriatico - Final Result - General Classification",
             "date": "10 Mar 2024",
@@ -230,13 +243,15 @@
             "date": "04 Feb 2024",
             "points": 15
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Alex Aranburu",
         "id": 422863,
         "totalPoints": 0,
-        "results": []
+        "results": [],
+        "sanctions": 0
       },
       {
         "name": "Egan Bernal",
@@ -293,7 +308,8 @@
             "date": "25 Jan 2024",
             "points": 5
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Ben O'Connor",
@@ -335,13 +351,19 @@
             "date": "10 Feb 2024",
             "points": 125
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Benoît Cosnefroy",
         "id": 79522,
-        "totalPoints": 324,
+        "totalPoints": 364,
         "results": [
+          {
+            "name": "Milano-Sanremo",
+            "date": "16 Mar 2024",
+            "points": 50
+          },
           {
             "name": "Strade Bianche",
             "date": "02 Mar 2024",
@@ -367,7 +389,8 @@
             "date": "04 Feb 2024",
             "points": 5
           }
-        ]
+        ],
+        "sanctions": 10
       }
     ]
   }

@@ -1,18 +1,33 @@
 {
   "schemaVersion": 1,
-  "momentId": 176376,
-  "rankingDate": "12 March 2024",
-  "fetchedDate": "12 Mar 2024, 08:23 GMT",
+  "momentId": 176620,
+  "rankingDate": "19 March 2024",
+  "fetchedDate": "19 Mar 2024, 01:39 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 3054,
+    "totalPoints": 3734,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
-        "totalPoints": 1192,
+        "totalPoints": 1718,
         "results": [
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
+            "date": "17 Mar 2024",
+            "points": 320
+          },
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio - WWT leader's jersey",
+            "date": "17 Mar 2024",
+            "points": 6
+          },
+          {
+            "name": "Danilith Nokere Koerse Women",
+            "date": "13 Mar 2024",
+            "points": 200
+          },
           {
             "name": "Strade Bianche",
             "date": "02 Mar 2024",
@@ -48,7 +63,8 @@
             "date": "08 Feb 2024",
             "points": 8
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Cecilie Uttrup Ludwig",
@@ -80,13 +96,19 @@
             "date": "12 Jan 2024",
             "points": 10
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Silvia Persico",
         "id": 107539,
-        "totalPoints": 250,
+        "totalPoints": 350,
         "results": [
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
+            "date": "17 Mar 2024",
+            "points": 100
+          },
           {
             "name": "Trofeo Oro in Euro - Women's Bike Race",
             "date": "03 Mar 2024",
@@ -122,13 +144,19 @@
             "date": "21 Jan 2024",
             "points": 50
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Gaia Realini",
         "id": 303036,
-        "totalPoints": 405,
+        "totalPoints": 421,
         "results": [
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
+            "date": "17 Mar 2024",
+            "points": 16
+          },
           {
             "name": "Vuelta Extremadura Féminas - Final Result - General Classification",
             "date": "10 Mar 2024",
@@ -164,13 +192,19 @@
             "date": "10 Feb 2024",
             "points": 25
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Amanda Spratt",
         "id": 32706,
-        "totalPoints": 295,
+        "totalPoints": 303,
         "results": [
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
+            "date": "17 Mar 2024",
+            "points": 8
+          },
           {
             "name": "Strade Bianche",
             "date": "02 Mar 2024",
@@ -201,13 +235,19 @@
             "date": "07 Jan 2024",
             "points": 5
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Ruby Roseman-Gannon",
         "id": 111383,
-        "totalPoints": 162,
+        "totalPoints": 192,
         "results": [
+          {
+            "name": "Danilith Nokere Koerse Women",
+            "date": "13 Mar 2024",
+            "points": 30
+          },
           {
             "name": "Omloop Nieuwsblad",
             "date": "24 Feb 2024",
@@ -228,7 +268,8 @@
             "date": "07 Jan 2024",
             "points": 100
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Antonia Niedermaier",
@@ -240,7 +281,8 @@
             "date": "18 Feb 2024",
             "points": 5
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Kristen Faulkner",
@@ -292,19 +334,22 @@
             "date": "17 Feb 2024",
             "points": 8
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Anna Henderson",
         "id": 237690,
         "totalPoints": 0,
-        "results": []
+        "results": [],
+        "sanctions": 0
       },
       {
         "name": "Marta Cavalli",
         "id": 111432,
         "totalPoints": 0,
-        "results": []
+        "results": [],
+        "sanctions": 0
       }
     ]
   }

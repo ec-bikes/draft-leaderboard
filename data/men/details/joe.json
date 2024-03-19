@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 176365,
-  "rankingDate": "12 March 2024",
-  "fetchedDate": "12 Mar 2024, 08:23 GMT",
+  "momentId": 176609,
+  "rankingDate": "19 March 2024",
+  "fetchedDate": "19 Mar 2024, 01:40 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 2170.71,
+    "totalPoints": 2815.71,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -73,13 +73,21 @@
             "date": "10 Feb 2024",
             "points": 200
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Mathieu van der Poel",
         "id": 79462,
-        "totalPoints": 0,
-        "results": []
+        "totalPoints": 135,
+        "results": [
+          {
+            "name": "Milano-Sanremo",
+            "date": "16 Mar 2024",
+            "points": 135
+          }
+        ],
+        "sanctions": 0
       },
       {
         "name": "Tao Geoghegan Hart",
@@ -96,7 +104,8 @@
             "date": "18 Feb 2024",
             "points": 25
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Santiago Buitrago",
@@ -128,13 +137,19 @@
             "date": "03 Feb 2024",
             "points": 15
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Tim Merlier",
         "id": 70962,
-        "totalPoints": 225,
+        "totalPoints": 425,
         "results": [
+          {
+            "name": "Danilith Nokere Koerse",
+            "date": "13 Mar 2024",
+            "points": 200
+          },
           {
             "name": "Tirreno-Adriatico - Stage 2 - Stage Classification",
             "date": "05 Mar 2024",
@@ -185,13 +200,19 @@
             "date": "30 Jan 2024",
             "points": 3
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Julian Alaphilippe",
         "id": 71557,
-        "totalPoints": 220,
+        "totalPoints": 380,
         "results": [
+          {
+            "name": "Milano-Sanremo",
+            "date": "16 Mar 2024",
+            "points": 160
+          },
           {
             "name": "Tirreno-Adriatico - Stage 4 - Stage Classification",
             "date": "07 Mar 2024",
@@ -212,7 +233,8 @@
             "date": "20 Jan 2024",
             "points": 25
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Felix Gall",
@@ -249,19 +271,26 @@
             "date": "24 Feb 2024",
             "points": 100
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Giulio Ciccone",
         "id": 97091,
         "totalPoints": 0,
-        "results": []
+        "results": [],
+        "sanctions": 0
       },
       {
         "name": "Dylan Groenewegen",
         "id": 72932,
-        "totalPoints": 179.71,
+        "totalPoints": 329.71000000000004,
         "results": [
+          {
+            "name": "Bredene Koksijde Classic",
+            "date": "15 Mar 2024",
+            "points": 150
+          },
           {
             "name": "Paris-Nice - Stage 3 - Stage Classification",
             "date": "05 Mar 2024",
@@ -292,7 +321,8 @@
             "date": "20 Jan 2024",
             "points": 125
           }
-        ]
+        ],
+        "sanctions": 0
       },
       {
         "name": "Andrea Bagioli",
@@ -314,7 +344,8 @@
             "date": "10 Feb 2024",
             "points": 5
           }
-        ]
+        ],
+        "sanctions": 0
       }
     ]
   }
