@@ -36,7 +36,8 @@ export async function getRankingMetadata(
   return {
     schemaVersion: 1,
     momentId: moment.Id,
-    rankingDate: formatDate(rdate),
+    rankingDate: rdate.getTime(),
+    rankingDateStr: formatDate(rdate),
     rankingDateShort: formatNumericDate(rdate),
     // Get the fetch date with hour and minute in UTC time
     fetchedDate: formatDateTime(new Date()),

@@ -20,8 +20,13 @@ export interface RiderDetails extends Rider {
   results: RaceResult[];
 }
 
+/** Race result for a rider */
 export interface RaceResult {
+  /** Race or sub-result name */
   name: string;
-  date: string;
+  /** Display date e.g. "22 March 2024" */
+  dateStr: string;
+  /** Date, 00:00 UTC */
+  date: number;
   points: number;
 }

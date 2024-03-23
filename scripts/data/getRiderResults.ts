@@ -2,6 +2,7 @@ import type { BaseRider, RaceResult, RiderDetails } from '../../common/types/Rid
 import type { Group } from '../../common/types/Group.js';
 import { logWarning } from '../log.js';
 import { getUciRiderResults } from './uci/getUciRiderResults.js';
+import { formatDate } from './formatDate.js';
 
 /**
  * Get race results for a rider from the UCI API.
@@ -31,11 +32,14 @@ export async function getRiderResults(params: {
       logWarning(`⚠️ Invalid result for ${name} (ignoring):`, result);
       continue;
     }
-    if (new Date(result.Date).getFullYear() !== year) {
+
+    const resultDate = new Date(Number(result.StartDate.match(/\d+/)![0]));
+    if (resultDate.getFullYear() !== year) {
       continue;
     }
 
     totalPoints += result.Points;
+
     let resultName: string;
     if (result.IsSpecialResult && result.SpecialName) {
       // WWT leader's jersey probably
@@ -52,7 +56,12 @@ export async function getRiderResults(params: {
       resultName = result.Name;
     }
 
-    results.push({ name: resultName, date: result.Date, points: result.Points });
+    results.push({
+      name: resultName,
+      dateStr: formatDate(resultDate),
+      date: resultDate.getTime(),
+      points: result.Points,
+    });
   }
 
   return { totalPoints, results };

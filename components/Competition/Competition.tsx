@@ -25,7 +25,7 @@ export function Competition(props: CompetitionProps) {
         <Link target="_blank" href={getUciSeasonRankingUrl({ momentId: teamData.momentId, group })}>
           UCI rankings
         </Link>{' '}
-        as of <strong>{teamData.rankingDate}</strong>.
+        as of <strong>{teamData.rankingDateStr}</strong>.
       </Typography>
 
       <TeamCards teamData={teamData} group={group} />

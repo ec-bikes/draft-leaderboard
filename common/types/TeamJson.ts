@@ -5,8 +5,10 @@ export interface TeamJsonMetadata {
   schemaVersion: 1;
   /** UCI ranking momentId for further requests */
   momentId: number;
+  /** Date in epoch ms */
+  rankingDate: number;
   /** UCI ranking date (display-friendly, not for parsing) */
-  rankingDate: string;
+  rankingDateStr: string;
   /** Data fetch date (display-friendly, not for parsing) */
   fetchedDate: string;
 }
