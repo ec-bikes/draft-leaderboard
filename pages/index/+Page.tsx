@@ -6,7 +6,7 @@ import type { Group } from '../../common/types/Group.js';
 import { spacing } from '../../components/theme.js';
 import womensData from '../../data/women/summary.json';
 import mensData from '../../data/men/summary.json';
-import type { TeamsSummaryJson } from '../../common/types/Team.js';
+import type { TeamsSummaryJson } from '../../common/types/TeamJson.js';
 
 const drafts: Record<Group, Omit<CompetitionProps, 'group'>> = {
   women: {

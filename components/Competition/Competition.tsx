@@ -1,9 +1,9 @@
 import { Link, Stack, Typography } from '@mui/material';
 import { TeamCards } from '../../components/TeamCards/TeamCards';
-import type { TeamsSummaryJson } from '../../common/types/Team';
 import type { Group } from '../../common/types/Group';
 import { getUciSeasonRankingUrl } from '../../common/uciUrls.js';
 import { spacing } from '../theme.js';
+import type { TeamsSummaryJson } from '../../common/types/TeamJson.js';
 
 export interface CompetitionProps {
   group: Group;

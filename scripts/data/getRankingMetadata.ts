@@ -1,5 +1,6 @@
 import type { Group } from '../../common/types/Group.js';
-import type { TeamJsonMetadata } from '../../common/types/Team.js';
+import type { TeamJsonMetadata } from '../../common/types/TeamJson.js';
+import { formatDate, formatDateTime, formatNumericDate } from './formatDate.js';
 import { getUciRankingMoments } from './uci/getUciRankingMoments.js';
 
 /**
@@ -32,30 +33,13 @@ export async function getRankingMetadata(
   // This comes in DD/MM/YYYY format. Convert it to an unambiguous text-based date.
   const rankingDateParts = moment.Name.split('/').map(Number);
   const rdate = new Date(rankingDateParts[2], rankingDateParts[1] - 1, rankingDateParts[0]);
-  const rankingDate = rdate.toLocaleDateString('en-GB', {
-    year: 'numeric',
-    month: 'long',
-    day: 'numeric',
-  });
-  const rankingDateShort = rdate.toISOString().slice(0, 10);
-
-  // Get the fetch date with hour and minute in UTC time
-  const fetchDate =
-    new Date().toLocaleString('en-GB', {
-      year: 'numeric',
-      month: 'short',
-      day: 'numeric',
-      hour: 'numeric',
-      minute: 'numeric',
-      hour12: false,
-      timeZone: 'UTC',
-    }) + ' GMT';
 
   return {
     schemaVersion: 1,
     momentId: moment.Id,
-    rankingDate,
-    rankingDateShort,
-    fetchedDate: fetchDate,
+    rankingDate: formatDate(rdate),
+    rankingDateShort: formatNumericDate(rdate),
+    // Get the fetch date with hour and minute in UTC time
+    fetchedDate: formatDateTime(new Date()),
   };
 }

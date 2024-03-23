@@ -1,12 +1,13 @@
 import fs from 'fs';
 import { getTeamData } from './data/getTeamData.js';
-import type { BaseTeam, Team, TeamDetailsJson, TeamsSummaryJson } from '../common/types/Team.js';
+import type { BaseTeam, Team } from '../common/types/Team.js';
 import { getRankingMetadata } from './data/getRankingMetadata.js';
 import type { Group } from '../common/types/Group.js';
 import { logError } from './log.js';
 import { getTeamFilename } from '../common/getTeamFilename.js';
 import { womensTeams } from '../data/women/teams.js';
 import { mensTeams } from '../data/men/teams.js';
+import type { TeamDetailsJson, TeamsSummaryJson } from '../common/types/TeamJson.js';
 
 const year = 2024;
 const groups: Record<Group, BaseTeam[]> = {

@@ -8,40 +8,20 @@ export interface BaseTeam {
   riders: BaseRider[];
 }
 
-/** Team info without individual race results */
+/** Team info without individual race results (used in `TeamsSummaryJson`) */
 export interface Team {
   /** Team owner name */
   owner: string;
   /** Team name */
   name: string;
+  /** Current points total */
   totalPoints: number;
   /** Rider summary data (no race results) */
   riders: Rider[];
 }
 
-/** Team details including individual race results */
+/** Team details including individual race results (used in `TeamDetailsJson`) */
 export interface TeamDetails extends Omit<Team, 'riders'> {
   /** Rider data with race results */
   riders: RiderDetails[];
-}
-
-/** Ranking and fetch dates for team data */
-export interface TeamJsonMetadata {
-  schemaVersion: 1;
-  /** UCI ranking momentId for further requests */
-  momentId: number;
-  /** UCI ranking date (display-friendly, not for parsing) */
-  rankingDate: string;
-  /** Data fetch date (display-friendly, not for parsing) */
-  fetchedDate: string;
-}
-
-/** Short data about all the teams (no individual race results) */
-export interface TeamsSummaryJson extends TeamJsonMetadata {
-  teams: Team[];
-}
-
-/** Data about a team including individual race results */
-export interface TeamDetailsJson extends TeamJsonMetadata {
-  team: TeamDetails;
 }
