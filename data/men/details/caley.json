@@ -1,18 +1,73 @@
 {
   "schemaVersion": 1,
-  "momentId": 176609,
-  "rankingDate": "19 March 2024",
-  "fetchedDate": "19 Mar 2024, 02:02 GMT",
+  "momentId": 176870,
+  "rankingDate": "26 March 2024",
+  "fetchedDate": "26 Mar 2024, 02:14 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 2130.8599999999997,
+    "totalPoints": 3280.86,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
-        "totalPoints": 920,
+        "totalPoints": 1590,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - Final Result - General Classification",
+            "date": "24 Mar 2024",
+            "points": 400
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 7 - Stage Classification",
+            "date": "24 Mar 2024",
+            "points": 50
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 6 - Stage Classification",
+            "date": "23 Mar 2024",
+            "points": 50
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 6 - Stage General Classification",
+            "date": "23 Mar 2024",
+            "points": 8
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 5 - Stage General Classification",
+            "date": "22 Mar 2024",
+            "points": 8
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 4 - Stage General Classification",
+            "date": "21 Mar 2024",
+            "points": 8
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 3 - Stage Classification",
+            "date": "20 Mar 2024",
+            "points": 50
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 3 - Stage General Classification",
+            "date": "20 Mar 2024",
+            "points": 8
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 2 - Stage Classification",
+            "date": "19 Mar 2024",
+            "points": 50
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 2 - Stage General Classification",
+            "date": "19 Mar 2024",
+            "points": 8
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 1 - Stage Classification",
+            "date": "18 Mar 2024",
+            "points": 30
+          },
           {
             "name": "Milano-Sanremo",
             "date": "16 Mar 2024",
@@ -36,8 +91,18 @@
       {
         "name": "Matej Mohoric",
         "id": 86863,
-        "totalPoints": 500,
+        "totalPoints": 578,
         "results": [
+          {
+            "name": "Gent-Wevelgem in Flanders Fields",
+            "date": "24 Mar 2024",
+            "points": 50
+          },
+          {
+            "name": "E3 Saxo Classic",
+            "date": "22 Mar 2024",
+            "points": 28
+          },
           {
             "name": "Milano-Sanremo",
             "date": "16 Mar 2024",
@@ -81,8 +146,28 @@
       {
         "name": "Lenny Martinez",
         "id": 1843476,
-        "totalPoints": 515,
+        "totalPoints": 659,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - Final Result - General Classification",
+            "date": "24 Mar 2024",
+            "points": 120
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 6 - Stage Classification",
+            "date": "23 Mar 2024",
+            "points": 6
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 3 - Stage Classification",
+            "date": "20 Mar 2024",
+            "points": 3
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 2 - Stage Classification",
+            "date": "19 Mar 2024",
+            "points": 15
+          },
           {
             "name": "Strade Bianche",
             "date": "02 Mar 2024",
@@ -114,8 +199,13 @@
       {
         "name": "Tiesj Benoot",
         "id": 77502,
-        "totalPoints": 5,
+        "totalPoints": 15,
         "results": [
+          {
+            "name": "Gent-Wevelgem in Flanders Fields",
+            "date": "24 Mar 2024",
+            "points": 10
+          },
           {
             "name": "Omloop Nieuwsblad",
             "date": "24 Feb 2024",
@@ -165,8 +255,28 @@
       {
         "name": "Enric Mas",
         "id": 109803,
-        "totalPoints": 60,
+        "totalPoints": 267,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - Final Result - General Classification",
+            "date": "24 Mar 2024",
+            "points": 180
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 6 - Stage Classification",
+            "date": "23 Mar 2024",
+            "points": 20
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 3 - Stage Classification",
+            "date": "20 Mar 2024",
+            "points": 1
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 2 - Stage Classification",
+            "date": "19 Mar 2024",
+            "points": 6
+          },
           {
             "name": "Tirreno-Adriatico - Final Result - General Classification",
             "date": "10 Mar 2024",
@@ -196,8 +306,18 @@
       {
         "name": "Guillaume Martin",
         "id": 75170,
-        "totalPoints": 50,
+        "totalPoints": 91,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - Final Result - General Classification",
+            "date": "24 Mar 2024",
+            "points": 16
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 7 - Stage Classification",
+            "date": "24 Mar 2024",
+            "points": 25
+          },
           {
             "name": "Tirreno-Adriatico - Final Result - General Classification",
             "date": "10 Mar 2024",

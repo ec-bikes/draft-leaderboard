@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 176609,
-  "rankingDate": "19 March 2024",
-  "fetchedDate": "19 Mar 2024, 02:02 GMT",
+  "momentId": 176870,
+  "rankingDate": "26 March 2024",
+  "fetchedDate": "26 Mar 2024, 02:14 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 1958.86,
+    "totalPoints": 2444.8599999999997,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -102,15 +102,41 @@
       {
         "name": "Geraint Thomas",
         "id": 32532,
-        "totalPoints": 0,
-        "results": [],
+        "totalPoints": 16,
+        "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - Final Result - General Classification",
+            "date": "24 Mar 2024",
+            "points": 16
+          }
+        ],
         "sanctions": 0
       },
       {
         "name": "Mikel Landa",
         "id": 68367,
-        "totalPoints": 10,
+        "totalPoints": 390,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - Final Result - General Classification",
+            "date": "24 Mar 2024",
+            "points": 320
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 6 - Stage Classification",
+            "date": "23 Mar 2024",
+            "points": 25
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 3 - Stage Classification",
+            "date": "20 Mar 2024",
+            "points": 30
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 2 - Stage Classification",
+            "date": "19 Mar 2024",
+            "points": 30
+          },
           {
             "name": "Volta ao Algarve em Bicicleta - Final Result - General Classification",
             "date": "18 Feb 2024",
@@ -122,7 +148,7 @@
             "points": 5
           }
         ],
-        "sanctions": 0
+        "sanctions": 25
       },
       {
         "name": "Carlos Rodriguez",
@@ -183,8 +209,18 @@
       {
         "name": "Stefan Küng",
         "id": 74994,
-        "totalPoints": 110,
+        "totalPoints": 174,
         "results": [
+          {
+            "name": "Gent-Wevelgem in Flanders Fields",
+            "date": "24 Mar 2024",
+            "points": 40
+          },
+          {
+            "name": "E3 Saxo Classic",
+            "date": "22 Mar 2024",
+            "points": 24
+          },
           {
             "name": "Milano-Sanremo",
             "date": "16 Mar 2024",
@@ -249,8 +285,18 @@
       {
         "name": "Arnaud Démare",
         "id": 64670,
-        "totalPoints": 103,
+        "totalPoints": 111,
         "results": [
+          {
+            "name": "Gent-Wevelgem in Flanders Fields",
+            "date": "24 Mar 2024",
+            "points": 3
+          },
+          {
+            "name": "Classic Brugge-De Panne",
+            "date": "20 Mar 2024",
+            "points": 5
+          },
           {
             "name": "Milano-Sanremo",
             "date": "16 Mar 2024",
@@ -282,8 +328,18 @@
       {
         "name": "Søren Kragh Andersen",
         "id": 79156,
-        "totalPoints": 15,
+        "totalPoints": 33,
         "results": [
+          {
+            "name": "Gent-Wevelgem in Flanders Fields",
+            "date": "24 Mar 2024",
+            "points": 10
+          },
+          {
+            "name": "E3 Saxo Classic",
+            "date": "22 Mar 2024",
+            "points": 8
+          },
           {
             "name": "Milano-Sanremo",
             "date": "16 Mar 2024",

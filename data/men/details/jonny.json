@@ -1,18 +1,28 @@
 {
   "schemaVersion": 1,
-  "momentId": 176609,
-  "rankingDate": "19 March 2024",
-  "fetchedDate": "19 Mar 2024, 02:02 GMT",
+  "momentId": 176870,
+  "rankingDate": "26 March 2024",
+  "fetchedDate": "26 Mar 2024, 02:14 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 2728.86,
+    "totalPoints": 3421.86,
     "riders": [
       {
         "name": "Jasper Philipsen",
         "id": 148275,
-        "totalPoints": 1050,
+        "totalPoints": 1625,
         "results": [
+          {
+            "name": "Gent-Wevelgem in Flanders Fields",
+            "date": "24 Mar 2024",
+            "points": 275
+          },
+          {
+            "name": "Classic Brugge-De Panne",
+            "date": "20 Mar 2024",
+            "points": 300
+          },
           {
             "name": "Milano-Sanremo",
             "date": "16 Mar 2024",
@@ -44,8 +54,13 @@
       {
         "name": "Simon Yates",
         "id": 1558112,
-        "totalPoints": 304,
+        "totalPoints": 306,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - Final Result - General Classification",
+            "date": "24 Mar 2024",
+            "points": 2
+          },
           {
             "name": "AlUla Tour - Final Result - General Classification",
             "date": "03 Feb 2024",
@@ -156,8 +171,18 @@
       {
         "name": "Yves Lampaert",
         "id": 86228,
-        "totalPoints": 60.57,
+        "totalPoints": 79.57,
         "results": [
+          {
+            "name": "Gent-Wevelgem in Flanders Fields",
+            "date": "24 Mar 2024",
+            "points": 3
+          },
+          {
+            "name": "E3 Saxo Classic",
+            "date": "22 Mar 2024",
+            "points": 16
+          },
           {
             "name": "Bredene Koksijde Classic",
             "date": "15 Mar 2024",
@@ -199,8 +224,18 @@
       {
         "name": "Fred Wright",
         "id": 153275,
-        "totalPoints": 43.29,
+        "totalPoints": 87.29,
         "results": [
+          {
+            "name": "Gent-Wevelgem in Flanders Fields",
+            "date": "24 Mar 2024",
+            "points": 20
+          },
+          {
+            "name": "E3 Saxo Classic",
+            "date": "22 Mar 2024",
+            "points": 24
+          },
           {
             "name": "Milano-Sanremo",
             "date": "16 Mar 2024",
@@ -232,8 +267,18 @@
       {
         "name": "Bryan Coquard",
         "id": 68950,
-        "totalPoints": 235.71,
+        "totalPoints": 280.71000000000004,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 5 - Stage Classification",
+            "date": "22 Mar 2024",
+            "points": 25
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 4 - Stage Classification",
+            "date": "21 Mar 2024",
+            "points": 20
+          },
           {
             "name": "Milano - Torino",
             "date": "13 Mar 2024",
@@ -333,8 +378,13 @@
       {
         "name": "Jack Haig",
         "id": 78342,
-        "totalPoints": 88.29,
+        "totalPoints": 96.28999999999999,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - Final Result - General Classification",
+            "date": "24 Mar 2024",
+            "points": 8
+          },
           {
             "name": "Paris-Nice - Final Result - General Classification",
             "date": "10 Mar 2024",

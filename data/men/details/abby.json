@@ -1,18 +1,28 @@
 {
   "schemaVersion": 1,
-  "momentId": 176609,
-  "rankingDate": "19 March 2024",
-  "fetchedDate": "19 Mar 2024, 02:02 GMT",
+  "momentId": 176870,
+  "rankingDate": "26 March 2024",
+  "fetchedDate": "26 Mar 2024, 02:14 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 3559,
+    "totalPoints": 4881,
     "riders": [
       {
         "name": "Mads Pedersen",
         "id": 86895,
-        "totalPoints": 849,
+        "totalPoints": 1405,
         "results": [
+          {
+            "name": "Gent-Wevelgem in Flanders Fields",
+            "date": "24 Mar 2024",
+            "points": 500
+          },
+          {
+            "name": "E3 Saxo Classic",
+            "date": "22 Mar 2024",
+            "points": 56
+          },
           {
             "name": "Milano-Sanremo",
             "date": "16 Mar 2024",
@@ -104,8 +114,23 @@
       {
         "name": "Sepp Kuss",
         "id": 88346,
-        "totalPoints": 100,
+        "totalPoints": 158,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - Final Result - General Classification",
+            "date": "24 Mar 2024",
+            "points": 40
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 3 - Stage Classification",
+            "date": "20 Mar 2024",
+            "points": 15
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 1 - Stage Classification",
+            "date": "18 Mar 2024",
+            "points": 3
+          },
           {
             "name": "Volta ao Algarve em Bicicleta - Final Result - General Classification",
             "date": "18 Feb 2024",
@@ -127,8 +152,13 @@
       {
         "name": "Matteo Jorgenson",
         "id": 159567,
-        "totalPoints": 612.14,
+        "totalPoints": 792.14,
         "results": [
+          {
+            "name": "E3 Saxo Classic",
+            "date": "22 Mar 2024",
+            "points": 180
+          },
           {
             "name": "Paris-Nice - Final Result - General Classification",
             "date": "10 Mar 2024",
@@ -211,8 +241,13 @@
       {
         "name": "Toms Skujiņš",
         "id": 68892,
-        "totalPoints": 377,
+        "totalPoints": 477,
         "results": [
+          {
+            "name": "E3 Saxo Classic",
+            "date": "22 Mar 2024",
+            "points": 100
+          },
           {
             "name": "Milano-Sanremo",
             "date": "16 Mar 2024",
@@ -249,15 +284,41 @@
       {
         "name": "Alex Aranburu",
         "id": 422863,
-        "totalPoints": 0,
-        "results": [],
+        "totalPoints": 130,
+        "results": [
+          {
+            "name": "Trofeo Calvià",
+            "date": "24 Jan 2024",
+            "points": 60
+          },
+          {
+            "name": "Ruta de la Cerámica - Gran Premio Castellón",
+            "date": "21 Jan 2024",
+            "points": 70
+          }
+        ],
         "sanctions": 0
       },
       {
         "name": "Egan Bernal",
         "id": 95844,
-        "totalPoints": 369.86,
+        "totalPoints": 667.86,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - Final Result - General Classification",
+            "date": "24 Mar 2024",
+            "points": 260
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 6 - Stage Classification",
+            "date": "23 Mar 2024",
+            "points": 30
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 2 - Stage Classification",
+            "date": "19 Mar 2024",
+            "points": 8
+          },
           {
             "name": "Paris-Nice - Final Result - General Classification",
             "date": "10 Mar 2024",

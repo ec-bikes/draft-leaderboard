@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 176609,
-  "rankingDate": "19 March 2024",
-  "fetchedDate": "19 Mar 2024, 02:02 GMT",
+  "momentId": 176870,
+  "rankingDate": "26 March 2024",
+  "fetchedDate": "26 Mar 2024, 02:14 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 3647.2799999999997,
+    "totalPoints": 4369.28,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -39,8 +39,18 @@
       {
         "name": "Biniam Girmay",
         "id": 1707195,
-        "totalPoints": 300,
+        "totalPoints": 474,
         "results": [
+          {
+            "name": "Gent-Wevelgem in Flanders Fields",
+            "date": "24 Mar 2024",
+            "points": 150
+          },
+          {
+            "name": "E3 Saxo Classic",
+            "date": "22 Mar 2024",
+            "points": 24
+          },
           {
             "name": "Milano-Sanremo",
             "date": "16 Mar 2024",
@@ -145,8 +155,13 @@
       {
         "name": "Olav Kooij",
         "id": 227110,
-        "totalPoints": 457.14,
+        "totalPoints": 632.14,
         "results": [
+          {
+            "name": "Gent-Wevelgem in Flanders Fields",
+            "date": "24 Mar 2024",
+            "points": 175
+          },
           {
             "name": "Milano-Sanremo",
             "date": "16 Mar 2024",
@@ -193,8 +208,13 @@
       {
         "name": "Jonathan Milan",
         "id": 301151,
-        "totalPoints": 243,
+        "totalPoints": 468,
         "results": [
+          {
+            "name": "Gent-Wevelgem in Flanders Fields",
+            "date": "24 Mar 2024",
+            "points": 225
+          },
           {
             "name": "Tirreno-Adriatico - Stage 7 - Stage Classification",
             "date": "10 Mar 2024",
@@ -284,8 +304,13 @@
       {
         "name": "Jhonatan Narváez",
         "id": 96372,
-        "totalPoints": 730,
+        "totalPoints": 870,
         "results": [
+          {
+            "name": "E3 Saxo Classic",
+            "date": "22 Mar 2024",
+            "points": 140
+          },
           {
             "name": "Milano-Sanremo",
             "date": "16 Mar 2024",
@@ -443,8 +468,13 @@
       {
         "name": "Darren Rafferty",
         "id": 171058,
-        "totalPoints": 78,
+        "totalPoints": 86,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - Final Result - General Classification",
+            "date": "24 Mar 2024",
+            "points": 8
+          },
           {
             "name": "Trofeo Laigueglia",
             "date": "28 Feb 2024",

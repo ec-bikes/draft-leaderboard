@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 176609,
-  "rankingDate": "19 March 2024",
-  "fetchedDate": "19 Mar 2024, 02:02 GMT",
+  "momentId": 176870,
+  "rankingDate": "26 March 2024",
+  "fetchedDate": "26 Mar 2024, 02:14 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 3262.14,
+    "totalPoints": 3728.14,
     "riders": [
       {
         "name": "Adam Yates",
@@ -77,8 +77,13 @@
       {
         "name": "Valentin Madouas",
         "id": 91637,
-        "totalPoints": 82,
+        "totalPoints": 90,
         "results": [
+          {
+            "name": "E3 Saxo Classic",
+            "date": "22 Mar 2024",
+            "points": 8
+          },
           {
             "name": "Tirreno-Adriatico - Final Result - General Classification",
             "date": "10 Mar 2024",
@@ -115,8 +120,23 @@
       {
         "name": "João Almeida",
         "id": 107840,
-        "totalPoints": 78.57,
+        "totalPoints": 161.57,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - Final Result - General Classification",
+            "date": "24 Mar 2024",
+            "points": 80
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 6 - Stage Classification",
+            "date": "23 Mar 2024",
+            "points": 8
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 2 - Stage Classification",
+            "date": "19 Mar 2024",
+            "points": 20
+          },
           {
             "name": "Paris-Nice - Final Result - General Classification",
             "date": "10 Mar 2024",
@@ -128,7 +148,7 @@
             "points": 8.57
           }
         ],
-        "sanctions": 0
+        "sanctions": 25
       },
       {
         "name": "Kévin Vauquelin",
@@ -317,8 +337,18 @@
       {
         "name": "Laurence Pithie",
         "id": 221617,
-        "totalPoints": 690,
+        "totalPoints": 730,
         "results": [
+          {
+            "name": "Gent-Wevelgem in Flanders Fields",
+            "date": "24 Mar 2024",
+            "points": 20
+          },
+          {
+            "name": "Classic Brugge-De Panne",
+            "date": "20 Mar 2024",
+            "points": 20
+          },
           {
             "name": "Milano-Sanremo",
             "date": "16 Mar 2024",
@@ -400,8 +430,13 @@
       {
         "name": "Jordi Meeus",
         "id": 148901,
-        "totalPoints": 85,
+        "totalPoints": 410,
         "results": [
+          {
+            "name": "Gent-Wevelgem in Flanders Fields",
+            "date": "24 Mar 2024",
+            "points": 325
+          },
           {
             "name": "Kuurne - Brussel - Kuurne",
             "date": "25 Feb 2024",
@@ -423,8 +458,13 @@
       {
         "name": "Casper van Uden",
         "id": 226805,
-        "totalPoints": 52,
+        "totalPoints": 62,
         "results": [
+          {
+            "name": "Gent-Wevelgem in Flanders Fields",
+            "date": "24 Mar 2024",
+            "points": 10
+          },
           {
             "name": "Tirreno-Adriatico - Stage 2 - Stage Classification",
             "date": "05 Mar 2024",

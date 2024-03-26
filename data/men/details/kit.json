@@ -1,18 +1,23 @@
 {
   "schemaVersion": 1,
-  "momentId": 176609,
-  "rankingDate": "19 March 2024",
-  "fetchedDate": "19 Mar 2024, 02:02 GMT",
+  "momentId": 176870,
+  "rankingDate": "26 March 2024",
+  "fetchedDate": "26 Mar 2024, 02:14 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 2884.72,
+    "totalPoints": 3357.72,
     "riders": [
       {
         "name": "Wout van Aert",
         "id": 75859,
-        "totalPoints": 530,
+        "totalPoints": 790,
         "results": [
+          {
+            "name": "E3 Saxo Classic",
+            "date": "22 Mar 2024",
+            "points": 260
+          },
           {
             "name": "Kuurne - Brussel - Kuurne",
             "date": "25 Feb 2024",
@@ -112,8 +117,13 @@
       {
         "name": "Sam Welsford",
         "id": 91180,
-        "totalPoints": 220,
+        "totalPoints": 232,
         "results": [
+          {
+            "name": "Classic Brugge-De Panne",
+            "date": "20 Mar 2024",
+            "points": 12
+          },
           {
             "name": "UAE Tour - Stage 5 - Stage Classification",
             "date": "23 Feb 2024",
@@ -267,8 +277,18 @@
       {
         "name": "Gerben Thijssen",
         "id": 107713,
-        "totalPoints": 388,
+        "totalPoints": 493,
         "results": [
+          {
+            "name": "La Roue Tourangelle Centre Val de Loire - Trophée Groupama Paris Val de Loire",
+            "date": "24 Mar 2024",
+            "points": 85
+          },
+          {
+            "name": "Classic Brugge-De Panne",
+            "date": "20 Mar 2024",
+            "points": 20
+          },
           {
             "name": "Bredene Koksijde Classic",
             "date": "15 Mar 2024",
@@ -315,8 +335,28 @@
       {
         "name": "Wout Poels",
         "id": 1974873,
-        "totalPoints": 72,
+        "totalPoints": 152,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - Final Result - General Classification",
+            "date": "24 Mar 2024",
+            "points": 56
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 7 - Stage Classification",
+            "date": "24 Mar 2024",
+            "points": 1
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 3 - Stage Classification",
+            "date": "20 Mar 2024",
+            "points": 20
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 2 - Stage Classification",
+            "date": "19 Mar 2024",
+            "points": 3
+          },
           {
             "name": "Tirreno-Adriatico - Final Result - General Classification",
             "date": "10 Mar 2024",
@@ -333,8 +373,13 @@
       {
         "name": "Esteban Chaves",
         "id": 75873,
-        "totalPoints": 30,
+        "totalPoints": 46,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - Final Result - General Classification",
+            "date": "24 Mar 2024",
+            "points": 16
+          },
           {
             "name": "Tour Colombia - Final Result - General Classification",
             "date": "11 Feb 2024",

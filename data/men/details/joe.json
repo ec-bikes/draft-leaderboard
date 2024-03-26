@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 176609,
-  "rankingDate": "19 March 2024",
-  "fetchedDate": "19 Mar 2024, 02:02 GMT",
+  "momentId": 176870,
+  "rankingDate": "26 March 2024",
+  "fetchedDate": "26 Mar 2024, 02:14 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 2815.71,
+    "totalPoints": 4110.71,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -79,8 +79,18 @@
       {
         "name": "Mathieu van der Poel",
         "id": 79462,
-        "totalPoints": 135,
+        "totalPoints": 935,
         "results": [
+          {
+            "name": "Gent-Wevelgem in Flanders Fields",
+            "date": "24 Mar 2024",
+            "points": 400
+          },
+          {
+            "name": "E3 Saxo Classic",
+            "date": "22 Mar 2024",
+            "points": 400
+          },
           {
             "name": "Milano-Sanremo",
             "date": "16 Mar 2024",
@@ -143,8 +153,18 @@
       {
         "name": "Tim Merlier",
         "id": 70962,
-        "totalPoints": 425,
+        "totalPoints": 800,
         "results": [
+          {
+            "name": "Gent-Wevelgem in Flanders Fields",
+            "date": "24 Mar 2024",
+            "points": 125
+          },
+          {
+            "name": "Classic Brugge-De Panne",
+            "date": "20 Mar 2024",
+            "points": 250
+          },
           {
             "name": "Danilith Nokere Koerse",
             "date": "13 Mar 2024",
@@ -206,8 +226,13 @@
       {
         "name": "Julian Alaphilippe",
         "id": 71557,
-        "totalPoints": 380,
+        "totalPoints": 388,
         "results": [
+          {
+            "name": "E3 Saxo Classic",
+            "date": "22 Mar 2024",
+            "points": 8
+          },
           {
             "name": "Milano-Sanremo",
             "date": "16 Mar 2024",
@@ -284,8 +309,18 @@
       {
         "name": "Dylan Groenewegen",
         "id": 72932,
-        "totalPoints": 329.71000000000004,
+        "totalPoints": 441.71,
         "results": [
+          {
+            "name": "Gent-Wevelgem in Flanders Fields",
+            "date": "24 Mar 2024",
+            "points": 100
+          },
+          {
+            "name": "Classic Brugge-De Panne",
+            "date": "20 Mar 2024",
+            "points": 12
+          },
           {
             "name": "Bredene Koksijde Classic",
             "date": "15 Mar 2024",

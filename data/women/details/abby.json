@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 176620,
-  "rankingDate": "19 March 2024",
-  "fetchedDate": "19 Mar 2024, 02:01 GMT",
+  "momentId": 176881,
+  "rankingDate": "26 March 2024",
+  "fetchedDate": "26 Mar 2024, 02:12 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 2675,
+    "totalPoints": 2895,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -44,8 +44,13 @@
       {
         "name": "Pfeiffer Georgi",
         "id": 153350,
-        "totalPoints": 386,
+        "totalPoints": 402,
         "results": [
+          {
+            "name": "Gent-Wevelgem In Flanders Fields",
+            "date": "24 Mar 2024",
+            "points": 16
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "17 Mar 2024",
@@ -77,8 +82,13 @@
       {
         "name": "Shirin van Anrooij",
         "id": 228375,
-        "totalPoints": 463,
+        "totalPoints": 471,
         "results": [
+          {
+            "name": "Gent-Wevelgem In Flanders Fields",
+            "date": "24 Mar 2024",
+            "points": 8
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "17 Mar 2024",
@@ -128,8 +138,18 @@
       {
         "name": "Arlenis Sierra",
         "id": 71998,
-        "totalPoints": 213,
+        "totalPoints": 377,
         "results": [
+          {
+            "name": "Gent-Wevelgem In Flanders Fields",
+            "date": "24 Mar 2024",
+            "points": 140
+          },
+          {
+            "name": "Classic Brugge-De Panne",
+            "date": "21 Mar 2024",
+            "points": 24
+          },
           {
             "name": "Danilith Nokere Koerse Women",
             "date": "13 Mar 2024",
@@ -237,8 +257,13 @@
       {
         "name": "Noemi Rüegg",
         "id": 347941,
-        "totalPoints": 271,
+        "totalPoints": 287,
         "results": [
+          {
+            "name": "Gent-Wevelgem In Flanders Fields",
+            "date": "24 Mar 2024",
+            "points": 16
+          },
           {
             "name": "Strade Bianche",
             "date": "02 Mar 2024",
@@ -308,8 +333,13 @@
       {
         "name": "Alison Jackson",
         "id": 96860,
-        "totalPoints": 23,
+        "totalPoints": 39,
         "results": [
+          {
+            "name": "Classic Brugge-De Panne",
+            "date": "21 Mar 2024",
+            "points": 16
+          },
           {
             "name": "Craywinckelhof - Omloop van het Hageland",
             "date": "25 Feb 2024",

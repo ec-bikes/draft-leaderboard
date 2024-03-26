@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 176620,
-  "rankingDate": "19 March 2024",
-  "fetchedDate": "19 Mar 2024, 02:01 GMT",
+  "momentId": 176881,
+  "rankingDate": "26 March 2024",
+  "fetchedDate": "26 Mar 2024, 02:12 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 2732,
+    "totalPoints": 3372,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -95,8 +95,18 @@
       {
         "name": "Charlotte Kool",
         "id": 157612,
-        "totalPoints": 96,
+        "totalPoints": 636,
         "results": [
+          {
+            "name": "Gent-Wevelgem In Flanders Fields",
+            "date": "24 Mar 2024",
+            "points": 220
+          },
+          {
+            "name": "Classic Brugge-De Panne",
+            "date": "21 Mar 2024",
+            "points": 320
+          },
           {
             "name": "Miron Ronde van Drenthe",
             "date": "10 Mar 2024",
@@ -270,8 +280,13 @@
       {
         "name": "Sofia Bertizzolo",
         "id": 106607,
-        "totalPoints": 108,
+        "totalPoints": 140,
         "results": [
+          {
+            "name": "Classic Brugge-De Panne",
+            "date": "21 Mar 2024",
+            "points": 32
+          },
           {
             "name": "Miron Ronde van Drenthe",
             "date": "10 Mar 2024",
@@ -303,8 +318,13 @@
       {
         "name": "Vittoria Guazzini",
         "id": 153391,
-        "totalPoints": 283,
+        "totalPoints": 351,
         "results": [
+          {
+            "name": "Classic Brugge-De Panne",
+            "date": "21 Mar 2024",
+            "points": 68
+          },
           {
             "name": "Miron Ronde van Drenthe",
             "date": "10 Mar 2024",

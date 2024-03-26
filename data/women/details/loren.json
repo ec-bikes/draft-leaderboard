@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 176620,
-  "rankingDate": "19 March 2024",
-  "fetchedDate": "19 Mar 2024, 02:01 GMT",
+  "momentId": 176881,
+  "rankingDate": "26 March 2024",
+  "fetchedDate": "26 Mar 2024, 02:12 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 3208,
+    "totalPoints": 4812,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -49,8 +49,13 @@
       {
         "name": "Elisa Longo Borghini",
         "id": 76149,
-        "totalPoints": 840,
+        "totalPoints": 848,
         "results": [
+          {
+            "name": "Gent-Wevelgem In Flanders Fields",
+            "date": "24 Mar 2024",
+            "points": 8
+          },
           {
             "name": "Trofeo Oro in Euro - Women's Bike Race",
             "date": "03 Mar 2024",
@@ -82,8 +87,18 @@
       {
         "name": "Elisa Balsamo",
         "id": 101826,
-        "totalPoints": 853,
+        "totalPoints": 1573,
         "results": [
+          {
+            "name": "Gent-Wevelgem In Flanders Fields",
+            "date": "24 Mar 2024",
+            "points": 320
+          },
+          {
+            "name": "Classic Brugge-De Panne",
+            "date": "21 Mar 2024",
+            "points": 400
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "17 Mar 2024",
@@ -132,8 +147,13 @@
       {
         "name": "Grace Brown",
         "id": 143292,
-        "totalPoints": 280,
+        "totalPoints": 288,
         "results": [
+          {
+            "name": "Gent-Wevelgem In Flanders Fields",
+            "date": "24 Mar 2024",
+            "points": 8
+          },
           {
             "name": "Deakin University Elite Women’s Road Race",
             "date": "27 Jan 2024",
@@ -155,8 +175,18 @@
       {
         "name": "Emma Norsgaard",
         "id": 151974,
-        "totalPoints": 171,
+        "totalPoints": 299,
         "results": [
+          {
+            "name": "Gent-Wevelgem In Flanders Fields",
+            "date": "24 Mar 2024",
+            "points": 8
+          },
+          {
+            "name": "Classic Brugge-De Panne",
+            "date": "21 Mar 2024",
+            "points": 120
+          },
           {
             "name": "Danilith Nokere Koerse Women",
             "date": "13 Mar 2024",
@@ -221,8 +251,18 @@
       {
         "name": "Chiara Consonni",
         "id": 156600,
-        "totalPoints": 296,
+        "totalPoints": 776,
         "results": [
+          {
+            "name": "Gent-Wevelgem In Flanders Fields",
+            "date": "24 Mar 2024",
+            "points": 260
+          },
+          {
+            "name": "Classic Brugge-De Panne",
+            "date": "21 Mar 2024",
+            "points": 220
+          },
           {
             "name": "Danilith Nokere Koerse Women",
             "date": "13 Mar 2024",
@@ -279,8 +319,13 @@
       {
         "name": "Daria Pikulik",
         "id": 99885,
-        "totalPoints": 36,
+        "totalPoints": 296,
         "results": [
+          {
+            "name": "Classic Brugge-De Panne",
+            "date": "21 Mar 2024",
+            "points": 260
+          },
           {
             "name": "UAE Tour Women - Stage 4 - Stage Classification",
             "date": "11 Feb 2024",

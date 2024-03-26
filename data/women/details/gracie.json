@@ -1,18 +1,23 @@
 {
   "schemaVersion": 1,
-  "momentId": 176620,
-  "rankingDate": "19 March 2024",
-  "fetchedDate": "19 Mar 2024, 02:01 GMT",
+  "momentId": 176881,
+  "rankingDate": "26 March 2024",
+  "fetchedDate": "26 Mar 2024, 02:12 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 3856,
+    "totalPoints": 4484,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
-        "totalPoints": 926,
+        "totalPoints": 1326,
         "results": [
+          {
+            "name": "Gent-Wevelgem In Flanders Fields",
+            "date": "24 Mar 2024",
+            "points": 400
+          },
           {
             "name": "Danilith Nokere Koerse Women",
             "date": "13 Mar 2024",
@@ -76,8 +81,19 @@
       {
         "name": "Chloe Dygert",
         "id": 109716,
-        "totalPoints": 0,
-        "results": [],
+        "totalPoints": 148,
+        "results": [
+          {
+            "name": "Gent-Wevelgem In Flanders Fields",
+            "date": "24 Mar 2024",
+            "points": 8
+          },
+          {
+            "name": "Classic Brugge-De Panne",
+            "date": "21 Mar 2024",
+            "points": 140
+          }
+        ],
         "sanctions": 0
       },
       {
@@ -126,8 +142,13 @@
       {
         "name": "Christina Schweinberger",
         "id": 98623,
-        "totalPoints": 311,
+        "totalPoints": 391,
         "results": [
+          {
+            "name": "Gent-Wevelgem In Flanders Fields",
+            "date": "24 Mar 2024",
+            "points": 80
+          },
           {
             "name": "Danilith Nokere Koerse Women",
             "date": "13 Mar 2024",
