@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 176870,
-  "rankingDate": "26 March 2024",
-  "fetchedDate": "26 Mar 2024, 02:14 GMT",
+  "momentId": 177121,
+  "rankingDate": "2 April 2024",
+  "fetchedDate": "2 Apr 2024, 02:29 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 3280.86,
+    "totalPoints": 3715.86,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -199,8 +199,18 @@
       {
         "name": "Tiesj Benoot",
         "id": 77502,
-        "totalPoints": 15,
+        "totalPoints": 245,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen - Tour des Flandres",
+            "date": "31 Mar 2024",
+            "points": 55
+          },
+          {
+            "name": "Dwars door Vlaanderen - A travers la Flandre",
+            "date": "27 Mar 2024",
+            "points": 175
+          },
           {
             "name": "Gent-Wevelgem in Flanders Fields",
             "date": "24 Mar 2024",
@@ -217,8 +227,18 @@
       {
         "name": "Josh Tarling",
         "id": 1557793,
-        "totalPoints": 30.86,
+        "totalPoints": 195.86,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen - Tour des Flandres",
+            "date": "31 Mar 2024",
+            "points": 50
+          },
+          {
+            "name": "Dwars door Vlaanderen - A travers la Flandre",
+            "date": "27 Mar 2024",
+            "points": 115
+          },
           {
             "name": "Paris-Nice - Final Result - General Classification",
             "date": "10 Mar 2024",
@@ -306,8 +326,13 @@
       {
         "name": "Guillaume Martin",
         "id": 75170,
-        "totalPoints": 91,
+        "totalPoints": 131,
         "results": [
+          {
+            "name": "Paris - Camembert",
+            "date": "27 Mar 2024",
+            "points": 40
+          },
           {
             "name": "Volta Ciclista a Catalunya - Final Result - General Classification",
             "date": "24 Mar 2024",

@@ -1,18 +1,33 @@
 {
   "schemaVersion": 1,
-  "momentId": 176881,
-  "rankingDate": "26 March 2024",
-  "fetchedDate": "26 Mar 2024, 02:12 GMT",
+  "momentId": 177132,
+  "rankingDate": "2 April 2024",
+  "fetchedDate": "2 Apr 2024, 02:27 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 3764,
+    "totalPoints": 4186,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
-        "totalPoints": 1748,
+        "totalPoints": 2034,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen - Tour des Flandres",
+            "date": "31 Mar 2024",
+            "points": 180
+          },
+          {
+            "name": "Ronde van Vlaanderen - Tour des Flandres - WWT leader's jersey",
+            "date": "31 Mar 2024",
+            "points": 6
+          },
+          {
+            "name": "Dwars Door Vlaanderen / A Travers la Flandre",
+            "date": "27 Mar 2024",
+            "points": 100
+          },
           {
             "name": "Gent-Wevelgem In Flanders Fields",
             "date": "24 Mar 2024",
@@ -112,8 +127,13 @@
       {
         "name": "Silvia Persico",
         "id": 107539,
-        "totalPoints": 350,
+        "totalPoints": 470,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen - Tour des Flandres",
+            "date": "31 Mar 2024",
+            "points": 120
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "17 Mar 2024",
@@ -297,8 +317,13 @@
       {
         "name": "Kristen Faulkner",
         "id": 1688341,
-        "totalPoints": 337,
+        "totalPoints": 353,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen - Tour des Flandres",
+            "date": "31 Mar 2024",
+            "points": 16
+          },
           {
             "name": "Trofeo Ponente in Rosa - Final Result - General Classification",
             "date": "08 Mar 2024",

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 176870,
-  "rankingDate": "26 March 2024",
-  "fetchedDate": "26 Mar 2024, 02:14 GMT",
+  "momentId": 177121,
+  "rankingDate": "2 April 2024",
+  "fetchedDate": "2 Apr 2024, 02:29 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 4369.28,
+    "totalPoints": 4489.28,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -39,8 +39,13 @@
       {
         "name": "Biniam Girmay",
         "id": 1707195,
-        "totalPoints": 474,
+        "totalPoints": 479,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen - Tour des Flandres",
+            "date": "31 Mar 2024",
+            "points": 5
+          },
           {
             "name": "Gent-Wevelgem in Flanders Fields",
             "date": "24 Mar 2024",
@@ -208,8 +213,13 @@
       {
         "name": "Jonathan Milan",
         "id": 301151,
-        "totalPoints": 468,
+        "totalPoints": 563,
         "results": [
+          {
+            "name": "Dwars door Vlaanderen - A travers la Flandre",
+            "date": "27 Mar 2024",
+            "points": 95
+          },
           {
             "name": "Gent-Wevelgem in Flanders Fields",
             "date": "24 Mar 2024",
@@ -400,8 +410,13 @@
       {
         "name": "Isaac del Toro",
         "id": 2002910,
-        "totalPoints": 746,
+        "totalPoints": 766,
         "results": [
+          {
+            "name": "Gran Premio Miguel Indurain",
+            "date": "30 Mar 2024",
+            "points": 20
+          },
           {
             "name": "Tirreno-Adriatico - Final Result - General Classification",
             "date": "10 Mar 2024",

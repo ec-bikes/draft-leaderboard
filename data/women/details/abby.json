@@ -1,18 +1,28 @@
 {
   "schemaVersion": 1,
-  "momentId": 176881,
-  "rankingDate": "26 March 2024",
-  "fetchedDate": "26 Mar 2024, 02:12 GMT",
+  "momentId": 177132,
+  "rankingDate": "2 April 2024",
+  "fetchedDate": "2 Apr 2024, 02:27 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 2895,
+    "totalPoints": 3908,
     "riders": [
       {
         "name": "Marianne Vos",
         "id": 31144,
-        "totalPoints": 590,
+        "totalPoints": 1010,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen - Tour des Flandres",
+            "date": "31 Mar 2024",
+            "points": 220
+          },
+          {
+            "name": "Dwars Door Vlaanderen / A Travers la Flandre",
+            "date": "27 Mar 2024",
+            "points": 200
+          },
           {
             "name": "Strade Bianche",
             "date": "02 Mar 2024",
@@ -44,8 +54,13 @@
       {
         "name": "Pfeiffer Georgi",
         "id": 153350,
-        "totalPoints": 402,
+        "totalPoints": 442,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen - Tour des Flandres",
+            "date": "31 Mar 2024",
+            "points": 40
+          },
           {
             "name": "Gent-Wevelgem In Flanders Fields",
             "date": "24 Mar 2024",
@@ -82,8 +97,18 @@
       {
         "name": "Shirin van Anrooij",
         "id": 228375,
-        "totalPoints": 471,
+        "totalPoints": 881,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen - Tour des Flandres",
+            "date": "31 Mar 2024",
+            "points": 260
+          },
+          {
+            "name": "Dwars Door Vlaanderen / A Travers la Flandre",
+            "date": "27 Mar 2024",
+            "points": 150
+          },
           {
             "name": "Gent-Wevelgem In Flanders Fields",
             "date": "24 Mar 2024",
@@ -120,8 +145,18 @@
       {
         "name": "Mischa Bredewold",
         "id": 227721,
-        "totalPoints": 93,
+        "totalPoints": 114,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen - Tour des Flandres",
+            "date": "31 Mar 2024",
+            "points": 16
+          },
+          {
+            "name": "Dwars Door Vlaanderen / A Travers la Flandre",
+            "date": "27 Mar 2024",
+            "points": 5
+          },
           {
             "name": "Miron Ronde van Drenthe",
             "date": "10 Mar 2024",
@@ -138,8 +173,18 @@
       {
         "name": "Arlenis Sierra",
         "id": 71998,
-        "totalPoints": 377,
+        "totalPoints": 475,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen - Tour des Flandres",
+            "date": "31 Mar 2024",
+            "points": 48
+          },
+          {
+            "name": "Dwars Door Vlaanderen / A Travers la Flandre",
+            "date": "27 Mar 2024",
+            "points": 50
+          },
           {
             "name": "Gent-Wevelgem In Flanders Fields",
             "date": "24 Mar 2024",
@@ -300,8 +345,13 @@
       {
         "name": "Soraya Paladin",
         "id": 75244,
-        "totalPoints": 308,
+        "totalPoints": 332,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen - Tour des Flandres",
+            "date": "31 Mar 2024",
+            "points": 24
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "17 Mar 2024",

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 176870,
-  "rankingDate": "26 March 2024",
-  "fetchedDate": "26 Mar 2024, 02:14 GMT",
+  "momentId": 177121,
+  "rankingDate": "2 April 2024",
+  "fetchedDate": "2 Apr 2024, 02:29 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 4110.71,
+    "totalPoints": 4925.710000000001,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -79,8 +79,13 @@
       {
         "name": "Mathieu van der Poel",
         "id": 79462,
-        "totalPoints": 935,
+        "totalPoints": 1735,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen - Tour des Flandres",
+            "date": "31 Mar 2024",
+            "points": 800
+          },
           {
             "name": "Gent-Wevelgem in Flanders Fields",
             "date": "24 Mar 2024",
@@ -226,8 +231,13 @@
       {
         "name": "Julian Alaphilippe",
         "id": 71557,
-        "totalPoints": 388,
+        "totalPoints": 400,
         "results": [
+          {
+            "name": "Dwars door Vlaanderen - A travers la Flandre",
+            "date": "27 Mar 2024",
+            "points": 12
+          },
           {
             "name": "E3 Saxo Classic",
             "date": "22 Mar 2024",
@@ -362,8 +372,13 @@
       {
         "name": "Andrea Bagioli",
         "id": 157221,
-        "totalPoints": 18,
+        "totalPoints": 21,
         "results": [
+          {
+            "name": "Gran Premio Miguel Indurain",
+            "date": "30 Mar 2024",
+            "points": 3
+          },
           {
             "name": "Tirreno-Adriatico - Final Result - General Classification",
             "date": "10 Mar 2024",

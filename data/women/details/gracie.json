@@ -1,18 +1,23 @@
 {
   "schemaVersion": 1,
-  "momentId": 176881,
-  "rankingDate": "26 March 2024",
-  "fetchedDate": "26 Mar 2024, 02:12 GMT",
+  "momentId": 177132,
+  "rankingDate": "2 April 2024",
+  "fetchedDate": "2 Apr 2024, 02:27 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 4484,
+    "totalPoints": 4548,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
-        "totalPoints": 1326,
+        "totalPoints": 1382,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen - Tour des Flandres",
+            "date": "31 Mar 2024",
+            "points": 56
+          },
           {
             "name": "Gent-Wevelgem In Flanders Fields",
             "date": "24 Mar 2024",
@@ -142,8 +147,13 @@
       {
         "name": "Christina Schweinberger",
         "id": 98623,
-        "totalPoints": 391,
+        "totalPoints": 399,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen - Tour des Flandres",
+            "date": "31 Mar 2024",
+            "points": 8
+          },
           {
             "name": "Gent-Wevelgem In Flanders Fields",
             "date": "24 Mar 2024",

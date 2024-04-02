@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 176870,
-  "rankingDate": "26 March 2024",
-  "fetchedDate": "26 Mar 2024, 02:14 GMT",
+  "momentId": 177121,
+  "rankingDate": "2 April 2024",
+  "fetchedDate": "2 Apr 2024, 02:29 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 3357.72,
+    "totalPoints": 3362.72,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -373,8 +373,13 @@
       {
         "name": "Esteban Chaves",
         "id": 75873,
-        "totalPoints": 46,
+        "totalPoints": 51,
         "results": [
+          {
+            "name": "Gran Premio Miguel Indurain",
+            "date": "30 Mar 2024",
+            "points": 5
+          },
           {
             "name": "Volta Ciclista a Catalunya - Final Result - General Classification",
             "date": "24 Mar 2024",

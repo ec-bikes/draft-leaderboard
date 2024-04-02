@@ -1,18 +1,23 @@
 {
   "schemaVersion": 1,
-  "momentId": 176870,
-  "rankingDate": "26 March 2024",
-  "fetchedDate": "26 Mar 2024, 02:14 GMT",
+  "momentId": 177121,
+  "rankingDate": "2 April 2024",
+  "fetchedDate": "2 Apr 2024, 02:29 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 3421.86,
+    "totalPoints": 3578.86,
     "riders": [
       {
         "name": "Jasper Philipsen",
         "id": 148275,
-        "totalPoints": 1625,
+        "totalPoints": 1645,
         "results": [
+          {
+            "name": "Dwars door Vlaanderen - A travers la Flandre",
+            "date": "27 Mar 2024",
+            "points": 20
+          },
           {
             "name": "Gent-Wevelgem in Flanders Fields",
             "date": "24 Mar 2024",
@@ -87,8 +92,13 @@
       {
         "name": "David Gaudu",
         "id": 112351,
-        "totalPoints": 43,
+        "totalPoints": 103,
         "results": [
+          {
+            "name": "La Route Adélie de VItré",
+            "date": "29 Mar 2024",
+            "points": 60
+          },
           {
             "name": "O Gran Camiño - The Historical Route - Final Result - General Classification",
             "date": "25 Feb 2024",
@@ -171,8 +181,13 @@
       {
         "name": "Yves Lampaert",
         "id": 86228,
-        "totalPoints": 79.57,
+        "totalPoints": 129.57,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen - Tour des Flandres",
+            "date": "31 Mar 2024",
+            "points": 50
+          },
           {
             "name": "Gent-Wevelgem in Flanders Fields",
             "date": "24 Mar 2024",
@@ -224,8 +239,18 @@
       {
         "name": "Fred Wright",
         "id": 153275,
-        "totalPoints": 87.29,
+        "totalPoints": 114.29,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen - Tour des Flandres",
+            "date": "31 Mar 2024",
+            "points": 15
+          },
+          {
+            "name": "Dwars door Vlaanderen - A travers la Flandre",
+            "date": "27 Mar 2024",
+            "points": 12
+          },
           {
             "name": "Gent-Wevelgem in Flanders Fields",
             "date": "24 Mar 2024",

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 176870,
-  "rankingDate": "26 March 2024",
-  "fetchedDate": "26 Mar 2024, 02:14 GMT",
+  "momentId": 177121,
+  "rankingDate": "2 April 2024",
+  "fetchedDate": "2 Apr 2024, 02:29 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 3728.14,
+    "totalPoints": 4033.1400000000003,
     "riders": [
       {
         "name": "Adam Yates",
@@ -77,8 +77,18 @@
       {
         "name": "Valentin Madouas",
         "id": 91637,
-        "totalPoints": 90,
+        "totalPoints": 170,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen - Tour des Flandres",
+            "date": "31 Mar 2024",
+            "points": 50
+          },
+          {
+            "name": "Dwars door Vlaanderen - A travers la Flandre",
+            "date": "27 Mar 2024",
+            "points": 30
+          },
           {
             "name": "E3 Saxo Classic",
             "date": "22 Mar 2024",
@@ -211,8 +221,13 @@
       {
         "name": "Brandon McNulty",
         "id": 150923,
-        "totalPoints": 882.5699999999999,
+        "totalPoints": 1082.5700000000002,
         "results": [
+          {
+            "name": "Gran Premio Miguel Indurain",
+            "date": "30 Mar 2024",
+            "points": 200
+          },
           {
             "name": "Paris-Nice - Final Result - General Classification",
             "date": "10 Mar 2024",
@@ -337,8 +352,13 @@
       {
         "name": "Laurence Pithie",
         "id": 221617,
-        "totalPoints": 730,
+        "totalPoints": 745,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen - Tour des Flandres",
+            "date": "31 Mar 2024",
+            "points": 15
+          },
           {
             "name": "Gent-Wevelgem in Flanders Fields",
             "date": "24 Mar 2024",
@@ -430,8 +450,13 @@
       {
         "name": "Jordi Meeus",
         "id": 148901,
-        "totalPoints": 410,
+        "totalPoints": 415,
         "results": [
+          {
+            "name": "Dwars door Vlaanderen - A travers la Flandre",
+            "date": "27 Mar 2024",
+            "points": 5
+          },
           {
             "name": "Gent-Wevelgem in Flanders Fields",
             "date": "24 Mar 2024",
@@ -458,8 +483,13 @@
       {
         "name": "Casper van Uden",
         "id": 226805,
-        "totalPoints": 62,
+        "totalPoints": 67,
         "results": [
+          {
+            "name": "Dwars door Vlaanderen - A travers la Flandre",
+            "date": "27 Mar 2024",
+            "points": 5
+          },
           {
             "name": "Gent-Wevelgem in Flanders Fields",
             "date": "24 Mar 2024",

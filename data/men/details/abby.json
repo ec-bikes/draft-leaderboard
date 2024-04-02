@@ -1,18 +1,23 @@
 {
   "schemaVersion": 1,
-  "momentId": 176870,
-  "rankingDate": "26 March 2024",
-  "fetchedDate": "26 Mar 2024, 02:14 GMT",
+  "momentId": 177121,
+  "rankingDate": "2 April 2024",
+  "fetchedDate": "2 Apr 2024, 02:29 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 4881,
+    "totalPoints": 5503,
     "riders": [
       {
         "name": "Mads Pedersen",
         "id": 86895,
-        "totalPoints": 1405,
+        "totalPoints": 1435,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen - Tour des Flandres",
+            "date": "31 Mar 2024",
+            "points": 30
+          },
           {
             "name": "Gent-Wevelgem in Flanders Fields",
             "date": "24 Mar 2024",
@@ -152,8 +157,18 @@
       {
         "name": "Matteo Jorgenson",
         "id": 159567,
-        "totalPoints": 792.14,
+        "totalPoints": 1107.14,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen - Tour des Flandres",
+            "date": "31 Mar 2024",
+            "points": 15
+          },
+          {
+            "name": "Dwars door Vlaanderen - A travers la Flandre",
+            "date": "27 Mar 2024",
+            "points": 300
+          },
           {
             "name": "E3 Saxo Classic",
             "date": "22 Mar 2024",
@@ -241,8 +256,18 @@
       {
         "name": "Toms Skujiņš",
         "id": 68892,
-        "totalPoints": 477,
+        "totalPoints": 624,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen - Tour des Flandres",
+            "date": "31 Mar 2024",
+            "points": 135
+          },
+          {
+            "name": "Dwars door Vlaanderen - A travers la Flandre",
+            "date": "27 Mar 2024",
+            "points": 12
+          },
           {
             "name": "E3 Saxo Classic",
             "date": "22 Mar 2024",
@@ -418,8 +443,18 @@
       {
         "name": "Benoît Cosnefroy",
         "id": 79522,
-        "totalPoints": 364,
+        "totalPoints": 494,
         "results": [
+          {
+            "name": "La Route Adélie de VItré",
+            "date": "29 Mar 2024",
+            "points": 5
+          },
+          {
+            "name": "Paris - Camembert",
+            "date": "27 Mar 2024",
+            "points": 125
+          },
           {
             "name": "Milano-Sanremo",
             "date": "16 Mar 2024",

@@ -1,18 +1,23 @@
 {
   "schemaVersion": 1,
-  "momentId": 176881,
-  "rankingDate": "26 March 2024",
-  "fetchedDate": "26 Mar 2024, 02:12 GMT",
+  "momentId": 177132,
+  "rankingDate": "2 April 2024",
+  "fetchedDate": "2 Apr 2024, 02:27 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 3372,
+    "totalPoints": 3792,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
-        "totalPoints": 400,
+        "totalPoints": 500,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen - Tour des Flandres",
+            "date": "31 Mar 2024",
+            "points": 100
+          },
           {
             "name": "Strade Bianche",
             "date": "02 Mar 2024",
@@ -29,8 +34,13 @@
       {
         "name": "Kasia Niewiadoma",
         "id": 86824,
-        "totalPoints": 527,
+        "totalPoints": 847,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen - Tour des Flandres",
+            "date": "31 Mar 2024",
+            "points": 320
+          },
           {
             "name": "Strade Bianche",
             "date": "02 Mar 2024",
