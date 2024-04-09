@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "momentId": 177132,
-  "rankingDate": "2 April 2024",
-  "fetchedDate": "2 Apr 2024, 02:27 GMT",
+  "momentId": 177383,
+  "rankingDate": "9 April 2024",
+  "fetchedDate": "9 Apr 2024, 01:57 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 5505,
+    "totalPoints": 5891,
     "riders": [
       {
         "name": "Marlen Reusser",
         "id": 1589305,
-        "totalPoints": 273,
+        "totalPoints": 258,
         "results": [
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
@@ -44,7 +44,7 @@
             "points": 5
           }
         ],
-        "sanctions": 0
+        "sanctions": 15
       },
       {
         "name": "Elisa Longo Borghini",
@@ -97,8 +97,18 @@
       {
         "name": "Elisa Balsamo",
         "id": 101826,
-        "totalPoints": 1573,
+        "totalPoints": 1928,
         "results": [
+          {
+            "name": "Paris-Roubaix Femmes avec Zwift",
+            "date": "06 Apr 2024",
+            "points": 320
+          },
+          {
+            "name": "Scheldeprijs vrouwen elite",
+            "date": "03 Apr 2024",
+            "points": 35
+          },
           {
             "name": "Gent-Wevelgem In Flanders Fields",
             "date": "24 Mar 2024",
@@ -271,8 +281,18 @@
       {
         "name": "Chiara Consonni",
         "id": 156600,
-        "totalPoints": 844,
+        "totalPoints": 890,
         "results": [
+          {
+            "name": "Paris-Roubaix Femmes avec Zwift",
+            "date": "06 Apr 2024",
+            "points": 16
+          },
+          {
+            "name": "Scheldeprijs vrouwen elite",
+            "date": "03 Apr 2024",
+            "points": 30
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres",
             "date": "31 Mar 2024",

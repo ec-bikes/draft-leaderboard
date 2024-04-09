@@ -1,18 +1,23 @@
 {
   "schemaVersion": 1,
-  "momentId": 177121,
-  "rankingDate": "2 April 2024",
-  "fetchedDate": "2 Apr 2024, 02:29 GMT",
+  "momentId": 177372,
+  "rankingDate": "9 April 2024",
+  "fetchedDate": "9 Apr 2024, 01:59 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 4925.710000000001,
+    "totalPoints": 6144.710000000001,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
-        "totalPoints": 1008.57,
+        "totalPoints": 1028.5700000000002,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Stage 1 - Stage Classification",
+            "date": "01 Apr 2024",
+            "points": 20
+          },
           {
             "name": "Paris-Nice - Final Result - General Classification",
             "date": "10 Mar 2024",
@@ -79,8 +84,13 @@
       {
         "name": "Mathieu van der Poel",
         "id": 79462,
-        "totalPoints": 1735,
+        "totalPoints": 2535,
         "results": [
+          {
+            "name": "Paris-Roubaix",
+            "date": "07 Apr 2024",
+            "points": 800
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres",
             "date": "31 Mar 2024",
@@ -107,8 +117,13 @@
       {
         "name": "Tao Geoghegan Hart",
         "id": 86735,
-        "totalPoints": 45,
+        "totalPoints": 53,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Final Result - General Classification",
+            "date": "06 Apr 2024",
+            "points": 8
+          },
           {
             "name": "Tirreno-Adriatico - Final Result - General Classification",
             "date": "10 Mar 2024",
@@ -125,8 +140,18 @@
       {
         "name": "Santiago Buitrago",
         "id": 353375,
-        "totalPoints": 240.29000000000002,
+        "totalPoints": 306.28999999999996,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Final Result - General Classification",
+            "date": "06 Apr 2024",
+            "points": 56
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 5 - Stage Classification",
+            "date": "05 Apr 2024",
+            "points": 10
+          },
           {
             "name": "Paris-Nice - Stage 7 - Stage Classification",
             "date": "09 Mar 2024",
@@ -158,8 +183,13 @@
       {
         "name": "Tim Merlier",
         "id": 70962,
-        "totalPoints": 800,
+        "totalPoints": 1000,
         "results": [
+          {
+            "name": "Scheldeprijs",
+            "date": "03 Apr 2024",
+            "points": 200
+          },
           {
             "name": "Gent-Wevelgem in Flanders Fields",
             "date": "24 Mar 2024",
@@ -319,8 +349,13 @@
       {
         "name": "Dylan Groenewegen",
         "id": 72932,
-        "totalPoints": 441.71,
+        "totalPoints": 566.71,
         "results": [
+          {
+            "name": "Scheldeprijs",
+            "date": "03 Apr 2024",
+            "points": 125
+          },
           {
             "name": "Gent-Wevelgem in Flanders Fields",
             "date": "24 Mar 2024",

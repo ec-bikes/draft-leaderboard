@@ -1,18 +1,23 @@
 {
   "schemaVersion": 1,
-  "momentId": 177121,
-  "rankingDate": "2 April 2024",
-  "fetchedDate": "2 Apr 2024, 02:29 GMT",
+  "momentId": 177372,
+  "rankingDate": "9 April 2024",
+  "fetchedDate": "9 Apr 2024, 01:59 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 2679.8599999999997,
+    "totalPoints": 3455.86,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
-        "totalPoints": 818,
+        "totalPoints": 833,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Stage 1 - Stage Classification",
+            "date": "01 Apr 2024",
+            "points": 15
+          },
           {
             "name": "Tirreno-Adriatico - Final Result - General Classification",
             "date": "10 Mar 2024",
@@ -79,8 +84,13 @@
       {
         "name": "Christophe Laporte",
         "id": 81980,
-        "totalPoints": 288,
+        "totalPoints": 318,
         "results": [
+          {
+            "name": "Paris-Roubaix",
+            "date": "07 Apr 2024",
+            "points": 30
+          },
           {
             "name": "Strade Bianche",
             "date": "02 Mar 2024",
@@ -153,8 +163,23 @@
       {
         "name": "Carlos Rodriguez",
         "id": 428096,
-        "totalPoints": 25.86,
+        "totalPoints": 396.86,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Final Result - General Classification",
+            "date": "06 Apr 2024",
+            "points": 320
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 6 - Stage Classification",
+            "date": "06 Apr 2024",
+            "points": 50
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 5 - Stage Classification",
+            "date": "05 Apr 2024",
+            "points": 1
+          },
           {
             "name": "Paris-Nice - Final Result - General Classification",
             "date": "10 Mar 2024",
@@ -214,8 +239,13 @@
       {
         "name": "Stefan Küng",
         "id": 74994,
-        "totalPoints": 404,
+        "totalPoints": 764,
         "results": [
+          {
+            "name": "Paris-Roubaix",
+            "date": "07 Apr 2024",
+            "points": 360
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres",
             "date": "31 Mar 2024",

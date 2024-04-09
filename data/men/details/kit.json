@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 177121,
-  "rankingDate": "2 April 2024",
-  "fetchedDate": "2 Apr 2024, 02:29 GMT",
+  "momentId": 177372,
+  "rankingDate": "9 April 2024",
+  "fetchedDate": "9 Apr 2024, 01:59 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 3362.72,
+    "totalPoints": 4041.72,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -49,8 +49,23 @@
       {
         "name": "Juan Ayuso",
         "id": 415141,
-        "totalPoints": 1063,
+        "totalPoints": 1501,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Final Result - General Classification",
+            "date": "06 Apr 2024",
+            "points": 400
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 6 - Stage Classification",
+            "date": "06 Apr 2024",
+            "points": 30
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 1 - Stage Classification",
+            "date": "01 Apr 2024",
+            "points": 8
+          },
           {
             "name": "Tirreno-Adriatico - Final Result - General Classification",
             "date": "10 Mar 2024",
@@ -117,8 +132,13 @@
       {
         "name": "Sam Welsford",
         "id": 91180,
-        "totalPoints": 232,
+        "totalPoints": 292,
         "results": [
+          {
+            "name": "Scheldeprijs",
+            "date": "03 Apr 2024",
+            "points": 60
+          },
           {
             "name": "Classic Brugge-De Panne",
             "date": "20 Mar 2024",
@@ -183,8 +203,23 @@
       {
         "name": "Pello Bilbao",
         "id": 76092,
-        "totalPoints": 341.28999999999996,
+        "totalPoints": 495.28999999999996,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Final Result - General Classification",
+            "date": "06 Apr 2024",
+            "points": 140
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 6 - Stage Classification",
+            "date": "06 Apr 2024",
+            "points": 6
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 5 - Stage Classification",
+            "date": "05 Apr 2024",
+            "points": 8
+          },
           {
             "name": "Paris-Nice - Final Result - General Classification",
             "date": "10 Mar 2024",
@@ -373,8 +408,18 @@
       {
         "name": "Esteban Chaves",
         "id": 75873,
-        "totalPoints": 51,
+        "totalPoints": 78,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Final Result - General Classification",
+            "date": "06 Apr 2024",
+            "points": 24
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 6 - Stage Classification",
+            "date": "06 Apr 2024",
+            "points": 3
+          },
           {
             "name": "Gran Premio Miguel Indurain",
             "date": "30 Mar 2024",

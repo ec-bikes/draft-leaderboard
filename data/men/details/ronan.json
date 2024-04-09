@@ -1,18 +1,38 @@
 {
   "schemaVersion": 1,
-  "momentId": 177121,
-  "rankingDate": "2 April 2024",
-  "fetchedDate": "2 Apr 2024, 02:29 GMT",
+  "momentId": 177372,
+  "rankingDate": "9 April 2024",
+  "fetchedDate": "9 Apr 2024, 01:59 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 4489.28,
+    "totalPoints": 4772.28,
     "riders": [
       {
         "name": "Primož Roglič",
         "id": 88889,
-        "totalPoints": 130,
+        "totalPoints": 204,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Stage 3 - Stage General Classification",
+            "date": "03 Apr 2024",
+            "points": 8
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 2 - Stage General Classification",
+            "date": "02 Apr 2024",
+            "points": 8
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 1 - Stage Classification",
+            "date": "01 Apr 2024",
+            "points": 50
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 1 - Stage General Classification",
+            "date": "01 Apr 2024",
+            "points": 8
+          },
           {
             "name": "Paris-Nice - Final Result - General Classification",
             "date": "10 Mar 2024",
@@ -112,8 +132,13 @@
       {
         "name": "Tom Pidcock",
         "id": 109775,
-        "totalPoints": 613,
+        "totalPoints": 663,
         "results": [
+          {
+            "name": "Paris-Roubaix",
+            "date": "07 Apr 2024",
+            "points": 50
+          },
           {
             "name": "Milano-Sanremo",
             "date": "16 Mar 2024",
@@ -367,8 +392,23 @@
       {
         "name": "Sam Bennett",
         "id": 65995,
-        "totalPoints": 106.14,
+        "totalPoints": 144.14,
         "results": [
+          {
+            "name": "Région Pays de la Loire Tour - Final Result - General Classification",
+            "date": "05 Apr 2024",
+            "points": 30
+          },
+          {
+            "name": "Région Pays de la Loire Tour - Stage 3 - Stage Classification",
+            "date": "04 Apr 2024",
+            "points": 3
+          },
+          {
+            "name": "Région Pays de la Loire Tour - Stage 2 - Stage Classification",
+            "date": "03 Apr 2024",
+            "points": 5
+          },
           {
             "name": "Classic Loire Atlantique",
             "date": "16 Mar 2024",
@@ -410,8 +450,18 @@
       {
         "name": "Isaac del Toro",
         "id": 2002910,
-        "totalPoints": 766,
+        "totalPoints": 887,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Final Result - General Classification",
+            "date": "06 Apr 2024",
+            "points": 120
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 6 - Stage Classification",
+            "date": "06 Apr 2024",
+            "points": 1
+          },
           {
             "name": "Gran Premio Miguel Indurain",
             "date": "30 Mar 2024",

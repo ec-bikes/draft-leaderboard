@@ -1,18 +1,23 @@
 {
   "schemaVersion": 1,
-  "momentId": 177121,
-  "rankingDate": "2 April 2024",
-  "fetchedDate": "2 Apr 2024, 02:29 GMT",
+  "momentId": 177372,
+  "rankingDate": "9 April 2024",
+  "fetchedDate": "9 Apr 2024, 01:59 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 5503,
+    "totalPoints": 6214,
     "riders": [
       {
         "name": "Mads Pedersen",
         "id": 86895,
-        "totalPoints": 1435,
+        "totalPoints": 1955,
         "results": [
+          {
+            "name": "Paris-Roubaix",
+            "date": "07 Apr 2024",
+            "points": 520
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres",
             "date": "31 Mar 2024",
@@ -119,8 +124,13 @@
       {
         "name": "Sepp Kuss",
         "id": 88346,
-        "totalPoints": 158,
+        "totalPoints": 166,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Final Result - General Classification",
+            "date": "06 Apr 2024",
+            "points": 8
+          },
           {
             "name": "Volta Ciclista a Catalunya - Final Result - General Classification",
             "date": "24 Mar 2024",
@@ -215,8 +225,13 @@
       {
         "name": "Ben Healy",
         "id": 235075,
-        "totalPoints": 208,
+        "totalPoints": 243,
         "results": [
+          {
+            "name": "Région Pays de la Loire Tour - Final Result - General Classification",
+            "date": "05 Apr 2024",
+            "points": 35
+          },
           {
             "name": "Strade Bianche",
             "date": "02 Mar 2024",
@@ -309,8 +324,28 @@
       {
         "name": "Alex Aranburu",
         "id": 422863,
-        "totalPoints": 130,
+        "totalPoints": 213,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Final Result - General Classification",
+            "date": "06 Apr 2024",
+            "points": 28
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 5 - Stage Classification",
+            "date": "05 Apr 2024",
+            "points": 15
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 3 - Stage Classification",
+            "date": "03 Apr 2024",
+            "points": 25
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 2 - Stage Classification",
+            "date": "02 Apr 2024",
+            "points": 15
+          },
           {
             "name": "Trofeo Calvià",
             "date": "24 Jan 2024",
@@ -443,8 +478,18 @@
       {
         "name": "Benoît Cosnefroy",
         "id": 79522,
-        "totalPoints": 494,
+        "totalPoints": 559,
         "results": [
+          {
+            "name": "Région Pays de la Loire Tour - Final Result - General Classification",
+            "date": "05 Apr 2024",
+            "points": 60
+          },
+          {
+            "name": "Région Pays de la Loire Tour - Stage 4 - Stage Classification",
+            "date": "05 Apr 2024",
+            "points": 5
+          },
           {
             "name": "La Route Adélie de VItré",
             "date": "29 Mar 2024",

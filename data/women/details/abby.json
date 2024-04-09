@@ -1,18 +1,23 @@
 {
   "schemaVersion": 1,
-  "momentId": 177132,
-  "rankingDate": "2 April 2024",
-  "fetchedDate": "2 Apr 2024, 02:27 GMT",
+  "momentId": 177383,
+  "rankingDate": "9 April 2024",
+  "fetchedDate": "9 Apr 2024, 01:57 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 3908,
+    "totalPoints": 4484,
     "riders": [
       {
         "name": "Marianne Vos",
         "id": 31144,
-        "totalPoints": 1010,
+        "totalPoints": 1230,
         "results": [
+          {
+            "name": "Paris-Roubaix Femmes avec Zwift",
+            "date": "06 Apr 2024",
+            "points": 220
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres",
             "date": "31 Mar 2024",
@@ -54,8 +59,13 @@
       {
         "name": "Pfeiffer Georgi",
         "id": 153350,
-        "totalPoints": 442,
+        "totalPoints": 702,
         "results": [
+          {
+            "name": "Paris-Roubaix Femmes avec Zwift",
+            "date": "06 Apr 2024",
+            "points": 260
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres",
             "date": "31 Mar 2024",
@@ -173,8 +183,13 @@
       {
         "name": "Arlenis Sierra",
         "id": 71998,
-        "totalPoints": 475,
+        "totalPoints": 499,
         "results": [
+          {
+            "name": "Paris-Roubaix Femmes avec Zwift",
+            "date": "06 Apr 2024",
+            "points": 24
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres",
             "date": "31 Mar 2024",
@@ -269,8 +284,13 @@
       {
         "name": "Elise Chabbey",
         "id": 1638135,
-        "totalPoints": 214,
+        "totalPoints": 270,
         "results": [
+          {
+            "name": "Paris-Roubaix Femmes avec Zwift",
+            "date": "06 Apr 2024",
+            "points": 56
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "17 Mar 2024",
@@ -383,8 +403,13 @@
       {
         "name": "Alison Jackson",
         "id": 96860,
-        "totalPoints": 39,
+        "totalPoints": 55,
         "results": [
+          {
+            "name": "Paris-Roubaix Femmes avec Zwift",
+            "date": "06 Apr 2024",
+            "points": 16
+          },
           {
             "name": "Classic Brugge-De Panne",
             "date": "21 Mar 2024",

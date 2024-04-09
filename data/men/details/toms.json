@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 177121,
-  "rankingDate": "2 April 2024",
-  "fetchedDate": "2 Apr 2024, 02:29 GMT",
+  "momentId": 177372,
+  "rankingDate": "9 April 2024",
+  "fetchedDate": "9 Apr 2024, 01:59 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 4033.1400000000003,
+    "totalPoints": 5106.14,
     "riders": [
       {
         "name": "Adam Yates",
@@ -29,8 +29,33 @@
       {
         "name": "Mattias Skjelmose",
         "id": 365033,
-        "totalPoints": 633,
+        "totalPoints": 954,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Final Result - General Classification",
+            "date": "06 Apr 2024",
+            "points": 260
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 6 - Stage Classification",
+            "date": "06 Apr 2024",
+            "points": 20
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 5 - Stage General Classification",
+            "date": "05 Apr 2024",
+            "points": 8
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 4 - Stage General Classification",
+            "date": "04 Apr 2024",
+            "points": 8
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 1 - Stage Classification",
+            "date": "01 Apr 2024",
+            "points": 25
+          },
           {
             "name": "Paris-Nice - Final Result - General Classification",
             "date": "10 Mar 2024",
@@ -163,8 +188,23 @@
       {
         "name": "Kévin Vauquelin",
         "id": 1745291,
-        "totalPoints": 319,
+        "totalPoints": 435,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Final Result - General Classification",
+            "date": "06 Apr 2024",
+            "points": 100
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 3 - Stage Classification",
+            "date": "03 Apr 2024",
+            "points": 6
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 1 - Stage Classification",
+            "date": "01 Apr 2024",
+            "points": 10
+          },
           {
             "name": "Tirreno-Adriatico - Final Result - General Classification",
             "date": "10 Mar 2024",
@@ -221,8 +261,23 @@
       {
         "name": "Brandon McNulty",
         "id": 150923,
-        "totalPoints": 1082.5700000000002,
+        "totalPoints": 1273.5700000000002,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Final Result - General Classification",
+            "date": "06 Apr 2024",
+            "points": 180
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 6 - Stage Classification",
+            "date": "06 Apr 2024",
+            "points": 8
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 2 - Stage Classification",
+            "date": "02 Apr 2024",
+            "points": 3
+          },
           {
             "name": "Gran Premio Miguel Indurain",
             "date": "30 Mar 2024",
@@ -352,8 +407,13 @@
       {
         "name": "Laurence Pithie",
         "id": 221617,
-        "totalPoints": 745,
+        "totalPoints": 985,
         "results": [
+          {
+            "name": "Paris-Roubaix",
+            "date": "07 Apr 2024",
+            "points": 240
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres",
             "date": "31 Mar 2024",
@@ -450,8 +510,13 @@
       {
         "name": "Jordi Meeus",
         "id": 148901,
-        "totalPoints": 415,
+        "totalPoints": 615,
         "results": [
+          {
+            "name": "Paris-Roubaix",
+            "date": "07 Apr 2024",
+            "points": 200
+          },
           {
             "name": "Dwars door Vlaanderen - A travers la Flandre",
             "date": "27 Mar 2024",
@@ -483,8 +548,13 @@
       {
         "name": "Casper van Uden",
         "id": 226805,
-        "totalPoints": 67,
+        "totalPoints": 72,
         "results": [
+          {
+            "name": "Scheldeprijs",
+            "date": "03 Apr 2024",
+            "points": 5
+          },
           {
             "name": "Dwars door Vlaanderen - A travers la Flandre",
             "date": "27 Mar 2024",

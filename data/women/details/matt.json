@@ -1,18 +1,28 @@
 {
   "schemaVersion": 1,
-  "momentId": 177132,
-  "rankingDate": "2 April 2024",
-  "fetchedDate": "2 Apr 2024, 02:27 GMT",
+  "momentId": 177383,
+  "rankingDate": "9 April 2024",
+  "fetchedDate": "9 Apr 2024, 01:57 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 4186,
+    "totalPoints": 4592,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
-        "totalPoints": 2034,
+        "totalPoints": 2440,
         "results": [
+          {
+            "name": "Paris-Roubaix Femmes avec Zwift",
+            "date": "06 Apr 2024",
+            "points": 400
+          },
+          {
+            "name": "Paris-Roubaix Femmes avec Zwift - WWT leader's jersey",
+            "date": "06 Apr 2024",
+            "points": 6
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres",
             "date": "31 Mar 2024",

@@ -1,18 +1,28 @@
 {
   "schemaVersion": 1,
-  "momentId": 177132,
-  "rankingDate": "2 April 2024",
-  "fetchedDate": "2 Apr 2024, 02:27 GMT",
+  "momentId": 177383,
+  "rankingDate": "9 April 2024",
+  "fetchedDate": "9 Apr 2024, 01:57 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 4548,
+    "totalPoints": 4817,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
-        "totalPoints": 1382,
+        "totalPoints": 1627,
         "results": [
+          {
+            "name": "Paris-Roubaix Femmes avec Zwift",
+            "date": "06 Apr 2024",
+            "points": 120
+          },
+          {
+            "name": "Scheldeprijs vrouwen elite",
+            "date": "03 Apr 2024",
+            "points": 125
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres",
             "date": "31 Mar 2024",
@@ -147,8 +157,13 @@
       {
         "name": "Christina Schweinberger",
         "id": 98623,
-        "totalPoints": 399,
+        "totalPoints": 423,
         "results": [
+          {
+            "name": "Paris-Roubaix Femmes avec Zwift",
+            "date": "06 Apr 2024",
+            "points": 24
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres",
             "date": "31 Mar 2024",

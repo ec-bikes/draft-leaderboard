@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 177132,
-  "rankingDate": "2 April 2024",
-  "fetchedDate": "2 Apr 2024, 02:27 GMT",
+  "momentId": 177383,
+  "rankingDate": "9 April 2024",
+  "fetchedDate": "9 Apr 2024, 01:57 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 3792,
+    "totalPoints": 3893,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -105,8 +105,13 @@
       {
         "name": "Charlotte Kool",
         "id": 157612,
-        "totalPoints": 636,
+        "totalPoints": 721,
         "results": [
+          {
+            "name": "Scheldeprijs vrouwen elite",
+            "date": "03 Apr 2024",
+            "points": 85
+          },
           {
             "name": "Gent-Wevelgem In Flanders Fields",
             "date": "24 Mar 2024",
@@ -247,8 +252,13 @@
       {
         "name": "Marta Lach",
         "id": 96399,
-        "totalPoints": 146,
+        "totalPoints": 162,
         "results": [
+          {
+            "name": "Paris-Roubaix Femmes avec Zwift",
+            "date": "06 Apr 2024",
+            "points": 16
+          },
           {
             "name": "Miron Ronde van Drenthe",
             "date": "10 Mar 2024",

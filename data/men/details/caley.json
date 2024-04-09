@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 177121,
-  "rankingDate": "2 April 2024",
-  "fetchedDate": "2 Apr 2024, 02:29 GMT",
+  "momentId": 177372,
+  "rankingDate": "9 April 2024",
+  "fetchedDate": "9 Apr 2024, 01:59 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 3715.86,
+    "totalPoints": 3615.86,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -227,7 +227,7 @@
       {
         "name": "Josh Tarling",
         "id": 1557793,
-        "totalPoints": 195.86,
+        "totalPoints": 95.86000000000001,
         "results": [
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres",
@@ -270,7 +270,7 @@
             "points": 5
           }
         ],
-        "sanctions": 0
+        "sanctions": 100
       },
       {
         "name": "Enric Mas",

@@ -1,18 +1,28 @@
 {
   "schemaVersion": 1,
-  "momentId": 177121,
-  "rankingDate": "2 April 2024",
-  "fetchedDate": "2 Apr 2024, 02:29 GMT",
+  "momentId": 177372,
+  "rankingDate": "9 April 2024",
+  "fetchedDate": "9 Apr 2024, 01:59 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 3578.86,
+    "totalPoints": 4592.86,
     "riders": [
       {
         "name": "Jasper Philipsen",
         "id": 148275,
-        "totalPoints": 1645,
+        "totalPoints": 2435,
         "results": [
+          {
+            "name": "Paris-Roubaix",
+            "date": "07 Apr 2024",
+            "points": 640
+          },
+          {
+            "name": "Scheldeprijs",
+            "date": "03 Apr 2024",
+            "points": 150
+          },
           {
             "name": "Dwars door Vlaanderen - A travers la Flandre",
             "date": "27 Mar 2024",
@@ -148,8 +158,13 @@
       {
         "name": "Jai Hindley",
         "id": 109829,
-        "totalPoints": 473,
+        "totalPoints": 521,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Final Result - General Classification",
+            "date": "06 Apr 2024",
+            "points": 48
+          },
           {
             "name": "Tirreno-Adriatico - Final Result - General Classification",
             "date": "10 Mar 2024",
@@ -181,8 +196,13 @@
       {
         "name": "Yves Lampaert",
         "id": 86228,
-        "totalPoints": 129.57,
+        "totalPoints": 144.57,
         "results": [
+          {
+            "name": "Paris-Roubaix",
+            "date": "07 Apr 2024",
+            "points": 15
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres",
             "date": "31 Mar 2024",
@@ -239,8 +259,13 @@
       {
         "name": "Fred Wright",
         "id": 153275,
-        "totalPoints": 114.29,
+        "totalPoints": 209.29,
         "results": [
+          {
+            "name": "Paris-Roubaix",
+            "date": "07 Apr 2024",
+            "points": 95
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres",
             "date": "31 Mar 2024",
@@ -355,8 +380,23 @@
       {
         "name": "Romain Grégoire",
         "id": 1759422,
-        "totalPoints": 297,
+        "totalPoints": 363,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Final Result - General Classification",
+            "date": "06 Apr 2024",
+            "points": 8
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 5 - Stage Classification",
+            "date": "05 Apr 2024",
+            "points": 50
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 3 - Stage Classification",
+            "date": "03 Apr 2024",
+            "points": 8
+          },
           {
             "name": "Tirreno-Adriatico - Final Result - General Classification",
             "date": "10 Mar 2024",
