@@ -1,18 +1,23 @@
 {
   "schemaVersion": 1,
-  "momentId": 177383,
-  "rankingDate": "9 April 2024",
-  "fetchedDate": "9 Apr 2024, 01:57 GMT",
+  "momentId": 178090,
+  "rankingDate": "16 April 2024",
+  "fetchedDate": "16 Apr 2024, 01:58 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 4484,
+    "totalPoints": 5369,
     "riders": [
       {
         "name": "Marianne Vos",
         "id": 31144,
-        "totalPoints": 1230,
+        "totalPoints": 1630,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "14 Apr 2024",
+            "points": 400
+          },
           {
             "name": "Paris-Roubaix Femmes avec Zwift",
             "date": "06 Apr 2024",
@@ -59,8 +64,13 @@
       {
         "name": "Pfeiffer Georgi",
         "id": 153350,
-        "totalPoints": 702,
+        "totalPoints": 922,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "14 Apr 2024",
+            "points": 220
+          },
           {
             "name": "Paris-Roubaix Femmes avec Zwift",
             "date": "06 Apr 2024",
@@ -107,8 +117,18 @@
       {
         "name": "Shirin van Anrooij",
         "id": 228375,
-        "totalPoints": 881,
+        "totalPoints": 1014,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "14 Apr 2024",
+            "points": 48
+          },
+          {
+            "name": "De Brabantse Pijl - La Flèche Brabançonne",
+            "date": "10 Apr 2024",
+            "points": 85
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres",
             "date": "31 Mar 2024",
@@ -183,8 +203,13 @@
       {
         "name": "Arlenis Sierra",
         "id": 71998,
-        "totalPoints": 499,
+        "totalPoints": 515,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "14 Apr 2024",
+            "points": 16
+          },
           {
             "name": "Paris-Roubaix Femmes avec Zwift",
             "date": "06 Apr 2024",
@@ -256,8 +281,13 @@
       {
         "name": "Ricarda Bauernfeind",
         "id": 153347,
-        "totalPoints": 114,
+        "totalPoints": 138,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "14 Apr 2024",
+            "points": 24
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "17 Mar 2024",
@@ -284,8 +314,13 @@
       {
         "name": "Elise Chabbey",
         "id": 1638135,
-        "totalPoints": 270,
+        "totalPoints": 294,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "14 Apr 2024",
+            "points": 24
+          },
           {
             "name": "Paris-Roubaix Femmes avec Zwift",
             "date": "06 Apr 2024",
@@ -365,8 +400,13 @@
       {
         "name": "Soraya Paladin",
         "id": 75244,
-        "totalPoints": 332,
+        "totalPoints": 400,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "14 Apr 2024",
+            "points": 68
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres",
             "date": "31 Mar 2024",

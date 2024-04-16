@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 177372,
-  "rankingDate": "9 April 2024",
-  "fetchedDate": "9 Apr 2024, 01:59 GMT",
+  "momentId": 178079,
+  "rankingDate": "16 April 2024",
+  "fetchedDate": "16 Apr 2024, 01:59 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 6144.710000000001,
+    "totalPoints": 6274.710000000001,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -84,8 +84,13 @@
       {
         "name": "Mathieu van der Poel",
         "id": 79462,
-        "totalPoints": 2535,
+        "totalPoints": 2555,
         "results": [
+          {
+            "name": "Amstel Gold Race",
+            "date": "14 Apr 2024",
+            "points": 20
+          },
           {
             "name": "Paris-Roubaix",
             "date": "07 Apr 2024",
@@ -304,8 +309,18 @@
       {
         "name": "Felix Gall",
         "id": 150925,
-        "totalPoints": 234.14,
+        "totalPoints": 344.14,
         "results": [
+          {
+            "name": "Tour du Jura Cycliste",
+            "date": "13 Apr 2024",
+            "points": 60
+          },
+          {
+            "name": "Classic Grand Besançon Doubs",
+            "date": "12 Apr 2024",
+            "points": 50
+          },
           {
             "name": "Paris-Nice - Final Result - General Classification",
             "date": "10 Mar 2024",

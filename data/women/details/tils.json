@@ -1,18 +1,28 @@
 {
   "schemaVersion": 1,
-  "momentId": 177383,
-  "rankingDate": "9 April 2024",
-  "fetchedDate": "9 Apr 2024, 01:57 GMT",
+  "momentId": 178090,
+  "rankingDate": "16 April 2024",
+  "fetchedDate": "16 Apr 2024, 01:58 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 3893,
+    "totalPoints": 4131,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
-        "totalPoints": 500,
+        "totalPoints": 666,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "14 Apr 2024",
+            "points": 16
+          },
+          {
+            "name": "De Brabantse Pijl - La Flèche Brabançonne",
+            "date": "10 Apr 2024",
+            "points": 150
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres",
             "date": "31 Mar 2024",
@@ -34,8 +44,13 @@
       {
         "name": "Kasia Niewiadoma",
         "id": 86824,
-        "totalPoints": 847,
+        "totalPoints": 871,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "14 Apr 2024",
+            "points": 24
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres",
             "date": "31 Mar 2024",
@@ -77,8 +92,13 @@
       {
         "name": "Juliette Labous",
         "id": 97498,
-        "totalPoints": 132,
+        "totalPoints": 156,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "14 Apr 2024",
+            "points": 24
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "17 Mar 2024",
@@ -143,8 +163,13 @@
       {
         "name": "Riejanne Markus",
         "id": 86854,
-        "totalPoints": 187,
+        "totalPoints": 195,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "14 Apr 2024",
+            "points": 8
+          },
           {
             "name": "Tour de Normandie Féminin - Final Result - General Classification",
             "date": "17 Mar 2024",
@@ -300,8 +325,13 @@
       {
         "name": "Sofia Bertizzolo",
         "id": 106607,
-        "totalPoints": 140,
+        "totalPoints": 156,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "14 Apr 2024",
+            "points": 16
+          },
           {
             "name": "Classic Brugge-De Panne",
             "date": "21 Mar 2024",

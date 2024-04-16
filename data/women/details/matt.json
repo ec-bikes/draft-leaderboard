@@ -1,18 +1,23 @@
 {
   "schemaVersion": 1,
-  "momentId": 177383,
-  "rankingDate": "9 April 2024",
-  "fetchedDate": "9 Apr 2024, 01:57 GMT",
+  "momentId": 178090,
+  "rankingDate": "16 April 2024",
+  "fetchedDate": "16 Apr 2024, 01:58 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 4592,
+    "totalPoints": 4692,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
-        "totalPoints": 2440,
+        "totalPoints": 2446,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition - WWT leader's jersey",
+            "date": "14 Apr 2024",
+            "points": 6
+          },
           {
             "name": "Paris-Roubaix Femmes avec Zwift",
             "date": "06 Apr 2024",
@@ -190,8 +195,13 @@
       {
         "name": "Gaia Realini",
         "id": 303036,
-        "totalPoints": 421,
+        "totalPoints": 424,
         "results": [
+          {
+            "name": "De Brabantse Pijl - La Flèche Brabançonne",
+            "date": "10 Apr 2024",
+            "points": 3
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "17 Mar 2024",
@@ -238,8 +248,13 @@
       {
         "name": "Amanda Spratt",
         "id": 32706,
-        "totalPoints": 303,
+        "totalPoints": 308,
         "results": [
+          {
+            "name": "De Brabantse Pijl - La Flèche Brabançonne",
+            "date": "10 Apr 2024",
+            "points": 5
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "17 Mar 2024",
@@ -314,8 +329,13 @@
       {
         "name": "Antonia Niedermaier",
         "id": 2188959,
-        "totalPoints": 5,
+        "totalPoints": 35,
         "results": [
+          {
+            "name": "Grand Prix Féminin de Chambéry",
+            "date": "14 Apr 2024",
+            "points": 30
+          },
           {
             "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Final Result - General Classification",
             "date": "18 Feb 2024",
@@ -385,8 +405,14 @@
       {
         "name": "Anna Henderson",
         "id": 237690,
-        "totalPoints": 0,
-        "results": [],
+        "totalPoints": 56,
+        "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "14 Apr 2024",
+            "points": 56
+          }
+        ],
         "sanctions": 0
       },
       {

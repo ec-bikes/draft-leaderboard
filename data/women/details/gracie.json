@@ -1,18 +1,23 @@
 {
   "schemaVersion": 1,
-  "momentId": 177383,
-  "rankingDate": "9 April 2024",
-  "fetchedDate": "9 Apr 2024, 01:57 GMT",
+  "momentId": 178090,
+  "rankingDate": "16 April 2024",
+  "fetchedDate": "16 Apr 2024, 01:58 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 4817,
+    "totalPoints": 5204,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
-        "totalPoints": 1627,
+        "totalPoints": 1947,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "14 Apr 2024",
+            "points": 320
+          },
           {
             "name": "Paris-Roubaix Femmes avec Zwift",
             "date": "06 Apr 2024",
@@ -114,8 +119,18 @@
       {
         "name": "Mavi Garcia",
         "id": 398547,
-        "totalPoints": 477,
+        "totalPoints": 520,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "14 Apr 2024",
+            "points": 28
+          },
+          {
+            "name": "De Brabantse Pijl - La Flèche Brabançonne",
+            "date": "10 Apr 2024",
+            "points": 15
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "17 Mar 2024",
@@ -157,8 +172,13 @@
       {
         "name": "Christina Schweinberger",
         "id": 98623,
-        "totalPoints": 423,
+        "totalPoints": 431,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "14 Apr 2024",
+            "points": 8
+          },
           {
             "name": "Paris-Roubaix Femmes avec Zwift",
             "date": "06 Apr 2024",
@@ -210,8 +230,13 @@
       {
         "name": "Neve Bradbury",
         "id": 1987823,
-        "totalPoints": 723,
+        "totalPoints": 731,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "14 Apr 2024",
+            "points": 8
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "17 Mar 2024",
@@ -301,8 +326,13 @@
       {
         "name": "Olivia Baril",
         "id": 151523,
-        "totalPoints": 397,
+        "totalPoints": 405,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "14 Apr 2024",
+            "points": 8
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "17 Mar 2024",

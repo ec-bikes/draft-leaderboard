@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 177372,
-  "rankingDate": "9 April 2024",
-  "fetchedDate": "9 Apr 2024, 01:59 GMT",
+  "momentId": 178079,
+  "rankingDate": "16 April 2024",
+  "fetchedDate": "16 Apr 2024, 01:59 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 6214,
+    "totalPoints": 6474,
     "riders": [
       {
         "name": "Mads Pedersen",
@@ -167,8 +167,13 @@
       {
         "name": "Matteo Jorgenson",
         "id": 159567,
-        "totalPoints": 1107.14,
+        "totalPoints": 1117.14,
         "results": [
+          {
+            "name": "Amstel Gold Race",
+            "date": "14 Apr 2024",
+            "points": 10
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres",
             "date": "31 Mar 2024",
@@ -225,8 +230,13 @@
       {
         "name": "Ben Healy",
         "id": 235075,
-        "totalPoints": 243,
+        "totalPoints": 253,
         "results": [
+          {
+            "name": "Amstel Gold Race",
+            "date": "14 Apr 2024",
+            "points": 10
+          },
           {
             "name": "Région Pays de la Loire Tour - Final Result - General Classification",
             "date": "05 Apr 2024",
@@ -271,8 +281,13 @@
       {
         "name": "Toms Skujiņš",
         "id": 68892,
-        "totalPoints": 624,
+        "totalPoints": 634,
         "results": [
+          {
+            "name": "Amstel Gold Race",
+            "date": "14 Apr 2024",
+            "points": 10
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres",
             "date": "31 Mar 2024",
@@ -478,8 +493,18 @@
       {
         "name": "Benoît Cosnefroy",
         "id": 79522,
-        "totalPoints": 559,
+        "totalPoints": 789,
         "results": [
+          {
+            "name": "Amstel Gold Race",
+            "date": "14 Apr 2024",
+            "points": 30
+          },
+          {
+            "name": "De Brabantse Pijl - La Flèche Brabançonne",
+            "date": "10 Apr 2024",
+            "points": 200
+          },
           {
             "name": "Région Pays de la Loire Tour - Final Result - General Classification",
             "date": "05 Apr 2024",

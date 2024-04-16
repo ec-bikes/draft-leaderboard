@@ -1,18 +1,28 @@
 {
   "schemaVersion": 1,
-  "momentId": 177372,
-  "rankingDate": "9 April 2024",
-  "fetchedDate": "9 Apr 2024, 01:59 GMT",
+  "momentId": 178079,
+  "rankingDate": "16 April 2024",
+  "fetchedDate": "16 Apr 2024, 01:59 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 5106.14,
+    "totalPoints": 5399.139999999999,
     "riders": [
       {
         "name": "Adam Yates",
         "id": 70590,
-        "totalPoints": 220,
+        "totalPoints": 283,
         "results": [
+          {
+            "name": "Il Giro d’Abruzzo - Final Result - General Classification",
+            "date": "12 Apr 2024",
+            "points": 60
+          },
+          {
+            "name": "Il Giro d’Abruzzo - Stage 3 - Stage Classification",
+            "date": "11 Apr 2024",
+            "points": 3
+          },
           {
             "name": "Tour of Oman - Final Result - General Classification",
             "date": "14 Feb 2024",
@@ -29,8 +39,13 @@
       {
         "name": "Mattias Skjelmose",
         "id": 365033,
-        "totalPoints": 954,
+        "totalPoints": 984,
         "results": [
+          {
+            "name": "Amstel Gold Race",
+            "date": "14 Apr 2024",
+            "points": 30
+          },
           {
             "name": "Itzulia Basque Country - Final Result - General Classification",
             "date": "06 Apr 2024",
@@ -102,8 +117,13 @@
       {
         "name": "Valentin Madouas",
         "id": 91637,
-        "totalPoints": 170,
+        "totalPoints": 345,
         "results": [
+          {
+            "name": "Amstel Gold Race",
+            "date": "14 Apr 2024",
+            "points": 175
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres",
             "date": "31 Mar 2024",
@@ -155,8 +175,13 @@
       {
         "name": "João Almeida",
         "id": 107840,
-        "totalPoints": 161.57,
+        "totalPoints": 171.57,
         "results": [
+          {
+            "name": "Amstel Gold Race",
+            "date": "14 Apr 2024",
+            "points": 10
+          },
           {
             "name": "Volta Ciclista a Catalunya - Final Result - General Classification",
             "date": "24 Mar 2024",
@@ -188,8 +213,13 @@
       {
         "name": "Kévin Vauquelin",
         "id": 1745291,
-        "totalPoints": 435,
+        "totalPoints": 445,
         "results": [
+          {
+            "name": "Amstel Gold Race",
+            "date": "14 Apr 2024",
+            "points": 10
+          },
           {
             "name": "Itzulia Basque Country - Final Result - General Classification",
             "date": "06 Apr 2024",
@@ -261,8 +291,13 @@
       {
         "name": "Brandon McNulty",
         "id": 150923,
-        "totalPoints": 1273.5700000000002,
+        "totalPoints": 1278.5700000000002,
         "results": [
+          {
+            "name": "Amstel Gold Race",
+            "date": "14 Apr 2024",
+            "points": 5
+          },
           {
             "name": "Itzulia Basque Country - Final Result - General Classification",
             "date": "06 Apr 2024",

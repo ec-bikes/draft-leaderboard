@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 177383,
-  "rankingDate": "9 April 2024",
-  "fetchedDate": "9 Apr 2024, 01:57 GMT",
+  "momentId": 178090,
+  "rankingDate": "16 April 2024",
+  "fetchedDate": "16 Apr 2024, 01:58 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 5891,
+    "totalPoints": 6372,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -49,8 +49,18 @@
       {
         "name": "Elisa Longo Borghini",
         "id": 76149,
-        "totalPoints": 1318,
+        "totalPoints": 1698,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "14 Apr 2024",
+            "points": 180
+          },
+          {
+            "name": "De Brabantse Pijl - La Flèche Brabançonne",
+            "date": "10 Apr 2024",
+            "points": 200
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres",
             "date": "31 Mar 2024",
@@ -167,8 +177,13 @@
       {
         "name": "Grace Brown",
         "id": 143292,
-        "totalPoints": 288,
+        "totalPoints": 304,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "14 Apr 2024",
+            "points": 16
+          },
           {
             "name": "Gent-Wevelgem In Flanders Fields",
             "date": "24 Mar 2024",
@@ -243,8 +258,13 @@
       {
         "name": "Evita Muzic",
         "id": 109412,
-        "totalPoints": 225,
+        "totalPoints": 310,
         "results": [
+          {
+            "name": "Grand Prix Féminin de Chambéry",
+            "date": "14 Apr 2024",
+            "points": 85
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "17 Mar 2024",

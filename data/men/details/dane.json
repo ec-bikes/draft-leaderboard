@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 177372,
-  "rankingDate": "9 April 2024",
-  "fetchedDate": "9 Apr 2024, 01:59 GMT",
+  "momentId": 178079,
+  "rankingDate": "16 April 2024",
+  "fetchedDate": "16 Apr 2024, 01:59 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 3455.86,
+    "totalPoints": 3880.86,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -201,8 +201,18 @@
       {
         "name": "Marc Hirschi",
         "id": 111440,
-        "totalPoints": 420,
+        "totalPoints": 825,
         "results": [
+          {
+            "name": "Amstel Gold Race",
+            "date": "14 Apr 2024",
+            "points": 400
+          },
+          {
+            "name": "De Brabantse Pijl - La Flèche Brabançonne",
+            "date": "10 Apr 2024",
+            "points": 5
+          },
           {
             "name": "Dwars door Vlaanderen - A travers la Flandre",
             "date": "27 Mar 2024",
@@ -239,8 +249,13 @@
       {
         "name": "Stefan Küng",
         "id": 74994,
-        "totalPoints": 764,
+        "totalPoints": 784,
         "results": [
+          {
+            "name": "Amstel Gold Race",
+            "date": "14 Apr 2024",
+            "points": 20
+          },
           {
             "name": "Paris-Roubaix",
             "date": "07 Apr 2024",

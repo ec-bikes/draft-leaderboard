@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 177372,
-  "rankingDate": "9 April 2024",
-  "fetchedDate": "9 Apr 2024, 01:59 GMT",
+  "momentId": 178079,
+  "rankingDate": "16 April 2024",
+  "fetchedDate": "16 Apr 2024, 01:59 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 4592.86,
+    "totalPoints": 4847.86,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -102,8 +102,18 @@
       {
         "name": "David Gaudu",
         "id": 112351,
-        "totalPoints": 103,
+        "totalPoints": 298,
         "results": [
+          {
+            "name": "Tour du Jura Cycliste",
+            "date": "13 Apr 2024",
+            "points": 125
+          },
+          {
+            "name": "Classic Grand Besançon Doubs",
+            "date": "12 Apr 2024",
+            "points": 70
+          },
           {
             "name": "La Route Adélie de VItré",
             "date": "29 Mar 2024",
@@ -380,8 +390,13 @@
       {
         "name": "Romain Grégoire",
         "id": 1759422,
-        "totalPoints": 363,
+        "totalPoints": 423,
         "results": [
+          {
+            "name": "Amstel Gold Race",
+            "date": "14 Apr 2024",
+            "points": 60
+          },
           {
             "name": "Itzulia Basque Country - Final Result - General Classification",
             "date": "06 Apr 2024",

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 177372,
-  "rankingDate": "9 April 2024",
-  "fetchedDate": "9 Apr 2024, 01:59 GMT",
+  "momentId": 178079,
+  "rankingDate": "16 April 2024",
+  "fetchedDate": "16 Apr 2024, 01:59 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 3615.86,
+    "totalPoints": 4328.860000000001,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -146,8 +146,23 @@
       {
         "name": "Lenny Martinez",
         "id": 1843476,
-        "totalPoints": 659,
+        "totalPoints": 924,
         "results": [
+          {
+            "name": "Tour du Doubs",
+            "date": "14 Apr 2024",
+            "points": 125
+          },
+          {
+            "name": "Tour du Jura Cycliste",
+            "date": "13 Apr 2024",
+            "points": 15
+          },
+          {
+            "name": "Classic Grand Besançon Doubs",
+            "date": "12 Apr 2024",
+            "points": 125
+          },
           {
             "name": "Volta Ciclista a Catalunya - Final Result - General Classification",
             "date": "24 Mar 2024",
@@ -199,8 +214,13 @@
       {
         "name": "Tiesj Benoot",
         "id": 77502,
-        "totalPoints": 245,
+        "totalPoints": 570,
         "results": [
+          {
+            "name": "Amstel Gold Race",
+            "date": "14 Apr 2024",
+            "points": 325
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres",
             "date": "31 Mar 2024",
@@ -326,8 +346,23 @@
       {
         "name": "Guillaume Martin",
         "id": 75170,
-        "totalPoints": 131,
+        "totalPoints": 254,
         "results": [
+          {
+            "name": "Tour du Doubs",
+            "date": "14 Apr 2024",
+            "points": 50
+          },
+          {
+            "name": "Tour du Jura Cycliste",
+            "date": "13 Apr 2024",
+            "points": 70
+          },
+          {
+            "name": "Classic Grand Besançon Doubs",
+            "date": "12 Apr 2024",
+            "points": 3
+          },
           {
             "name": "Paris - Camembert",
             "date": "27 Mar 2024",

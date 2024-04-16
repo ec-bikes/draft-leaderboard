@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 177372,
-  "rankingDate": "9 April 2024",
-  "fetchedDate": "9 Apr 2024, 01:59 GMT",
+  "momentId": 178079,
+  "rankingDate": "16 April 2024",
+  "fetchedDate": "16 Apr 2024, 01:59 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 4772.28,
+    "totalPoints": 5277.28,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -132,8 +132,13 @@
       {
         "name": "Tom Pidcock",
         "id": 109775,
-        "totalPoints": 663,
+        "totalPoints": 1163,
         "results": [
+          {
+            "name": "Amstel Gold Race",
+            "date": "14 Apr 2024",
+            "points": 500
+          },
           {
             "name": "Paris-Roubaix",
             "date": "07 Apr 2024",
@@ -301,8 +306,13 @@
       {
         "name": "Richard Carapaz",
         "id": 91656,
-        "totalPoints": 244,
+        "totalPoints": 249,
         "results": [
+          {
+            "name": "Amstel Gold Race",
+            "date": "14 Apr 2024",
+            "points": 5
+          },
           {
             "name": "O Gran Camiño - The Historical Route - Final Result - General Classification",
             "date": "25 Feb 2024",
