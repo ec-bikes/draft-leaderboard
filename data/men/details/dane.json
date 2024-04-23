@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 178079,
-  "rankingDate": "16 April 2024",
-  "fetchedDate": "16 Apr 2024, 01:59 GMT",
+  "momentId": 178357,
+  "rankingDate": "23 April 2024",
+  "fetchedDate": "23 Apr 2024, 02:03 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 3880.86,
+    "totalPoints": 3958.86,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -112,8 +112,13 @@
       {
         "name": "Geraint Thomas",
         "id": 32532,
-        "totalPoints": 16,
+        "totalPoints": 36,
         "results": [
+          {
+            "name": "Tour of the Alps - Final Result - General Classification",
+            "date": "19 Apr 2024",
+            "points": 20
+          },
           {
             "name": "Volta Ciclista a Catalunya - Final Result - General Classification",
             "date": "24 Mar 2024",
@@ -201,8 +206,13 @@
       {
         "name": "Marc Hirschi",
         "id": 111440,
-        "totalPoints": 825,
+        "totalPoints": 875,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "21 Apr 2024",
+            "points": 50
+          },
           {
             "name": "Amstel Gold Race",
             "date": "14 Apr 2024",
@@ -388,8 +398,13 @@
       {
         "name": "Søren Kragh Andersen",
         "id": 79156,
-        "totalPoints": 33,
+        "totalPoints": 41,
         "results": [
+          {
+            "name": "La Flèche Wallonne",
+            "date": "17 Apr 2024",
+            "points": 8
+          },
           {
             "name": "Gent-Wevelgem in Flanders Fields",
             "date": "24 Mar 2024",

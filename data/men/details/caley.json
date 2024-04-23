@@ -1,18 +1,23 @@
 {
   "schemaVersion": 1,
-  "momentId": 178079,
-  "rankingDate": "16 April 2024",
-  "fetchedDate": "16 Apr 2024, 01:59 GMT",
+  "momentId": 178357,
+  "rankingDate": "23 April 2024",
+  "fetchedDate": "23 Apr 2024, 02:03 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 4328.860000000001,
+    "totalPoints": 5421.86,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
-        "totalPoints": 1590,
+        "totalPoints": 2390,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "21 Apr 2024",
+            "points": 800
+          },
           {
             "name": "Volta Ciclista a Catalunya - Final Result - General Classification",
             "date": "24 Mar 2024",
@@ -214,8 +219,18 @@
       {
         "name": "Tiesj Benoot",
         "id": 77502,
-        "totalPoints": 570,
+        "totalPoints": 745,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "21 Apr 2024",
+            "points": 95
+          },
+          {
+            "name": "La Flèche Wallonne",
+            "date": "17 Apr 2024",
+            "points": 80
+          },
           {
             "name": "Amstel Gold Race",
             "date": "14 Apr 2024",
@@ -346,8 +361,18 @@
       {
         "name": "Guillaume Martin",
         "id": 75170,
-        "totalPoints": 254,
+        "totalPoints": 372,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "21 Apr 2024",
+            "points": 50
+          },
+          {
+            "name": "La Flèche Wallonne",
+            "date": "17 Apr 2024",
+            "points": 68
+          },
           {
             "name": "Tour du Doubs",
             "date": "14 Apr 2024",

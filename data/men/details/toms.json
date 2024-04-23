@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 178079,
-  "rankingDate": "16 April 2024",
-  "fetchedDate": "16 Apr 2024, 01:59 GMT",
+  "momentId": 178357,
+  "rankingDate": "23 April 2024",
+  "fetchedDate": "23 Apr 2024, 02:03 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 5399.139999999999,
+    "totalPoints": 6039.14,
     "riders": [
       {
         "name": "Adam Yates",
@@ -39,8 +39,13 @@
       {
         "name": "Mattias Skjelmose",
         "id": 365033,
-        "totalPoints": 984,
+        "totalPoints": 1006,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "21 Apr 2024",
+            "points": 30
+          },
           {
             "name": "Amstel Gold Race",
             "date": "14 Apr 2024",
@@ -59,11 +64,6 @@
           {
             "name": "Itzulia Basque Country - Stage 5 - Stage General Classification",
             "date": "05 Apr 2024",
-            "points": 8
-          },
-          {
-            "name": "Itzulia Basque Country - Stage 4 - Stage General Classification",
-            "date": "04 Apr 2024",
             "points": 8
           },
           {
@@ -117,8 +117,18 @@
       {
         "name": "Valentin Madouas",
         "id": 91637,
-        "totalPoints": 345,
+        "totalPoints": 613,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "21 Apr 2024",
+            "points": 240
+          },
+          {
+            "name": "La Flèche Wallonne",
+            "date": "17 Apr 2024",
+            "points": 28
+          },
           {
             "name": "Amstel Gold Race",
             "date": "14 Apr 2024",
@@ -175,8 +185,13 @@
       {
         "name": "João Almeida",
         "id": 107840,
-        "totalPoints": 171.57,
+        "totalPoints": 201.57,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "21 Apr 2024",
+            "points": 30
+          },
           {
             "name": "Amstel Gold Race",
             "date": "14 Apr 2024",
@@ -213,8 +228,13 @@
       {
         "name": "Kévin Vauquelin",
         "id": 1745291,
-        "totalPoints": 445,
+        "totalPoints": 765,
         "results": [
+          {
+            "name": "La Flèche Wallonne",
+            "date": "17 Apr 2024",
+            "points": 320
+          },
           {
             "name": "Amstel Gold Race",
             "date": "14 Apr 2024",

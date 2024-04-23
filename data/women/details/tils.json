@@ -1,18 +1,28 @@
 {
   "schemaVersion": 1,
-  "momentId": 178090,
-  "rankingDate": "16 April 2024",
-  "fetchedDate": "16 Apr 2024, 01:58 GMT",
+  "momentId": 178368,
+  "rankingDate": "23 April 2024",
+  "fetchedDate": "23 Apr 2024, 02:00 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 4131,
+    "totalPoints": 5583,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
-        "totalPoints": 666,
+        "totalPoints": 1246,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège Femmes",
+            "date": "21 Apr 2024",
+            "points": 260
+          },
+          {
+            "name": "La Flèche Wallonne Féminine",
+            "date": "17 Apr 2024",
+            "points": 320
+          },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "14 Apr 2024",
@@ -44,8 +54,18 @@
       {
         "name": "Kasia Niewiadoma",
         "id": 86824,
-        "totalPoints": 871,
+        "totalPoints": 1451,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège Femmes",
+            "date": "21 Apr 2024",
+            "points": 180
+          },
+          {
+            "name": "La Flèche Wallonne Féminine",
+            "date": "17 Apr 2024",
+            "points": 400
+          },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "14 Apr 2024",
@@ -92,8 +112,18 @@
       {
         "name": "Juliette Labous",
         "id": 97498,
-        "totalPoints": 156,
+        "totalPoints": 376,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège Femmes",
+            "date": "21 Apr 2024",
+            "points": 100
+          },
+          {
+            "name": "La Flèche Wallonne Féminine",
+            "date": "17 Apr 2024",
+            "points": 120
+          },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "14 Apr 2024",
@@ -163,8 +193,18 @@
       {
         "name": "Riejanne Markus",
         "id": 86854,
-        "totalPoints": 195,
+        "totalPoints": 267,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège Femmes",
+            "date": "21 Apr 2024",
+            "points": 48
+          },
+          {
+            "name": "La Flèche Wallonne Féminine",
+            "date": "17 Apr 2024",
+            "points": 24
+          },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "14 Apr 2024",

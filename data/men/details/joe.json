@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 178079,
-  "rankingDate": "16 April 2024",
-  "fetchedDate": "16 Apr 2024, 01:59 GMT",
+  "momentId": 178357,
+  "rankingDate": "23 April 2024",
+  "fetchedDate": "23 Apr 2024, 02:03 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 6274.710000000001,
+    "totalPoints": 7004.71,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -84,8 +84,13 @@
       {
         "name": "Mathieu van der Poel",
         "id": 79462,
-        "totalPoints": 2555,
+        "totalPoints": 3075,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "21 Apr 2024",
+            "points": 520
+          },
           {
             "name": "Amstel Gold Race",
             "date": "14 Apr 2024",
@@ -145,8 +150,18 @@
       {
         "name": "Santiago Buitrago",
         "id": 353375,
-        "totalPoints": 306.28999999999996,
+        "totalPoints": 501.29,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "21 Apr 2024",
+            "points": 15
+          },
+          {
+            "name": "La Flèche Wallonne",
+            "date": "17 Apr 2024",
+            "points": 180
+          },
           {
             "name": "Itzulia Basque Country - Final Result - General Classification",
             "date": "06 Apr 2024",
@@ -309,8 +324,13 @@
       {
         "name": "Felix Gall",
         "id": 150925,
-        "totalPoints": 344.14,
+        "totalPoints": 359.14,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "21 Apr 2024",
+            "points": 15
+          },
           {
             "name": "Tour du Jura Cycliste",
             "date": "13 Apr 2024",

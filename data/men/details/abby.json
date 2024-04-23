@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 178079,
-  "rankingDate": "16 April 2024",
-  "fetchedDate": "16 Apr 2024, 01:59 GMT",
+  "momentId": 178357,
+  "rankingDate": "23 April 2024",
+  "fetchedDate": "23 Apr 2024, 02:03 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 6474,
+    "totalPoints": 7090,
     "riders": [
       {
         "name": "Mads Pedersen",
@@ -230,8 +230,18 @@
       {
         "name": "Ben Healy",
         "id": 235075,
-        "totalPoints": 253,
+        "totalPoints": 291,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "21 Apr 2024",
+            "points": 30
+          },
+          {
+            "name": "La Flèche Wallonne",
+            "date": "17 Apr 2024",
+            "points": 8
+          },
           {
             "name": "Amstel Gold Race",
             "date": "14 Apr 2024",
@@ -281,8 +291,18 @@
       {
         "name": "Toms Skujiņš",
         "id": 68892,
-        "totalPoints": 634,
+        "totalPoints": 697,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "21 Apr 2024",
+            "points": 15
+          },
+          {
+            "name": "La Flèche Wallonne",
+            "date": "17 Apr 2024",
+            "points": 48
+          },
           {
             "name": "Amstel Gold Race",
             "date": "14 Apr 2024",
@@ -339,8 +359,13 @@
       {
         "name": "Alex Aranburu",
         "id": 422863,
-        "totalPoints": 213,
+        "totalPoints": 278,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "21 Apr 2024",
+            "points": 65
+          },
           {
             "name": "Itzulia Basque Country - Final Result - General Classification",
             "date": "06 Apr 2024",
@@ -377,8 +402,13 @@
       {
         "name": "Egan Bernal",
         "id": 95844,
-        "totalPoints": 667.86,
+        "totalPoints": 697.86,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "21 Apr 2024",
+            "points": 30
+          },
           {
             "name": "Volta Ciclista a Catalunya - Final Result - General Classification",
             "date": "24 Mar 2024",
@@ -450,8 +480,23 @@
       {
         "name": "Ben O'Connor",
         "id": 97805,
-        "totalPoints": 700,
+        "totalPoints": 850,
         "results": [
+          {
+            "name": "Tour of the Alps - Final Result - General Classification",
+            "date": "19 Apr 2024",
+            "points": 150
+          },
+          {
+            "name": "Tour of the Alps - Stage 4 - Stage Classification",
+            "date": "18 Apr 2024",
+            "points": 10
+          },
+          {
+            "name": "Tour of the Alps - Stage 1 - Stage Classification",
+            "date": "15 Apr 2024",
+            "points": 5
+          },
           {
             "name": "Tirreno-Adriatico - Final Result - General Classification",
             "date": "10 Mar 2024",
@@ -488,13 +533,23 @@
             "points": 125
           }
         ],
-        "sanctions": 0
+        "sanctions": 15
       },
       {
         "name": "Benoît Cosnefroy",
         "id": 79522,
-        "totalPoints": 789,
+        "totalPoints": 1059,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "21 Apr 2024",
+            "points": 50
+          },
+          {
+            "name": "La Flèche Wallonne",
+            "date": "17 Apr 2024",
+            "points": 220
+          },
           {
             "name": "Amstel Gold Race",
             "date": "14 Apr 2024",

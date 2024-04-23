@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 178090,
-  "rankingDate": "16 April 2024",
-  "fetchedDate": "16 Apr 2024, 01:58 GMT",
+  "momentId": 178368,
+  "rankingDate": "23 April 2024",
+  "fetchedDate": "23 Apr 2024, 02:00 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 6372,
+    "totalPoints": 7761,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -49,8 +49,18 @@
       {
         "name": "Elisa Longo Borghini",
         "id": 76149,
-        "totalPoints": 1698,
+        "totalPoints": 2278,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège Femmes",
+            "date": "21 Apr 2024",
+            "points": 320
+          },
+          {
+            "name": "La Flèche Wallonne Féminine",
+            "date": "17 Apr 2024",
+            "points": 260
+          },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "14 Apr 2024",
@@ -177,8 +187,18 @@
       {
         "name": "Grace Brown",
         "id": 143292,
-        "totalPoints": 304,
+        "totalPoints": 712,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège Femmes",
+            "date": "21 Apr 2024",
+            "points": 400
+          },
+          {
+            "name": "La Flèche Wallonne Féminine",
+            "date": "17 Apr 2024",
+            "points": 8
+          },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "14 Apr 2024",
@@ -258,8 +278,18 @@
       {
         "name": "Evita Muzic",
         "id": 109412,
-        "totalPoints": 310,
+        "totalPoints": 558,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège Femmes",
+            "date": "21 Apr 2024",
+            "points": 28
+          },
+          {
+            "name": "La Flèche Wallonne Féminine",
+            "date": "17 Apr 2024",
+            "points": 220
+          },
           {
             "name": "Grand Prix Féminin de Chambéry",
             "date": "14 Apr 2024",
@@ -389,8 +419,13 @@
       {
         "name": "Daria Pikulik",
         "id": 99885,
-        "totalPoints": 421,
+        "totalPoints": 506,
         "results": [
+          {
+            "name": "EPZ Omloop van Borsele",
+            "date": "20 Apr 2024",
+            "points": 85
+          },
           {
             "name": "Ronde de Mouscron",
             "date": "01 Apr 2024",
@@ -417,8 +452,13 @@
       {
         "name": "Niamh Fisher-Black",
         "id": 217072,
-        "totalPoints": 237,
+        "totalPoints": 305,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège Femmes",
+            "date": "21 Apr 2024",
+            "points": 68
+          },
           {
             "name": "Dwars Door Vlaanderen / A Travers la Flandre",
             "date": "27 Mar 2024",

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 178079,
-  "rankingDate": "16 April 2024",
-  "fetchedDate": "16 Apr 2024, 01:59 GMT",
+  "momentId": 178357,
+  "rankingDate": "23 April 2024",
+  "fetchedDate": "23 Apr 2024, 02:03 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 4311.719999999999,
+    "totalPoints": 4786.719999999999,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -49,7 +49,7 @@
       {
         "name": "Juan Ayuso",
         "id": 415141,
-        "totalPoints": 1521,
+        "totalPoints": 1513,
         "results": [
           {
             "name": "Amstel Gold Race",
@@ -132,7 +132,7 @@
             "points": 3
           }
         ],
-        "sanctions": 0
+        "sanctions": 8
       },
       {
         "name": "Sam Welsford",
@@ -208,8 +208,13 @@
       {
         "name": "Pello Bilbao",
         "id": 76092,
-        "totalPoints": 595.29,
+        "totalPoints": 755.29,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "21 Apr 2024",
+            "points": 160
+          },
           {
             "name": "Amstel Gold Race",
             "date": "14 Apr 2024",
@@ -276,8 +281,13 @@
       {
         "name": "Alexey Lutsenko",
         "id": 68778,
-        "totalPoints": 171.43,
+        "totalPoints": 371.43,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "21 Apr 2024",
+            "points": 200
+          },
           {
             "name": "Il Giro d’Abruzzo - Final Result - General Classification",
             "date": "12 Apr 2024",
@@ -405,8 +415,28 @@
       {
         "name": "Wout Poels",
         "id": 1974873,
-        "totalPoints": 152,
+        "totalPoints": 260,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "21 Apr 2024",
+            "points": 30
+          },
+          {
+            "name": "Tour of the Alps - Final Result - General Classification",
+            "date": "19 Apr 2024",
+            "points": 70
+          },
+          {
+            "name": "Tour of the Alps - Stage 5 - Stage Classification",
+            "date": "19 Apr 2024",
+            "points": 3
+          },
+          {
+            "name": "Tour of the Alps - Stage 4 - Stage Classification",
+            "date": "18 Apr 2024",
+            "points": 5
+          },
           {
             "name": "Volta Ciclista a Catalunya - Final Result - General Classification",
             "date": "24 Mar 2024",
@@ -443,8 +473,18 @@
       {
         "name": "Esteban Chaves",
         "id": 75873,
-        "totalPoints": 78,
+        "totalPoints": 93,
         "results": [
+          {
+            "name": "Tour of the Alps - Final Result - General Classification",
+            "date": "19 Apr 2024",
+            "points": 5
+          },
+          {
+            "name": "Tour of the Alps - Stage 1 - Stage Classification",
+            "date": "15 Apr 2024",
+            "points": 10
+          },
           {
             "name": "Itzulia Basque Country - Final Result - General Classification",
             "date": "06 Apr 2024",
