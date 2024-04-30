@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 178357,
-  "rankingDate": "23 April 2024",
-  "fetchedDate": "23 Apr 2024, 02:03 GMT",
+  "momentId": 178639,
+  "rankingDate": "30 April 2024",
+  "fetchedDate": "30 Apr 2024, 02:02 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 5522.28,
+    "totalPoints": 5905.28,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -311,8 +311,18 @@
       {
         "name": "Richard Carapaz",
         "id": 91656,
-        "totalPoints": 319,
+        "totalPoints": 529,
         "results": [
+          {
+            "name": "Tour de Romandie - Final Result - General Classification",
+            "date": "28 Apr 2024",
+            "points": 150
+          },
+          {
+            "name": "Tour de Romandie - Stage 5 - Stage Classification",
+            "date": "27 Apr 2024",
+            "points": 60
+          },
           {
             "name": "Liège-Bastogne-Liège",
             "date": "21 Apr 2024",
@@ -475,8 +485,38 @@
       {
         "name": "Isaac del Toro",
         "id": 2002910,
-        "totalPoints": 927,
+        "totalPoints": 1080,
         "results": [
+          {
+            "name": "Vuelta Asturias Julio Alvarez Mendo - Final Result - General Classification",
+            "date": "28 Apr 2024",
+            "points": 125
+          },
+          {
+            "name": "Vuelta Asturias Julio Alvarez Mendo - Stage 3 - Stage Classification",
+            "date": "28 Apr 2024",
+            "points": 5
+          },
+          {
+            "name": "Vuelta Asturias Julio Alvarez Mendo - Stage 2 - Stage Classification",
+            "date": "27 Apr 2024",
+            "points": 3
+          },
+          {
+            "name": "Vuelta Asturias Julio Alvarez Mendo - Stage 2 - Stage General Classification",
+            "date": "27 Apr 2024",
+            "points": 3
+          },
+          {
+            "name": "Vuelta Asturias Julio Alvarez Mendo - Stage 1 - Stage Classification",
+            "date": "26 Apr 2024",
+            "points": 14
+          },
+          {
+            "name": "Vuelta Asturias Julio Alvarez Mendo - Stage 1 - Stage General Classification",
+            "date": "26 Apr 2024",
+            "points": 3
+          },
           {
             "name": "Giro della Romagna",
             "date": "21 Apr 2024",
@@ -563,8 +603,13 @@
       {
         "name": "Darren Rafferty",
         "id": 171058,
-        "totalPoints": 86,
+        "totalPoints": 106,
         "results": [
+          {
+            "name": "Tour de Romandie - Final Result - General Classification",
+            "date": "28 Apr 2024",
+            "points": 20
+          },
           {
             "name": "Volta Ciclista a Catalunya - Final Result - General Classification",
             "date": "24 Mar 2024",

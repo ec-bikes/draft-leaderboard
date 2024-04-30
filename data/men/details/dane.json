@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 178357,
-  "rankingDate": "23 April 2024",
-  "fetchedDate": "23 Apr 2024, 02:03 GMT",
+  "momentId": 178639,
+  "rankingDate": "30 April 2024",
+  "fetchedDate": "30 Apr 2024, 02:02 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 3958.86,
+    "totalPoints": 4533.860000000001,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -168,8 +168,28 @@
       {
         "name": "Carlos Rodriguez",
         "id": 428096,
-        "totalPoints": 396.86,
+        "totalPoints": 946.86,
         "results": [
+          {
+            "name": "Tour de Romandie - Final Result - General Classification",
+            "date": "28 Apr 2024",
+            "points": 500
+          },
+          {
+            "name": "Tour de Romandie - Stage 5 - Stage Classification",
+            "date": "27 Apr 2024",
+            "points": 30
+          },
+          {
+            "name": "Tour de Romandie - Stage 5 - Stage General Classification",
+            "date": "27 Apr 2024",
+            "points": 10
+          },
+          {
+            "name": "Tour de Romandie - Stage 4 - Stage Classification",
+            "date": "26 Apr 2024",
+            "points": 10
+          },
           {
             "name": "Itzulia Basque Country - Final Result - General Classification",
             "date": "06 Apr 2024",
@@ -327,8 +347,23 @@
       {
         "name": "Fabio Jakobsen",
         "id": 87061,
-        "totalPoints": 174,
+        "totalPoints": 199,
         "results": [
+          {
+            "name": "Presidential Cycling Tour of Turkiye - Stage 5 - Stage Classification",
+            "date": "25 Apr 2024",
+            "points": 15
+          },
+          {
+            "name": "Presidential Cycling Tour of Turkiye - Stage 1 - Stage Classification",
+            "date": "21 Apr 2024",
+            "points": 20
+          },
+          {
+            "name": "Presidential Cycling Tour of Turkiye - Stage 1 - Stage General Classification",
+            "date": "21 Apr 2024",
+            "points": 5
+          },
           {
             "name": "Danilith Nokere Koerse",
             "date": "13 Mar 2024",
@@ -350,7 +385,7 @@
             "points": 15
           }
         ],
-        "sanctions": 0
+        "sanctions": 15
       },
       {
         "name": "Arnaud Démare",

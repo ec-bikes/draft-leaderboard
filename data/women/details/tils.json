@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 178368,
-  "rankingDate": "23 April 2024",
-  "fetchedDate": "23 Apr 2024, 02:00 GMT",
+  "momentId": 178650,
+  "rankingDate": "30 April 2024",
+  "fetchedDate": "30 Apr 2024, 02:00 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 5583,
+    "totalPoints": 5663,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -317,8 +317,18 @@
       {
         "name": "Marta Lach",
         "id": 96399,
-        "totalPoints": 162,
+        "totalPoints": 242,
         "results": [
+          {
+            "name": "CERATIZIT Festival Elsy Jacobs à Luxembourg",
+            "date": "28 Apr 2024",
+            "points": 40
+          },
+          {
+            "name": "CERATIZIT Festival Elsy Jacobs à Garnich",
+            "date": "27 Apr 2024",
+            "points": 40
+          },
           {
             "name": "Paris-Roubaix Femmes avec Zwift",
             "date": "06 Apr 2024",

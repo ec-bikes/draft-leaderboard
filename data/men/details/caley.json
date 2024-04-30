@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 178357,
-  "rankingDate": "23 April 2024",
-  "fetchedDate": "23 Apr 2024, 02:03 GMT",
+  "momentId": 178639,
+  "rankingDate": "30 April 2024",
+  "fetchedDate": "30 Apr 2024, 02:02 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 5421.86,
+    "totalPoints": 5761.86,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -151,8 +151,18 @@
       {
         "name": "Lenny Martinez",
         "id": 1843476,
-        "totalPoints": 924,
+        "totalPoints": 1051,
         "results": [
+          {
+            "name": "Tour de Romandie - Final Result - General Classification",
+            "date": "28 Apr 2024",
+            "points": 125
+          },
+          {
+            "name": "Tour de Romandie - Stage 3 - Stage Classification",
+            "date": "25 Apr 2024",
+            "points": 2
+          },
           {
             "name": "Tour du Doubs",
             "date": "14 Apr 2024",
@@ -219,7 +229,7 @@
       {
         "name": "Tiesj Benoot",
         "id": 77502,
-        "totalPoints": 745,
+        "totalPoints": 720,
         "results": [
           {
             "name": "Liège-Bastogne-Liège",
@@ -257,7 +267,7 @@
             "points": 5
           }
         ],
-        "sanctions": 0
+        "sanctions": 25
       },
       {
         "name": "Josh Tarling",
@@ -310,8 +320,18 @@
       {
         "name": "Enric Mas",
         "id": 109803,
-        "totalPoints": 267,
+        "totalPoints": 467,
         "results": [
+          {
+            "name": "Tour de Romandie - Final Result - General Classification",
+            "date": "28 Apr 2024",
+            "points": 175
+          },
+          {
+            "name": "Tour de Romandie - Stage 5 - Stage Classification",
+            "date": "27 Apr 2024",
+            "points": 25
+          },
           {
             "name": "Volta Ciclista a Catalunya - Final Result - General Classification",
             "date": "24 Mar 2024",
@@ -361,8 +381,18 @@
       {
         "name": "Guillaume Martin",
         "id": 75170,
-        "totalPoints": 372,
+        "totalPoints": 410,
         "results": [
+          {
+            "name": "Tour de Romandie - Final Result - General Classification",
+            "date": "28 Apr 2024",
+            "points": 30
+          },
+          {
+            "name": "Tour de Romandie - Stage 3 - Stage Classification",
+            "date": "25 Apr 2024",
+            "points": 8
+          },
           {
             "name": "Liège-Bastogne-Liège",
             "date": "21 Apr 2024",

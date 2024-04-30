@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 178368,
-  "rankingDate": "23 April 2024",
-  "fetchedDate": "23 Apr 2024, 02:00 GMT",
+  "momentId": 178650,
+  "rankingDate": "30 April 2024",
+  "fetchedDate": "30 Apr 2024, 02:00 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 7761,
+    "totalPoints": 7886,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -331,8 +331,13 @@
       {
         "name": "Chiara Consonni",
         "id": 156600,
-        "totalPoints": 890,
+        "totalPoints": 1015,
         "results": [
+          {
+            "name": "GRAN PREMIO DELLA LIBERAZIONE",
+            "date": "25 Apr 2024",
+            "points": 125
+          },
           {
             "name": "Paris-Roubaix Femmes avec Zwift",
             "date": "06 Apr 2024",

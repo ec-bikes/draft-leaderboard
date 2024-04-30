@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 178357,
-  "rankingDate": "23 April 2024",
-  "fetchedDate": "23 Apr 2024, 02:03 GMT",
+  "momentId": 178639,
+  "rankingDate": "30 April 2024",
+  "fetchedDate": "30 Apr 2024, 02:02 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 7090,
+    "totalPoints": 7230,
     "riders": [
       {
         "name": "Mads Pedersen",
@@ -359,8 +359,28 @@
       {
         "name": "Alex Aranburu",
         "id": 422863,
-        "totalPoints": 278,
+        "totalPoints": 318,
         "results": [
+          {
+            "name": "Tour de Romandie - Final Result - General Classification",
+            "date": "28 Apr 2024",
+            "points": 5
+          },
+          {
+            "name": "Tour de Romandie - Stage 6 - Stage Classification",
+            "date": "28 Apr 2024",
+            "points": 20
+          },
+          {
+            "name": "Tour de Romandie - Stage 2 - Stage Classification",
+            "date": "24 Apr 2024",
+            "points": 10
+          },
+          {
+            "name": "Tour de Romandie - Stage 1 - Stage Classification",
+            "date": "23 Apr 2024",
+            "points": 5
+          },
           {
             "name": "Liège-Bastogne-Liège",
             "date": "21 Apr 2024",
@@ -402,8 +422,18 @@
       {
         "name": "Egan Bernal",
         "id": 95844,
-        "totalPoints": 697.86,
+        "totalPoints": 797.86,
         "results": [
+          {
+            "name": "Tour de Romandie - Final Result - General Classification",
+            "date": "28 Apr 2024",
+            "points": 85
+          },
+          {
+            "name": "Tour de Romandie - Stage 5 - Stage Classification",
+            "date": "27 Apr 2024",
+            "points": 15
+          },
           {
             "name": "Liège-Bastogne-Liège",
             "date": "21 Apr 2024",

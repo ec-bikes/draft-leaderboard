@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 178357,
-  "rankingDate": "23 April 2024",
-  "fetchedDate": "23 Apr 2024, 02:03 GMT",
+  "momentId": 178639,
+  "rankingDate": "30 April 2024",
+  "fetchedDate": "30 Apr 2024, 02:02 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 5782.86,
+    "totalPoints": 5917.86,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -69,8 +69,13 @@
       {
         "name": "Simon Yates",
         "id": 1558112,
-        "totalPoints": 321,
+        "totalPoints": 391,
         "results": [
+          {
+            "name": "Tour de Romandie - Final Result - General Classification",
+            "date": "28 Apr 2024",
+            "points": 70
+          },
           {
             "name": "Liège-Bastogne-Liège",
             "date": "21 Apr 2024",
@@ -107,8 +112,18 @@
       {
         "name": "David Gaudu",
         "id": 112351,
-        "totalPoints": 313,
+        "totalPoints": 358,
         "results": [
+          {
+            "name": "Tour de Romandie - Final Result - General Classification",
+            "date": "28 Apr 2024",
+            "points": 40
+          },
+          {
+            "name": "Tour de Romandie - Stage 5 - Stage Classification",
+            "date": "27 Apr 2024",
+            "points": 5
+          },
           {
             "name": "Liège-Bastogne-Liège",
             "date": "21 Apr 2024",
@@ -198,8 +213,13 @@
       {
         "name": "Jai Hindley",
         "id": 109829,
-        "totalPoints": 531,
+        "totalPoints": 551,
         "results": [
+          {
+            "name": "Tour de Romandie - Final Result - General Classification",
+            "date": "28 Apr 2024",
+            "points": 20
+          },
           {
             "name": "Liège-Bastogne-Liège",
             "date": "21 Apr 2024",

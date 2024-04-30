@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "momentId": 178357,
-  "rankingDate": "23 April 2024",
-  "fetchedDate": "23 Apr 2024, 02:03 GMT",
+  "momentId": 178639,
+  "rankingDate": "30 April 2024",
+  "fetchedDate": "30 Apr 2024, 02:02 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 4786.719999999999,
+    "totalPoints": 5066.719999999999,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -49,8 +49,28 @@
       {
         "name": "Juan Ayuso",
         "id": 415141,
-        "totalPoints": 1513,
+        "totalPoints": 1793,
         "results": [
+          {
+            "name": "Tour de Romandie - Final Result - General Classification",
+            "date": "28 Apr 2024",
+            "points": 225
+          },
+          {
+            "name": "Tour de Romandie - Stage 4 - Stage Classification",
+            "date": "26 Apr 2024",
+            "points": 25
+          },
+          {
+            "name": "Tour de Romandie - Stage 4 - Stage General Classification",
+            "date": "26 Apr 2024",
+            "points": 10
+          },
+          {
+            "name": "Tour de Romandie - Stage 3 - Stage Classification",
+            "date": "25 Apr 2024",
+            "points": 20
+          },
           {
             "name": "Amstel Gold Race",
             "date": "14 Apr 2024",
