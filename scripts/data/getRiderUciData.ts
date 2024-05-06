@@ -7,7 +7,7 @@ import { getRiderResults } from './getRiderResults.js';
  * Get data for a rider.
  * Throws if there's an error fetching data.
  */
-export async function getRiderData(params: {
+export async function getRiderUciData(params: {
   rider: BaseRider;
   year: number;
   momentId: number;
@@ -15,7 +15,7 @@ export async function getRiderData(params: {
 }): Promise<RiderDetails> {
   const rider: RiderDetails = { ...params.rider, totalPoints: 0, results: [] };
 
-  console.log(`Getting data for ${rider.name}`);
+  console.log(`Getting UCI data for ${rider.name}`);
 
   // Get rider results from the UCI API
   const riderResults = await getRiderResults(params);

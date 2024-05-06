@@ -25,8 +25,6 @@ export interface RaceResult {
   /** Race or sub-result name */
   name: string;
   /** Display date e.g. "22 March 2024" */
-  dateStr: string;
-  /** Date, 00:00 UTC */
-  date: number;
+  date: string;
   points: number;
 }

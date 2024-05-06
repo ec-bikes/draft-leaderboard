@@ -1,13 +1,14 @@
 import fs from 'fs';
-import { getTeamData } from './data/getTeamData.js';
-import type { BaseTeam, Team } from '../common/types/Team.js';
-import { getRankingMetadata } from './data/getRankingMetadata.js';
-import type { Group } from '../common/types/Group.js';
-import { logError } from './log.js';
 import { getTeamFilename } from '../common/getTeamFilename.js';
-import { womensTeams } from '../data/women/teams.js';
-import { mensTeams } from '../data/men/teams.js';
+import type { Group } from '../common/types/Group.js';
+import type { Source } from '../common/types/Source.js';
+import type { BaseTeam, Team } from '../common/types/Team.js';
 import type { TeamDetailsJson, TeamsSummaryJson } from '../common/types/TeamJson.js';
+import { mensTeams } from '../data/men/teams.js';
+import { womensTeams } from '../data/women/teams.js';
+import { getRankingMetadata } from './data/getRankingMetadata.js';
+import { getTeamData } from './data/getTeamData.js';
+import { logError } from './log.js';
 
 const year = 2024;
 const groups: Record<Group, BaseTeam[]> = {
@@ -16,6 +17,7 @@ const groups: Record<Group, BaseTeam[]> = {
 };
 
 const groupArg = process.argv[2] as Group | undefined;
+const source: Source = 'uci';
 
 (async () => {
   for (const [group, rawTeams] of Object.entries(groups) as [Group, BaseTeam[]][]) {
@@ -24,7 +26,7 @@ const groupArg = process.argv[2] as Group | undefined;
     }
 
     // Get the momentId value (which is slightly different between men and women) and ranking date
-    const metadata = await getRankingMetadata(group);
+    const metadata = await getRankingMetadata({ group, source });
     if (typeof metadata === 'string') {
       logError(metadata);
       process.exit(1);
@@ -34,7 +36,13 @@ const groupArg = process.argv[2] as Group | undefined;
     const teams: Team[] = [];
     for (const rawTeam of rawTeams) {
       console.log(`==== ${rawTeam.owner} ====`);
-      const team = await getTeamData({ team: rawTeam, momentId: metadata.momentId, year, group });
+      const team = await getTeamData({
+        team: rawTeam,
+        momentId: metadata.momentId,
+        year,
+        group,
+        source,
+      });
 
       // Update the detailed team data file (only the current version, not dated)
       writeFiles<TeamDetailsJson>({

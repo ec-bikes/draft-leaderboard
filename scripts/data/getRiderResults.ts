@@ -2,7 +2,6 @@ import type { BaseRider, RaceResult, RiderDetails } from '../../common/types/Rid
 import type { Group } from '../../common/types/Group.js';
 import { logWarning } from '../log.js';
 import { getUciRiderResults } from './uci/getUciRiderResults.js';
-import { formatDate } from './formatDate.js';
 
 /**
  * Get race results for a rider from the UCI API.
@@ -33,8 +32,7 @@ export async function getRiderResults(params: {
       continue;
     }
 
-    const resultDate = new Date(Number(result.StartDate.match(/\d+/)![0]));
-    if (resultDate.getFullYear() !== year) {
+    if (new Date(result.Date).getFullYear() !== year) {
       continue;
     }
 
@@ -58,8 +56,7 @@ export async function getRiderResults(params: {
 
     results.push({
       name: resultName,
-      dateStr: formatDate(resultDate),
-      date: resultDate.getTime(),
+      date: result.Date,
       points: result.Points,
     });
   }

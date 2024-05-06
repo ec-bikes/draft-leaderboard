@@ -14,6 +14,7 @@ export interface CompetitionProps {
 
 export function Competition(props: CompetitionProps) {
   const { group, podcast, link, teamData } = props;
+  const { source } = teamData;
 
   return (
     <Stack gap={spacing.general} alignItems="center">
@@ -23,9 +24,9 @@ export function Competition(props: CompetitionProps) {
         </Link>{' '}
         rankings, based on{' '}
         <Link target="_blank" href={getUciSeasonRankingUrl({ momentId: teamData.momentId, group })}>
-          UCI rankings
+          {source.toUpperCase()} rankings
         </Link>{' '}
-        as of <strong>{teamData.rankingDateStr}</strong>.
+        as of <strong>{source === 'uci' ? teamData.rankingDate : teamData.fetchedDate}</strong>.
       </Typography>
 
       <TeamCards teamData={teamData} group={group} />

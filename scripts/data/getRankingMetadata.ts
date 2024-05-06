@@ -3,13 +3,31 @@ import type { TeamJsonMetadata } from '../../common/types/TeamJson.js';
 import { formatDate, formatDateTime, formatNumericDate, makeUtcDate } from './formatDate.js';
 import { getUciRankingMoments } from './uci/getUciRankingMoments.js';
 
+const schemaVersion = 1;
+
 /**
  * Get the `momentId` value used by UCI APIs, as well as the ranking date corresponding to that ID,
  * and the current date/time when the data is being fetched.
  */
-export async function getRankingMetadata(
-  group: Group,
-): Promise<(TeamJsonMetadata & { rankingDateShort: string }) | string> {
+export async function getRankingMetadata(params: {
+  group: Group;
+  source: 'uci' | 'pcs';
+}): Promise<(TeamJsonMetadata & { rankingDateShort: string }) | string> {
+  const { group, source } = params;
+
+  // Get the fetch date with hour and minute in UTC time
+  const fetchedDate = formatDateTime(new Date());
+
+  if (source === 'pcs') {
+    return {
+      source,
+      schemaVersion,
+      fetchedDate,
+      momentId: 0,
+      rankingDateShort: formatNumericDate(new Date()),
+    };
+  }
+
   const moments = await getUciRankingMoments(group);
   if (typeof moments === 'string') {
     return moments;
@@ -34,12 +52,11 @@ export async function getRankingMetadata(
   const rdate = makeUtcDate(rankingDateParts[2], rankingDateParts[1], rankingDateParts[0]);
 
   return {
-    schemaVersion: 1,
+    source,
+    schemaVersion,
     momentId: moment.Id,
-    rankingDate: rdate.getTime(),
-    rankingDateStr: formatDate(rdate),
+    rankingDate: formatDate(rdate),
     rankingDateShort: formatNumericDate(rdate),
-    // Get the fetch date with hour and minute in UTC time
-    fetchedDate: formatDateTime(new Date()),
+    fetchedDate,
   };
 }

@@ -15,6 +15,9 @@ export async function getRiderPcsData(params: {
   year: number;
 }): Promise<RiderDetails & { sanctions: number }> {
   const { rider, year } = params;
+
+  console.log('Getting PCS data for ' + rider.name);
+
   const { pcsUrl, resultsTable, resultsSum } = await loadPcsPage(params);
 
   const { uciPoints, sanctions } = getPcsRiderTotals({ pcsUrl, resultsSum });

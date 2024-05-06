@@ -42,7 +42,7 @@ export function getPcsRiderResults(params: {
   // parse the results
   const results: RaceResult[] = [];
   const resultRows = resultsTable.querySelectorAll('tbody tr');
-  let pendingStageRace: { name: string; date: number; dateStr: string } | undefined;
+  let pendingStageRace: { name: string; date: string } | undefined;
 
   for (const row of resultRows) {
     // data-main is 1 for one-day races or stage race headers, 0 for stage race sub-results.
@@ -63,9 +63,8 @@ export function getPcsRiderResults(params: {
     const dateObj = dateMatch
       ? makeUtcDate(year, Number(dateMatch[2]), Number(dateMatch[1]))
       : undefined;
-    const date = dateObj ? dateObj.getTime() : pendingStageRace!.date;
     // format to match date strings from UCI
-    const dateStr = dateObj ? formatDate(dateObj, 'short') : pendingStageRace!.dateStr;
+    const date = dateObj ? formatDate(dateObj, 'short') : pendingStageRace!.date;
 
     // Race name:
     //   <td class="name"><span class="flag be"></span><a href="race/liege-bastogne-liege-femmes/2024/result">
@@ -79,7 +78,7 @@ export function getPcsRiderResults(params: {
 
     if (isStageRaceHeader) {
       // Track a new stage race
-      pendingStageRace = { name, date, dateStr };
+      pendingStageRace = { name, date };
     } else if (pendingStageRace) {
       // Delete the locations for stages (the parens are sometimes ITT/TTT)
       name = name.replace(/^(Stage \d+( \(\w+\))?|Prologue).*/, '$1');
@@ -97,12 +96,12 @@ export function getPcsRiderResults(params: {
 
     if (pointsMatch?.[1]) {
       // Main result
-      results.push({ name, dateStr, date, points: Number(pointsMatch[1]) });
+      results.push({ name, date, points: Number(pointsMatch[1]) });
     }
     if (pointsMatch?.[2]) {
       // No easy way to tell if this is the GC bonus, WWT leader's jersey, or something else
       // (maybe unless we try to parse the color of the span...)
-      results.push({ name: `${name} - Bonus`, dateStr, date, points: Number(pointsMatch[2]) });
+      results.push({ name: `${name} - Bonus`, date, points: Number(pointsMatch[2]) });
     }
   }
 
