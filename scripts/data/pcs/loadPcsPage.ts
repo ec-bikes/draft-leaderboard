@@ -2,6 +2,7 @@ import fetch from 'node-fetch';
 import { parse, type HTMLElement as BasicHTMLElement } from 'node-html-parser';
 import type { BaseRider } from '../../../common/types/Rider.js';
 import { getPcsUrl } from '../../../common/getPcsUrl.js';
+import { logWarning } from '../../log.js';
 
 /**
  * Get data from a rider's ProCyclingStats page for a given year.
@@ -19,7 +20,15 @@ export async function loadPcsPage(params: {
 
   let root: BasicHTMLElement;
   try {
-    const result = await fetch(pcsUrl);
+    let result = await fetch(pcsUrl);
+    if (!result.ok) {
+      if (result.status >= 500) {
+        logWarning(`Retrying ${pcsUrl} after ${result.status} ${result.statusText}`);
+        // wait 10s
+        await new Promise((resolve) => setTimeout(resolve, 10000));
+        result = await fetch(pcsUrl);
+      }
+    }
     if (!result.ok) {
       throw new Error(`Failed to load ${pcsUrl} - ${result.status} ${result.statusText}`);
     }

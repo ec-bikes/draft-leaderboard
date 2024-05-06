@@ -13,7 +13,7 @@ import { getPcsRiderResults } from './pcs/getPcsRiderResults.js';
 export async function getRiderPcsData(params: {
   rider: BaseRider;
   year: number;
-}): Promise<RiderDetails & { sanctions: number }> {
+}): Promise<RiderDetails> {
   const { rider, year } = params;
 
   console.log('Getting PCS data for ' + rider.name);
@@ -26,10 +26,10 @@ export async function getRiderPcsData(params: {
 
   return {
     ...rider,
-    results,
     // It appears that in a TTT, points are split evenly between riders, which can lead to
     // fractional points that JS might handle in a silly way...
     totalPoints: Math.round(uciPoints - sanctions),
     sanctions,
+    results,
   };
 }

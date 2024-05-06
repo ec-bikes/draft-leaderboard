@@ -26,7 +26,7 @@ export async function getRiderUciData(params: {
   // 12-month rolling, which isn't useful here.
   const pcsData = await getRiderPcsData(params);
   rider.sanctions = pcsData.sanctions;
-  rider.totalPoints -= rider.sanctions;
+  rider.totalPoints -= rider.sanctions ?? 0;
 
   return rider;
 }

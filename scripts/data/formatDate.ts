@@ -13,7 +13,7 @@ export function formatDate(date: Date, month: 'long' | 'short' = 'long'): string
   return date.toLocaleDateString('en-GB', {
     year: 'numeric',
     month,
-    day: 'numeric',
+    day: '2-digit', // to match UCI format
     timeZone: 'UTC',
   });
 }

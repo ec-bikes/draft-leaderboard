@@ -1,91 +1,89 @@
 {
-  "source": "uci",
+  "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 178639,
-  "rankingDate": "30 April 2024",
-  "fetchedDate": "30 Apr 2024, 02:02 GMT",
+  "fetchedDate": "6 May 2024, 14:06 GMT",
+  "momentId": 0,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 4533.860000000001,
+    "totalPoints": 3842,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
-        "totalPoints": 833,
         "results": [
           {
-            "name": "Itzulia Basque Country - Stage 1 - Stage Classification",
+            "name": "Itzulia Basque Country - Stage 1 (ITT)",
             "date": "01 Apr 2024",
             "points": 15
           },
           {
-            "name": "Tirreno-Adriatico - Final Result - General Classification",
+            "name": "Tirreno-Adriatico - General classification",
             "date": "10 Mar 2024",
             "points": 500
           },
           {
-            "name": "Tirreno-Adriatico - Stage 6 - Stage Classification",
+            "name": "Tirreno-Adriatico - Stage 6",
             "date": "09 Mar 2024",
             "points": 60
           },
           {
-            "name": "Tirreno-Adriatico - Stage 6 - Stage General Classification",
+            "name": "Tirreno-Adriatico - Stage 6 - Bonus",
             "date": "09 Mar 2024",
             "points": 10
           },
           {
-            "name": "Tirreno-Adriatico - Stage 5 - Stage Classification",
+            "name": "Tirreno-Adriatico - Stage 5",
             "date": "08 Mar 2024",
             "points": 60
           },
           {
-            "name": "Tirreno-Adriatico - Stage 5 - Stage General Classification",
+            "name": "Tirreno-Adriatico - Stage 5 - Bonus",
             "date": "08 Mar 2024",
             "points": 10
           },
           {
-            "name": "Tirreno-Adriatico - Stage 1 - Stage Classification",
+            "name": "Tirreno-Adriatico - Stage 1 (ITT)",
             "date": "04 Mar 2024",
             "points": 5
           },
           {
-            "name": "O Gran Camiño - The Historical Route - Final Result - General Classification",
+            "name": "O Gran Camiño - The Historical Route - General classification",
             "date": "25 Feb 2024",
             "points": 125
           },
           {
-            "name": "O Gran Camiño - The Historical Route - Stage 4 - Stage Classification",
+            "name": "O Gran Camiño - The Historical Route - Stage 4",
             "date": "25 Feb 2024",
             "points": 14
           },
           {
-            "name": "O Gran Camiño - The Historical Route - Stage 3 - Stage Classification",
+            "name": "O Gran Camiño - The Historical Route - Stage 3",
             "date": "24 Feb 2024",
             "points": 14
           },
           {
-            "name": "O Gran Camiño - The Historical Route - Stage 3 - Stage General Classification",
+            "name": "O Gran Camiño - The Historical Route - Stage 3 - Bonus",
             "date": "24 Feb 2024",
             "points": 3
           },
           {
-            "name": "O Gran Camiño - The Historical Route - Stage 2 - Stage Classification",
+            "name": "O Gran Camiño - The Historical Route - Stage 2",
             "date": "23 Feb 2024",
             "points": 14
           },
           {
-            "name": "O Gran Camiño - The Historical Route - Stage 2 - Stage General Classification",
+            "name": "O Gran Camiño - The Historical Route - Stage 2 - Bonus",
             "date": "23 Feb 2024",
             "points": 3
           }
         ],
+        "totalPoints": 833,
         "sanctions": 0
       },
       {
         "name": "Christophe Laporte",
         "id": 81980,
-        "totalPoints": 318,
         "results": [
           {
             "name": "Paris-Roubaix",
@@ -98,63 +96,73 @@
             "points": 68
           },
           {
-            "name": "Kuurne - Brussel - Kuurne",
+            "name": "Kuurne-Brussel-Kuurne",
             "date": "25 Feb 2024",
             "points": 100
           },
           {
-            "name": "Omloop Nieuwsblad",
+            "name": "Omloop Het Nieuwsblad ME",
             "date": "24 Feb 2024",
             "points": 120
           }
         ],
+        "totalPoints": 318,
         "sanctions": 0
       },
       {
         "name": "Geraint Thomas",
         "id": 32532,
-        "totalPoints": 36,
         "results": [
           {
-            "name": "Tour of the Alps - Final Result - General Classification",
+            "name": "Giro d'Italia - Stage 2",
+            "date": "05 May 2024",
+            "points": 95
+          },
+          {
+            "name": "Giro d'Italia - Stage 1",
+            "date": "04 May 2024",
+            "points": 25
+          },
+          {
+            "name": "Tour of the Alps - General classification",
             "date": "19 Apr 2024",
             "points": 20
           },
           {
-            "name": "Volta Ciclista a Catalunya - Final Result - General Classification",
+            "name": "Volta Ciclista a Catalunya - General classification",
             "date": "24 Mar 2024",
             "points": 16
           }
         ],
+        "totalPoints": 156,
         "sanctions": 0
       },
       {
         "name": "Mikel Landa",
         "id": 68367,
-        "totalPoints": 390,
         "results": [
           {
-            "name": "Volta Ciclista a Catalunya - Final Result - General Classification",
+            "name": "Volta Ciclista a Catalunya - General classification",
             "date": "24 Mar 2024",
             "points": 320
           },
           {
-            "name": "Volta Ciclista a Catalunya - Stage 6 - Stage Classification",
+            "name": "Volta Ciclista a Catalunya - Stage 6",
             "date": "23 Mar 2024",
             "points": 25
           },
           {
-            "name": "Volta Ciclista a Catalunya - Stage 3 - Stage Classification",
+            "name": "Volta Ciclista a Catalunya - Stage 3",
             "date": "20 Mar 2024",
             "points": 30
           },
           {
-            "name": "Volta Ciclista a Catalunya - Stage 2 - Stage Classification",
+            "name": "Volta Ciclista a Catalunya - Stage 2",
             "date": "19 Mar 2024",
             "points": 30
           },
           {
-            "name": "Volta ao Algarve em Bicicleta - Final Result - General Classification",
+            "name": "Volta ao Algarve em Bicicleta - General classification",
             "date": "18 Feb 2024",
             "points": 5
           },
@@ -164,71 +172,25 @@
             "points": 5
           }
         ],
+        "totalPoints": 390,
         "sanctions": 25
       },
       {
         "name": "Carlos Rodriguez",
         "id": 428096,
-        "totalPoints": 946.86,
-        "results": [
-          {
-            "name": "Tour de Romandie - Final Result - General Classification",
-            "date": "28 Apr 2024",
-            "points": 500
-          },
-          {
-            "name": "Tour de Romandie - Stage 5 - Stage Classification",
-            "date": "27 Apr 2024",
-            "points": 30
-          },
-          {
-            "name": "Tour de Romandie - Stage 5 - Stage General Classification",
-            "date": "27 Apr 2024",
-            "points": 10
-          },
-          {
-            "name": "Tour de Romandie - Stage 4 - Stage Classification",
-            "date": "26 Apr 2024",
-            "points": 10
-          },
-          {
-            "name": "Itzulia Basque Country - Final Result - General Classification",
-            "date": "06 Apr 2024",
-            "points": 320
-          },
-          {
-            "name": "Itzulia Basque Country - Stage 6 - Stage Classification",
-            "date": "06 Apr 2024",
-            "points": 50
-          },
-          {
-            "name": "Itzulia Basque Country - Stage 5 - Stage Classification",
-            "date": "05 Apr 2024",
-            "points": 1
-          },
-          {
-            "name": "Paris-Nice - Final Result - General Classification",
-            "date": "10 Mar 2024",
-            "points": 20
-          },
-          {
-            "name": "Paris-Nice - Stage 3 - Stage Classification",
-            "date": "05 Mar 2024",
-            "points": 2.86
-          },
-          {
-            "name": "Clásica Jaén",
-            "date": "12 Feb 2024",
-            "points": 3
-          }
-        ],
+        "results": [],
+        "totalPoints": 0,
         "sanctions": 0
       },
       {
         "name": "Marc Hirschi",
         "id": 111440,
-        "totalPoints": 875,
         "results": [
+          {
+            "name": "Eschborn-Frankfurt",
+            "date": "01 May 2024",
+            "points": 60
+          },
           {
             "name": "Liège-Bastogne-Liège",
             "date": "21 Apr 2024",
@@ -240,12 +202,12 @@
             "points": 400
           },
           {
-            "name": "De Brabantse Pijl - La Flèche Brabançonne",
+            "name": "De Brabantse Pijl - La Flèche Brabançonne ME",
             "date": "10 Apr 2024",
             "points": 5
           },
           {
-            "name": "Dwars door Vlaanderen - A travers la Flandre",
+            "name": "Dwars door Vlaanderen - A travers la Flandre ME",
             "date": "27 Mar 2024",
             "points": 5
           },
@@ -260,7 +222,7 @@
             "points": 15
           },
           {
-            "name": "Faun Drome Classic",
+            "name": "Faun Drôme Classic",
             "date": "25 Feb 2024",
             "points": 200
           },
@@ -275,12 +237,12 @@
             "points": 70
           }
         ],
+        "totalPoints": 935,
         "sanctions": 0
       },
       {
         "name": "Stefan Küng",
         "id": 74994,
-        "totalPoints": 784,
         "results": [
           {
             "name": "Amstel Gold Race",
@@ -293,17 +255,17 @@
             "points": 360
           },
           {
-            "name": "Ronde van Vlaanderen - Tour des Flandres",
+            "name": "Ronde van Vlaanderen - Tour des Flandres ME",
             "date": "31 Mar 2024",
             "points": 15
           },
           {
-            "name": "Dwars door Vlaanderen - A travers la Flandre",
+            "name": "Dwars door Vlaanderen - A travers la Flandre ME",
             "date": "27 Mar 2024",
             "points": 215
           },
           {
-            "name": "Gent-Wevelgem in Flanders Fields",
+            "name": "Gent-Wevelgem in Flanders Fields ME",
             "date": "24 Mar 2024",
             "points": 40
           },
@@ -328,40 +290,40 @@
             "points": 5
           },
           {
-            "name": "Omloop Nieuwsblad",
+            "name": "Omloop Het Nieuwsblad ME",
             "date": "24 Feb 2024",
             "points": 20
           },
           {
-            "name": "Volta ao Algarve em Bicicleta - Final Result - General Classification",
+            "name": "Volta ao Algarve em Bicicleta - General classification",
             "date": "18 Feb 2024",
             "points": 40
           },
           {
-            "name": "Volta ao Algarve em Bicicleta - Stage 4 - Stage Classification",
+            "name": "Volta ao Algarve em Bicicleta - Stage 4 (ITT)",
             "date": "17 Feb 2024",
             "points": 10
           }
         ],
+        "totalPoints": 784,
         "sanctions": 0
       },
       {
         "name": "Fabio Jakobsen",
         "id": 87061,
-        "totalPoints": 199,
         "results": [
           {
-            "name": "Presidential Cycling Tour of Turkiye - Stage 5 - Stage Classification",
+            "name": "Presidential Cycling Tour of Türkiye - Stage 5",
             "date": "25 Apr 2024",
             "points": 15
           },
           {
-            "name": "Presidential Cycling Tour of Turkiye - Stage 1 - Stage Classification",
+            "name": "Presidential Cycling Tour of Türkiye - Stage 1",
             "date": "21 Apr 2024",
             "points": 20
           },
           {
-            "name": "Presidential Cycling Tour of Turkiye - Stage 1 - Stage General Classification",
+            "name": "Presidential Cycling Tour of Türkiye - Stage 1 - Bonus",
             "date": "21 Apr 2024",
             "points": 5
           },
@@ -371,30 +333,30 @@
             "points": 150
           },
           {
-            "name": "UAE Tour - Stage 5 - Stage Classification",
+            "name": "UAE Tour - Stage 5",
             "date": "23 Feb 2024",
             "points": 1
           },
           {
-            "name": "UAE Tour - Stage 4 - Stage Classification",
+            "name": "UAE Tour - Stage 4",
             "date": "22 Feb 2024",
             "points": 8
           },
           {
-            "name": "UAE Tour - Stage 1 - Stage Classification",
+            "name": "UAE Tour - Stage 1",
             "date": "19 Feb 2024",
             "points": 15
           }
         ],
+        "totalPoints": 199,
         "sanctions": 15
       },
       {
         "name": "Arnaud Démare",
         "id": 64670,
-        "totalPoints": 111,
         "results": [
           {
-            "name": "Gent-Wevelgem in Flanders Fields",
+            "name": "Gent-Wevelgem in Flanders Fields ME",
             "date": "24 Mar 2024",
             "points": 3
           },
@@ -414,7 +376,7 @@
             "points": 5
           },
           {
-            "name": "Volta ao Algarve em Bicicleta - Stage 1 - Stage Classification",
+            "name": "Volta ao Algarve em Bicicleta - Stage 1",
             "date": "14 Feb 2024",
             "points": 3
           },
@@ -429,20 +391,25 @@
             "points": 50
           }
         ],
+        "totalPoints": 111,
         "sanctions": 0
       },
       {
         "name": "Søren Kragh Andersen",
         "id": 79156,
-        "totalPoints": 41,
         "results": [
+          {
+            "name": "Eschborn-Frankfurt",
+            "date": "01 May 2024",
+            "points": 75
+          },
           {
             "name": "La Flèche Wallonne",
             "date": "17 Apr 2024",
             "points": 8
           },
           {
-            "name": "Gent-Wevelgem in Flanders Fields",
+            "name": "Gent-Wevelgem in Flanders Fields ME",
             "date": "24 Mar 2024",
             "points": 10
           },
@@ -457,6 +424,7 @@
             "points": 15
           }
         ],
+        "totalPoints": 116,
         "sanctions": 0
       }
     ]

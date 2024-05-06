@@ -1,11 +1,12 @@
 name: Update rankings
 
 on:
-  # Tuesdays at 1:15am UTC
-  # (the 3/19 update was available by this time, but not an hour earlier)
   # https://crontab-generator.org/
+  # UCI updates: Tuesdays at 1:15am UTC (the 3/19 update was available by this time, but not an hour earlier)
+  # - cron: '15 1 * * 2'
+  # PCS updates: every day 11pm UTC
   schedule:
-    - cron: '15 1 * * 2'
+    - cron: '0 23 * * *'
   workflow_dispatch:
 
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.

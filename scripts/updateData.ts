@@ -17,7 +17,7 @@ const groups: Record<Group, BaseTeam[]> = {
 };
 
 const groupArg = process.argv[2] as Group | undefined;
-const source: Source = 'uci';
+const source: Source = 'pcs';
 
 (async () => {
   for (const [group, rawTeams] of Object.entries(groups) as [Group, BaseTeam[]][]) {

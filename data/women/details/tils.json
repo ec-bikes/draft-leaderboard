@@ -1,19 +1,64 @@
 {
-  "source": "uci",
+  "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 178650,
-  "rankingDate": "30 April 2024",
-  "fetchedDate": "30 Apr 2024, 02:00 GMT",
+  "fetchedDate": "6 May 2024, 14:08 GMT",
+  "momentId": 0,
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 5663,
+    "totalPoints": 7213,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
-        "totalPoints": 1246,
+        "totalPoints": 1839,
+        "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - General classification",
+            "date": "05 May 2024",
+            "points": 400
+          },
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 8",
+            "date": "05 May 2024",
+            "points": 50
+          },
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 7",
+            "date": "04 May 2024",
+            "points": 25
+          },
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 7 - Bonus",
+            "date": "04 May 2024",
+            "points": 8
+          },
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 6",
+            "date": "03 May 2024",
+            "points": 40
+          },
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 6 - Bonus",
+            "date": "03 May 2024",
+            "points": 8
+          },
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 5",
+            "date": "02 May 2024",
+            "points": 50
+          },
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 5 - Bonus",
+            "date": "02 May 2024",
+            "points": 8
+          },
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
+            "date": "28 Apr 2024",
+            "points": 4.29
+          },
           {
             "name": "Liège-Bastogne-Liège Femmes",
             "date": "21 Apr 2024",
@@ -30,33 +75,43 @@
             "points": 16
           },
           {
-            "name": "De Brabantse Pijl - La Flèche Brabançonne",
+            "name": "De Brabantse Pijl - La Flèche Brabançonne WE",
             "date": "10 Apr 2024",
             "points": 150
           },
           {
-            "name": "Ronde van Vlaanderen - Tour des Flandres",
+            "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "31 Mar 2024",
             "points": 100
           },
           {
-            "name": "Strade Bianche",
+            "name": "Strade Bianche Donne",
             "date": "02 Mar 2024",
             "points": 260
           },
           {
-            "name": "Omloop Nieuwsblad",
+            "name": "Omloop Het Nieuwsblad WE",
             "date": "24 Feb 2024",
             "points": 140
           }
-        ],
-        "sanctions": 0
+        ]
       },
       {
         "name": "Kasia Niewiadoma",
         "id": 86824,
-        "totalPoints": 1451,
+        "totalPoints": 1481,
+        "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 2",
+            "date": "29 Apr 2024",
+            "points": 25
+          },
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
+            "date": "28 Apr 2024",
+            "points": 5
+          },
           {
             "name": "Liège-Bastogne-Liège Femmes",
             "date": "21 Apr 2024",
@@ -73,48 +128,78 @@
             "points": 24
           },
           {
-            "name": "Ronde van Vlaanderen - Tour des Flandres",
+            "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "31 Mar 2024",
             "points": 320
           },
           {
-            "name": "Strade Bianche",
+            "name": "Strade Bianche Donne",
             "date": "02 Mar 2024",
             "points": 220
           },
           {
-            "name": "Omloop Nieuwsblad",
+            "name": "Omloop Het Nieuwsblad WE",
             "date": "24 Feb 2024",
             "points": 120
           },
           {
-            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Final Result - General Classification",
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classification",
             "date": "18 Feb 2024",
             "points": 150
           },
           {
-            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 3 - Stage Classification",
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 3",
             "date": "17 Feb 2024",
             "points": 15
           },
           {
-            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 2 - Stage Classification",
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 2",
             "date": "16 Feb 2024",
             "points": 10
           },
           {
-            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 1 - Stage Classification",
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 1",
             "date": "15 Feb 2024",
             "points": 12
           }
-        ],
-        "sanctions": 0
+        ]
       },
       {
         "name": "Juliette Labous",
         "id": 97498,
-        "totalPoints": 376,
+        "totalPoints": 648,
+        "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - General classification",
+            "date": "05 May 2024",
+            "points": 220
+          },
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 8",
+            "date": "05 May 2024",
+            "points": 18
+          },
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 6",
+            "date": "03 May 2024",
+            "points": 15
+          },
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 5",
+            "date": "02 May 2024",
+            "points": 10
+          },
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 4",
+            "date": "01 May 2024",
+            "points": 8
+          },
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
+            "date": "28 Apr 2024",
+            "points": 1.14
+          },
           {
             "name": "Liège-Bastogne-Liège Femmes",
             "date": "21 Apr 2024",
@@ -136,40 +221,50 @@
             "points": 16
           },
           {
-            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Final Result - General Classification",
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classification",
             "date": "18 Feb 2024",
             "points": 100
           },
           {
-            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 3 - Stage Classification",
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 3",
             "date": "17 Feb 2024",
             "points": 12
           },
           {
-            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 2 - Stage Classification",
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 2",
             "date": "16 Feb 2024",
             "points": 4
           }
-        ],
-        "sanctions": 0
+        ]
       },
       {
         "name": "Charlotte Kool",
         "id": 157612,
-        "totalPoints": 721,
+        "totalPoints": 762,
+        "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 3",
+            "date": "30 Apr 2024",
+            "points": 40
+          },
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
+            "date": "28 Apr 2024",
+            "points": 1.14
+          },
           {
             "name": "Scheldeprijs vrouwen elite",
             "date": "03 Apr 2024",
             "points": 85
           },
           {
-            "name": "Gent-Wevelgem In Flanders Fields",
+            "name": "Gent-Wevelgem In Flanders Fields WE",
             "date": "24 Mar 2024",
             "points": 220
           },
           {
-            "name": "Classic Brugge-De Panne",
+            "name": "Classic Brugge-De Panne WE",
             "date": "21 Mar 2024",
             "points": 320
           },
@@ -188,14 +283,44 @@
             "date": "25 Feb 2024",
             "points": 5
           }
-        ],
-        "sanctions": 0
+        ]
       },
       {
         "name": "Riejanne Markus",
         "id": 86854,
-        "totalPoints": 267,
+        "totalPoints": 678,
+        "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - General classification",
+            "date": "05 May 2024",
+            "points": 320
+          },
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 8",
+            "date": "05 May 2024",
+            "points": 30
+          },
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 7",
+            "date": "04 May 2024",
+            "points": 15
+          },
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 6",
+            "date": "03 May 2024",
+            "points": 25
+          },
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 5",
+            "date": "02 May 2024",
+            "points": 15
+          },
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
+            "date": "28 Apr 2024",
+            "points": 5.71
+          },
           {
             "name": "Liège-Bastogne-Liège Femmes",
             "date": "21 Apr 2024",
@@ -212,75 +337,90 @@
             "points": 8
           },
           {
-            "name": "Tour de Normandie Féminin - Final Result - General Classification",
+            "name": "Tour de Normandie Féminin - General classification",
             "date": "17 Mar 2024",
             "points": 50
           },
           {
-            "name": "Tour de Normandie Féminin - Stage 1 - Stage Classification",
+            "name": "Tour de Normandie Féminin - Stage 1 (ITT)",
             "date": "14 Mar 2024",
             "points": 12
           },
           {
-            "name": "Strade Bianche",
+            "name": "Strade Bianche Donne",
             "date": "02 Mar 2024",
             "points": 120
           },
           {
-            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Final Result - General Classification",
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classification",
             "date": "18 Feb 2024",
             "points": 5
           }
-        ],
-        "sanctions": 0
+        ]
       },
       {
         "name": "Sarah Gigante",
         "id": 1557078,
-        "totalPoints": 537,
+        "totalPoints": 582,
+        "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - General classification",
+            "date": "05 May 2024",
+            "points": 24
+          },
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 5",
+            "date": "02 May 2024",
+            "points": 20
+          },
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
+            "date": "28 Apr 2024",
+            "points": 0.86
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "17 Mar 2024",
             "points": 16
           },
           {
-            "name": "Deakin University Elite Women’s Road Race",
+            "name": "Deakin University Elite Women's Road Race",
             "date": "27 Jan 2024",
             "points": 56
           },
           {
-            "name": "Deakin University Elite Women’s Road Race - WWT leader's jersey",
+            "name": "Deakin University Elite Women's Road Race - Bonus",
             "date": "27 Jan 2024",
             "points": 6
           },
           {
-            "name": "Santos Tour Down Under - Final Result - General Classification",
+            "name": "Santos Tour Down Under - General classification",
             "date": "14 Jan 2024",
             "points": 400
           },
           {
-            "name": "Santos Tour Down Under - Stage 3 - Stage Classification",
+            "name": "Santos Tour Down Under - Stage 3",
             "date": "14 Jan 2024",
             "points": 50
           },
           {
-            "name": "Santos Tour Down Under - Stage 2 - Stage Classification",
+            "name": "Santos Tour Down Under - Stage 2",
             "date": "13 Jan 2024",
             "points": 8
           },
           {
-            "name": "National Road Championships - Australia - Women Elite - Individual Time Trial",
+            "name": "National Championships Australia WE - ITT",
             "date": "04 Jan 2024",
             "points": 1
           }
-        ],
-        "sanctions": 0
+        ]
       },
       {
         "name": "Ella Wyllie",
         "id": 220428,
         "totalPoints": 316,
+        "sanctions": 0,
         "results": [
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
@@ -288,38 +428,48 @@
             "points": 8
           },
           {
-            "name": "National Road Championships - New Zealand - Women Elite - Individual Road Race",
+            "name": "National Championships New Zealand WE - Road Race",
             "date": "09 Feb 2024",
             "points": 100
           },
           {
-            "name": "National Road Championships - New Zealand - Women Under 23 - Individual Time Trial",
+            "name": "National Championships New Zealand WU - ITT",
             "date": "08 Feb 2024",
             "points": 25
           },
           {
-            "name": "Deakin University Elite Women’s Road Race",
+            "name": "Deakin University Elite Women's Road Race",
             "date": "27 Jan 2024",
             "points": 48
           },
           {
-            "name": "Santos Tour Down Under - Final Result - General Classification",
+            "name": "Santos Tour Down Under - General classification",
             "date": "14 Jan 2024",
             "points": 120
           },
           {
-            "name": "Santos Tour Down Under - Stage 3 - Stage Classification",
+            "name": "Santos Tour Down Under - Stage 3",
             "date": "14 Jan 2024",
             "points": 15
           }
-        ],
-        "sanctions": 0
+        ]
       },
       {
         "name": "Marta Lach",
         "id": 96399,
-        "totalPoints": 242,
+        "totalPoints": 397,
+        "sanctions": 0,
         "results": [
+          {
+            "name": "Grand Prix du Morbihan Femmes",
+            "date": "04 May 2024",
+            "points": 70
+          },
+          {
+            "name": "La Classique Morbihan",
+            "date": "03 May 2024",
+            "points": 85
+          },
           {
             "name": "CERATIZIT Festival Elsy Jacobs à Luxembourg",
             "date": "28 Apr 2024",
@@ -346,7 +496,7 @@
             "points": 15
           },
           {
-            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 1 - Stage Classification",
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 1",
             "date": "15 Feb 2024",
             "points": 10
           },
@@ -370,13 +520,13 @@
             "date": "20 Jan 2024",
             "points": 5
           }
-        ],
-        "sanctions": 0
+        ]
       },
       {
         "name": "Sofia Bertizzolo",
         "id": 106607,
         "totalPoints": 156,
+        "sanctions": 0,
         "results": [
           {
             "name": "Amstel Gold Race Ladies Edition",
@@ -384,7 +534,7 @@
             "points": 16
           },
           {
-            "name": "Classic Brugge-De Panne",
+            "name": "Classic Brugge-De Panne WE",
             "date": "21 Mar 2024",
             "points": 32
           },
@@ -394,35 +544,40 @@
             "points": 8
           },
           {
-            "name": "Deakin University Elite Women’s Road Race",
+            "name": "Deakin University Elite Women's Road Race",
             "date": "27 Jan 2024",
             "points": 24
           },
           {
-            "name": "Santos Tour Down Under - Final Result - General Classification",
+            "name": "Santos Tour Down Under - General classification",
             "date": "14 Jan 2024",
             "points": 16
           },
           {
-            "name": "Santos Tour Down Under - Stage 2 - Stage Classification",
+            "name": "Santos Tour Down Under - Stage 2",
             "date": "13 Jan 2024",
             "points": 30
           },
           {
-            "name": "Santos Tour Down Under - Stage 1 - Stage Classification",
+            "name": "Santos Tour Down Under - Stage 1",
             "date": "12 Jan 2024",
             "points": 30
           }
-        ],
-        "sanctions": 0
+        ]
       },
       {
         "name": "Vittoria Guazzini",
         "id": 153391,
-        "totalPoints": 351,
+        "totalPoints": 354,
+        "sanctions": 0,
         "results": [
           {
-            "name": "Classic Brugge-De Panne",
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
+            "date": "28 Apr 2024",
+            "points": 2.57
+          },
+          {
+            "name": "Classic Brugge-De Panne WE",
             "date": "21 Mar 2024",
             "points": 68
           },
@@ -437,12 +592,11 @@
             "points": 125
           },
           {
-            "name": "UAE Tour Women - Stage 2 - Stage Classification",
+            "name": "UAE Tour Women - Stage 2",
             "date": "09 Feb 2024",
             "points": 18
           }
-        ],
-        "sanctions": 0
+        ]
       }
     ]
   }

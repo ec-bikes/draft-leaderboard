@@ -1,76 +1,74 @@
 {
-  "source": "uci",
+  "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 178639,
-  "rankingDate": "30 April 2024",
-  "fetchedDate": "30 Apr 2024, 02:02 GMT",
+  "fetchedDate": "6 May 2024, 14:06 GMT",
+  "momentId": 0,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 7162.71,
+    "totalPoints": 7168,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
-        "totalPoints": 1028.5700000000002,
         "results": [
           {
-            "name": "Itzulia Basque Country - Stage 1 - Stage Classification",
+            "name": "Itzulia Basque Country - Stage 1 (ITT)",
             "date": "01 Apr 2024",
             "points": 20
           },
           {
-            "name": "Paris-Nice - Final Result - General Classification",
+            "name": "Paris - Nice - General classification",
             "date": "10 Mar 2024",
             "points": 400
           },
           {
-            "name": "Paris-Nice - Stage 8 - Stage Classification",
+            "name": "Paris - Nice - Stage 8",
             "date": "10 Mar 2024",
             "points": 60
           },
           {
-            "name": "Paris-Nice - Stage 7 - Stage Classification",
+            "name": "Paris - Nice - Stage 7",
             "date": "09 Mar 2024",
             "points": 40
           },
           {
-            "name": "Paris-Nice - Stage 6 - Stage Classification",
+            "name": "Paris - Nice - Stage 6",
             "date": "08 Mar 2024",
             "points": 25
           },
           {
-            "name": "Paris-Nice - Stage 4 - Stage Classification",
+            "name": "Paris - Nice - Stage 4",
             "date": "06 Mar 2024",
             "points": 25
           },
           {
-            "name": "Paris-Nice - Stage 3 - Stage Classification",
+            "name": "Paris - Nice - Stage 3 (TTT)",
             "date": "05 Mar 2024",
             "points": 3.57
           },
           {
-            "name": "Volta ao Algarve em Bicicleta - Final Result - General Classification",
+            "name": "Volta ao Algarve em Bicicleta - General classification",
             "date": "18 Feb 2024",
             "points": 200
           },
           {
-            "name": "Volta ao Algarve em Bicicleta - Stage 5 - Stage Classification",
+            "name": "Volta ao Algarve em Bicicleta - Stage 5",
             "date": "18 Feb 2024",
             "points": 15
           },
           {
-            "name": "Volta ao Algarve em Bicicleta - Stage 4 - Stage Classification",
+            "name": "Volta ao Algarve em Bicicleta - Stage 4 (ITT)",
             "date": "17 Feb 2024",
             "points": 20
           },
           {
-            "name": "Volta ao Algarve em Bicicleta - Stage 4 - Stage General Classification",
+            "name": "Volta ao Algarve em Bicicleta - Stage 4 (ITT) - Bonus",
             "date": "17 Feb 2024",
             "points": 5
           },
           {
-            "name": "Volta ao Algarve em Bicicleta - Stage 2 - Stage Classification",
+            "name": "Volta ao Algarve em Bicicleta - Stage 2",
             "date": "15 Feb 2024",
             "points": 15
           },
@@ -80,12 +78,12 @@
             "points": 200
           }
         ],
+        "totalPoints": 1029,
         "sanctions": 0
       },
       {
         "name": "Mathieu van der Poel",
         "id": 79462,
-        "totalPoints": 3075,
         "results": [
           {
             "name": "Liège-Bastogne-Liège",
@@ -103,12 +101,12 @@
             "points": 800
           },
           {
-            "name": "Ronde van Vlaanderen - Tour des Flandres",
+            "name": "Ronde van Vlaanderen - Tour des Flandres ME",
             "date": "31 Mar 2024",
             "points": 800
           },
           {
-            "name": "Gent-Wevelgem in Flanders Fields",
+            "name": "Gent-Wevelgem in Flanders Fields ME",
             "date": "24 Mar 2024",
             "points": 400
           },
@@ -123,45 +121,45 @@
             "points": 135
           }
         ],
+        "totalPoints": 3075,
         "sanctions": 0
       },
       {
         "name": "Tao Geoghegan Hart",
         "id": 86735,
-        "totalPoints": 161,
         "results": [
           {
-            "name": "Tour de Romandie - Final Result - General Classification",
+            "name": "Tour de Romandie - General classification",
             "date": "28 Apr 2024",
             "points": 100
           },
           {
-            "name": "Tour de Romandie - Stage 5 - Stage Classification",
+            "name": "Tour de Romandie - Stage 4",
             "date": "27 Apr 2024",
             "points": 8
           },
           {
-            "name": "Itzulia Basque Country - Final Result - General Classification",
+            "name": "Itzulia Basque Country - General classification",
             "date": "06 Apr 2024",
             "points": 8
           },
           {
-            "name": "Tirreno-Adriatico - Final Result - General Classification",
+            "name": "Tirreno-Adriatico - General classification",
             "date": "10 Mar 2024",
             "points": 20
           },
           {
-            "name": "Volta ao Algarve em Bicicleta - Final Result - General Classification",
+            "name": "Volta ao Algarve em Bicicleta - General classification",
             "date": "18 Feb 2024",
             "points": 25
           }
         ],
+        "totalPoints": 161,
         "sanctions": 0
       },
       {
         "name": "Santiago Buitrago",
         "id": 353375,
-        "totalPoints": 501.29,
         "results": [
           {
             "name": "Liège-Bastogne-Liège",
@@ -174,47 +172,47 @@
             "points": 180
           },
           {
-            "name": "Itzulia Basque Country - Final Result - General Classification",
+            "name": "Itzulia Basque Country - General classification",
             "date": "06 Apr 2024",
             "points": 56
           },
           {
-            "name": "Itzulia Basque Country - Stage 5 - Stage Classification",
+            "name": "Itzulia Basque Country - Stage 5",
             "date": "05 Apr 2024",
             "points": 10
           },
           {
-            "name": "Paris-Nice - Stage 7 - Stage Classification",
+            "name": "Paris - Nice - Stage 7",
             "date": "09 Mar 2024",
             "points": 15
           },
           {
-            "name": "Paris-Nice - Stage 4 - Stage Classification",
+            "name": "Paris - Nice - Stage 4",
             "date": "06 Mar 2024",
             "points": 60
           },
           {
-            "name": "Paris-Nice - Stage 3 - Stage Classification",
+            "name": "Paris - Nice - Stage 3 (TTT)",
             "date": "05 Mar 2024",
             "points": 0.29
           },
           {
-            "name": "Volta a la Comunitat Valenciana - Final Result - General Classification",
+            "name": "Volta a la Comunitat Valenciana - General classification",
             "date": "04 Feb 2024",
             "points": 150
           },
           {
-            "name": "Volta a la Comunitat Valenciana - Stage 4 - Stage Classification",
+            "name": "Volta a la Comunitat Valenciana - Stage 4",
             "date": "03 Feb 2024",
             "points": 15
           }
         ],
+        "totalPoints": 501,
         "sanctions": 0
       },
       {
         "name": "Tim Merlier",
         "id": 70962,
-        "totalPoints": 1000,
         "results": [
           {
             "name": "Scheldeprijs",
@@ -222,7 +220,7 @@
             "points": 200
           },
           {
-            "name": "Gent-Wevelgem in Flanders Fields",
+            "name": "Gent-Wevelgem in Flanders Fields ME",
             "date": "24 Mar 2024",
             "points": 125
           },
@@ -237,75 +235,75 @@
             "points": 200
           },
           {
-            "name": "Tirreno-Adriatico - Stage 2 - Stage Classification",
+            "name": "Tirreno-Adriatico - Stage 2",
             "date": "05 Mar 2024",
             "points": 40
           },
           {
-            "name": "UAE Tour - Stage 6 - Stage Classification",
+            "name": "UAE Tour - Stage 6",
             "date": "24 Feb 2024",
             "points": 40
           },
           {
-            "name": "UAE Tour - Stage 5 - Stage Classification",
+            "name": "UAE Tour - Stage 5",
             "date": "23 Feb 2024",
             "points": 25
           },
           {
-            "name": "UAE Tour - Stage 4 - Stage Classification",
+            "name": "UAE Tour - Stage 4",
             "date": "22 Feb 2024",
             "points": 40
           },
           {
-            "name": "UAE Tour - Stage 1 - Stage Classification",
+            "name": "UAE Tour - Stage 1",
             "date": "19 Feb 2024",
             "points": 40
           },
           {
-            "name": "UAE Tour - Stage 1 - Stage General Classification",
+            "name": "UAE Tour - Stage 1 - Bonus",
             "date": "19 Feb 2024",
             "points": 6
           },
           {
-            "name": "AlUla Tour - Stage 4 - Stage Classification",
+            "name": "AlUla Tour - Stage 4",
             "date": "02 Feb 2024",
             "points": 14
           },
           {
-            "name": "AlUla Tour - Stage 4 - Stage General Classification",
+            "name": "AlUla Tour - Stage 4 - Bonus",
             "date": "02 Feb 2024",
             "points": 3
           },
           {
-            "name": "AlUla Tour - Stage 3 - Stage Classification",
+            "name": "AlUla Tour - Stage 3",
             "date": "01 Feb 2024",
             "points": 14
           },
           {
-            "name": "AlUla Tour - Stage 1 - Stage Classification",
+            "name": "AlUla Tour - Stage 1",
             "date": "30 Jan 2024",
             "points": 3
           }
         ],
+        "totalPoints": 1000,
         "sanctions": 0
       },
       {
         "name": "Julian Alaphilippe",
         "id": 71557,
-        "totalPoints": 440,
         "results": [
           {
-            "name": "Tour de Romandie - Final Result - General Classification",
+            "name": "Tour de Romandie - General classification",
             "date": "28 Apr 2024",
             "points": 10
           },
           {
-            "name": "Tour de Romandie - Stage 1 - Stage Classification",
+            "name": "Tour de Romandie - Prologue",
             "date": "23 Apr 2024",
             "points": 30
           },
           {
-            "name": "Dwars door Vlaanderen - A travers la Flandre",
+            "name": "Dwars door Vlaanderen - A travers la Flandre ME",
             "date": "27 Mar 2024",
             "points": 12
           },
@@ -320,32 +318,32 @@
             "points": 160
           },
           {
-            "name": "Tirreno-Adriatico - Stage 4 - Stage Classification",
+            "name": "Tirreno-Adriatico - Stage 4",
             "date": "07 Mar 2024",
             "points": 5
           },
           {
-            "name": "Santos Tour Down Under - Final Result - General Classification",
+            "name": "Santos Tour Down Under - General classification",
             "date": "21 Jan 2024",
             "points": 175
           },
           {
-            "name": "Santos Tour Down Under - Stage 6 - Stage Classification",
+            "name": "Santos Tour Down Under - Stage 6",
             "date": "21 Jan 2024",
             "points": 15
           },
           {
-            "name": "Santos Tour Down Under - Stage 5 - Stage Classification",
+            "name": "Santos Tour Down Under - Stage 5",
             "date": "20 Jan 2024",
             "points": 25
           }
         ],
+        "totalPoints": 440,
         "sanctions": 0
       },
       {
         "name": "Felix Gall",
         "id": 150925,
-        "totalPoints": 359.14,
         "results": [
           {
             "name": "Liège-Bastogne-Liège",
@@ -363,27 +361,27 @@
             "points": 50
           },
           {
-            "name": "Paris-Nice - Final Result - General Classification",
+            "name": "Paris - Nice - General classification",
             "date": "10 Mar 2024",
             "points": 100
           },
           {
-            "name": "Paris-Nice - Stage 8 - Stage Classification",
+            "name": "Paris - Nice - Stage 8",
             "date": "10 Mar 2024",
             "points": 8
           },
           {
-            "name": "Paris-Nice - Stage 6 - Stage Classification",
+            "name": "Paris - Nice - Stage 6",
             "date": "08 Mar 2024",
             "points": 10
           },
           {
-            "name": "Paris-Nice - Stage 4 - Stage Classification",
+            "name": "Paris - Nice - Stage 4",
             "date": "06 Mar 2024",
             "points": 15
           },
           {
-            "name": "Paris-Nice - Stage 3 - Stage Classification",
+            "name": "Paris - Nice - Stage 3 (TTT)",
             "date": "05 Mar 2024",
             "points": 1.14
           },
@@ -393,25 +391,30 @@
             "points": 100
           }
         ],
+        "totalPoints": 359,
         "sanctions": 0
       },
       {
         "name": "Giulio Ciccone",
         "id": 97091,
-        "totalPoints": 10,
         "results": [
           {
-            "name": "Tour de Romandie - Final Result - General Classification",
+            "name": "Eschborn-Frankfurt",
+            "date": "01 May 2024",
+            "points": 5
+          },
+          {
+            "name": "Tour de Romandie - General classification",
             "date": "28 Apr 2024",
             "points": 10
           }
         ],
+        "totalPoints": 15,
         "sanctions": 0
       },
       {
         "name": "Dylan Groenewegen",
         "id": 72932,
-        "totalPoints": 566.71,
         "results": [
           {
             "name": "Scheldeprijs",
@@ -419,7 +422,7 @@
             "points": 125
           },
           {
-            "name": "Gent-Wevelgem in Flanders Fields",
+            "name": "Gent-Wevelgem in Flanders Fields ME",
             "date": "24 Mar 2024",
             "points": 100
           },
@@ -434,27 +437,27 @@
             "points": 150
           },
           {
-            "name": "Paris-Nice - Stage 3 - Stage Classification",
+            "name": "Paris - Nice - Stage 3 (TTT)",
             "date": "05 Mar 2024",
             "points": 5.71
           },
           {
-            "name": "Paris-Nice - Stage 2 - Stage Classification",
+            "name": "Paris - Nice - Stage 2",
             "date": "04 Mar 2024",
             "points": 30
           },
           {
-            "name": "UAE Tour - Stage 6 - Stage Classification",
+            "name": "UAE Tour - Stage 6",
             "date": "24 Feb 2024",
             "points": 8
           },
           {
-            "name": "UAE Tour - Stage 5 - Stage Classification",
+            "name": "UAE Tour - Stage 5",
             "date": "23 Feb 2024",
             "points": 6
           },
           {
-            "name": "AlUla Tour - Stage 1 - Stage Classification",
+            "name": "AlUla Tour - Stage 1",
             "date": "30 Jan 2024",
             "points": 5
           },
@@ -464,12 +467,12 @@
             "points": 125
           }
         ],
+        "totalPoints": 567,
         "sanctions": 0
       },
       {
         "name": "Andrea Bagioli",
         "id": 157221,
-        "totalPoints": 21,
         "results": [
           {
             "name": "Gran Premio Miguel Indurain",
@@ -477,12 +480,12 @@
             "points": 3
           },
           {
-            "name": "Tirreno-Adriatico - Final Result - General Classification",
+            "name": "Tirreno-Adriatico - General classification",
             "date": "10 Mar 2024",
             "points": 10
           },
           {
-            "name": "Volta ao Algarve em Bicicleta - Final Result - General Classification",
+            "name": "Volta ao Algarve em Bicicleta - General classification",
             "date": "18 Feb 2024",
             "points": 3
           },
@@ -492,6 +495,7 @@
             "points": 5
           }
         ],
+        "totalPoints": 21,
         "sanctions": 0
       }
     ]

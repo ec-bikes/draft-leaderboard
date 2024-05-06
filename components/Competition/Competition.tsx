@@ -23,9 +23,16 @@ export function Competition(props: CompetitionProps) {
           <em>{podcast}</em> podcast draft team
         </Link>{' '}
         rankings, based on{' '}
-        <Link target="_blank" href={getUciSeasonRankingUrl({ momentId: teamData.momentId, group })}>
-          {source.toUpperCase()} rankings
-        </Link>{' '}
+        {source === 'uci' ? (
+          <Link
+            target="_blank"
+            href={getUciSeasonRankingUrl({ momentId: teamData.momentId, group })}
+          >
+            UCI points
+          </Link>
+        ) : (
+          <>UCI points (via PCS)</>
+        )}{' '}
         as of <strong>{source === 'uci' ? teamData.rankingDate : teamData.fetchedDate}</strong>.
       </Typography>
 
