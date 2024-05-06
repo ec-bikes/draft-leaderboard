@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 May 2024, 14:05 GMT",
+  "fetchedDate": "6 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Gracie Elvin",
@@ -11,6 +11,8 @@
       {
         "name": "Lorena Wiebes",
         "id": 141733,
+        "totalPoints": 1947,
+        "sanctions": 0,
         "results": [
           {
             "name": "Amstel Gold Race Ladies Edition",
@@ -87,13 +89,13 @@
             "date": "08 Feb 2024",
             "points": 8
           }
-        ],
-        "totalPoints": 1947,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Liane Lippert",
         "id": 140495,
+        "totalPoints": 9,
+        "sanctions": 0,
         "results": [
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
@@ -105,13 +107,13 @@
             "date": "28 Apr 2024",
             "points": 1.43
           }
-        ],
-        "totalPoints": 9,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Chloe Dygert",
         "id": 109716,
+        "totalPoints": 148,
+        "sanctions": 0,
         "results": [
           {
             "name": "Gent-Wevelgem In Flanders Fields WE",
@@ -123,13 +125,13 @@
             "date": "21 Mar 2024",
             "points": 140
           }
-        ],
-        "totalPoints": 148,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Mavi Garcia",
         "id": 398547,
+        "totalPoints": 562,
+        "sanctions": 0,
         "results": [
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
@@ -191,13 +193,13 @@
             "date": "21 Jan 2024",
             "points": 70
           }
-        ],
-        "totalPoints": 562,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Christina Schweinberger",
         "id": 98623,
+        "totalPoints": 431,
+        "sanctions": 0,
         "results": [
           {
             "name": "Amstel Gold Race Ladies Edition",
@@ -249,13 +251,13 @@
             "date": "24 Feb 2024",
             "points": 28
           }
-        ],
-        "totalPoints": 431,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Neve Bradbury",
         "id": 1987823,
+        "totalPoints": 787,
+        "sanctions": 0,
         "results": [
           {
             "name": "Liège-Bastogne-Liège Femmes",
@@ -312,13 +314,13 @@
             "date": "04 Jan 2024",
             "points": 10
           }
-        ],
-        "totalPoints": 787,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Rosita Reijnhout",
         "id": 228699,
+        "totalPoints": 486,
+        "sanctions": 0,
         "results": [
           {
             "name": "Tour de Normandie Féminin - General classification",
@@ -350,13 +352,13 @@
             "date": "14 Jan 2024",
             "points": 8
           }
-        ],
-        "totalPoints": 486,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Olivia Baril",
         "id": 151523,
+        "totalPoints": 500,
+        "sanctions": 0,
         "results": [
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
@@ -428,13 +430,13 @@
             "date": "22 Jan 2024",
             "points": 60
           }
-        ],
-        "totalPoints": 500,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Lizzie Deignan",
         "id": 45988,
+        "totalPoints": 23,
+        "sanctions": 0,
         "results": [
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
@@ -446,13 +448,13 @@
             "date": "02 Mar 2024",
             "points": 16
           }
-        ],
-        "totalPoints": 23,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Dominika Wlodarczyk",
         "id": 1549446,
+        "totalPoints": 545,
+        "sanctions": 0,
         "results": [
           {
             "name": "Grand Prix du Morbihan Femmes",
@@ -474,9 +476,7 @@
             "date": "14 Jan 2024",
             "points": 20
           }
-        ],
-        "totalPoints": 545,
-        "sanctions": 0
+        ]
       }
     ]
   }

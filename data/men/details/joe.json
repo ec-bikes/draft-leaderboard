@@ -1,16 +1,18 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 May 2024, 14:06 GMT",
+  "fetchedDate": "6 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 7168,
+    "totalPoints": 7348,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
+        "totalPoints": 1029,
+        "sanctions": 0,
         "results": [
           {
             "name": "Itzulia Basque Country - Stage 1 (ITT)",
@@ -77,13 +79,13 @@
             "date": "10 Feb 2024",
             "points": 200
           }
-        ],
-        "totalPoints": 1029,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Mathieu van der Poel",
         "id": 79462,
+        "totalPoints": 3075,
+        "sanctions": 0,
         "results": [
           {
             "name": "Liège-Bastogne-Liège",
@@ -120,13 +122,13 @@
             "date": "16 Mar 2024",
             "points": 135
           }
-        ],
-        "totalPoints": 3075,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Tao Geoghegan Hart",
         "id": 86735,
+        "totalPoints": 161,
+        "sanctions": 0,
         "results": [
           {
             "name": "Tour de Romandie - General classification",
@@ -153,13 +155,13 @@
             "date": "18 Feb 2024",
             "points": 25
           }
-        ],
-        "totalPoints": 161,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Santiago Buitrago",
         "id": 353375,
+        "totalPoints": 501,
+        "sanctions": 0,
         "results": [
           {
             "name": "Liège-Bastogne-Liège",
@@ -206,14 +208,19 @@
             "date": "03 Feb 2024",
             "points": 15
           }
-        ],
-        "totalPoints": 501,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Tim Merlier",
         "id": 70962,
+        "totalPoints": 1180,
+        "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 3",
+            "date": "06 May 2024",
+            "points": 180
+          },
           {
             "name": "Scheldeprijs",
             "date": "03 Apr 2024",
@@ -284,13 +291,13 @@
             "date": "30 Jan 2024",
             "points": 3
           }
-        ],
-        "totalPoints": 1000,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Julian Alaphilippe",
         "id": 71557,
+        "totalPoints": 440,
+        "sanctions": 0,
         "results": [
           {
             "name": "Tour de Romandie - General classification",
@@ -337,13 +344,13 @@
             "date": "20 Jan 2024",
             "points": 25
           }
-        ],
-        "totalPoints": 440,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Felix Gall",
         "id": 150925,
+        "totalPoints": 359,
+        "sanctions": 0,
         "results": [
           {
             "name": "Liège-Bastogne-Liège",
@@ -390,13 +397,13 @@
             "date": "24 Feb 2024",
             "points": 100
           }
-        ],
-        "totalPoints": 359,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Giulio Ciccone",
         "id": 97091,
+        "totalPoints": 15,
+        "sanctions": 0,
         "results": [
           {
             "name": "Eschborn-Frankfurt",
@@ -408,13 +415,13 @@
             "date": "28 Apr 2024",
             "points": 10
           }
-        ],
-        "totalPoints": 15,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Dylan Groenewegen",
         "id": 72932,
+        "totalPoints": 567,
+        "sanctions": 0,
         "results": [
           {
             "name": "Scheldeprijs",
@@ -466,13 +473,13 @@
             "date": "20 Jan 2024",
             "points": 125
           }
-        ],
-        "totalPoints": 567,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Andrea Bagioli",
         "id": 157221,
+        "totalPoints": 21,
+        "sanctions": 0,
         "results": [
           {
             "name": "Gran Premio Miguel Indurain",
@@ -494,9 +501,7 @@
             "date": "10 Feb 2024",
             "points": 5
           }
-        ],
-        "totalPoints": 21,
-        "sanctions": 0
+        ]
       }
     ]
   }

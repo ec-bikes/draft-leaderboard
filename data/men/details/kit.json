@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 May 2024, 14:06 GMT",
+  "fetchedDate": "6 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Kit Nicholson",
@@ -11,6 +11,8 @@
       {
         "name": "Wout van Aert",
         "id": 75859,
+        "totalPoints": 790,
+        "sanctions": 0,
         "results": [
           {
             "name": "E3 Saxo Classic",
@@ -42,13 +44,13 @@
             "date": "11 Feb 2024",
             "points": 35
           }
-        ],
-        "totalPoints": 790,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Juan Ayuso",
         "id": 415141,
+        "totalPoints": 1793,
+        "sanctions": 8,
         "results": [
           {
             "name": "Tour de Romandie - General classification",
@@ -150,13 +152,13 @@
             "date": "12 Feb 2024",
             "points": 3
           }
-        ],
-        "totalPoints": 1793,
-        "sanctions": 8
+        ]
       },
       {
         "name": "Sam Welsford",
         "id": 91180,
+        "totalPoints": 292,
+        "sanctions": 0,
         "results": [
           {
             "name": "Scheldeprijs",
@@ -198,13 +200,13 @@
             "date": "16 Jan 2024",
             "points": 10
           }
-        ],
-        "totalPoints": 292,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Filippo Ganna",
         "id": 91640,
+        "totalPoints": 80,
+        "sanctions": 0,
         "results": [
           {
             "name": "Giro d'Italia - Stage 1",
@@ -226,13 +228,13 @@
             "date": "28 Jan 2024",
             "points": 5
           }
-        ],
-        "totalPoints": 80,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Pello Bilbao",
         "id": 76092,
+        "totalPoints": 755,
+        "sanctions": 0,
         "results": [
           {
             "name": "Liège-Bastogne-Liège",
@@ -299,13 +301,13 @@
             "date": "03 Feb 2024",
             "points": 5
           }
-        ],
-        "totalPoints": 755,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Alexey Lutsenko",
         "id": 68778,
+        "totalPoints": 386,
+        "sanctions": 15,
         "results": [
           {
             "name": "Giro d'Italia - Stage 2",
@@ -357,13 +359,13 @@
             "date": "24 Feb 2024",
             "points": 5
           }
-        ],
-        "totalPoints": 386,
-        "sanctions": 15
+        ]
       },
       {
         "name": "Lennard Kämna",
         "id": 97741,
+        "totalPoints": 159,
+        "sanctions": 0,
         "results": [
           {
             "name": "Tirreno-Adriatico - General classification",
@@ -380,13 +382,13 @@
             "date": "02 Mar 2024",
             "points": 24
           }
-        ],
-        "totalPoints": 159,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Gerben Thijssen",
         "id": 107713,
+        "totalPoints": 493,
+        "sanctions": 0,
         "results": [
           {
             "name": "La Roue Tourangelle Centre Val de Loire - Trophée Groupama Paris Val de Loire",
@@ -438,13 +440,13 @@
             "date": "25 Jan 2024",
             "points": 3
           }
-        ],
-        "totalPoints": 493,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Wout Poels",
         "id": 1974873,
+        "totalPoints": 265,
+        "sanctions": 0,
         "results": [
           {
             "name": "Eschborn-Frankfurt",
@@ -501,13 +503,13 @@
             "date": "09 Mar 2024",
             "points": 2
           }
-        ],
-        "totalPoints": 265,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Esteban Chaves",
         "id": 75873,
+        "totalPoints": 113,
+        "sanctions": 0,
         "results": [
           {
             "name": "Giro d'Italia - Stage 2",
@@ -549,9 +551,7 @@
             "date": "11 Feb 2024",
             "points": 30
           }
-        ],
-        "totalPoints": 113,
-        "sanctions": 0
+        ]
       }
     ]
   }

@@ -1,16 +1,18 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 May 2024, 14:06 GMT",
+  "fetchedDate": "6 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 3842,
+    "totalPoints": 3817,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
+        "totalPoints": 833,
+        "sanctions": 0,
         "results": [
           {
             "name": "Itzulia Basque Country - Stage 1 (ITT)",
@@ -77,13 +79,13 @@
             "date": "23 Feb 2024",
             "points": 3
           }
-        ],
-        "totalPoints": 833,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Christophe Laporte",
         "id": 81980,
+        "totalPoints": 293,
+        "sanctions": 25,
         "results": [
           {
             "name": "Paris-Roubaix",
@@ -105,13 +107,13 @@
             "date": "24 Feb 2024",
             "points": 120
           }
-        ],
-        "totalPoints": 318,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Geraint Thomas",
         "id": 32532,
+        "totalPoints": 156,
+        "sanctions": 0,
         "results": [
           {
             "name": "Giro d'Italia - Stage 2",
@@ -133,13 +135,13 @@
             "date": "24 Mar 2024",
             "points": 16
           }
-        ],
-        "totalPoints": 156,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Mikel Landa",
         "id": 68367,
+        "totalPoints": 390,
+        "sanctions": 25,
         "results": [
           {
             "name": "Volta Ciclista a Catalunya - General classification",
@@ -171,20 +173,20 @@
             "date": "10 Feb 2024",
             "points": 5
           }
-        ],
-        "totalPoints": 390,
-        "sanctions": 25
+        ]
       },
       {
         "name": "Carlos Rodriguez",
         "id": 428096,
-        "results": [],
         "totalPoints": 0,
-        "sanctions": 0
+        "sanctions": 0,
+        "results": []
       },
       {
         "name": "Marc Hirschi",
         "id": 111440,
+        "totalPoints": 935,
+        "sanctions": 0,
         "results": [
           {
             "name": "Eschborn-Frankfurt",
@@ -236,13 +238,13 @@
             "date": "10 Feb 2024",
             "points": 70
           }
-        ],
-        "totalPoints": 935,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Stefan Küng",
         "id": 74994,
+        "totalPoints": 784,
+        "sanctions": 0,
         "results": [
           {
             "name": "Amstel Gold Race",
@@ -304,13 +306,13 @@
             "date": "17 Feb 2024",
             "points": 10
           }
-        ],
-        "totalPoints": 784,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Fabio Jakobsen",
         "id": 87061,
+        "totalPoints": 199,
+        "sanctions": 15,
         "results": [
           {
             "name": "Presidential Cycling Tour of Türkiye - Stage 5",
@@ -347,13 +349,13 @@
             "date": "19 Feb 2024",
             "points": 15
           }
-        ],
-        "totalPoints": 199,
-        "sanctions": 15
+        ]
       },
       {
         "name": "Arnaud Démare",
         "id": 64670,
+        "totalPoints": 111,
+        "sanctions": 0,
         "results": [
           {
             "name": "Gent-Wevelgem in Flanders Fields ME",
@@ -390,13 +392,13 @@
             "date": "28 Jan 2024",
             "points": 50
           }
-        ],
-        "totalPoints": 111,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Søren Kragh Andersen",
         "id": 79156,
+        "totalPoints": 116,
+        "sanctions": 0,
         "results": [
           {
             "name": "Eschborn-Frankfurt",
@@ -423,9 +425,7 @@
             "date": "16 Mar 2024",
             "points": 15
           }
-        ],
-        "totalPoints": 116,
-        "sanctions": 0
+        ]
       }
     ]
   }

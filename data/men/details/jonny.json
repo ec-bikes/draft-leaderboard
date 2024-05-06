@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 May 2024, 14:06 GMT",
+  "fetchedDate": "6 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Jonny Long",
@@ -11,6 +11,8 @@
       {
         "name": "Jasper Philipsen",
         "id": 148275,
+        "totalPoints": 2435,
+        "sanctions": 0,
         "results": [
           {
             "name": "Paris-Roubaix",
@@ -62,13 +64,13 @@
             "date": "05 Mar 2024",
             "points": 60
           }
-        ],
-        "totalPoints": 2435,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Simon Yates",
         "id": 1558112,
+        "totalPoints": 391,
+        "sanctions": 0,
         "results": [
           {
             "name": "Tour de Romandie - General classification",
@@ -105,13 +107,13 @@
             "date": "20 Jan 2024",
             "points": 15
           }
-        ],
-        "totalPoints": 391,
-        "sanctions": 0
+        ]
       },
       {
         "name": "David Gaudu",
         "id": 112351,
+        "totalPoints": 358,
+        "sanctions": 0,
         "results": [
           {
             "name": "Tour de Romandie - General classification",
@@ -153,13 +155,13 @@
             "date": "16 Feb 2024",
             "points": 40
           }
-        ],
-        "totalPoints": 358,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Romain Bardet",
         "id": 64917,
+        "totalPoints": 869,
+        "sanctions": 0,
         "results": [
           {
             "name": "Liège-Bastogne-Liège",
@@ -206,13 +208,13 @@
             "date": "16 Feb 2024",
             "points": 70
           }
-        ],
-        "totalPoints": 869,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Jai Hindley",
         "id": 109829,
+        "totalPoints": 551,
+        "sanctions": 0,
         "results": [
           {
             "name": "Tour de Romandie - General classification",
@@ -254,13 +256,13 @@
             "date": "03 Feb 2024",
             "points": 3
           }
-        ],
-        "totalPoints": 551,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Yves Lampaert",
         "id": 86228,
+        "totalPoints": 147,
+        "sanctions": 0,
         "results": [
           {
             "name": "Eschborn-Frankfurt",
@@ -322,13 +324,13 @@
             "date": "27 Jan 2024",
             "points": 5
           }
-        ],
-        "totalPoints": 147,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Fred Wright",
         "id": 153275,
+        "totalPoints": 219,
+        "sanctions": 0,
         "results": [
           {
             "name": "Amstel Gold Race",
@@ -385,13 +387,13 @@
             "date": "03 Feb 2024",
             "points": 5
           }
-        ],
-        "totalPoints": 219,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Bryan Coquard",
         "id": 68950,
+        "totalPoints": 286,
+        "sanctions": 0,
         "results": [
           {
             "name": "Tro-Bro Léon",
@@ -453,20 +455,20 @@
             "date": "20 Jan 2024",
             "points": 85
           }
-        ],
-        "totalPoints": 286,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Romain Grégoire",
         "id": 1759422,
-        "results": [],
         "totalPoints": 0,
-        "sanctions": 0
+        "sanctions": 0,
+        "results": []
       },
       {
         "name": "Jack Haig",
         "id": 78342,
+        "totalPoints": 96,
+        "sanctions": 0,
         "results": [
           {
             "name": "Volta Ciclista a Catalunya - General classification",
@@ -488,9 +490,7 @@
             "date": "21 Jan 2024",
             "points": 85
           }
-        ],
-        "totalPoints": 96,
-        "sanctions": 0
+        ]
       }
     ]
   }

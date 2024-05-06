@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 May 2024, 14:06 GMT",
+  "fetchedDate": "6 May 2024, 23:10 GMT",
   "momentId": 0,
   "teams": [
     {
       "owner": "Abby Mickey",
       "name": "Lidl-Trek M&Ms",
-      "totalPoints": 7700,
+      "totalPoints": 7715,
       "riders": [
         {
           "name": "Mads Pedersen",
@@ -36,7 +36,7 @@
         {
           "name": "Kaden Groves",
           "id": 111683,
-          "totalPoints": -21,
+          "totalPoints": -6,
           "sanctions": 25
         },
         {
@@ -74,12 +74,12 @@
     {
       "owner": "Caley Fretz",
       "name": "Arkéa-Formula 1 Hotels",
-      "totalPoints": 6069,
+      "totalPoints": 6089,
       "riders": [
         {
           "name": "Tadej Pogačar",
           "id": 149727,
-          "totalPoints": 2685,
+          "totalPoints": 2705,
           "sanctions": 0
         },
         {
@@ -141,7 +141,7 @@
     {
       "owner": "Ronan Mc Laughlin",
       "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-      "totalPoints": 6110,
+      "totalPoints": 6380,
       "riders": [
         {
           "name": "Primož Roglič",
@@ -152,7 +152,7 @@
         {
           "name": "Biniam Girmay",
           "id": 1707195,
-          "totalPoints": 479,
+          "totalPoints": 574,
           "sanctions": 0
         },
         {
@@ -164,13 +164,13 @@
         {
           "name": "Olav Kooij",
           "id": 227110,
-          "totalPoints": 632,
+          "totalPoints": 677,
           "sanctions": 0
         },
         {
           "name": "Jonathan Milan",
           "id": 301151,
-          "totalPoints": 563,
+          "totalPoints": 693,
           "sanctions": 0
         },
         {
@@ -208,7 +208,7 @@
     {
       "owner": "Dane Cash",
       "name": "Visma-Lease a Bike-Monster Energy",
-      "totalPoints": 3842,
+      "totalPoints": 3817,
       "riders": [
         {
           "name": "Jonas Vingegaard",
@@ -219,8 +219,8 @@
         {
           "name": "Christophe Laporte",
           "id": 81980,
-          "totalPoints": 318,
-          "sanctions": 0
+          "totalPoints": 293,
+          "sanctions": 25
         },
         {
           "name": "Geraint Thomas",
@@ -275,7 +275,7 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 7168,
+      "totalPoints": 7348,
       "riders": [
         {
           "name": "Remco Evenepoel",
@@ -304,7 +304,7 @@
         {
           "name": "Tim Merlier",
           "id": 70962,
-          "totalPoints": 1000,
+          "totalPoints": 1180,
           "sanctions": 0
         },
         {

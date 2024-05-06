@@ -1,17 +1,24 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 May 2024, 14:06 GMT",
+  "fetchedDate": "6 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 6069,
+    "totalPoints": 6089,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
+        "totalPoints": 2705,
+        "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 3 - Bonus",
+            "date": "06 May 2024",
+            "points": 20
+          },
           {
             "name": "Giro d'Italia - Stage 2",
             "date": "05 May 2024",
@@ -97,26 +104,26 @@
             "date": "02 Mar 2024",
             "points": 400
           }
-        ],
-        "totalPoints": 2685,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Neilson Powless",
         "id": 88143,
+        "totalPoints": 12,
+        "sanctions": 0,
         "results": [
           {
             "name": "Eschborn-Frankfurt",
             "date": "01 May 2024",
             "points": 12
           }
-        ],
-        "totalPoints": 12,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Matej Mohoric",
         "id": 86863,
+        "totalPoints": 578,
+        "sanctions": 0,
         "results": [
           {
             "name": "Gent-Wevelgem in Flanders Fields ME",
@@ -158,20 +165,20 @@
             "date": "01 Feb 2024",
             "points": 20
           }
-        ],
-        "totalPoints": 578,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Victor Lafay",
         "id": 136296,
-        "results": [],
         "totalPoints": 0,
-        "sanctions": 0
+        "sanctions": 0,
+        "results": []
       },
       {
         "name": "Lenny Martinez",
         "id": 1843476,
+        "totalPoints": 1051,
+        "sanctions": 0,
         "results": [
           {
             "name": "Tour de Romandie - General classification",
@@ -243,13 +250,13 @@
             "date": "16 Feb 2024",
             "points": 125
           }
-        ],
-        "totalPoints": 1051,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Tiesj Benoot",
         "id": 77502,
+        "totalPoints": 720,
+        "sanctions": 25,
         "results": [
           {
             "name": "Liège-Bastogne-Liège",
@@ -286,13 +293,13 @@
             "date": "24 Feb 2024",
             "points": 5
           }
-        ],
-        "totalPoints": 720,
-        "sanctions": 25
+        ]
       },
       {
         "name": "Josh Tarling",
         "id": 1557793,
+        "totalPoints": 96,
+        "sanctions": 100,
         "results": [
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres ME",
@@ -334,13 +341,13 @@
             "date": "21 Jan 2024",
             "points": 5
           }
-        ],
-        "totalPoints": 96,
-        "sanctions": 100
+        ]
       },
       {
         "name": "Enric Mas",
         "id": 109803,
+        "totalPoints": 467,
+        "sanctions": 0,
         "results": [
           {
             "name": "Tour de Romandie - General classification",
@@ -377,13 +384,13 @@
             "date": "10 Mar 2024",
             "points": 60
           }
-        ],
-        "totalPoints": 467,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Rui Costa",
         "id": 32596,
+        "totalPoints": 50,
+        "sanctions": 0,
         "results": [
           {
             "name": "Trofeo Serra Tramuntana",
@@ -395,13 +402,13 @@
             "date": "24 Jan 2024",
             "points": 40
           }
-        ],
-        "totalPoints": 50,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Guillaume Martin",
         "id": 75170,
+        "totalPoints": 410,
+        "sanctions": 0,
         "results": [
           {
             "name": "Tour de Romandie - General classification",
@@ -463,9 +470,7 @@
             "date": "18 Feb 2024",
             "points": 30
           }
-        ],
-        "totalPoints": 410,
-        "sanctions": 0
+        ]
       }
     ]
   }

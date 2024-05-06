@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 May 2024, 14:05 GMT",
+  "fetchedDate": "6 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Loren Rowney",
@@ -11,6 +11,8 @@
       {
         "name": "Marlen Reusser",
         "id": 1589305,
+        "totalPoints": 308,
+        "sanctions": 15,
         "results": [
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
@@ -57,13 +59,13 @@
             "date": "16 Feb 2024",
             "points": 5
           }
-        ],
-        "totalPoints": 308,
-        "sanctions": 15
+        ]
       },
       {
         "name": "Elisa Longo Borghini",
         "id": 76149,
+        "totalPoints": 2640,
+        "sanctions": 0,
         "results": [
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
@@ -155,13 +157,13 @@
             "date": "10 Feb 2024",
             "points": 15
           }
-        ],
-        "totalPoints": 2640,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Elisa Balsamo",
         "id": 101826,
+        "totalPoints": 1928,
+        "sanctions": 0,
         "results": [
           {
             "name": "Paris-Roubaix Femmes avec Zwift",
@@ -218,13 +220,13 @@
             "date": "15 Feb 2024",
             "points": 5
           }
-        ],
-        "totalPoints": 1928,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Maike van der Duin",
         "id": 226974,
+        "totalPoints": 23,
+        "sanctions": 0,
         "results": [
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 4",
@@ -236,13 +238,13 @@
             "date": "28 Apr 2024",
             "points": 5
           }
-        ],
-        "totalPoints": 23,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Grace Brown",
         "id": 143292,
+        "totalPoints": 739,
+        "sanctions": 0,
         "results": [
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
@@ -289,13 +291,13 @@
             "date": "04 Jan 2024",
             "points": 50
           }
-        ],
-        "totalPoints": 739,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Emma Norsgaard",
         "id": 151974,
+        "totalPoints": 327,
+        "sanctions": 0,
         "results": [
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
@@ -342,13 +344,13 @@
             "date": "24 Feb 2024",
             "points": 56
           }
-        ],
-        "totalPoints": 327,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Evita Muzic",
         "id": 109412,
+        "totalPoints": 866,
+        "sanctions": 0,
         "results": [
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
@@ -425,13 +427,13 @@
             "date": "14 Jan 2024",
             "points": 16
           }
-        ],
-        "totalPoints": 866,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Chiara Consonni",
         "id": 156600,
+        "totalPoints": 1210,
+        "sanctions": 0,
         "results": [
           {
             "name": "Trofee Maarten Wynants",
@@ -528,13 +530,13 @@
             "date": "20 Jan 2024",
             "points": 70
           }
-        ],
-        "totalPoints": 1210,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Daria Pikulik",
         "id": 99885,
+        "totalPoints": 626,
+        "sanctions": 0,
         "results": [
           {
             "name": "Trofee Maarten Wynants",
@@ -571,13 +573,13 @@
             "date": "09 Feb 2024",
             "points": 6
           }
-        ],
-        "totalPoints": 626,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Niamh Fisher-Black",
         "id": 217072,
+        "totalPoints": 455,
+        "sanctions": 0,
         "results": [
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
@@ -629,9 +631,7 @@
             "date": "17 Feb 2024",
             "points": 25
           }
-        ],
-        "totalPoints": 455,
-        "sanctions": 0
+        ]
       }
     ]
   }

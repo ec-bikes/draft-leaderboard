@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 May 2024, 14:06 GMT",
+  "fetchedDate": "6 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Toms Skujiņš",
@@ -11,6 +11,8 @@
       {
         "name": "Adam Yates",
         "id": 70590,
+        "totalPoints": 343,
+        "sanctions": 0,
         "results": [
           {
             "name": "Tour de Romandie - General classification",
@@ -42,13 +44,13 @@
             "date": "14 Feb 2024",
             "points": 20
           }
-        ],
-        "totalPoints": 343,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Mattias Skjelmose",
         "id": 365033,
+        "totalPoints": 1006,
+        "sanctions": 0,
         "results": [
           {
             "name": "Liège-Bastogne-Liège",
@@ -120,13 +122,13 @@
             "date": "24 Feb 2024",
             "points": 125
           }
-        ],
-        "totalPoints": 1006,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Valentin Madouas",
         "id": 91637,
+        "totalPoints": 613,
+        "sanctions": 25,
         "results": [
           {
             "name": "Liège-Bastogne-Liège",
@@ -188,13 +190,13 @@
             "date": "10 Feb 2024",
             "points": 50
           }
-        ],
-        "totalPoints": 613,
-        "sanctions": 25
+        ]
       },
       {
         "name": "João Almeida",
         "id": 107840,
+        "totalPoints": 202,
+        "sanctions": 25,
         "results": [
           {
             "name": "Liège-Bastogne-Liège",
@@ -231,13 +233,13 @@
             "date": "05 Mar 2024",
             "points": 8.57
           }
-        ],
-        "totalPoints": 202,
-        "sanctions": 25
+        ]
       },
       {
         "name": "Kévin Vauquelin",
         "id": 1745291,
+        "totalPoints": 765,
+        "sanctions": 0,
         "results": [
           {
             "name": "La Flèche Wallonne",
@@ -314,13 +316,13 @@
             "date": "28 Jan 2024",
             "points": 70
           }
-        ],
-        "totalPoints": 765,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Brandon McNulty",
         "id": 150923,
+        "totalPoints": 1339,
+        "sanctions": 0,
         "results": [
           {
             "name": "Tour de Romandie - Stage 3 (ITT)",
@@ -442,13 +444,13 @@
             "date": "24 Jan 2024",
             "points": 70
           }
-        ],
-        "totalPoints": 1339,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Cian Uijtdebroeks",
         "id": 1789559,
+        "totalPoints": 265,
+        "sanctions": 0,
         "results": [
           {
             "name": "Giro d'Italia - Stage 2",
@@ -480,13 +482,13 @@
             "date": "25 Feb 2024",
             "points": 50
           }
-        ],
-        "totalPoints": 265,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Laurence Pithie",
         "id": 221617,
+        "totalPoints": 985,
+        "sanctions": 0,
         "results": [
           {
             "name": "Paris-Roubaix",
@@ -583,13 +585,13 @@
             "date": "17 Jan 2024",
             "points": 2
           }
-        ],
-        "totalPoints": 985,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Jordi Meeus",
         "id": 148901,
+        "totalPoints": 615,
+        "sanctions": 0,
         "results": [
           {
             "name": "Paris-Roubaix",
@@ -621,13 +623,13 @@
             "date": "11 Feb 2024",
             "points": 50
           }
-        ],
-        "totalPoints": 615,
-        "sanctions": 0
+        ]
       },
       {
         "name": "Casper van Uden",
         "id": 226805,
+        "totalPoints": 72,
+        "sanctions": 0,
         "results": [
           {
             "name": "Scheldeprijs",
@@ -684,9 +686,7 @@
             "date": "30 Jan 2024",
             "points": 3
           }
-        ],
-        "totalPoints": 72,
-        "sanctions": 0
+        ]
       }
     ]
   }
