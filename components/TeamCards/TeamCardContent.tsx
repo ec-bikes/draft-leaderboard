@@ -86,7 +86,7 @@ export function TeamCardContent(props: {
                     UCI
                   </Link>
                   {', '}
-                  <Link target="_blank" href={getPcsUrl(rider)}>
+                  <Link target="_blank" href={getPcsUrl({ name: rider.name, year: 2024 })}>
                     PCS
                   </Link>
                 </Typography>

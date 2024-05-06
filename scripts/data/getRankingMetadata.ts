@@ -1,6 +1,6 @@
 import type { Group } from '../../common/types/Group.js';
 import type { TeamJsonMetadata } from '../../common/types/TeamJson.js';
-import { formatDate, formatDateTime, formatNumericDate } from './formatDate.js';
+import { formatDate, formatDateTime, formatNumericDate, makeUtcDate } from './formatDate.js';
 import { getUciRankingMoments } from './uci/getUciRankingMoments.js';
 
 /**
@@ -31,7 +31,7 @@ export async function getRankingMetadata(
 
   // This comes in DD/MM/YYYY format. Convert it to an unambiguous text-based date.
   const rankingDateParts = moment.Name.split('/').map(Number);
-  const rdate = new Date(rankingDateParts[2], rankingDateParts[1] - 1, rankingDateParts[0]);
+  const rdate = makeUtcDate(rankingDateParts[2], rankingDateParts[1], rankingDateParts[0]);
 
   return {
     schemaVersion: 1,

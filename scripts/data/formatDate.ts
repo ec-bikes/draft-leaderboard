@@ -1,14 +1,20 @@
+/** Make a date with the UTC hours set to 0. Month is the actual month (not index). */
+export function makeUtcDate(year: number, month: number, day: number): Date {
+  return new Date(Date.UTC(year, month - 1, day));
+}
+
 /** Format a date as YYYY-MM-DD */
 export function formatNumericDate(date: Date): string {
   return date.toISOString().slice(0, 10);
 }
 
 /** Format a date as e.g. "22 March 2024" */
-export function formatDate(date: Date): string {
+export function formatDate(date: Date, month: 'long' | 'short' = 'long'): string {
   return date.toLocaleDateString('en-GB', {
     year: 'numeric',
-    month: 'long',
+    month,
     day: 'numeric',
+    timeZone: 'UTC',
   });
 }
 
