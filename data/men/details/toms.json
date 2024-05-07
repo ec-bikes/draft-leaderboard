@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 May 2024, 23:10 GMT",
+  "fetchedDate": "7 May 2024, 23:09 GMT",
   "momentId": 0,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 6205,
+    "totalPoints": 6225,
     "riders": [
       {
         "name": "Adam Yates",
@@ -487,9 +487,14 @@
       {
         "name": "Laurence Pithie",
         "id": 221617,
-        "totalPoints": 985,
+        "totalPoints": 1005,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 4",
+            "date": "07 May 2024",
+            "points": 20
+          },
           {
             "name": "Paris-Roubaix",
             "date": "07 Apr 2024",
