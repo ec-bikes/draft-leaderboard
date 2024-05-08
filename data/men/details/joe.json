@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 May 2024, 23:09 GMT",
+  "fetchedDate": "8 May 2024, 23:12 GMT",
   "momentId": 0,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 7408,
+    "totalPoints": 7443,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -213,9 +213,14 @@
       {
         "name": "Tim Merlier",
         "id": 70962,
-        "totalPoints": 1240,
+        "totalPoints": 1275,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 5",
+            "date": "08 May 2024",
+            "points": 35
+          },
           {
             "name": "Giro d'Italia - Stage 4",
             "date": "07 May 2024",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 May 2024, 23:09 GMT",
+  "fetchedDate": "8 May 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 6286,
+    "totalPoints": 6561,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -152,9 +152,14 @@
       {
         "name": "Shirin van Anrooij",
         "id": 228375,
-        "totalPoints": 1046,
+        "totalPoints": 1171,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Navarra Women's Elite classic",
+            "date": "08 May 2024",
+            "points": 125
+          },
           {
             "name": "Liège-Bastogne-Liège Femmes",
             "date": "21 Apr 2024",
@@ -263,9 +268,14 @@
       {
         "name": "Arlenis Sierra",
         "id": 71998,
-        "totalPoints": 515,
+        "totalPoints": 665,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Navarra Women's Elite classic",
+            "date": "08 May 2024",
+            "points": 150
+          },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "14 Apr 2024",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 May 2024, 23:09 GMT",
+  "fetchedDate": "8 May 2024, 23:12 GMT",
   "momentId": 0,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 5126,
+    "totalPoints": 5151,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -157,9 +157,19 @@
       {
         "name": "Sam Welsford",
         "id": 91180,
-        "totalPoints": 292,
+        "totalPoints": 317,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Hongrie - Stage 1",
+            "date": "08 May 2024",
+            "points": 20
+          },
+          {
+            "name": "Tour de Hongrie - Stage 1 - Bonus",
+            "date": "08 May 2024",
+            "points": 5
+          },
           {
             "name": "Scheldeprijs",
             "date": "03 Apr 2024",

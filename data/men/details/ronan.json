@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 May 2024, 23:09 GMT",
+  "fetchedDate": "8 May 2024, 23:12 GMT",
   "momentId": 0,
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 6642,
+    "totalPoints": 6732,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -200,9 +200,14 @@
       {
         "name": "Olav Kooij",
         "id": 227110,
-        "totalPoints": 757,
+        "totalPoints": 787,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 5",
+            "date": "08 May 2024",
+            "points": 30
+          },
           {
             "name": "Giro d'Italia - Stage 4",
             "date": "07 May 2024",
@@ -263,9 +268,14 @@
       {
         "name": "Jonathan Milan",
         "id": 301151,
-        "totalPoints": 873,
+        "totalPoints": 933,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 5",
+            "date": "08 May 2024",
+            "points": 60
+          },
           {
             "name": "Giro d'Italia - Stage 4",
             "date": "07 May 2024",

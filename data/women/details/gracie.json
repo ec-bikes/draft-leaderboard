@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 May 2024, 23:09 GMT",
+  "fetchedDate": "8 May 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 5438,
+    "totalPoints": 5543,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -94,9 +94,14 @@
       {
         "name": "Liane Lippert",
         "id": 140495,
-        "totalPoints": 9,
+        "totalPoints": 14,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Navarra Women's Elite classic",
+            "date": "08 May 2024",
+            "points": 5
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
             "date": "05 May 2024",
@@ -453,9 +458,14 @@
       {
         "name": "Dominika Wlodarczyk",
         "id": 1549446,
-        "totalPoints": 545,
+        "totalPoints": 645,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Navarra Women's Elite classic",
+            "date": "08 May 2024",
+            "points": 100
+          },
           {
             "name": "Grand Prix du Morbihan Femmes",
             "date": "04 May 2024",
