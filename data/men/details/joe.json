@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 May 2024, 23:12 GMT",
+  "fetchedDate": "9 May 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 7443,
+    "totalPoints": 7588,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -306,9 +306,14 @@
       {
         "name": "Julian Alaphilippe",
         "id": 71557,
-        "totalPoints": 440,
+        "totalPoints": 570,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 6",
+            "date": "09 May 2024",
+            "points": 130
+          },
           {
             "name": "Tour de Romandie - General classification",
             "date": "28 Apr 2024",
@@ -430,9 +435,14 @@
       {
         "name": "Dylan Groenewegen",
         "id": 72932,
-        "totalPoints": 567,
+        "totalPoints": 582,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Hongrie - Stage 2",
+            "date": "09 May 2024",
+            "points": 15
+          },
           {
             "name": "Scheldeprijs",
             "date": "03 Apr 2024",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 May 2024, 23:12 GMT",
+  "fetchedDate": "9 May 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 5151,
+    "totalPoints": 5176,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -316,9 +316,14 @@
       {
         "name": "Alexey Lutsenko",
         "id": 68778,
-        "totalPoints": 386,
+        "totalPoints": 411,
         "sanctions": 15,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 6",
+            "date": "09 May 2024",
+            "points": 25
+          },
           {
             "name": "Giro d'Italia - Stage 2",
             "date": "05 May 2024",
