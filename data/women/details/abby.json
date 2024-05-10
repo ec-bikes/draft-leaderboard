@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 May 2024, 23:10 GMT",
+  "fetchedDate": "10 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 6561,
+    "totalPoints": 6667,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -152,9 +152,14 @@
       {
         "name": "Shirin van Anrooij",
         "id": 228375,
-        "totalPoints": 1171,
+        "totalPoints": 1179,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Itzulia Women - Stage 1",
+            "date": "10 May 2024",
+            "points": 8
+          },
           {
             "name": "Navarra Women's Elite classic",
             "date": "08 May 2024",
@@ -225,9 +230,19 @@
       {
         "name": "Mischa Bredewold",
         "id": 227721,
-        "totalPoints": 134,
+        "totalPoints": 192,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Itzulia Women - Stage 1",
+            "date": "10 May 2024",
+            "points": 50
+          },
+          {
+            "name": "Itzulia Women - Stage 1 - Bonus",
+            "date": "10 May 2024",
+            "points": 8
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
             "date": "05 May 2024",
@@ -268,9 +283,14 @@
       {
         "name": "Arlenis Sierra",
         "id": 71998,
-        "totalPoints": 665,
+        "totalPoints": 705,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Itzulia Women - Stage 1",
+            "date": "10 May 2024",
+            "points": 40
+          },
           {
             "name": "Navarra Women's Elite classic",
             "date": "08 May 2024",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 May 2024, 23:11 GMT",
+  "fetchedDate": "10 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 7847,
+    "totalPoints": 7867,
     "riders": [
       {
         "name": "Mads Pedersen",
@@ -530,9 +530,14 @@
       {
         "name": "Ben O'Connor",
         "id": 97805,
-        "totalPoints": 860,
+        "totalPoints": 880,
         "sanctions": 15,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 7 (ITT)",
+            "date": "10 May 2024",
+            "points": 20
+          },
           {
             "name": "Giro d'Italia - Stage 2",
             "date": "05 May 2024",

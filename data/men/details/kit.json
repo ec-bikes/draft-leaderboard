@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 May 2024, 23:11 GMT",
+  "fetchedDate": "10 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 5176,
+    "totalPoints": 5319,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -215,9 +215,14 @@
       {
         "name": "Filippo Ganna",
         "id": 91640,
-        "totalPoints": 80,
+        "totalPoints": 210,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 7 (ITT)",
+            "date": "10 May 2024",
+            "points": 130
+          },
           {
             "name": "Giro d'Italia - Stage 1",
             "date": "04 May 2024",
@@ -316,9 +321,14 @@
       {
         "name": "Alexey Lutsenko",
         "id": 68778,
-        "totalPoints": 411,
+        "totalPoints": 421,
         "sanctions": 15,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 7 (ITT)",
+            "date": "10 May 2024",
+            "points": 10
+          },
           {
             "name": "Giro d'Italia - Stage 6",
             "date": "09 May 2024",
@@ -460,9 +470,14 @@
       {
         "name": "Wout Poels",
         "id": 1974873,
-        "totalPoints": 265,
+        "totalPoints": 268,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Hongrie - Stage 3",
+            "date": "10 May 2024",
+            "points": 3
+          },
           {
             "name": "Eschborn-Frankfurt",
             "date": "01 May 2024",

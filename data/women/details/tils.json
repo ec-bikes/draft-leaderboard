@@ -1,19 +1,24 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 May 2024, 23:10 GMT",
+  "fetchedDate": "10 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 7213,
+    "totalPoints": 7243,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
-        "totalPoints": 1839,
+        "totalPoints": 1869,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Itzulia Women - Stage 1",
+            "date": "10 May 2024",
+            "points": 30
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
             "date": "05 May 2024",
