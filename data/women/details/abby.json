@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 May 2024, 23:10 GMT",
+  "fetchedDate": "11 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 6667,
+    "totalPoints": 6758,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -230,9 +230,19 @@
       {
         "name": "Mischa Bredewold",
         "id": 227721,
-        "totalPoints": 192,
+        "totalPoints": 250,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Itzulia Women - Stage 2",
+            "date": "11 May 2024",
+            "points": 50
+          },
+          {
+            "name": "Itzulia Women - Stage 2 - Bonus",
+            "date": "11 May 2024",
+            "points": 8
+          },
           {
             "name": "Itzulia Women - Stage 1",
             "date": "10 May 2024",
@@ -283,9 +293,14 @@
       {
         "name": "Arlenis Sierra",
         "id": 71998,
-        "totalPoints": 705,
+        "totalPoints": 720,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Itzulia Women - Stage 2",
+            "date": "11 May 2024",
+            "points": 15
+          },
           {
             "name": "Itzulia Women - Stage 1",
             "date": "10 May 2024",
@@ -434,9 +449,14 @@
       {
         "name": "Elise Chabbey",
         "id": 1638135,
-        "totalPoints": 530,
+        "totalPoints": 548,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Itzulia Women - Stage 2",
+            "date": "11 May 2024",
+            "points": 18
+          },
           {
             "name": "Liège-Bastogne-Liège Femmes",
             "date": "21 Apr 2024",

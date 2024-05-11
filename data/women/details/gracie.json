@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 May 2024, 23:10 GMT",
+  "fetchedDate": "11 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 5561,
+    "totalPoints": 5626,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -135,9 +135,14 @@
       {
         "name": "Mavi Garcia",
         "id": 398547,
-        "totalPoints": 562,
+        "totalPoints": 602,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Itzulia Women - Stage 2",
+            "date": "11 May 2024",
+            "points": 40
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
             "date": "05 May 2024",
@@ -362,9 +367,14 @@
       {
         "name": "Olivia Baril",
         "id": 151523,
-        "totalPoints": 518,
+        "totalPoints": 543,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Itzulia Women - Stage 2",
+            "date": "11 May 2024",
+            "points": 25
+          },
           {
             "name": "Itzulia Women - Stage 1",
             "date": "10 May 2024",

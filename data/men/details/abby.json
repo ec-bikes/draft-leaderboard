@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 May 2024, 23:10 GMT",
+  "fetchedDate": "11 May 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 7867,
+    "totalPoints": 8087,
     "riders": [
       {
         "name": "Mads Pedersen",
@@ -530,9 +530,14 @@
       {
         "name": "Ben O'Connor",
         "id": 97805,
-        "totalPoints": 880,
+        "totalPoints": 975,
         "sanctions": 15,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 8",
+            "date": "11 May 2024",
+            "points": 95
+          },
           {
             "name": "Giro d'Italia - Stage 7 (ITT)",
             "date": "10 May 2024",
@@ -598,9 +603,14 @@
       {
         "name": "Benoît Cosnefroy",
         "id": 79522,
-        "totalPoints": 1269,
+        "totalPoints": 1394,
         "sanctions": 10,
         "results": [
+          {
+            "name": "Tour du Finistère",
+            "date": "11 May 2024",
+            "points": 125
+          },
           {
             "name": "Tro-Bro Léon",
             "date": "05 May 2024",

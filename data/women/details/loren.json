@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 May 2024, 23:10 GMT",
+  "fetchedDate": "11 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 9122,
+    "totalPoints": 9132,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -349,9 +349,14 @@
       {
         "name": "Evita Muzic",
         "id": 109412,
-        "totalPoints": 866,
+        "totalPoints": 876,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Itzulia Women - Stage 2",
+            "date": "11 May 2024",
+            "points": 10
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
             "date": "05 May 2024",
