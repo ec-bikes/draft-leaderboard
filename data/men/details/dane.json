@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 May 2024, 23:11 GMT",
+  "fetchedDate": "12 May 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 3919,
+    "totalPoints": 4099,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -112,9 +112,14 @@
       {
         "name": "Geraint Thomas",
         "id": 32532,
-        "totalPoints": 243,
+        "totalPoints": 338,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 9 - Bonus",
+            "date": "12 May 2024",
+            "points": 95
+          },
           {
             "name": "Giro d'Italia - Stage 8",
             "date": "11 May 2024",
@@ -200,9 +205,14 @@
       {
         "name": "Marc Hirschi",
         "id": 111440,
-        "totalPoints": 950,
+        "totalPoints": 1035,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Hongrie - General classification",
+            "date": "12 May 2024",
+            "points": 85
+          },
           {
             "name": "Tour de Hongrie - Stage 4",
             "date": "11 May 2024",

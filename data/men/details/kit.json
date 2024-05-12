@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 May 2024, 23:11 GMT",
+  "fetchedDate": "12 May 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 5319,
+    "totalPoints": 5464,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -470,9 +470,19 @@
       {
         "name": "Wout Poels",
         "id": 1974873,
-        "totalPoints": 268,
+        "totalPoints": 413,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Hongrie - General classification",
+            "date": "12 May 2024",
+            "points": 125
+          },
+          {
+            "name": "Tour de Hongrie - Stage 5",
+            "date": "12 May 2024",
+            "points": 20
+          },
           {
             "name": "Tour de Hongrie - Stage 3",
             "date": "10 May 2024",

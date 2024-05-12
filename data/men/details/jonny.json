@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 May 2024, 23:11 GMT",
+  "fetchedDate": "12 May 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 5352,
+    "totalPoints": 5357,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -160,9 +160,14 @@
       {
         "name": "Romain Bardet",
         "id": 64917,
-        "totalPoints": 869,
+        "totalPoints": 874,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 9 - Bonus",
+            "date": "12 May 2024",
+            "points": 5
+          },
           {
             "name": "Liège-Bastogne-Liège",
             "date": "21 Apr 2024",

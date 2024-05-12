@@ -1,19 +1,29 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 May 2024, 23:10 GMT",
+  "fetchedDate": "12 May 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 7293,
+    "totalPoints": 8092,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
-        "totalPoints": 1889,
+        "totalPoints": 2339,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Itzulia Women - General classification",
+            "date": "12 May 2024",
+            "points": 400
+          },
+          {
+            "name": "Itzulia Women - Stage 3",
+            "date": "12 May 2024",
+            "points": 50
+          },
           {
             "name": "Itzulia Women - Stage 2",
             "date": "11 May 2024",
@@ -177,9 +187,19 @@
       {
         "name": "Juliette Labous",
         "id": 97498,
-        "totalPoints": 678,
+        "totalPoints": 953,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Itzulia Women - General classification",
+            "date": "12 May 2024",
+            "points": 260
+          },
+          {
+            "name": "Itzulia Women - Stage 3",
+            "date": "12 May 2024",
+            "points": 15
+          },
           {
             "name": "Itzulia Women - Stage 2",
             "date": "11 May 2024",
@@ -434,9 +454,19 @@
       {
         "name": "Ella Wyllie",
         "id": 220428,
-        "totalPoints": 316,
+        "totalPoints": 390,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Itzulia Women - General classification",
+            "date": "12 May 2024",
+            "points": 68
+          },
+          {
+            "name": "Itzulia Women - Stage 3",
+            "date": "12 May 2024",
+            "points": 6
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "17 Mar 2024",

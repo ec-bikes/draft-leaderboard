@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 May 2024, 23:10 GMT",
+  "fetchedDate": "12 May 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 6758,
+    "totalPoints": 7480,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -152,9 +152,19 @@
       {
         "name": "Shirin van Anrooij",
         "id": 228375,
-        "totalPoints": 1179,
+        "totalPoints": 1227,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Itzulia Women - General classification",
+            "date": "12 May 2024",
+            "points": 40
+          },
+          {
+            "name": "Itzulia Women - Stage 3",
+            "date": "12 May 2024",
+            "points": 8
+          },
           {
             "name": "Itzulia Women - Stage 1",
             "date": "10 May 2024",
@@ -230,9 +240,19 @@
       {
         "name": "Mischa Bredewold",
         "id": 227721,
-        "totalPoints": 250,
+        "totalPoints": 600,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Itzulia Women - General classification",
+            "date": "12 May 2024",
+            "points": 320
+          },
+          {
+            "name": "Itzulia Women - Stage 3",
+            "date": "12 May 2024",
+            "points": 30
+          },
           {
             "name": "Itzulia Women - Stage 2",
             "date": "11 May 2024",
@@ -293,9 +313,14 @@
       {
         "name": "Arlenis Sierra",
         "id": 71998,
-        "totalPoints": 720,
+        "totalPoints": 820,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Itzulia Women - General classification",
+            "date": "12 May 2024",
+            "points": 100
+          },
           {
             "name": "Itzulia Women - Stage 2",
             "date": "11 May 2024",
@@ -386,9 +411,14 @@
       {
         "name": "Ricarda Bauernfeind",
         "id": 153347,
-        "totalPoints": 419,
+        "totalPoints": 443,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Itzulia Women - General classification",
+            "date": "12 May 2024",
+            "points": 24
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
             "date": "05 May 2024",
@@ -449,9 +479,19 @@
       {
         "name": "Elise Chabbey",
         "id": 1638135,
-        "totalPoints": 548,
+        "totalPoints": 748,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Itzulia Women - General classification",
+            "date": "12 May 2024",
+            "points": 180
+          },
+          {
+            "name": "Itzulia Women - Stage 3",
+            "date": "12 May 2024",
+            "points": 20
+          },
           {
             "name": "Itzulia Women - Stage 2",
             "date": "11 May 2024",

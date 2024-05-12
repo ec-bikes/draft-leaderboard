@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 May 2024, 23:10 GMT",
+  "fetchedDate": "12 May 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 5626,
+    "totalPoints": 6011,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -135,9 +135,14 @@
       {
         "name": "Mavi Garcia",
         "id": 398547,
-        "totalPoints": 602,
+        "totalPoints": 822,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Itzulia Women - General classification",
+            "date": "12 May 2024",
+            "points": 220
+          },
           {
             "name": "Itzulia Women - Stage 2",
             "date": "11 May 2024",
@@ -367,9 +372,19 @@
       {
         "name": "Olivia Baril",
         "id": 151523,
-        "totalPoints": 543,
+        "totalPoints": 708,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Itzulia Women - General classification",
+            "date": "12 May 2024",
+            "points": 140
+          },
+          {
+            "name": "Itzulia Women - Stage 3",
+            "date": "12 May 2024",
+            "points": 25
+          },
           {
             "name": "Itzulia Women - Stage 2",
             "date": "11 May 2024",

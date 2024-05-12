@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 May 2024, 23:11 GMT",
+  "fetchedDate": "12 May 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 6265,
+    "totalPoints": 6325,
     "riders": [
       {
         "name": "Adam Yates",
@@ -449,9 +449,14 @@
       {
         "name": "Cian Uijtdebroeks",
         "id": 1789559,
-        "totalPoints": 305,
+        "totalPoints": 365,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 9 - Bonus",
+            "date": "12 May 2024",
+            "points": 60
+          },
           {
             "name": "Giro d'Italia - Stage 8",
             "date": "11 May 2024",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 May 2024, 23:11 GMT",
+  "fetchedDate": "12 May 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 8087,
+    "totalPoints": 8207,
     "riders": [
       {
         "name": "Mads Pedersen",
@@ -273,9 +273,14 @@
       {
         "name": "Kaden Groves",
         "id": 111683,
-        "totalPoints": 126,
+        "totalPoints": 166,
         "sanctions": 25,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 9",
+            "date": "12 May 2024",
+            "points": 40
+          },
           {
             "name": "Giro d'Italia - Stage 5",
             "date": "08 May 2024",
@@ -530,9 +535,14 @@
       {
         "name": "Ben O'Connor",
         "id": 97805,
-        "totalPoints": 975,
+        "totalPoints": 1055,
         "sanctions": 15,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 9 - Bonus",
+            "date": "12 May 2024",
+            "points": 80
+          },
           {
             "name": "Giro d'Italia - Stage 8",
             "date": "11 May 2024",

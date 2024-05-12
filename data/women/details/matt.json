@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 May 2024, 23:10 GMT",
+  "fetchedDate": "12 May 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 5402,
+    "totalPoints": 5418,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -308,9 +308,14 @@
       {
         "name": "Amanda Spratt",
         "id": 32706,
-        "totalPoints": 339,
+        "totalPoints": 355,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Itzulia Women - General classification",
+            "date": "12 May 2024",
+            "points": 16
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
             "date": "05 May 2024",

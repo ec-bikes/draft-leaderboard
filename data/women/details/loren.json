@@ -1,19 +1,29 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 May 2024, 23:10 GMT",
+  "fetchedDate": "12 May 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 9132,
+    "totalPoints": 9310,
     "riders": [
       {
         "name": "Marlen Reusser",
         "id": 1589305,
-        "totalPoints": 308,
+        "totalPoints": 406,
         "sanctions": 15,
         "results": [
+          {
+            "name": "Itzulia Women - General classification",
+            "date": "12 May 2024",
+            "points": 80
+          },
+          {
+            "name": "Itzulia Women - Stage 3",
+            "date": "12 May 2024",
+            "points": 18
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
             "date": "05 May 2024",
@@ -349,9 +359,14 @@
       {
         "name": "Evita Muzic",
         "id": 109412,
-        "totalPoints": 876,
+        "totalPoints": 932,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Itzulia Women - General classification",
+            "date": "12 May 2024",
+            "points": 56
+          },
           {
             "name": "Itzulia Women - Stage 2",
             "date": "11 May 2024",
@@ -583,9 +598,14 @@
       {
         "name": "Niamh Fisher-Black",
         "id": 217072,
-        "totalPoints": 455,
+        "totalPoints": 479,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Itzulia Women - General classification",
+            "date": "12 May 2024",
+            "points": 24
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
             "date": "05 May 2024",
