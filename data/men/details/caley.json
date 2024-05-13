@@ -1,23 +1,23 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 May 2024, 23:11 GMT",
+  "fetchedDate": "13 May 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 6729,
+    "totalPoints": 6569,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
-        "totalPoints": 3345,
+        "totalPoints": 3185,
         "sanctions": 0,
         "results": [
           {
             "name": "Giro d'Italia - Stage 9 - Bonus",
             "date": "12 May 2024",
-            "points": 180
+            "points": 20
           },
           {
             "name": "Giro d'Italia - Stage 8",
