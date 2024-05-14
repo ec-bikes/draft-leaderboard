@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "13 May 2024, 23:11 GMT",
+  "fetchedDate": "14 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 7480,
+    "totalPoints": 7510,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -547,9 +547,14 @@
       {
         "name": "Noemi Rüegg",
         "id": 347941,
-        "totalPoints": 287,
+        "totalPoints": 317,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Durango - Durango Emakumeen Saria",
+            "date": "14 May 2024",
+            "points": 30
+          },
           {
             "name": "Gent-Wevelgem In Flanders Fields WE",
             "date": "24 Mar 2024",

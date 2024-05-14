@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "13 May 2024, 23:11 GMT",
+  "fetchedDate": "14 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 5464,
+    "totalPoints": 5489,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -548,9 +548,14 @@
       {
         "name": "Esteban Chaves",
         "id": 75873,
-        "totalPoints": 113,
+        "totalPoints": 138,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 10",
+            "date": "14 May 2024",
+            "points": 25
+          },
           {
             "name": "Giro d'Italia - Stage 2",
             "date": "05 May 2024",

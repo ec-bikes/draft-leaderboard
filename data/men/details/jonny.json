@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "13 May 2024, 23:11 GMT",
+  "fetchedDate": "14 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 5352,
+    "totalPoints": 5482,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -160,9 +160,14 @@
       {
         "name": "Romain Bardet",
         "id": 64917,
-        "totalPoints": 869,
+        "totalPoints": 999,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 10",
+            "date": "14 May 2024",
+            "points": 130
+          },
           {
             "name": "Liège-Bastogne-Liège",
             "date": "21 Apr 2024",

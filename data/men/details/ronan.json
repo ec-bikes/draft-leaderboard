@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "13 May 2024, 23:11 GMT",
+  "fetchedDate": "14 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 7122,
+    "totalPoints": 7132,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -497,9 +497,14 @@
       {
         "name": "Sam Bennett",
         "id": 65995,
-        "totalPoints": 144,
+        "totalPoints": 154,
         "sanctions": 0,
         "results": [
+          {
+            "name": "4 Jours de Dunkerque / Grand Prix des Hauts de France - Stage 1",
+            "date": "14 May 2024",
+            "points": 10
+          },
           {
             "name": "Région Pays de la Loire Tour - General classification",
             "date": "05 Apr 2024",

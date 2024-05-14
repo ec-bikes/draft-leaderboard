@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "13 May 2024, 23:11 GMT",
+  "fetchedDate": "14 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 9310,
+    "totalPoints": 9395,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -359,9 +359,14 @@
       {
         "name": "Evita Muzic",
         "id": 109412,
-        "totalPoints": 932,
+        "totalPoints": 1017,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Durango - Durango Emakumeen Saria",
+            "date": "14 May 2024",
+            "points": 85
+          },
           {
             "name": "Itzulia Women - General classification",
             "date": "12 May 2024",

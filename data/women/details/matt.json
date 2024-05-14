@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "13 May 2024, 23:11 GMT",
+  "fetchedDate": "14 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 5418,
+    "totalPoints": 5421,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -129,9 +129,14 @@
       {
         "name": "Cecilie Uttrup Ludwig",
         "id": 86838,
-        "totalPoints": 408,
+        "totalPoints": 411,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Durango - Durango Emakumeen Saria",
+            "date": "14 May 2024",
+            "points": 3
+          },
           {
             "name": "Deakin University Elite Women's Road Race",
             "date": "27 Jan 2024",

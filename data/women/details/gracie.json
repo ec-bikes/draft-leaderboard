@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "13 May 2024, 23:11 GMT",
+  "fetchedDate": "14 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 6011,
+    "totalPoints": 6014,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -372,9 +372,14 @@
       {
         "name": "Olivia Baril",
         "id": 151523,
-        "totalPoints": 708,
+        "totalPoints": 711,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Durango - Durango Emakumeen Saria",
+            "date": "14 May 2024",
+            "points": 3
+          },
           {
             "name": "Itzulia Women - General classification",
             "date": "12 May 2024",
