@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 May 2024, 23:10 GMT",
+  "fetchedDate": "15 May 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 5421,
+    "totalPoints": 5451,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -442,9 +442,14 @@
       {
         "name": "Kristen Faulkner",
         "id": 1688341,
-        "totalPoints": 500,
+        "totalPoints": 530,
         "sanctions": 0,
         "results": [
+          {
+            "name": "National Championships United States WE - ITT",
+            "date": "15 May 2024",
+            "points": 30
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
             "date": "05 May 2024",

@@ -1,19 +1,24 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 May 2024, 23:10 GMT",
+  "fetchedDate": "15 May 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 6589,
+    "totalPoints": 6629,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
-        "totalPoints": 3205,
+        "totalPoints": 3225,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 11 - Bonus",
+            "date": "15 May 2024",
+            "points": 20
+          },
           {
             "name": "Giro d'Italia - Stage 10 - Bonus",
             "date": "14 May 2024",
@@ -154,9 +159,14 @@
       {
         "name": "Neilson Powless",
         "id": 88143,
-        "totalPoints": 12,
+        "totalPoints": 32,
         "sanctions": 0,
         "results": [
+          {
+            "name": "National Championships United States ME - ITT",
+            "date": "15 May 2024",
+            "points": 20
+          },
           {
             "name": "Eschborn-Frankfurt",
             "date": "01 May 2024",
