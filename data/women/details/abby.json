@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 May 2024, 23:11 GMT",
+  "fetchedDate": "16 May 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 7510,
+    "totalPoints": 7571,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -479,9 +479,19 @@
       {
         "name": "Elise Chabbey",
         "id": 1638135,
-        "totalPoints": 748,
+        "totalPoints": 791,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - Stage 1",
+            "date": "16 May 2024",
+            "points": 25
+          },
+          {
+            "name": "Vuelta a Burgos Feminas - Stage 1 - Bonus",
+            "date": "16 May 2024",
+            "points": 18
+          },
           {
             "name": "Itzulia Women - General classification",
             "date": "12 May 2024",
@@ -595,9 +605,19 @@
       {
         "name": "Soraya Paladin",
         "id": 75244,
-        "totalPoints": 400,
+        "totalPoints": 418,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - Stage 1",
+            "date": "16 May 2024",
+            "points": 10
+          },
+          {
+            "name": "Vuelta a Burgos Feminas - Stage 1 - Bonus",
+            "date": "16 May 2024",
+            "points": 8
+          },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "14 Apr 2024",

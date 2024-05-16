@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 May 2024, 23:11 GMT",
+  "fetchedDate": "16 May 2024, 23:12 GMT",
   "momentId": 0,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 7668,
+    "totalPoints": 7848,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -306,9 +306,14 @@
       {
         "name": "Julian Alaphilippe",
         "id": 71557,
-        "totalPoints": 570,
+        "totalPoints": 750,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 12",
+            "date": "16 May 2024",
+            "points": 180
+          },
           {
             "name": "Giro d'Italia - Stage 6",
             "date": "09 May 2024",
