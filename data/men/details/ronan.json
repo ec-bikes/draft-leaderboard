@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 May 2024, 23:12 GMT",
+  "fetchedDate": "17 May 2024, 23:12 GMT",
   "momentId": 0,
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 7492,
+    "totalPoints": 7692,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -273,9 +273,14 @@
       {
         "name": "Jonathan Milan",
         "id": 301151,
-        "totalPoints": 1243,
+        "totalPoints": 1423,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 13",
+            "date": "17 May 2024",
+            "points": 180
+          },
           {
             "name": "Giro d'Italia - Stage 11",
             "date": "15 May 2024",
@@ -507,9 +512,19 @@
       {
         "name": "Sam Bennett",
         "id": 65995,
-        "totalPoints": 204,
+        "totalPoints": 224,
         "sanctions": 0,
         "results": [
+          {
+            "name": "4 Jours de Dunkerque / Grand Prix des Hauts de France - Stage 4",
+            "date": "17 May 2024",
+            "points": 15
+          },
+          {
+            "name": "4 Jours de Dunkerque / Grand Prix des Hauts de France - Stage 4 - Bonus",
+            "date": "17 May 2024",
+            "points": 5
+          },
           {
             "name": "4 Jours de Dunkerque / Grand Prix des Hauts de France - Stage 3",
             "date": "16 May 2024",

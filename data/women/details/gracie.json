@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 May 2024, 23:11 GMT",
+  "fetchedDate": "17 May 2024, 23:12 GMT",
   "momentId": 0,
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 6074,
+    "totalPoints": 6082,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -104,9 +104,14 @@
       {
         "name": "Liane Lippert",
         "id": 140495,
-        "totalPoints": 14,
+        "totalPoints": 22,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - Stage 2",
+            "date": "17 May 2024",
+            "points": 8
+          },
           {
             "name": "Navarra Women's Elite classic",
             "date": "08 May 2024",

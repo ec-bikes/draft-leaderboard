@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 May 2024, 23:11 GMT",
+  "fetchedDate": "17 May 2024, 23:12 GMT",
   "momentId": 0,
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 9395,
+    "totalPoints": 9435,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -359,9 +359,14 @@
       {
         "name": "Evita Muzic",
         "id": 109412,
-        "totalPoints": 1017,
+        "totalPoints": 1057,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - Stage 2",
+            "date": "17 May 2024",
+            "points": 40
+          },
           {
             "name": "Durango - Durango Emakumeen Saria",
             "date": "14 May 2024",

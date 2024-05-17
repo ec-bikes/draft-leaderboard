@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 May 2024, 23:11 GMT",
+  "fetchedDate": "17 May 2024, 23:12 GMT",
   "momentId": 0,
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 5486,
+    "totalPoints": 5504,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -167,9 +167,14 @@
       {
         "name": "Silvia Persico",
         "id": 107539,
-        "totalPoints": 723,
+        "totalPoints": 741,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - Stage 2",
+            "date": "17 May 2024",
+            "points": 18
+          },
           {
             "name": "Grand Prix du Morbihan Femmes",
             "date": "04 May 2024",

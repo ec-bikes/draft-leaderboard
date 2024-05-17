@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 May 2024, 23:11 GMT",
+  "fetchedDate": "17 May 2024, 23:12 GMT",
   "momentId": 0,
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 7571,
+    "totalPoints": 7626,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -479,9 +479,14 @@
       {
         "name": "Elise Chabbey",
         "id": 1638135,
-        "totalPoints": 791,
+        "totalPoints": 811,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - Stage 2",
+            "date": "17 May 2024",
+            "points": 20
+          },
           {
             "name": "Vuelta a Burgos Feminas - Stage 1",
             "date": "16 May 2024",
@@ -557,9 +562,14 @@
       {
         "name": "Noemi Rüegg",
         "id": 347941,
-        "totalPoints": 317,
+        "totalPoints": 342,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - Stage 2",
+            "date": "17 May 2024",
+            "points": 25
+          },
           {
             "name": "Durango - Durango Emakumeen Saria",
             "date": "14 May 2024",
@@ -605,9 +615,14 @@
       {
         "name": "Soraya Paladin",
         "id": 75244,
-        "totalPoints": 418,
+        "totalPoints": 428,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - Stage 2",
+            "date": "17 May 2024",
+            "points": 10
+          },
           {
             "name": "Vuelta a Burgos Feminas - Stage 1",
             "date": "16 May 2024",

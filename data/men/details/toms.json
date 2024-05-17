@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 May 2024, 23:12 GMT",
+  "fetchedDate": "17 May 2024, 23:12 GMT",
   "momentId": 0,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 6370,
+    "totalPoints": 6405,
     "riders": [
       {
         "name": "Adam Yates",
@@ -497,9 +497,14 @@
       {
         "name": "Laurence Pithie",
         "id": 221617,
-        "totalPoints": 1060,
+        "totalPoints": 1095,
         "sanctions": 25,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 13",
+            "date": "17 May 2024",
+            "points": 35
+          },
           {
             "name": "Giro d'Italia - Stage 11",
             "date": "15 May 2024",
