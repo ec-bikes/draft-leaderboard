@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "17 May 2024, 23:12 GMT",
+  "fetchedDate": "18 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 5489,
+    "totalPoints": 5679,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -215,9 +215,14 @@
       {
         "name": "Filippo Ganna",
         "id": 91640,
-        "totalPoints": 210,
+        "totalPoints": 390,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 14 (ITT)",
+            "date": "18 May 2024",
+            "points": 180
+          },
           {
             "name": "Giro d'Italia - Stage 7 (ITT)",
             "date": "10 May 2024",
@@ -412,9 +417,14 @@
       {
         "name": "Gerben Thijssen",
         "id": 107713,
-        "totalPoints": 493,
+        "totalPoints": 503,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Veenendaal-Veenendaal",
+            "date": "18 May 2024",
+            "points": 10
+          },
           {
             "name": "La Roue Tourangelle Centre Val de Loire - Trophée Groupama Paris Val de Loire",
             "date": "24 Mar 2024",

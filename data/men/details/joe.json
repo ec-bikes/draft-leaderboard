@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "17 May 2024, 23:12 GMT",
+  "fetchedDate": "18 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 7850,
+    "totalPoints": 7920,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -445,9 +445,14 @@
       {
         "name": "Dylan Groenewegen",
         "id": 72932,
-        "totalPoints": 582,
+        "totalPoints": 652,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Veenendaal-Veenendaal",
+            "date": "18 May 2024",
+            "points": 70
+          },
           {
             "name": "Tour de Hongrie - Stage 2",
             "date": "09 May 2024",

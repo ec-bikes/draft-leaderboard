@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "17 May 2024, 23:12 GMT",
+  "fetchedDate": "18 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 9435,
+    "totalPoints": 9465,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -235,9 +235,14 @@
       {
         "name": "Maike van der Duin",
         "id": 226974,
-        "totalPoints": 23,
+        "totalPoints": 53,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - Stage 3",
+            "date": "18 May 2024",
+            "points": 30
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 4",
             "date": "01 May 2024",
