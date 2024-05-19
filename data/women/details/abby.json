@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 May 2024, 23:10 GMT",
+  "fetchedDate": "19 May 2024, 23:12 GMT",
   "momentId": 0,
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 7626,
+    "totalPoints": 8339,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -152,9 +152,19 @@
       {
         "name": "Shirin van Anrooij",
         "id": 228375,
-        "totalPoints": 1227,
+        "totalPoints": 1425,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - General classification",
+            "date": "19 May 2024",
+            "points": 180
+          },
+          {
+            "name": "Vuelta a Burgos Feminas - Stage 4",
+            "date": "19 May 2024",
+            "points": 18
+          },
           {
             "name": "Itzulia Women - General classification",
             "date": "12 May 2024",
@@ -479,9 +489,19 @@
       {
         "name": "Elise Chabbey",
         "id": 1638135,
-        "totalPoints": 811,
+        "totalPoints": 1051,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - General classification",
+            "date": "19 May 2024",
+            "points": 220
+          },
+          {
+            "name": "Vuelta a Burgos Feminas - Stage 4",
+            "date": "19 May 2024",
+            "points": 20
+          },
           {
             "name": "Vuelta a Burgos Feminas - Stage 2",
             "date": "17 May 2024",
@@ -562,9 +582,19 @@
       {
         "name": "Noemi Rüegg",
         "id": 347941,
-        "totalPoints": 342,
+        "totalPoints": 497,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - General classification",
+            "date": "19 May 2024",
+            "points": 140
+          },
+          {
+            "name": "Vuelta a Burgos Feminas - Stage 4",
+            "date": "19 May 2024",
+            "points": 15
+          },
           {
             "name": "Vuelta a Burgos Feminas - Stage 2",
             "date": "17 May 2024",
@@ -615,9 +645,14 @@
       {
         "name": "Soraya Paladin",
         "id": 75244,
-        "totalPoints": 428,
+        "totalPoints": 548,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - General classification",
+            "date": "19 May 2024",
+            "points": 120
+          },
           {
             "name": "Vuelta a Burgos Feminas - Stage 2",
             "date": "17 May 2024",

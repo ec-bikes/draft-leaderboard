@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 May 2024, 23:10 GMT",
+  "fetchedDate": "19 May 2024, 23:12 GMT",
   "momentId": 0,
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 5504,
+    "totalPoints": 5668,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -129,9 +129,14 @@
       {
         "name": "Cecilie Uttrup Ludwig",
         "id": 86838,
-        "totalPoints": 411,
+        "totalPoints": 427,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - General classification",
+            "date": "19 May 2024",
+            "points": 16
+          },
           {
             "name": "Durango - Durango Emakumeen Saria",
             "date": "14 May 2024",
@@ -167,9 +172,14 @@
       {
         "name": "Silvia Persico",
         "id": 107539,
-        "totalPoints": 741,
+        "totalPoints": 781,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - General classification",
+            "date": "19 May 2024",
+            "points": 40
+          },
           {
             "name": "Vuelta a Burgos Feminas - Stage 2",
             "date": "17 May 2024",
@@ -381,9 +391,14 @@
       {
         "name": "Ruby Roseman-Gannon",
         "id": 111383,
-        "totalPoints": 227,
+        "totalPoints": 235,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - General classification",
+            "date": "19 May 2024",
+            "points": 8
+          },
           {
             "name": "Vuelta a Burgos Feminas - Stage 1",
             "date": "16 May 2024",
@@ -457,9 +472,14 @@
       {
         "name": "Kristen Faulkner",
         "id": 1688341,
-        "totalPoints": 530,
+        "totalPoints": 630,
         "sanctions": 0,
         "results": [
+          {
+            "name": "National Championships United States WE - Road Race",
+            "date": "19 May 2024",
+            "points": 100
+          },
           {
             "name": "National Championships United States WE - ITT",
             "date": "15 May 2024",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 May 2024, 23:10 GMT",
+  "fetchedDate": "19 May 2024, 23:12 GMT",
   "momentId": 0,
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 9465,
+    "totalPoints": 9823,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -311,9 +311,14 @@
       {
         "name": "Emma Norsgaard",
         "id": 151974,
-        "totalPoints": 327,
+        "totalPoints": 335,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - General classification",
+            "date": "19 May 2024",
+            "points": 8
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
             "date": "28 Apr 2024",
@@ -364,9 +369,19 @@
       {
         "name": "Evita Muzic",
         "id": 109412,
-        "totalPoints": 1057,
+        "totalPoints": 1407,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - General classification",
+            "date": "19 May 2024",
+            "points": 320
+          },
+          {
+            "name": "Vuelta a Burgos Feminas - Stage 4",
+            "date": "19 May 2024",
+            "points": 30
+          },
           {
             "name": "Vuelta a Burgos Feminas - Stage 2",
             "date": "17 May 2024",

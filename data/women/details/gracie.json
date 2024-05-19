@@ -1,19 +1,24 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 May 2024, 23:10 GMT",
+  "fetchedDate": "19 May 2024, 23:12 GMT",
   "momentId": 0,
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 6132,
+    "totalPoints": 6306,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
-        "totalPoints": 2057,
+        "totalPoints": 2065,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - General classification",
+            "date": "19 May 2024",
+            "points": 8
+          },
           {
             "name": "Vuelta a Burgos Feminas - Stage 3",
             "date": "18 May 2024",
@@ -109,9 +114,14 @@
       {
         "name": "Liane Lippert",
         "id": 140495,
-        "totalPoints": 22,
+        "totalPoints": 122,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - General classification",
+            "date": "19 May 2024",
+            "points": 100
+          },
           {
             "name": "Vuelta a Burgos Feminas - Stage 2",
             "date": "17 May 2024",
@@ -291,9 +301,19 @@
       {
         "name": "Neve Bradbury",
         "id": 1987823,
-        "totalPoints": 787,
+        "totalPoints": 805,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - General classification",
+            "date": "19 May 2024",
+            "points": 8
+          },
+          {
+            "name": "Vuelta a Burgos Feminas - Stage 4",
+            "date": "19 May 2024",
+            "points": 10
+          },
           {
             "name": "Liège-Bastogne-Liège Femmes",
             "date": "21 Apr 2024",
@@ -354,9 +374,14 @@
       {
         "name": "Rosita Reijnhout",
         "id": 228699,
-        "totalPoints": 486,
+        "totalPoints": 534,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - General classification",
+            "date": "19 May 2024",
+            "points": 48
+          },
           {
             "name": "Tour de Normandie Féminin - General classification",
             "date": "17 Mar 2024",

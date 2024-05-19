@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 May 2024, 23:10 GMT",
+  "fetchedDate": "19 May 2024, 23:12 GMT",
   "momentId": 0,
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 7717,
+    "totalPoints": 7962,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -59,9 +59,14 @@
       {
         "name": "Biniam Girmay",
         "id": 1707195,
-        "totalPoints": 574,
+        "totalPoints": 599,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Antwerp Port Epic / Sels Trophy",
+            "date": "19 May 2024",
+            "points": 25
+          },
           {
             "name": "Giro d'Italia - Stage 3",
             "date": "06 May 2024",
@@ -512,9 +517,19 @@
       {
         "name": "Sam Bennett",
         "id": 65995,
-        "totalPoints": 249,
+        "totalPoints": 469,
         "sanctions": 0,
         "results": [
+          {
+            "name": "4 Jours de Dunkerque / Grand Prix des Hauts de France - General classification",
+            "date": "19 May 2024",
+            "points": 200
+          },
+          {
+            "name": "4 Jours de Dunkerque / Grand Prix des Hauts de France - Stage 6",
+            "date": "19 May 2024",
+            "points": 20
+          },
           {
             "name": "4 Jours de Dunkerque / Grand Prix des Hauts de France - Stage 5",
             "date": "18 May 2024",

@@ -1,19 +1,29 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 May 2024, 23:10 GMT",
+  "fetchedDate": "19 May 2024, 23:12 GMT",
   "momentId": 0,
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 6829,
+    "totalPoints": 7029,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
-        "totalPoints": 3425,
+        "totalPoints": 3625,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 15",
+            "date": "19 May 2024",
+            "points": 180
+          },
+          {
+            "name": "Giro d'Italia - Stage 15 - Bonus",
+            "date": "19 May 2024",
+            "points": 20
+          },
           {
             "name": "Giro d'Italia - Stage 14 (ITT)",
             "date": "18 May 2024",

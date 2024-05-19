@@ -1,19 +1,34 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 May 2024, 23:10 GMT",
+  "fetchedDate": "19 May 2024, 23:12 GMT",
   "momentId": 0,
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 8281,
+    "totalPoints": 8819,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
-        "totalPoints": 2397,
+        "totalPoints": 2855,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - General classification",
+            "date": "19 May 2024",
+            "points": 400
+          },
+          {
+            "name": "Vuelta a Burgos Feminas - Stage 4",
+            "date": "19 May 2024",
+            "points": 50
+          },
+          {
+            "name": "Vuelta a Burgos Feminas - Stage 3 - Bonus",
+            "date": "18 May 2024",
+            "points": 8
+          },
           {
             "name": "Vuelta a Burgos Feminas - Stage 2",
             "date": "17 May 2024",
@@ -469,9 +484,14 @@
       {
         "name": "Ella Wyllie",
         "id": 220428,
-        "totalPoints": 396,
+        "totalPoints": 476,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - General classification",
+            "date": "19 May 2024",
+            "points": 80
+          },
           {
             "name": "Vuelta a Burgos Feminas - Stage 2",
             "date": "17 May 2024",

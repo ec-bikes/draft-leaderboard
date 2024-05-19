@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 May 2024, 23:10 GMT",
+  "fetchedDate": "19 May 2024, 23:12 GMT",
   "momentId": 0,
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 8277,
+    "totalPoints": 8312,
     "riders": [
       {
         "name": "Mads Pedersen",
@@ -540,9 +540,14 @@
       {
         "name": "Ben O'Connor",
         "id": 97805,
-        "totalPoints": 1020,
+        "totalPoints": 1055,
         "sanctions": 15,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 15",
+            "date": "19 May 2024",
+            "points": 35
+          },
           {
             "name": "Giro d'Italia - Stage 14 (ITT)",
             "date": "18 May 2024",

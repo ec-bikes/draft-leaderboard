@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 May 2024, 23:10 GMT",
+  "fetchedDate": "19 May 2024, 23:12 GMT",
   "momentId": 0,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 4084,
+    "totalPoints": 4129,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -112,9 +112,14 @@
       {
         "name": "Geraint Thomas",
         "id": 32532,
-        "totalPoints": 323,
+        "totalPoints": 368,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 15",
+            "date": "19 May 2024",
+            "points": 45
+          },
           {
             "name": "Giro d'Italia - Stage 14 (ITT)",
             "date": "18 May 2024",
