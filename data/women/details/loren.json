@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 May 2024, 23:12 GMT",
+  "fetchedDate": "20 May 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 9823,
+    "totalPoints": 9908,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -585,9 +585,14 @@
       {
         "name": "Daria Pikulik",
         "id": 99885,
-        "totalPoints": 626,
+        "totalPoints": 711,
         "sanctions": 0,
         "results": [
+          {
+            "name": "GP Mazda Schelkens",
+            "date": "20 May 2024",
+            "points": 85
+          },
           {
             "name": "Trofee Maarten Wynants",
             "date": "05 May 2024",

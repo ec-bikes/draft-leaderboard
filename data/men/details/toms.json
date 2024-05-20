@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 May 2024, 23:12 GMT",
+  "fetchedDate": "20 May 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 6415,
+    "totalPoints": 6490,
     "riders": [
       {
         "name": "Adam Yates",
@@ -321,9 +321,14 @@
       {
         "name": "Brandon McNulty",
         "id": 150923,
-        "totalPoints": 1389,
+        "totalPoints": 1464,
         "sanctions": 0,
         "results": [
+          {
+            "name": "National Championships United States ME - Road Race",
+            "date": "19 May 2024",
+            "points": 75
+          },
           {
             "name": "National Championships United States ME - ITT",
             "date": "15 May 2024",

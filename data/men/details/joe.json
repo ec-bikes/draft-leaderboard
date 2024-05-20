@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 May 2024, 23:12 GMT",
+  "fetchedDate": "20 May 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 7920,
+    "totalPoints": 8045,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -445,9 +445,14 @@
       {
         "name": "Dylan Groenewegen",
         "id": 72932,
-        "totalPoints": 652,
+        "totalPoints": 777,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Ronde van Limburg",
+            "date": "20 May 2024",
+            "points": 125
+          },
           {
             "name": "Veenendaal-Veenendaal",
             "date": "18 May 2024",
