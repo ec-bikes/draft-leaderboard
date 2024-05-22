@@ -1,19 +1,29 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 May 2024, 23:12 GMT",
+  "fetchedDate": "22 May 2024, 23:13 GMT",
   "momentId": 0,
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 7289,
+    "totalPoints": 7439,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
-        "totalPoints": 3825,
+        "totalPoints": 3975,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 17",
+            "date": "22 May 2024",
+            "points": 130
+          },
+          {
+            "name": "Giro d'Italia - Stage 17 - Bonus",
+            "date": "22 May 2024",
+            "points": 20
+          },
           {
             "name": "Giro d'Italia - Stage 16",
             "date": "21 May 2024",

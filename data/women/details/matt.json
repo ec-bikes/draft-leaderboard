@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 May 2024, 23:12 GMT",
+  "fetchedDate": "22 May 2024, 23:12 GMT",
   "momentId": 0,
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 5668,
+    "totalPoints": 5653,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -391,7 +391,7 @@
       {
         "name": "Ruby Roseman-Gannon",
         "id": 111383,
-        "totalPoints": 235,
+        "totalPoints": 220,
         "sanctions": 0,
         "results": [
           {
@@ -403,11 +403,6 @@
             "name": "Vuelta a Burgos Feminas - Stage 1",
             "date": "16 May 2024",
             "points": 20
-          },
-          {
-            "name": "Vuelta a Burgos Feminas - Stage 1 - Bonus",
-            "date": "16 May 2024",
-            "points": 15
           },
           {
             "name": "Danilith Nokere Koerse Women",

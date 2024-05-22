@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 May 2024, 23:12 GMT",
+  "fetchedDate": "22 May 2024, 23:12 GMT",
   "momentId": 0,
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 9908,
+    "totalPoints": 9927,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -258,9 +258,19 @@
       {
         "name": "Grace Brown",
         "id": 143292,
-        "totalPoints": 739,
+        "totalPoints": 758,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Bretagne Ladies Tour - Stage 1",
+            "date": "22 May 2024",
+            "points": 16
+          },
+          {
+            "name": "Bretagne Ladies Tour - Stage 1 - Bonus",
+            "date": "22 May 2024",
+            "points": 3
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
             "date": "05 May 2024",

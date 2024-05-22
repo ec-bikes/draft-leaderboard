@@ -1,17 +1,17 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 May 2024, 23:12 GMT",
+  "fetchedDate": "22 May 2024, 23:12 GMT",
   "momentId": 0,
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 6306,
+    "totalPoints": 6276,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
-        "totalPoints": 2065,
+        "totalPoints": 2035,
         "sanctions": 0,
         "results": [
           {
@@ -26,11 +26,6 @@
           },
           {
             "name": "Vuelta a Burgos Feminas - Stage 1",
-            "date": "16 May 2024",
-            "points": 30
-          },
-          {
-            "name": "Vuelta a Burgos Feminas - Stage 1 - Bonus",
             "date": "16 May 2024",
             "points": 30
           },
