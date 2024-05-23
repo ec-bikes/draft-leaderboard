@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "22 May 2024, 23:13 GMT",
+  "fetchedDate": "23 May 2024, 23:12 GMT",
   "momentId": 0,
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 7962,
+    "totalPoints": 8092,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -278,9 +278,14 @@
       {
         "name": "Jonathan Milan",
         "id": 301151,
-        "totalPoints": 1423,
+        "totalPoints": 1553,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 18",
+            "date": "23 May 2024",
+            "points": 130
+          },
           {
             "name": "Giro d'Italia - Stage 13",
             "date": "17 May 2024",
