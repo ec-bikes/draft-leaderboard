@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 May 2024, 23:11 GMT",
+  "fetchedDate": "24 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 8819,
+    "totalPoints": 8839,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -300,9 +300,14 @@
       {
         "name": "Charlotte Kool",
         "id": 157612,
-        "totalPoints": 762,
+        "totalPoints": 782,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Ford RideLondon Classique - Stage 1",
+            "date": "24 May 2024",
+            "points": 20
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 3",
             "date": "30 Apr 2024",

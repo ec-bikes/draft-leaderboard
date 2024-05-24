@@ -1,19 +1,29 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 May 2024, 23:11 GMT",
+  "fetchedDate": "24 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 6276,
+    "totalPoints": 6334,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
-        "totalPoints": 2035,
+        "totalPoints": 2093,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Ford RideLondon Classique - Stage 1",
+            "date": "24 May 2024",
+            "points": 50
+          },
+          {
+            "name": "Ford RideLondon Classique - Stage 1 - Bonus",
+            "date": "24 May 2024",
+            "points": 8
+          },
           {
             "name": "Vuelta a Burgos Feminas - General classification",
             "date": "19 May 2024",

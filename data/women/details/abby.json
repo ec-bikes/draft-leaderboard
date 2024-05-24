@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 May 2024, 23:11 GMT",
+  "fetchedDate": "24 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 8313,
+    "totalPoints": 8319,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -640,9 +640,14 @@
       {
         "name": "Soraya Paladin",
         "id": 75244,
-        "totalPoints": 540,
+        "totalPoints": 546,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Ford RideLondon Classique - Stage 1",
+            "date": "24 May 2024",
+            "points": 6
+          },
           {
             "name": "Vuelta a Burgos Feminas - General classification",
             "date": "19 May 2024",

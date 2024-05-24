@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 May 2024, 23:11 GMT",
+  "fetchedDate": "24 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 9930,
+    "totalPoints": 10071,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -258,9 +258,19 @@
       {
         "name": "Grace Brown",
         "id": 143292,
-        "totalPoints": 761,
+        "totalPoints": 902,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Bretagne Ladies Tour - General classification",
+            "date": "24 May 2024",
+            "points": 125
+          },
+          {
+            "name": "Bretagne Ladies Tour - Stage 3",
+            "date": "24 May 2024",
+            "points": 16
+          },
           {
             "name": "Bretagne Ladies Tour - Stage 2 - Bonus",
             "date": "23 May 2024",

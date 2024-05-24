@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 May 2024, 23:12 GMT",
+  "fetchedDate": "24 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 8092,
+    "totalPoints": 8172,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -439,9 +439,14 @@
       {
         "name": "Jhonatan Narváez",
         "id": 96372,
-        "totalPoints": 1282,
+        "totalPoints": 1362,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 19",
+            "date": "24 May 2024",
+            "points": 80
+          },
           {
             "name": "Giro d'Italia - Stage 12",
             "date": "16 May 2024",

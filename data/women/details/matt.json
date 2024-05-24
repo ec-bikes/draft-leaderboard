@@ -1,19 +1,24 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 May 2024, 23:11 GMT",
+  "fetchedDate": "24 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 5653,
+    "totalPoints": 5668,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
-        "totalPoints": 2494,
+        "totalPoints": 2509,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Ford RideLondon Classique - Stage 1",
+            "date": "24 May 2024",
+            "points": 15
+          },
           {
             "name": "Liège-Bastogne-Liège Femmes",
             "date": "21 Apr 2024",
