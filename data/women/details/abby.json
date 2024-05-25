@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "24 May 2024, 23:10 GMT",
+  "fetchedDate": "25 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 8319,
+    "totalPoints": 8349,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -99,9 +99,14 @@
       {
         "name": "Pfeiffer Georgi",
         "id": 153350,
-        "totalPoints": 922,
+        "totalPoints": 932,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Ford RideLondon Classique - Stage 2",
+            "date": "25 May 2024",
+            "points": 10
+          },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "14 Apr 2024",
@@ -640,9 +645,14 @@
       {
         "name": "Soraya Paladin",
         "id": 75244,
-        "totalPoints": 546,
+        "totalPoints": 566,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Ford RideLondon Classique - Stage 2",
+            "date": "25 May 2024",
+            "points": 20
+          },
           {
             "name": "Ford RideLondon Classique - Stage 1",
             "date": "24 May 2024",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "24 May 2024, 23:10 GMT",
+  "fetchedDate": "25 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 8457,
+    "totalPoints": 8497,
     "riders": [
       {
         "name": "Mads Pedersen",
@@ -545,9 +545,14 @@
       {
         "name": "Ben O'Connor",
         "id": 97805,
-        "totalPoints": 1075,
+        "totalPoints": 1110,
         "sanctions": 15,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 20",
+            "date": "25 May 2024",
+            "points": 35
+          },
           {
             "name": "Giro d'Italia - Stage 17",
             "date": "22 May 2024",
@@ -643,9 +648,14 @@
       {
         "name": "Benoît Cosnefroy",
         "id": 79522,
-        "totalPoints": 1424,
+        "totalPoints": 1429,
         "sanctions": 10,
         "results": [
+          {
+            "name": "Boucles de la Mayenne - Crédit Mutuel - Stage 2",
+            "date": "25 May 2024",
+            "points": 5
+          },
           {
             "name": "Boucles de la Mayenne - Crédit Mutuel - Stage 1 - Bonus",
             "date": "24 May 2024",

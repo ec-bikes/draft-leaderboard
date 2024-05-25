@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "24 May 2024, 23:10 GMT",
+  "fetchedDate": "25 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 5602,
+    "totalPoints": 5604,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -160,9 +160,14 @@
       {
         "name": "Romain Bardet",
         "id": 64917,
-        "totalPoints": 1119,
+        "totalPoints": 1121,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 20",
+            "date": "25 May 2024",
+            "points": 2
+          },
           {
             "name": "Giro d'Italia - Stage 17",
             "date": "22 May 2024",

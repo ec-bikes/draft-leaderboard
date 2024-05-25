@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "24 May 2024, 23:10 GMT",
+  "fetchedDate": "25 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 8839,
+    "totalPoints": 8879,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -300,9 +300,14 @@
       {
         "name": "Charlotte Kool",
         "id": 157612,
-        "totalPoints": 782,
+        "totalPoints": 822,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Ford RideLondon Classique - Stage 2",
+            "date": "25 May 2024",
+            "points": 40
+          },
           {
             "name": "Ford RideLondon Classique - Stage 1",
             "date": "24 May 2024",

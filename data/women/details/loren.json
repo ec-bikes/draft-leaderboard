@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "24 May 2024, 23:10 GMT",
+  "fetchedDate": "25 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Loren Rowney",
@@ -277,12 +277,12 @@
             "points": 3
           },
           {
-            "name": "Bretagne Ladies Tour - Stage 1",
+            "name": "Bretagne Ladies Tour - Stage 1 (ITT)",
             "date": "22 May 2024",
             "points": 16
           },
           {
-            "name": "Bretagne Ladies Tour - Stage 1 - Bonus",
+            "name": "Bretagne Ladies Tour - Stage 1 (ITT) - Bonus",
             "date": "22 May 2024",
             "points": 3
           },

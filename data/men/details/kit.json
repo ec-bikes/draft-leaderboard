@@ -1,19 +1,24 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "24 May 2024, 23:10 GMT",
+  "fetchedDate": "25 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 5729,
+    "totalPoints": 5734,
     "riders": [
       {
         "name": "Wout van Aert",
         "id": 75859,
-        "totalPoints": 790,
+        "totalPoints": 795,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour of Norway - Stage 3",
+            "date": "25 May 2024",
+            "points": 5
+          },
           {
             "name": "E3 Saxo Classic",
             "date": "22 Mar 2024",
