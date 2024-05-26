@@ -1,36 +1,46 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "25 May 2024, 23:10 GMT",
+  "fetchedDate": "26 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 6392,
+    "totalPoints": 6881,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
-        "totalPoints": 2151,
+        "totalPoints": 2601,
         "sanctions": 0,
         "results": [
           {
-            "name": "Ford RideLondon Classique - Stage 2",
+            "name": "RideLondon Classique - General classification",
+            "date": "26 May 2024",
+            "points": 400
+          },
+          {
+            "name": "RideLondon Classique - Stage 3",
+            "date": "26 May 2024",
+            "points": 50
+          },
+          {
+            "name": "RideLondon Classique - Stage 2",
             "date": "25 May 2024",
             "points": 50
           },
           {
-            "name": "Ford RideLondon Classique - Stage 2 - Bonus",
+            "name": "RideLondon Classique - Stage 2 - Bonus",
             "date": "25 May 2024",
             "points": 8
           },
           {
-            "name": "Ford RideLondon Classique - Stage 1",
+            "name": "RideLondon Classique - Stage 1",
             "date": "24 May 2024",
             "points": 50
           },
           {
-            "name": "Ford RideLondon Classique - Stage 1 - Bonus",
+            "name": "RideLondon Classique - Stage 1 - Bonus",
             "date": "24 May 2024",
             "points": 8
           },
@@ -432,9 +442,14 @@
       {
         "name": "Olivia Baril",
         "id": 151523,
-        "totalPoints": 711,
+        "totalPoints": 726,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Gran Premio Ciudad de Eibar",
+            "date": "26 May 2024",
+            "points": 15
+          },
           {
             "name": "Durango - Durango Emakumeen Saria",
             "date": "14 May 2024",
@@ -535,9 +550,14 @@
       {
         "name": "Lizzie Deignan",
         "id": 45988,
-        "totalPoints": 23,
+        "totalPoints": 47,
         "sanctions": 0,
         "results": [
+          {
+            "name": "RideLondon Classique - General classification",
+            "date": "26 May 2024",
+            "points": 24
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
             "date": "28 Apr 2024",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "25 May 2024, 23:10 GMT",
+  "fetchedDate": "26 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 8172,
+    "totalPoints": 8582,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -59,9 +59,14 @@
       {
         "name": "Biniam Girmay",
         "id": 1707195,
-        "totalPoints": 599,
+        "totalPoints": 684,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Rund um Köln",
+            "date": "26 May 2024",
+            "points": 85
+          },
           {
             "name": "Antwerp Port Epic / Sels Trophy",
             "date": "19 May 2024",
@@ -278,9 +283,19 @@
       {
         "name": "Jonathan Milan",
         "id": 301151,
-        "totalPoints": 1553,
-        "sanctions": 0,
+        "totalPoints": 1848,
+        "sanctions": 15,
         "results": [
+          {
+            "name": "Giro d'Italia - Points classification",
+            "date": "26 May 2024",
+            "points": 180
+          },
+          {
+            "name": "Giro d'Italia - Stage 21",
+            "date": "26 May 2024",
+            "points": 130
+          },
           {
             "name": "Giro d'Italia - Stage 18",
             "date": "23 May 2024",
@@ -439,9 +454,14 @@
       {
         "name": "Jhonatan Narváez",
         "id": 96372,
-        "totalPoints": 1362,
+        "totalPoints": 1392,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia - General classification",
+            "date": "26 May 2024",
+            "points": 30
+          },
           {
             "name": "Giro d'Italia - Stage 19",
             "date": "24 May 2024",

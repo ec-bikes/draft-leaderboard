@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "25 May 2024, 23:10 GMT",
+  "fetchedDate": "26 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 8879,
+    "totalPoints": 9295,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -300,16 +300,26 @@
       {
         "name": "Charlotte Kool",
         "id": 157612,
-        "totalPoints": 822,
+        "totalPoints": 1182,
         "sanctions": 0,
         "results": [
           {
-            "name": "Ford RideLondon Classique - Stage 2",
+            "name": "RideLondon Classique - General classification",
+            "date": "26 May 2024",
+            "points": 320
+          },
+          {
+            "name": "RideLondon Classique - Stage 3",
+            "date": "26 May 2024",
+            "points": 40
+          },
+          {
+            "name": "RideLondon Classique - Stage 2",
             "date": "25 May 2024",
             "points": 40
           },
           {
-            "name": "Ford RideLondon Classique - Stage 1",
+            "name": "RideLondon Classique - Stage 1",
             "date": "24 May 2024",
             "points": 20
           },
@@ -552,9 +562,14 @@
       {
         "name": "Marta Lach",
         "id": 96399,
-        "totalPoints": 397,
+        "totalPoints": 453,
         "sanctions": 0,
         "results": [
+          {
+            "name": "RideLondon Classique - General classification",
+            "date": "26 May 2024",
+            "points": 56
+          },
           {
             "name": "Grand Prix du Morbihan Femmes",
             "date": "04 May 2024",

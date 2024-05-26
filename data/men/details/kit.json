@@ -1,19 +1,24 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "25 May 2024, 23:10 GMT",
+  "fetchedDate": "26 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 5734,
+    "totalPoints": 5769,
     "riders": [
       {
         "name": "Wout van Aert",
         "id": 75859,
-        "totalPoints": 795,
+        "totalPoints": 805,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour of Norway - Stage 4",
+            "date": "26 May 2024",
+            "points": 10
+          },
           {
             "name": "Tour of Norway - Stage 3",
             "date": "25 May 2024",
@@ -568,9 +573,14 @@
       {
         "name": "Esteban Chaves",
         "id": 75873,
-        "totalPoints": 138,
+        "totalPoints": 163,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia - General classification",
+            "date": "26 May 2024",
+            "points": 25
+          },
           {
             "name": "Giro d'Italia - Stage 10",
             "date": "14 May 2024",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "25 May 2024, 23:10 GMT",
+  "fetchedDate": "26 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 10071,
+    "totalPoints": 10091,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -235,9 +235,14 @@
       {
         "name": "Maike van der Duin",
         "id": 226974,
-        "totalPoints": 53,
+        "totalPoints": 73,
         "sanctions": 0,
         "results": [
+          {
+            "name": "RideLondon Classique - Stage 3",
+            "date": "26 May 2024",
+            "points": 20
+          },
           {
             "name": "Vuelta a Burgos Feminas - Stage 3",
             "date": "18 May 2024",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "25 May 2024, 23:10 GMT",
+  "fetchedDate": "26 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 4266,
+    "totalPoints": 5086,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -112,9 +112,14 @@
       {
         "name": "Geraint Thomas",
         "id": 32532,
-        "totalPoints": 490,
+        "totalPoints": 1240,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia - General classification",
+            "date": "26 May 2024",
+            "points": 750
+          },
           {
             "name": "Giro d'Italia - Stage 20",
             "date": "25 May 2024",
@@ -225,9 +230,14 @@
       {
         "name": "Marc Hirschi",
         "id": 111440,
-        "totalPoints": 1050,
+        "totalPoints": 1120,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Boucles de la Mayenne - Crédit Mutuel - General classification",
+            "date": "26 May 2024",
+            "points": 70
+          },
           {
             "name": "Boucles de la Mayenne - Crédit Mutuel - Stage 2",
             "date": "25 May 2024",

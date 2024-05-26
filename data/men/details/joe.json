@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "25 May 2024, 23:10 GMT",
+  "fetchedDate": "26 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 8230,
+    "totalPoints": 8525,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -213,9 +213,19 @@
       {
         "name": "Tim Merlier",
         "id": 70962,
-        "totalPoints": 1457,
+        "totalPoints": 1732,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia - Points classification",
+            "date": "26 May 2024",
+            "points": 95
+          },
+          {
+            "name": "Giro d'Italia - Stage 21",
+            "date": "26 May 2024",
+            "points": 180
+          },
           {
             "name": "Giro d'Italia - Stage 18",
             "date": "23 May 2024",
@@ -316,9 +326,14 @@
       {
         "name": "Julian Alaphilippe",
         "id": 71557,
-        "totalPoints": 755,
+        "totalPoints": 775,
         "sanctions": 25,
         "results": [
+          {
+            "name": "Giro d'Italia - General classification",
+            "date": "26 May 2024",
+            "points": 20
+          },
           {
             "name": "Giro d'Italia - Stage 19",
             "date": "24 May 2024",

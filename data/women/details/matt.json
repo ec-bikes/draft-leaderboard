@@ -1,26 +1,36 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "25 May 2024, 23:10 GMT",
+  "fetchedDate": "26 May 2024, 23:10 GMT",
   "momentId": 0,
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 5698,
+    "totalPoints": 5988,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
-        "totalPoints": 2539,
+        "totalPoints": 2829,
         "sanctions": 0,
         "results": [
           {
-            "name": "Ford RideLondon Classique - Stage 2",
+            "name": "RideLondon Classique - General classification",
+            "date": "26 May 2024",
+            "points": 260
+          },
+          {
+            "name": "RideLondon Classique - Stage 3",
+            "date": "26 May 2024",
+            "points": 30
+          },
+          {
+            "name": "RideLondon Classique - Stage 2",
             "date": "25 May 2024",
             "points": 30
           },
           {
-            "name": "Ford RideLondon Classique - Stage 1",
+            "name": "RideLondon Classique - Stage 1",
             "date": "24 May 2024",
             "points": 15
           },
