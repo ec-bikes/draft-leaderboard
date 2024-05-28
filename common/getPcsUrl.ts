@@ -12,6 +12,8 @@ const nameMappings: Record<string, string> = {
   'Esteban Chaves': 'johan-esteban-chaves',
   'Mattias Skjelmose': 'mattias-skjelmose-jensen',
   'Fred Wright': 'alfred-wright',
+  'Carlos Rodriguez': 'carlos-rodriguez-cano',
+  'Romain Grégoire': 'romain-gregoire1',
 };
 
 /** Get the ProCyclingStats URL for a rider */

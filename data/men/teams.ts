@@ -3,6 +3,8 @@ import type { BaseTeam } from '../../common/types/Team.js';
 /**
  * Team names, owners, and riders.
  * https://escapecollective.com/behold-our-mens-worldtour-draft-2024/
+ *
+ * NOTE: PCS name differences are in `getPcsUrl`.
  */
 export const mensTeams: BaseTeam[] = [
   {

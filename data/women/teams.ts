@@ -3,6 +3,8 @@ import type { BaseTeam } from '../../common/types/Team.js';
 /**
  * Team names, owners, and riders.
  * https://escapecollective.com/the-wheel-talk-podcast-2024-draft/
+ *
+ * NOTE: PCS name differences are in `getPcsUrl`.
  */
 export const womensTeams: BaseTeam[] = [
   {
