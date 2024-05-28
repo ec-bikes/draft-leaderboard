@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "27 May 2024, 23:12 GMT",
+  "fetchedDate": "28 May 2024, 21:07 GMT",
   "momentId": 0,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 5086,
+    "totalPoints": 6033,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -223,9 +223,60 @@
       {
         "name": "Carlos Rodriguez",
         "id": 428096,
-        "totalPoints": 0,
+        "totalPoints": 947,
         "sanctions": 0,
-        "results": []
+        "results": [
+          {
+            "name": "Tour de Romandie - General classification",
+            "date": "28 Apr 2024",
+            "points": 500
+          },
+          {
+            "name": "Tour de Romandie - Stage 4",
+            "date": "27 Apr 2024",
+            "points": 30
+          },
+          {
+            "name": "Tour de Romandie - Stage 4 - Bonus",
+            "date": "27 Apr 2024",
+            "points": 10
+          },
+          {
+            "name": "Tour de Romandie - Stage 3 (ITT)",
+            "date": "26 Apr 2024",
+            "points": 10
+          },
+          {
+            "name": "Itzulia Basque Country - General classification",
+            "date": "06 Apr 2024",
+            "points": 320
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 6",
+            "date": "06 Apr 2024",
+            "points": 50
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 5",
+            "date": "05 Apr 2024",
+            "points": 1
+          },
+          {
+            "name": "Paris - Nice - General classification",
+            "date": "10 Mar 2024",
+            "points": 20
+          },
+          {
+            "name": "Paris - Nice - Stage 3 (TTT)",
+            "date": "05 Mar 2024",
+            "points": 2.86
+          },
+          {
+            "name": "Clásica Jaén",
+            "date": "12 Feb 2024",
+            "points": 3
+          }
+        ]
       },
       {
         "name": "Marc Hirschi",

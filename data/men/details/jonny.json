@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "27 May 2024, 23:12 GMT",
+  "fetchedDate": "28 May 2024, 21:07 GMT",
   "momentId": 0,
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 5839,
+    "totalPoints": 6412,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -485,9 +485,80 @@
       {
         "name": "Romain Grégoire",
         "id": 1759422,
-        "totalPoints": 0,
+        "totalPoints": 573,
         "sanctions": 0,
-        "results": []
+        "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "21 Apr 2024",
+            "points": 30
+          },
+          {
+            "name": "La Flèche Wallonne",
+            "date": "17 Apr 2024",
+            "points": 120
+          },
+          {
+            "name": "Amstel Gold Race",
+            "date": "14 Apr 2024",
+            "points": 60
+          },
+          {
+            "name": "Itzulia Basque Country - General classification",
+            "date": "06 Apr 2024",
+            "points": 8
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 5",
+            "date": "05 Apr 2024",
+            "points": 50
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 3",
+            "date": "03 Apr 2024",
+            "points": 8
+          },
+          {
+            "name": "Tirreno-Adriatico - General classification",
+            "date": "10 Mar 2024",
+            "points": 50
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 5",
+            "date": "08 Mar 2024",
+            "points": 2
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 1 (ITT)",
+            "date": "04 Mar 2024",
+            "points": 2
+          },
+          {
+            "name": "Strade Bianche",
+            "date": "02 Mar 2024",
+            "points": 8
+          },
+          {
+            "name": "Trofeo Laigueglia",
+            "date": "28 Feb 2024",
+            "points": 30
+          },
+          {
+            "name": "Faun-Ardèche Classic",
+            "date": "24 Feb 2024",
+            "points": 150
+          },
+          {
+            "name": "Tour des Alpes-Maritimes - General classification",
+            "date": "18 Feb 2024",
+            "points": 35
+          },
+          {
+            "name": "Classic Var",
+            "date": "16 Feb 2024",
+            "points": 20
+          }
+        ]
       },
       {
         "name": "Jack Haig",
