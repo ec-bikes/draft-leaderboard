@@ -1,1 +1,1 @@
-Rankings site for the Escape Collective podcast draft teams
+Unofficial rankings site for the Escape Collective podcast draft teams
