@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "28 May 2024, 23:12 GMT",
+  "fetchedDate": "29 May 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 8959,
+    "totalPoints": 9124,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -322,9 +322,14 @@
       {
         "name": "Lenny Martinez",
         "id": 1843476,
-        "totalPoints": 1051,
+        "totalPoints": 1176,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Mercan'Tour Classic Alpes-Maritimes",
+            "date": "29 May 2024",
+            "points": 125
+          },
           {
             "name": "Tour de Romandie - General classification",
             "date": "28 Apr 2024",
@@ -552,9 +557,14 @@
       {
         "name": "Guillaume Martin",
         "id": 75170,
-        "totalPoints": 410,
+        "totalPoints": 450,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Mercan'Tour Classic Alpes-Maritimes",
+            "date": "29 May 2024",
+            "points": 40
+          },
           {
             "name": "Tour de Romandie - General classification",
             "date": "28 Apr 2024",

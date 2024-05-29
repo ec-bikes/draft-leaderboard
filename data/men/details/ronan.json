@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "28 May 2024, 23:12 GMT",
+  "fetchedDate": "29 May 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 8582,
+    "totalPoints": 8785,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -59,9 +59,14 @@
       {
         "name": "Biniam Girmay",
         "id": 1707195,
-        "totalPoints": 684,
+        "totalPoints": 884,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Circuit Franco-Belge",
+            "date": "29 May 2024",
+            "points": 200
+          },
           {
             "name": "Rund um Köln",
             "date": "26 May 2024",
@@ -778,9 +783,14 @@
       {
         "name": "Darren Rafferty",
         "id": 171058,
-        "totalPoints": 111,
+        "totalPoints": 114,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Mercan'Tour Classic Alpes-Maritimes",
+            "date": "29 May 2024",
+            "points": 3
+          },
           {
             "name": "Eschborn-Frankfurt",
             "date": "01 May 2024",

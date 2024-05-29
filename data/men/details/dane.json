@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "28 May 2024, 23:12 GMT",
+  "fetchedDate": "29 May 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 6033,
+    "totalPoints": 6158,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -281,9 +281,14 @@
       {
         "name": "Marc Hirschi",
         "id": 111440,
-        "totalPoints": 1120,
+        "totalPoints": 1245,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Circuit Franco-Belge",
+            "date": "29 May 2024",
+            "points": 125
+          },
           {
             "name": "Boucles de la Mayenne - Crédit Mutuel - General classification",
             "date": "26 May 2024",

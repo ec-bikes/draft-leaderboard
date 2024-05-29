@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "28 May 2024, 23:12 GMT",
+  "fetchedDate": "29 May 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 6412,
+    "totalPoints": 6420,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -112,9 +112,14 @@
       {
         "name": "David Gaudu",
         "id": 112351,
-        "totalPoints": 358,
+        "totalPoints": 361,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Mercan'Tour Classic Alpes-Maritimes",
+            "date": "29 May 2024",
+            "points": 3
+          },
           {
             "name": "Tour de Romandie - General classification",
             "date": "28 Apr 2024",
@@ -286,9 +291,14 @@
       {
         "name": "Yves Lampaert",
         "id": 86228,
-        "totalPoints": 147,
+        "totalPoints": 152,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Circuit Franco-Belge",
+            "date": "29 May 2024",
+            "points": 5
+          },
           {
             "name": "Eschborn-Frankfurt",
             "date": "01 May 2024",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "28 May 2024, 23:11 GMT",
+  "fetchedDate": "29 May 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 9295,
+    "totalPoints": 9303,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -504,9 +504,14 @@
       {
         "name": "Ella Wyllie",
         "id": 220428,
-        "totalPoints": 476,
+        "totalPoints": 484,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta Ciclista Andalucia Elite women - Stage 1",
+            "date": "29 May 2024",
+            "points": 8
+          },
           {
             "name": "Vuelta a Burgos Feminas - General classification",
             "date": "19 May 2024",

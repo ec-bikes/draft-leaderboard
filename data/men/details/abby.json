@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "28 May 2024, 23:12 GMT",
+  "fetchedDate": "29 May 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 9472,
+    "totalPoints": 9507,
     "riders": [
       {
         "name": "Mads Pedersen",
@@ -273,9 +273,14 @@
       {
         "name": "Kaden Groves",
         "id": 111683,
-        "totalPoints": 591,
+        "totalPoints": 626,
         "sanctions": 50,
         "results": [
+          {
+            "name": "Circuit Franco-Belge",
+            "date": "29 May 2024",
+            "points": 35
+          },
           {
             "name": "Giro d'Italia - Points classification",
             "date": "26 May 2024",
