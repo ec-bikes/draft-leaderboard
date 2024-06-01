@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "31 May 2024, 23:11 GMT",
+  "fetchedDate": "1 Jun 2024, 23:12 GMT",
   "momentId": 0,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 5769,
+    "totalPoints": 5794,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -427,9 +427,14 @@
       {
         "name": "Gerben Thijssen",
         "id": 107713,
-        "totalPoints": 553,
+        "totalPoints": 578,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Heylen Vastgoed Heistse Pijl",
+            "date": "01 Jun 2024",
+            "points": 25
+          },
           {
             "name": "Ronde van Limburg",
             "date": "20 May 2024",

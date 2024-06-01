@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "31 May 2024, 23:11 GMT",
+  "fetchedDate": "1 Jun 2024, 23:12 GMT",
   "momentId": 0,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 6670,
+    "totalPoints": 6770,
     "riders": [
       {
         "name": "Adam Yates",
@@ -630,9 +630,14 @@
       {
         "name": "Jordi Meeus",
         "id": 148901,
-        "totalPoints": 650,
+        "totalPoints": 665,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Heylen Vastgoed Heistse Pijl",
+            "date": "01 Jun 2024",
+            "points": 15
+          },
           {
             "name": "Tour of Norway - Stage 4",
             "date": "26 May 2024",
@@ -678,9 +683,14 @@
       {
         "name": "Casper van Uden",
         "id": 226805,
-        "totalPoints": 207,
+        "totalPoints": 292,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Heylen Vastgoed Heistse Pijl",
+            "date": "01 Jun 2024",
+            "points": 85
+          },
           {
             "name": "Rund um Köln",
             "date": "26 May 2024",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "31 May 2024, 23:10 GMT",
+  "fetchedDate": "1 Jun 2024, 23:12 GMT",
   "momentId": 0,
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 8503,
+    "totalPoints": 8522,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -333,9 +333,19 @@
       {
         "name": "Arlenis Sierra",
         "id": 71998,
-        "totalPoints": 826,
+        "totalPoints": 845,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta Ciclista Andalucia Elite women - General classification",
+            "date": "01 Jun 2024",
+            "points": 3
+          },
+          {
+            "name": "Vuelta Ciclista Andalucia Elite women - Stage 4",
+            "date": "01 Jun 2024",
+            "points": 16
+          },
           {
             "name": "Vuelta Ciclista Andalucia Elite women - Stage 3",
             "date": "31 May 2024",

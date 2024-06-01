@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "31 May 2024, 23:10 GMT",
+  "fetchedDate": "1 Jun 2024, 23:12 GMT",
   "momentId": 0,
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 6927,
+    "totalPoints": 7052,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -190,9 +190,14 @@
       {
         "name": "Mavi Garcia",
         "id": 398547,
-        "totalPoints": 868,
+        "totalPoints": 993,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Vuelta Ciclista Andalucia Elite women - General classification",
+            "date": "01 Jun 2024",
+            "points": 125
+          },
           {
             "name": "Vuelta Ciclista Andalucia Elite women - Stage 3",
             "date": "31 May 2024",
