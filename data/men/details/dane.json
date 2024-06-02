@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 Jun 2024, 23:12 GMT",
+  "fetchedDate": "2 Jun 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 6158,
+    "totalPoints": 6161,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -281,9 +281,14 @@
       {
         "name": "Marc Hirschi",
         "id": 111440,
-        "totalPoints": 1245,
+        "totalPoints": 1248,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Brussels Cycling Classic",
+            "date": "02 Jun 2024",
+            "points": 3
+          },
           {
             "name": "Circuit Franco-Belge",
             "date": "29 May 2024",

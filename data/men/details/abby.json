@@ -1,19 +1,29 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 Jun 2024, 23:12 GMT",
+  "fetchedDate": "2 Jun 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 9507,
+    "totalPoints": 9702,
     "riders": [
       {
         "name": "Mads Pedersen",
         "id": 86895,
-        "totalPoints": 1955,
+        "totalPoints": 2025,
         "sanctions": 10,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - Stage 1",
+            "date": "02 Jun 2024",
+            "points": 60
+          },
+          {
+            "name": "Critérium du Dauphiné - Stage 1 - Bonus",
+            "date": "02 Jun 2024",
+            "points": 10
+          },
           {
             "name": "Paris-Roubaix",
             "date": "07 Apr 2024",
@@ -273,9 +283,14 @@
       {
         "name": "Kaden Groves",
         "id": 111683,
-        "totalPoints": 626,
+        "totalPoints": 751,
         "sanctions": 50,
         "results": [
+          {
+            "name": "Brussels Cycling Classic",
+            "date": "02 Jun 2024",
+            "points": 125
+          },
           {
             "name": "Circuit Franco-Belge",
             "date": "29 May 2024",

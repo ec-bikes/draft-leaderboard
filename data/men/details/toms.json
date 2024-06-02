@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 Jun 2024, 23:12 GMT",
+  "fetchedDate": "2 Jun 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 6770,
+    "totalPoints": 6805,
     "riders": [
       {
         "name": "Adam Yates",
@@ -630,9 +630,14 @@
       {
         "name": "Jordi Meeus",
         "id": 148901,
-        "totalPoints": 665,
+        "totalPoints": 675,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Brussels Cycling Classic",
+            "date": "02 Jun 2024",
+            "points": 10
+          },
           {
             "name": "Heylen Vastgoed Heistse Pijl",
             "date": "01 Jun 2024",
@@ -683,9 +688,14 @@
       {
         "name": "Casper van Uden",
         "id": 226805,
-        "totalPoints": 292,
+        "totalPoints": 317,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Brussels Cycling Classic",
+            "date": "02 Jun 2024",
+            "points": 25
+          },
           {
             "name": "Heylen Vastgoed Heistse Pijl",
             "date": "01 Jun 2024",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 Jun 2024, 23:12 GMT",
+  "fetchedDate": "2 Jun 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 6420,
+    "totalPoints": 6433,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -291,9 +291,14 @@
       {
         "name": "Yves Lampaert",
         "id": 86228,
-        "totalPoints": 152,
+        "totalPoints": 157,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Brussels Cycling Classic",
+            "date": "02 Jun 2024",
+            "points": 5
+          },
           {
             "name": "Circuit Franco-Belge",
             "date": "29 May 2024",
@@ -364,9 +369,14 @@
       {
         "name": "Fred Wright",
         "id": 153275,
-        "totalPoints": 219,
+        "totalPoints": 227,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - Stage 1",
+            "date": "02 Jun 2024",
+            "points": 8
+          },
           {
             "name": "Amstel Gold Race",
             "date": "14 Apr 2024",

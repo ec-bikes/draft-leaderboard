@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 Jun 2024, 23:12 GMT",
+  "fetchedDate": "2 Jun 2024, 23:11 GMT",
   "momentId": 0,
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 8785,
+    "totalPoints": 8975,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -59,9 +59,14 @@
       {
         "name": "Biniam Girmay",
         "id": 1707195,
-        "totalPoints": 884,
+        "totalPoints": 1034,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Brussels Cycling Classic",
+            "date": "02 Jun 2024",
+            "points": 150
+          },
           {
             "name": "Circuit Franco-Belge",
             "date": "29 May 2024",
@@ -552,9 +557,14 @@
       {
         "name": "Sam Bennett",
         "id": 65995,
-        "totalPoints": 469,
+        "totalPoints": 509,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - Stage 1",
+            "date": "02 Jun 2024",
+            "points": 40
+          },
           {
             "name": "4 Jours de Dunkerque / Grand Prix des Hauts de France - General classification",
             "date": "19 May 2024",
