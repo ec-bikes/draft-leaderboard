@@ -18,16 +18,6 @@ export async function getRankingMetadata(params: {
   // Get the fetch date with hour and minute in UTC time
   const fetchedDate = formatDateTime(new Date());
 
-  if (source === 'pcs') {
-    return {
-      source,
-      schemaVersion,
-      fetchedDate,
-      momentId: 0,
-      rankingDateShort: formatNumericDate(new Date()),
-    };
-  }
-
   const moments = await getUciRankingMoments(group);
   if (typeof moments === 'string') {
     return moments;
@@ -47,16 +37,24 @@ export async function getRankingMetadata(params: {
     );
   }
 
-  // This comes in DD/MM/YYYY format. Convert it to an unambiguous text-based date.
-  const rankingDateParts = moment.Name.split('/').map(Number);
-  const rdate = makeUtcDate(rankingDateParts[2], rankingDateParts[1], rankingDateParts[0]);
+  let rankingDate: string | undefined;
+  let rankingDateShort: string;
+  if (source === 'uci') {
+    // This comes in DD/MM/YYYY format. Convert it to an unambiguous text-based date.
+    const rankingDateParts = moment.Name.split('/').map(Number);
+    const rdate = makeUtcDate(rankingDateParts[2], rankingDateParts[1], rankingDateParts[0]);
+    rankingDate = formatDate(rdate);
+    rankingDateShort = formatNumericDate(rdate);
+  } else {
+    rankingDateShort = formatNumericDate(new Date());
+  }
 
   return {
     source,
     schemaVersion,
     momentId: moment.Id,
-    rankingDate: formatDate(rdate),
-    rankingDateShort: formatNumericDate(rdate),
+    rankingDate,
+    rankingDateShort,
     fetchedDate,
   };
 }

@@ -1,17 +1,16 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 Jun 2024, 23:11 GMT",
-  "momentId": 0,
+  "momentId": 179654,
+  "fetchedDate": "3 Jun 2024, 21:48 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 5794,
+    "totalPoints": 5817,
     "riders": [
       {
         "name": "Wout van Aert",
         "id": 75859,
-        "totalPoints": 805,
         "sanctions": 0,
         "results": [
           {
@@ -54,12 +53,12 @@
             "date": "11 Feb 2024",
             "points": 35
           }
-        ]
+        ],
+        "totalPoints": 805
       },
       {
         "name": "Juan Ayuso",
         "id": 415141,
-        "totalPoints": 1793,
         "sanctions": 8,
         "results": [
           {
@@ -162,12 +161,12 @@
             "date": "12 Feb 2024",
             "points": 3
           }
-        ]
+        ],
+        "totalPoints": 1801
       },
       {
         "name": "Sam Welsford",
         "id": 91180,
-        "totalPoints": 317,
         "sanctions": 0,
         "results": [
           {
@@ -220,12 +219,12 @@
             "date": "16 Jan 2024",
             "points": 10
           }
-        ]
+        ],
+        "totalPoints": 317
       },
       {
         "name": "Filippo Ganna",
         "id": 91640,
-        "totalPoints": 390,
         "sanctions": 0,
         "results": [
           {
@@ -258,12 +257,12 @@
             "date": "28 Jan 2024",
             "points": 5
           }
-        ]
+        ],
+        "totalPoints": 390
       },
       {
         "name": "Pello Bilbao",
         "id": 76092,
-        "totalPoints": 755,
         "sanctions": 0,
         "results": [
           {
@@ -331,12 +330,12 @@
             "date": "03 Feb 2024",
             "points": 5
           }
-        ]
+        ],
+        "totalPoints": 755
       },
       {
         "name": "Alexey Lutsenko",
         "id": 68778,
-        "totalPoints": 421,
         "sanctions": 15,
         "results": [
           {
@@ -399,12 +398,12 @@
             "date": "24 Feb 2024",
             "points": 5
           }
-        ]
+        ],
+        "totalPoints": 436
       },
       {
         "name": "Lennard Kämna",
         "id": 97741,
-        "totalPoints": 159,
         "sanctions": 0,
         "results": [
           {
@@ -422,12 +421,12 @@
             "date": "02 Mar 2024",
             "points": 24
           }
-        ]
+        ],
+        "totalPoints": 159
       },
       {
         "name": "Gerben Thijssen",
         "id": 107713,
-        "totalPoints": 578,
         "sanctions": 0,
         "results": [
           {
@@ -495,12 +494,12 @@
             "date": "25 Jan 2024",
             "points": 3
           }
-        ]
+        ],
+        "totalPoints": 578
       },
       {
         "name": "Wout Poels",
         "id": 1974873,
-        "totalPoints": 413,
         "sanctions": 0,
         "results": [
           {
@@ -573,12 +572,12 @@
             "date": "09 Mar 2024",
             "points": 2
           }
-        ]
+        ],
+        "totalPoints": 413
       },
       {
         "name": "Esteban Chaves",
         "id": 75873,
-        "totalPoints": 163,
         "sanctions": 0,
         "results": [
           {
@@ -631,7 +630,8 @@
             "date": "11 Feb 2024",
             "points": 30
           }
-        ]
+        ],
+        "totalPoints": 163
       }
     ]
   }

@@ -1,19 +1,23 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 Jun 2024, 23:11 GMT",
-  "momentId": 0,
+  "momentId": 179654,
+  "fetchedDate": "3 Jun 2024, 21:48 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 8975,
+    "totalPoints": 9055,
     "riders": [
       {
         "name": "Primož Roglič",
         "id": 88889,
-        "totalPoints": 204,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - Stage 2",
+            "date": "03 Jun 2024",
+            "points": 40
+          },
           {
             "name": "Itzulia Basque Country - Stage 3 - Bonus",
             "date": "03 Apr 2024",
@@ -54,12 +58,12 @@
             "date": "06 Mar 2024",
             "points": 10
           }
-        ]
+        ],
+        "totalPoints": 244
       },
       {
         "name": "Biniam Girmay",
         "id": 1707195,
-        "totalPoints": 1034,
         "sanctions": 0,
         "results": [
           {
@@ -152,12 +156,12 @@
             "date": "16 Jan 2024",
             "points": 30
           }
-        ]
+        ],
+        "totalPoints": 1034
       },
       {
         "name": "Tom Pidcock",
         "id": 109775,
-        "totalPoints": 1298,
         "sanctions": 0,
         "results": [
           {
@@ -215,12 +219,12 @@
             "date": "18 Feb 2024",
             "points": 10
           }
-        ]
+        ],
+        "totalPoints": 1298
       },
       {
         "name": "Olav Kooij",
         "id": 227110,
-        "totalPoints": 967,
         "sanctions": 0,
         "results": [
           {
@@ -288,12 +292,12 @@
             "date": "11 Feb 2024",
             "points": 200
           }
-        ]
+        ],
+        "totalPoints": 967
       },
       {
         "name": "Jonathan Milan",
         "id": 301151,
-        "totalPoints": 1848,
         "sanctions": 15,
         "results": [
           {
@@ -396,12 +400,12 @@
             "date": "31 Jan 2024",
             "points": 3
           }
-        ]
+        ],
+        "totalPoints": 1863
       },
       {
         "name": "Richard Carapaz",
         "id": 91656,
-        "totalPoints": 529,
         "sanctions": 0,
         "results": [
           {
@@ -459,12 +463,12 @@
             "date": "01 Feb 2024",
             "points": 50
           }
-        ]
+        ],
+        "totalPoints": 529
       },
       {
         "name": "Jhonatan Narváez",
         "id": 96372,
-        "totalPoints": 1392,
         "sanctions": 0,
         "results": [
           {
@@ -552,12 +556,12 @@
             "date": "16 Jan 2024",
             "points": 20
           }
-        ]
+        ],
+        "totalPoints": 1392
       },
       {
         "name": "Sam Bennett",
         "id": 65995,
-        "totalPoints": 509,
         "sanctions": 0,
         "results": [
           {
@@ -670,12 +674,12 @@
             "date": "11 Feb 2024",
             "points": 5
           }
-        ]
+        ],
+        "totalPoints": 509
       },
       {
         "name": "Isaac del Toro",
         "id": 2002910,
-        "totalPoints": 1080,
         "sanctions": 25,
         "results": [
           {
@@ -788,12 +792,12 @@
             "date": "17 Jan 2024",
             "points": 10
           }
-        ]
+        ],
+        "totalPoints": 1105
       },
       {
         "name": "Darren Rafferty",
         "id": 171058,
-        "totalPoints": 114,
         "sanctions": 0,
         "results": [
           {
@@ -831,7 +835,8 @@
             "date": "22 Feb 2024",
             "points": 5
           }
-        ]
+        ],
+        "totalPoints": 114
       }
     ]
   }

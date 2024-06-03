@@ -1,542 +1,543 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 Jun 2024, 23:11 GMT",
-  "momentId": 0,
+  "momentId": 179654,
+  "rankingDate": "28 May 2024",
+  "fetchedDate": "3 Jun 2024, 21:48 GMT",
   "teams": [
     {
       "owner": "Abby Mickey",
       "name": "Lidl-Trek M&Ms",
-      "totalPoints": 9702,
+      "totalPoints": 9817,
       "riders": [
         {
           "name": "Mads Pedersen",
           "id": 86895,
-          "totalPoints": 2025,
-          "sanctions": 10
+          "sanctions": 10,
+          "totalPoints": 2035
         },
         {
           "name": "Sepp Kuss",
           "id": 88346,
-          "totalPoints": 166,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 166
         },
         {
           "name": "Matteo Jorgenson",
           "id": 159567,
-          "totalPoints": 1117,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 1147
         },
         {
           "name": "Ben Healy",
           "id": 235075,
-          "totalPoints": 291,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 291
         },
         {
           "name": "Kaden Groves",
           "id": 111683,
-          "totalPoints": 751,
-          "sanctions": 50
+          "sanctions": 50,
+          "totalPoints": 801
         },
         {
           "name": "Toms Skujiņš",
           "id": 68892,
-          "totalPoints": 697,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 697
         },
         {
           "name": "Alex Aranburu",
           "id": 422863,
-          "totalPoints": 568,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 568
         },
         {
           "name": "Egan Bernal",
           "id": 95844,
-          "totalPoints": 798,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 798
         },
         {
           "name": "Ben O'Connor",
           "id": 97805,
-          "totalPoints": 1710,
-          "sanctions": 15
+          "sanctions": 15,
+          "totalPoints": 1725
         },
         {
           "name": "Benoît Cosnefroy",
           "id": 79522,
-          "totalPoints": 1579,
-          "sanctions": 10
+          "sanctions": 10,
+          "totalPoints": 1589
         }
       ]
     },
     {
       "owner": "Caley Fretz",
       "name": "Arkéa-Formula 1 Hotels",
-      "totalPoints": 9124,
+      "totalPoints": 9251,
       "riders": [
         {
           "name": "Tadej Pogačar",
           "id": 149727,
-          "totalPoints": 5495,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 5495
         },
         {
           "name": "Neilson Powless",
           "id": 88143,
-          "totalPoints": 92,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 92
         },
         {
           "name": "Matej Mohoric",
           "id": 86863,
-          "totalPoints": 578,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 578
         },
         {
           "name": "Victor Lafay",
           "id": 136296,
-          "totalPoints": 0,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 0
         },
         {
           "name": "Lenny Martinez",
           "id": 1843476,
-          "totalPoints": 1176,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 1176
         },
         {
           "name": "Tiesj Benoot",
           "id": 77502,
-          "totalPoints": 720,
-          "sanctions": 25
+          "sanctions": 25,
+          "totalPoints": 745
         },
         {
           "name": "Josh Tarling",
           "id": 1557793,
-          "totalPoints": 96,
-          "sanctions": 100
+          "sanctions": 100,
+          "totalPoints": 196
         },
         {
           "name": "Enric Mas",
           "id": 109803,
-          "totalPoints": 467,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 467
         },
         {
           "name": "Rui Costa",
           "id": 32596,
-          "totalPoints": 50,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 50
         },
         {
           "name": "Guillaume Martin",
           "id": 75170,
-          "totalPoints": 450,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 452
         }
       ]
     },
     {
       "owner": "Ronan Mc Laughlin",
       "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-      "totalPoints": 8975,
+      "totalPoints": 9055,
       "riders": [
         {
           "name": "Primož Roglič",
           "id": 88889,
-          "totalPoints": 204,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 244
         },
         {
           "name": "Biniam Girmay",
           "id": 1707195,
-          "totalPoints": 1034,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 1034
         },
         {
           "name": "Tom Pidcock",
           "id": 109775,
-          "totalPoints": 1298,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 1298
         },
         {
           "name": "Olav Kooij",
           "id": 227110,
-          "totalPoints": 967,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 967
         },
         {
           "name": "Jonathan Milan",
           "id": 301151,
-          "totalPoints": 1848,
-          "sanctions": 15
+          "sanctions": 15,
+          "totalPoints": 1863
         },
         {
           "name": "Richard Carapaz",
           "id": 91656,
-          "totalPoints": 529,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 529
         },
         {
           "name": "Jhonatan Narváez",
           "id": 96372,
-          "totalPoints": 1392,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 1392
         },
         {
           "name": "Sam Bennett",
           "id": 65995,
-          "totalPoints": 509,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 509
         },
         {
           "name": "Isaac del Toro",
           "id": 2002910,
-          "totalPoints": 1080,
-          "sanctions": 25
+          "sanctions": 25,
+          "totalPoints": 1105
         },
         {
           "name": "Darren Rafferty",
           "id": 171058,
-          "totalPoints": 114,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 114
         }
       ]
     },
     {
       "owner": "Dane Cash",
       "name": "Visma-Lease a Bike-Monster Energy",
-      "totalPoints": 6161,
+      "totalPoints": 6226,
       "riders": [
         {
           "name": "Jonas Vingegaard",
           "id": 112082,
-          "totalPoints": 833,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 833
         },
         {
           "name": "Christophe Laporte",
           "id": 81980,
-          "totalPoints": 293,
-          "sanctions": 25
+          "sanctions": 25,
+          "totalPoints": 318
         },
         {
           "name": "Geraint Thomas",
           "id": 32532,
-          "totalPoints": 1240,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 1240
         },
         {
           "name": "Mikel Landa",
           "id": 68367,
-          "totalPoints": 390,
-          "sanctions": 25
+          "sanctions": 25,
+          "totalPoints": 415
         },
         {
           "name": "Carlos Rodriguez",
           "id": 428096,
-          "totalPoints": 947,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 947
         },
         {
           "name": "Marc Hirschi",
           "id": 111440,
-          "totalPoints": 1248,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 1248
         },
         {
           "name": "Stefan Küng",
           "id": 74994,
-          "totalPoints": 784,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 784
         },
         {
           "name": "Fabio Jakobsen",
           "id": 87061,
-          "totalPoints": 199,
-          "sanctions": 15
+          "sanctions": 15,
+          "totalPoints": 214
         },
         {
           "name": "Arnaud Démare",
           "id": 64670,
-          "totalPoints": 111,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 111
         },
         {
           "name": "Søren Kragh Andersen",
           "id": 79156,
-          "totalPoints": 116,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 116
         }
       ]
     },
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 8525,
+      "totalPoints": 8575,
       "riders": [
         {
           "name": "Remco Evenepoel",
           "id": 1596046,
-          "totalPoints": 1029,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 1029
         },
         {
           "name": "Mathieu van der Poel",
           "id": 79462,
-          "totalPoints": 3075,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 3075
         },
         {
           "name": "Tao Geoghegan Hart",
           "id": 86735,
-          "totalPoints": 161,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 161
         },
         {
           "name": "Santiago Buitrago",
           "id": 353375,
-          "totalPoints": 501,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 501
         },
         {
           "name": "Tim Merlier",
           "id": 70962,
-          "totalPoints": 1732,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 1732
         },
         {
           "name": "Julian Alaphilippe",
           "id": 71557,
-          "totalPoints": 775,
-          "sanctions": 25
+          "sanctions": 25,
+          "totalPoints": 800
         },
         {
           "name": "Felix Gall",
           "id": 150925,
-          "totalPoints": 359,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 359
         },
         {
           "name": "Giulio Ciccone",
           "id": 97091,
-          "totalPoints": 15,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 40
         },
         {
           "name": "Dylan Groenewegen",
           "id": 72932,
-          "totalPoints": 777,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 777
         },
         {
           "name": "Andrea Bagioli",
           "id": 157221,
-          "totalPoints": 101,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 101
         }
       ]
     },
     {
       "owner": "Kit Nicholson",
       "name": "Ag2r La Mondiale-Criterion",
-      "totalPoints": 5794,
+      "totalPoints": 5817,
       "riders": [
         {
           "name": "Wout van Aert",
           "id": 75859,
-          "totalPoints": 805,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 805
         },
         {
           "name": "Juan Ayuso",
           "id": 415141,
-          "totalPoints": 1793,
-          "sanctions": 8
+          "sanctions": 8,
+          "totalPoints": 1801
         },
         {
           "name": "Sam Welsford",
           "id": 91180,
-          "totalPoints": 317,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 317
         },
         {
           "name": "Filippo Ganna",
           "id": 91640,
-          "totalPoints": 390,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 390
         },
         {
           "name": "Pello Bilbao",
           "id": 76092,
-          "totalPoints": 755,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 755
         },
         {
           "name": "Alexey Lutsenko",
           "id": 68778,
-          "totalPoints": 421,
-          "sanctions": 15
+          "sanctions": 15,
+          "totalPoints": 436
         },
         {
           "name": "Lennard Kämna",
           "id": 97741,
-          "totalPoints": 159,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 159
         },
         {
           "name": "Gerben Thijssen",
           "id": 107713,
-          "totalPoints": 578,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 578
         },
         {
           "name": "Wout Poels",
           "id": 1974873,
-          "totalPoints": 413,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 413
         },
         {
           "name": "Esteban Chaves",
           "id": 75873,
-          "totalPoints": 163,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 163
         }
       ]
     },
     {
       "owner": "Toms Skujiņš",
       "name": "EF Education-EasyPost p/b Haribo",
-      "totalPoints": 6805,
+      "totalPoints": 6880,
       "riders": [
         {
           "name": "Adam Yates",
           "id": 70590,
-          "totalPoints": 343,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 343
         },
         {
           "name": "Mattias Skjelmose",
           "id": 365033,
-          "totalPoints": 1006,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 1006
         },
         {
           "name": "Valentin Madouas",
           "id": 91637,
-          "totalPoints": 613,
-          "sanctions": 25
+          "sanctions": 25,
+          "totalPoints": 638
         },
         {
           "name": "João Almeida",
           "id": 107840,
-          "totalPoints": 202,
-          "sanctions": 25
+          "sanctions": 25,
+          "totalPoints": 227
         },
         {
           "name": "Kévin Vauquelin",
           "id": 1745291,
-          "totalPoints": 765,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 765
         },
         {
           "name": "Brandon McNulty",
           "id": 150923,
-          "totalPoints": 1464,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 1464
         },
         {
           "name": "Cian Uijtdebroeks",
           "id": 1789559,
-          "totalPoints": 305,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 305
         },
         {
           "name": "Laurence Pithie",
           "id": 221617,
-          "totalPoints": 1115,
-          "sanctions": 25
+          "sanctions": 25,
+          "totalPoints": 1140
         },
         {
           "name": "Jordi Meeus",
           "id": 148901,
-          "totalPoints": 675,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 675
         },
         {
           "name": "Casper van Uden",
           "id": 226805,
-          "totalPoints": 317,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 317
         }
       ]
     },
     {
       "owner": "Jonny Long",
       "name": "Ines Grenadiers-Greenpeace",
-      "totalPoints": 6433,
+      "totalPoints": 6438,
       "riders": [
         {
           "name": "Jasper Philipsen",
           "id": 148275,
-          "totalPoints": 2435,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 2435
         },
         {
           "name": "Simon Yates",
           "id": 1558112,
-          "totalPoints": 391,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 391
         },
         {
           "name": "David Gaudu",
           "id": 112351,
-          "totalPoints": 361,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 361
         },
         {
           "name": "Romain Bardet",
           "id": 64917,
-          "totalPoints": 1356,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 1356
         },
         {
           "name": "Jai Hindley",
           "id": 109829,
-          "totalPoints": 551,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 551
         },
         {
           "name": "Yves Lampaert",
           "id": 86228,
-          "totalPoints": 157,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 157
         },
         {
           "name": "Fred Wright",
           "id": 153275,
-          "totalPoints": 227,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 227
         },
         {
           "name": "Bryan Coquard",
           "id": 68950,
-          "totalPoints": 286,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 286
         },
         {
           "name": "Romain Grégoire",
           "id": 1759422,
-          "totalPoints": 573,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 578
         },
         {
           "name": "Jack Haig",
           "id": 78342,
-          "totalPoints": 96,
-          "sanctions": 0
+          "sanctions": 0,
+          "totalPoints": 96
         }
       ]
     }

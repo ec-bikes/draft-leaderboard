@@ -1,17 +1,16 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 Jun 2024, 23:11 GMT",
-  "momentId": 0,
+  "momentId": 179654,
+  "fetchedDate": "3 Jun 2024, 21:48 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 6161,
+    "totalPoints": 6226,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
-        "totalPoints": 833,
         "sanctions": 0,
         "results": [
           {
@@ -79,12 +78,12 @@
             "date": "23 Feb 2024",
             "points": 3
           }
-        ]
+        ],
+        "totalPoints": 833
       },
       {
         "name": "Christophe Laporte",
         "id": 81980,
-        "totalPoints": 293,
         "sanctions": 25,
         "results": [
           {
@@ -107,12 +106,12 @@
             "date": "24 Feb 2024",
             "points": 120
           }
-        ]
+        ],
+        "totalPoints": 318
       },
       {
         "name": "Geraint Thomas",
         "id": 32532,
-        "totalPoints": 1240,
         "sanctions": 0,
         "results": [
           {
@@ -180,12 +179,12 @@
             "date": "24 Mar 2024",
             "points": 16
           }
-        ]
+        ],
+        "totalPoints": 1240
       },
       {
         "name": "Mikel Landa",
         "id": 68367,
-        "totalPoints": 390,
         "sanctions": 25,
         "results": [
           {
@@ -218,12 +217,12 @@
             "date": "10 Feb 2024",
             "points": 5
           }
-        ]
+        ],
+        "totalPoints": 415
       },
       {
         "name": "Carlos Rodriguez",
         "id": 428096,
-        "totalPoints": 947,
         "sanctions": 0,
         "results": [
           {
@@ -276,12 +275,12 @@
             "date": "12 Feb 2024",
             "points": 3
           }
-        ]
+        ],
+        "totalPoints": 947
       },
       {
         "name": "Marc Hirschi",
         "id": 111440,
-        "totalPoints": 1248,
         "sanctions": 0,
         "results": [
           {
@@ -364,12 +363,12 @@
             "date": "10 Feb 2024",
             "points": 70
           }
-        ]
+        ],
+        "totalPoints": 1248
       },
       {
         "name": "Stefan Küng",
         "id": 74994,
-        "totalPoints": 784,
         "sanctions": 0,
         "results": [
           {
@@ -432,12 +431,12 @@
             "date": "17 Feb 2024",
             "points": 10
           }
-        ]
+        ],
+        "totalPoints": 784
       },
       {
         "name": "Fabio Jakobsen",
         "id": 87061,
-        "totalPoints": 199,
         "sanctions": 15,
         "results": [
           {
@@ -475,12 +474,12 @@
             "date": "19 Feb 2024",
             "points": 15
           }
-        ]
+        ],
+        "totalPoints": 214
       },
       {
         "name": "Arnaud Démare",
         "id": 64670,
-        "totalPoints": 111,
         "sanctions": 0,
         "results": [
           {
@@ -518,12 +517,12 @@
             "date": "28 Jan 2024",
             "points": 50
           }
-        ]
+        ],
+        "totalPoints": 111
       },
       {
         "name": "Søren Kragh Andersen",
         "id": 79156,
-        "totalPoints": 116,
         "sanctions": 0,
         "results": [
           {
@@ -551,7 +550,8 @@
             "date": "16 Mar 2024",
             "points": 15
           }
-        ]
+        ],
+        "totalPoints": 116
       }
     ]
   }

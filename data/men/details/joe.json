@@ -1,17 +1,16 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 Jun 2024, 23:11 GMT",
-  "momentId": 0,
+  "momentId": 179654,
+  "fetchedDate": "3 Jun 2024, 21:48 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 8525,
+    "totalPoints": 8575,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
-        "totalPoints": 1029,
         "sanctions": 0,
         "results": [
           {
@@ -79,12 +78,12 @@
             "date": "10 Feb 2024",
             "points": 200
           }
-        ]
+        ],
+        "totalPoints": 1029
       },
       {
         "name": "Mathieu van der Poel",
         "id": 79462,
-        "totalPoints": 3075,
         "sanctions": 0,
         "results": [
           {
@@ -122,12 +121,12 @@
             "date": "16 Mar 2024",
             "points": 135
           }
-        ]
+        ],
+        "totalPoints": 3075
       },
       {
         "name": "Tao Geoghegan Hart",
         "id": 86735,
-        "totalPoints": 161,
         "sanctions": 0,
         "results": [
           {
@@ -155,12 +154,12 @@
             "date": "18 Feb 2024",
             "points": 25
           }
-        ]
+        ],
+        "totalPoints": 161
       },
       {
         "name": "Santiago Buitrago",
         "id": 353375,
-        "totalPoints": 501,
         "sanctions": 0,
         "results": [
           {
@@ -208,12 +207,12 @@
             "date": "03 Feb 2024",
             "points": 15
           }
-        ]
+        ],
+        "totalPoints": 501
       },
       {
         "name": "Tim Merlier",
         "id": 70962,
-        "totalPoints": 1732,
         "sanctions": 0,
         "results": [
           {
@@ -321,12 +320,12 @@
             "date": "30 Jan 2024",
             "points": 3
           }
-        ]
+        ],
+        "totalPoints": 1732
       },
       {
         "name": "Julian Alaphilippe",
         "id": 71557,
-        "totalPoints": 775,
         "sanctions": 25,
         "results": [
           {
@@ -394,12 +393,12 @@
             "date": "20 Jan 2024",
             "points": 25
           }
-        ]
+        ],
+        "totalPoints": 800
       },
       {
         "name": "Felix Gall",
         "id": 150925,
-        "totalPoints": 359,
         "sanctions": 0,
         "results": [
           {
@@ -447,14 +446,19 @@
             "date": "24 Feb 2024",
             "points": 100
           }
-        ]
+        ],
+        "totalPoints": 359
       },
       {
         "name": "Giulio Ciccone",
         "id": 97091,
-        "totalPoints": 15,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - Stage 2",
+            "date": "03 Jun 2024",
+            "points": 25
+          },
           {
             "name": "Eschborn-Frankfurt",
             "date": "01 May 2024",
@@ -465,12 +469,12 @@
             "date": "28 Apr 2024",
             "points": 10
           }
-        ]
+        ],
+        "totalPoints": 40
       },
       {
         "name": "Dylan Groenewegen",
         "id": 72932,
-        "totalPoints": 777,
         "sanctions": 0,
         "results": [
           {
@@ -538,12 +542,12 @@
             "date": "20 Jan 2024",
             "points": 125
           }
-        ]
+        ],
+        "totalPoints": 777
       },
       {
         "name": "Andrea Bagioli",
         "id": 157221,
-        "totalPoints": 101,
         "sanctions": 0,
         "results": [
           {
@@ -571,7 +575,8 @@
             "date": "10 Feb 2024",
             "points": 5
           }
-        ]
+        ],
+        "totalPoints": 101
       }
     ]
   }
