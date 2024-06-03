@@ -55,6 +55,7 @@ export function getPcsRiderResults(params: {
     // Date: day.month (21.04), date range (08.02 » 11.02) for stage race header,
     // or empty for GC or jersey results
     const rawDateStr = cells[0].textContent.trim();
+    const rank = Number(cells[1].textContent.trim()) || undefined;
     const isStageRaceHeader = isRaceHeader && rawDateStr.includes('»');
     // Take the end date for stage races.
     const dateMatch = rawDateStr.match(/(\d\d)\.(\d\d)$/);
@@ -96,7 +97,7 @@ export function getPcsRiderResults(params: {
 
     if (pointsMatch?.[1]) {
       // Main result
-      results.push({ name, date, points: Number(pointsMatch[1]) });
+      results.push({ name, date, points: Number(pointsMatch[1]), rank });
     }
     if (pointsMatch?.[2]) {
       // No easy way to tell if this is the GC bonus, WWT leader's jersey, or something else

@@ -31,4 +31,5 @@ export interface RaceResult {
   /** Display date e.g. "22 March 2024" */
   date: string;
   points: number;
+  rank?: number;
 }

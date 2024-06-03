@@ -1,3 +1,4 @@
+import React from 'react';
 import {
   Link,
   Stack,
@@ -14,6 +15,9 @@ import type { Group } from '../../common/types/Group';
 import { getUciRiderUrl } from '../../common/uciUrls.js';
 import { getPcsUrl } from '../../common/getPcsUrl.js';
 import { spacing } from '../theme.js';
+import type { RiderDialogProps } from '../RiderDialog/RiderDialog.js';
+
+const LazyRiderDialog = React.lazy(() => import('../RiderDialog/RiderDialog.js'));
 
 // Force points (2) and links (3) to specific widths and prevent wrapping
 const RiderRow = styled(TableRow)({
@@ -26,8 +30,12 @@ export function TeamCardContent(props: {
   rank: number;
   momentId: number;
   group: Group;
+  year: number;
 }) {
-  const { team, rank, momentId, group } = props;
+  const { team, rank, momentId, group, year } = props;
+  const [riderDialogProps, setRiderDialogProps] =
+    React.useState<Omit<RiderDialogProps, 'onClose' | 'group'>>();
+
   const riders = [...team.riders].sort((a, b) => b.totalPoints - a.totalPoints);
 
   // const theme = useTheme();
@@ -73,35 +81,54 @@ export function TeamCardContent(props: {
           </TableRow>
         </TableHead>
         <TableBody>
-          {riders.map((rider) => (
-            <RiderRow key={rider.name}>
-              <TableCell>
-                {
-                  <span style={rider.tradedOut ? { textDecoration: 'line-through' } : {}}>
-                    {rider.name}
-                  </span>
-                }
-                {rider.tradedIn && <Typography variant="tiny"> (trade)</Typography>}
-              </TableCell>
-              <TableCell>{Math.round(rider.totalPoints)}</TableCell>
-              <TableCell>
-                <Typography variant="tiny">
+          {riders.map((rider) => {
+            const uciUrl = getUciRiderUrl({ individualId: rider.id, momentId, group });
+            const pcsUrl = getPcsUrl({ name: rider.name, year });
+            return (
+              <RiderRow key={rider.name}>
+                <TableCell>
+                  {
+                    <span style={rider.tradedOut ? { textDecoration: 'line-through' } : {}}>
+                      {rider.name}
+                    </span>
+                  }
+                  {rider.tradedIn && <Typography variant="tiny"> (trade)</Typography>}
+                </TableCell>
+                <TableCell>
                   <Link
-                    target="_blank"
-                    href={getUciRiderUrl({ individualId: rider.id, momentId, group })}
+                    style={{ cursor: 'pointer' }}
+                    onClick={() =>
+                      setRiderDialogProps({ teamOwner: team.owner, rider, uciUrl, pcsUrl })
+                    }
                   >
-                    UCI
+                    {Math.round(rider.totalPoints)}
                   </Link>
-                  {', '}
-                  <Link target="_blank" href={getPcsUrl({ name: rider.name, year: 2024 })}>
-                    PCS
-                  </Link>
-                </Typography>
-              </TableCell>
-            </RiderRow>
-          ))}
+                </TableCell>
+                <TableCell>
+                  <Typography variant="tiny">
+                    <Link target="_blank" href={uciUrl}>
+                      UCI
+                    </Link>
+                    {', '}
+                    <Link target="_blank" href={pcsUrl}>
+                      PCS
+                    </Link>
+                  </Typography>
+                </TableCell>
+              </RiderRow>
+            );
+          })}
         </TableBody>
       </Table>
+      {riderDialogProps && (
+        <React.Suspense fallback={<></>}>
+          <LazyRiderDialog
+            {...riderDialogProps}
+            group={group}
+            onClose={() => setRiderDialogProps(undefined)}
+          />
+        </React.Suspense>
+      )}
     </Stack>
   );
 }

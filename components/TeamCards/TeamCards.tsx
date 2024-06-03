@@ -4,8 +4,8 @@ import type { Group } from '../../common/types/Group';
 import { spacing } from '../theme.js';
 import type { TeamsSummaryJson } from '../../common/types/TeamJson.js';
 
-export function TeamCards(props: { teamData: TeamsSummaryJson; group: Group }) {
-  const { teamData } = props;
+export function TeamCards(props: { teamData: TeamsSummaryJson; group: Group; year: number }) {
+  const { teamData, ...rest } = props;
   const teams = [...teamData.teams].sort((a, b) => b.totalPoints - a.totalPoints);
 
   return (
@@ -15,12 +15,7 @@ export function TeamCards(props: { teamData: TeamsSummaryJson; group: Group }) {
         <Grid key={team.owner} item xs={12} sm={6} md={4}>
           <Card>
             <CardContent>
-              <TeamCardContent
-                team={team}
-                rank={i + 1}
-                momentId={teamData.momentId}
-                group={props.group}
-              />
+              <TeamCardContent team={team} rank={i + 1} momentId={teamData.momentId} {...rest} />
             </CardContent>
           </Card>
         </Grid>

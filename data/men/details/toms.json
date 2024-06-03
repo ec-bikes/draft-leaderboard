@@ -2,7 +2,7 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179654,
-  "fetchedDate": "3 Jun 2024, 21:48 GMT",
+  "fetchedDate": "3 Jun 2024, 22:52 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
@@ -16,32 +16,38 @@
           {
             "name": "Tour de Romandie - General classification",
             "date": "28 Apr 2024",
-            "points": 50
+            "points": 50,
+            "rank": 13
           },
           {
             "name": "Tour de Romandie - Stage 2",
             "date": "25 Apr 2024",
-            "points": 10
+            "points": 10,
+            "rank": 7
           },
           {
             "name": "Il Giro d'Abruzzo - General classification",
             "date": "12 Apr 2024",
-            "points": 60
+            "points": 60,
+            "rank": 4
           },
           {
             "name": "Il Giro d'Abruzzo - Stage 3",
             "date": "11 Apr 2024",
-            "points": 3
+            "points": 3,
+            "rank": 3
           },
           {
             "name": "Tour of Oman - General classification",
             "date": "14 Feb 2024",
-            "points": 200
+            "points": 200,
+            "rank": 1
           },
           {
             "name": "Tour of Oman - Stage 5",
             "date": "14 Feb 2024",
-            "points": 20
+            "points": 20,
+            "rank": 1
           }
         ],
         "totalPoints": 343
@@ -54,22 +60,26 @@
           {
             "name": "Liège-Bastogne-Liège",
             "date": "21 Apr 2024",
-            "points": 30
+            "points": 30,
+            "rank": 28
           },
           {
             "name": "Amstel Gold Race",
             "date": "14 Apr 2024",
-            "points": 30
+            "points": 30,
+            "rank": 17
           },
           {
             "name": "Itzulia Basque Country - General classification",
             "date": "06 Apr 2024",
-            "points": 260
+            "points": 260,
+            "rank": 3
           },
           {
             "name": "Itzulia Basque Country - Stage 6",
             "date": "06 Apr 2024",
-            "points": 20
+            "points": 20,
+            "rank": 4
           },
           {
             "name": "Itzulia Basque Country - Stage 5 - Bonus",
@@ -79,47 +89,56 @@
           {
             "name": "Itzulia Basque Country - Stage 1 (ITT)",
             "date": "01 Apr 2024",
-            "points": 25
+            "points": 25,
+            "rank": 3
           },
           {
             "name": "Paris - Nice - General classification",
             "date": "10 Mar 2024",
-            "points": 275
+            "points": 275,
+            "rank": 4
           },
           {
             "name": "Paris - Nice - Stage 8",
             "date": "10 Mar 2024",
-            "points": 25
+            "points": 25,
+            "rank": 4
           },
           {
             "name": "Paris - Nice - Stage 7",
             "date": "09 Mar 2024",
-            "points": 25
+            "points": 25,
+            "rank": 4
           },
           {
             "name": "Paris - Nice - Stage 6",
             "date": "08 Mar 2024",
-            "points": 60
+            "points": 60,
+            "rank": 1
           },
           {
             "name": "Paris - Nice - Stage 4",
             "date": "06 Mar 2024",
-            "points": 30
+            "points": 30,
+            "rank": 3
           },
           {
             "name": "Paris - Nice - Stage 1",
             "date": "03 Mar 2024",
-            "points": 8
+            "points": 8,
+            "rank": 8
           },
           {
             "name": "Faun Drôme Classic",
             "date": "25 Feb 2024",
-            "points": 85
+            "points": 85,
+            "rank": 5
           },
           {
             "name": "Faun-Ardèche Classic",
             "date": "24 Feb 2024",
-            "points": 125
+            "points": 125,
+            "rank": 3
           }
         ],
         "totalPoints": 1006
@@ -132,62 +151,74 @@
           {
             "name": "Liège-Bastogne-Liège",
             "date": "21 Apr 2024",
-            "points": 240
+            "points": 240,
+            "rank": 7
           },
           {
             "name": "La Flèche Wallonne",
             "date": "17 Apr 2024",
-            "points": 28
+            "points": 28,
+            "rank": 15
           },
           {
             "name": "Amstel Gold Race",
             "date": "14 Apr 2024",
-            "points": 175
+            "points": 175,
+            "rank": 6
           },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres ME",
             "date": "31 Mar 2024",
-            "points": 50
+            "points": 50,
+            "rank": 16
           },
           {
             "name": "Dwars door Vlaanderen - A travers la Flandre ME",
             "date": "27 Mar 2024",
-            "points": 30
+            "points": 30,
+            "rank": 13
           },
           {
             "name": "E3 Saxo Classic",
             "date": "22 Mar 2024",
-            "points": 8
+            "points": 8,
+            "rank": 43
           },
           {
             "name": "Tirreno-Adriatico - General classification",
             "date": "10 Mar 2024",
-            "points": 20
+            "points": 20,
+            "rank": 30
           },
           {
             "name": "Strade Bianche",
             "date": "02 Mar 2024",
-            "points": 28
+            "points": 28,
+            "rank": 15
           },
           {
             "name": "Faun Drôme Classic",
             "date": "25 Feb 2024",
-            "points": 3
+            "points": 3,
+            "rank": 40
           },
           {
             "name": "Faun-Ardèche Classic",
             "date": "24 Feb 2024",
-            "points": 3
+            "points": 3,
+            "rank": 39
           },
           {
             "name": "Volta ao Algarve em Bicicleta - General classification",
             "date": "18 Feb 2024",
-            "points": 3
+            "points": 3,
+            "rank": 32
           },
           {
             "name": "Vuelta Ciclista a la Region de Murcia \"Costa Calida\"",
             "date": "10 Feb 2024",
-            "points": 50
+            "points": 50,
+            "rank": 5
           }
         ],
         "totalPoints": 638
@@ -200,37 +231,44 @@
           {
             "name": "Liège-Bastogne-Liège",
             "date": "21 Apr 2024",
-            "points": 30
+            "points": 30,
+            "rank": 29
           },
           {
             "name": "Amstel Gold Race",
             "date": "14 Apr 2024",
-            "points": 10
+            "points": 10,
+            "rank": 38
           },
           {
             "name": "Volta Ciclista a Catalunya - General classification",
             "date": "24 Mar 2024",
-            "points": 80
+            "points": 80,
+            "rank": 9
           },
           {
             "name": "Volta Ciclista a Catalunya - Stage 6",
             "date": "23 Mar 2024",
-            "points": 8
+            "points": 8,
+            "rank": 7
           },
           {
             "name": "Volta Ciclista a Catalunya - Stage 2",
             "date": "19 Mar 2024",
-            "points": 20
+            "points": 20,
+            "rank": 4
           },
           {
             "name": "Paris - Nice - General classification",
             "date": "10 Mar 2024",
-            "points": 70
+            "points": 70,
+            "rank": 11
           },
           {
             "name": "Paris - Nice - Stage 3 (TTT)",
             "date": "05 Mar 2024",
-            "points": 8.57
+            "points": 8.57,
+            "rank": 1
           }
         ],
         "totalPoints": 227
@@ -243,77 +281,92 @@
           {
             "name": "La Flèche Wallonne",
             "date": "17 Apr 2024",
-            "points": 320
+            "points": 320,
+            "rank": 2
           },
           {
             "name": "Amstel Gold Race",
             "date": "14 Apr 2024",
-            "points": 10
+            "points": 10,
+            "rank": 41
           },
           {
             "name": "Itzulia Basque Country - General classification",
             "date": "06 Apr 2024",
-            "points": 100
+            "points": 100,
+            "rank": 8
           },
           {
             "name": "Itzulia Basque Country - Stage 3",
             "date": "03 Apr 2024",
-            "points": 6
+            "points": 6,
+            "rank": 8
           },
           {
             "name": "Itzulia Basque Country - Stage 1 (ITT)",
             "date": "01 Apr 2024",
-            "points": 10
+            "points": 10,
+            "rank": 6
           },
           {
             "name": "Tirreno-Adriatico - General classification",
             "date": "10 Mar 2024",
-            "points": 85
+            "points": 85,
+            "rank": 10
           },
           {
             "name": "Tirreno-Adriatico - Stage 5",
             "date": "08 Mar 2024",
-            "points": 5
+            "points": 5,
+            "rank": 9
           },
           {
             "name": "Tirreno-Adriatico - Stage 3",
             "date": "06 Mar 2024",
-            "points": 30
+            "points": 30,
+            "rank": 3
           },
           {
             "name": "Tirreno-Adriatico - Stage 1 (ITT)",
             "date": "04 Mar 2024",
-            "points": 8
+            "points": 8,
+            "rank": 8
           },
           {
             "name": "Strade Bianche",
             "date": "02 Mar 2024",
-            "points": 16
+            "points": 16,
+            "rank": 21
           },
           {
             "name": "Tour des Alpes-Maritimes - General classification",
             "date": "18 Feb 2024",
-            "points": 3
+            "points": 3,
+            "rank": 19
           },
           {
             "name": "Etoile de Bessèges - Tour du Gard - General classification",
             "date": "04 Feb 2024",
-            "points": 85
+            "points": 85,
+            "rank": 2
           },
           {
             "name": "Etoile de Bessèges - Tour du Gard - Stage 5 (ITT)",
             "date": "04 Feb 2024",
-            "points": 14
+            "points": 14,
+            "rank": 1
           },
           {
             "name": "Etoile de Bessèges - Tour du Gard - Stage 2",
             "date": "01 Feb 2024",
-            "points": 3
+            "points": 3,
+            "rank": 3
           },
           {
             "name": "Grand Prix Cycliste de Marseille La Marseillaise",
             "date": "28 Jan 2024",
-            "points": 70
+            "points": 70,
+            "rank": 3
           }
         ],
         "totalPoints": 765
@@ -326,57 +379,68 @@
           {
             "name": "National Championships United States ME - Road Race",
             "date": "19 May 2024",
-            "points": 75
+            "points": 75,
+            "rank": 2
           },
           {
             "name": "National Championships United States ME - ITT",
             "date": "15 May 2024",
-            "points": 50
+            "points": 50,
+            "rank": 1
           },
           {
             "name": "Tour de Romandie - Stage 3 (ITT)",
             "date": "26 Apr 2024",
-            "points": 60
+            "points": 60,
+            "rank": 1
           },
           {
             "name": "Amstel Gold Race",
             "date": "14 Apr 2024",
-            "points": 5
+            "points": 5,
+            "rank": 52
           },
           {
             "name": "Itzulia Basque Country - General classification",
             "date": "06 Apr 2024",
-            "points": 180
+            "points": 180,
+            "rank": 5
           },
           {
             "name": "Itzulia Basque Country - Stage 6",
             "date": "06 Apr 2024",
-            "points": 8
+            "points": 8,
+            "rank": 7
           },
           {
             "name": "Itzulia Basque Country - Stage 2",
             "date": "02 Apr 2024",
-            "points": 3
+            "points": 3,
+            "rank": 9
           },
           {
             "name": "Gran Premio Miguel Indurain",
             "date": "30 Mar 2024",
-            "points": 200
+            "points": 200,
+            "rank": 1
           },
           {
             "name": "Paris - Nice - General classification",
             "date": "10 Mar 2024",
-            "points": 325
+            "points": 325,
+            "rank": 3
           },
           {
             "name": "Paris - Nice - Stage 8",
             "date": "10 Mar 2024",
-            "points": 20
+            "points": 20,
+            "rank": 5
           },
           {
             "name": "Paris - Nice - Stage 7",
             "date": "09 Mar 2024",
-            "points": 10
+            "points": 10,
+            "rank": 7
           },
           {
             "name": "Paris - Nice - Stage 7 - Bonus",
@@ -386,7 +450,8 @@
           {
             "name": "Paris - Nice - Stage 6",
             "date": "08 Mar 2024",
-            "points": 40
+            "points": 40,
+            "rank": 2
           },
           {
             "name": "Paris - Nice - Stage 6 - Bonus",
@@ -396,12 +461,14 @@
           {
             "name": "Paris - Nice - Stage 4",
             "date": "06 Mar 2024",
-            "points": 2
+            "points": 2,
+            "rank": 10
           },
           {
             "name": "Paris - Nice - Stage 3 (TTT)",
             "date": "05 Mar 2024",
-            "points": 8.57
+            "points": 8.57,
+            "rank": 1
           },
           {
             "name": "Paris - Nice - Stage 3 (TTT) - Bonus",
@@ -411,12 +478,14 @@
           {
             "name": "UAE Tour - General classification",
             "date": "25 Feb 2024",
-            "points": 1
+            "points": 1,
+            "rank": 57
           },
           {
             "name": "UAE Tour - Stage 2 (ITT)",
             "date": "20 Feb 2024",
-            "points": 40
+            "points": 40,
+            "rank": 1
           },
           {
             "name": "UAE Tour - Stage 2 (ITT) - Bonus",
@@ -426,12 +495,14 @@
           {
             "name": "Volta a la Comunitat Valenciana - General classification",
             "date": "04 Feb 2024",
-            "points": 200
+            "points": 200,
+            "rank": 1
           },
           {
             "name": "Volta a la Comunitat Valenciana - Stage 4",
             "date": "03 Feb 2024",
-            "points": 20
+            "points": 20,
+            "rank": 1
           },
           {
             "name": "Volta a la Comunitat Valenciana - Stage 4 - Bonus",
@@ -441,17 +512,20 @@
           {
             "name": "Trofeo Pollença - Port d'Andratx",
             "date": "27 Jan 2024",
-            "points": 35
+            "points": 35,
+            "rank": 7
           },
           {
             "name": "Trofeo Serra Tramuntana",
             "date": "26 Jan 2024",
-            "points": 70
+            "points": 70,
+            "rank": 3
           },
           {
             "name": "Trofeo Calvià",
             "date": "24 Jan 2024",
-            "points": 70
+            "points": 70,
+            "rank": 3
           }
         ],
         "totalPoints": 1464
@@ -464,37 +538,44 @@
           {
             "name": "Giro d'Italia - Stage 8",
             "date": "11 May 2024",
-            "points": 40
+            "points": 40,
+            "rank": 7
           },
           {
             "name": "Giro d'Italia - Stage 2",
             "date": "05 May 2024",
-            "points": 40
+            "points": 40,
+            "rank": 7
           },
           {
             "name": "Giro d'Italia - Stage 1",
             "date": "04 May 2024",
-            "points": 5
+            "points": 5,
+            "rank": 14
           },
           {
             "name": "Tirreno-Adriatico - General classification",
             "date": "10 Mar 2024",
-            "points": 150
+            "points": 150,
+            "rank": 7
           },
           {
             "name": "Tirreno-Adriatico - Stage 6",
             "date": "09 Mar 2024",
-            "points": 5
+            "points": 5,
+            "rank": 9
           },
           {
             "name": "Tirreno-Adriatico - Stage 5",
             "date": "08 Mar 2024",
-            "points": 15
+            "points": 15,
+            "rank": 6
           },
           {
             "name": "O Gran Camiño - The Historical Route - General classification",
             "date": "25 Feb 2024",
-            "points": 50
+            "points": 50,
+            "rank": 5
           }
         ],
         "totalPoints": 305
@@ -507,62 +588,74 @@
           {
             "name": "Giro d'Italia - Stage 21",
             "date": "26 May 2024",
-            "points": 10
+            "points": 10,
+            "rank": 13
           },
           {
             "name": "Giro d'Italia - Stage 18",
             "date": "23 May 2024",
-            "points": 10
+            "points": 10,
+            "rank": 13
           },
           {
             "name": "Giro d'Italia - Stage 13",
             "date": "17 May 2024",
-            "points": 35
+            "points": 35,
+            "rank": 8
           },
           {
             "name": "Giro d'Italia - Stage 11",
             "date": "15 May 2024",
-            "points": 80
+            "points": 80,
+            "rank": 4
           },
           {
             "name": "Giro d'Italia - Stage 4",
             "date": "07 May 2024",
-            "points": 20
+            "points": 20,
+            "rank": 11
           },
           {
             "name": "Paris-Roubaix",
             "date": "07 Apr 2024",
-            "points": 240
+            "points": 240,
+            "rank": 7
           },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres ME",
             "date": "31 Mar 2024",
-            "points": 15
+            "points": 15,
+            "rank": 39
           },
           {
             "name": "Gent-Wevelgem in Flanders Fields ME",
             "date": "24 Mar 2024",
-            "points": 20
+            "points": 20,
+            "rank": 26
           },
           {
             "name": "Classic Brugge-De Panne",
             "date": "20 Mar 2024",
-            "points": 20
+            "points": 20,
+            "rank": 15
           },
           {
             "name": "Milano-Sanremo",
             "date": "16 Mar 2024",
-            "points": 55
+            "points": 55,
+            "rank": 15
           },
           {
             "name": "Paris - Nice - Stage 5",
             "date": "07 Mar 2024",
-            "points": 8
+            "points": 8,
+            "rank": 8
           },
           {
             "name": "Paris - Nice - Stage 2",
             "date": "04 Mar 2024",
-            "points": 40
+            "points": 40,
+            "rank": 2
           },
           {
             "name": "Paris - Nice - Stage 2 - Bonus",
@@ -572,57 +665,68 @@
           {
             "name": "Paris - Nice - Stage 1",
             "date": "03 Mar 2024",
-            "points": 30
+            "points": 30,
+            "rank": 3
           },
           {
             "name": "Le Samyn",
             "date": "27 Feb 2024",
-            "points": 30
+            "points": 30,
+            "rank": 8
           },
           {
             "name": "National Championships New Zealand ME - Road Race",
             "date": "10 Feb 2024",
-            "points": 60
+            "points": 60,
+            "rank": 3
           },
           {
             "name": "National Championships New Zealand ME - ITT",
             "date": "08 Feb 2024",
-            "points": 20
+            "points": 20,
+            "rank": 3
           },
           {
             "name": "Cadel Evans Great Ocean Road Race",
             "date": "28 Jan 2024",
-            "points": 300
+            "points": 300,
+            "rank": 1
           },
           {
             "name": "Surf Coast Classic",
             "date": "25 Jan 2024",
-            "points": 50
+            "points": 50,
+            "rank": 5
           },
           {
             "name": "Santos Tour Down Under - General classification",
             "date": "21 Jan 2024",
-            "points": 20
+            "points": 20,
+            "rank": 22
           },
           {
             "name": "Santos Tour Down Under - Stage 6",
             "date": "21 Jan 2024",
-            "points": 20
+            "points": 20,
+            "rank": 5
           },
           {
             "name": "Santos Tour Down Under - Stage 4",
             "date": "19 Jan 2024",
-            "points": 20
+            "points": 20,
+            "rank": 5
           },
           {
             "name": "Santos Tour Down Under - Stage 3",
             "date": "18 Jan 2024",
-            "points": 25
+            "points": 25,
+            "rank": 4
           },
           {
             "name": "Santos Tour Down Under - Stage 2",
             "date": "17 Jan 2024",
-            "points": 2
+            "points": 2,
+            "rank": 10
           }
         ],
         "totalPoints": 1140
@@ -635,52 +739,62 @@
           {
             "name": "Brussels Cycling Classic",
             "date": "02 Jun 2024",
-            "points": 10
+            "points": 10,
+            "rank": 15
           },
           {
             "name": "Heylen Vastgoed Heistse Pijl",
             "date": "01 Jun 2024",
-            "points": 15
+            "points": 15,
+            "rank": 11
           },
           {
             "name": "Tour of Norway - Stage 4",
             "date": "26 May 2024",
-            "points": 15
+            "points": 15,
+            "rank": 2
           },
           {
             "name": "Tour of Norway - Stage 3",
             "date": "25 May 2024",
-            "points": 20
+            "points": 20,
+            "rank": 1
           },
           {
             "name": "Paris-Roubaix",
             "date": "07 Apr 2024",
-            "points": 200
+            "points": 200,
+            "rank": 8
           },
           {
             "name": "Dwars door Vlaanderen - A travers la Flandre ME",
             "date": "27 Mar 2024",
-            "points": 5
+            "points": 5,
+            "rank": 45
           },
           {
             "name": "Gent-Wevelgem in Flanders Fields ME",
             "date": "24 Mar 2024",
-            "points": 325
+            "points": 325,
+            "rank": 3
           },
           {
             "name": "Kuurne-Brussel-Kuurne",
             "date": "25 Feb 2024",
-            "points": 25
+            "points": 25,
+            "rank": 12
           },
           {
             "name": "Volta ao Algarve em Bicicleta - Stage 1",
             "date": "14 Feb 2024",
-            "points": 10
+            "points": 10,
+            "rank": 3
           },
           {
             "name": "Clasica de Almeria",
             "date": "11 Feb 2024",
-            "points": 50
+            "points": 50,
+            "rank": 8
           }
         ],
         "totalPoints": 675
@@ -693,62 +807,74 @@
           {
             "name": "Brussels Cycling Classic",
             "date": "02 Jun 2024",
-            "points": 25
+            "points": 25,
+            "rank": 12
           },
           {
             "name": "Heylen Vastgoed Heistse Pijl",
             "date": "01 Jun 2024",
-            "points": 85
+            "points": 85,
+            "rank": 2
           },
           {
             "name": "Rund um Köln",
             "date": "26 May 2024",
-            "points": 125
+            "points": 125,
+            "rank": 1
           },
           {
             "name": "4 Jours de Dunkerque / Grand Prix des Hauts de France - General classification",
             "date": "19 May 2024",
-            "points": 10
+            "points": 10,
+            "rank": 15
           },
           {
             "name": "Scheldeprijs",
             "date": "03 Apr 2024",
-            "points": 5
+            "points": 5,
+            "rank": 18
           },
           {
             "name": "Dwars door Vlaanderen - A travers la Flandre ME",
             "date": "27 Mar 2024",
-            "points": 5
+            "points": 5,
+            "rank": 35
           },
           {
             "name": "Gent-Wevelgem in Flanders Fields ME",
             "date": "24 Mar 2024",
-            "points": 10
+            "points": 10,
+            "rank": 38
           },
           {
             "name": "Tirreno-Adriatico - Stage 2",
             "date": "05 Mar 2024",
-            "points": 20
+            "points": 20,
+            "rank": 5
           },
           {
             "name": "Le Samyn",
             "date": "27 Feb 2024",
-            "points": 3
+            "points": 3,
+            "rank": 20
           },
           {
             "name": "AlUla Tour - General classification",
             "date": "03 Feb 2024",
-            "points": 3
+            "points": 3,
+            "rank": 17
           },
           {
             "name": "AlUla Tour - Stage 4",
             "date": "02 Feb 2024",
-            "points": 3
+            "points": 3,
+            "rank": 3
           },
           {
             "name": "AlUla Tour - Stage 3",
             "date": "01 Feb 2024",
-            "points": 3
+            "points": 3,
+            "rank": 3
           },
           {
             "name": "AlUla Tour - Stage 3 - Bonus",
@@ -758,7 +884,8 @@
           {
             "name": "AlUla Tour - Stage 1",
             "date": "30 Jan 2024",
-            "points": 14
+            "points": 14,
+            "rank": 1
           },
           {
             "name": "AlUla Tour - Stage 1 - Bonus",

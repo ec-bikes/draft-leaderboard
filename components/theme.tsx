@@ -79,6 +79,14 @@ export const theme = createTheme({
     primary: { main: primaryMain, dark: primaryDark },
   },
   components: {
+    MuiDialogTitle: {
+      styleOverrides: {
+        root: {
+          fontSize: '1.5rem',
+          paddingBottom: 0,
+        },
+      },
+    },
     MuiContainer: {
       defaultProps: {
         maxWidth: 'lg',

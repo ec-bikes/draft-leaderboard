@@ -2,7 +2,7 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179665,
-  "fetchedDate": "3 Jun 2024, 21:47 GMT",
+  "fetchedDate": "3 Jun 2024, 22:51 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
@@ -16,17 +16,20 @@
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
             "date": "05 May 2024",
-            "points": 16
+            "points": 16,
+            "rank": 24
           },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 7",
             "date": "04 May 2024",
-            "points": 50
+            "points": 50,
+            "rank": 1
           },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 4",
             "date": "01 May 2024",
-            "points": 30
+            "points": 30,
+            "rank": 3
           },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 4 - Bonus",
@@ -36,62 +39,74 @@
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 3",
             "date": "30 Apr 2024",
-            "points": 50
+            "points": 50,
+            "rank": 1
           },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
             "date": "28 Apr 2024",
-            "points": 5.71
+            "points": 5.71,
+            "rank": 2
           },
           {
             "name": "Liège-Bastogne-Liège Femmes",
             "date": "21 Apr 2024",
-            "points": 120
+            "points": 120,
+            "rank": 7
           },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "14 Apr 2024",
-            "points": 400
+            "points": 400,
+            "rank": 1
           },
           {
             "name": "Paris-Roubaix Femmes avec Zwift",
             "date": "06 Apr 2024",
-            "points": 220
+            "points": 220,
+            "rank": 4
           },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "31 Mar 2024",
-            "points": 220
+            "points": 220,
+            "rank": 4
           },
           {
             "name": "Dwars door Vlaanderen - A travers la Flandre WE",
             "date": "27 Mar 2024",
-            "points": 200
+            "points": 200,
+            "rank": 1
           },
           {
             "name": "Strade Bianche Donne",
             "date": "02 Mar 2024",
-            "points": 80
+            "points": 80,
+            "rank": 9
           },
           {
             "name": "Omloop Het Nieuwsblad WE",
             "date": "24 Feb 2024",
-            "points": 400
+            "points": 400,
+            "rank": 1
           },
           {
             "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classification",
             "date": "18 Feb 2024",
-            "points": 70
+            "points": 70,
+            "rank": 6
           },
           {
             "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 2",
             "date": "16 Feb 2024",
-            "points": 20
+            "points": 20,
+            "rank": 2
           },
           {
             "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 1",
             "date": "15 Feb 2024",
-            "points": 20
+            "points": 20,
+            "rank": 2
           }
         ],
         "totalPoints": 1910
@@ -104,57 +119,68 @@
           {
             "name": "RideLondon Classique - General classification",
             "date": "26 May 2024",
-            "points": 8
+            "points": 8,
+            "rank": 36
           },
           {
             "name": "RideLondon Classique - Stage 2",
             "date": "25 May 2024",
-            "points": 10
+            "points": 10,
+            "rank": 8
           },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "14 Apr 2024",
-            "points": 220
+            "points": 220,
+            "rank": 4
           },
           {
             "name": "Paris-Roubaix Femmes avec Zwift",
             "date": "06 Apr 2024",
-            "points": 260
+            "points": 260,
+            "rank": 3
           },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "31 Mar 2024",
-            "points": 40
+            "points": 40,
+            "rank": 13
           },
           {
             "name": "Gent-Wevelgem In Flanders Fields WE",
             "date": "24 Mar 2024",
-            "points": 16
+            "points": 16,
+            "rank": 30
           },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "17 Mar 2024",
-            "points": 180
+            "points": 180,
+            "rank": 5
           },
           {
             "name": "Miron Ronde van Drenthe",
             "date": "10 Mar 2024",
-            "points": 68
+            "points": 68,
+            "rank": 10
           },
           {
             "name": "Craywinckelhof - Omloop van het Hageland",
             "date": "25 Feb 2024",
-            "points": 70
+            "points": 70,
+            "rank": 3
           },
           {
             "name": "Omloop Het Nieuwsblad WE",
             "date": "24 Feb 2024",
-            "points": 40
+            "points": 40,
+            "rank": 13
           },
           {
             "name": "UAE Tour Women - General classification",
             "date": "11 Feb 2024",
-            "points": 28
+            "points": 28,
+            "rank": 15
           }
         ],
         "totalPoints": 940
@@ -167,92 +193,110 @@
           {
             "name": "Vuelta a Burgos Feminas - General classification",
             "date": "19 May 2024",
-            "points": 180
+            "points": 180,
+            "rank": 5
           },
           {
             "name": "Vuelta a Burgos Feminas - Stage 4",
             "date": "19 May 2024",
-            "points": 18
+            "points": 18,
+            "rank": 6
           },
           {
             "name": "Itzulia Women - General classification",
             "date": "12 May 2024",
-            "points": 40
+            "points": 40,
+            "rank": 13
           },
           {
             "name": "Itzulia Women - Stage 3",
             "date": "12 May 2024",
-            "points": 8
+            "points": 8,
+            "rank": 9
           },
           {
             "name": "Itzulia Women - Stage 1",
             "date": "10 May 2024",
-            "points": 8
+            "points": 8,
+            "rank": 9
           },
           {
             "name": "Navarra Women's Elite classic",
             "date": "08 May 2024",
-            "points": 125
+            "points": 125,
+            "rank": 3
           },
           {
             "name": "Liège-Bastogne-Liège Femmes",
             "date": "21 Apr 2024",
-            "points": 24
+            "points": 24,
+            "rank": 18
           },
           {
             "name": "La Flèche Wallonne Féminine",
             "date": "17 Apr 2024",
-            "points": 8
+            "points": 8,
+            "rank": 39
           },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "14 Apr 2024",
-            "points": 48
+            "points": 48,
+            "rank": 12
           },
           {
             "name": "De Brabantse Pijl - La Flèche Brabançonne WE",
             "date": "10 Apr 2024",
-            "points": 85
+            "points": 85,
+            "rank": 5
           },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "31 Mar 2024",
-            "points": 260
+            "points": 260,
+            "rank": 3
           },
           {
             "name": "Dwars door Vlaanderen - A travers la Flandre WE",
             "date": "27 Mar 2024",
-            "points": 150
+            "points": 150,
+            "rank": 2
           },
           {
             "name": "Gent-Wevelgem In Flanders Fields WE",
             "date": "24 Mar 2024",
-            "points": 8
+            "points": 8,
+            "rank": 32
           },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "17 Mar 2024",
-            "points": 16
+            "points": 16,
+            "rank": 23
           },
           {
             "name": "Strade Bianche Donne",
             "date": "02 Mar 2024",
-            "points": 180
+            "points": 180,
+            "rank": 5
           },
           {
             "name": "Omloop Het Nieuwsblad WE",
             "date": "24 Feb 2024",
-            "points": 220
+            "points": 220,
+            "rank": 4
           },
           {
             "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classification",
             "date": "18 Feb 2024",
-            "points": 35
+            "points": 35,
+            "rank": 10
           },
           {
             "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 2",
             "date": "16 Feb 2024",
-            "points": 12
+            "points": 12,
+            "rank": 4
           }
         ],
         "totalPoints": 1425
@@ -265,17 +309,20 @@
           {
             "name": "Itzulia Women - General classification",
             "date": "12 May 2024",
-            "points": 320
+            "points": 320,
+            "rank": 2
           },
           {
             "name": "Itzulia Women - Stage 3",
             "date": "12 May 2024",
-            "points": 30
+            "points": 30,
+            "rank": 3
           },
           {
             "name": "Itzulia Women - Stage 2",
             "date": "11 May 2024",
-            "points": 50
+            "points": 50,
+            "rank": 1
           },
           {
             "name": "Itzulia Women - Stage 2 - Bonus",
@@ -285,7 +332,8 @@
           {
             "name": "Itzulia Women - Stage 1",
             "date": "10 May 2024",
-            "points": 50
+            "points": 50,
+            "rank": 1
           },
           {
             "name": "Itzulia Women - Stage 1 - Bonus",
@@ -295,37 +343,44 @@
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
             "date": "05 May 2024",
-            "points": 8
+            "points": 8,
+            "rank": 40
           },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 3",
             "date": "30 Apr 2024",
-            "points": 8
+            "points": 8,
+            "rank": 9
           },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
             "date": "28 Apr 2024",
-            "points": 4.29
+            "points": 4.29,
+            "rank": 3
           },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "31 Mar 2024",
-            "points": 16
+            "points": 16,
+            "rank": 24
           },
           {
             "name": "Dwars door Vlaanderen - A travers la Flandre WE",
             "date": "27 Mar 2024",
-            "points": 5
+            "points": 5,
+            "rank": 19
           },
           {
             "name": "Miron Ronde van Drenthe",
             "date": "10 Mar 2024",
-            "points": 8
+            "points": 8,
+            "rank": 36
           },
           {
             "name": "Craywinckelhof - Omloop van het Hageland",
             "date": "25 Feb 2024",
-            "points": 85
+            "points": 85,
+            "rank": 2
           }
         ],
         "totalPoints": 600
@@ -338,107 +393,128 @@
           {
             "name": "Vuelta Ciclista Andalucia Elite women - General classification",
             "date": "01 Jun 2024",
-            "points": 3
+            "points": 3,
+            "rank": 21
           },
           {
             "name": "Vuelta Ciclista Andalucia Elite women - Stage 4",
             "date": "01 Jun 2024",
-            "points": 16
+            "points": 16,
+            "rank": 1
           },
           {
             "name": "Vuelta Ciclista Andalucia Elite women - Stage 3",
             "date": "31 May 2024",
-            "points": 6
+            "points": 6,
+            "rank": 4
           },
           {
             "name": "Itzulia Women - General classification",
             "date": "12 May 2024",
-            "points": 100
+            "points": 100,
+            "rank": 8
           },
           {
             "name": "Itzulia Women - Stage 2",
             "date": "11 May 2024",
-            "points": 15
+            "points": 15,
+            "rank": 7
           },
           {
             "name": "Itzulia Women - Stage 1",
             "date": "10 May 2024",
-            "points": 40
+            "points": 40,
+            "rank": 2
           },
           {
             "name": "Navarra Women's Elite classic",
             "date": "08 May 2024",
-            "points": 150
+            "points": 150,
+            "rank": 2
           },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "14 Apr 2024",
-            "points": 16
+            "points": 16,
+            "rank": 23
           },
           {
             "name": "Paris-Roubaix Femmes avec Zwift",
             "date": "06 Apr 2024",
-            "points": 24
+            "points": 24,
+            "rank": 18
           },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "31 Mar 2024",
-            "points": 48
+            "points": 48,
+            "rank": 12
           },
           {
             "name": "Dwars door Vlaanderen - A travers la Flandre WE",
             "date": "27 Mar 2024",
-            "points": 50
+            "points": 50,
+            "rank": 8
           },
           {
             "name": "Gent-Wevelgem In Flanders Fields WE",
             "date": "24 Mar 2024",
-            "points": 140
+            "points": 140,
+            "rank": 6
           },
           {
             "name": "Classic Brugge-De Panne WE",
             "date": "21 Mar 2024",
-            "points": 24
+            "points": 24,
+            "rank": 17
           },
           {
             "name": "Danilith Nokere Koerse Women",
             "date": "13 Mar 2024",
-            "points": 85
+            "points": 85,
+            "rank": 5
           },
           {
             "name": "Omloop Het Nieuwsblad WE",
             "date": "24 Feb 2024",
-            "points": 8
+            "points": 8,
+            "rank": 34
           },
           {
             "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 4",
             "date": "18 Feb 2024",
-            "points": 20
+            "points": 20,
+            "rank": 2
           },
           {
             "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 1",
             "date": "15 Feb 2024",
-            "points": 4
+            "points": 4,
+            "rank": 8
           },
           {
             "name": "Vuelta CV Feminas",
             "date": "04 Feb 2024",
-            "points": 3
+            "points": 3,
+            "rank": 24
           },
           {
             "name": "Women Cycling Pro Costa De Almería",
             "date": "28 Jan 2024",
-            "points": 3
+            "points": 3,
+            "rank": 18
           },
           {
             "name": "Trofeo Binissalem-Andratx",
             "date": "22 Jan 2024",
-            "points": 5
+            "points": 5,
+            "rank": 13
           },
           {
             "name": "Trofeo Felanitx-Colònia de Sant Jordi (Ses Salines)",
             "date": "20 Jan 2024",
-            "points": 85
+            "points": 85,
+            "rank": 2
           }
         ],
         "totalPoints": 845
@@ -451,62 +527,74 @@
           {
             "name": "Itzulia Women - General classification",
             "date": "12 May 2024",
-            "points": 24
+            "points": 24,
+            "rank": 17
           },
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
             "date": "05 May 2024",
-            "points": 140
+            "points": 140,
+            "rank": 6
           },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 8",
             "date": "05 May 2024",
-            "points": 20
+            "points": 20,
+            "rank": 5
           },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 6",
             "date": "03 May 2024",
-            "points": 18
+            "points": 18,
+            "rank": 6
           },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 5",
             "date": "02 May 2024",
-            "points": 18
+            "points": 18,
+            "rank": 6
           },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
             "date": "28 Apr 2024",
-            "points": 5
+            "points": 5,
+            "rank": 4
           },
           {
             "name": "Liège-Bastogne-Liège Femmes",
             "date": "21 Apr 2024",
-            "points": 80
+            "points": 80,
+            "rank": 9
           },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "14 Apr 2024",
-            "points": 24
+            "points": 24,
+            "rank": 18
           },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "17 Mar 2024",
-            "points": 24
+            "points": 24,
+            "rank": 16
           },
           {
             "name": "Strade Bianche Donne",
             "date": "02 Mar 2024",
-            "points": 16
+            "points": 16,
+            "rank": 29
           },
           {
             "name": "UAE Tour Women - General classification",
             "date": "11 Feb 2024",
-            "points": 68
+            "points": 68,
+            "rank": 10
           },
           {
             "name": "UAE Tour Women - Stage 3",
             "date": "10 Feb 2024",
-            "points": 6
+            "points": 6,
+            "rank": 10
           }
         ],
         "totalPoints": 443
@@ -519,82 +607,98 @@
           {
             "name": "Vuelta a Burgos Feminas - General classification",
             "date": "19 May 2024",
-            "points": 220
+            "points": 220,
+            "rank": 4
           },
           {
             "name": "Vuelta a Burgos Feminas - Stage 4",
             "date": "19 May 2024",
-            "points": 20
+            "points": 20,
+            "rank": 5
           },
           {
             "name": "Vuelta a Burgos Feminas - Stage 2",
             "date": "17 May 2024",
-            "points": 20
+            "points": 20,
+            "rank": 5
           },
           {
             "name": "Vuelta a Burgos Feminas - Stage 1",
             "date": "16 May 2024",
-            "points": 25
+            "points": 25,
+            "rank": 4
           },
           {
             "name": "Itzulia Women - General classification",
             "date": "12 May 2024",
-            "points": 180
+            "points": 180,
+            "rank": 5
           },
           {
             "name": "Itzulia Women - Stage 3",
             "date": "12 May 2024",
-            "points": 20
+            "points": 20,
+            "rank": 5
           },
           {
             "name": "Itzulia Women - Stage 2",
             "date": "11 May 2024",
-            "points": 18
+            "points": 18,
+            "rank": 6
           },
           {
             "name": "Liège-Bastogne-Liège Femmes",
             "date": "21 Apr 2024",
-            "points": 220
+            "points": 220,
+            "rank": 4
           },
           {
             "name": "La Flèche Wallonne Féminine",
             "date": "17 Apr 2024",
-            "points": 16
+            "points": 16,
+            "rank": 29
           },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "14 Apr 2024",
-            "points": 24
+            "points": 24,
+            "rank": 16
           },
           {
             "name": "Paris-Roubaix Femmes avec Zwift",
             "date": "06 Apr 2024",
-            "points": 56
+            "points": 56,
+            "rank": 11
           },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "17 Mar 2024",
-            "points": 40
+            "points": 40,
+            "rank": 13
           },
           {
             "name": "Strade Bianche Donne",
             "date": "02 Mar 2024",
-            "points": 100
+            "points": 100,
+            "rank": 8
           },
           {
             "name": "Omloop Het Nieuwsblad WE",
             "date": "24 Feb 2024",
-            "points": 8
+            "points": 8,
+            "rank": 40
           },
           {
             "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classification",
             "date": "18 Feb 2024",
-            "points": 60
+            "points": 60,
+            "rank": 7
           },
           {
             "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 2",
             "date": "16 Feb 2024",
-            "points": 6
+            "points": 6,
+            "rank": 7
           }
         ],
         "totalPoints": 1033
@@ -607,57 +711,68 @@
           {
             "name": "Vuelta a Burgos Feminas - General classification",
             "date": "19 May 2024",
-            "points": 140
+            "points": 140,
+            "rank": 6
           },
           {
             "name": "Vuelta a Burgos Feminas - Stage 4",
             "date": "19 May 2024",
-            "points": 15
+            "points": 15,
+            "rank": 7
           },
           {
             "name": "Vuelta a Burgos Feminas - Stage 2",
             "date": "17 May 2024",
-            "points": 25
+            "points": 25,
+            "rank": 4
           },
           {
             "name": "Durango - Durango Emakumeen Saria",
             "date": "14 May 2024",
-            "points": 30
+            "points": 30,
+            "rank": 8
           },
           {
             "name": "Gent-Wevelgem In Flanders Fields WE",
             "date": "24 Mar 2024",
-            "points": 16
+            "points": 16,
+            "rank": 24
           },
           {
             "name": "Strade Bianche Donne",
             "date": "02 Mar 2024",
-            "points": 8
+            "points": 8,
+            "rank": 35
           },
           {
             "name": "Le Samyn des Dames",
             "date": "27 Feb 2024",
-            "points": 3
+            "points": 3,
+            "rank": 18
           },
           {
             "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 1",
             "date": "15 Feb 2024",
-            "points": 15
+            "points": 15,
+            "rank": 3
           },
           {
             "name": "Trofeo Binissalem-Andratx",
             "date": "22 Jan 2024",
-            "points": 85
+            "points": 85,
+            "rank": 2
           },
           {
             "name": "Trofeo Palma Femina",
             "date": "21 Jan 2024",
-            "points": 35
+            "points": 35,
+            "rank": 7
           },
           {
             "name": "Trofeo Felanitx-Colònia de Sant Jordi (Ses Salines)",
             "date": "20 Jan 2024",
-            "points": 125
+            "points": 125,
+            "rank": 1
           }
         ],
         "totalPoints": 497
@@ -670,67 +785,80 @@
           {
             "name": "RideLondon Classique - General classification",
             "date": "26 May 2024",
-            "points": 140
+            "points": 140,
+            "rank": 6
           },
           {
             "name": "RideLondon Classique - Stage 2",
             "date": "25 May 2024",
-            "points": 20
+            "points": 20,
+            "rank": 5
           },
           {
             "name": "RideLondon Classique - Stage 1",
             "date": "24 May 2024",
-            "points": 6
+            "points": 6,
+            "rank": 10
           },
           {
             "name": "Vuelta a Burgos Feminas - General classification",
             "date": "19 May 2024",
-            "points": 120
+            "points": 120,
+            "rank": 7
           },
           {
             "name": "Vuelta a Burgos Feminas - Stage 2",
             "date": "17 May 2024",
-            "points": 10
+            "points": 10,
+            "rank": 8
           },
           {
             "name": "Vuelta a Burgos Feminas - Stage 1",
             "date": "16 May 2024",
-            "points": 10
+            "points": 10,
+            "rank": 8
           },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "14 Apr 2024",
-            "points": 68
+            "points": 68,
+            "rank": 10
           },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "31 Mar 2024",
-            "points": 24
+            "points": 24,
+            "rank": 18
           },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "17 Mar 2024",
-            "points": 220
+            "points": 220,
+            "rank": 4
           },
           {
             "name": "Omloop Het Nieuwsblad WE",
             "date": "24 Feb 2024",
-            "points": 16
+            "points": 16,
+            "rank": 22
           },
           {
             "name": "Santos Tour Down Under - General classification",
             "date": "14 Jan 2024",
-            "points": 24
+            "points": 24,
+            "rank": 17
           },
           {
             "name": "Santos Tour Down Under - Stage 2",
             "date": "13 Jan 2024",
-            "points": 40
+            "points": 40,
+            "rank": 2
           },
           {
             "name": "Santos Tour Down Under - Stage 1",
             "date": "12 Jan 2024",
-            "points": 8
+            "points": 8,
+            "rank": 9
           }
         ],
         "totalPoints": 706
@@ -744,37 +872,44 @@
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 4",
             "date": "01 May 2024",
-            "points": 15
+            "points": 15,
+            "rank": 7
           },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 2",
             "date": "29 Apr 2024",
-            "points": 50
+            "points": 50,
+            "rank": 1
           },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
             "date": "28 Apr 2024",
-            "points": 2.86
+            "points": 2.86,
+            "rank": 5
           },
           {
             "name": "Paris-Roubaix Femmes avec Zwift",
             "date": "06 Apr 2024",
-            "points": 16
+            "points": 16,
+            "rank": 27
           },
           {
             "name": "Classic Brugge-De Panne WE",
             "date": "21 Mar 2024",
-            "points": 16
+            "points": 16,
+            "rank": 28
           },
           {
             "name": "Craywinckelhof - Omloop van het Hageland",
             "date": "25 Feb 2024",
-            "points": 3
+            "points": 3,
+            "rank": 25
           },
           {
             "name": "Trofeo Felanitx-Colònia de Sant Jordi (Ses Salines)",
             "date": "20 Jan 2024",
-            "points": 20
+            "points": 20,
+            "rank": 10
           }
         ],
         "totalPoints": 123

@@ -13,7 +13,7 @@ export interface CompetitionProps extends Draft {
 }
 
 export function Competition(props: CompetitionProps) {
-  const { group, podcast, link, teamData, tradeDate } = props;
+  const { group, podcast, link, teamData, tradeDate, year } = props;
   const { source } = teamData;
 
   return (
@@ -41,7 +41,7 @@ export function Competition(props: CompetitionProps) {
         )}
       </Typography>
 
-      <TeamCards teamData={teamData} group={group} />
+      <TeamCards teamData={teamData} group={group} year={year} />
     </Stack>
   );
 }

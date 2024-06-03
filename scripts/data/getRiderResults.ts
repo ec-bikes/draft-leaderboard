@@ -55,6 +55,7 @@ export async function getRiderResults(params: {
       name: resultName,
       date: result.Date,
       points: result.Points,
+      rank: result.Rank || undefined,
     });
   }
 
