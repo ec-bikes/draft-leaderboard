@@ -36,6 +36,9 @@ jobs:
           corepack enable
           yarn
 
+      - name: Run tests
+        run: yarn test
+
       - name: Update data
         run: yarn update-data
 

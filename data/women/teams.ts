@@ -2,18 +2,16 @@ import type { Draft } from '../../common/types/Draft.js';
 import type { BaseTeam } from '../../common/types/Team.js';
 
 export const draft: Draft = {
+  group: 'women',
+  year: 2024,
   podcast: 'Wheel Talk',
   link: 'https://escapecollective.com/the-wheel-talk-podcast-2024-draft/',
+  // None of the riders traded in or out had sanctions at the time of the trade
   tradeDate: '2024-05-27',
 };
 
-/**
- * Team names, owners, and riders.
- * https://escapecollective.com/the-wheel-talk-podcast-2024-draft/
- *
- * NOTE: PCS name differences are in `getPcsUrl`.
- */
-export const womensTeams: BaseTeam[] = [
+export const teams: BaseTeam[] = [
+  // NOTE: PCS name differences are in `getPcsUrl`.
   {
     owner: 'Matt de Neef',
     name: 'Amateur Pro Cycling',

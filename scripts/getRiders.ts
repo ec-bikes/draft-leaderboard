@@ -2,7 +2,7 @@ import fs from 'fs';
 import type { UciRiderRanking } from './data/uci/types/UciRiderRanking.js';
 import { getRiderPcsData } from './data/getRiderPcsData.js';
 import { getUciRiderRankings } from './data/uci/getUciRiderRankings.js';
-import { mensTeams } from '../data/men/teams.js';
+import { teams } from '../data/men/teams.js';
 
 // Initial script to try and get rider IDs and figure out if any need custom PCS URLs
 (async () => {
@@ -38,7 +38,7 @@ import { mensTeams } from '../data/men/teams.js';
     }),
   );
 
-  for (const team of mensTeams) {
+  for (const team of teams) {
     for (const rider of team.riders) {
       const id = riderIds[rider.name];
       if (id) {
@@ -48,9 +48,9 @@ import { mensTeams } from '../data/men/teams.js';
       }
     }
   }
-  console.log(JSON.stringify(mensTeams));
+  console.log(JSON.stringify(teams));
 
-  for (const team of mensTeams) {
+  for (const team of teams) {
     for (const rider of team.riders) {
       console.log(rider.name);
       await getRiderPcsData({ rider, year: 2024 });

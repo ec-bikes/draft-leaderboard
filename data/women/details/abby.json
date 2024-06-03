@@ -1,17 +1,16 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 Jun 2024, 23:11 GMT",
+  "fetchedDate": "3 Jun 2024, 21:19 GMT",
   "momentId": 0,
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 8525,
+    "totalPoints": 8522,
     "riders": [
       {
         "name": "Marianne Vos",
         "id": 31144,
-        "totalPoints": 1910,
         "sanctions": 0,
         "results": [
           {
@@ -94,12 +93,12 @@
             "date": "15 Feb 2024",
             "points": 20
           }
-        ]
+        ],
+        "totalPoints": 1910
       },
       {
         "name": "Pfeiffer Georgi",
         "id": 153350,
-        "totalPoints": 940,
         "sanctions": 0,
         "results": [
           {
@@ -157,12 +156,12 @@
             "date": "11 Feb 2024",
             "points": 28
           }
-        ]
+        ],
+        "totalPoints": 940
       },
       {
         "name": "Shirin van Anrooij",
         "id": 228375,
-        "totalPoints": 1425,
         "sanctions": 0,
         "results": [
           {
@@ -255,12 +254,12 @@
             "date": "16 Feb 2024",
             "points": 12
           }
-        ]
+        ],
+        "totalPoints": 1425
       },
       {
         "name": "Mischa Bredewold",
         "id": 227721,
-        "totalPoints": 600,
         "sanctions": 0,
         "results": [
           {
@@ -328,12 +327,12 @@
             "date": "25 Feb 2024",
             "points": 85
           }
-        ]
+        ],
+        "totalPoints": 600
       },
       {
         "name": "Arlenis Sierra",
         "id": 71998,
-        "totalPoints": 845,
         "sanctions": 0,
         "results": [
           {
@@ -441,12 +440,12 @@
             "date": "20 Jan 2024",
             "points": 85
           }
-        ]
+        ],
+        "totalPoints": 845
       },
       {
         "name": "Ricarda Bauernfeind",
         "id": 153347,
-        "totalPoints": 443,
         "sanctions": 0,
         "results": [
           {
@@ -509,12 +508,12 @@
             "date": "10 Feb 2024",
             "points": 6
           }
-        ]
+        ],
+        "totalPoints": 443
       },
       {
         "name": "Elise Chabbey",
         "id": 1638135,
-        "totalPoints": 1033,
         "sanctions": 0,
         "results": [
           {
@@ -597,12 +596,12 @@
             "date": "16 Feb 2024",
             "points": 6
           }
-        ]
+        ],
+        "totalPoints": 1033
       },
       {
         "name": "Noemi Rüegg",
         "id": 347941,
-        "totalPoints": 497,
         "sanctions": 0,
         "results": [
           {
@@ -660,12 +659,12 @@
             "date": "20 Jan 2024",
             "points": 125
           }
-        ]
+        ],
+        "totalPoints": 497
       },
       {
         "name": "Soraya Paladin",
         "id": 75244,
-        "totalPoints": 706,
         "sanctions": 0,
         "results": [
           {
@@ -733,19 +732,15 @@
             "date": "12 Jan 2024",
             "points": 8
           }
-        ]
+        ],
+        "totalPoints": 706
       },
       {
         "name": "Alison Jackson",
         "id": 96860,
-        "totalPoints": 126,
+        "tradedOut": true,
         "sanctions": 0,
         "results": [
-          {
-            "name": "Dwars door de Westhoek",
-            "date": "02 Jun 2024",
-            "points": 3
-          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 4",
             "date": "01 May 2024",
@@ -781,7 +776,16 @@
             "date": "20 Jan 2024",
             "points": 20
           }
-        ]
+        ],
+        "totalPoints": 123
+      },
+      {
+        "name": "Karlijn Swinkels",
+        "id": 98571,
+        "tradedIn": true,
+        "sanctions": 0,
+        "results": [],
+        "totalPoints": 0
       }
     ]
   }

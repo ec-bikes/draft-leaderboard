@@ -2,25 +2,23 @@ import fs from 'fs';
 import { getTeamFilename } from '../common/getTeamFilename.js';
 import type { Group } from '../common/types/Group.js';
 import type { Source } from '../common/types/Source.js';
-import type { BaseTeam, Team } from '../common/types/Team.js';
+import type { Team } from '../common/types/Team.js';
 import type { TeamDetailsJson, TeamsSummaryJson } from '../common/types/TeamJson.js';
-import { mensTeams } from '../data/men/teams.js';
-import { womensTeams } from '../data/women/teams.js';
+import * as men from '../data/men/teams.js';
+import * as women from '../data/women/teams.js';
 import { getRankingMetadata } from './data/getRankingMetadata.js';
 import { getTeamData } from './data/getTeamData.js';
 import { logError } from './log.js';
 
-const year = 2024;
-const groups: Record<Group, BaseTeam[]> = {
-  women: womensTeams,
-  men: mensTeams,
-};
+const drafts = [women, men];
 
 const groupArg = process.argv[2] as Group | undefined;
 const source: Source = 'pcs';
 
 (async () => {
-  for (const [group, rawTeams] of Object.entries(groups) as [Group, BaseTeam[]][]) {
+  for (const draftMod of drafts) {
+    const { draft, teams: rawTeams } = draftMod;
+    const { group } = draft;
     if (groupArg && groupArg !== group) {
       continue; // skip other groups if a specific one was requested
     }
@@ -39,8 +37,7 @@ const source: Source = 'pcs';
       const team = await getTeamData({
         team: rawTeam,
         momentId: metadata.momentId,
-        year,
-        group,
+        draft,
         source,
       });
 

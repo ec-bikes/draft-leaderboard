@@ -75,7 +75,14 @@ export function TeamCardContent(props: {
         <TableBody>
           {riders.map((rider) => (
             <RiderRow key={rider.name}>
-              <TableCell>{rider.name}</TableCell>
+              <TableCell>
+                {
+                  <span style={rider.tradedOut ? { textDecoration: 'line-through' } : {}}>
+                    {rider.name}
+                  </span>
+                }
+                {rider.tradedIn && <Typography variant="tiny"> (trade)</Typography>}
+              </TableCell>
               <TableCell>{Math.round(rider.totalPoints)}</TableCell>
               <TableCell>
                 <Typography variant="tiny">

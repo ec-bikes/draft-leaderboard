@@ -1,11 +1,10 @@
-import type { BaseRider, RaceResult, RiderDetails } from '../../common/types/Rider.js';
+import type { BaseRider, RaceResult } from '../../common/types/Rider.js';
 import type { Group } from '../../common/types/Group.js';
 import { logWarning } from '../log.js';
 import { getUciRiderResults } from './uci/getUciRiderResults.js';
 
 /**
- * Get race results for a rider from the UCI API.
- * Only includes results for the current year in the total.
+ * Get the current year's race results for a rider from the UCI API.
  * Throws if there's an error fetching data.
  */
 export async function getRiderResults(params: {
@@ -13,7 +12,7 @@ export async function getRiderResults(params: {
   momentId: number;
   year: number;
   group: Group;
-}): Promise<Pick<RiderDetails, 'totalPoints' | 'results'>> {
+}): Promise<RaceResult[]> {
   const { momentId, rider, year, group } = params;
   const { name, id } = rider;
 
@@ -23,7 +22,6 @@ export async function getRiderResults(params: {
     throw new Error(`Couldn't get results for ${name}: ${rawResults}`);
   }
 
-  let totalPoints = 0;
   const results: RaceResult[] = [];
   for (const result of rawResults) {
     if (result.IsInvalidResult) {
@@ -32,11 +30,10 @@ export async function getRiderResults(params: {
       continue;
     }
 
+    // UCI APIs return 12 month rolling results
     if (new Date(result.Date).getFullYear() !== year) {
       continue;
     }
-
-    totalPoints += result.Points;
 
     let resultName: string;
     if (result.IsSpecialResult && result.SpecialName) {
@@ -61,5 +58,5 @@ export async function getRiderResults(params: {
     });
   }
 
-  return { totalPoints, results };
+  return results;
 }

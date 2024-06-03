@@ -2,17 +2,14 @@ import type { Draft } from '../../common/types/Draft.js';
 import type { BaseTeam } from '../../common/types/Team.js';
 
 export const draft: Draft = {
+  group: 'men',
+  year: 2024,
   podcast: 'Placeholders',
   link: 'https://escapecollective.com/behold-our-mens-worldtour-draft-2024/',
 };
 
-/**
- * Team names, owners, and riders.
- * https://escapecollective.com/behold-our-mens-worldtour-draft-2024/
- *
- * NOTE: PCS name differences are in `getPcsUrl`.
- */
-export const mensTeams: BaseTeam[] = [
+export const teams: BaseTeam[] = [
+  // NOTE: PCS name differences are in `getPcsUrl`.
   {
     owner: 'Abby Mickey',
     name: 'Lidl-Trek M&Ms',

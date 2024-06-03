@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 Jun 2024, 23:11 GMT",
+  "fetchedDate": "3 Jun 2024, 21:19 GMT",
   "momentId": 0,
   "team": {
     "owner": "Tils Raynolds",
@@ -11,7 +11,6 @@
       {
         "name": "Demi Vollering",
         "id": 151466,
-        "totalPoints": 2855,
         "sanctions": 0,
         "results": [
           {
@@ -139,12 +138,12 @@
             "date": "24 Feb 2024",
             "points": 140
           }
-        ]
+        ],
+        "totalPoints": 2855
       },
       {
         "name": "Kasia Niewiadoma",
         "id": 86824,
-        "totalPoints": 1481,
         "sanctions": 0,
         "results": [
           {
@@ -207,12 +206,12 @@
             "date": "15 Feb 2024",
             "points": 12
           }
-        ]
+        ],
+        "totalPoints": 1481
       },
       {
         "name": "Juliette Labous",
         "id": 97498,
-        "totalPoints": 953,
         "sanctions": 0,
         "results": [
           {
@@ -295,12 +294,12 @@
             "date": "16 Feb 2024",
             "points": 4
           }
-        ]
+        ],
+        "totalPoints": 953
       },
       {
         "name": "Charlotte Kool",
         "id": 157612,
-        "totalPoints": 1182,
         "sanctions": 0,
         "results": [
           {
@@ -363,12 +362,12 @@
             "date": "25 Feb 2024",
             "points": 5
           }
-        ]
+        ],
+        "totalPoints": 1182
       },
       {
         "name": "Riejanne Markus",
         "id": 86854,
-        "totalPoints": 803,
         "sanctions": 0,
         "results": [
           {
@@ -441,12 +440,12 @@
             "date": "18 Feb 2024",
             "points": 5
           }
-        ]
+        ],
+        "totalPoints": 803
       },
       {
         "name": "Sarah Gigante",
         "id": 1557078,
-        "totalPoints": 582,
         "sanctions": 0,
         "results": [
           {
@@ -499,12 +498,12 @@
             "date": "04 Jan 2024",
             "points": 1
           }
-        ]
+        ],
+        "totalPoints": 582
       },
       {
         "name": "Ella Wyllie",
         "id": 220428,
-        "totalPoints": 570,
         "sanctions": 0,
         "results": [
           {
@@ -572,12 +571,12 @@
             "date": "14 Jan 2024",
             "points": 15
           }
-        ]
+        ],
+        "totalPoints": 570
       },
       {
         "name": "Marta Lach",
         "id": 96399,
-        "totalPoints": 453,
         "sanctions": 0,
         "results": [
           {
@@ -645,12 +644,13 @@
             "date": "20 Jan 2024",
             "points": 5
           }
-        ]
+        ],
+        "totalPoints": 453
       },
       {
         "name": "Sofia Bertizzolo",
         "id": 106607,
-        "totalPoints": 156,
+        "tradedOut": true,
         "sanctions": 0,
         "results": [
           {
@@ -688,12 +688,12 @@
             "date": "12 Jan 2024",
             "points": 30
           }
-        ]
+        ],
+        "totalPoints": 156
       },
       {
         "name": "Vittoria Guazzini",
         "id": 153391,
-        "totalPoints": 354,
         "sanctions": 0,
         "results": [
           {
@@ -721,7 +721,16 @@
             "date": "09 Feb 2024",
             "points": 18
           }
-        ]
+        ],
+        "totalPoints": 354
+      },
+      {
+        "name": "Puck Pieterse",
+        "id": 234336,
+        "tradedIn": true,
+        "sanctions": 0,
+        "results": [],
+        "totalPoints": 0
       }
     ]
   }

@@ -10,7 +10,6 @@ export async function data(pageContext: PageContext): Promise<CompetitionProps |
 
   const summary = await import(`../../data/${group}/summary.json`);
   return {
-    group,
     teamData: summary,
     ...(group === 'women' ? womensDraft : mensDraft),
   };

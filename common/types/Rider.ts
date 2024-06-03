@@ -6,6 +6,8 @@ export interface BaseRider {
   id: number;
   tradedIn?: boolean;
   tradedOut?: boolean;
+  /** Number of sanction points the rider had as of the trade date */
+  sanctionsAtTrade?: number;
 }
 
 /** Rider info without race results */

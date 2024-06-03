@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 Jun 2024, 23:11 GMT",
+  "fetchedDate": "3 Jun 2024, 21:19 GMT",
   "momentId": 0,
   "team": {
     "owner": "Matt de Neef",
@@ -11,7 +11,6 @@
       {
         "name": "Lotte Kopecky",
         "id": 73504,
-        "totalPoints": 2829,
         "sanctions": 0,
         "results": [
           {
@@ -144,12 +143,12 @@
             "date": "08 Feb 2024",
             "points": 8
           }
-        ]
+        ],
+        "totalPoints": 2829
       },
       {
         "name": "Cecilie Uttrup Ludwig",
         "id": 86838,
-        "totalPoints": 432,
         "sanctions": 0,
         "results": [
           {
@@ -192,12 +191,12 @@
             "date": "12 Jan 2024",
             "points": 10
           }
-        ]
+        ],
+        "totalPoints": 432
       },
       {
         "name": "Silvia Persico",
         "id": 107539,
-        "totalPoints": 781,
         "sanctions": 0,
         "results": [
           {
@@ -275,12 +274,12 @@
             "date": "21 Jan 2024",
             "points": 50
           }
-        ]
+        ],
+        "totalPoints": 781
       },
       {
         "name": "Gaia Realini",
         "id": 303036,
-        "totalPoints": 463,
         "sanctions": 0,
         "results": [
           {
@@ -348,12 +347,12 @@
             "date": "10 Feb 2024",
             "points": 25
           }
-        ]
+        ],
+        "totalPoints": 463
       },
       {
         "name": "Amanda Spratt",
         "id": 32706,
-        "totalPoints": 355,
         "sanctions": 0,
         "results": [
           {
@@ -411,12 +410,12 @@
             "date": "07 Jan 2024",
             "points": 5
           }
-        ]
+        ],
+        "totalPoints": 355
       },
       {
         "name": "Ruby Roseman-Gannon",
         "id": 111383,
-        "totalPoints": 220,
         "sanctions": 0,
         "results": [
           {
@@ -454,12 +453,12 @@
             "date": "07 Jan 2024",
             "points": 100
           }
-        ]
+        ],
+        "totalPoints": 220
       },
       {
         "name": "Antonia Niedermaier",
         "id": 2188959,
-        "totalPoints": 106,
         "sanctions": 0,
         "results": [
           {
@@ -487,12 +486,12 @@
             "date": "18 Feb 2024",
             "points": 5
           }
-        ]
+        ],
+        "totalPoints": 106
       },
       {
         "name": "Kristen Faulkner",
         "id": 1688341,
-        "totalPoints": 630,
         "sanctions": 0,
         "results": [
           {
@@ -580,12 +579,13 @@
             "date": "17 Feb 2024",
             "points": 8
           }
-        ]
+        ],
+        "totalPoints": 630
       },
       {
         "name": "Anna Henderson",
         "id": 237690,
-        "totalPoints": 94,
+        "tradedOut": true,
         "sanctions": 0,
         "results": [
           {
@@ -603,12 +603,12 @@
             "date": "14 Apr 2024",
             "points": 56
           }
-        ]
+        ],
+        "totalPoints": 94
       },
       {
         "name": "Marta Cavalli",
         "id": 111432,
-        "totalPoints": 83,
         "sanctions": 0,
         "results": [
           {
@@ -621,7 +621,16 @@
             "date": "17 Apr 2024",
             "points": 80
           }
-        ]
+        ],
+        "totalPoints": 83
+      },
+      {
+        "name": "Thalita de Jong",
+        "id": 79176,
+        "tradedIn": true,
+        "sanctions": 0,
+        "results": [],
+        "totalPoints": 0
       }
     ]
   }

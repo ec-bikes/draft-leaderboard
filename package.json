@@ -8,6 +8,7 @@
     "build": "tsc && rm -rf dist && vite build && touch dist/client/.nojekyll",
     "lint": "eslint . --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
+    "test": "vitest run",
     "update-data": "tsx scripts/updateData.ts"
   },
   "dependencies": {
@@ -36,7 +37,8 @@
     "typescript": "^5.2.2",
     "vike": "^0.4.165",
     "vike-react": "^0.4.6",
-    "vite": "^5.1.4"
+    "vite": "^5.1.4",
+    "vitest": "^1.6.0"
   },
   "packageManager": "yarn@4.1.1"
 }

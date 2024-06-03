@@ -24,6 +24,16 @@
       "internalConsoleOptions": "neverOpen",
       "outputCapture": "std"
       // "skipFiles": ["!<node_internals>/**", "**/internal/async_hooks"]
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Debug current test file",
+      "autoAttachChildProcesses": true,
+      "program": "${workspaceRoot}/node_modules/vitest/vitest.mjs",
+      "args": ["watch", "${relativeFile}"],
+      "smartStep": true,
+      "console": "integratedTerminal"
     }
   ]
 }

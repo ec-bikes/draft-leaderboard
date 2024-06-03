@@ -1,17 +1,16 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 Jun 2024, 23:11 GMT",
+  "fetchedDate": "3 Jun 2024, 21:19 GMT",
   "momentId": 0,
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 10176,
+    "totalPoints": 10191,
     "riders": [
       {
         "name": "Marlen Reusser",
         "id": 1589305,
-        "totalPoints": 406,
         "sanctions": 15,
         "results": [
           {
@@ -69,12 +68,12 @@
             "date": "16 Feb 2024",
             "points": 5
           }
-        ]
+        ],
+        "totalPoints": 421
       },
       {
         "name": "Elisa Longo Borghini",
         "id": 76149,
-        "totalPoints": 2640,
         "sanctions": 0,
         "results": [
           {
@@ -167,12 +166,12 @@
             "date": "10 Feb 2024",
             "points": 15
           }
-        ]
+        ],
+        "totalPoints": 2640
       },
       {
         "name": "Elisa Balsamo",
         "id": 101826,
-        "totalPoints": 1928,
         "sanctions": 0,
         "results": [
           {
@@ -230,12 +229,13 @@
             "date": "15 Feb 2024",
             "points": 5
           }
-        ]
+        ],
+        "totalPoints": 1928
       },
       {
         "name": "Maike van der Duin",
         "id": 226974,
-        "totalPoints": 73,
+        "tradedOut": true,
         "sanctions": 0,
         "results": [
           {
@@ -258,12 +258,12 @@
             "date": "28 Apr 2024",
             "points": 5
           }
-        ]
+        ],
+        "totalPoints": 73
       },
       {
         "name": "Grace Brown",
         "id": 143292,
-        "totalPoints": 902,
         "sanctions": 0,
         "results": [
           {
@@ -336,12 +336,12 @@
             "date": "04 Jan 2024",
             "points": 50
           }
-        ]
+        ],
+        "totalPoints": 902
       },
       {
         "name": "Emma Norsgaard",
         "id": 151974,
-        "totalPoints": 335,
         "sanctions": 0,
         "results": [
           {
@@ -394,12 +394,12 @@
             "date": "24 Feb 2024",
             "points": 56
           }
-        ]
+        ],
+        "totalPoints": 335
       },
       {
         "name": "Evita Muzic",
         "id": 109412,
-        "totalPoints": 1492,
         "sanctions": 0,
         "results": [
           {
@@ -512,12 +512,12 @@
             "date": "14 Jan 2024",
             "points": 16
           }
-        ]
+        ],
+        "totalPoints": 1492
       },
       {
         "name": "Chiara Consonni",
         "id": 156600,
-        "totalPoints": 1210,
         "sanctions": 0,
         "results": [
           {
@@ -615,12 +615,12 @@
             "date": "20 Jan 2024",
             "points": 70
           }
-        ]
+        ],
+        "totalPoints": 1210
       },
       {
         "name": "Daria Pikulik",
         "id": 99885,
-        "totalPoints": 711,
         "sanctions": 0,
         "results": [
           {
@@ -663,12 +663,12 @@
             "date": "09 Feb 2024",
             "points": 6
           }
-        ]
+        ],
+        "totalPoints": 711
       },
       {
         "name": "Niamh Fisher-Black",
         "id": 217072,
-        "totalPoints": 479,
         "sanctions": 0,
         "results": [
           {
@@ -726,7 +726,16 @@
             "date": "17 Feb 2024",
             "points": 25
           }
-        ]
+        ],
+        "totalPoints": 479
+      },
+      {
+        "name": "Kim Cadzow",
+        "id": 2246047,
+        "tradedIn": true,
+        "sanctions": 0,
+        "results": [],
+        "totalPoints": 0
       }
     ]
   }

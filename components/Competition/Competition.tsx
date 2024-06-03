@@ -5,6 +5,7 @@ import { getUciSeasonRankingUrl } from '../../common/uciUrls.js';
 import { spacing } from '../theme.js';
 import type { TeamsSummaryJson } from '../../common/types/TeamJson.js';
 import type { Draft } from '../../common/types/Draft.js';
+import { formatDate } from '../../scripts/data/formatDate.js';
 
 export interface CompetitionProps extends Draft {
   group: Group;
@@ -12,7 +13,7 @@ export interface CompetitionProps extends Draft {
 }
 
 export function Competition(props: CompetitionProps) {
-  const { group, podcast, link, teamData } = props;
+  const { group, podcast, link, teamData, tradeDate } = props;
   const { source } = teamData;
 
   return (
@@ -33,6 +34,11 @@ export function Competition(props: CompetitionProps) {
           <>UCI points (via PCS)</>
         )}{' '}
         as of <strong>{source === 'uci' ? teamData.rankingDate : teamData.fetchedDate}</strong>.
+        {tradeDate && (
+          <>
+            <br /> Includes trades effective {formatDate(new Date(tradeDate), 'short')}.
+          </>
+        )}
       </Typography>
 
       <TeamCards teamData={teamData} group={group} />
