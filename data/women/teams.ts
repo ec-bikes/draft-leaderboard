@@ -1,5 +1,8 @@
 import type { BaseTeam } from '../../common/types/Team.js';
 
+export const podcast = 'Wheel Talk';
+export const link = 'https://escapecollective.com/the-wheel-talk-podcast-2024-draft/';
+
 /**
  * Team names, owners, and riders.
  * https://escapecollective.com/the-wheel-talk-podcast-2024-draft/

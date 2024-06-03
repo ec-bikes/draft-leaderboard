@@ -1,5 +1,8 @@
 import type { BaseTeam } from '../../common/types/Team.js';
 
+export const podcast = 'Placeholders';
+export const link = 'https://escapecollective.com/behold-our-mens-worldtour-draft-2024/';
+
 /**
  * Team names, owners, and riders.
  * https://escapecollective.com/behold-our-mens-worldtour-draft-2024/
