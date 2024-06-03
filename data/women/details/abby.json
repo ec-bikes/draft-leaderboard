@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179665,
-  "fetchedDate": "3 Jun 2024, 23:12 GMT",
+  "fetchedDate": "3 Jun 2024, 23:38 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 8522,
+    "totalPoints": 9419,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -919,8 +919,111 @@
         "id": 98571,
         "tradedIn": true,
         "sanctions": 0,
-        "results": [],
-        "totalPoints": 0
+        "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - General classification",
+            "date": "19 May 2024",
+            "points": 260,
+            "rank": 3
+          },
+          {
+            "name": "Vuelta a Burgos Feminas - Stage 4",
+            "date": "19 May 2024",
+            "points": 25,
+            "rank": 4
+          },
+          {
+            "name": "Vuelta a Burgos Feminas - Stage 2",
+            "date": "17 May 2024",
+            "points": 30,
+            "rank": 3
+          },
+          {
+            "name": "Vuelta a Burgos Feminas - Stage 1",
+            "date": "16 May 2024",
+            "points": 18,
+            "rank": 6
+          },
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - General classification",
+            "date": "05 May 2024",
+            "points": 8,
+            "rank": 36
+          },
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 2",
+            "date": "29 Apr 2024",
+            "points": 30,
+            "rank": 3
+          },
+          {
+            "name": "Ronde van Vlaanderen - Tour des Flandres WE",
+            "date": "31 Mar 2024",
+            "points": 68,
+            "rank": 10
+          },
+          {
+            "name": "Dwars door Vlaanderen - A travers la Flandre WE",
+            "date": "27 Mar 2024",
+            "points": 20,
+            "rank": 13
+          },
+          {
+            "name": "Gent-Wevelgem In Flanders Fields WE",
+            "date": "24 Mar 2024",
+            "points": 8,
+            "rank": 38
+          },
+          {
+            "name": "Classic Brugge-De Panne WE",
+            "date": "21 Mar 2024",
+            "points": 28,
+            "rank": 15
+          },
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
+            "date": "17 Mar 2024",
+            "points": 140,
+            "rank": 6
+          },
+          {
+            "name": "Miron Ronde van Drenthe",
+            "date": "10 Mar 2024",
+            "points": 40,
+            "rank": 13
+          },
+          {
+            "name": "Trofeo Oro in Euro - Women's Bike Race",
+            "date": "03 Mar 2024",
+            "points": 85,
+            "rank": 2
+          },
+          {
+            "name": "Le Samyn des Dames",
+            "date": "27 Feb 2024",
+            "points": 60,
+            "rank": 4
+          },
+          {
+            "name": "Omloop Het Nieuwsblad WE",
+            "date": "24 Feb 2024",
+            "points": 32,
+            "rank": 14
+          },
+          {
+            "name": "UAE Tour Women - General classification",
+            "date": "11 Feb 2024",
+            "points": 40,
+            "rank": 13
+          },
+          {
+            "name": "Trofeo Palma Femina",
+            "date": "21 Jan 2024",
+            "points": 5,
+            "rank": 14
+          }
+        ],
+        "totalPoints": 897
       }
     ]
   }

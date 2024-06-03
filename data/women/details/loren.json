@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179665,
-  "fetchedDate": "3 Jun 2024, 23:12 GMT",
+  "fetchedDate": "3 Jun 2024, 23:38 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 10191,
+    "totalPoints": 10668,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -857,8 +857,103 @@
         "id": 2246047,
         "tradedIn": true,
         "sanctions": 0,
-        "results": [],
-        "totalPoints": 0
+        "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - General classification",
+            "date": "05 May 2024",
+            "points": 68,
+            "rank": 10
+          },
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 8",
+            "date": "05 May 2024",
+            "points": 6,
+            "rank": 10
+          },
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 6",
+            "date": "03 May 2024",
+            "points": 6,
+            "rank": 10
+          },
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 5",
+            "date": "02 May 2024",
+            "points": 8,
+            "rank": 9
+          },
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
+            "date": "28 Apr 2024",
+            "points": 2.86,
+            "rank": 5
+          },
+          {
+            "name": "Liège-Bastogne-Liège Femmes",
+            "date": "21 Apr 2024",
+            "points": 140,
+            "rank": 6
+          },
+          {
+            "name": "La Flèche Wallonne Féminine",
+            "date": "17 Apr 2024",
+            "points": 8,
+            "rank": 37
+          },
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
+            "date": "17 Mar 2024",
+            "points": 8,
+            "rank": 34
+          },
+          {
+            "name": "Trofeo Ponente in Rosa - General classification",
+            "date": "08 Mar 2024",
+            "points": 40,
+            "rank": 1
+          },
+          {
+            "name": "Trofeo Ponente in Rosa - Stage 2",
+            "date": "07 Mar 2024",
+            "points": 5,
+            "rank": 2
+          },
+          {
+            "name": "Trofeo Ponente in Rosa - Stage 2 - Bonus",
+            "date": "07 Mar 2024",
+            "points": 1
+          },
+          {
+            "name": "Trofeo Ponente in Rosa - Stage 1",
+            "date": "06 Mar 2024",
+            "points": 8,
+            "rank": 1
+          },
+          {
+            "name": "Trofeo Ponente in Rosa - Stage 1 - Bonus",
+            "date": "06 Mar 2024",
+            "points": 1
+          },
+          {
+            "name": "Trofeo Oro in Euro - Women's Bike Race",
+            "date": "03 Mar 2024",
+            "points": 50,
+            "rank": 5
+          },
+          {
+            "name": "National Championships New Zealand WE - Road Race",
+            "date": "09 Feb 2024",
+            "points": 75,
+            "rank": 2
+          },
+          {
+            "name": "National Championships New Zealand WE - ITT",
+            "date": "08 Feb 2024",
+            "points": 50,
+            "rank": 1
+          }
+        ],
+        "totalPoints": 477
       }
     ]
   }

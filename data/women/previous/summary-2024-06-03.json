@@ -2,12 +2,12 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179665,
-  "fetchedDate": "3 Jun 2024, 23:12 GMT",
+  "fetchedDate": "3 Jun 2024, 23:38 GMT",
   "teams": [
     {
       "owner": "Matt de Neef",
       "name": "Amateur Pro Cycling",
-      "totalPoints": 5993,
+      "totalPoints": 6880,
       "riders": [
         {
           "name": "Lotte Kopecky",
@@ -75,14 +75,14 @@
           "id": 79176,
           "tradedIn": true,
           "sanctions": 0,
-          "totalPoints": 0
+          "totalPoints": 887
         }
       ]
     },
     {
       "owner": "Tils Raynolds",
       "name": "Collective Cartel",
-      "totalPoints": 9389,
+      "totalPoints": 10414,
       "riders": [
         {
           "name": "Demi Vollering",
@@ -150,14 +150,14 @@
           "id": 234336,
           "tradedIn": true,
           "sanctions": 0,
-          "totalPoints": 0
+          "totalPoints": 1025
         }
       ]
     },
     {
       "owner": "Abby Mickey",
       "name": "Death By A Thousand Attacks",
-      "totalPoints": 8522,
+      "totalPoints": 9419,
       "riders": [
         {
           "name": "Marianne Vos",
@@ -225,7 +225,7 @@
           "id": 98571,
           "tradedIn": true,
           "sanctions": 0,
-          "totalPoints": 0
+          "totalPoints": 897
         }
       ]
     },
@@ -299,7 +299,7 @@
     {
       "owner": "Loren Rowney",
       "name": "Super Lekker Pro Potato Women's Cycling Team",
-      "totalPoints": 10191,
+      "totalPoints": 10668,
       "riders": [
         {
           "name": "Marlen Reusser",
@@ -367,7 +367,7 @@
           "id": 2246047,
           "tradedIn": true,
           "sanctions": 0,
-          "totalPoints": 0
+          "totalPoints": 477
         }
       ]
     }

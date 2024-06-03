@@ -36,7 +36,7 @@ export function Competition(props: CompetitionProps) {
         as of <strong>{source === 'uci' ? teamData.rankingDate : teamData.fetchedDate}</strong>.
         {tradeDate && (
           <>
-            <br /> Includes trades effective {formatDate(new Date(tradeDate), 'short')}.
+            <br /> Includes trades from {formatDate(new Date(tradeDate), 'short')}.
           </>
         )}
       </Typography>

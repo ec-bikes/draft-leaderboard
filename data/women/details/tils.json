@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179665,
-  "fetchedDate": "3 Jun 2024, 23:12 GMT",
+  "fetchedDate": "3 Jun 2024, 23:38 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 9389,
+    "totalPoints": 10414,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -850,8 +850,57 @@
         "id": 234336,
         "tradedIn": true,
         "sanctions": 0,
-        "results": [],
-        "totalPoints": 0
+        "results": [
+          {
+            "name": "Ronde van Vlaanderen - Tour des Flandres WE",
+            "date": "31 Mar 2024",
+            "points": 140,
+            "rank": 6
+          },
+          {
+            "name": "Dwars door Vlaanderen - A travers la Flandre WE",
+            "date": "27 Mar 2024",
+            "points": 85,
+            "rank": 5
+          },
+          {
+            "name": "Gent-Wevelgem In Flanders Fields WE",
+            "date": "24 Mar 2024",
+            "points": 120,
+            "rank": 7
+          },
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
+            "date": "17 Mar 2024",
+            "points": 260,
+            "rank": 3
+          },
+          {
+            "name": "Miron Ronde van Drenthe",
+            "date": "10 Mar 2024",
+            "points": 260,
+            "rank": 3
+          },
+          {
+            "name": "Strade Bianche Donne",
+            "date": "02 Mar 2024",
+            "points": 40,
+            "rank": 13
+          },
+          {
+            "name": "Craywinckelhof - Omloop van het Hageland",
+            "date": "25 Feb 2024",
+            "points": 20,
+            "rank": 10
+          },
+          {
+            "name": "Omloop Het Nieuwsblad WE",
+            "date": "24 Feb 2024",
+            "points": 100,
+            "rank": 8
+          }
+        ],
+        "totalPoints": 1025
       }
     ]
   }
