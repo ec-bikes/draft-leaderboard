@@ -10,9 +10,6 @@ export default defineConfig({
     vike({
       prerender: true,
       disableUrlNormalization: true,
-      redirects: {
-        [baseUrl]: baseUrl + 'women',
-      },
     }),
   ],
   // this needs to match the path on github pages, https://ec-bikes.github.io/draft-leaderboard/
