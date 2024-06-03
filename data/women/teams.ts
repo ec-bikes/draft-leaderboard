@@ -1,7 +1,11 @@
+import type { Draft } from '../../common/types/Draft.js';
 import type { BaseTeam } from '../../common/types/Team.js';
 
-export const podcast = 'Wheel Talk';
-export const link = 'https://escapecollective.com/the-wheel-talk-podcast-2024-draft/';
+export const draft: Draft = {
+  podcast: 'Wheel Talk',
+  link: 'https://escapecollective.com/the-wheel-talk-podcast-2024-draft/',
+  tradeDate: '2024-05-27',
+};
 
 /**
  * Team names, owners, and riders.
@@ -22,8 +26,9 @@ export const womensTeams: BaseTeam[] = [
       { name: 'Ruby Roseman-Gannon', id: 111383 },
       { name: 'Antonia Niedermaier', id: 2188959 },
       { name: 'Kristen Faulkner', id: 1688341 },
-      { name: 'Anna Henderson', id: 237690 },
+      { name: 'Anna Henderson', id: 237690, tradedOut: true },
       { name: 'Marta Cavalli', id: 111432 },
+      { name: 'Thalita de Jong', id: 79176, tradedIn: true },
     ],
   },
   {
@@ -38,8 +43,9 @@ export const womensTeams: BaseTeam[] = [
       { name: 'Sarah Gigante', id: 1557078 },
       { name: 'Ella Wyllie', id: 220428 },
       { name: 'Marta Lach', id: 96399 },
-      { name: 'Sofia Bertizzolo', id: 106607 },
+      { name: 'Sofia Bertizzolo', id: 106607, tradedOut: true },
       { name: 'Vittoria Guazzini', id: 153391 },
+      { name: 'Puck Pieterse', id: 234336, tradedIn: true },
     ],
   },
   {
@@ -55,7 +61,8 @@ export const womensTeams: BaseTeam[] = [
       { name: 'Elise Chabbey', id: 1638135 },
       { name: 'Noemi Rüegg', id: 347941 },
       { name: 'Soraya Paladin', id: 75244 },
-      { name: 'Alison Jackson', id: 96860 },
+      { name: 'Alison Jackson', id: 96860, tradedOut: true },
+      { name: 'Karlijn Swinkels', id: 98571, tradedIn: true },
     ],
   },
   {
@@ -81,13 +88,14 @@ export const womensTeams: BaseTeam[] = [
       { name: 'Marlen Reusser', id: 1589305 },
       { name: 'Elisa Longo Borghini', id: 76149 },
       { name: 'Elisa Balsamo', id: 101826 },
-      { name: 'Maike van der Duin', id: 226974 },
+      { name: 'Maike van der Duin', id: 226974, tradedOut: true },
       { name: 'Grace Brown', id: 143292 },
       { name: 'Emma Norsgaard', id: 151974 },
       { name: 'Evita Muzic', id: 109412 },
       { name: 'Chiara Consonni', id: 156600 },
       { name: 'Daria Pikulik', id: 99885 },
       { name: 'Niamh Fisher-Black', id: 217072 }, // searchName: 'Niamh Fisher'
+      { name: 'Kim Cadzow', id: 2246047, tradedIn: true },
     ],
   },
 ];

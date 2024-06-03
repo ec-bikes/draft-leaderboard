@@ -1,7 +1,10 @@
+import type { Draft } from '../../common/types/Draft.js';
 import type { BaseTeam } from '../../common/types/Team.js';
 
-export const podcast = 'Placeholders';
-export const link = 'https://escapecollective.com/behold-our-mens-worldtour-draft-2024/';
+export const draft: Draft = {
+  podcast: 'Placeholders',
+  link: 'https://escapecollective.com/behold-our-mens-worldtour-draft-2024/',
+};
 
 /**
  * Team names, owners, and riders.

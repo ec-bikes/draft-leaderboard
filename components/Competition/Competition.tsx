@@ -4,11 +4,10 @@ import type { Group } from '../../common/types/Group';
 import { getUciSeasonRankingUrl } from '../../common/uciUrls.js';
 import { spacing } from '../theme.js';
 import type { TeamsSummaryJson } from '../../common/types/TeamJson.js';
+import type { Draft } from '../../common/types/Draft.js';
 
-export interface CompetitionProps {
+export interface CompetitionProps extends Draft {
   group: Group;
-  podcast: string;
-  link: string;
   teamData: TeamsSummaryJson;
 }
 

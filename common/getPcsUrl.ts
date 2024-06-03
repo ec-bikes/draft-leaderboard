@@ -2,6 +2,7 @@ const nameMappings: Record<string, string> = {
   'Kasia Niewiadoma': 'katarzyna-niewiadoma',
   'Noemi Rüegg': 'ruegg-moemi',
   'Lizzie Deignan': 'elizabeth-deignan',
+  'Kim Cadzow': 'kimberly-cadzow',
   "Ben O'Connor": 'ben-o-connor',
   'Josh Tarling': 'joshua-tarling',
   'Tom Pidcock': 'thomas-pidcock',
