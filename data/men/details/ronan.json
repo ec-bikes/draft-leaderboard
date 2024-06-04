@@ -1,18 +1,24 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 179654,
-  "fetchedDate": "3 Jun 2024, 23:12 GMT",
+  "momentId": 179899,
+  "fetchedDate": "4 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 9055,
+    "totalPoints": 9057,
     "riders": [
       {
         "name": "Primož Roglič",
         "id": 88889,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - Stage 3",
+            "date": "04 Jun 2024",
+            "points": 2,
+            "rank": 10
+          },
           {
             "name": "Critérium du Dauphiné - Stage 2",
             "date": "03 Jun 2024",
@@ -65,7 +71,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 244
+        "totalPoints": 246
       },
       {
         "name": "Biniam Girmay",

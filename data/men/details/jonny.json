@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 179654,
-  "fetchedDate": "3 Jun 2024, 23:12 GMT",
+  "momentId": 179899,
+  "fetchedDate": "4 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 6438,
+    "totalPoints": 6478,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -594,6 +594,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Critérium du Dauphiné - Stage 3",
+            "date": "04 Jun 2024",
+            "points": 40,
+            "rank": 2
+          },
+          {
             "name": "Critérium du Dauphiné - Stage 2",
             "date": "03 Jun 2024",
             "points": 5,
@@ -684,7 +690,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 578
+        "totalPoints": 618
       },
       {
         "name": "Jack Haig",
