@@ -2,17 +2,28 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179899,
-  "fetchedDate": "4 Jun 2024, 23:12 GMT",
+  "fetchedDate": "5 Jun 2024, 23:13 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 8615,
+    "totalPoints": 8687,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - Stage 4 (ITT)",
+            "date": "05 Jun 2024",
+            "points": 60,
+            "rank": 1
+          },
+          {
+            "name": "Critérium du Dauphiné - Stage 4 (ITT) - Bonus",
+            "date": "05 Jun 2024",
+            "points": 10
+          },
           {
             "name": "Itzulia Basque Country - Stage 1 (ITT)",
             "date": "01 Apr 2024",
@@ -91,7 +102,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1029
+        "totalPoints": 1099
       },
       {
         "name": "Mathieu van der Poel",
@@ -149,6 +160,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Critérium du Dauphiné - Stage 4 (ITT)",
+            "date": "05 Jun 2024",
+            "points": 2,
+            "rank": 10
+          },
+          {
             "name": "Tour de Romandie - General classification",
             "date": "28 Apr 2024",
             "points": 100,
@@ -179,7 +196,7 @@
             "rank": 12
           }
         ],
-        "totalPoints": 161
+        "totalPoints": 163
       },
       {
         "name": "Santiago Buitrago",
