@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179910,
-  "fetchedDate": "5 Jun 2024, 23:12 GMT",
+  "fetchedDate": "6 Jun 2024, 23:14 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 9419,
+    "totalPoints": 9449,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -117,6 +117,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour of Britain Women - Stage 1",
+            "date": "06 Jun 2024",
+            "points": 30,
+            "rank": 3
+          },
+          {
             "name": "RideLondon Classique - General classification",
             "date": "26 May 2024",
             "points": 8,
@@ -183,7 +189,7 @@
             "rank": 15
           }
         ],
-        "totalPoints": 940
+        "totalPoints": 970
       },
       {
         "name": "Shirin van Anrooij",

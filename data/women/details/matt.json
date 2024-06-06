@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179910,
-  "fetchedDate": "5 Jun 2024, 23:12 GMT",
+  "fetchedDate": "6 Jun 2024, 23:14 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 6880,
+    "totalPoints": 6938,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour of Britain Women - Stage 1",
+            "date": "06 Jun 2024",
+            "points": 50,
+            "rank": 1
+          },
           {
             "name": "RideLondon Classique - General classification",
             "date": "26 May 2024",
@@ -161,7 +167,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 2829
+        "totalPoints": 2879
       },
       {
         "name": "Cecilie Uttrup Ludwig",
@@ -481,6 +487,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour of Britain Women - Stage 1",
+            "date": "06 Jun 2024",
+            "points": 8,
+            "rank": 9
+          },
+          {
             "name": "Vuelta a Burgos Feminas - General classification",
             "date": "19 May 2024",
             "points": 8,
@@ -523,7 +535,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 220
+        "totalPoints": 228
       },
       {
         "name": "Antonia Niedermaier",

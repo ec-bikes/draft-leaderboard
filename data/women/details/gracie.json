@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179910,
-  "fetchedDate": "5 Jun 2024, 23:12 GMT",
+  "fetchedDate": "6 Jun 2024, 23:14 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 7052,
+    "totalPoints": 7077,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -677,6 +677,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour of Britain Women - Stage 1",
+            "date": "06 Jun 2024",
+            "points": 25,
+            "rank": 4
+          },
+          {
             "name": "RideLondon Classique - General classification",
             "date": "26 May 2024",
             "points": 24,
@@ -695,7 +701,7 @@
             "rank": 27
           }
         ],
-        "totalPoints": 47
+        "totalPoints": 72
       },
       {
         "name": "Dominika Wlodarczyk",
