@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179910,
-  "fetchedDate": "6 Jun 2024, 23:14 GMT",
+  "fetchedDate": "7 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 10414,
+    "totalPoints": 10420,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -813,6 +813,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Volta Ciclista a Catalunya Femenina - Stage 1",
+            "date": "07 Jun 2024",
+            "points": 6,
+            "rank": 4
+          },
+          {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
             "date": "28 Apr 2024",
             "points": 2.57,
@@ -843,7 +849,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 354
+        "totalPoints": 360
       },
       {
         "name": "Puck Pieterse",

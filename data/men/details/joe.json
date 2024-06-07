@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179899,
-  "fetchedDate": "6 Jun 2024, 23:15 GMT",
+  "fetchedDate": "7 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 8697,
+    "totalPoints": 8745,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - Stage 6",
+            "date": "07 Jun 2024",
+            "points": 8,
+            "rank": 8
+          },
           {
             "name": "Critérium du Dauphiné - Stage 5 - Bonus",
             "date": "06 Jun 2024",
@@ -107,7 +113,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1109
+        "totalPoints": 1117
       },
       {
         "name": "Mathieu van der Poel",
@@ -557,6 +563,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Critérium du Dauphiné - Stage 6",
+            "date": "07 Jun 2024",
+            "points": 40,
+            "rank": 2
+          },
+          {
             "name": "Critérium du Dauphiné - Stage 3",
             "date": "04 Jun 2024",
             "points": 25,
@@ -581,7 +593,7 @@
             "rank": 35
           }
         ],
-        "totalPoints": 65
+        "totalPoints": 105
       },
       {
         "name": "Dylan Groenewegen",

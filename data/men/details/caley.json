@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179899,
-  "fetchedDate": "6 Jun 2024, 23:15 GMT",
+  "fetchedDate": "7 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 9301,
+    "totalPoints": 9321,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -622,6 +622,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Grosser Preis des Kantons Aargau",
+            "date": "07 Jun 2024",
+            "points": 20,
+            "rank": 10
+          },
+          {
             "name": "Trofeo Serra Tramuntana",
             "date": "26 Jan 2024",
             "points": 10,
@@ -634,7 +640,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 50
+        "totalPoints": 70
       },
       {
         "name": "Guillaume Martin",

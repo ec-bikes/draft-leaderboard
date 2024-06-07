@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179910,
-  "fetchedDate": "6 Jun 2024, 23:14 GMT",
+  "fetchedDate": "7 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 10668,
+    "totalPoints": 10670,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -308,6 +308,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Volta Ciclista a Catalunya Femenina - Stage 1",
+            "date": "07 Jun 2024",
+            "points": 2,
+            "rank": 8
+          },
+          {
             "name": "Bretagne Ladies Tour - General classification",
             "date": "24 May 2024",
             "points": 125,
@@ -390,7 +396,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 902
+        "totalPoints": 904
       },
       {
         "name": "Emma Norsgaard",

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179910,
-  "fetchedDate": "6 Jun 2024, 23:14 GMT",
+  "fetchedDate": "7 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 6938,
+    "totalPoints": 7004,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -14,10 +14,26 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour of Britain Women - Stage 2",
+            "date": "07 Jun 2024",
+            "points": 50,
+            "rank": 1
+          },
+          {
+            "name": "Tour of Britain Women - Stage 2 - Bonus",
+            "date": "07 Jun 2024",
+            "points": 8
+          },
+          {
             "name": "Tour of Britain Women - Stage 1",
             "date": "06 Jun 2024",
             "points": 50,
             "rank": 1
+          },
+          {
+            "name": "Tour of Britain Women - Stage 1 - Bonus",
+            "date": "06 Jun 2024",
+            "points": 8
           },
           {
             "name": "RideLondon Classique - General classification",
@@ -167,7 +183,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 2879
+        "totalPoints": 2945
       },
       {
         "name": "Cecilie Uttrup Ludwig",

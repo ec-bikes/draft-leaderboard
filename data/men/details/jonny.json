@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179899,
-  "fetchedDate": "6 Jun 2024, 23:15 GMT",
+  "fetchedDate": "7 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 6478,
+    "totalPoints": 6485,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -286,6 +286,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Critérium du Dauphiné - Stage 6",
+            "date": "07 Jun 2024",
+            "points": 2,
+            "rank": 10
+          },
+          {
             "name": "Tour de Romandie - General classification",
             "date": "28 Apr 2024",
             "points": 20,
@@ -334,7 +340,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 551
+        "totalPoints": 553
       },
       {
         "name": "Yves Lampaert",
@@ -698,6 +704,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Critérium du Dauphiné - Stage 6",
+            "date": "07 Jun 2024",
+            "points": 5,
+            "rank": 9
+          },
+          {
             "name": "Volta Ciclista a Catalunya - General classification",
             "date": "24 Mar 2024",
             "points": 8,
@@ -722,7 +734,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 96
+        "totalPoints": 101
       }
     ]
   }

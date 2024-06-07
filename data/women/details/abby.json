@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179910,
-  "fetchedDate": "6 Jun 2024, 23:14 GMT",
+  "fetchedDate": "7 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 9449,
+    "totalPoints": 9489,
     "riders": [
       {
         "name": "Marianne Vos",
         "id": 31144,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya Femenina - Stage 1",
+            "date": "07 Jun 2024",
+            "points": 12,
+            "rank": 2
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
             "date": "05 May 2024",
@@ -109,13 +115,19 @@
             "rank": 2
           }
         ],
-        "totalPoints": 1910
+        "totalPoints": 1922
       },
       {
         "name": "Pfeiffer Georgi",
         "id": 153350,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour of Britain Women - Stage 2",
+            "date": "07 Jun 2024",
+            "points": 20,
+            "rank": 5
+          },
           {
             "name": "Tour of Britain Women - Stage 1",
             "date": "06 Jun 2024",
@@ -189,7 +201,7 @@
             "rank": 15
           }
         ],
-        "totalPoints": 970
+        "totalPoints": 990
       },
       {
         "name": "Shirin van Anrooij",
@@ -397,6 +409,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Volta Ciclista a Catalunya Femenina - Stage 1",
+            "date": "07 Jun 2024",
+            "points": 8,
+            "rank": 3
+          },
+          {
             "name": "Vuelta Ciclista Andalucia Elite women - General classification",
             "date": "01 Jun 2024",
             "points": 3,
@@ -523,7 +541,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 845
+        "totalPoints": 853
       },
       {
         "name": "Ricarda Bauernfeind",
