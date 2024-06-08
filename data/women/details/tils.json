@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179910,
-  "fetchedDate": "7 Jun 2024, 23:12 GMT",
+  "fetchedDate": "8 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 10420,
+    "totalPoints": 10472,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -351,6 +351,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour of Britain Women - Stage 3",
+            "date": "08 Jun 2024",
+            "points": 40,
+            "rank": 2
+          },
+          {
             "name": "RideLondon Classique - General classification",
             "date": "26 May 2024",
             "points": 320,
@@ -423,13 +429,19 @@
             "rank": 15
           }
         ],
-        "totalPoints": 1182
+        "totalPoints": 1222
       },
       {
         "name": "Riejanne Markus",
         "id": 86854,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya Femenina - Stage 2",
+            "date": "08 Jun 2024",
+            "points": 12,
+            "rank": 2
+          },
           {
             "name": "Veenendaal - Veenendaal Classic",
             "date": "17 May 2024",
@@ -515,7 +527,7 @@
             "rank": 18
           }
         ],
-        "totalPoints": 803
+        "totalPoints": 815
       },
       {
         "name": "Sarah Gigante",

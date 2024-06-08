@@ -2,7 +2,7 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179899,
-  "fetchedDate": "7 Jun 2024, 23:12 GMT",
+  "fetchedDate": "8 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
@@ -498,7 +498,7 @@
       {
         "name": "Gerben Thijssen",
         "id": 107713,
-        "sanctions": 0,
+        "sanctions": 10,
         "results": [
           {
             "name": "ZLM Tour - Stage 2",

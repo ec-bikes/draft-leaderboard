@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179899,
-  "fetchedDate": "7 Jun 2024, 23:12 GMT",
+  "fetchedDate": "8 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 8745,
+    "totalPoints": 8785,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -215,6 +215,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Critérium du Dauphiné - Stage 7",
+            "date": "08 Jun 2024",
+            "points": 10,
+            "rank": 7
+          },
+          {
             "name": "Critérium du Dauphiné - Stage 3",
             "date": "04 Jun 2024",
             "points": 15,
@@ -275,7 +281,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 516
+        "totalPoints": 526
       },
       {
         "name": "Tim Merlier",
@@ -563,6 +569,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Critérium du Dauphiné - Stage 7",
+            "date": "08 Jun 2024",
+            "points": 30,
+            "rank": 3
+          },
+          {
             "name": "Critérium du Dauphiné - Stage 6",
             "date": "07 Jun 2024",
             "points": 40,
@@ -593,7 +605,7 @@
             "rank": 35
           }
         ],
-        "totalPoints": 105
+        "totalPoints": 135
       },
       {
         "name": "Dylan Groenewegen",

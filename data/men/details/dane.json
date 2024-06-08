@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179899,
-  "fetchedDate": "7 Jun 2024, 23:12 GMT",
+  "fetchedDate": "8 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 6236,
+    "totalPoints": 6253,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -214,6 +214,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "Critérium du Dauphiné - Stage 7",
+            "date": "08 Jun 2024",
+            "points": 2,
+            "rank": 10
+          },
+          {
             "name": "Volta Ciclista a Catalunya - General classification",
             "date": "24 Mar 2024",
             "points": 320,
@@ -250,13 +256,19 @@
             "rank": 19
           }
         ],
-        "totalPoints": 415
+        "totalPoints": 417
       },
       {
         "name": "Carlos Rodriguez",
         "id": 428096,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - Stage 7",
+            "date": "08 Jun 2024",
+            "points": 15,
+            "rank": 6
+          },
           {
             "name": "Critérium du Dauphiné - Stage 6",
             "date": "07 Jun 2024",
@@ -323,7 +335,7 @@
             "rank": 19
           }
         ],
-        "totalPoints": 957
+        "totalPoints": 972
       },
       {
         "name": "Marc Hirschi",

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179899,
-  "fetchedDate": "7 Jun 2024, 23:12 GMT",
+  "fetchedDate": "8 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 6894,
+    "totalPoints": 6908,
     "riders": [
       {
         "name": "Adam Yates",
@@ -805,6 +805,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "ZLM Tour - Stage 4",
+            "date": "08 Jun 2024",
+            "points": 14,
+            "rank": 1
+          },
+          {
             "name": "ZLM Tour - Stage 2",
             "date": "06 Jun 2024",
             "points": 14,
@@ -899,7 +905,7 @@
             "points": 3
           }
         ],
-        "totalPoints": 331
+        "totalPoints": 345
       }
     ]
   }

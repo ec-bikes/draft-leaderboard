@@ -2,17 +2,28 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179910,
-  "fetchedDate": "7 Jun 2024, 23:12 GMT",
+  "fetchedDate": "8 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 7004,
+    "totalPoints": 7112,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour of Britain Women - Stage 3",
+            "date": "08 Jun 2024",
+            "points": 15,
+            "rank": 7
+          },
+          {
+            "name": "Tour of Britain Women - Stage 3 - Bonus",
+            "date": "08 Jun 2024",
+            "points": 8
+          },
           {
             "name": "Tour of Britain Women - Stage 2",
             "date": "07 Jun 2024",
@@ -183,7 +194,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 2945
+        "totalPoints": 2968
       },
       {
         "name": "Cecilie Uttrup Ludwig",
@@ -755,6 +766,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Elmos Dwars door het Hageland",
+            "date": "08 Jun 2024",
+            "points": 85,
+            "rank": 2
+          },
+          {
             "name": "Bretagne Ladies Tour - General classification",
             "date": "24 May 2024",
             "points": 50,
@@ -887,7 +904,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 887
+        "totalPoints": 972
       }
     ]
   }
