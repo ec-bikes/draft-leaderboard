@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179899,
-  "fetchedDate": "8 Jun 2024, 23:11 GMT",
+  "fetchedDate": "9 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 9907,
+    "totalPoints": 10347,
     "riders": [
       {
         "name": "Mads Pedersen",
@@ -204,6 +204,18 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Critérium du Dauphiné - General classification",
+            "date": "09 Jun 2024",
+            "points": 400,
+            "rank": 2
+          },
+          {
+            "name": "Critérium du Dauphiné - Stage 8",
+            "date": "09 Jun 2024",
+            "points": 40,
+            "rank": 2
+          },
+          {
             "name": "Critérium du Dauphiné - Stage 7",
             "date": "08 Jun 2024",
             "points": 40,
@@ -300,7 +312,7 @@
             "rank": 29
           }
         ],
-        "totalPoints": 1237
+        "totalPoints": 1677
       },
       {
         "name": "Ben Healy",

@@ -2,17 +2,29 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179910,
-  "fetchedDate": "8 Jun 2024, 23:11 GMT",
+  "fetchedDate": "9 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 9638,
+    "totalPoints": 10019,
     "riders": [
       {
         "name": "Marianne Vos",
         "id": 31144,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya Femenina - General classification",
+            "date": "09 Jun 2024",
+            "points": 125,
+            "rank": 1
+          },
+          {
+            "name": "Volta Ciclista a Catalunya Femenina - Stage 3",
+            "date": "09 Jun 2024",
+            "points": 12,
+            "rank": 2
+          },
           {
             "name": "Volta Ciclista a Catalunya Femenina - Stage 2",
             "date": "08 Jun 2024",
@@ -126,13 +138,25 @@
             "rank": 2
           }
         ],
-        "totalPoints": 1941
+        "totalPoints": 2078
       },
       {
         "name": "Pfeiffer Georgi",
         "id": 153350,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour of Britain Women - General classification",
+            "date": "09 Jun 2024",
+            "points": 220,
+            "rank": 4
+          },
+          {
+            "name": "Tour of Britain Women - Stage 4",
+            "date": "09 Jun 2024",
+            "points": 18,
+            "rank": 6
+          },
           {
             "name": "Tour of Britain Women - Stage 2",
             "date": "07 Jun 2024",
@@ -212,7 +236,7 @@
             "rank": 15
           }
         ],
-        "totalPoints": 990
+        "totalPoints": 1228
       },
       {
         "name": "Shirin van Anrooij",
@@ -426,6 +450,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Volta Ciclista a Catalunya Femenina - Stage 3",
+            "date": "09 Jun 2024",
+            "points": 6,
+            "rank": 4
+          },
+          {
             "name": "Volta Ciclista a Catalunya Femenina - Stage 1",
             "date": "07 Jun 2024",
             "points": 8,
@@ -558,7 +588,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 853
+        "totalPoints": 859
       },
       {
         "name": "Ricarda Bauernfeind",

@@ -2,17 +2,29 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179899,
-  "fetchedDate": "8 Jun 2024, 23:11 GMT",
+  "fetchedDate": "9 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 8785,
+    "totalPoints": 9168,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - General classification",
+            "date": "09 Jun 2024",
+            "points": 150,
+            "rank": 7
+          },
+          {
+            "name": "Critérium du Dauphiné - Stage 8",
+            "date": "09 Jun 2024",
+            "points": 8,
+            "rank": 8
+          },
           {
             "name": "Critérium du Dauphiné - Stage 6",
             "date": "07 Jun 2024",
@@ -113,7 +125,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1117
+        "totalPoints": 1275
       },
       {
         "name": "Mathieu van der Poel",
@@ -215,6 +227,18 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Critérium du Dauphiné - General classification",
+            "date": "09 Jun 2024",
+            "points": 70,
+            "rank": 11
+          },
+          {
+            "name": "Critérium du Dauphiné - Stage 8",
+            "date": "09 Jun 2024",
+            "points": 20,
+            "rank": 5
+          },
+          {
             "name": "Critérium du Dauphiné - Stage 7",
             "date": "08 Jun 2024",
             "points": 10,
@@ -281,7 +305,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 526
+        "totalPoints": 616
       },
       {
         "name": "Tim Merlier",
@@ -569,6 +593,18 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Critérium du Dauphiné - General classification",
+            "date": "09 Jun 2024",
+            "points": 125,
+            "rank": 8
+          },
+          {
+            "name": "Critérium du Dauphiné - Stage 8",
+            "date": "09 Jun 2024",
+            "points": 10,
+            "rank": 7
+          },
+          {
             "name": "Critérium du Dauphiné - Stage 7",
             "date": "08 Jun 2024",
             "points": 30,
@@ -605,7 +641,7 @@
             "rank": 35
           }
         ],
-        "totalPoints": 135
+        "totalPoints": 270
       },
       {
         "name": "Dylan Groenewegen",

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179899,
-  "fetchedDate": "8 Jun 2024, 23:11 GMT",
+  "fetchedDate": "9 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 5825,
+    "totalPoints": 5828,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -501,6 +501,12 @@
         "sanctions": 10,
         "results": [
           {
+            "name": "ZLM Tour - General classification",
+            "date": "09 Jun 2024",
+            "points": 3,
+            "rank": 25
+          },
+          {
             "name": "ZLM Tour - Stage 2",
             "date": "06 Jun 2024",
             "points": 3,
@@ -584,7 +590,7 @@
             "rank": 19
           }
         ],
-        "totalPoints": 581
+        "totalPoints": 584
       },
       {
         "name": "Wout Poels",

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179899,
-  "fetchedDate": "8 Jun 2024, 23:11 GMT",
+  "fetchedDate": "9 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 6908,
+    "totalPoints": 6963,
     "riders": [
       {
         "name": "Adam Yates",
@@ -149,6 +149,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "Critérium du Dauphiné - General classification",
+            "date": "09 Jun 2024",
+            "points": 10,
+            "rank": 42
+          },
+          {
             "name": "Liège-Bastogne-Liège",
             "date": "21 Apr 2024",
             "points": 240,
@@ -221,13 +227,19 @@
             "rank": 5
           }
         ],
-        "totalPoints": 638
+        "totalPoints": 648
       },
       {
         "name": "João Almeida",
         "id": 107840,
         "sanctions": 25,
         "results": [
+          {
+            "name": "Tour de Suisse - Stage 1 (ITT)",
+            "date": "09 Jun 2024",
+            "points": 25,
+            "rank": 4
+          },
           {
             "name": "Liège-Bastogne-Liège",
             "date": "21 Apr 2024",
@@ -271,7 +283,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 227
+        "totalPoints": 252
       },
       {
         "name": "Kévin Vauquelin",
@@ -805,6 +817,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "ZLM Tour - General classification",
+            "date": "09 Jun 2024",
+            "points": 20,
+            "rank": 10
+          },
+          {
             "name": "ZLM Tour - Stage 4",
             "date": "08 Jun 2024",
             "points": 14,
@@ -905,7 +923,7 @@
             "points": 3
           }
         ],
-        "totalPoints": 345
+        "totalPoints": 365
       }
     ]
   }

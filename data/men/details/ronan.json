@@ -2,17 +2,29 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179899,
-  "fetchedDate": "8 Jun 2024, 23:11 GMT",
+  "fetchedDate": "9 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 9290,
+    "totalPoints": 9825,
     "riders": [
       {
         "name": "Primož Roglič",
         "id": 88889,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - General classification",
+            "date": "09 Jun 2024",
+            "points": 500,
+            "rank": 1
+          },
+          {
+            "name": "Critérium du Dauphiné - Stage 8",
+            "date": "09 Jun 2024",
+            "points": 15,
+            "rank": 6
+          },
           {
             "name": "Critérium du Dauphiné - Stage 7",
             "date": "08 Jun 2024",
@@ -99,7 +111,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 416
+        "totalPoints": 931
       },
       {
         "name": "Biniam Girmay",
@@ -975,6 +987,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Critérium du Dauphiné - General classification",
+            "date": "09 Jun 2024",
+            "points": 20,
+            "rank": 29
+          },
+          {
             "name": "Mercan'Tour Classic Alpes-Maritimes",
             "date": "29 May 2024",
             "points": 3,
@@ -1017,7 +1035,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 114
+        "totalPoints": 134
       }
     ]
   }

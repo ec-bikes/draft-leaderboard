@@ -2,17 +2,29 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179910,
-  "fetchedDate": "8 Jun 2024, 23:11 GMT",
+  "fetchedDate": "9 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 7208,
+    "totalPoints": 7479,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour of Britain Women - General classification",
+            "date": "09 Jun 2024",
+            "points": 68,
+            "rank": 10
+          },
+          {
+            "name": "Tour of Britain Women - Stage 4",
+            "date": "09 Jun 2024",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Tour of Britain Women - Stage 3",
             "date": "08 Jun 2024",
@@ -166,7 +178,7 @@
             "points": 8
           }
         ],
-        "totalPoints": 2681
+        "totalPoints": 2779
       },
       {
         "name": "Liane Lippert",
@@ -358,6 +370,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "SPAR Flanders Diamond Tour",
+            "date": "09 Jun 2024",
+            "points": 20,
+            "rank": 10
+          },
+          {
             "name": "Elmos Dwars door het Hageland",
             "date": "08 Jun 2024",
             "points": 40,
@@ -424,7 +442,7 @@
             "rank": 15
           }
         ],
-        "totalPoints": 471
+        "totalPoints": 491
       },
       {
         "name": "Neve Bradbury",
@@ -518,6 +536,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Volta Ciclista a Catalunya Femenina - General classification",
+            "date": "09 Jun 2024",
+            "points": 30,
+            "rank": 8
+          },
+          {
             "name": "Volta Ciclista a Catalunya Femenina - Stage 2",
             "date": "08 Jun 2024",
             "points": 3,
@@ -566,13 +590,19 @@
             "rank": 9
           }
         ],
-        "totalPoints": 537
+        "totalPoints": 567
       },
       {
         "name": "Olivia Baril",
         "id": 151523,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya Femenina - General classification",
+            "date": "09 Jun 2024",
+            "points": 3,
+            "rank": 21
+          },
           {
             "name": "Gran Premio Ciudad de Eibar",
             "date": "26 May 2024",
@@ -693,13 +723,19 @@
             "rank": 4
           }
         ],
-        "totalPoints": 726
+        "totalPoints": 729
       },
       {
         "name": "Lizzie Deignan",
         "id": 45988,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour of Britain Women - General classification",
+            "date": "09 Jun 2024",
+            "points": 120,
+            "rank": 7
+          },
           {
             "name": "Tour of Britain Women - Stage 2",
             "date": "07 Jun 2024",
@@ -731,7 +767,7 @@
             "rank": 27
           }
         ],
-        "totalPoints": 80
+        "totalPoints": 200
       },
       {
         "name": "Dominika Wlodarczyk",

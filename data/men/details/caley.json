@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179899,
-  "fetchedDate": "8 Jun 2024, 23:11 GMT",
+  "fetchedDate": "9 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 9321,
+    "totalPoints": 9371,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -461,6 +461,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "Critérium du Dauphiné - General classification",
+            "date": "09 Jun 2024",
+            "points": 10,
+            "rank": 33
+          },
+          {
             "name": "Liège-Bastogne-Liège",
             "date": "21 Apr 2024",
             "points": 95,
@@ -503,13 +509,19 @@
             "rank": 35
           }
         ],
-        "totalPoints": 745
+        "totalPoints": 755
       },
       {
         "name": "Josh Tarling",
         "id": 1557793,
         "sanctions": 100,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - General classification",
+            "date": "09 Jun 2024",
+            "points": 10,
+            "rank": 46
+          },
           {
             "name": "Critérium du Dauphiné - Stage 4 (ITT)",
             "date": "05 Jun 2024",
@@ -564,7 +576,7 @@
             "rank": 55
           }
         ],
-        "totalPoints": 236
+        "totalPoints": 246
       },
       {
         "name": "Enric Mas",
@@ -647,6 +659,12 @@
         "id": 75170,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - General classification",
+            "date": "09 Jun 2024",
+            "points": 30,
+            "rank": 19
+          },
           {
             "name": "Critérium du Dauphiné - Stage 2",
             "date": "03 Jun 2024",
@@ -732,7 +750,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 452
+        "totalPoints": 482
       }
     ]
   }
