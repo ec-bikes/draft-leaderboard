@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179899,
-  "fetchedDate": "9 Jun 2024, 23:12 GMT",
+  "fetchedDate": "10 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 9825,
+    "totalPoints": 9835,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -235,6 +235,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Suisse - Stage 2",
+            "date": "10 Jun 2024",
+            "points": 10,
+            "rank": 7
+          },
+          {
             "name": "Liège-Bastogne-Liège",
             "date": "21 Apr 2024",
             "points": 135,
@@ -301,7 +307,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1298
+        "totalPoints": 1308
       },
       {
         "name": "Olav Kooij",

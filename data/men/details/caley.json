@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179899,
-  "fetchedDate": "9 Jun 2024, 23:12 GMT",
+  "fetchedDate": "10 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 9371,
+    "totalPoints": 9391,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -634,6 +634,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Suisse - Stage 2",
+            "date": "10 Jun 2024",
+            "points": 20,
+            "rank": 5
+          },
+          {
             "name": "Grosser Preis des Kantons Aargau",
             "date": "07 Jun 2024",
             "points": 20,
@@ -652,7 +658,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 70
+        "totalPoints": 90
       },
       {
         "name": "Guillaume Martin",

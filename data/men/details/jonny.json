@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 179899,
-  "fetchedDate": "9 Jun 2024, 23:12 GMT",
+  "fetchedDate": "10 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 6660,
+    "totalPoints": 6740,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -360,10 +360,20 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Suisse - Stage 2 - Bonus",
+            "date": "10 Jun 2024",
+            "points": 10
+          },
+          {
             "name": "Tour de Suisse - Stage 1 (ITT)",
             "date": "09 Jun 2024",
             "points": 60,
             "rank": 1
+          },
+          {
+            "name": "Tour de Suisse - Stage 1 (ITT) - Bonus",
+            "date": "09 Jun 2024",
+            "points": 10
           },
           {
             "name": "Brussels Cycling Classic",
@@ -450,7 +460,7 @@
             "rank": 13
           }
         ],
-        "totalPoints": 217
+        "totalPoints": 237
       },
       {
         "name": "Fred Wright",
@@ -538,6 +548,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Suisse - Stage 2",
+            "date": "10 Jun 2024",
+            "points": 60,
+            "rank": 1
+          },
+          {
             "name": "Tro-Bro Léon",
             "date": "05 May 2024",
             "points": 5,
@@ -610,7 +626,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 286
+        "totalPoints": 346
       },
       {
         "name": "Romain Grégoire",
