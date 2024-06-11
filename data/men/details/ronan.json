@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 179899,
-  "fetchedDate": "10 Jun 2024, 23:11 GMT",
+  "momentId": 180148,
+  "fetchedDate": "11 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 9835,
+    "totalPoints": 9837,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -527,6 +527,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Suisse - Stage 3",
+            "date": "11 Jun 2024",
+            "points": 2,
+            "rank": 10
+          },
+          {
             "name": "Grosser Preis des Kantons Aargau",
             "date": "07 Jun 2024",
             "points": 3,
@@ -599,7 +605,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 532
+        "totalPoints": 534
       },
       {
         "name": "Jhonatan Narváez",
