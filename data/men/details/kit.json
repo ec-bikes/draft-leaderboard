@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180148,
-  "fetchedDate": "11 Jun 2024, 23:11 GMT",
+  "fetchedDate": "12 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 5828,
+    "totalPoints": 5831,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -200,6 +200,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour of Slovenia - Stage 1",
+            "date": "12 Jun 2024",
+            "points": 3,
+            "rank": 5
+          },
+          {
             "name": "Tour de Hongrie - Stage 1",
             "date": "08 May 2024",
             "points": 20,
@@ -258,7 +264,7 @@
             "points": 10
           }
         ],
-        "totalPoints": 317
+        "totalPoints": 320
       },
       {
         "name": "Filippo Ganna",
