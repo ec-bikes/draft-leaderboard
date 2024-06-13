@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180148,
-  "fetchedDate": "12 Jun 2024, 23:11 GMT",
+  "fetchedDate": "13 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 10367,
+    "totalPoints": 10397,
     "riders": [
       {
         "name": "Mads Pedersen",
@@ -610,6 +610,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Suisse - Stage 5",
+            "date": "13 Jun 2024",
+            "points": 30,
+            "rank": 3
+          },
+          {
             "name": "Tour de Suisse - Stage 4",
             "date": "12 Jun 2024",
             "points": 20,
@@ -712,7 +718,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 818
+        "totalPoints": 848
       },
       {
         "name": "Ben O'Connor",

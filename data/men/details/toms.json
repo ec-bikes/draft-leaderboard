@@ -2,17 +2,28 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180148,
-  "fetchedDate": "12 Jun 2024, 23:11 GMT",
+  "fetchedDate": "13 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 7091,
+    "totalPoints": 7203,
     "riders": [
       {
         "name": "Adam Yates",
         "id": 70590,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Suisse - Stage 5",
+            "date": "13 Jun 2024",
+            "points": 60,
+            "rank": 1
+          },
+          {
+            "name": "Tour de Suisse - Stage 5 - Bonus",
+            "date": "13 Jun 2024",
+            "points": 10
+          },
           {
             "name": "Tour de Suisse - Stage 4",
             "date": "12 Jun 2024",
@@ -67,7 +78,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 403
+        "totalPoints": 473
       },
       {
         "name": "Mattias Skjelmose",
@@ -261,8 +272,14 @@
       {
         "name": "João Almeida",
         "id": 107840,
-        "sanctions": 25,
+        "sanctions": 50,
         "results": [
+          {
+            "name": "Tour de Suisse - Stage 5",
+            "date": "13 Jun 2024",
+            "points": 40,
+            "rank": 2
+          },
           {
             "name": "Tour de Suisse - Stage 4",
             "date": "12 Jun 2024",
@@ -318,7 +335,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 277
+        "totalPoints": 317
       },
       {
         "name": "Kévin Vauquelin",
@@ -583,6 +600,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Suisse - Stage 5",
+            "date": "13 Jun 2024",
+            "points": 2,
+            "rank": 10
+          },
+          {
             "name": "Tour de Suisse - Stage 4",
             "date": "12 Jun 2024",
             "points": 5,
@@ -631,7 +654,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 310
+        "totalPoints": 312
       },
       {
         "name": "Laurence Pithie",
