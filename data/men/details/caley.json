@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180148,
-  "fetchedDate": "13 Jun 2024, 23:12 GMT",
+  "fetchedDate": "14 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 9421,
+    "totalPoints": 9451,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -363,6 +363,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Suisse - Stage 6",
+            "date": "14 Jun 2024",
+            "points": 20,
+            "rank": 5
+          },
+          {
             "name": "Mercan'Tour Classic Alpes-Maritimes",
             "date": "29 May 2024",
             "points": 125,
@@ -453,7 +459,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1176
+        "totalPoints": 1196
       },
       {
         "name": "Tiesj Benoot",
@@ -584,6 +590,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Suisse - Stage 6",
+            "date": "14 Jun 2024",
+            "points": 10,
+            "rank": 7
+          },
+          {
             "name": "Tour de Suisse - Stage 5",
             "date": "13 Jun 2024",
             "points": 20,
@@ -638,7 +650,7 @@
             "rank": 12
           }
         ],
-        "totalPoints": 497
+        "totalPoints": 507
       },
       {
         "name": "Rui Costa",

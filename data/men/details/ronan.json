@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180148,
-  "fetchedDate": "13 Jun 2024, 23:12 GMT",
+  "fetchedDate": "14 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 9880,
+    "totalPoints": 9925,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -241,6 +241,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Suisse - Stage 6",
+            "date": "14 Jun 2024",
+            "points": 15,
+            "rank": 6
+          },
+          {
             "name": "Tour de Suisse - Stage 5",
             "date": "13 Jun 2024",
             "points": 10,
@@ -319,13 +325,19 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1318
+        "totalPoints": 1333
       },
       {
         "name": "Olav Kooij",
         "id": 227110,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Baloise Belgium Tour - Stage 3",
+            "date": "14 Jun 2024",
+            "points": 15,
+            "rank": 2
+          },
           {
             "name": "Baloise Belgium Tour - Stage 2",
             "date": "13 Jun 2024",
@@ -410,7 +422,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 977
+        "totalPoints": 992
       },
       {
         "name": "Jonathan Milan",
@@ -631,6 +643,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour of Slovenia - Stage 3",
+            "date": "14 Jun 2024",
+            "points": 15,
+            "rank": 2
+          },
+          {
             "name": "Tour of Slovenia - Stage 2",
             "date": "13 Jun 2024",
             "points": 3,
@@ -738,7 +756,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 1395
+        "totalPoints": 1410
       },
       {
         "name": "Sam Bennett",

@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180148,
-  "fetchedDate": "13 Jun 2024, 23:12 GMT",
+  "fetchedDate": "14 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 6755,
+    "totalPoints": 6775,
     "riders": [
       {
         "name": "Jasper Philipsen",
         "id": 148275,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Baloise Belgium Tour - Stage 3",
+            "date": "14 Jun 2024",
+            "points": 20,
+            "rank": 1
+          },
           {
             "name": "Baloise Belgium Tour - Stage 2",
             "date": "13 Jun 2024",
@@ -80,7 +86,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 2450
+        "totalPoints": 2470
       },
       {
         "name": "Simon Yates",

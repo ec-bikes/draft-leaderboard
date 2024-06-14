@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180159,
-  "fetchedDate": "13 Jun 2024, 23:12 GMT",
+  "fetchedDate": "14 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 10565,
+    "totalPoints": 10584,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -831,6 +831,17 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour Féminin International des Pyrénées - Stage 1",
+            "date": "14 Jun 2024",
+            "points": 16,
+            "rank": 1
+          },
+          {
+            "name": "Tour Féminin International des Pyrénées - Stage 1 - Bonus",
+            "date": "14 Jun 2024",
+            "points": 3
+          },
+          {
             "name": "Volta Ciclista a Catalunya Femenina - Stage 3",
             "date": "09 Jun 2024",
             "points": 8,
@@ -873,7 +884,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 368
+        "totalPoints": 387
       },
       {
         "name": "Puck Pieterse",

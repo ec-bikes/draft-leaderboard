@@ -2,17 +2,28 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180148,
-  "fetchedDate": "13 Jun 2024, 23:12 GMT",
+  "fetchedDate": "14 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 7203,
+    "totalPoints": 7343,
     "riders": [
       {
         "name": "Adam Yates",
         "id": 70590,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Suisse - Stage 6",
+            "date": "14 Jun 2024",
+            "points": 40,
+            "rank": 2
+          },
+          {
+            "name": "Tour de Suisse - Stage 6 - Bonus",
+            "date": "14 Jun 2024",
+            "points": 10
+          },
           {
             "name": "Tour de Suisse - Stage 5",
             "date": "13 Jun 2024",
@@ -78,13 +89,19 @@
             "rank": 1
           }
         ],
-        "totalPoints": 473
+        "totalPoints": 523
       },
       {
         "name": "Mattias Skjelmose",
         "id": 365033,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Suisse - Stage 6",
+            "date": "14 Jun 2024",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Tour de Suisse - Stage 4",
             "date": "12 Jun 2024",
@@ -181,7 +198,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1044
+        "totalPoints": 1074
       },
       {
         "name": "Valentin Madouas",
@@ -275,6 +292,12 @@
         "sanctions": 50,
         "results": [
           {
+            "name": "Tour de Suisse - Stage 6",
+            "date": "14 Jun 2024",
+            "points": 60,
+            "rank": 1
+          },
+          {
             "name": "Tour de Suisse - Stage 5",
             "date": "13 Jun 2024",
             "points": 40,
@@ -335,7 +358,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 317
+        "totalPoints": 377
       },
       {
         "name": "Kévin Vauquelin",

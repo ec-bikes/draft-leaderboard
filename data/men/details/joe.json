@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180148,
-  "fetchedDate": "13 Jun 2024, 23:12 GMT",
+  "fetchedDate": "14 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 9226,
+    "totalPoints": 9233,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -313,6 +313,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Baloise Belgium Tour - Stage 3",
+            "date": "14 Jun 2024",
+            "points": 5,
+            "rank": 4
+          },
+          {
             "name": "Baloise Belgium Tour - Stage 2",
             "date": "13 Jun 2024",
             "points": 20,
@@ -443,7 +449,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1752
+        "totalPoints": 1757
       },
       {
         "name": "Julian Alaphilippe",
@@ -537,6 +543,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Suisse - Stage 6",
+            "date": "14 Jun 2024",
+            "points": 2,
+            "rank": 10
+          },
+          {
             "name": "Tour de Suisse - Stage 5",
             "date": "13 Jun 2024",
             "points": 5,
@@ -603,7 +615,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 372
+        "totalPoints": 374
       },
       {
         "name": "Giulio Ciccone",
