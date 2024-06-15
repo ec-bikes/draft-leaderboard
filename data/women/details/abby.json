@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180159,
-  "fetchedDate": "14 Jun 2024, 23:11 GMT",
+  "fetchedDate": "15 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 10019,
+    "totalPoints": 10049,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -676,6 +676,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Suisse Women - Stage 1",
+            "date": "15 Jun 2024",
+            "points": 30,
+            "rank": 3
+          },
+          {
             "name": "Vuelta a Burgos Feminas - General classification",
             "date": "19 May 2024",
             "points": 220,
@@ -772,7 +778,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 1033
+        "totalPoints": 1063
       },
       {
         "name": "Noemi Rüegg",

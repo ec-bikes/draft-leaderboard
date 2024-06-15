@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180159,
-  "fetchedDate": "14 Jun 2024, 23:11 GMT",
+  "fetchedDate": "15 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 7479,
+    "totalPoints": 7489,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -450,6 +450,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Suisse Women - Stage 1",
+            "date": "15 Jun 2024",
+            "points": 10,
+            "rank": 8
+          },
+          {
             "name": "Vuelta a Burgos Feminas - General classification",
             "date": "19 May 2024",
             "points": 8,
@@ -528,7 +534,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 805
+        "totalPoints": 815
       },
       {
         "name": "Rosita Reijnhout",

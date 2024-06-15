@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180148,
-  "fetchedDate": "14 Jun 2024, 23:11 GMT",
+  "fetchedDate": "15 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 5841,
+    "totalPoints": 5861,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -316,6 +316,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour of Slovenia - Stage 4",
+            "date": "15 Jun 2024",
+            "points": 20,
+            "rank": 1
+          },
+          {
             "name": "Liège-Bastogne-Liège",
             "date": "21 Apr 2024",
             "points": 160,
@@ -394,7 +400,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 755
+        "totalPoints": 775
       },
       {
         "name": "Alexey Lutsenko",

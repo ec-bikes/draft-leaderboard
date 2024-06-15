@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180148,
-  "fetchedDate": "14 Jun 2024, 23:11 GMT",
+  "fetchedDate": "15 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 10422,
+    "totalPoints": 10457,
     "riders": [
       {
         "name": "Mads Pedersen",
@@ -530,6 +530,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Baloise Belgium Tour - Stage 4",
+            "date": "15 Jun 2024",
+            "points": 20,
+            "rank": 1
+          },
+          {
             "name": "Eschborn-Frankfurt",
             "date": "01 May 2024",
             "points": 250,
@@ -602,13 +608,19 @@
             "rank": 3
           }
         ],
-        "totalPoints": 568
+        "totalPoints": 588
       },
       {
         "name": "Egan Bernal",
         "id": 95844,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Suisse - Stage 7",
+            "date": "15 Jun 2024",
+            "points": 15,
+            "rank": 6
+          },
           {
             "name": "Tour de Suisse - Stage 6",
             "date": "14 Jun 2024",
@@ -724,7 +736,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 873
+        "totalPoints": 888
       },
       {
         "name": "Ben O'Connor",

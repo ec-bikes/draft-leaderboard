@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180159,
-  "fetchedDate": "14 Jun 2024, 23:11 GMT",
+  "fetchedDate": "15 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 7670,
+    "totalPoints": 7716,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -373,6 +373,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Suisse Women - Stage 1",
+            "date": "15 Jun 2024",
+            "points": 40,
+            "rank": 2
+          },
+          {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
             "date": "28 Apr 2024",
             "points": 7.14,
@@ -450,13 +456,19 @@
             "rank": 4
           }
         ],
-        "totalPoints": 463
+        "totalPoints": 503
       },
       {
         "name": "Amanda Spratt",
         "id": 32706,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Suisse Women - Stage 1",
+            "date": "15 Jun 2024",
+            "points": 6,
+            "rank": 10
+          },
           {
             "name": "Itzulia Women - General classification",
             "date": "12 May 2024",
@@ -524,7 +536,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 355
+        "totalPoints": 361
       },
       {
         "name": "Ruby Roseman-Gannon",

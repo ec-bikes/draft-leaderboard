@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180148,
-  "fetchedDate": "14 Jun 2024, 23:11 GMT",
+  "fetchedDate": "15 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 9925,
+    "totalPoints": 9933,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -241,6 +241,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Suisse - Stage 7",
+            "date": "15 Jun 2024",
+            "points": 8,
+            "rank": 8
+          },
+          {
             "name": "Tour de Suisse - Stage 6",
             "date": "14 Jun 2024",
             "points": 15,
@@ -325,7 +331,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1333
+        "totalPoints": 1341
       },
       {
         "name": "Olav Kooij",
@@ -897,7 +903,7 @@
       {
         "name": "Isaac del Toro",
         "id": 2002910,
-        "sanctions": 25,
+        "sanctions": 50,
         "results": [
           {
             "name": "Grosser Preis des Kantons Aargau",
