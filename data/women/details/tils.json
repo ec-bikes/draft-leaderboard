@@ -2,17 +2,28 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180159,
-  "fetchedDate": "15 Jun 2024, 23:11 GMT",
+  "fetchedDate": "16 Jun 2024, 23:13 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 10660,
+    "totalPoints": 10743,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Suisse Women - Stage 2 (ITT)",
+            "date": "16 Jun 2024",
+            "points": 50,
+            "rank": 1
+          },
+          {
+            "name": "Tour de Suisse Women - Stage 2 (ITT) - Bonus",
+            "date": "16 Jun 2024",
+            "points": 8
+          },
           {
             "name": "Tour de Suisse Women - Stage 1",
             "date": "15 Jun 2024",
@@ -170,7 +181,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 2913
+        "totalPoints": 2971
       },
       {
         "name": "Kasia Niewiadoma",
@@ -255,8 +266,14 @@
       {
         "name": "Juliette Labous",
         "id": 97498,
-        "sanctions": 0,
+        "sanctions": 15,
         "results": [
+          {
+            "name": "Tour de Suisse Women - Stage 2 (ITT)",
+            "date": "16 Jun 2024",
+            "points": 25,
+            "rank": 4
+          },
           {
             "name": "Tour de Suisse Women - Stage 1",
             "date": "15 Jun 2024",
@@ -360,7 +377,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 971
+        "totalPoints": 996
       },
       {
         "name": "Charlotte Kool",

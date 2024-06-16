@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180148,
-  "fetchedDate": "15 Jun 2024, 23:12 GMT",
+  "fetchedDate": "16 Jun 2024, 23:13 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 9933,
+    "totalPoints": 10213,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -118,6 +118,12 @@
         "id": 1707195,
         "sanctions": 0,
         "results": [
+          {
+            "name": "National Championships Eritrea ME - Road Race",
+            "date": "15 Jun 2024",
+            "points": 30,
+            "rank": 6
+          },
           {
             "name": "National Championships Eritrea ME - ITT",
             "date": "13 Jun 2024",
@@ -233,13 +239,25 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1054
+        "totalPoints": 1084
       },
       {
         "name": "Tom Pidcock",
         "id": 109775,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Suisse - General classification",
+            "date": "16 Jun 2024",
+            "points": 175,
+            "rank": 6
+          },
+          {
+            "name": "Tour de Suisse - Stage 8 (ITT)",
+            "date": "16 Jun 2024",
+            "points": 20,
+            "rank": 5
+          },
           {
             "name": "Tour de Suisse - Stage 7",
             "date": "15 Jun 2024",
@@ -331,7 +349,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1341
+        "totalPoints": 1536
       },
       {
         "name": "Olav Kooij",
@@ -649,6 +667,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour of Slovenia - General classification",
+            "date": "16 Jun 2024",
+            "points": 5,
+            "rank": 20
+          },
+          {
             "name": "Tour of Slovenia - Stage 3",
             "date": "14 Jun 2024",
             "points": 15,
@@ -762,7 +786,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 1410
+        "totalPoints": 1415
       },
       {
         "name": "Sam Bennett",
@@ -906,6 +930,12 @@
         "sanctions": 50,
         "results": [
           {
+            "name": "Tour de Suisse - General classification",
+            "date": "16 Jun 2024",
+            "points": 50,
+            "rank": 13
+          },
+          {
             "name": "Grosser Preis des Kantons Aargau",
             "date": "07 Jun 2024",
             "points": 60,
@@ -1039,7 +1069,7 @@
             "points": 10
           }
         ],
-        "totalPoints": 1165
+        "totalPoints": 1215
       },
       {
         "name": "Darren Rafferty",

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180148,
-  "fetchedDate": "15 Jun 2024, 23:12 GMT",
+  "fetchedDate": "16 Jun 2024, 23:13 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 9453,
+    "totalPoints": 9644,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -300,6 +300,18 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour of Slovenia - General classification",
+            "date": "16 Jun 2024",
+            "points": 3,
+            "rank": 36
+          },
+          {
+            "name": "Tour of Slovenia - Stage 5",
+            "date": "16 Jun 2024",
+            "points": 3,
+            "rank": 5
+          },
+          {
             "name": "Gent-Wevelgem in Flanders Fields ME",
             "date": "24 Mar 2024",
             "points": 50,
@@ -348,7 +360,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 578
+        "totalPoints": 584
       },
       {
         "name": "Victor Lafay",
@@ -362,6 +374,18 @@
         "id": 1843476,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Suisse - General classification",
+            "date": "16 Jun 2024",
+            "points": 10,
+            "rank": 32
+          },
+          {
+            "name": "Tour de Suisse - Stage 8 (ITT)",
+            "date": "16 Jun 2024",
+            "points": 15,
+            "rank": 6
+          },
           {
             "name": "Tour de Suisse - Stage 6",
             "date": "14 Jun 2024",
@@ -459,7 +483,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1196
+        "totalPoints": 1221
       },
       {
         "name": "Tiesj Benoot",
@@ -590,6 +614,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Suisse - General classification",
+            "date": "16 Jun 2024",
+            "points": 150,
+            "rank": 7
+          },
+          {
             "name": "Tour de Suisse - Stage 7",
             "date": "15 Jun 2024",
             "points": 2,
@@ -656,13 +686,19 @@
             "rank": 12
           }
         ],
-        "totalPoints": 509
+        "totalPoints": 659
       },
       {
         "name": "Rui Costa",
         "id": 32596,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Suisse - General classification",
+            "date": "16 Jun 2024",
+            "points": 10,
+            "rank": 38
+          },
           {
             "name": "Tour de Suisse - Stage 2",
             "date": "10 Jun 2024",
@@ -688,7 +724,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 90
+        "totalPoints": 100
       },
       {
         "name": "Guillaume Martin",

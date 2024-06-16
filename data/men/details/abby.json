@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180148,
-  "fetchedDate": "15 Jun 2024, 23:12 GMT",
+  "fetchedDate": "16 Jun 2024, 23:13 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 10457,
+    "totalPoints": 10945,
     "riders": [
       {
         "name": "Mads Pedersen",
@@ -320,6 +320,18 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour of Slovenia - General classification",
+            "date": "16 Jun 2024",
+            "points": 60,
+            "rank": 7
+          },
+          {
+            "name": "Tour of Slovenia - Stage 5",
+            "date": "16 Jun 2024",
+            "points": 20,
+            "rank": 1
+          },
+          {
             "name": "Liège-Bastogne-Liège",
             "date": "21 Apr 2024",
             "points": 30,
@@ -362,7 +374,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 291
+        "totalPoints": 371
       },
       {
         "name": "Kaden Groves",
@@ -530,6 +542,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Baloise Belgium Tour - General classification",
+            "date": "16 Jun 2024",
+            "points": 125,
+            "rank": 3
+          },
+          {
             "name": "Baloise Belgium Tour - Stage 4",
             "date": "15 Jun 2024",
             "points": 20,
@@ -608,13 +626,25 @@
             "rank": 3
           }
         ],
-        "totalPoints": 588
+        "totalPoints": 713
       },
       {
         "name": "Egan Bernal",
         "id": 95844,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Suisse - General classification",
+            "date": "16 Jun 2024",
+            "points": 275,
+            "rank": 4
+          },
+          {
+            "name": "Tour de Suisse - Stage 8 (ITT)",
+            "date": "16 Jun 2024",
+            "points": 5,
+            "rank": 9
+          },
           {
             "name": "Tour de Suisse - Stage 7",
             "date": "15 Jun 2024",
@@ -736,7 +766,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 888
+        "totalPoints": 1168
       },
       {
         "name": "Ben O'Connor",
@@ -872,6 +902,12 @@
         "sanctions": 10,
         "results": [
           {
+            "name": "Baloise Belgium Tour - General classification",
+            "date": "16 Jun 2024",
+            "points": 3,
+            "rank": 36
+          },
+          {
             "name": "Boucles de la Mayenne - Crédit Mutuel - General classification",
             "date": "26 May 2024",
             "points": 150,
@@ -1002,7 +1038,7 @@
             "rank": 13
           }
         ],
-        "totalPoints": 1589
+        "totalPoints": 1592
       }
     ]
   }

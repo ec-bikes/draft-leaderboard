@@ -2,17 +2,29 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180148,
-  "fetchedDate": "15 Jun 2024, 23:12 GMT",
+  "fetchedDate": "16 Jun 2024, 23:13 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 7473,
+    "totalPoints": 8848,
     "riders": [
       {
         "name": "Adam Yates",
         "id": 70590,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Suisse - General classification",
+            "date": "16 Jun 2024",
+            "points": 500,
+            "rank": 1
+          },
+          {
+            "name": "Tour de Suisse - Stage 8 (ITT)",
+            "date": "16 Jun 2024",
+            "points": 40,
+            "rank": 2
+          },
           {
             "name": "Tour de Suisse - Stage 7",
             "date": "15 Jun 2024",
@@ -100,13 +112,25 @@
             "rank": 1
           }
         ],
-        "totalPoints": 593
+        "totalPoints": 1133
       },
       {
         "name": "Mattias Skjelmose",
         "id": 365033,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Suisse - General classification",
+            "date": "16 Jun 2024",
+            "points": 325,
+            "rank": 3
+          },
+          {
+            "name": "Tour de Suisse - Stage 8 (ITT)",
+            "date": "16 Jun 2024",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Tour de Suisse - Stage 7",
             "date": "15 Jun 2024",
@@ -215,7 +239,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1094
+        "totalPoints": 1449
       },
       {
         "name": "Valentin Madouas",
@@ -309,6 +333,18 @@
         "sanctions": 50,
         "results": [
           {
+            "name": "Tour de Suisse - General classification",
+            "date": "16 Jun 2024",
+            "points": 400,
+            "rank": 2
+          },
+          {
+            "name": "Tour de Suisse - Stage 8 (ITT)",
+            "date": "16 Jun 2024",
+            "points": 60,
+            "rank": 1
+          },
+          {
             "name": "Tour de Suisse - Stage 7",
             "date": "15 Jun 2024",
             "points": 40,
@@ -381,13 +417,19 @@
             "rank": 1
           }
         ],
-        "totalPoints": 417
+        "totalPoints": 877
       },
       {
         "name": "Kévin Vauquelin",
         "id": 1745291,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Suisse - General classification",
+            "date": "16 Jun 2024",
+            "points": 10,
+            "rank": 42
+          },
           {
             "name": "La Flèche Wallonne",
             "date": "17 Apr 2024",
@@ -479,7 +521,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 765
+        "totalPoints": 775
       },
       {
         "name": "Brandon McNulty",
@@ -646,6 +688,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Suisse - General classification",
+            "date": "16 Jun 2024",
+            "points": 10,
+            "rank": 35
+          },
+          {
             "name": "Tour de Suisse - Stage 5",
             "date": "13 Jun 2024",
             "points": 2,
@@ -700,7 +748,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 312
+        "totalPoints": 322
       },
       {
         "name": "Laurence Pithie",

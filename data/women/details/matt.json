@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180159,
-  "fetchedDate": "15 Jun 2024, 23:11 GMT",
+  "fetchedDate": "16 Jun 2024, 23:13 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 7716,
+    "totalPoints": 7764,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -373,6 +373,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Suisse Women - Stage 2 (ITT)",
+            "date": "16 Jun 2024",
+            "points": 18,
+            "rank": 6
+          },
+          {
             "name": "Tour de Suisse Women - Stage 1",
             "date": "15 Jun 2024",
             "points": 40,
@@ -456,13 +462,19 @@
             "rank": 4
           }
         ],
-        "totalPoints": 503
+        "totalPoints": 521
       },
       {
         "name": "Amanda Spratt",
         "id": 32706,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Suisse Women - Stage 2 (ITT)",
+            "date": "16 Jun 2024",
+            "points": 10,
+            "rank": 8
+          },
           {
             "name": "Tour de Suisse Women - Stage 1",
             "date": "15 Jun 2024",
@@ -536,7 +548,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 361
+        "totalPoints": 371
       },
       {
         "name": "Ruby Roseman-Gannon",
@@ -612,6 +624,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Suisse Women - Stage 2 (ITT)",
+            "date": "16 Jun 2024",
+            "points": 20,
+            "rank": 5
+          },
+          {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
             "date": "05 May 2024",
             "points": 56,
@@ -642,7 +660,7 @@
             "rank": 25
           }
         ],
-        "totalPoints": 106
+        "totalPoints": 126
       },
       {
         "name": "Kristen Faulkner",

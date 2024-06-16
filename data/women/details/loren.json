@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180159,
-  "fetchedDate": "15 Jun 2024, 23:11 GMT",
+  "fetchedDate": "16 Jun 2024, 23:13 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 10848,
+    "totalPoints": 10918,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -85,6 +85,12 @@
         "id": 76149,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Suisse Women - Stage 2 (ITT)",
+            "date": "16 Jun 2024",
+            "points": 40,
+            "rank": 2
+          },
           {
             "name": "Tour de Suisse Women - Stage 1",
             "date": "15 Jun 2024",
@@ -200,7 +206,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 2665
+        "totalPoints": 2705
       },
       {
         "name": "Elisa Balsamo",
@@ -889,6 +895,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Suisse Women - Stage 2 (ITT)",
+            "date": "16 Jun 2024",
+            "points": 30,
+            "rank": 3
+          },
+          {
             "name": "Tour de Suisse Women - Stage 1",
             "date": "15 Jun 2024",
             "points": 20,
@@ -989,7 +1001,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 497
+        "totalPoints": 527
       }
     ]
   }
