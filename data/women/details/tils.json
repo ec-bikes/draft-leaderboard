@@ -2,17 +2,28 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180159,
-  "fetchedDate": "16 Jun 2024, 23:13 GMT",
+  "fetchedDate": "17 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 10743,
+    "totalPoints": 10809,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Suisse Women - Stage 3",
+            "date": "17 Jun 2024",
+            "points": 18,
+            "rank": 6
+          },
+          {
+            "name": "Tour de Suisse Women - Stage 3 - Bonus",
+            "date": "17 Jun 2024",
+            "points": 8
+          },
           {
             "name": "Tour de Suisse Women - Stage 2 (ITT)",
             "date": "16 Jun 2024",
@@ -181,13 +192,19 @@
             "rank": 6
           }
         ],
-        "totalPoints": 2971
+        "totalPoints": 2997
       },
       {
         "name": "Kasia Niewiadoma",
         "id": 86824,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Suisse Women - Stage 3",
+            "date": "17 Jun 2024",
+            "points": 40,
+            "rank": 2
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 2",
             "date": "29 Apr 2024",
@@ -261,7 +278,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 1481
+        "totalPoints": 1521
       },
       {
         "name": "Juliette Labous",

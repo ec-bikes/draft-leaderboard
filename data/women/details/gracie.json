@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180159,
-  "fetchedDate": "16 Jun 2024, 23:13 GMT",
+  "fetchedDate": "17 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 7497,
+    "totalPoints": 7547,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -450,6 +450,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Suisse Women - Stage 3",
+            "date": "17 Jun 2024",
+            "points": 50,
+            "rank": 1
+          },
+          {
             "name": "Tour de Suisse Women - Stage 2 (ITT)",
             "date": "16 Jun 2024",
             "points": 8,
@@ -540,7 +546,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 823
+        "totalPoints": 873
       },
       {
         "name": "Rosita Reijnhout",

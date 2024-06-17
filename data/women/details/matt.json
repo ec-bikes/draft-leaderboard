@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180159,
-  "fetchedDate": "16 Jun 2024, 23:13 GMT",
+  "fetchedDate": "17 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 7764,
+    "totalPoints": 7804,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -373,6 +373,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Suisse Women - Stage 3",
+            "date": "17 Jun 2024",
+            "points": 15,
+            "rank": 7
+          },
+          {
             "name": "Tour de Suisse Women - Stage 2 (ITT)",
             "date": "16 Jun 2024",
             "points": 18,
@@ -462,13 +468,19 @@
             "rank": 4
           }
         ],
-        "totalPoints": 521
+        "totalPoints": 536
       },
       {
         "name": "Amanda Spratt",
         "id": 32706,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Suisse Women - Stage 3",
+            "date": "17 Jun 2024",
+            "points": 25,
+            "rank": 4
+          },
           {
             "name": "Tour de Suisse Women - Stage 2 (ITT)",
             "date": "16 Jun 2024",
@@ -548,7 +560,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 371
+        "totalPoints": 396
       },
       {
         "name": "Ruby Roseman-Gannon",
