@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 180159,
-  "fetchedDate": "17 Jun 2024, 23:12 GMT",
+  "momentId": 180401,
+  "fetchedDate": "18 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 7804,
+    "totalPoints": 8112,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -373,6 +373,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Suisse Women - General classification",
+            "date": "18 Jun 2024",
+            "points": 120,
+            "rank": 7
+          },
+          {
             "name": "Tour de Suisse Women - Stage 3",
             "date": "17 Jun 2024",
             "points": 15,
@@ -468,13 +474,19 @@
             "rank": 4
           }
         ],
-        "totalPoints": 536
+        "totalPoints": 656
       },
       {
         "name": "Amanda Spratt",
         "id": 32706,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Suisse Women - General classification",
+            "date": "18 Jun 2024",
+            "points": 48,
+            "rank": 12
+          },
           {
             "name": "Tour de Suisse Women - Stage 3",
             "date": "17 Jun 2024",
@@ -560,7 +572,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 396
+        "totalPoints": 444
       },
       {
         "name": "Ruby Roseman-Gannon",
@@ -636,6 +648,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Suisse Women - General classification",
+            "date": "18 Jun 2024",
+            "points": 140,
+            "rank": 6
+          },
+          {
             "name": "Tour de Suisse Women - Stage 2 (ITT)",
             "date": "16 Jun 2024",
             "points": 20,
@@ -672,7 +690,7 @@
             "rank": 25
           }
         ],
-        "totalPoints": 126
+        "totalPoints": 266
       },
       {
         "name": "Kristen Faulkner",

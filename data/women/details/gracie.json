@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 180159,
-  "fetchedDate": "17 Jun 2024, 23:12 GMT",
+  "momentId": 180401,
+  "fetchedDate": "18 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 7547,
+    "totalPoints": 7937,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -370,6 +370,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Suisse Women - General classification",
+            "date": "18 Jun 2024",
+            "points": 8,
+            "rank": 40
+          },
+          {
             "name": "SPAR Flanders Diamond Tour",
             "date": "09 Jun 2024",
             "points": 20,
@@ -442,13 +448,25 @@
             "rank": 15
           }
         ],
-        "totalPoints": 491
+        "totalPoints": 499
       },
       {
         "name": "Neve Bradbury",
         "id": 1987823,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Suisse Women - General classification",
+            "date": "18 Jun 2024",
+            "points": 320,
+            "rank": 2
+          },
+          {
+            "name": "Tour de Suisse Women - Stage 4",
+            "date": "18 Jun 2024",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Tour de Suisse Women - Stage 3",
             "date": "17 Jun 2024",
@@ -546,13 +564,25 @@
             "rank": 3
           }
         ],
-        "totalPoints": 873
+        "totalPoints": 1223
       },
       {
         "name": "Rosita Reijnhout",
         "id": 228699,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Suisse Women - General classification",
+            "date": "18 Jun 2024",
+            "points": 24,
+            "rank": 18
+          },
+          {
+            "name": "Tour de Suisse Women - Stage 4",
+            "date": "18 Jun 2024",
+            "points": 8,
+            "rank": 9
+          },
           {
             "name": "Volta Ciclista a Catalunya Femenina - General classification",
             "date": "09 Jun 2024",
@@ -608,7 +638,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 567
+        "totalPoints": 599
       },
       {
         "name": "Olivia Baril",

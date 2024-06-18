@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 180159,
-  "fetchedDate": "17 Jun 2024, 23:12 GMT",
+  "momentId": 180401,
+  "fetchedDate": "18 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 10948,
+    "totalPoints": 11460,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -85,6 +85,18 @@
         "id": 76149,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Suisse Women - General classification",
+            "date": "18 Jun 2024",
+            "points": 260,
+            "rank": 3
+          },
+          {
+            "name": "Tour de Suisse Women - Stage 4",
+            "date": "18 Jun 2024",
+            "points": 40,
+            "rank": 2
+          },
           {
             "name": "Tour de Suisse Women - Stage 3",
             "date": "17 Jun 2024",
@@ -212,7 +224,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 2725
+        "totalPoints": 3025
       },
       {
         "name": "Elisa Balsamo",
@@ -496,6 +508,18 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Suisse Women - General classification",
+            "date": "18 Jun 2024",
+            "points": 68,
+            "rank": 10
+          },
+          {
+            "name": "Tour de Suisse Women - Stage 4",
+            "date": "18 Jun 2024",
+            "points": 18,
+            "rank": 6
+          },
+          {
             "name": "Volta Ciclista a Catalunya Femenina - General classification",
             "date": "09 Jun 2024",
             "points": 3,
@@ -634,7 +658,7 @@
             "rank": 22
           }
         ],
-        "totalPoints": 1495
+        "totalPoints": 1581
       },
       {
         "name": "Chiara Consonni",
@@ -826,6 +850,18 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Suisse Women - General classification",
+            "date": "18 Jun 2024",
+            "points": 16,
+            "rank": 29
+          },
+          {
+            "name": "Tour de Suisse Women - Stage 4",
+            "date": "18 Jun 2024",
+            "points": 10,
+            "rank": 8
+          },
+          {
             "name": "Itzulia Women - General classification",
             "date": "12 May 2024",
             "points": 24,
@@ -892,7 +928,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 479
+        "totalPoints": 505
       },
       {
         "name": "Kim Cadzow",
@@ -900,6 +936,12 @@
         "tradedIn": true,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Suisse Women - General classification",
+            "date": "18 Jun 2024",
+            "points": 100,
+            "rank": 8
+          },
           {
             "name": "Tour de Suisse Women - Stage 3",
             "date": "17 Jun 2024",
@@ -1013,7 +1055,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 537
+        "totalPoints": 637
       }
     ]
   }
