@@ -1,18 +1,24 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 180401,
-  "fetchedDate": "18 Jun 2024, 23:12 GMT",
+  "momentId": 180449,
+  "fetchedDate": "19 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 11699,
+    "totalPoints": 11769,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
         "sanctions": 0,
         "results": [
+          {
+            "name": "National Championships Netherlands WE - ITT",
+            "date": "19 Jun 2024",
+            "points": 20,
+            "rank": 3
+          },
           {
             "name": "Tour de Suisse Women - General classification",
             "date": "18 Jun 2024",
@@ -204,7 +210,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 3447
+        "totalPoints": 3467
       },
       {
         "name": "Kasia Niewiadoma",
@@ -524,6 +530,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "National Championships Netherlands WE - ITT",
+            "date": "19 Jun 2024",
+            "points": 50,
+            "rank": 1
+          },
+          {
             "name": "Volta Ciclista a Catalunya Femenina - General classification",
             "date": "09 Jun 2024",
             "points": 85,
@@ -620,7 +632,7 @@
             "rank": 18
           }
         ],
-        "totalPoints": 900
+        "totalPoints": 950
       },
       {
         "name": "Sarah Gigante",

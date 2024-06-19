@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 180401,
-  "fetchedDate": "18 Jun 2024, 23:12 GMT",
+  "momentId": 180449,
+  "fetchedDate": "19 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 10089,
+    "totalPoints": 10113,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -146,6 +146,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "National Championships Great Britain WE - ITT",
+            "date": "19 Jun 2024",
+            "points": 15,
+            "rank": 4
+          },
+          {
             "name": "Tour of Britain Women - General classification",
             "date": "09 Jun 2024",
             "points": 220,
@@ -236,13 +242,19 @@
             "rank": 15
           }
         ],
-        "totalPoints": 1228
+        "totalPoints": 1243
       },
       {
         "name": "Shirin van Anrooij",
         "id": 228375,
         "sanctions": 0,
         "results": [
+          {
+            "name": "National Championships Netherlands WE - ITT",
+            "date": "19 Jun 2024",
+            "points": 5,
+            "rank": 6
+          },
           {
             "name": "Vuelta a Burgos Feminas - General classification",
             "date": "19 May 2024",
@@ -352,13 +364,19 @@
             "rank": 4
           }
         ],
-        "totalPoints": 1425
+        "totalPoints": 1430
       },
       {
         "name": "Mischa Bredewold",
         "id": 227721,
         "sanctions": 0,
         "results": [
+          {
+            "name": "National Championships Netherlands WE - ITT",
+            "date": "19 Jun 2024",
+            "points": 3,
+            "rank": 7
+          },
           {
             "name": "Elmos Dwars door het Hageland",
             "date": "08 Jun 2024",
@@ -442,7 +460,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 660
+        "totalPoints": 663
       },
       {
         "name": "Arlenis Sierra",
@@ -1010,6 +1028,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "National Championships Netherlands WE - ITT",
+            "date": "19 Jun 2024",
+            "points": 1,
+            "rank": 10
+          },
+          {
             "name": "Elmos Dwars door het Hageland",
             "date": "08 Jun 2024",
             "points": 70,
@@ -1118,7 +1142,7 @@
             "rank": 14
           }
         ],
-        "totalPoints": 967
+        "totalPoints": 968
       }
     ]
   }

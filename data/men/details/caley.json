@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 180390,
-  "fetchedDate": "18 Jun 2024, 23:12 GMT",
+  "momentId": 180443,
+  "fetchedDate": "19 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 9644,
+    "totalPoints": 9694,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -547,6 +547,12 @@
         "sanctions": 100,
         "results": [
           {
+            "name": "National Championships Great Britain ME - ITT",
+            "date": "19 Jun 2024",
+            "points": 50,
+            "rank": 1
+          },
+          {
             "name": "Critérium du Dauphiné - General classification",
             "date": "09 Jun 2024",
             "points": 10,
@@ -606,7 +612,7 @@
             "rank": 55
           }
         ],
-        "totalPoints": 246
+        "totalPoints": 296
       },
       {
         "name": "Enric Mas",
