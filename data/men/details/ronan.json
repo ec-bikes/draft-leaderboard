@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180443,
-  "fetchedDate": "19 Jun 2024, 23:12 GMT",
+  "fetchedDate": "20 Jun 2024, 23:13 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 10213,
+    "totalPoints": 10228,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -454,6 +454,12 @@
         "sanctions": 15,
         "results": [
           {
+            "name": "National Championships Italy ME - ITT",
+            "date": "20 Jun 2024",
+            "points": 15,
+            "rank": 4
+          },
+          {
             "name": "Giro d'Italia - Points classification",
             "date": "26 May 2024",
             "points": 180,
@@ -573,7 +579,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 1863
+        "totalPoints": 1878
       },
       {
         "name": "Richard Carapaz",

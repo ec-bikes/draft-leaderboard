@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180443,
-  "fetchedDate": "19 Jun 2024, 23:12 GMT",
+  "fetchedDate": "20 Jun 2024, 23:13 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 8848,
+    "totalPoints": 8878,
     "riders": [
       {
         "name": "Adam Yates",
@@ -425,6 +425,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "National Championships France ME - ITT",
+            "date": "20 Jun 2024",
+            "points": 30,
+            "rank": 2
+          },
+          {
             "name": "Tour de Suisse - General classification",
             "date": "16 Jun 2024",
             "points": 10,
@@ -521,7 +527,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 775
+        "totalPoints": 805
       },
       {
         "name": "Brandon McNulty",

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180443,
-  "fetchedDate": "19 Jun 2024, 23:12 GMT",
+  "fetchedDate": "20 Jun 2024, 23:13 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 6041,
+    "totalPoints": 6091,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -272,6 +272,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "National Championships Italy ME - ITT",
+            "date": "20 Jun 2024",
+            "points": 50,
+            "rank": 1
+          },
+          {
             "name": "Giro d'Italia - Stage 14 (ITT)",
             "date": "18 May 2024",
             "points": 180,
@@ -308,7 +314,7 @@
             "rank": 36
           }
         ],
-        "totalPoints": 390
+        "totalPoints": 440
       },
       {
         "name": "Pello Bilbao",

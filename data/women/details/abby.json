@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180449,
-  "fetchedDate": "19 Jun 2024, 23:11 GMT",
+  "fetchedDate": "20 Jun 2024, 23:13 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 10113,
+    "totalPoints": 10236,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -468,6 +468,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "National Championships Cuba WE - Road Race",
+            "date": "19 Jun 2024",
+            "points": 100,
+            "rank": 1
+          },
+          {
             "name": "Volta Ciclista a Catalunya Femenina - Stage 3",
             "date": "09 Jun 2024",
             "points": 6,
@@ -606,7 +612,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 859
+        "totalPoints": 959
       },
       {
         "name": "Ricarda Bauernfeind",
@@ -693,6 +699,12 @@
         "id": 1638135,
         "sanctions": 0,
         "results": [
+          {
+            "name": "National Championships Switzerland WE - ITT",
+            "date": "20 Jun 2024",
+            "points": 3,
+            "rank": 7
+          },
           {
             "name": "Tour de Suisse Women - General classification",
             "date": "18 Jun 2024",
@@ -802,13 +814,19 @@
             "rank": 7
           }
         ],
-        "totalPoints": 1095
+        "totalPoints": 1098
       },
       {
         "name": "Noemi Rüegg",
         "id": 347941,
         "sanctions": 0,
         "results": [
+          {
+            "name": "National Championships Switzerland WE - ITT",
+            "date": "20 Jun 2024",
+            "points": 20,
+            "rank": 3
+          },
           {
             "name": "Tour de Suisse Women - General classification",
             "date": "18 Jun 2024",
@@ -882,7 +900,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 505
+        "totalPoints": 525
       },
       {
         "name": "Soraya Paladin",

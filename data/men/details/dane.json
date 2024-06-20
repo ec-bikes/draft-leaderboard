@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180443,
-  "fetchedDate": "19 Jun 2024, 23:12 GMT",
+  "fetchedDate": "20 Jun 2024, 23:13 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 6685,
+    "totalPoints": 6735,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -471,6 +471,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "National Championships Switzerland ME - ITT",
+            "date": "20 Jun 2024",
+            "points": 50,
+            "rank": 1
+          },
+          {
             "name": "Tour de Suisse - Stage 1 (ITT)",
             "date": "09 Jun 2024",
             "points": 8,
@@ -549,7 +555,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 792
+        "totalPoints": 842
       },
       {
         "name": "Fabio Jakobsen",

@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180449,
-  "fetchedDate": "19 Jun 2024, 23:11 GMT",
+  "fetchedDate": "20 Jun 2024, 23:13 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 8112,
+    "totalPoints": 8167,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
         "sanctions": 0,
         "results": [
+          {
+            "name": "National Championships Belgium WE - ITT",
+            "date": "20 Jun 2024",
+            "points": 50,
+            "rank": 1
+          },
           {
             "name": "Tour of Britain Women - General classification",
             "date": "09 Jun 2024",
@@ -206,7 +212,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 3393
+        "totalPoints": 3443
       },
       {
         "name": "Cecilie Uttrup Ludwig",
@@ -373,6 +379,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "National Championships Italy WE - ITT",
+            "date": "20 Jun 2024",
+            "points": 5,
+            "rank": 6
+          },
+          {
             "name": "Tour de Suisse Women - General classification",
             "date": "18 Jun 2024",
             "points": 120,
@@ -474,7 +486,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 656
+        "totalPoints": 661
       },
       {
         "name": "Amanda Spratt",

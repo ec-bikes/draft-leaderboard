@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180449,
-  "fetchedDate": "19 Jun 2024, 23:11 GMT",
+  "fetchedDate": "20 Jun 2024, 23:13 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 11460,
+    "totalPoints": 11490,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -85,6 +85,12 @@
         "id": 76149,
         "sanctions": 0,
         "results": [
+          {
+            "name": "National Championships Italy WE - ITT",
+            "date": "20 Jun 2024",
+            "points": 30,
+            "rank": 2
+          },
           {
             "name": "Tour de Suisse Women - General classification",
             "date": "18 Jun 2024",
@@ -224,7 +230,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 3025
+        "totalPoints": 3055
       },
       {
         "name": "Elisa Balsamo",
