@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180443,
-  "fetchedDate": "20 Jun 2024, 23:13 GMT",
+  "fetchedDate": "21 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 10228,
+    "totalPoints": 10233,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -1083,6 +1083,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "National Championships Ireland ME - ITT",
+            "date": "20 Jun 2024",
+            "points": 5,
+            "rank": 4
+          },
+          {
             "name": "Critérium du Dauphiné - General classification",
             "date": "09 Jun 2024",
             "points": 20,
@@ -1131,7 +1137,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 134
+        "totalPoints": 139
       }
     ]
   }

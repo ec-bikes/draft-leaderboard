@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180449,
-  "fetchedDate": "20 Jun 2024, 23:13 GMT",
+  "fetchedDate": "21 Jun 2024, 23:10 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 7937,
+    "totalPoints": 8017,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -244,6 +244,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "National Championships Spain WE - ITT",
+            "date": "21 Jun 2024",
+            "points": 20,
+            "rank": 3
+          },
+          {
             "name": "Vuelta Ciclista Andalucia Elite women - General classification",
             "date": "01 Jun 2024",
             "points": 125,
@@ -362,13 +368,19 @@
             "rank": 3
           }
         ],
-        "totalPoints": 993
+        "totalPoints": 1013
       },
       {
         "name": "Christina Schweinberger",
         "id": 98623,
         "sanctions": 0,
         "results": [
+          {
+            "name": "National Championships Austria WE - ITT",
+            "date": "21 Jun 2024",
+            "points": 30,
+            "rank": 2
+          },
           {
             "name": "Tour de Suisse Women - General classification",
             "date": "18 Jun 2024",
@@ -448,7 +460,7 @@
             "rank": 15
           }
         ],
-        "totalPoints": 499
+        "totalPoints": 529
       },
       {
         "name": "Neve Bradbury",
@@ -646,6 +658,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "National Championships Canada WE - ITT",
+            "date": "21 Jun 2024",
+            "points": 30,
+            "rank": 2
+          },
+          {
             "name": "Volta Ciclista a Catalunya Femenina - General classification",
             "date": "09 Jun 2024",
             "points": 3,
@@ -771,7 +789,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 729
+        "totalPoints": 759
       },
       {
         "name": "Lizzie Deignan",

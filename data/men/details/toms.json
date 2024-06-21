@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180443,
-  "fetchedDate": "20 Jun 2024, 23:13 GMT",
+  "fetchedDate": "21 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 8878,
+    "totalPoints": 8928,
     "riders": [
       {
         "name": "Adam Yates",
@@ -119,6 +119,12 @@
         "id": 365033,
         "sanctions": 0,
         "results": [
+          {
+            "name": "National Championships Denmark ME - ITT",
+            "date": "21 Jun 2024",
+            "points": 50,
+            "rank": 1
+          },
           {
             "name": "Tour de Suisse - General classification",
             "date": "16 Jun 2024",
@@ -239,7 +245,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1449
+        "totalPoints": 1499
       },
       {
         "name": "Valentin Madouas",

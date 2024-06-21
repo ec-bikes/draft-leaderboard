@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180449,
-  "fetchedDate": "20 Jun 2024, 23:13 GMT",
+  "fetchedDate": "21 Jun 2024, 23:10 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 10236,
+    "totalPoints": 10286,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -474,6 +474,12 @@
             "rank": 1
           },
           {
+            "name": "National Championships Cuba WE - ITT",
+            "date": "18 Jun 2024",
+            "points": 50,
+            "rank": 1
+          },
+          {
             "name": "Volta Ciclista a Catalunya Femenina - Stage 3",
             "date": "09 Jun 2024",
             "points": 6,
@@ -612,7 +618,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 959
+        "totalPoints": 1009
       },
       {
         "name": "Ricarda Bauernfeind",

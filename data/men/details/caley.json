@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180443,
-  "fetchedDate": "20 Jun 2024, 23:13 GMT",
+  "fetchedDate": "21 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 9694,
+    "totalPoints": 9764,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -300,6 +300,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "National Championships Slovenia ME - ITT",
+            "date": "20 Jun 2024",
+            "points": 50,
+            "rank": 1
+          },
+          {
             "name": "Tour of Slovenia - General classification",
             "date": "16 Jun 2024",
             "points": 3,
@@ -360,7 +366,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 584
+        "totalPoints": 634
       },
       {
         "name": "Victor Lafay",
@@ -700,6 +706,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "National Championships Portugal ME - ITT",
+            "date": "21 Jun 2024",
+            "points": 20,
+            "rank": 3
+          },
+          {
             "name": "Tour de Suisse - General classification",
             "date": "16 Jun 2024",
             "points": 10,
@@ -730,7 +742,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 100
+        "totalPoints": 120
       },
       {
         "name": "Guillaume Martin",

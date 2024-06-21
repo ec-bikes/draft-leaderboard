@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180449,
-  "fetchedDate": "20 Jun 2024, 23:13 GMT",
+  "fetchedDate": "21 Jun 2024, 23:10 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 8167,
+    "totalPoints": 8197,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -660,6 +660,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "National Championships Germany WE - ITT",
+            "date": "21 Jun 2024",
+            "points": 30,
+            "rank": 2
+          },
+          {
             "name": "Tour de Suisse Women - General classification",
             "date": "18 Jun 2024",
             "points": 140,
@@ -702,7 +708,7 @@
             "rank": 25
           }
         ],
-        "totalPoints": 266
+        "totalPoints": 296
       },
       {
         "name": "Kristen Faulkner",

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180449,
-  "fetchedDate": "20 Jun 2024, 23:13 GMT",
+  "fetchedDate": "21 Jun 2024, 23:10 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 11490,
+    "totalPoints": 11540,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -440,6 +440,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "National Championships Denmark WE - ITT",
+            "date": "21 Jun 2024",
+            "points": 50,
+            "rank": 1
+          },
+          {
             "name": "Volta Ciclista a Catalunya Femenina - Stage 3",
             "date": "09 Jun 2024",
             "points": 5,
@@ -506,7 +512,7 @@
             "rank": 11
           }
         ],
-        "totalPoints": 340
+        "totalPoints": 390
       },
       {
         "name": "Evita Muzic",
