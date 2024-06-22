@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180449,
-  "fetchedDate": "21 Jun 2024, 23:10 GMT",
+  "fetchedDate": "22 Jun 2024, 23:10 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 8197,
+    "totalPoints": 8257,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -660,6 +660,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "National Championships Germany WE - Road Race",
+            "date": "22 Jun 2024",
+            "points": 60,
+            "rank": 3
+          },
+          {
             "name": "National Championships Germany WE - ITT",
             "date": "21 Jun 2024",
             "points": 30,
@@ -708,7 +714,7 @@
             "rank": 25
           }
         ],
-        "totalPoints": 296
+        "totalPoints": 356
       },
       {
         "name": "Kristen Faulkner",

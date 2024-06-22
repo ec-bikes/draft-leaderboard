@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180449,
-  "fetchedDate": "21 Jun 2024, 23:10 GMT",
+  "fetchedDate": "22 Jun 2024, 23:10 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 11849,
+    "totalPoints": 11949,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -316,6 +316,12 @@
         "sanctions": 15,
         "results": [
           {
+            "name": "National Championships France WE - Road Race",
+            "date": "22 Jun 2024",
+            "points": 100,
+            "rank": 1
+          },
+          {
             "name": "Tour de Suisse Women - General classification",
             "date": "18 Jun 2024",
             "points": 180,
@@ -436,7 +442,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 1191
+        "totalPoints": 1291
       },
       {
         "name": "Charlotte Kool",

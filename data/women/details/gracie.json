@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180449,
-  "fetchedDate": "21 Jun 2024, 23:10 GMT",
+  "fetchedDate": "22 Jun 2024, 23:10 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 8017,
+    "totalPoints": 8152,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -186,6 +186,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "National Championships Germany WE - Road Race",
+            "date": "22 Jun 2024",
+            "points": 75,
+            "rank": 2
+          },
+          {
             "name": "Vuelta a Burgos Feminas - General classification",
             "date": "19 May 2024",
             "points": 100,
@@ -216,7 +222,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 122
+        "totalPoints": 197
       },
       {
         "name": "Chloe Dygert",
@@ -243,6 +249,12 @@
         "id": 398547,
         "sanctions": 0,
         "results": [
+          {
+            "name": "National Championships Spain WE - Road Race",
+            "date": "22 Jun 2024",
+            "points": 60,
+            "rank": 3
+          },
           {
             "name": "National Championships Spain WE - ITT",
             "date": "21 Jun 2024",
@@ -368,7 +380,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1013
+        "totalPoints": 1073
       },
       {
         "name": "Christina Schweinberger",

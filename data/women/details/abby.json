@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180449,
-  "fetchedDate": "21 Jun 2024, 23:10 GMT",
+  "fetchedDate": "22 Jun 2024, 23:10 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 10286,
+    "totalPoints": 10426,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -706,6 +706,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "National Championships Switzerland WE - Road Race",
+            "date": "22 Jun 2024",
+            "points": 40,
+            "rank": 5
+          },
+          {
             "name": "National Championships Switzerland WE - ITT",
             "date": "20 Jun 2024",
             "points": 3,
@@ -820,13 +826,19 @@
             "rank": 7
           }
         ],
-        "totalPoints": 1098
+        "totalPoints": 1138
       },
       {
         "name": "Noemi Rüegg",
         "id": 347941,
         "sanctions": 0,
         "results": [
+          {
+            "name": "National Championships Switzerland WE - Road Race",
+            "date": "22 Jun 2024",
+            "points": 100,
+            "rank": 1
+          },
           {
             "name": "National Championships Switzerland WE - ITT",
             "date": "20 Jun 2024",
@@ -906,7 +918,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 525
+        "totalPoints": 625
       },
       {
         "name": "Soraya Paladin",

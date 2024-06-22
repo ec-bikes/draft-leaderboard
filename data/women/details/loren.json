@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180449,
-  "fetchedDate": "21 Jun 2024, 23:10 GMT",
+  "fetchedDate": "22 Jun 2024, 23:10 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 11540,
+    "totalPoints": 11795,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -85,6 +85,12 @@
         "id": 76149,
         "sanctions": 0,
         "results": [
+          {
+            "name": "National Championships Italy WE - Road Race",
+            "date": "22 Jun 2024",
+            "points": 100,
+            "rank": 1
+          },
           {
             "name": "National Championships Italy WE - ITT",
             "date": "20 Jun 2024",
@@ -230,13 +236,19 @@
             "rank": 7
           }
         ],
-        "totalPoints": 3055
+        "totalPoints": 3155
       },
       {
         "name": "Elisa Balsamo",
         "id": 101826,
         "sanctions": 0,
         "results": [
+          {
+            "name": "National Championships Italy WE - Road Race",
+            "date": "22 Jun 2024",
+            "points": 30,
+            "rank": 6
+          },
           {
             "name": "Paris-Roubaix Femmes avec Zwift",
             "date": "06 Apr 2024",
@@ -303,7 +315,7 @@
             "points": 5
           }
         ],
-        "totalPoints": 1928
+        "totalPoints": 1958
       },
       {
         "name": "Maike van der Duin",
@@ -520,6 +532,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "National Championships France WE - Road Race",
+            "date": "22 Jun 2024",
+            "points": 50,
+            "rank": 4
+          },
+          {
             "name": "Tour de Suisse Women - General classification",
             "date": "18 Jun 2024",
             "points": 68,
@@ -670,13 +688,19 @@
             "rank": 22
           }
         ],
-        "totalPoints": 1581
+        "totalPoints": 1631
       },
       {
         "name": "Chiara Consonni",
         "id": 156600,
         "sanctions": 0,
         "results": [
+          {
+            "name": "National Championships Italy WE - Road Race",
+            "date": "22 Jun 2024",
+            "points": 75,
+            "rank": 2
+          },
           {
             "name": "SPAR Flanders Diamond Tour",
             "date": "09 Jun 2024",
@@ -798,7 +822,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1335
+        "totalPoints": 1410
       },
       {
         "name": "Daria Pikulik",
