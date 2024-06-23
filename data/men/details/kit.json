@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180443,
-  "fetchedDate": "22 Jun 2024, 23:11 GMT",
+  "fetchedDate": "23 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 6091,
+    "totalPoints": 6181,
     "riders": [
       {
         "name": "Wout van Aert",
         "id": 75859,
         "sanctions": 0,
         "results": [
+          {
+            "name": "National Championships Belgium ME - Road Race",
+            "date": "23 Jun 2024",
+            "points": 40,
+            "rank": 5
+          },
           {
             "name": "Tour of Norway - Stage 4",
             "date": "26 May 2024",
@@ -62,7 +68,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 805
+        "totalPoints": 845
       },
       {
         "name": "Juan Ayuso",
@@ -272,6 +278,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "National Championships Italy ME - Road Race",
+            "date": "23 Jun 2024",
+            "points": 50,
+            "rank": 4
+          },
+          {
             "name": "National Championships Italy ME - ITT",
             "date": "20 Jun 2024",
             "points": 50,
@@ -314,7 +326,7 @@
             "rank": 36
           }
         ],
-        "totalPoints": 440
+        "totalPoints": 490
       },
       {
         "name": "Pello Bilbao",

@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180443,
-  "fetchedDate": "22 Jun 2024, 23:11 GMT",
+  "fetchedDate": "23 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 10945,
+    "totalPoints": 11075,
     "riders": [
       {
         "name": "Mads Pedersen",
         "id": 86895,
         "sanctions": 10,
         "results": [
+          {
+            "name": "National Championships Denmark ME - Road Race",
+            "date": "23 Jun 2024",
+            "points": 10,
+            "rank": 8
+          },
           {
             "name": "Critérium du Dauphiné - Stage 1",
             "date": "02 Jun 2024",
@@ -146,7 +152,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 2035
+        "totalPoints": 2045
       },
       {
         "name": "Sepp Kuss",
@@ -542,6 +548,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "National Championships Spain ME - Road Race",
+            "date": "23 Jun 2024",
+            "points": 100,
+            "rank": 1
+          },
+          {
             "name": "Baloise Belgium Tour - General classification",
             "date": "16 Jun 2024",
             "points": 125,
@@ -626,7 +638,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 713
+        "totalPoints": 813
       },
       {
         "name": "Egan Bernal",
@@ -902,6 +914,12 @@
         "sanctions": 10,
         "results": [
           {
+            "name": "National Championships France ME - Road Race",
+            "date": "23 Jun 2024",
+            "points": 20,
+            "rank": 7
+          },
+          {
             "name": "Baloise Belgium Tour - General classification",
             "date": "16 Jun 2024",
             "points": 3,
@@ -1038,7 +1056,7 @@
             "rank": 13
           }
         ],
-        "totalPoints": 1592
+        "totalPoints": 1612
       }
     ]
   }

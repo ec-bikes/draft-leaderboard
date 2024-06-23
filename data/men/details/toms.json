@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180443,
-  "fetchedDate": "22 Jun 2024, 23:11 GMT",
+  "fetchedDate": "23 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 8928,
+    "totalPoints": 9021,
     "riders": [
       {
         "name": "Adam Yates",
@@ -253,6 +253,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "National Championships France ME - Road Race",
+            "date": "23 Jun 2024",
+            "points": 30,
+            "rank": 6
+          },
+          {
             "name": "Critérium du Dauphiné - General classification",
             "date": "09 Jun 2024",
             "points": 10,
@@ -331,7 +337,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 648
+        "totalPoints": 678
       },
       {
         "name": "João Almeida",
@@ -430,6 +436,12 @@
         "id": 1745291,
         "sanctions": 0,
         "results": [
+          {
+            "name": "National Championships France ME - Road Race",
+            "date": "23 Jun 2024",
+            "points": 3,
+            "rank": 11
+          },
           {
             "name": "National Championships France ME - ITT",
             "date": "20 Jun 2024",
@@ -533,7 +545,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 805
+        "totalPoints": 808
       },
       {
         "name": "Brandon McNulty",
@@ -919,6 +931,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "National Championships Belgium ME - Road Race",
+            "date": "23 Jun 2024",
+            "points": 60,
+            "rank": 3
+          },
+          {
             "name": "Brussels Cycling Classic",
             "date": "02 Jun 2024",
             "points": 10,
@@ -979,7 +997,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 675
+        "totalPoints": 735
       },
       {
         "name": "Casper van Uden",

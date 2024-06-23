@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180443,
-  "fetchedDate": "22 Jun 2024, 23:11 GMT",
+  "fetchedDate": "23 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 6900,
+    "totalPoints": 6985,
     "riders": [
       {
         "name": "Jasper Philipsen",
         "id": 148275,
         "sanctions": 0,
         "results": [
+          {
+            "name": "National Championships Belgium ME - Road Race",
+            "date": "23 Jun 2024",
+            "points": 75,
+            "rank": 2
+          },
           {
             "name": "Baloise Belgium Tour - General classification",
             "date": "16 Jun 2024",
@@ -104,7 +110,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 2595
+        "totalPoints": 2670
       },
       {
         "name": "Simon Yates",
@@ -664,6 +670,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "National Championships France ME - Road Race",
+            "date": "23 Jun 2024",
+            "points": 10,
+            "rank": 8
+          },
+          {
             "name": "Critérium du Dauphiné - General classification",
             "date": "09 Jun 2024",
             "points": 20,
@@ -766,7 +778,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 638
+        "totalPoints": 648
       },
       {
         "name": "Jack Haig",

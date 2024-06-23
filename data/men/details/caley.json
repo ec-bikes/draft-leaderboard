@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180443,
-  "fetchedDate": "22 Jun 2024, 23:11 GMT",
+  "fetchedDate": "23 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 9764,
+    "totalPoints": 9944,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -300,6 +300,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "National Championships Slovenia ME - Road Race",
+            "date": "23 Jun 2024",
+            "points": 60,
+            "rank": 3
+          },
+          {
             "name": "National Championships Slovenia ME - ITT",
             "date": "20 Jun 2024",
             "points": 50,
@@ -366,7 +372,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 634
+        "totalPoints": 694
       },
       {
         "name": "Victor Lafay",
@@ -553,6 +559,12 @@
         "sanctions": 100,
         "results": [
           {
+            "name": "National Championships Great Britain ME - Road Race",
+            "date": "23 Jun 2024",
+            "points": 20,
+            "rank": 7
+          },
+          {
             "name": "National Championships Great Britain ME - ITT",
             "date": "19 Jun 2024",
             "points": 50,
@@ -618,7 +630,7 @@
             "rank": 55
           }
         ],
-        "totalPoints": 296
+        "totalPoints": 316
       },
       {
         "name": "Enric Mas",
@@ -706,6 +718,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "National Championships Portugal ME - Road Race",
+            "date": "23 Jun 2024",
+            "points": 100,
+            "rank": 1
+          },
+          {
             "name": "National Championships Portugal ME - ITT",
             "date": "21 Jun 2024",
             "points": 20,
@@ -742,7 +760,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 120
+        "totalPoints": 220
       },
       {
         "name": "Guillaume Martin",

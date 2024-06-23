@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180449,
-  "fetchedDate": "22 Jun 2024, 23:10 GMT",
+  "fetchedDate": "23 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 11795,
+    "totalPoints": 11895,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -452,6 +452,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "National Championships Denmark WE - Road Race",
+            "date": "23 Jun 2024",
+            "points": 60,
+            "rank": 3
+          },
+          {
             "name": "National Championships Denmark WE - ITT",
             "date": "21 Jun 2024",
             "points": 50,
@@ -524,7 +530,7 @@
             "rank": 11
           }
         ],
-        "totalPoints": 390
+        "totalPoints": 450
       },
       {
         "name": "Evita Muzic",
@@ -830,6 +836,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "National Championships Poland WE - Road Race",
+            "date": "23 Jun 2024",
+            "points": 40,
+            "rank": 5
+          },
+          {
             "name": "GP Mazda Schelkens",
             "date": "20 May 2024",
             "points": 85,
@@ -878,7 +890,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 711
+        "totalPoints": 751
       },
       {
         "name": "Niamh Fisher-Black",

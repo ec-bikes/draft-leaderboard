@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180449,
-  "fetchedDate": "22 Jun 2024, 23:10 GMT",
+  "fetchedDate": "23 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 11949,
+    "totalPoints": 11999,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -799,6 +799,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "National Championships Poland WE - Road Race",
+            "date": "23 Jun 2024",
+            "points": 50,
+            "rank": 4
+          },
+          {
             "name": "National Championships Poland WE - ITT",
             "date": "20 Jun 2024",
             "points": 30,
@@ -883,7 +889,7 @@
             "rank": 13
           }
         ],
-        "totalPoints": 483
+        "totalPoints": 533
       },
       {
         "name": "Sofia Bertizzolo",

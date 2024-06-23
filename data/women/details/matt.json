@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180449,
-  "fetchedDate": "22 Jun 2024, 23:10 GMT",
+  "fetchedDate": "23 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 8257,
+    "totalPoints": 8357,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
         "sanctions": 0,
         "results": [
+          {
+            "name": "National Championships Belgium WE - Road Race",
+            "date": "23 Jun 2024",
+            "points": 100,
+            "rank": 1
+          },
           {
             "name": "National Championships Belgium WE - ITT",
             "date": "20 Jun 2024",
@@ -212,7 +218,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 3443
+        "totalPoints": 3543
       },
       {
         "name": "Cecilie Uttrup Ludwig",

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180443,
-  "fetchedDate": "22 Jun 2024, 23:11 GMT",
+  "fetchedDate": "23 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 6735,
+    "totalPoints": 6845,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -214,6 +214,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "National Championships Spain ME - Road Race",
+            "date": "23 Jun 2024",
+            "points": 40,
+            "rank": 5
+          },
+          {
             "name": "Critérium du Dauphiné - General classification",
             "date": "09 Jun 2024",
             "points": 85,
@@ -268,7 +274,7 @@
             "rank": 19
           }
         ],
-        "totalPoints": 504
+        "totalPoints": 544
       },
       {
         "name": "Carlos Rodriguez",
@@ -367,6 +373,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "National Championships Switzerland ME - Road Race",
+            "date": "23 Jun 2024",
+            "points": 40,
+            "rank": 5
+          },
+          {
             "name": "Brussels Cycling Classic",
             "date": "02 Jun 2024",
             "points": 3,
@@ -463,13 +475,19 @@
             "rank": 6
           }
         ],
-        "totalPoints": 1248
+        "totalPoints": 1288
       },
       {
         "name": "Stefan Küng",
         "id": 74994,
         "sanctions": 0,
         "results": [
+          {
+            "name": "National Championships Switzerland ME - Road Race",
+            "date": "23 Jun 2024",
+            "points": 30,
+            "rank": 6
+          },
           {
             "name": "National Championships Switzerland ME - ITT",
             "date": "20 Jun 2024",
@@ -555,7 +573,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 842
+        "totalPoints": 872
       },
       {
         "name": "Fabio Jakobsen",

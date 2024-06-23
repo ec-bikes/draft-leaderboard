@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180449,
-  "fetchedDate": "22 Jun 2024, 23:10 GMT",
+  "fetchedDate": "23 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 8152,
+    "totalPoints": 8472,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -388,6 +388,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "National Championships Austria WE - Road Race",
+            "date": "23 Jun 2024",
+            "points": 60,
+            "rank": 3
+          },
+          {
             "name": "National Championships Austria WE - ITT",
             "date": "21 Jun 2024",
             "points": 30,
@@ -472,7 +478,7 @@
             "rank": 15
           }
         ],
-        "totalPoints": 529
+        "totalPoints": 589
       },
       {
         "name": "Neve Bradbury",
@@ -670,6 +676,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "National Championships Canada WE - Road Race",
+            "date": "23 Jun 2024",
+            "points": 100,
+            "rank": 1
+          },
+          {
             "name": "National Championships Canada WE - ITT",
             "date": "21 Jun 2024",
             "points": 30,
@@ -801,13 +813,19 @@
             "rank": 4
           }
         ],
-        "totalPoints": 759
+        "totalPoints": 859
       },
       {
         "name": "Lizzie Deignan",
         "id": 45988,
         "sanctions": 0,
         "results": [
+          {
+            "name": "National Championships Great Britain WE - Road Race",
+            "date": "23 Jun 2024",
+            "points": 60,
+            "rank": 3
+          },
           {
             "name": "Tour of Britain Women - General classification",
             "date": "09 Jun 2024",
@@ -845,13 +863,19 @@
             "rank": 27
           }
         ],
-        "totalPoints": 200
+        "totalPoints": 260
       },
       {
         "name": "Dominika Wlodarczyk",
         "id": 1549446,
         "sanctions": 0,
         "results": [
+          {
+            "name": "National Championships Poland WE - Road Race",
+            "date": "23 Jun 2024",
+            "points": 100,
+            "rank": 1
+          },
           {
             "name": "Navarra Women's Elite classic",
             "date": "08 May 2024",
@@ -883,7 +907,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 645
+        "totalPoints": 745
       }
     ]
   }
