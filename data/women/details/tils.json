@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 180449,
-  "fetchedDate": "24 Jun 2024, 23:13 GMT",
+  "momentId": 180692,
+  "fetchedDate": "25 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 11999,
+    "totalPoints": 12009,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -799,6 +799,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Internationale LOTTO Thüringen Ladies Tour - Stage 1",
+            "date": "25 Jun 2024",
+            "points": 10,
+            "rank": 5
+          },
+          {
             "name": "National Championships Poland WE - Road Race",
             "date": "23 Jun 2024",
             "points": 50,
@@ -889,7 +895,7 @@
             "rank": 13
           }
         ],
-        "totalPoints": 533
+        "totalPoints": 543
       },
       {
         "name": "Sofia Bertizzolo",

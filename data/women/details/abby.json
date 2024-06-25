@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 180449,
-  "fetchedDate": "24 Jun 2024, 23:13 GMT",
+  "momentId": 180692,
+  "fetchedDate": "25 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 10621,
+    "totalPoints": 10633,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -384,6 +384,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Internationale LOTTO Thüringen Ladies Tour - Stage 1",
+            "date": "25 Jun 2024",
+            "points": 12,
+            "rank": 4
+          },
+          {
             "name": "National Championships Netherlands WE - Road Race",
             "date": "23 Jun 2024",
             "points": 75,
@@ -478,7 +484,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 738
+        "totalPoints": 750
       },
       {
         "name": "Arlenis Sierra",
