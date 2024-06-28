@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180681,
-  "fetchedDate": "27 Jun 2024, 23:13 GMT",
+  "fetchedDate": "28 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 9495,
+    "totalPoints": 9509,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -469,6 +469,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "Okolo Slovenska / Tour de Slovaquie - Stage 3",
+            "date": "28 Jun 2024",
+            "points": 14,
+            "rank": 1
+          },
+          {
             "name": "Okolo Slovenska / Tour de Slovaquie - Stage 1 (TTT)",
             "date": "26 Jun 2024",
             "points": 0.71,
@@ -559,7 +565,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 802
+        "totalPoints": 816
       },
       {
         "name": "Felix Gall",

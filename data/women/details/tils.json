@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180692,
-  "fetchedDate": "27 Jun 2024, 23:12 GMT",
+  "fetchedDate": "28 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 12009,
+    "totalPoints": 12019,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -799,6 +799,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Internationale LOTTO Thüringen Ladies Tour - Stage 4",
+            "date": "28 Jun 2024",
+            "points": 10,
+            "rank": 5
+          },
+          {
             "name": "Internationale LOTTO Thüringen Ladies Tour - Stage 1",
             "date": "25 Jun 2024",
             "points": 10,
@@ -895,7 +901,7 @@
             "rank": 13
           }
         ],
-        "totalPoints": 543
+        "totalPoints": 553
       },
       {
         "name": "Sofia Bertizzolo",

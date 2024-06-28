@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180692,
-  "fetchedDate": "27 Jun 2024, 23:12 GMT",
+  "fetchedDate": "28 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 8472,
+    "totalPoints": 8478,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -388,6 +388,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Internationale LOTTO Thüringen Ladies Tour - Stage 4",
+            "date": "28 Jun 2024",
+            "points": 6,
+            "rank": 7
+          },
+          {
             "name": "National Championships Austria WE - Road Race",
             "date": "23 Jun 2024",
             "points": 60,
@@ -478,7 +484,7 @@
             "rank": 15
           }
         ],
-        "totalPoints": 589
+        "totalPoints": 595
       },
       {
         "name": "Neve Bradbury",
