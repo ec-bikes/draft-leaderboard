@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180681,
-  "fetchedDate": "28 Jun 2024, 23:12 GMT",
+  "fetchedDate": "29 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 10358,
+    "totalPoints": 10383,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -247,6 +247,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 1",
+            "date": "29 Jun 2024",
+            "points": 25,
+            "rank": 11
+          },
+          {
             "name": "Tour de Suisse - General classification",
             "date": "16 Jun 2024",
             "points": 175,
@@ -349,7 +355,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1536
+        "totalPoints": 1561
       },
       {
         "name": "Olav Kooij",

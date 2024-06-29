@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180692,
-  "fetchedDate": "28 Jun 2024, 23:11 GMT",
+  "fetchedDate": "29 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 12019,
+    "totalPoints": 12025,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -218,6 +218,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Internationale LOTTO Thüringen Ladies Tour - Stage 5 (ITT)",
+            "date": "29 Jun 2024",
+            "points": 6,
+            "rank": 7
+          },
+          {
             "name": "Tour de Suisse Women - General classification",
             "date": "18 Jun 2024",
             "points": 220,
@@ -308,7 +314,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 1766
+        "totalPoints": 1772
       },
       {
         "name": "Juliette Labous",

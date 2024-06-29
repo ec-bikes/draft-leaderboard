@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180681,
-  "fetchedDate": "28 Jun 2024, 23:12 GMT",
+  "fetchedDate": "29 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 11075,
+    "totalPoints": 11195,
     "riders": [
       {
         "name": "Mads Pedersen",
         "id": 86895,
         "sanctions": 10,
         "results": [
+          {
+            "name": "Tour de France - Stage 1",
+            "date": "29 Jun 2024",
+            "points": 45,
+            "rank": 7
+          },
           {
             "name": "National Championships Denmark ME - Road Race",
             "date": "23 Jun 2024",
@@ -152,7 +158,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 2045
+        "totalPoints": 2090
       },
       {
         "name": "Sepp Kuss",
@@ -548,6 +554,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 1",
+            "date": "29 Jun 2024",
+            "points": 55,
+            "rank": 6
+          },
+          {
             "name": "National Championships Spain ME - Road Race",
             "date": "23 Jun 2024",
             "points": 100,
@@ -638,13 +650,19 @@
             "rank": 3
           }
         ],
-        "totalPoints": 813
+        "totalPoints": 868
       },
       {
         "name": "Egan Bernal",
         "id": 95844,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 1",
+            "date": "29 Jun 2024",
+            "points": 20,
+            "rank": 12
+          },
           {
             "name": "Tour de Suisse - General classification",
             "date": "16 Jun 2024",
@@ -778,7 +796,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 1168
+        "totalPoints": 1188
       },
       {
         "name": "Ben O'Connor",

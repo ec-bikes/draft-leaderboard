@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180692,
-  "fetchedDate": "28 Jun 2024, 23:11 GMT",
+  "fetchedDate": "29 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 10680,
+    "totalPoints": 10705,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -384,6 +384,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Internationale LOTTO Thüringen Ladies Tour - Stage 5 (ITT)",
+            "date": "29 Jun 2024",
+            "points": 25,
+            "rank": 1
+          },
+          {
             "name": "Internationale LOTTO Thüringen Ladies Tour - Stage 4",
             "date": "28 Jun 2024",
             "points": 15,
@@ -490,7 +496,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 765
+        "totalPoints": 790
       },
       {
         "name": "Arlenis Sierra",

@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180681,
-  "fetchedDate": "28 Jun 2024, 23:12 GMT",
+  "fetchedDate": "29 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 9944,
+    "totalPoints": 10034,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 1",
+            "date": "29 Jun 2024",
+            "points": 90,
+            "rank": 4
+          },
           {
             "name": "Giro d'Italia - Mountains classification",
             "date": "26 May 2024",
@@ -260,7 +266,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 5495
+        "totalPoints": 5585
       },
       {
         "name": "Neilson Powless",

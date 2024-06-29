@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180692,
-  "fetchedDate": "28 Jun 2024, 23:11 GMT",
+  "fetchedDate": "29 Jun 2024, 23:11 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 8478,
+    "totalPoints": 8493,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -388,6 +388,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Internationale LOTTO Thüringen Ladies Tour - Stage 5 (ITT)",
+            "date": "29 Jun 2024",
+            "points": 15,
+            "rank": 3
+          },
+          {
             "name": "Internationale LOTTO Thüringen Ladies Tour - Stage 4",
             "date": "28 Jun 2024",
             "points": 6,
@@ -484,7 +490,7 @@
             "rank": 15
           }
         ],
-        "totalPoints": 595
+        "totalPoints": 610
       },
       {
         "name": "Neve Bradbury",

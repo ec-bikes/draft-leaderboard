@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180681,
-  "fetchedDate": "28 Jun 2024, 23:12 GMT",
+  "fetchedDate": "29 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 9509,
+    "totalPoints": 9549,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 1",
+            "date": "29 Jun 2024",
+            "points": 40,
+            "rank": 8
+          },
           {
             "name": "Critérium du Dauphiné - General classification",
             "date": "09 Jun 2024",
@@ -125,7 +131,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1275
+        "totalPoints": 1315
       },
       {
         "name": "Mathieu van der Poel",

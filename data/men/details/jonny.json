@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180681,
-  "fetchedDate": "28 Jun 2024, 23:12 GMT",
+  "fetchedDate": "29 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 6985,
+    "totalPoints": 7225,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -236,6 +236,17 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 1",
+            "date": "29 Jun 2024",
+            "points": 210,
+            "rank": 1
+          },
+          {
+            "name": "Tour de France - Stage 1 - Bonus",
+            "date": "29 Jun 2024",
+            "points": 25
+          },
+          {
             "name": "Giro d'Italia - General classification",
             "date": "26 May 2024",
             "points": 235,
@@ -320,13 +331,19 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1356
+        "totalPoints": 1591
       },
       {
         "name": "Jai Hindley",
         "id": 109829,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 1",
+            "date": "29 Jun 2024",
+            "points": 5,
+            "rank": 15
+          },
           {
             "name": "Critérium du Dauphiné - General classification",
             "date": "09 Jun 2024",
@@ -388,7 +405,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 583
+        "totalPoints": 588
       },
       {
         "name": "Yves Lampaert",

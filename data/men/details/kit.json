@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180681,
-  "fetchedDate": "28 Jun 2024, 23:12 GMT",
+  "fetchedDate": "29 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 6181,
+    "totalPoints": 6326,
     "riders": [
       {
         "name": "Wout van Aert",
         "id": 75859,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 1",
+            "date": "29 Jun 2024",
+            "points": 110,
+            "rank": 3
+          },
           {
             "name": "National Championships Belgium ME - Road Race",
             "date": "23 Jun 2024",
@@ -68,7 +74,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 845
+        "totalPoints": 955
       },
       {
         "name": "Juan Ayuso",
@@ -334,6 +340,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 1",
+            "date": "29 Jun 2024",
+            "points": 35,
+            "rank": 9
+          },
+          {
             "name": "Tour of Slovenia - General classification",
             "date": "16 Jun 2024",
             "points": 150,
@@ -424,7 +436,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 925
+        "totalPoints": 960
       },
       {
         "name": "Alexey Lutsenko",
