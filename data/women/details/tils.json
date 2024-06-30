@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180692,
-  "fetchedDate": "29 Jun 2024, 23:11 GMT",
+  "fetchedDate": "30 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 12025,
+    "totalPoints": 12180,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -218,6 +218,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Internationale LOTTO Thüringen Ladies Tour - General classification",
+            "date": "30 Jun 2024",
+            "points": 60,
+            "rank": 7
+          },
+          {
             "name": "Internationale LOTTO Thüringen Ladies Tour - Stage 5 (ITT)",
             "date": "29 Jun 2024",
             "points": 6,
@@ -314,7 +320,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 1772
+        "totalPoints": 1832
       },
       {
         "name": "Juliette Labous",
@@ -652,6 +658,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Internationale LOTTO Thüringen Ladies Tour - General classification",
+            "date": "30 Jun 2024",
+            "points": 10,
+            "rank": 15
+          },
+          {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
             "date": "05 May 2024",
             "points": 24,
@@ -711,7 +723,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 582
+        "totalPoints": 592
       },
       {
         "name": "Ella Wyllie",
@@ -804,6 +816,12 @@
         "id": 96399,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Internationale LOTTO Thüringen Ladies Tour - General classification",
+            "date": "30 Jun 2024",
+            "points": 85,
+            "rank": 5
+          },
           {
             "name": "Internationale LOTTO Thüringen Ladies Tour - Stage 4",
             "date": "28 Jun 2024",
@@ -907,7 +925,7 @@
             "rank": 13
           }
         ],
-        "totalPoints": 553
+        "totalPoints": 638
       },
       {
         "name": "Sofia Bertizzolo",

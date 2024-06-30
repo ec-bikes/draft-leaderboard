@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180681,
-  "fetchedDate": "29 Jun 2024, 23:12 GMT",
+  "fetchedDate": "30 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 9021,
+    "totalPoints": 9231,
     "riders": [
       {
         "name": "Adam Yates",
@@ -437,6 +437,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 2",
+            "date": "30 Jun 2024",
+            "points": 210,
+            "rank": 1
+          },
+          {
             "name": "National Championships France ME - Road Race",
             "date": "23 Jun 2024",
             "points": 3,
@@ -545,7 +551,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 808
+        "totalPoints": 1018
       },
       {
         "name": "Brandon McNulty",

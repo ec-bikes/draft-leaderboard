@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180681,
-  "fetchedDate": "29 Jun 2024, 23:12 GMT",
+  "fetchedDate": "30 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 6845,
+    "totalPoints": 6860,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 2",
+            "date": "30 Jun 2024",
+            "points": 15,
+            "rank": 13
+          },
           {
             "name": "Itzulia Basque Country - Stage 1 (ITT)",
             "date": "01 Apr 2024",
@@ -88,7 +94,7 @@
             "points": 3
           }
         ],
-        "totalPoints": 833
+        "totalPoints": 848
       },
       {
         "name": "Christophe Laporte",

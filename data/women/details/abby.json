@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180692,
-  "fetchedDate": "29 Jun 2024, 23:11 GMT",
+  "fetchedDate": "30 Jun 2024, 23:12 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 10705,
+    "totalPoints": 10897,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -256,6 +256,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Internationale LOTTO Thüringen Ladies Tour - General classification",
+            "date": "30 Jun 2024",
+            "points": 25,
+            "rank": 12
+          },
+          {
             "name": "National Championships Netherlands WE - Road Race",
             "date": "23 Jun 2024",
             "points": 20,
@@ -376,13 +382,19 @@
             "rank": 4
           }
         ],
-        "totalPoints": 1450
+        "totalPoints": 1475
       },
       {
         "name": "Mischa Bredewold",
         "id": 227721,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Internationale LOTTO Thüringen Ladies Tour - General classification",
+            "date": "30 Jun 2024",
+            "points": 150,
+            "rank": 2
+          },
           {
             "name": "Internationale LOTTO Thüringen Ladies Tour - Stage 5 (ITT)",
             "date": "29 Jun 2024",
@@ -496,7 +508,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 790
+        "totalPoints": 940
       },
       {
         "name": "Arlenis Sierra",
@@ -1100,6 +1112,18 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Internationale LOTTO Thüringen Ladies Tour - General classification",
+            "date": "30 Jun 2024",
+            "points": 5,
+            "rank": 19
+          },
+          {
+            "name": "Internationale LOTTO Thüringen Ladies Tour - Stage 6",
+            "date": "30 Jun 2024",
+            "points": 12,
+            "rank": 4
+          },
+          {
             "name": "Internationale LOTTO Thüringen Ladies Tour - Stage 4",
             "date": "28 Jun 2024",
             "points": 20,
@@ -1226,7 +1250,7 @@
             "rank": 14
           }
         ],
-        "totalPoints": 1000
+        "totalPoints": 1017
       }
     ]
   }
