@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180681,
-  "fetchedDate": "30 Jun 2024, 23:12 GMT",
+  "fetchedDate": "1 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 7225,
+    "totalPoints": 7255,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -601,6 +601,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 3",
+            "date": "01 Jul 2024",
+            "points": 30,
+            "rank": 10
+          },
+          {
             "name": "Tour de Suisse - Stage 2",
             "date": "10 Jun 2024",
             "points": 60,
@@ -679,7 +685,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 346
+        "totalPoints": 376
       },
       {
         "name": "Romain Grégoire",

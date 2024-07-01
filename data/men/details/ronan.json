@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180681,
-  "fetchedDate": "30 Jun 2024, 23:12 GMT",
+  "fetchedDate": "1 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 10413,
+    "totalPoints": 10693,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -118,6 +118,12 @@
         "id": 1707195,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 3",
+            "date": "01 Jul 2024",
+            "points": 210,
+            "rank": 1
+          },
           {
             "name": "National Championships Eritrea ME - Road Race",
             "date": "15 Jun 2024",
@@ -239,7 +245,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1084
+        "totalPoints": 1294
       },
       {
         "name": "Tom Pidcock",
@@ -599,6 +605,17 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 3",
+            "date": "01 Jul 2024",
+            "points": 10,
+            "rank": 14
+          },
+          {
+            "name": "Tour de France - Stage 3 - Bonus",
+            "date": "01 Jul 2024",
+            "points": 25
+          },
+          {
             "name": "Tour de France - Stage 2",
             "date": "30 Jun 2024",
             "points": 30,
@@ -683,7 +700,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 564
+        "totalPoints": 599
       },
       {
         "name": "Jhonatan Narváez",
@@ -818,6 +835,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 3",
+            "date": "01 Jul 2024",
+            "points": 35,
+            "rank": 9
+          },
+          {
             "name": "Critérium du Dauphiné - Stage 1",
             "date": "02 Jun 2024",
             "points": 40,
@@ -946,7 +969,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 509
+        "totalPoints": 544
       },
       {
         "name": "Isaac del Toro",

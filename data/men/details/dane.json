@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180681,
-  "fetchedDate": "30 Jun 2024, 23:12 GMT",
+  "fetchedDate": "1 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 6860,
+    "totalPoints": 6905,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -587,6 +587,12 @@
         "sanctions": 15,
         "results": [
           {
+            "name": "Tour de France - Stage 3",
+            "date": "01 Jul 2024",
+            "points": 45,
+            "rank": 7
+          },
+          {
             "name": "Presidential Cycling Tour of Türkiye - Stage 5",
             "date": "25 Apr 2024",
             "points": 15,
@@ -628,7 +634,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 214
+        "totalPoints": 259
       },
       {
         "name": "Arnaud Démare",
