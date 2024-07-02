@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 180681,
-  "fetchedDate": "1 Jul 2024, 23:12 GMT",
+  "momentId": 180922,
+  "fetchedDate": "2 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 6326,
+    "totalPoints": 6441,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -81,6 +81,12 @@
         "id": 415141,
         "sanctions": 8,
         "results": [
+          {
+            "name": "Tour de France - Stage 4",
+            "date": "02 Jul 2024",
+            "points": 110,
+            "rank": 3
+          },
           {
             "name": "Critérium du Dauphiné - Stage 4 (ITT)",
             "date": "05 Jun 2024",
@@ -204,7 +210,7 @@
             "rank": 20
           }
         ],
-        "totalPoints": 1806
+        "totalPoints": 1916
       },
       {
         "name": "Sam Welsford",
@@ -284,6 +290,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour of Austria - Prologue",
+            "date": "02 Jul 2024",
+            "points": 5,
+            "rank": 2
+          },
+          {
             "name": "National Championships Italy ME - Road Race",
             "date": "23 Jun 2024",
             "points": 50,
@@ -332,7 +344,7 @@
             "rank": 36
           }
         ],
-        "totalPoints": 490
+        "totalPoints": 495
       },
       {
         "name": "Pello Bilbao",

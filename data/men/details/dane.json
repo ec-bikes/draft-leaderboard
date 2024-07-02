@@ -1,18 +1,24 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 180681,
-  "fetchedDate": "1 Jul 2024, 23:12 GMT",
+  "momentId": 180922,
+  "fetchedDate": "2 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 6905,
+    "totalPoints": 7080,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 4",
+            "date": "02 Jul 2024",
+            "points": 70,
+            "rank": 5
+          },
           {
             "name": "Tour de France - Stage 2",
             "date": "30 Jun 2024",
@@ -94,7 +100,7 @@
             "points": 3
           }
         ],
-        "totalPoints": 848
+        "totalPoints": 918
       },
       {
         "name": "Christophe Laporte",
@@ -133,6 +139,12 @@
         "id": 32532,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 4",
+            "date": "02 Jul 2024",
+            "points": 5,
+            "rank": 15
+          },
           {
             "name": "Giro d'Italia - General classification",
             "date": "26 May 2024",
@@ -212,13 +224,19 @@
             "rank": 27
           }
         ],
-        "totalPoints": 1240
+        "totalPoints": 1245
       },
       {
         "name": "Mikel Landa",
         "id": 68367,
         "sanctions": 25,
         "results": [
+          {
+            "name": "Tour de France - Stage 4",
+            "date": "02 Jul 2024",
+            "points": 45,
+            "rank": 7
+          },
           {
             "name": "National Championships Spain ME - Road Race",
             "date": "23 Jun 2024",
@@ -280,13 +298,19 @@
             "rank": 19
           }
         ],
-        "totalPoints": 544
+        "totalPoints": 589
       },
       {
         "name": "Carlos Rodriguez",
         "id": 428096,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 4",
+            "date": "02 Jul 2024",
+            "points": 55,
+            "rank": 6
+          },
           {
             "name": "Critérium du Dauphiné - General classification",
             "date": "09 Jun 2024",
@@ -371,7 +395,7 @@
             "rank": 19
           }
         ],
-        "totalPoints": 1307
+        "totalPoints": 1362
       },
       {
         "name": "Marc Hirschi",

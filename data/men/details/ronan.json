@@ -1,18 +1,24 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 180681,
-  "fetchedDate": "1 Jul 2024, 23:12 GMT",
+  "momentId": 180922,
+  "fetchedDate": "2 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 10693,
+    "totalPoints": 10783,
     "riders": [
       {
         "name": "Primož Roglič",
         "id": 88889,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 4",
+            "date": "02 Jul 2024",
+            "points": 90,
+            "rank": 4
+          },
           {
             "name": "Critérium du Dauphiné - General classification",
             "date": "09 Jun 2024",
@@ -111,7 +117,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 931
+        "totalPoints": 1021
       },
       {
         "name": "Biniam Girmay",

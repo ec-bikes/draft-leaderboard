@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 180681,
-  "fetchedDate": "1 Jul 2024, 23:12 GMT",
+  "momentId": 180922,
+  "fetchedDate": "2 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 11285,
+    "totalPoints": 11320,
     "riders": [
       {
         "name": "Mads Pedersen",
@@ -222,6 +222,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 4",
+            "date": "02 Jul 2024",
+            "points": 20,
+            "rank": 12
+          },
+          {
             "name": "Critérium du Dauphiné - General classification",
             "date": "09 Jun 2024",
             "points": 400,
@@ -330,7 +336,7 @@
             "rank": 29
           }
         ],
-        "totalPoints": 1677
+        "totalPoints": 1697
       },
       {
         "name": "Ben Healy",
@@ -664,6 +670,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 4",
+            "date": "02 Jul 2024",
+            "points": 15,
+            "rank": 13
+          },
+          {
             "name": "Tour de France - Stage 1",
             "date": "29 Jun 2024",
             "points": 20,
@@ -802,7 +814,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 1188
+        "totalPoints": 1203
       },
       {
         "name": "Ben O'Connor",
