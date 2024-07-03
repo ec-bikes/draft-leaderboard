@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180922,
-  "fetchedDate": "2 Jul 2024, 23:11 GMT",
+  "fetchedDate": "3 Jul 2024, 23:13 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 6441,
+    "totalPoints": 6481,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -561,6 +561,12 @@
         "sanctions": 10,
         "results": [
           {
+            "name": "Tour de France - Stage 5",
+            "date": "03 Jul 2024",
+            "points": 40,
+            "rank": 8
+          },
+          {
             "name": "Baloise Belgium Tour - Stage 3",
             "date": "14 Jun 2024",
             "points": 10,
@@ -656,7 +662,7 @@
             "rank": 19
           }
         ],
-        "totalPoints": 594
+        "totalPoints": 634
       },
       {
         "name": "Wout Poels",

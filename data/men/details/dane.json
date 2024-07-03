@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180922,
-  "fetchedDate": "2 Jul 2024, 23:11 GMT",
+  "fetchedDate": "3 Jul 2024, 23:13 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 7080,
+    "totalPoints": 7195,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -611,6 +611,12 @@
         "sanctions": 15,
         "results": [
           {
+            "name": "Tour de France - Stage 5",
+            "date": "03 Jul 2024",
+            "points": 70,
+            "rank": 5
+          },
+          {
             "name": "Tour de France - Stage 3",
             "date": "01 Jul 2024",
             "points": 45,
@@ -658,13 +664,19 @@
             "rank": 4
           }
         ],
-        "totalPoints": 259
+        "totalPoints": 329
       },
       {
         "name": "Arnaud Démare",
         "id": 64670,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 5",
+            "date": "03 Jul 2024",
+            "points": 45,
+            "rank": 7
+          },
           {
             "name": "Gent-Wevelgem in Flanders Fields ME",
             "date": "24 Mar 2024",
@@ -708,7 +720,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 111
+        "totalPoints": 156
       },
       {
         "name": "Søren Kragh Andersen",
