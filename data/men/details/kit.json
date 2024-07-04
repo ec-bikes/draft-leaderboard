@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180922,
-  "fetchedDate": "3 Jul 2024, 23:13 GMT",
+  "fetchedDate": "4 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 6481,
+    "totalPoints": 6551,
     "riders": [
       {
         "name": "Wout van Aert",
         "id": 75859,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 6",
+            "date": "04 Jul 2024",
+            "points": 55,
+            "rank": 6
+          },
           {
             "name": "Tour de France - Stage 1",
             "date": "29 Jun 2024",
@@ -74,7 +80,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 955
+        "totalPoints": 1010
       },
       {
         "name": "Juan Ayuso",
@@ -453,7 +459,7 @@
       {
         "name": "Alexey Lutsenko",
         "id": 68778,
-        "sanctions": 15,
+        "sanctions": 30,
         "results": [
           {
             "name": "Giro d'Italia - Stage 7 (ITT)",
@@ -561,6 +567,12 @@
         "sanctions": 10,
         "results": [
           {
+            "name": "Tour de France - Stage 6",
+            "date": "04 Jul 2024",
+            "points": 15,
+            "rank": 13
+          },
+          {
             "name": "Tour de France - Stage 5",
             "date": "03 Jul 2024",
             "points": 40,
@@ -662,7 +674,7 @@
             "rank": 19
           }
         ],
-        "totalPoints": 634
+        "totalPoints": 649
       },
       {
         "name": "Wout Poels",

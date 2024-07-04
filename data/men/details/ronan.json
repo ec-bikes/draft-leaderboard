@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180922,
-  "fetchedDate": "3 Jul 2024, 23:13 GMT",
+  "fetchedDate": "4 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 10823,
+    "totalPoints": 11033,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -124,6 +124,12 @@
         "id": 1707195,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 6",
+            "date": "04 Jul 2024",
+            "points": 150,
+            "rank": 2
+          },
           {
             "name": "Tour de France - Stage 5",
             "date": "03 Jul 2024",
@@ -257,7 +263,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1329
+        "totalPoints": 1479
       },
       {
         "name": "Tom Pidcock",
@@ -1144,13 +1150,13 @@
           {
             "name": "National Championships Ireland ME - Road Race",
             "date": "23 Jun 2024",
-            "points": 50,
+            "points": 100,
             "rank": 1
           },
           {
             "name": "National Championships Ireland ME - ITT",
             "date": "20 Jun 2024",
-            "points": 5,
+            "points": 15,
             "rank": 4
           },
           {
@@ -1202,7 +1208,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 189
+        "totalPoints": 249
       }
     ]
   }

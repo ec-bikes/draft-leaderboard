@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180922,
-  "fetchedDate": "3 Jul 2024, 23:13 GMT",
+  "fetchedDate": "4 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 11320,
+    "totalPoints": 11325,
     "riders": [
       {
         "name": "Mads Pedersen",
         "id": 86895,
         "sanctions": 10,
         "results": [
+          {
+            "name": "Tour de France - Stage 6",
+            "date": "04 Jul 2024",
+            "points": 5,
+            "rank": 15
+          },
           {
             "name": "Tour de France - Stage 3",
             "date": "01 Jul 2024",
@@ -164,7 +170,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 2180
+        "totalPoints": 2185
       },
       {
         "name": "Sepp Kuss",

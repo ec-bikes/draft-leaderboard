@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180922,
-  "fetchedDate": "3 Jul 2024, 23:13 GMT",
+  "fetchedDate": "4 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 7195,
+    "totalPoints": 7240,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -672,6 +672,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 6",
+            "date": "04 Jul 2024",
+            "points": 45,
+            "rank": 7
+          },
+          {
             "name": "Tour de France - Stage 5",
             "date": "03 Jul 2024",
             "points": 45,
@@ -720,7 +726,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 156
+        "totalPoints": 201
       },
       {
         "name": "Søren Kragh Andersen",
