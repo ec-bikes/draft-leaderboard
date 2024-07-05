@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180922,
-  "fetchedDate": "4 Jul 2024, 23:12 GMT",
+  "fetchedDate": "5 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 11325,
+    "totalPoints": 11405,
     "riders": [
       {
         "name": "Mads Pedersen",
@@ -228,6 +228,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 7 (ITT)",
+            "date": "05 Jul 2024",
+            "points": 45,
+            "rank": 7
+          },
+          {
             "name": "Tour de France - Stage 4",
             "date": "02 Jul 2024",
             "points": 20,
@@ -342,13 +348,19 @@
             "rank": 29
           }
         ],
-        "totalPoints": 1697
+        "totalPoints": 1742
       },
       {
         "name": "Ben Healy",
         "id": 235075,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 7 (ITT)",
+            "date": "05 Jul 2024",
+            "points": 35,
+            "rank": 9
+          },
           {
             "name": "Tour of Slovenia - General classification",
             "date": "16 Jun 2024",
@@ -404,7 +416,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 371
+        "totalPoints": 406
       },
       {
         "name": "Kaden Groves",

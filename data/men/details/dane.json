@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180922,
-  "fetchedDate": "4 Jul 2024, 23:12 GMT",
+  "fetchedDate": "5 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 7240,
+    "totalPoints": 7360,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 7 (ITT)",
+            "date": "05 Jul 2024",
+            "points": 90,
+            "rank": 4
+          },
           {
             "name": "Tour de France - Stage 4",
             "date": "02 Jul 2024",
@@ -100,7 +106,7 @@
             "points": 3
           }
         ],
-        "totalPoints": 918
+        "totalPoints": 1008
       },
       {
         "name": "Christophe Laporte",
@@ -513,6 +519,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 7 (ITT)",
+            "date": "05 Jul 2024",
+            "points": 30,
+            "rank": 10
+          },
+          {
             "name": "National Championships Switzerland ME - Road Race",
             "date": "23 Jun 2024",
             "points": 30,
@@ -603,7 +615,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 872
+        "totalPoints": 902
       },
       {
         "name": "Fabio Jakobsen",

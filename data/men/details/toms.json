@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180922,
-  "fetchedDate": "4 Jul 2024, 23:12 GMT",
+  "fetchedDate": "5 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 9281,
+    "totalPoints": 9376,
     "riders": [
       {
         "name": "Adam Yates",
@@ -351,6 +351,12 @@
         "sanctions": 50,
         "results": [
           {
+            "name": "Tour de France - Stage 7 (ITT)",
+            "date": "05 Jul 2024",
+            "points": 40,
+            "rank": 8
+          },
+          {
             "name": "Tour de France - Stage 4",
             "date": "02 Jul 2024",
             "points": 40,
@@ -441,13 +447,19 @@
             "rank": 1
           }
         ],
-        "totalPoints": 917
+        "totalPoints": 957
       },
       {
         "name": "Kévin Vauquelin",
         "id": 1745291,
-        "sanctions": 0,
+        "sanctions": 20,
         "results": [
+          {
+            "name": "Tour de France - Stage 7 (ITT)",
+            "date": "05 Jul 2024",
+            "points": 55,
+            "rank": 6
+          },
           {
             "name": "Tour de France - Stage 2",
             "date": "30 Jun 2024",
@@ -563,7 +575,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1018
+        "totalPoints": 1073
       },
       {
         "name": "Brandon McNulty",

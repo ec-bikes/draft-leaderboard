@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180922,
-  "fetchedDate": "4 Jul 2024, 23:12 GMT",
+  "fetchedDate": "5 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 10202,
+    "totalPoints": 10412,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 7 (ITT)",
+            "date": "05 Jul 2024",
+            "points": 210,
+            "rank": 1
+          },
           {
             "name": "Tour de France - Stage 4",
             "date": "02 Jul 2024",
@@ -143,7 +149,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1485
+        "totalPoints": 1695
       },
       {
         "name": "Mathieu van der Poel",
