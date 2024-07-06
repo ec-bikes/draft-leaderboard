@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180922,
-  "fetchedDate": "5 Jul 2024, 23:12 GMT",
+  "fetchedDate": "6 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 7445,
+    "totalPoints": 7635,
     "riders": [
       {
         "name": "Jasper Philipsen",
         "id": 148275,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 8",
+            "date": "06 Jul 2024",
+            "points": 150,
+            "rank": 2
+          },
           {
             "name": "Tour de France - Stage 5",
             "date": "03 Jul 2024",
@@ -116,7 +122,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 2820
+        "totalPoints": 2970
       },
       {
         "name": "Simon Yates",
@@ -527,6 +533,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 8",
+            "date": "06 Jul 2024",
+            "points": 40,
+            "rank": 8
+          },
+          {
             "name": "Critérium du Dauphiné - Stage 1",
             "date": "02 Jun 2024",
             "points": 8,
@@ -599,7 +611,7 @@
             "rank": 14
           }
         ],
-        "totalPoints": 227
+        "totalPoints": 267
       },
       {
         "name": "Bryan Coquard",

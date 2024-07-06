@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180922,
-  "fetchedDate": "5 Jul 2024, 23:12 GMT",
+  "fetchedDate": "6 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 6556,
+    "totalPoints": 6570,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -302,6 +302,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour of Austria - Stage 4",
+            "date": "06 Jul 2024",
+            "points": 14,
+            "rank": 1
+          },
+          {
             "name": "Tour of Austria - Prologue",
             "date": "02 Jul 2024",
             "points": 5,
@@ -356,7 +362,7 @@
             "rank": 36
           }
         ],
-        "totalPoints": 495
+        "totalPoints": 509
       },
       {
         "name": "Pello Bilbao",

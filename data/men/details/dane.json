@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180922,
-  "fetchedDate": "5 Jul 2024, 23:12 GMT",
+  "fetchedDate": "6 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 7360,
+    "totalPoints": 7385,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -746,6 +746,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 8",
+            "date": "06 Jul 2024",
+            "points": 25,
+            "rank": 11
+          },
+          {
             "name": "Tour de Suisse - Stage 1 (ITT)",
             "date": "09 Jun 2024",
             "points": 2,
@@ -782,7 +788,7 @@
             "rank": 31
           }
         ],
-        "totalPoints": 118
+        "totalPoints": 143
       }
     ]
   }
