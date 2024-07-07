@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180933,
-  "fetchedDate": "6 Jul 2024, 23:10 GMT",
+  "fetchedDate": "7 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 8357,
+    "totalPoints": 8377,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia Women - Stage 1 (ITT)",
+            "date": "07 Jul 2024",
+            "points": 20,
+            "rank": 5
+          },
           {
             "name": "National Championships Belgium WE - Road Race",
             "date": "23 Jun 2024",
@@ -218,7 +224,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 3543
+        "totalPoints": 3563
       },
       {
         "name": "Cecilie Uttrup Ludwig",

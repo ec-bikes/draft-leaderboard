@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180933,
-  "fetchedDate": "6 Jul 2024, 23:10 GMT",
+  "fetchedDate": "7 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 11895,
+    "totalPoints": 12118,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -85,6 +85,17 @@
         "id": 76149,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia Women - Stage 1 (ITT)",
+            "date": "07 Jul 2024",
+            "points": 50,
+            "rank": 1
+          },
+          {
+            "name": "Giro d'Italia Women - Stage 1 (ITT) - Bonus",
+            "date": "07 Jul 2024",
+            "points": 8
+          },
           {
             "name": "National Championships Italy WE - Road Race",
             "date": "22 Jun 2024",
@@ -236,7 +247,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 3155
+        "totalPoints": 3213
       },
       {
         "name": "Elisa Balsamo",
@@ -356,6 +367,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Giro d'Italia Women - Stage 1 (ITT)",
+            "date": "07 Jul 2024",
+            "points": 40,
+            "rank": 2
+          },
+          {
             "name": "Volta Ciclista a Catalunya Femenina - Stage 1",
             "date": "07 Jun 2024",
             "points": 2,
@@ -444,7 +461,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 904
+        "totalPoints": 944
       },
       {
         "name": "Emma Norsgaard",
@@ -836,6 +853,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Argenta Classic - 2 Districtenpijl Ekeren-Deurne",
+            "date": "07 Jul 2024",
+            "points": 125,
+            "rank": 1
+          },
+          {
             "name": "National Championships Poland WE - Road Race",
             "date": "23 Jun 2024",
             "points": 40,
@@ -890,7 +913,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 751
+        "totalPoints": 876
       },
       {
         "name": "Niamh Fisher-Black",

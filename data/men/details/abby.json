@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180922,
-  "fetchedDate": "6 Jul 2024, 23:11 GMT",
+  "fetchedDate": "7 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 11440,
+    "totalPoints": 11600,
     "riders": [
       {
         "name": "Mads Pedersen",
@@ -356,6 +356,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 9",
+            "date": "07 Jul 2024",
+            "points": 70,
+            "rank": 5
+          },
+          {
             "name": "Tour de France - Stage 7 (ITT)",
             "date": "05 Jul 2024",
             "points": 35,
@@ -416,7 +422,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 406
+        "totalPoints": 476
       },
       {
         "name": "Kaden Groves",
@@ -584,6 +590,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 9",
+            "date": "07 Jul 2024",
+            "points": 90,
+            "rank": 4
+          },
+          {
             "name": "Tour de France - Stage 8",
             "date": "06 Jul 2024",
             "points": 35,
@@ -686,7 +698,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 903
+        "totalPoints": 993
       },
       {
         "name": "Egan Bernal",

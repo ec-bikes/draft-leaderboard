@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180922,
-  "fetchedDate": "6 Jul 2024, 23:11 GMT",
+  "fetchedDate": "7 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 7635,
+    "totalPoints": 7640,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -180,6 +180,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 9",
+            "date": "07 Jul 2024",
+            "points": 5,
+            "rank": 15
+          },
+          {
             "name": "Critérium du Dauphiné - General classification",
             "date": "09 Jun 2024",
             "points": 35,
@@ -240,7 +246,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 396
+        "totalPoints": 401
       },
       {
         "name": "Romain Bardet",

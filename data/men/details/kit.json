@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180922,
-  "fetchedDate": "6 Jul 2024, 23:11 GMT",
+  "fetchedDate": "7 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 6570,
+    "totalPoints": 6625,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -474,6 +474,12 @@
         "sanctions": 30,
         "results": [
           {
+            "name": "Tour de France - Stage 9",
+            "date": "07 Jul 2024",
+            "points": 55,
+            "rank": 6
+          },
+          {
             "name": "Giro d'Italia - Stage 7 (ITT)",
             "date": "10 May 2024",
             "points": 10,
@@ -545,7 +551,7 @@
             "rank": 31
           }
         ],
-        "totalPoints": 436
+        "totalPoints": 491
       },
       {
         "name": "Lennard Kämna",
