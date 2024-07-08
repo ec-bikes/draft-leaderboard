@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 180933,
-  "fetchedDate": "7 Jul 2024, 23:12 GMT",
+  "fetchedDate": "8 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 12118,
+    "totalPoints": 12214,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -85,6 +85,17 @@
         "id": 76149,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia Women - Stage 2",
+            "date": "08 Jul 2024",
+            "points": 8,
+            "rank": 9
+          },
+          {
+            "name": "Giro d'Italia Women - Stage 2 - Bonus",
+            "date": "08 Jul 2024",
+            "points": 8
+          },
           {
             "name": "Giro d'Italia Women - Stage 1 (ITT)",
             "date": "07 Jul 2024",
@@ -247,13 +258,19 @@
             "rank": 7
           }
         ],
-        "totalPoints": 3213
+        "totalPoints": 3229
       },
       {
         "name": "Elisa Balsamo",
         "id": 101826,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia Women - Stage 2",
+            "date": "08 Jul 2024",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "National Championships Italy WE - Road Race",
             "date": "22 Jun 2024",
@@ -326,7 +343,7 @@
             "points": 5
           }
         ],
-        "totalPoints": 1958
+        "totalPoints": 1988
       },
       {
         "name": "Maike van der Duin",
@@ -719,6 +736,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Giro d'Italia Women - Stage 2",
+            "date": "08 Jul 2024",
+            "points": 50,
+            "rank": 1
+          },
+          {
             "name": "National Championships Italy WE - Road Race",
             "date": "22 Jun 2024",
             "points": 75,
@@ -845,7 +868,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1410
+        "totalPoints": 1460
       },
       {
         "name": "Daria Pikulik",
