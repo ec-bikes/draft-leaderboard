@@ -1,18 +1,24 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 180922,
-  "fetchedDate": "8 Jul 2024, 23:12 GMT",
+  "momentId": 181166,
+  "fetchedDate": "9 Jul 2024, 23:14 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 7640,
+    "totalPoints": 7865,
     "riders": [
       {
         "name": "Jasper Philipsen",
         "id": 148275,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 10",
+            "date": "09 Jul 2024",
+            "points": 210,
+            "rank": 1
+          },
           {
             "name": "Tour de France - Stage 8",
             "date": "06 Jul 2024",
@@ -122,7 +128,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 2970
+        "totalPoints": 3180
       },
       {
         "name": "Simon Yates",
@@ -625,6 +631,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 10",
+            "date": "09 Jul 2024",
+            "points": 15,
+            "rank": 13
+          },
+          {
             "name": "Tour de France - Stage 6",
             "date": "04 Jul 2024",
             "points": 25,
@@ -721,7 +733,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 416
+        "totalPoints": 431
       },
       {
         "name": "Romain Grégoire",

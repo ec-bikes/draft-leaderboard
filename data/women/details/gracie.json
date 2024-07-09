@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 180933,
-  "fetchedDate": "8 Jul 2024, 23:11 GMT",
+  "momentId": 181177,
+  "fetchedDate": "9 Jul 2024, 23:13 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 8513,
+    "totalPoints": 8546,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -250,6 +250,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Giro d'Italia Women - Stage 3",
+            "date": "09 Jul 2024",
+            "points": 18,
+            "rank": 6
+          },
+          {
             "name": "National Championships Spain WE - Road Race",
             "date": "22 Jun 2024",
             "points": 60,
@@ -380,7 +386,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1073
+        "totalPoints": 1091
       },
       {
         "name": "Christina Schweinberger",
@@ -504,6 +510,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Giro d'Italia Women - Stage 3",
+            "date": "09 Jul 2024",
+            "points": 15,
+            "rank": 7
+          },
+          {
             "name": "Tour de Suisse Women - General classification",
             "date": "18 Jun 2024",
             "points": 320,
@@ -612,7 +624,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1223
+        "totalPoints": 1238
       },
       {
         "name": "Rosita Reijnhout",

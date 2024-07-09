@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 180933,
-  "fetchedDate": "8 Jul 2024, 23:11 GMT",
+  "momentId": 181177,
+  "fetchedDate": "9 Jul 2024, 23:13 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 12195,
+    "totalPoints": 12225,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -328,6 +328,12 @@
         "sanctions": 15,
         "results": [
           {
+            "name": "Giro d'Italia Women - Stage 3",
+            "date": "09 Jul 2024",
+            "points": 30,
+            "rank": 3
+          },
+          {
             "name": "Giro d'Italia Women - Stage 1 (ITT)",
             "date": "07 Jul 2024",
             "points": 15,
@@ -460,7 +466,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 1306
+        "totalPoints": 1336
       },
       {
         "name": "Charlotte Kool",

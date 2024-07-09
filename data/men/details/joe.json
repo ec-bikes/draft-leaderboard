@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 180922,
-  "fetchedDate": "8 Jul 2024, 23:12 GMT",
+  "momentId": 181166,
+  "fetchedDate": "9 Jul 2024, 23:14 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 10467,
+    "totalPoints": 10507,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -163,6 +163,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 10",
+            "date": "09 Jul 2024",
+            "points": 5,
+            "rank": 15
+          },
+          {
             "name": "Tour de France - Stage 9",
             "date": "07 Jul 2024",
             "points": 25,
@@ -211,7 +217,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 3100
+        "totalPoints": 3105
       },
       {
         "name": "Tao Geoghegan Hart",
@@ -799,6 +805,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 10",
+            "date": "09 Jul 2024",
+            "points": 35,
+            "rank": 9
+          },
+          {
             "name": "Tour de France - Stage 6",
             "date": "04 Jul 2024",
             "points": 210,
@@ -912,7 +924,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1202
+        "totalPoints": 1237
       },
       {
         "name": "Andrea Bagioli",
