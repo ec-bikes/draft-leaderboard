@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181177,
-  "fetchedDate": "9 Jul 2024, 23:13 GMT",
+  "fetchedDate": "10 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 8475,
+    "totalPoints": 8513,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia Women - Stage 4",
+            "date": "10 Jul 2024",
+            "points": 8,
+            "rank": 9
+          },
           {
             "name": "Giro d'Italia Women - Stage 3",
             "date": "09 Jul 2024",
@@ -236,13 +242,19 @@
             "rank": 9
           }
         ],
-        "totalPoints": 3643
+        "totalPoints": 3651
       },
       {
         "name": "Cecilie Uttrup Ludwig",
         "id": 86838,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia Women - Stage 4",
+            "date": "10 Jul 2024",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Giro d'Italia Women - Stage 3",
             "date": "09 Jul 2024",
@@ -303,7 +315,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 445
+        "totalPoints": 475
       },
       {
         "name": "Silvia Persico",

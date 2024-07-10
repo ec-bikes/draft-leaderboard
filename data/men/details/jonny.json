@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181166,
-  "fetchedDate": "9 Jul 2024, 23:14 GMT",
+  "fetchedDate": "10 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 7865,
+    "totalPoints": 7880,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -136,6 +136,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 11",
+            "date": "10 Jul 2024",
+            "points": 15,
+            "rank": 13
+          },
+          {
             "name": "Tour de Romandie - General classification",
             "date": "28 Apr 2024",
             "points": 70,
@@ -178,7 +184,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 391
+        "totalPoints": 406
       },
       {
         "name": "David Gaudu",

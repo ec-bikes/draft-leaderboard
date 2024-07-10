@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181166,
-  "fetchedDate": "9 Jul 2024, 23:14 GMT",
+  "fetchedDate": "10 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 6715,
+    "totalPoints": 6720,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -93,6 +93,12 @@
         "id": 415141,
         "sanctions": 8,
         "results": [
+          {
+            "name": "Tour de France - Stage 11",
+            "date": "10 Jul 2024",
+            "points": 5,
+            "rank": 15
+          },
           {
             "name": "Tour de France - Stage 7 (ITT)",
             "date": "05 Jul 2024",
@@ -228,7 +234,7 @@
             "rank": 20
           }
         ],
-        "totalPoints": 1921
+        "totalPoints": 1926
       },
       {
         "name": "Sam Welsford",

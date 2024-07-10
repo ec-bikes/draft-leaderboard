@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181166,
-  "fetchedDate": "9 Jul 2024, 23:14 GMT",
+  "fetchedDate": "10 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 7385,
+    "totalPoints": 7670,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 11",
+            "date": "10 Jul 2024",
+            "points": 210,
+            "rank": 1
+          },
           {
             "name": "Tour de France - Stage 7 (ITT)",
             "date": "05 Jul 2024",
@@ -106,7 +112,7 @@
             "points": 3
           }
         ],
-        "totalPoints": 1008
+        "totalPoints": 1218
       },
       {
         "name": "Christophe Laporte",
@@ -238,6 +244,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "Tour de France - Stage 11",
+            "date": "10 Jul 2024",
+            "points": 40,
+            "rank": 8
+          },
+          {
             "name": "Tour de France - Stage 4",
             "date": "02 Jul 2024",
             "points": 45,
@@ -304,13 +316,19 @@
             "rank": 19
           }
         ],
-        "totalPoints": 589
+        "totalPoints": 629
       },
       {
         "name": "Carlos Rodriguez",
         "id": 428096,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 11",
+            "date": "10 Jul 2024",
+            "points": 35,
+            "rank": 9
+          },
           {
             "name": "Tour de France - Stage 4",
             "date": "02 Jul 2024",
@@ -401,7 +419,7 @@
             "rank": 19
           }
         ],
-        "totalPoints": 1362
+        "totalPoints": 1397
       },
       {
         "name": "Marc Hirschi",

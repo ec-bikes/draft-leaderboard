@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181166,
-  "fetchedDate": "9 Jul 2024, 23:14 GMT",
+  "fetchedDate": "10 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 10507,
+    "totalPoints": 10742,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 11",
+            "date": "10 Jul 2024",
+            "points": 110,
+            "rank": 3
+          },
           {
             "name": "Tour de France - Stage 8",
             "date": "06 Jul 2024",
@@ -155,7 +161,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1725
+        "totalPoints": 1835
       },
       {
         "name": "Mathieu van der Poel",
@@ -269,6 +275,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 11",
+            "date": "10 Jul 2024",
+            "points": 25,
+            "rank": 11
+          },
+          {
             "name": "Tour de France - Stage 4",
             "date": "02 Jul 2024",
             "points": 30,
@@ -353,7 +365,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 646
+        "totalPoints": 671
       },
       {
         "name": "Tim Merlier",
@@ -633,6 +645,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 11",
+            "date": "10 Jul 2024",
+            "points": 30,
+            "rank": 10
+          },
+          {
             "name": "Tour de France - Stage 4",
             "date": "02 Jul 2024",
             "points": 25,
@@ -723,13 +741,19 @@
             "rank": 4
           }
         ],
-        "totalPoints": 489
+        "totalPoints": 519
       },
       {
         "name": "Giulio Ciccone",
         "id": 97091,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 11",
+            "date": "10 Jul 2024",
+            "points": 70,
+            "rank": 5
+          },
           {
             "name": "Tour de France - Stage 4",
             "date": "02 Jul 2024",
@@ -797,7 +821,7 @@
             "rank": 35
           }
         ],
-        "totalPoints": 330
+        "totalPoints": 400
       },
       {
         "name": "Dylan Groenewegen",

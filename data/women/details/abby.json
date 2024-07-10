@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181177,
-  "fetchedDate": "9 Jul 2024, 23:13 GMT",
+  "fetchedDate": "10 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 10922,
+    "totalPoints": 10987,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -757,8 +757,14 @@
       {
         "name": "Elise Chabbey",
         "id": 1638135,
-        "sanctions": 0,
+        "sanctions": 10,
         "results": [
+          {
+            "name": "Giro d'Italia Women - Stage 4",
+            "date": "10 Jul 2024",
+            "points": 25,
+            "rank": 4
+          },
           {
             "name": "National Championships Switzerland WE - Road Race",
             "date": "22 Jun 2024",
@@ -880,7 +886,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 1138
+        "totalPoints": 1163
       },
       {
         "name": "Noemi Rüegg",
@@ -980,6 +986,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Giro d'Italia Women - Stage 4",
+            "date": "10 Jul 2024",
+            "points": 40,
+            "rank": 2
+          },
+          {
             "name": "RideLondon Classique - General classification",
             "date": "26 May 2024",
             "points": 140,
@@ -1058,7 +1070,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 706
+        "totalPoints": 746
       },
       {
         "name": "Alison Jackson",
