@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181177,
-  "fetchedDate": "10 Jul 2024, 23:11 GMT",
+  "fetchedDate": "11 Jul 2024, 23:13 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 12315,
+    "totalPoints": 12363,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -85,6 +85,11 @@
         "id": 76149,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia Women - Stage 5 - Bonus",
+            "date": "11 Jul 2024",
+            "points": 8
+          },
           {
             "name": "Giro d'Italia Women - Stage 4",
             "date": "10 Jul 2024",
@@ -280,7 +285,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 3280
+        "totalPoints": 3288
       },
       {
         "name": "Elisa Balsamo",
@@ -755,8 +760,14 @@
       {
         "name": "Chiara Consonni",
         "id": 156600,
-        "sanctions": 0,
+        "sanctions": 15,
         "results": [
+          {
+            "name": "Giro d'Italia Women - Stage 5",
+            "date": "11 Jul 2024",
+            "points": 40,
+            "rank": 2
+          },
           {
             "name": "Giro d'Italia Women - Stage 2",
             "date": "08 Jul 2024",
@@ -890,7 +901,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1460
+        "totalPoints": 1500
       },
       {
         "name": "Daria Pikulik",

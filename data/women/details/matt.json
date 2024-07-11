@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181177,
-  "fetchedDate": "10 Jul 2024, 23:11 GMT",
+  "fetchedDate": "11 Jul 2024, 23:13 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 8513,
+    "totalPoints": 8578,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia Women - Stage 5",
+            "date": "11 Jul 2024",
+            "points": 50,
+            "rank": 1
+          },
           {
             "name": "Giro d'Italia Women - Stage 4",
             "date": "10 Jul 2024",
@@ -242,7 +248,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 3651
+        "totalPoints": 3701
       },
       {
         "name": "Cecilie Uttrup Ludwig",
@@ -634,6 +640,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Giro d'Italia Women - Stage 5",
+            "date": "11 Jul 2024",
+            "points": 15,
+            "rank": 7
+          },
+          {
             "name": "Tour of Britain Women - General classification",
             "date": "09 Jun 2024",
             "points": 80,
@@ -694,7 +706,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 358
+        "totalPoints": 373
       },
       {
         "name": "Antonia Niedermaier",

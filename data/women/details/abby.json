@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181177,
-  "fetchedDate": "10 Jul 2024, 23:11 GMT",
+  "fetchedDate": "11 Jul 2024, 23:13 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 10987,
+    "totalPoints": 11017,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -516,6 +516,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Giro d'Italia Women - Stage 5",
+            "date": "11 Jul 2024",
+            "points": 30,
+            "rank": 3
+          },
+          {
             "name": "Giro d'Italia Women - Stage 2",
             "date": "08 Jul 2024",
             "points": 25,
@@ -672,7 +678,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 1034
+        "totalPoints": 1064
       },
       {
         "name": "Ricarda Bauernfeind",

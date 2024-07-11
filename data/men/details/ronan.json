@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181166,
-  "fetchedDate": "10 Jul 2024, 23:11 GMT",
+  "fetchedDate": "11 Jul 2024, 23:13 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 11833,
+    "totalPoints": 12063,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -136,6 +136,12 @@
         "id": 1707195,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 12",
+            "date": "11 Jul 2024",
+            "points": 210,
+            "rank": 1
+          },
           {
             "name": "Tour de France - Stage 10",
             "date": "09 Jul 2024",
@@ -293,7 +299,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1874
+        "totalPoints": 2084
       },
       {
         "name": "Tom Pidcock",
@@ -889,6 +895,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 12",
+            "date": "11 Jul 2024",
+            "points": 20,
+            "rank": 12
+          },
+          {
             "name": "Tour de France - Stage 10",
             "date": "09 Jul 2024",
             "points": 55,
@@ -1035,7 +1047,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 604
+        "totalPoints": 624
       },
       {
         "name": "Isaac del Toro",

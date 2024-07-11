@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181166,
-  "fetchedDate": "10 Jul 2024, 23:11 GMT",
+  "fetchedDate": "11 Jul 2024, 23:13 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 10742,
+    "totalPoints": 10777,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -829,6 +829,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 12",
+            "date": "11 Jul 2024",
+            "points": 35,
+            "rank": 9
+          },
+          {
             "name": "Tour de France - Stage 10",
             "date": "09 Jul 2024",
             "points": 35,
@@ -948,7 +954,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1237
+        "totalPoints": 1272
       },
       {
         "name": "Andrea Bagioli",
