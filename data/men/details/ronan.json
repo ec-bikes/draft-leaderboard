@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181166,
-  "fetchedDate": "11 Jul 2024, 23:13 GMT",
+  "fetchedDate": "12 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 12063,
+    "totalPoints": 12153,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -136,6 +136,12 @@
         "id": 1707195,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 13",
+            "date": "12 Jul 2024",
+            "points": 90,
+            "rank": 4
+          },
           {
             "name": "Tour de France - Stage 12",
             "date": "11 Jul 2024",
@@ -299,7 +305,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 2084
+        "totalPoints": 2174
       },
       {
         "name": "Tom Pidcock",

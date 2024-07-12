@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181177,
-  "fetchedDate": "11 Jul 2024, 23:13 GMT",
+  "fetchedDate": "12 Jul 2024, 23:10 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 8546,
+    "totalPoints": 8622,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -186,6 +186,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Giro d'Italia Women - Stage 6",
+            "date": "12 Jul 2024",
+            "points": 50,
+            "rank": 1
+          },
+          {
             "name": "National Championships Germany WE - Road Race",
             "date": "22 Jun 2024",
             "points": 75,
@@ -222,7 +228,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 197
+        "totalPoints": 247
       },
       {
         "name": "Chloe Dygert",
@@ -249,6 +255,12 @@
         "id": 398547,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia Women - Stage 6",
+            "date": "12 Jul 2024",
+            "points": 6,
+            "rank": 10
+          },
           {
             "name": "Giro d'Italia Women - Stage 3",
             "date": "09 Jul 2024",
@@ -386,7 +398,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1091
+        "totalPoints": 1097
       },
       {
         "name": "Christina Schweinberger",
@@ -510,6 +522,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Giro d'Italia Women - Stage 6",
+            "date": "12 Jul 2024",
+            "points": 20,
+            "rank": 5
+          },
+          {
             "name": "Giro d'Italia Women - Stage 3",
             "date": "09 Jul 2024",
             "points": 15,
@@ -624,7 +642,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1238
+        "totalPoints": 1258
       },
       {
         "name": "Rosita Reijnhout",

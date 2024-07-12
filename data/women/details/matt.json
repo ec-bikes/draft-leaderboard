@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181177,
-  "fetchedDate": "11 Jul 2024, 23:13 GMT",
+  "fetchedDate": "12 Jul 2024, 23:10 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 8578,
+    "totalPoints": 8611,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia Women - Stage 6",
+            "date": "12 Jul 2024",
+            "points": 15,
+            "rank": 7
+          },
           {
             "name": "Giro d'Italia Women - Stage 5",
             "date": "11 Jul 2024",
@@ -248,13 +254,19 @@
             "rank": 9
           }
         ],
-        "totalPoints": 3701
+        "totalPoints": 3716
       },
       {
         "name": "Cecilie Uttrup Ludwig",
         "id": 86838,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia Women - Stage 6",
+            "date": "12 Jul 2024",
+            "points": 8,
+            "rank": 9
+          },
           {
             "name": "Giro d'Italia Women - Stage 4",
             "date": "10 Jul 2024",
@@ -321,7 +333,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 475
+        "totalPoints": 483
       },
       {
         "name": "Silvia Persico",
@@ -714,6 +726,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Giro d'Italia Women - Stage 6",
+            "date": "12 Jul 2024",
+            "points": 10,
+            "rank": 8
+          },
+          {
             "name": "Giro d'Italia Women - Stage 3",
             "date": "09 Jul 2024",
             "points": 8,
@@ -774,7 +792,7 @@
             "rank": 25
           }
         ],
-        "totalPoints": 364
+        "totalPoints": 374
       },
       {
         "name": "Kristen Faulkner",

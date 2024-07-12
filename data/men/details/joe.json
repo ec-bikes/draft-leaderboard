@@ -2,7 +2,7 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181166,
-  "fetchedDate": "11 Jul 2024, 23:13 GMT",
+  "fetchedDate": "12 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
@@ -826,7 +826,7 @@
       {
         "name": "Dylan Groenewegen",
         "id": 72932,
-        "sanctions": 0,
+        "sanctions": 25,
         "results": [
           {
             "name": "Tour de France - Stage 12",
