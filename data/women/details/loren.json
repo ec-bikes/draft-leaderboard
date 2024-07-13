@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181177,
-  "fetchedDate": "12 Jul 2024, 23:10 GMT",
+  "fetchedDate": "13 Jul 2024, 23:10 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 12396,
+    "totalPoints": 12449,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -85,6 +85,17 @@
         "id": 76149,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia Women - Stage 7",
+            "date": "13 Jul 2024",
+            "points": 30,
+            "rank": 3
+          },
+          {
+            "name": "Giro d'Italia Women - Stage 7 - Bonus",
+            "date": "13 Jul 2024",
+            "points": 8
+          },
           {
             "name": "Giro d'Italia Women - Stage 6",
             "date": "12 Jul 2024",
@@ -296,7 +307,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 3321
+        "totalPoints": 3359
       },
       {
         "name": "Elisa Balsamo",
@@ -988,6 +999,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Giro d'Italia Women - Stage 7",
+            "date": "13 Jul 2024",
+            "points": 15,
+            "rank": 7
+          },
+          {
             "name": "Giro d'Italia Women - Stage 3",
             "date": "09 Jul 2024",
             "points": 50,
@@ -1072,7 +1089,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 555
+        "totalPoints": 570
       },
       {
         "name": "Kim Cadzow",

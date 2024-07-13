@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181177,
-  "fetchedDate": "12 Jul 2024, 23:10 GMT",
+  "fetchedDate": "13 Jul 2024, 23:10 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 8611,
+    "totalPoints": 8681,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
-        "sanctions": 0,
+        "sanctions": 15,
         "results": [
+          {
+            "name": "Giro d'Italia Women - Stage 7",
+            "date": "13 Jul 2024",
+            "points": 40,
+            "rank": 2
+          },
           {
             "name": "Giro d'Italia Women - Stage 6",
             "date": "12 Jul 2024",
@@ -254,7 +260,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 3716
+        "totalPoints": 3756
       },
       {
         "name": "Cecilie Uttrup Ludwig",
@@ -439,6 +445,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Giro d'Italia Women - Stage 7",
+            "date": "13 Jul 2024",
+            "points": 10,
+            "rank": 8
+          },
+          {
             "name": "National Championships Italy WE - ITT",
             "date": "20 Jun 2024",
             "points": 5,
@@ -546,7 +558,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 661
+        "totalPoints": 671
       },
       {
         "name": "Amanda Spratt",
@@ -726,6 +738,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Giro d'Italia Women - Stage 7",
+            "date": "13 Jul 2024",
+            "points": 20,
+            "rank": 5
+          },
+          {
             "name": "Giro d'Italia Women - Stage 6",
             "date": "12 Jul 2024",
             "points": 10,
@@ -792,7 +810,7 @@
             "rank": 25
           }
         ],
-        "totalPoints": 374
+        "totalPoints": 394
       },
       {
         "name": "Kristen Faulkner",

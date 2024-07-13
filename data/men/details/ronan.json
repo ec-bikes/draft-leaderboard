@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181166,
-  "fetchedDate": "12 Jul 2024, 23:11 GMT",
+  "fetchedDate": "13 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 12153,
+    "totalPoints": 12163,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -671,6 +671,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 14",
+            "date": "13 Jul 2024",
+            "points": 10,
+            "rank": 14
+          },
+          {
             "name": "Tour de France - Stage 3",
             "date": "01 Jul 2024",
             "points": 10,
@@ -766,7 +772,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 599
+        "totalPoints": 609
       },
       {
         "name": "Jhonatan Narváez",

@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181166,
-  "fetchedDate": "12 Jul 2024, 23:11 GMT",
+  "fetchedDate": "13 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 9476,
+    "totalPoints": 9546,
     "riders": [
       {
         "name": "Adam Yates",
         "id": 70590,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 14",
+            "date": "13 Jul 2024",
+            "points": 45,
+            "rank": 7
+          },
           {
             "name": "Tour de France - Stage 11",
             "date": "10 Jul 2024",
@@ -124,7 +130,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1188
+        "totalPoints": 1233
       },
       {
         "name": "Mattias Skjelmose",
@@ -357,6 +363,12 @@
         "sanctions": 50,
         "results": [
           {
+            "name": "Tour de France - Stage 14",
+            "date": "13 Jul 2024",
+            "points": 20,
+            "rank": 12
+          },
+          {
             "name": "Tour de France - Stage 11",
             "date": "10 Jul 2024",
             "points": 55,
@@ -459,7 +471,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1012
+        "totalPoints": 1032
       },
       {
         "name": "Kévin Vauquelin",
@@ -822,6 +834,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "Tour de l'Ain - Stage 1",
+            "date": "13 Jul 2024",
+            "points": 5,
+            "rank": 2
+          },
+          {
             "name": "Giro d'Italia - Stage 21",
             "date": "26 May 2024",
             "points": 10,
@@ -965,7 +983,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 1140
+        "totalPoints": 1145
       },
       {
         "name": "Jordi Meeus",
