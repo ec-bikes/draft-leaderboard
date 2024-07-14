@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181177,
-  "fetchedDate": "13 Jul 2024, 23:10 GMT",
+  "fetchedDate": "14 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 12449,
+    "totalPoints": 12950,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -85,6 +85,18 @@
         "id": 76149,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia Women - General classification",
+            "date": "14 Jul 2024",
+            "points": 400,
+            "rank": 1
+          },
+          {
+            "name": "Giro d'Italia Women - Stage 8",
+            "date": "14 Jul 2024",
+            "points": 25,
+            "rank": 4
+          },
           {
             "name": "Giro d'Italia Women - Stage 7",
             "date": "13 Jul 2024",
@@ -307,7 +319,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 3359
+        "totalPoints": 3784
       },
       {
         "name": "Elisa Balsamo",
@@ -433,6 +445,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Giro d'Italia Women - General classification",
+            "date": "14 Jul 2024",
+            "points": 8,
+            "rank": 34
+          },
+          {
             "name": "Giro d'Italia Women - Stage 1 (ITT)",
             "date": "07 Jul 2024",
             "points": 40,
@@ -527,7 +545,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 944
+        "totalPoints": 952
       },
       {
         "name": "Emma Norsgaard",
@@ -999,6 +1017,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Giro d'Italia Women - General classification",
+            "date": "14 Jul 2024",
+            "points": 68,
+            "rank": 10
+          },
+          {
             "name": "Giro d'Italia Women - Stage 7",
             "date": "13 Jul 2024",
             "points": 15,
@@ -1089,7 +1113,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 570
+        "totalPoints": 638
       },
       {
         "name": "Kim Cadzow",

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181177,
-  "fetchedDate": "13 Jul 2024, 23:10 GMT",
+  "fetchedDate": "14 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 12279,
+    "totalPoints": 12487,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -328,6 +328,18 @@
         "sanctions": 15,
         "results": [
           {
+            "name": "Giro d'Italia Women - General classification",
+            "date": "14 Jul 2024",
+            "points": 180,
+            "rank": 5
+          },
+          {
+            "name": "Giro d'Italia Women - Stage 8",
+            "date": "14 Jul 2024",
+            "points": 20,
+            "rank": 5
+          },
+          {
             "name": "Giro d'Italia Women - Stage 7",
             "date": "13 Jul 2024",
             "points": 18,
@@ -478,7 +490,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 1372
+        "totalPoints": 1572
       },
       {
         "name": "Charlotte Kool",
@@ -755,6 +767,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Giro d'Italia Women - General classification",
+            "date": "14 Jul 2024",
+            "points": 8,
+            "rank": 40
+          },
+          {
             "name": "Vuelta Ciclista Andalucia Elite women - General classification",
             "date": "01 Jun 2024",
             "points": 70,
@@ -833,7 +851,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 570
+        "totalPoints": 578
       },
       {
         "name": "Marta Lach",

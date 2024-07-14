@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181166,
-  "fetchedDate": "13 Jul 2024, 23:11 GMT",
+  "fetchedDate": "14 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 11052,
+    "totalPoints": 11252,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 15",
+            "date": "14 Jul 2024",
+            "points": 110,
+            "rank": 3
+          },
           {
             "name": "Tour de France - Stage 14",
             "date": "13 Jul 2024",
@@ -167,7 +173,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1945
+        "totalPoints": 2055
       },
       {
         "name": "Mathieu van der Poel",
@@ -281,6 +287,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 15",
+            "date": "14 Jul 2024",
+            "points": 45,
+            "rank": 7
+          },
+          {
             "name": "Tour de France - Stage 14",
             "date": "13 Jul 2024",
             "points": 55,
@@ -377,7 +389,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 726
+        "totalPoints": 771
       },
       {
         "name": "Tim Merlier",
@@ -657,6 +669,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 15",
+            "date": "14 Jul 2024",
+            "points": 30,
+            "rank": 10
+          },
+          {
             "name": "Tour de France - Stage 14",
             "date": "13 Jul 2024",
             "points": 40,
@@ -759,13 +777,19 @@
             "rank": 4
           }
         ],
-        "totalPoints": 559
+        "totalPoints": 589
       },
       {
         "name": "Giulio Ciccone",
         "id": 97091,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 15",
+            "date": "14 Jul 2024",
+            "points": 15,
+            "rank": 13
+          },
           {
             "name": "Tour de France - Stage 14",
             "date": "13 Jul 2024",
@@ -845,7 +869,7 @@
             "rank": 35
           }
         ],
-        "totalPoints": 470
+        "totalPoints": 485
       },
       {
         "name": "Dylan Groenewegen",

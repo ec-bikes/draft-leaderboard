@@ -2,17 +2,28 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181166,
-  "fetchedDate": "13 Jul 2024, 23:11 GMT",
+  "fetchedDate": "14 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 11129,
+    "totalPoints": 11369,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 15",
+            "date": "14 Jul 2024",
+            "points": 210,
+            "rank": 1
+          },
+          {
+            "name": "Tour de France - Stage 15 - Bonus",
+            "date": "14 Jul 2024",
+            "points": 25
+          },
           {
             "name": "Tour de France - Stage 14",
             "date": "13 Jul 2024",
@@ -368,7 +379,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 6665
+        "totalPoints": 6900
       },
       {
         "name": "Neilson Powless",
@@ -746,6 +757,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 15",
+            "date": "14 Jul 2024",
+            "points": 5,
+            "rank": 15
+          },
+          {
             "name": "Tour de Suisse - General classification",
             "date": "16 Jun 2024",
             "points": 150,
@@ -818,7 +835,7 @@
             "rank": 12
           }
         ],
-        "totalPoints": 659
+        "totalPoints": 664
       },
       {
         "name": "Rui Costa",

@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181166,
-  "fetchedDate": "13 Jul 2024, 23:11 GMT",
+  "fetchedDate": "14 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 9546,
+    "totalPoints": 9671,
     "riders": [
       {
         "name": "Adam Yates",
         "id": 70590,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 15",
+            "date": "14 Jul 2024",
+            "points": 55,
+            "rank": 6
+          },
           {
             "name": "Tour de France - Stage 14",
             "date": "13 Jul 2024",
@@ -130,7 +136,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1233
+        "totalPoints": 1288
       },
       {
         "name": "Mattias Skjelmose",
@@ -363,6 +369,12 @@
         "sanctions": 50,
         "results": [
           {
+            "name": "Tour de France - Stage 15",
+            "date": "14 Jul 2024",
+            "points": 70,
+            "rank": 5
+          },
+          {
             "name": "Tour de France - Stage 14",
             "date": "13 Jul 2024",
             "points": 20,
@@ -471,7 +483,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1032
+        "totalPoints": 1102
       },
       {
         "name": "Kévin Vauquelin",

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181177,
-  "fetchedDate": "13 Jul 2024, 23:10 GMT",
+  "fetchedDate": "14 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 8678,
+    "totalPoints": 9059,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -256,6 +256,18 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Giro d'Italia Women - General classification",
+            "date": "14 Jul 2024",
+            "points": 80,
+            "rank": 9
+          },
+          {
+            "name": "Giro d'Italia Women - Stage 8",
+            "date": "14 Jul 2024",
+            "points": 10,
+            "rank": 8
+          },
+          {
             "name": "Giro d'Italia Women - Stage 7",
             "date": "13 Jul 2024",
             "points": 6,
@@ -404,7 +416,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1103
+        "totalPoints": 1193
       },
       {
         "name": "Christina Schweinberger",
@@ -527,6 +539,18 @@
         "id": 1987823,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro d'Italia Women - General classification",
+            "date": "14 Jul 2024",
+            "points": 260,
+            "rank": 3
+          },
+          {
+            "name": "Giro d'Italia Women - Stage 8",
+            "date": "14 Jul 2024",
+            "points": 15,
+            "rank": 7
+          },
           {
             "name": "Giro d'Italia Women - Stage 7",
             "date": "13 Jul 2024",
@@ -654,7 +678,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1308
+        "totalPoints": 1583
       },
       {
         "name": "Rosita Reijnhout",
@@ -931,6 +955,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Giro d'Italia Women - General classification",
+            "date": "14 Jul 2024",
+            "points": 16,
+            "rank": 28
+          },
+          {
             "name": "National Championships Poland WE - Road Race",
             "date": "23 Jun 2024",
             "points": 100,
@@ -967,7 +997,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 745
+        "totalPoints": 761
       }
     ]
   }

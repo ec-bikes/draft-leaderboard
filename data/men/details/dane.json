@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181166,
-  "fetchedDate": "13 Jul 2024, 23:11 GMT",
+  "fetchedDate": "14 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 7945,
+    "totalPoints": 8225,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 15",
+            "date": "14 Jul 2024",
+            "points": 150,
+            "rank": 2
+          },
           {
             "name": "Tour de France - Stage 14",
             "date": "13 Jul 2024",
@@ -118,7 +124,7 @@
             "points": 3
           }
         ],
-        "totalPoints": 1368
+        "totalPoints": 1518
       },
       {
         "name": "Christophe Laporte",
@@ -250,6 +256,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "Tour de France - Stage 15",
+            "date": "14 Jul 2024",
+            "points": 90,
+            "rank": 4
+          },
+          {
             "name": "Tour de France - Stage 14",
             "date": "13 Jul 2024",
             "points": 25,
@@ -328,13 +340,19 @@
             "rank": 19
           }
         ],
-        "totalPoints": 654
+        "totalPoints": 744
       },
       {
         "name": "Carlos Rodriguez",
         "id": 428096,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 15",
+            "date": "14 Jul 2024",
+            "points": 40,
+            "rank": 8
+          },
           {
             "name": "Tour de France - Stage 14",
             "date": "13 Jul 2024",
@@ -437,7 +455,7 @@
             "rank": 19
           }
         ],
-        "totalPoints": 1487
+        "totalPoints": 1527
       },
       {
         "name": "Marc Hirschi",
