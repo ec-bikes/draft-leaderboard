@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181166,
-  "fetchedDate": "14 Jul 2024, 23:11 GMT",
+  "fetchedDate": "15 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 11369,
+    "totalPoints": 11404,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -497,8 +497,15 @@
         "name": "Victor Lafay",
         "id": 136296,
         "sanctions": 0,
-        "results": [],
-        "totalPoints": 0
+        "results": [
+          {
+            "name": "Tour de l'Ain - General classification",
+            "date": "15 Jul 2024",
+            "points": 35,
+            "rank": 7
+          }
+        ],
+        "totalPoints": 35
       },
       {
         "name": "Lenny Martinez",
