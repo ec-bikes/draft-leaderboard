@@ -1,18 +1,23 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 181166,
-  "fetchedDate": "15 Jul 2024, 23:12 GMT",
+  "momentId": 181413,
+  "fetchedDate": "16 Jul 2024, 23:13 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 11404,
+    "totalPoints": 11429,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 16 - Bonus",
+            "date": "16 Jul 2024",
+            "points": 25
+          },
           {
             "name": "Tour de France - Stage 15",
             "date": "14 Jul 2024",
@@ -379,7 +384,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 6900
+        "totalPoints": 6925
       },
       {
         "name": "Neilson Powless",

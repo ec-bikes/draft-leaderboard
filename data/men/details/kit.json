@@ -1,18 +1,24 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 181166,
-  "fetchedDate": "15 Jul 2024, 23:12 GMT",
+  "momentId": 181413,
+  "fetchedDate": "16 Jul 2024, 23:13 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 7020,
+    "totalPoints": 7090,
     "riders": [
       {
         "name": "Wout van Aert",
         "id": 75859,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 16",
+            "date": "16 Jul 2024",
+            "points": 70,
+            "rank": 5
+          },
           {
             "name": "Tour de France - Stage 13",
             "date": "12 Jul 2024",
@@ -98,7 +104,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 1400
+        "totalPoints": 1470
       },
       {
         "name": "Juan Ayuso",

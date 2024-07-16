@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 181166,
-  "fetchedDate": "15 Jul 2024, 23:12 GMT",
+  "momentId": 181413,
+  "fetchedDate": "16 Jul 2024, 23:13 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 12198,
+    "totalPoints": 12288,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -913,6 +913,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 16",
+            "date": "16 Jul 2024",
+            "points": 90,
+            "rank": 4
+          },
+          {
             "name": "Tour de France - Stage 12",
             "date": "11 Jul 2024",
             "points": 20,
@@ -1065,7 +1071,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 624
+        "totalPoints": 714
       },
       {
         "name": "Isaac del Toro",

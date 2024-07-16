@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 181166,
-  "fetchedDate": "15 Jul 2024, 23:12 GMT",
+  "momentId": 181413,
+  "fetchedDate": "16 Jul 2024, 23:13 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 11252,
+    "totalPoints": 11272,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -181,6 +181,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 16",
+            "date": "16 Jul 2024",
+            "points": 20,
+            "rank": 12
+          },
+          {
             "name": "Tour de France - Stage 10",
             "date": "09 Jul 2024",
             "points": 5,
@@ -235,7 +241,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 3105
+        "totalPoints": 3125
       },
       {
         "name": "Tao Geoghegan Hart",
