@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181413,
-  "fetchedDate": "16 Jul 2024, 23:13 GMT",
+  "fetchedDate": "17 Jul 2024, 23:13 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 7090,
+    "totalPoints": 7130,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -730,6 +730,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 17",
+            "date": "17 Jul 2024",
+            "points": 40,
+            "rank": 8
+          },
+          {
             "name": "Tour de Suisse - General classification",
             "date": "16 Jun 2024",
             "points": 30,
@@ -820,7 +826,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 443
+        "totalPoints": 483
       },
       {
         "name": "Esteban Chaves",

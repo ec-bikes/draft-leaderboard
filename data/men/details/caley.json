@@ -2,17 +2,22 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181413,
-  "fetchedDate": "16 Jul 2024, 23:13 GMT",
+  "fetchedDate": "17 Jul 2024, 23:13 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 11429,
+    "totalPoints": 11619,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 17 - Bonus",
+            "date": "17 Jul 2024",
+            "points": 25
+          },
           {
             "name": "Tour de France - Stage 16 - Bonus",
             "date": "16 Jul 2024",
@@ -384,7 +389,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 6925
+        "totalPoints": 6950
       },
       {
         "name": "Neilson Powless",
@@ -769,6 +774,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 17",
+            "date": "17 Jul 2024",
+            "points": 110,
+            "rank": 3
+          },
+          {
             "name": "Tour de France - Stage 15",
             "date": "14 Jul 2024",
             "points": 5,
@@ -847,7 +858,7 @@
             "rank": 12
           }
         ],
-        "totalPoints": 664
+        "totalPoints": 774
       },
       {
         "name": "Rui Costa",
@@ -910,6 +921,12 @@
         "id": 75170,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 17",
+            "date": "17 Jul 2024",
+            "points": 55,
+            "rank": 6
+          },
           {
             "name": "Critérium du Dauphiné - General classification",
             "date": "09 Jun 2024",
@@ -1001,7 +1018,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 482
+        "totalPoints": 537
       }
     ]
   }

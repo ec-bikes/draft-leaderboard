@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181424,
-  "fetchedDate": "16 Jul 2024, 23:12 GMT",
+  "fetchedDate": "17 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 11017,
+    "totalPoints": 11023,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -146,6 +146,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Baloise Ladies Tour - Prologue",
+            "date": "17 Jul 2024",
+            "points": 6,
+            "rank": 4
+          },
+          {
             "name": "National Championships Great Britain WE - Road Race",
             "date": "23 Jun 2024",
             "points": 100,
@@ -248,7 +254,7 @@
             "rank": 15
           }
         ],
-        "totalPoints": 1343
+        "totalPoints": 1349
       },
       {
         "name": "Shirin van Anrooij",

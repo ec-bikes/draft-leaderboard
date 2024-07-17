@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181413,
-  "fetchedDate": "16 Jul 2024, 23:13 GMT",
+  "fetchedDate": "17 Jul 2024, 23:13 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 11635,
+    "totalPoints": 11690,
     "riders": [
       {
         "name": "Mads Pedersen",
@@ -516,6 +516,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 17",
+            "date": "17 Jul 2024",
+            "points": 25,
+            "rank": 11
+          },
+          {
             "name": "Liège-Bastogne-Liège",
             "date": "21 Apr 2024",
             "points": 15,
@@ -588,13 +594,19 @@
             "rank": 11
           }
         ],
-        "totalPoints": 697
+        "totalPoints": 722
       },
       {
         "name": "Alex Aranburu",
         "id": 422863,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 17",
+            "date": "17 Jul 2024",
+            "points": 30,
+            "rank": 10
+          },
           {
             "name": "Tour de France - Stage 9",
             "date": "07 Jul 2024",
@@ -704,7 +716,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 993
+        "totalPoints": 1023
       },
       {
         "name": "Egan Bernal",
