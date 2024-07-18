@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181424,
-  "fetchedDate": "17 Jul 2024, 23:12 GMT",
+  "fetchedDate": "18 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 9369,
+    "totalPoints": 9372,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -1006,6 +1006,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Baloise Ladies Tour - Stage 1",
+            "date": "18 Jul 2024",
+            "points": 3,
+            "rank": 7
+          },
+          {
             "name": "Elmos Dwars door het Hageland",
             "date": "08 Jun 2024",
             "points": 85,
@@ -1144,7 +1150,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 972
+        "totalPoints": 975
       }
     ]
   }

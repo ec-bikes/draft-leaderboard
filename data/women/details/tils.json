@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181424,
-  "fetchedDate": "17 Jul 2024, 23:12 GMT",
+  "fetchedDate": "18 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 12495,
+    "totalPoints": 12507,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -498,6 +498,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Baloise Ladies Tour - Stage 1",
+            "date": "18 Jul 2024",
+            "points": 12,
+            "rank": 2
+          },
+          {
             "name": "Baloise Ladies Tour - Prologue",
             "date": "17 Jul 2024",
             "points": 8,
@@ -582,7 +588,7 @@
             "rank": 15
           }
         ],
-        "totalPoints": 1230
+        "totalPoints": 1242
       },
       {
         "name": "Riejanne Markus",
