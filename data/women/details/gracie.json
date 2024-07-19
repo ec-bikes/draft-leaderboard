@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181424,
-  "fetchedDate": "18 Jul 2024, 23:11 GMT",
+  "fetchedDate": "19 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 9094,
+    "totalPoints": 9096,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Baloise Ladies Tour - Stage 2",
+            "date": "19 Jul 2024",
+            "points": 2,
+            "rank": 8
+          },
           {
             "name": "Baloise Ladies Tour - Stage 1",
             "date": "18 Jul 2024",
@@ -195,7 +201,7 @@
             "points": 8
           }
         ],
-        "totalPoints": 2814
+        "totalPoints": 2816
       },
       {
         "name": "Liane Lippert",

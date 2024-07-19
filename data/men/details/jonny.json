@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181413,
-  "fetchedDate": "18 Jul 2024, 23:12 GMT",
+  "fetchedDate": "19 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 8720,
+    "totalPoints": 8835,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -154,6 +154,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 19",
+            "date": "19 Jul 2024",
+            "points": 110,
+            "rank": 3
+          },
+          {
             "name": "Tour de France - Stage 17",
             "date": "17 Jul 2024",
             "points": 150,
@@ -214,7 +220,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 571
+        "totalPoints": 681
       },
       {
         "name": "David Gaudu",
@@ -399,6 +405,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 19",
+            "date": "19 Jul 2024",
+            "points": 5,
+            "rank": 15
+          },
+          {
             "name": "Tour de France - Stage 18",
             "date": "18 Jul 2024",
             "points": 40,
@@ -471,7 +483,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 628
+        "totalPoints": 633
       },
       {
         "name": "Yves Lampaert",

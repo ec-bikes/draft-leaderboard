@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181424,
-  "fetchedDate": "18 Jul 2024, 23:11 GMT",
+  "fetchedDate": "19 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 12955,
+    "totalPoints": 12967,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -949,6 +949,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Baloise Ladies Tour - Stage 2",
+            "date": "19 Jul 2024",
+            "points": 12,
+            "rank": 2
+          },
+          {
             "name": "Baloise Ladies Tour - Stage 1",
             "date": "18 Jul 2024",
             "points": 5,
@@ -1015,7 +1021,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 881
+        "totalPoints": 893
       },
       {
         "name": "Niamh Fisher-Black",

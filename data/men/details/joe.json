@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181413,
-  "fetchedDate": "18 Jul 2024, 23:12 GMT",
+  "fetchedDate": "19 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 11272,
+    "totalPoints": 11352,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 19",
+            "date": "19 Jul 2024",
+            "points": 70,
+            "rank": 5
+          },
           {
             "name": "Tour de France - Stage 15",
             "date": "14 Jul 2024",
@@ -173,7 +179,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 2055
+        "totalPoints": 2125
       },
       {
         "name": "Mathieu van der Poel",
@@ -293,6 +299,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 19",
+            "date": "19 Jul 2024",
+            "points": 10,
+            "rank": 14
+          },
+          {
             "name": "Tour de France - Stage 15",
             "date": "14 Jul 2024",
             "points": 45,
@@ -395,7 +407,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 771
+        "totalPoints": 781
       },
       {
         "name": "Tim Merlier",
