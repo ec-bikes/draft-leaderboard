@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181424,
-  "fetchedDate": "19 Jul 2024, 23:11 GMT",
+  "fetchedDate": "20 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 9372,
+    "totalPoints": 9380,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -1006,6 +1006,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Baloise Ladies Tour - Stage 3",
+            "date": "20 Jul 2024",
+            "points": 8,
+            "rank": 3
+          },
+          {
             "name": "Baloise Ladies Tour - Stage 1",
             "date": "18 Jul 2024",
             "points": 3,
@@ -1150,7 +1156,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 975
+        "totalPoints": 983
       }
     ]
   }

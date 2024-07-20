@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181413,
-  "fetchedDate": "19 Jul 2024, 23:12 GMT",
+  "fetchedDate": "20 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 11352,
+    "totalPoints": 11467,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 20",
+            "date": "20 Jul 2024",
+            "points": 90,
+            "rank": 4
+          },
           {
             "name": "Tour de France - Stage 19",
             "date": "19 Jul 2024",
@@ -179,7 +185,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 2125
+        "totalPoints": 2215
       },
       {
         "name": "Mathieu van der Poel",
@@ -299,6 +305,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 20",
+            "date": "20 Jul 2024",
+            "points": 10,
+            "rank": 14
+          },
+          {
             "name": "Tour de France - Stage 19",
             "date": "19 Jul 2024",
             "points": 10,
@@ -407,7 +419,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 781
+        "totalPoints": 791
       },
       {
         "name": "Tim Merlier",
@@ -803,6 +815,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 20",
+            "date": "20 Jul 2024",
+            "points": 15,
+            "rank": 13
+          },
+          {
             "name": "Tour de France - Stage 15",
             "date": "14 Jul 2024",
             "points": 15,
@@ -887,7 +905,7 @@
             "rank": 35
           }
         ],
-        "totalPoints": 485
+        "totalPoints": 500
       },
       {
         "name": "Dylan Groenewegen",

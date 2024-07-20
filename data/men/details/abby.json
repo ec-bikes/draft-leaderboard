@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181413,
-  "fetchedDate": "19 Jul 2024, 23:12 GMT",
+  "fetchedDate": "20 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 11940,
+    "totalPoints": 11985,
     "riders": [
       {
         "name": "Mads Pedersen",
@@ -228,6 +228,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 20",
+            "date": "20 Jul 2024",
+            "points": 45,
+            "rank": 7
+          },
+          {
             "name": "Tour de France - Stage 19",
             "date": "19 Jul 2024",
             "points": 150,
@@ -360,7 +366,7 @@
             "rank": 29
           }
         ],
-        "totalPoints": 1927
+        "totalPoints": 1972
       },
       {
         "name": "Ben Healy",

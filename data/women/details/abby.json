@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181424,
-  "fetchedDate": "19 Jul 2024, 23:11 GMT",
+  "fetchedDate": "20 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 11023,
+    "totalPoints": 11026,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -146,6 +146,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Baloise Ladies Tour - Stage 3",
+            "date": "20 Jul 2024",
+            "points": 3,
+            "rank": 7
+          },
+          {
             "name": "Baloise Ladies Tour - Prologue",
             "date": "17 Jul 2024",
             "points": 6,
@@ -254,7 +260,7 @@
             "rank": 15
           }
         ],
-        "totalPoints": 1349
+        "totalPoints": 1352
       },
       {
         "name": "Shirin van Anrooij",

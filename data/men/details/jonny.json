@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181413,
-  "fetchedDate": "19 Jul 2024, 23:12 GMT",
+  "fetchedDate": "20 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 8835,
+    "totalPoints": 8865,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -302,6 +302,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Stage 20",
+            "date": "20 Jul 2024",
+            "points": 30,
+            "rank": 10
+          },
+          {
             "name": "Tour de France - Stage 1",
             "date": "29 Jun 2024",
             "points": 210,
@@ -397,7 +403,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1591
+        "totalPoints": 1621
       },
       {
         "name": "Jai Hindley",
