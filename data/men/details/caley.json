@@ -2,17 +2,35 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181413,
-  "fetchedDate": "20 Jul 2024, 23:11 GMT",
+  "fetchedDate": "21 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 12204,
+    "totalPoints": 14139,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Mountains classification",
+            "date": "21 Jul 2024",
+            "points": 150,
+            "rank": 2
+          },
+          {
+            "name": "Tour de France - General classification",
+            "date": "21 Jul 2024",
+            "points": 1300,
+            "rank": 1
+          },
+          {
+            "name": "Tour de France - Stage 21 (ITT)",
+            "date": "21 Jul 2024",
+            "points": 210,
+            "rank": 1
+          },
           {
             "name": "Tour de France - Stage 20",
             "date": "20 Jul 2024",
@@ -416,13 +434,19 @@
             "rank": 1
           }
         ],
-        "totalPoints": 7445
+        "totalPoints": 9105
       },
       {
         "name": "Neilson Powless",
         "id": 88143,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - General classification",
+            "date": "21 Jul 2024",
+            "points": 15,
+            "rank": 59
+          },
           {
             "name": "Critérium du Dauphiné - Stage 4 (ITT)",
             "date": "05 Jun 2024",
@@ -448,7 +472,7 @@
             "rank": 22
           }
         ],
-        "totalPoints": 102
+        "totalPoints": 117
       },
       {
         "name": "Matej Mohoric",
@@ -549,6 +573,12 @@
         "id": 1843476,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Stage 21 (ITT)",
+            "date": "21 Jul 2024",
+            "points": 25,
+            "rank": 11
+          },
           {
             "name": "Tour de Suisse - General classification",
             "date": "16 Jun 2024",
@@ -658,13 +688,19 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1221
+        "totalPoints": 1246
       },
       {
         "name": "Tiesj Benoot",
         "id": 77502,
         "sanctions": 25,
         "results": [
+          {
+            "name": "Tour de France - General classification",
+            "date": "21 Jul 2024",
+            "points": 25,
+            "rank": 49
+          },
           {
             "name": "Critérium du Dauphiné - General classification",
             "date": "09 Jun 2024",
@@ -714,7 +750,7 @@
             "rank": 35
           }
         ],
-        "totalPoints": 755
+        "totalPoints": 780
       },
       {
         "name": "Josh Tarling",
@@ -800,6 +836,12 @@
         "id": 109803,
         "sanctions": 25,
         "results": [
+          {
+            "name": "Tour de France - General classification",
+            "date": "21 Jul 2024",
+            "points": 70,
+            "rank": 19
+          },
           {
             "name": "Tour de France - Stage 20",
             "date": "20 Jul 2024",
@@ -897,7 +939,7 @@
             "rank": 12
           }
         ],
-        "totalPoints": 864
+        "totalPoints": 934
       },
       {
         "name": "Rui Costa",
@@ -960,6 +1002,12 @@
         "id": 75170,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - General classification",
+            "date": "21 Jul 2024",
+            "points": 140,
+            "rank": 13
+          },
           {
             "name": "Tour de France - Stage 17",
             "date": "17 Jul 2024",
@@ -1057,7 +1105,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 537
+        "totalPoints": 677
       }
     ]
   }

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181424,
-  "fetchedDate": "20 Jul 2024, 23:11 GMT",
+  "fetchedDate": "21 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 12975,
+    "totalPoints": 13080,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -553,6 +553,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "La Picto - Charentaise",
+            "date": "21 Jul 2024",
+            "points": 85,
+            "rank": 2
+          },
+          {
             "name": "National Championships Denmark WE - Road Race",
             "date": "23 Jun 2024",
             "points": 60,
@@ -631,7 +637,7 @@
             "rank": 11
           }
         ],
-        "totalPoints": 450
+        "totalPoints": 535
       },
       {
         "name": "Evita Muzic",
@@ -949,6 +955,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Baloise Ladies Tour - General classification",
+            "date": "21 Jul 2024",
+            "points": 20,
+            "rank": 10
+          },
+          {
             "name": "Baloise Ladies Tour - Stage 3",
             "date": "20 Jul 2024",
             "points": 8,
@@ -1027,7 +1039,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 901
+        "totalPoints": 921
       },
       {
         "name": "Niamh Fisher-Black",

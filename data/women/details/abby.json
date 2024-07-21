@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181424,
-  "fetchedDate": "20 Jul 2024, 23:11 GMT",
+  "fetchedDate": "21 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 11026,
+    "totalPoints": 11121,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -146,6 +146,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Baloise Ladies Tour - General classification",
+            "date": "21 Jul 2024",
+            "points": 85,
+            "rank": 2
+          },
+          {
             "name": "Baloise Ladies Tour - Stage 3",
             "date": "20 Jul 2024",
             "points": 3,
@@ -260,7 +266,7 @@
             "rank": 15
           }
         ],
-        "totalPoints": 1352
+        "totalPoints": 1437
       },
       {
         "name": "Shirin van Anrooij",
@@ -912,6 +918,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Baloise Ladies Tour - General classification",
+            "date": "21 Jul 2024",
+            "points": 10,
+            "rank": 12
+          },
+          {
             "name": "National Championships Switzerland WE - Road Race",
             "date": "22 Jun 2024",
             "points": 100,
@@ -996,7 +1008,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 625
+        "totalPoints": 635
       },
       {
         "name": "Soraya Paladin",

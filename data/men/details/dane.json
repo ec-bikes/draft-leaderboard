@@ -2,17 +2,35 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181413,
-  "fetchedDate": "20 Jul 2024, 23:11 GMT",
+  "fetchedDate": "21 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 8530,
+    "totalPoints": 10945,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Mountains classification",
+            "date": "21 Jul 2024",
+            "points": 110,
+            "rank": 3
+          },
+          {
+            "name": "Tour de France - General classification",
+            "date": "21 Jul 2024",
+            "points": 1040,
+            "rank": 2
+          },
+          {
+            "name": "Tour de France - Stage 21 (ITT)",
+            "date": "21 Jul 2024",
+            "points": 150,
+            "rank": 2
+          },
           {
             "name": "Tour de France - Stage 20",
             "date": "20 Jul 2024",
@@ -136,7 +154,7 @@
             "points": 3
           }
         ],
-        "totalPoints": 1723
+        "totalPoints": 3023
       },
       {
         "name": "Christophe Laporte",
@@ -175,6 +193,12 @@
         "id": 32532,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - General classification",
+            "date": "21 Jul 2024",
+            "points": 25,
+            "rank": 42
+          },
           {
             "name": "Tour de France - Stage 4",
             "date": "02 Jul 2024",
@@ -260,13 +284,25 @@
             "rank": 27
           }
         ],
-        "totalPoints": 1245
+        "totalPoints": 1270
       },
       {
         "name": "Mikel Landa",
         "id": 68367,
         "sanctions": 25,
         "results": [
+          {
+            "name": "Tour de France - General classification",
+            "date": "21 Jul 2024",
+            "points": 620,
+            "rank": 5
+          },
+          {
+            "name": "Tour de France - Stage 21 (ITT)",
+            "date": "21 Jul 2024",
+            "points": 45,
+            "rank": 7
+          },
           {
             "name": "Tour de France - Stage 20",
             "date": "20 Jul 2024",
@@ -364,13 +400,19 @@
             "rank": 19
           }
         ],
-        "totalPoints": 824
+        "totalPoints": 1489
       },
       {
         "name": "Carlos Rodriguez",
         "id": 428096,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - General classification",
+            "date": "21 Jul 2024",
+            "points": 425,
+            "rank": 7
+          },
           {
             "name": "Tour de France - Stage 20",
             "date": "20 Jul 2024",
@@ -491,7 +533,7 @@
             "rank": 19
           }
         ],
-        "totalPoints": 1547
+        "totalPoints": 1972
       },
       {
         "name": "Marc Hirschi",

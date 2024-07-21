@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181413,
-  "fetchedDate": "20 Jul 2024, 23:11 GMT",
+  "fetchedDate": "21 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 11985,
+    "totalPoints": 12540,
     "riders": [
       {
         "name": "Mads Pedersen",
@@ -228,6 +228,18 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - General classification",
+            "date": "21 Jul 2024",
+            "points": 360,
+            "rank": 8
+          },
+          {
+            "name": "Tour de France - Stage 21 (ITT)",
+            "date": "21 Jul 2024",
+            "points": 90,
+            "rank": 4
+          },
+          {
             "name": "Tour de France - Stage 20",
             "date": "20 Jul 2024",
             "points": 45,
@@ -366,13 +378,19 @@
             "rank": 29
           }
         ],
-        "totalPoints": 1972
+        "totalPoints": 2422
       },
       {
         "name": "Ben Healy",
         "id": 235075,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - General classification",
+            "date": "21 Jul 2024",
+            "points": 40,
+            "rank": 27
+          },
           {
             "name": "Tour de France - Stage 9",
             "date": "07 Jul 2024",
@@ -440,7 +458,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 476
+        "totalPoints": 516
       },
       {
         "name": "Kaden Groves",
@@ -528,6 +546,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - General classification",
+            "date": "21 Jul 2024",
+            "points": 25,
+            "rank": 45
+          },
+          {
             "name": "Tour de France - Stage 18",
             "date": "18 Jul 2024",
             "points": 90,
@@ -612,7 +636,7 @@
             "rank": 11
           }
         ],
-        "totalPoints": 812
+        "totalPoints": 837
       },
       {
         "name": "Alex Aranburu",
@@ -747,6 +771,12 @@
         "id": 95844,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - General classification",
+            "date": "21 Jul 2024",
+            "points": 40,
+            "rank": 29
+          },
           {
             "name": "Tour de France - Stage 4",
             "date": "02 Jul 2024",
@@ -892,7 +922,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 1203
+        "totalPoints": 1243
       },
       {
         "name": "Ben O'Connor",

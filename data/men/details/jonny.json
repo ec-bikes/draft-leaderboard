@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181413,
-  "fetchedDate": "20 Jul 2024, 23:11 GMT",
+  "fetchedDate": "21 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 8865,
+    "totalPoints": 9495,
     "riders": [
       {
         "name": "Jasper Philipsen",
         "id": 148275,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - Points classification",
+            "date": "21 Jul 2024",
+            "points": 150,
+            "rank": 2
+          },
           {
             "name": "Tour de France - Stage 16",
             "date": "16 Jul 2024",
@@ -146,13 +152,25 @@
             "rank": 1
           }
         ],
-        "totalPoints": 3690
+        "totalPoints": 3840
       },
       {
         "name": "Simon Yates",
         "id": 1558112,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - General classification",
+            "date": "21 Jul 2024",
+            "points": 165,
+            "rank": 12
+          },
+          {
+            "name": "Tour de France - Stage 21 (ITT)",
+            "date": "21 Jul 2024",
+            "points": 20,
+            "rank": 12
+          },
           {
             "name": "Tour de France - Stage 19",
             "date": "19 Jul 2024",
@@ -220,7 +238,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 681
+        "totalPoints": 866
       },
       {
         "name": "David Gaudu",
@@ -301,6 +319,12 @@
         "id": 64917,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - General classification",
+            "date": "21 Jul 2024",
+            "points": 40,
+            "rank": 30
+          },
           {
             "name": "Tour de France - Stage 20",
             "date": "20 Jul 2024",
@@ -403,13 +427,19 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1621
+        "totalPoints": 1661
       },
       {
         "name": "Jai Hindley",
         "id": 109829,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - General classification",
+            "date": "21 Jul 2024",
+            "points": 80,
+            "rank": 18
+          },
           {
             "name": "Tour de France - Stage 19",
             "date": "19 Jul 2024",
@@ -489,7 +519,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 633
+        "totalPoints": 713
       },
       {
         "name": "Yves Lampaert",
@@ -691,6 +721,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France - Points classification",
+            "date": "21 Jul 2024",
+            "points": 110,
+            "rank": 3
+          },
+          {
             "name": "Tour de France - Stage 16",
             "date": "16 Jul 2024",
             "points": 45,
@@ -811,13 +847,25 @@
             "rank": 2
           }
         ],
-        "totalPoints": 556
+        "totalPoints": 666
       },
       {
         "name": "Romain Grégoire",
         "id": 1759422,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - General classification",
+            "date": "21 Jul 2024",
+            "points": 25,
+            "rank": 41
+          },
+          {
+            "name": "Tour de France - Stage 21 (ITT)",
+            "date": "21 Jul 2024",
+            "points": 5,
+            "rank": 15
+          },
           {
             "name": "National Championships France ME - Road Race",
             "date": "23 Jun 2024",
@@ -927,13 +975,19 @@
             "rank": 10
           }
         ],
-        "totalPoints": 648
+        "totalPoints": 678
       },
       {
         "name": "Jack Haig",
         "id": 78342,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France - General classification",
+            "date": "21 Jul 2024",
+            "points": 35,
+            "rank": 31
+          },
           {
             "name": "Critérium du Dauphiné - General classification",
             "date": "09 Jun 2024",
@@ -971,7 +1025,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 131
+        "totalPoints": 166
       }
     ]
   }
