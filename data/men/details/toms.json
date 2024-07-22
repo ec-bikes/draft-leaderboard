@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181413,
-  "fetchedDate": "21 Jul 2024, 23:12 GMT",
+  "fetchedDate": "22 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 11251,
+    "totalPoints": 11271,
     "riders": [
       {
         "name": "Adam Yates",
@@ -1057,6 +1057,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Ethias-Tour de Wallonie - Stage 1",
+            "date": "22 Jul 2024",
+            "points": 20,
+            "rank": 1
+          },
+          {
             "name": "National Championships Belgium ME - Road Race",
             "date": "23 Jun 2024",
             "points": 60,
@@ -1123,7 +1129,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 735
+        "totalPoints": 755
       },
       {
         "name": "Casper van Uden",
