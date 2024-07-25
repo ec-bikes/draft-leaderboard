@@ -2,7 +2,7 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181656,
-  "fetchedDate": "24 Jul 2024, 23:13 GMT",
+  "fetchedDate": "25 Jul 2024, 23:13 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
@@ -1054,7 +1054,7 @@
       {
         "name": "Jordi Meeus",
         "id": 148901,
-        "sanctions": 0,
+        "sanctions": 20,
         "results": [
           {
             "name": "Ethias-Tour de Wallonie - Stage 1",
