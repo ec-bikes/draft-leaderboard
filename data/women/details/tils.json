@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181667,
-  "fetchedDate": "25 Jul 2024, 23:12 GMT",
+  "fetchedDate": "26 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 12583,
+    "totalPoints": 12585,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -620,6 +620,17 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Princess Anna Vasa Tour - Stage 1",
+            "date": "25 Jul 2024",
+            "points": 1.33,
+            "rank": 1
+          },
+          {
+            "name": "Princess Anna Vasa Tour - Stage 1 - Bonus",
+            "date": "25 Jul 2024",
+            "points": 1
+          },
+          {
             "name": "National Championships Netherlands WE - ITT",
             "date": "19 Jun 2024",
             "points": 50,
@@ -722,7 +733,7 @@
             "rank": 18
           }
         ],
-        "totalPoints": 950
+        "totalPoints": 952
       },
       {
         "name": "Sarah Gigante",

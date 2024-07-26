@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181656,
-  "fetchedDate": "25 Jul 2024, 23:13 GMT",
+  "fetchedDate": "26 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 10945,
+    "totalPoints": 10962,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -541,6 +541,17 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Czech Tour - Stage 2",
+            "date": "26 Jul 2024",
+            "points": 14,
+            "rank": 1
+          },
+          {
+            "name": "Czech Tour - Stage 2 - Bonus",
+            "date": "26 Jul 2024",
+            "points": 3
+          },
+          {
             "name": "National Championships Switzerland ME - Road Race",
             "date": "23 Jun 2024",
             "points": 40,
@@ -643,7 +654,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 1288
+        "totalPoints": 1305
       },
       {
         "name": "Stefan Küng",

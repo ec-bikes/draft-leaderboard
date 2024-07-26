@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181656,
-  "fetchedDate": "25 Jul 2024, 23:13 GMT",
+  "fetchedDate": "26 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 12540,
+    "totalPoints": 12543,
     "riders": [
       {
         "name": "Mads Pedersen",
@@ -1058,6 +1058,12 @@
         "sanctions": 10,
         "results": [
           {
+            "name": "Ethias-Tour de Wallonie - General classification",
+            "date": "26 Jul 2024",
+            "points": 3,
+            "rank": 35
+          },
+          {
             "name": "National Championships France ME - Road Race",
             "date": "23 Jun 2024",
             "points": 20,
@@ -1200,7 +1206,7 @@
             "rank": 13
           }
         ],
-        "totalPoints": 1612
+        "totalPoints": 1615
       }
     ]
   }
