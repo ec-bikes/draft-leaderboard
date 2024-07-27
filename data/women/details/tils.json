@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181667,
-  "fetchedDate": "26 Jul 2024, 23:11 GMT",
+  "fetchedDate": "27 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 12585,
+    "totalPoints": 12866,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Olympic Games WE - ITT",
+            "date": "27 Jul 2024",
+            "points": 125,
+            "rank": 5
+          },
           {
             "name": "National Championships Netherlands WE - ITT",
             "date": "19 Jun 2024",
@@ -210,7 +216,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 3467
+        "totalPoints": 3592
       },
       {
         "name": "Kasia Niewiadoma",
@@ -327,6 +333,12 @@
         "id": 97498,
         "sanctions": 15,
         "results": [
+          {
+            "name": "Olympic Games WE - ITT",
+            "date": "27 Jul 2024",
+            "points": 150,
+            "rank": 4
+          },
           {
             "name": "Giro d'Italia Women - General classification",
             "date": "14 Jul 2024",
@@ -490,7 +502,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 1572
+        "totalPoints": 1722
       },
       {
         "name": "Charlotte Kool",
@@ -620,13 +632,18 @@
         "sanctions": 0,
         "results": [
           {
-            "name": "Princess Anna Vasa Tour - Stage 1",
+            "name": "Princess Anna Vasa Tour - Stage 2 - Bonus",
+            "date": "26 Jul 2024",
+            "points": 1
+          },
+          {
+            "name": "Princess Anna Vasa Tour - Stage 1 (TTT)",
             "date": "25 Jul 2024",
             "points": 1.33,
             "rank": 1
           },
           {
-            "name": "Princess Anna Vasa Tour - Stage 1 - Bonus",
+            "name": "Princess Anna Vasa Tour - Stage 1 (TTT) - Bonus",
             "date": "25 Jul 2024",
             "points": 1
           },
@@ -733,7 +750,7 @@
             "rank": 18
           }
         ],
-        "totalPoints": 952
+        "totalPoints": 953
       },
       {
         "name": "Sarah Gigante",
@@ -906,6 +923,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Olympic Games WE - ITT",
+            "date": "27 Jul 2024",
+            "points": 5,
+            "rank": 18
+          },
+          {
             "name": "Internationale LOTTO Thüringen Ladies Tour - General classification",
             "date": "30 Jun 2024",
             "points": 85,
@@ -1014,7 +1037,7 @@
             "rank": 13
           }
         ],
-        "totalPoints": 638
+        "totalPoints": 643
       },
       {
         "name": "Sofia Bertizzolo",

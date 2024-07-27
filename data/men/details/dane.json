@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181656,
-  "fetchedDate": "26 Jul 2024, 23:12 GMT",
+  "fetchedDate": "27 Jul 2024, 23:13 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 10962,
+    "totalPoints": 11057,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -541,6 +541,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Czech Tour - Stage 3",
+            "date": "27 Jul 2024",
+            "points": 5,
+            "rank": 2
+          },
+          {
             "name": "Czech Tour - Stage 2",
             "date": "26 Jul 2024",
             "points": 14,
@@ -654,13 +660,19 @@
             "rank": 6
           }
         ],
-        "totalPoints": 1305
+        "totalPoints": 1310
       },
       {
         "name": "Stefan Küng",
         "id": 74994,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Olympic Games ME - ITT",
+            "date": "27 Jul 2024",
+            "points": 90,
+            "rank": 8
+          },
           {
             "name": "Tour de France - Stage 7 (ITT)",
             "date": "05 Jul 2024",
@@ -758,7 +770,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 902
+        "totalPoints": 992
       },
       {
         "name": "Fabio Jakobsen",

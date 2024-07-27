@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181667,
-  "fetchedDate": "26 Jul 2024, 23:11 GMT",
+  "fetchedDate": "27 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 9452,
+    "totalPoints": 9570,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
         "sanctions": 15,
         "results": [
+          {
+            "name": "Olympic Games WE - ITT",
+            "date": "27 Jul 2024",
+            "points": 100,
+            "rank": 6
+          },
           {
             "name": "Giro d'Italia Women - General classification",
             "date": "14 Jul 2024",
@@ -266,13 +272,19 @@
             "rank": 9
           }
         ],
-        "totalPoints": 4076
+        "totalPoints": 4176
       },
       {
         "name": "Cecilie Uttrup Ludwig",
         "id": 86838,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Olympic Games WE - ITT",
+            "date": "27 Jul 2024",
+            "points": 3,
+            "rank": 24
+          },
           {
             "name": "Giro d'Italia Women - General classification",
             "date": "14 Jul 2024",
@@ -351,7 +363,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 583
+        "totalPoints": 586
       },
       {
         "name": "Silvia Persico",
@@ -762,6 +774,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Olympic Games WE - ITT",
+            "date": "27 Jul 2024",
+            "points": 15,
+            "rank": 15
+          },
+          {
             "name": "Giro d'Italia Women - General classification",
             "date": "14 Jul 2024",
             "points": 140,
@@ -840,7 +858,7 @@
             "rank": 25
           }
         ],
-        "totalPoints": 534
+        "totalPoints": 549
       },
       {
         "name": "Kristen Faulkner",

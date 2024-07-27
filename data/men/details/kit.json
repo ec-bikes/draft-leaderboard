@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181656,
-  "fetchedDate": "26 Jul 2024, 23:12 GMT",
+  "fetchedDate": "27 Jul 2024, 23:13 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 7210,
+    "totalPoints": 7795,
     "riders": [
       {
         "name": "Wout van Aert",
         "id": 75859,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Olympic Games ME - ITT",
+            "date": "27 Jul 2024",
+            "points": 260,
+            "rank": 3
+          },
           {
             "name": "Tour de France - General classification",
             "date": "21 Jul 2024",
@@ -116,7 +122,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 1525
+        "totalPoints": 1785
       },
       {
         "name": "Juan Ayuso",
@@ -344,6 +350,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Olympic Games ME - ITT",
+            "date": "27 Jul 2024",
+            "points": 325,
+            "rank": 2
+          },
+          {
             "name": "Tour of Austria - Stage 4",
             "date": "06 Jul 2024",
             "points": 14,
@@ -404,7 +416,7 @@
             "rank": 36
           }
         ],
-        "totalPoints": 509
+        "totalPoints": 834
       },
       {
         "name": "Pello Bilbao",

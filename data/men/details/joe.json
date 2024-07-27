@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181656,
-  "fetchedDate": "26 Jul 2024, 23:12 GMT",
+  "fetchedDate": "27 Jul 2024, 23:13 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 13022,
+    "totalPoints": 13477,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Olympic Games ME - ITT",
+            "date": "27 Jul 2024",
+            "points": 455,
+            "rank": 1
+          },
           {
             "name": "Tour de France - General classification",
             "date": "21 Jul 2024",
@@ -197,7 +203,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 3205
+        "totalPoints": 3660
       },
       {
         "name": "Mathieu van der Poel",

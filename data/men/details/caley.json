@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181656,
-  "fetchedDate": "26 Jul 2024, 23:12 GMT",
+  "fetchedDate": "27 Jul 2024, 23:13 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 14139,
+    "totalPoints": 14337,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -758,6 +758,12 @@
         "sanctions": 100,
         "results": [
           {
+            "name": "Olympic Games ME - ITT",
+            "date": "27 Jul 2024",
+            "points": 195,
+            "rank": 4
+          },
+          {
             "name": "National Championships Great Britain ME - Road Race",
             "date": "23 Jun 2024",
             "points": 20,
@@ -829,7 +835,7 @@
             "rank": 55
           }
         ],
-        "totalPoints": 316
+        "totalPoints": 511
       },
       {
         "name": "Enric Mas",
@@ -947,6 +953,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Olympic Games ME - ITT",
+            "date": "27 Jul 2024",
+            "points": 3,
+            "rank": 25
+          },
+          {
             "name": "Tour de France - Stage 9",
             "date": "07 Jul 2024",
             "points": 15,
@@ -995,7 +1007,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 235
+        "totalPoints": 238
       },
       {
         "name": "Guillaume Martin",

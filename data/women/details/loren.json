@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181667,
-  "fetchedDate": "26 Jul 2024, 23:11 GMT",
+  "fetchedDate": "27 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 13080,
+    "totalPoints": 13605,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -85,6 +85,12 @@
         "id": 76149,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Olympic Games WE - ITT",
+            "date": "27 Jul 2024",
+            "points": 70,
+            "rank": 8
+          },
           {
             "name": "Giro d'Italia Women - General classification",
             "date": "14 Jul 2024",
@@ -319,7 +325,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 3784
+        "totalPoints": 3854
       },
       {
         "name": "Elisa Balsamo",
@@ -445,6 +451,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Olympic Games WE - ITT",
+            "date": "27 Jul 2024",
+            "points": 350,
+            "rank": 1
+          },
+          {
             "name": "Giro d'Italia Women - General classification",
             "date": "14 Jul 2024",
             "points": 8,
@@ -545,13 +557,19 @@
             "rank": 1
           }
         ],
-        "totalPoints": 952
+        "totalPoints": 1302
       },
       {
         "name": "Emma Norsgaard",
         "id": 151974,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Olympic Games WE - ITT",
+            "date": "27 Jul 2024",
+            "points": 20,
+            "rank": 14
+          },
           {
             "name": "La Picto - Charentaise",
             "date": "21 Jul 2024",
@@ -637,7 +655,7 @@
             "rank": 11
           }
         ],
-        "totalPoints": 535
+        "totalPoints": 555
       },
       {
         "name": "Evita Muzic",
@@ -1152,6 +1170,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Olympic Games WE - ITT",
+            "date": "27 Jul 2024",
+            "points": 85,
+            "rank": 7
+          },
+          {
             "name": "Tour de Suisse Women - General classification",
             "date": "18 Jun 2024",
             "points": 100,
@@ -1270,7 +1294,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 637
+        "totalPoints": 722
       }
     ]
   }
