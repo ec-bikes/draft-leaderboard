@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181667,
-  "fetchedDate": "27 Jul 2024, 23:12 GMT",
+  "fetchedDate": "28 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 9537,
+    "totalPoints": 9558,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -1040,6 +1040,18 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Princess Anna Vasa Tour - General classification",
+            "date": "28 Jul 2024",
+            "points": 20,
+            "rank": 4
+          },
+          {
+            "name": "Princess Anna Vasa Tour - Stage 4 (ITT)",
+            "date": "28 Jul 2024",
+            "points": 1,
+            "rank": 4
+          },
+          {
             "name": "Princess Anna Vasa Tour - Stage 3",
             "date": "27 Jul 2024",
             "points": 1,
@@ -1088,7 +1100,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 762
+        "totalPoints": 783
       }
     ]
   }

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181667,
-  "fetchedDate": "27 Jul 2024, 23:12 GMT",
+  "fetchedDate": "28 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 12866,
+    "totalPoints": 12901,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -632,6 +632,18 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Princess Anna Vasa Tour - General classification",
+            "date": "28 Jul 2024",
+            "points": 30,
+            "rank": 2
+          },
+          {
+            "name": "Princess Anna Vasa Tour - Stage 4 (ITT)",
+            "date": "28 Jul 2024",
+            "points": 5,
+            "rank": 2
+          },
+          {
             "name": "Princess Anna Vasa Tour - Stage 2 - Bonus",
             "date": "26 Jul 2024",
             "points": 1
@@ -750,7 +762,7 @@
             "rank": 18
           }
         ],
-        "totalPoints": 953
+        "totalPoints": 988
       },
       {
         "name": "Sarah Gigante",

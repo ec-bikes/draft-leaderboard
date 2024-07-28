@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181656,
-  "fetchedDate": "27 Jul 2024, 23:13 GMT",
+  "fetchedDate": "28 Jul 2024, 23:12 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 13477,
+    "totalPoints": 13491,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -613,6 +613,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "Czech Tour - Stage 4",
+            "date": "28 Jul 2024",
+            "points": 14,
+            "rank": 1
+          },
+          {
             "name": "Okolo Slovenska / Tour de Slovaquie - General classification",
             "date": "30 Jun 2024",
             "points": 85,
@@ -721,7 +727,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 904
+        "totalPoints": 918
       },
       {
         "name": "Felix Gall",
