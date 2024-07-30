@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 181667,
-  "fetchedDate": "29 Jul 2024, 23:11 GMT",
+  "momentId": 181991,
+  "fetchedDate": "30 Jul 2024, 23:10 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 11121,
+    "totalPoints": 11181,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -1160,6 +1160,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Kreiz Breizh Elites Féminin",
+            "date": "30 Jul 2024",
+            "points": 60,
+            "rank": 4
+          },
+          {
             "name": "Internationale LOTTO Thüringen Ladies Tour - General classification",
             "date": "30 Jun 2024",
             "points": 5,
@@ -1298,7 +1304,7 @@
             "rank": 14
           }
         ],
-        "totalPoints": 1017
+        "totalPoints": 1077
       }
     ]
   }

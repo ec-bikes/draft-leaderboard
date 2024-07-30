@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 181656,
-  "fetchedDate": "29 Jul 2024, 23:12 GMT",
+  "momentId": 181985,
+  "fetchedDate": "30 Jul 2024, 23:11 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 11187,
+    "totalPoints": 11190,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -559,6 +559,11 @@
             "rank": 2
           },
           {
+            "name": "Czech Tour - Stage 3 - Bonus",
+            "date": "27 Jul 2024",
+            "points": 3
+          },
+          {
             "name": "Czech Tour - Stage 2",
             "date": "26 Jul 2024",
             "points": 14,
@@ -672,7 +677,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 1440
+        "totalPoints": 1443
       },
       {
         "name": "Stefan Küng",
