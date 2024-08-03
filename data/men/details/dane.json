@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181985,
-  "fetchedDate": "2 Aug 2024, 23:11 GMT",
+  "fetchedDate": "3 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 11190,
+    "totalPoints": 12105,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -162,6 +162,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "Olympic Games ME - Road Race",
+            "date": "03 Aug 2024",
+            "points": 600,
+            "rank": 3
+          },
+          {
             "name": "Paris-Roubaix",
             "date": "07 Apr 2024",
             "points": 30,
@@ -186,7 +192,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 318
+        "totalPoints": 918
       },
       {
         "name": "Geraint Thomas",
@@ -541,6 +547,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Olympic Games ME - Road Race",
+            "date": "03 Aug 2024",
+            "points": 50,
+            "rank": 16
+          },
+          {
             "name": "Czech Tour - General classification",
             "date": "28 Jul 2024",
             "points": 125,
@@ -677,13 +689,19 @@
             "rank": 6
           }
         ],
-        "totalPoints": 1443
+        "totalPoints": 1493
       },
       {
         "name": "Stefan Küng",
         "id": 74994,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Olympic Games ME - Road Race",
+            "date": "03 Aug 2024",
+            "points": 265,
+            "rank": 7
+          },
           {
             "name": "Olympic Games ME - ITT",
             "date": "27 Jul 2024",
@@ -787,7 +805,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 992
+        "totalPoints": 1257
       },
       {
         "name": "Fabio Jakobsen",

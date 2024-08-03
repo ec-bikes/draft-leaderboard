@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181985,
-  "fetchedDate": "2 Aug 2024, 23:11 GMT",
+  "fetchedDate": "3 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 14337,
+    "totalPoints": 14382,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -696,6 +696,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "Olympic Games ME - Road Race",
+            "date": "03 Aug 2024",
+            "points": 15,
+            "rank": 48
+          },
+          {
             "name": "Tour de France - General classification",
             "date": "21 Jul 2024",
             "points": 25,
@@ -750,13 +756,19 @@
             "rank": 35
           }
         ],
-        "totalPoints": 780
+        "totalPoints": 795
       },
       {
         "name": "Josh Tarling",
         "id": 1557793,
         "sanctions": 100,
         "results": [
+          {
+            "name": "Olympic Games ME - Road Race",
+            "date": "03 Aug 2024",
+            "points": 15,
+            "rank": 47
+          },
           {
             "name": "Olympic Games ME - ITT",
             "date": "27 Jul 2024",
@@ -835,7 +847,7 @@
             "rank": 55
           }
         ],
-        "totalPoints": 511
+        "totalPoints": 526
       },
       {
         "name": "Enric Mas",
@@ -953,6 +965,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Olympic Games ME - Road Race",
+            "date": "03 Aug 2024",
+            "points": 15,
+            "rank": 46
+          },
+          {
             "name": "Olympic Games ME - ITT",
             "date": "27 Jul 2024",
             "points": 3,
@@ -1007,7 +1025,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 238
+        "totalPoints": 253
       },
       {
         "name": "Guillaume Martin",

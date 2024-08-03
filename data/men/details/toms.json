@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181985,
-  "fetchedDate": "2 Aug 2024, 23:11 GMT",
+  "fetchedDate": "3 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 11489,
+    "totalPoints": 12309,
     "riders": [
       {
         "name": "Adam Yates",
@@ -168,6 +168,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Olympic Games ME - Road Race",
+            "date": "03 Aug 2024",
+            "points": 45,
+            "rank": 17
+          },
+          {
             "name": "Olympic Games ME - ITT",
             "date": "27 Jul 2024",
             "points": 25,
@@ -299,13 +305,19 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1524
+        "totalPoints": 1569
       },
       {
         "name": "Valentin Madouas",
         "id": 91637,
         "sanctions": 25,
         "results": [
+          {
+            "name": "Olympic Games ME - Road Race",
+            "date": "03 Aug 2024",
+            "points": 715,
+            "rank": 2
+          },
           {
             "name": "Tour de France - General classification",
             "date": "21 Jul 2024",
@@ -397,7 +409,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 728
+        "totalPoints": 1443
       },
       {
         "name": "João Almeida",
@@ -551,6 +563,12 @@
         "sanctions": 20,
         "results": [
           {
+            "name": "Olympic Games ME - Road Race",
+            "date": "03 Aug 2024",
+            "points": 15,
+            "rank": 34
+          },
+          {
             "name": "Olympic Games ME - ITT",
             "date": "27 Jul 2024",
             "points": 20,
@@ -677,13 +695,19 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1093
+        "totalPoints": 1108
       },
       {
         "name": "Brandon McNulty",
         "id": 150923,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Olympic Games ME - Road Race",
+            "date": "03 Aug 2024",
+            "points": 30,
+            "rank": 24
+          },
           {
             "name": "Olympic Games ME - ITT",
             "date": "27 Jul 2024",
@@ -842,7 +866,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1629
+        "totalPoints": 1659
       },
       {
         "name": "Cian Uijtdebroeks",
@@ -917,6 +941,12 @@
         "id": 221617,
         "sanctions": 25,
         "results": [
+          {
+            "name": "Olympic Games ME - Road Race",
+            "date": "03 Aug 2024",
+            "points": 15,
+            "rank": 39
+          },
           {
             "name": "Olympic Games ME - ITT",
             "date": "27 Jul 2024",
@@ -1073,7 +1103,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 1148
+        "totalPoints": 1163
       },
       {
         "name": "Jordi Meeus",

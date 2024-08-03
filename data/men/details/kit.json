@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181985,
-  "fetchedDate": "2 Aug 2024, 23:11 GMT",
+  "fetchedDate": "3 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 7795,
+    "totalPoints": 7850,
     "riders": [
       {
         "name": "Wout van Aert",
         "id": 75859,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Olympic Games ME - Road Race",
+            "date": "03 Aug 2024",
+            "points": 15,
+            "rank": 37
+          },
           {
             "name": "Olympic Games ME - ITT",
             "date": "27 Jul 2024",
@@ -122,13 +128,19 @@
             "rank": 10
           }
         ],
-        "totalPoints": 1785
+        "totalPoints": 1800
       },
       {
         "name": "Juan Ayuso",
         "id": 415141,
         "sanctions": 8,
         "results": [
+          {
+            "name": "Olympic Games ME - Road Race",
+            "date": "03 Aug 2024",
+            "points": 30,
+            "rank": 22
+          },
           {
             "name": "Tour de France - Stage 11",
             "date": "10 Jul 2024",
@@ -270,7 +282,7 @@
             "rank": 20
           }
         ],
-        "totalPoints": 1926
+        "totalPoints": 1956
       },
       {
         "name": "Sam Welsford",
@@ -528,6 +540,12 @@
         "sanctions": 30,
         "results": [
           {
+            "name": "Olympic Games ME - Road Race",
+            "date": "03 Aug 2024",
+            "points": 10,
+            "rank": 52
+          },
+          {
             "name": "Tour de France - Stage 9",
             "date": "07 Jul 2024",
             "points": 55,
@@ -605,7 +623,7 @@
             "rank": 31
           }
         ],
-        "totalPoints": 491
+        "totalPoints": 501
       },
       {
         "name": "Lennard Kämna",

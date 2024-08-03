@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181985,
-  "fetchedDate": "2 Aug 2024, 23:11 GMT",
+  "fetchedDate": "3 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 13491,
+    "totalPoints": 14671,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Olympic Games ME - Road Race",
+            "date": "03 Aug 2024",
+            "points": 900,
+            "rank": 1
+          },
           {
             "name": "Olympic Games ME - ITT",
             "date": "27 Jul 2024",
@@ -203,13 +209,19 @@
             "rank": 1
           }
         ],
-        "totalPoints": 3660
+        "totalPoints": 4560
       },
       {
         "name": "Mathieu van der Poel",
         "id": 79462,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Olympic Games ME - Road Race",
+            "date": "03 Aug 2024",
+            "points": 105,
+            "rank": 12
+          },
           {
             "name": "Tour de France - Stage 16",
             "date": "16 Jul 2024",
@@ -271,7 +283,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 3125
+        "totalPoints": 3230
       },
       {
         "name": "Tao Geoghegan Hart",
@@ -322,6 +334,12 @@
         "id": 353375,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Olympic Games ME - Road Race",
+            "date": "03 Aug 2024",
+            "points": 45,
+            "rank": 19
+          },
           {
             "name": "Tour de France - General classification",
             "date": "21 Jul 2024",
@@ -449,7 +467,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 1056
+        "totalPoints": 1101
       },
       {
         "name": "Tim Merlier",
@@ -613,6 +631,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "Olympic Games ME - Road Race",
+            "date": "03 Aug 2024",
+            "points": 130,
+            "rank": 11
+          },
+          {
             "name": "Czech Tour - Stage 4",
             "date": "28 Jul 2024",
             "points": 14,
@@ -727,7 +751,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 918
+        "totalPoints": 1048
       },
       {
         "name": "Felix Gall",

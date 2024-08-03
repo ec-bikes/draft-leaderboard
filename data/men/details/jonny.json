@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181985,
-  "fetchedDate": "2 Aug 2024, 23:11 GMT",
+  "fetchedDate": "3 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 9495,
+    "totalPoints": 9510,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -635,6 +635,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Olympic Games ME - Road Race",
+            "date": "03 Aug 2024",
+            "points": 15,
+            "rank": 43
+          },
+          {
             "name": "Tour de France - Stage 8",
             "date": "06 Jul 2024",
             "points": 40,
@@ -713,7 +719,7 @@
             "rank": 14
           }
         ],
-        "totalPoints": 267
+        "totalPoints": 282
       },
       {
         "name": "Bryan Coquard",
