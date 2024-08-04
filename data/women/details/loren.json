@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181991,
-  "fetchedDate": "3 Aug 2024, 23:12 GMT",
+  "fetchedDate": "4 Aug 2024, 23:13 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 13605,
+    "totalPoints": 13770,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -85,6 +85,12 @@
         "id": 76149,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Olympic Games WE - Road Race",
+            "date": "04 Aug 2024",
+            "points": 125,
+            "rank": 9
+          },
           {
             "name": "Olympic Games WE - ITT",
             "date": "27 Jul 2024",
@@ -325,7 +331,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 3854
+        "totalPoints": 3979
       },
       {
         "name": "Elisa Balsamo",
@@ -451,6 +457,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Olympic Games WE - Road Race",
+            "date": "04 Aug 2024",
+            "points": 20,
+            "rank": 23
+          },
+          {
             "name": "Olympic Games WE - ITT",
             "date": "27 Jul 2024",
             "points": 350,
@@ -557,7 +569,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1302
+        "totalPoints": 1322
       },
       {
         "name": "Emma Norsgaard",
@@ -1065,6 +1077,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Olympic Games WE - Road Race",
+            "date": "04 Aug 2024",
+            "points": 20,
+            "rank": 31
+          },
+          {
             "name": "Giro d'Italia Women - General classification",
             "date": "14 Jul 2024",
             "points": 68,
@@ -1161,7 +1179,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 638
+        "totalPoints": 658
       },
       {
         "name": "Kim Cadzow",

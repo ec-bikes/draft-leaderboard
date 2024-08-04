@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181991,
-  "fetchedDate": "3 Aug 2024, 23:12 GMT",
+  "fetchedDate": "4 Aug 2024, 23:13 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 12901,
+    "totalPoints": 13161,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Olympic Games WE - Road Race",
+            "date": "04 Aug 2024",
+            "points": 10,
+            "rank": 34
+          },
           {
             "name": "Olympic Games WE - ITT",
             "date": "27 Jul 2024",
@@ -216,13 +222,19 @@
             "rank": 6
           }
         ],
-        "totalPoints": 3592
+        "totalPoints": 3602
       },
       {
         "name": "Kasia Niewiadoma",
         "id": 86824,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Olympic Games WE - Road Race",
+            "date": "04 Aug 2024",
+            "points": 150,
+            "rank": 8
+          },
           {
             "name": "Internationale LOTTO Thüringen Ladies Tour - General classification",
             "date": "30 Jun 2024",
@@ -326,7 +338,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 1832
+        "totalPoints": 1982
       },
       {
         "name": "Juliette Labous",
@@ -935,6 +947,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Olympic Games WE - Road Race",
+            "date": "04 Aug 2024",
+            "points": 100,
+            "rank": 10
+          },
+          {
             "name": "Olympic Games WE - ITT",
             "date": "27 Jul 2024",
             "points": 5,
@@ -1049,7 +1067,7 @@
             "rank": 13
           }
         ],
-        "totalPoints": 643
+        "totalPoints": 743
       },
       {
         "name": "Sofia Bertizzolo",

@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181991,
-  "fetchedDate": "3 Aug 2024, 23:12 GMT",
+  "fetchedDate": "4 Aug 2024, 23:13 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 9570,
+    "totalPoints": 10610,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
         "sanctions": 15,
         "results": [
+          {
+            "name": "Olympic Games WE - Road Race",
+            "date": "04 Aug 2024",
+            "points": 400,
+            "rank": 3
+          },
           {
             "name": "Olympic Games WE - ITT",
             "date": "27 Jul 2024",
@@ -272,13 +278,19 @@
             "rank": 9
           }
         ],
-        "totalPoints": 4176
+        "totalPoints": 4576
       },
       {
         "name": "Cecilie Uttrup Ludwig",
         "id": 86838,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Olympic Games WE - Road Race",
+            "date": "04 Aug 2024",
+            "points": 20,
+            "rank": 29
+          },
           {
             "name": "Olympic Games WE - ITT",
             "date": "27 Jul 2024",
@@ -363,7 +375,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 586
+        "totalPoints": 606
       },
       {
         "name": "Silvia Persico",
@@ -700,6 +712,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Olympic Games WE - Road Race",
+            "date": "04 Aug 2024",
+            "points": 10,
+            "rank": 39
+          },
+          {
             "name": "Giro d'Italia Women - Stage 5",
             "date": "11 Jul 2024",
             "points": 15,
@@ -766,13 +784,19 @@
             "rank": 1
           }
         ],
-        "totalPoints": 373
+        "totalPoints": 383
       },
       {
         "name": "Antonia Niedermaier",
         "id": 2188959,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Olympic Games WE - Road Race",
+            "date": "04 Aug 2024",
+            "points": 10,
+            "rank": 32
+          },
           {
             "name": "Olympic Games WE - ITT",
             "date": "27 Jul 2024",
@@ -858,13 +882,19 @@
             "rank": 25
           }
         ],
-        "totalPoints": 549
+        "totalPoints": 559
       },
       {
         "name": "Kristen Faulkner",
         "id": 1688341,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Olympic Games WE - Road Race",
+            "date": "04 Aug 2024",
+            "points": 600,
+            "rank": 1
+          },
           {
             "name": "National Championships United States WE - Road Race",
             "date": "19 May 2024",
@@ -968,7 +998,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 630
+        "totalPoints": 1230
       },
       {
         "name": "Anna Henderson",

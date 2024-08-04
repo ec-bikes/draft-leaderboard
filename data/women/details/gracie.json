@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181991,
-  "fetchedDate": "3 Aug 2024, 23:12 GMT",
+  "fetchedDate": "4 Aug 2024, 23:13 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 9558,
+    "totalPoints": 10033,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Olympic Games WE - Road Race",
+            "date": "04 Aug 2024",
+            "points": 85,
+            "rank": 11
+          },
           {
             "name": "Baloise Ladies Tour - General classification",
             "date": "21 Jul 2024",
@@ -245,13 +251,19 @@
             "points": 8
           }
         ],
-        "totalPoints": 3001
+        "totalPoints": 3086
       },
       {
         "name": "Liane Lippert",
         "id": 140495,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Olympic Games WE - Road Race",
+            "date": "04 Aug 2024",
+            "points": 35,
+            "rank": 16
+          },
           {
             "name": "Giro d'Italia Women - Stage 6",
             "date": "12 Jul 2024",
@@ -295,13 +307,19 @@
             "rank": 8
           }
         ],
-        "totalPoints": 247
+        "totalPoints": 282
       },
       {
         "name": "Chloe Dygert",
         "id": 109716,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Olympic Games WE - Road Race",
+            "date": "04 Aug 2024",
+            "points": 40,
+            "rank": 15
+          },
           {
             "name": "Olympic Games WE - ITT",
             "date": "27 Jul 2024",
@@ -321,13 +339,19 @@
             "rank": 6
           }
         ],
-        "totalPoints": 348
+        "totalPoints": 388
       },
       {
         "name": "Mavi Garcia",
         "id": 398547,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Olympic Games WE - Road Race",
+            "date": "04 Aug 2024",
+            "points": 225,
+            "rank": 6
+          },
           {
             "name": "Giro d'Italia Women - General classification",
             "date": "14 Jul 2024",
@@ -489,13 +513,19 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1193
+        "totalPoints": 1418
       },
       {
         "name": "Christina Schweinberger",
         "id": 98623,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Olympic Games WE - Road Race",
+            "date": "04 Aug 2024",
+            "points": 20,
+            "rank": 28
+          },
           {
             "name": "Olympic Games WE - ITT",
             "date": "27 Jul 2024",
@@ -611,7 +641,7 @@
             "rank": 15
           }
         ],
-        "totalPoints": 680
+        "totalPoints": 700
       },
       {
         "name": "Neve Bradbury",
@@ -990,6 +1020,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Olympic Games WE - Road Race",
+            "date": "04 Aug 2024",
+            "points": 70,
+            "rank": 12
+          },
+          {
             "name": "National Championships Great Britain WE - Road Race",
             "date": "23 Jun 2024",
             "points": 60,
@@ -1032,7 +1068,7 @@
             "rank": 27
           }
         ],
-        "totalPoints": 260
+        "totalPoints": 330
       },
       {
         "name": "Dominika Wlodarczyk",

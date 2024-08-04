@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 181991,
-  "fetchedDate": "3 Aug 2024, 23:12 GMT",
+  "fetchedDate": "4 Aug 2024, 23:13 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 11181,
+    "totalPoints": 12136,
     "riders": [
       {
         "name": "Marianne Vos",
         "id": 31144,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Olympic Games WE - Road Race",
+            "date": "04 Aug 2024",
+            "points": 475,
+            "rank": 2
+          },
           {
             "name": "Volta Ciclista a Catalunya Femenina - General classification",
             "date": "09 Jun 2024",
@@ -138,13 +144,19 @@
             "rank": 2
           }
         ],
-        "totalPoints": 2078
+        "totalPoints": 2553
       },
       {
         "name": "Pfeiffer Georgi",
         "id": 153350,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Olympic Games WE - Road Race",
+            "date": "04 Aug 2024",
+            "points": 275,
+            "rank": 5
+          },
           {
             "name": "Baloise Ladies Tour - General classification",
             "date": "21 Jul 2024",
@@ -266,7 +278,7 @@
             "rank": 15
           }
         ],
-        "totalPoints": 1437
+        "totalPoints": 1712
       },
       {
         "name": "Shirin van Anrooij",
@@ -784,6 +796,12 @@
         "sanctions": 10,
         "results": [
           {
+            "name": "Olympic Games WE - Road Race",
+            "date": "04 Aug 2024",
+            "points": 30,
+            "rank": 18
+          },
+          {
             "name": "Giro d'Italia Women - Stage 4",
             "date": "10 Jul 2024",
             "points": 25,
@@ -910,13 +928,19 @@
             "rank": 7
           }
         ],
-        "totalPoints": 1163
+        "totalPoints": 1193
       },
       {
         "name": "Noemi Rüegg",
         "id": 347941,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Olympic Games WE - Road Race",
+            "date": "04 Aug 2024",
+            "points": 175,
+            "rank": 7
+          },
           {
             "name": "Baloise Ladies Tour - General classification",
             "date": "21 Jul 2024",
@@ -1008,7 +1032,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 635
+        "totalPoints": 810
       },
       {
         "name": "Soraya Paladin",
