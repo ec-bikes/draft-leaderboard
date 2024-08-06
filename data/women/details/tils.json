@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 181991,
-  "fetchedDate": "5 Aug 2024, 23:13 GMT",
+  "momentId": 182050,
+  "fetchedDate": "6 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 13161,
+    "totalPoints": 13171,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -346,6 +346,12 @@
         "sanctions": 15,
         "results": [
           {
+            "name": "Olympic Games WE - Road Race",
+            "date": "04 Aug 2024",
+            "points": 10,
+            "rank": 46
+          },
+          {
             "name": "Olympic Games WE - ITT",
             "date": "27 Jul 2024",
             "points": 150,
@@ -514,7 +520,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 1722
+        "totalPoints": 1732
       },
       {
         "name": "Charlotte Kool",

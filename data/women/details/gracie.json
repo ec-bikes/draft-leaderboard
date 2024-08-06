@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 181991,
-  "fetchedDate": "5 Aug 2024, 23:13 GMT",
+  "momentId": 182050,
+  "fetchedDate": "6 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 10033,
+    "totalPoints": 10043,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -869,6 +869,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Olympic Games WE - Road Race",
+            "date": "04 Aug 2024",
+            "points": 10,
+            "rank": 44
+          },
+          {
             "name": "Olympic Games WE - ITT",
             "date": "27 Jul 2024",
             "points": 5,
@@ -1012,7 +1018,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 864
+        "totalPoints": 874
       },
       {
         "name": "Lizzie Deignan",

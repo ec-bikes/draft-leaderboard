@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 181991,
-  "fetchedDate": "5 Aug 2024, 23:13 GMT",
+  "momentId": 182050,
+  "fetchedDate": "6 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 13770,
+    "totalPoints": 13788,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -339,6 +339,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Olympic Games WE - Road Race",
+            "date": "04 Aug 2024",
+            "points": 5,
+            "rank": 54
+          },
+          {
             "name": "Giro d'Italia Women - Stage 2",
             "date": "08 Jul 2024",
             "points": 30,
@@ -416,7 +422,7 @@
             "points": 5
           }
         ],
-        "totalPoints": 1988
+        "totalPoints": 1993
       },
       {
         "name": "Maike van der Duin",
@@ -577,6 +583,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Olympic Games WE - Road Race",
+            "date": "04 Aug 2024",
+            "points": 10,
+            "rank": 49
+          },
+          {
             "name": "Olympic Games WE - ITT",
             "date": "27 Jul 2024",
             "points": 20,
@@ -667,7 +679,7 @@
             "rank": 11
           }
         ],
-        "totalPoints": 555
+        "totalPoints": 565
       },
       {
         "name": "Evita Muzic",
@@ -1188,6 +1200,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Olympic Games WE - Road Race",
+            "date": "04 Aug 2024",
+            "points": 3,
+            "rank": 56
+          },
+          {
             "name": "Olympic Games WE - ITT",
             "date": "27 Jul 2024",
             "points": 85,
@@ -1312,7 +1330,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 722
+        "totalPoints": 725
       }
     ]
   }

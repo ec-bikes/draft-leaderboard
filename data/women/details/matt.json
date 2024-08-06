@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 181991,
-  "fetchedDate": "5 Aug 2024, 23:13 GMT",
+  "momentId": 182050,
+  "fetchedDate": "6 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 10610,
+    "totalPoints": 10615,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -383,6 +383,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Olympic Games WE - Road Race",
+            "date": "04 Aug 2024",
+            "points": 5,
+            "rank": 55
+          },
+          {
             "name": "Giro d'Italia Women - General classification",
             "date": "14 Jul 2024",
             "points": 8,
@@ -479,7 +485,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 789
+        "totalPoints": 794
       },
       {
         "name": "Gaia Realini",
