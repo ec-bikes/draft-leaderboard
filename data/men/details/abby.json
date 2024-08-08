@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 182032,
-  "fetchedDate": "7 Aug 2024, 23:11 GMT",
+  "momentId": 182268,
+  "fetchedDate": "8 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 13418,
+    "totalPoints": 13423,
     "riders": [
       {
         "name": "Mads Pedersen",
@@ -184,6 +184,11 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Vuelta a Burgos - Stage 4 (ITT) - Bonus",
+            "date": "08 Aug 2024",
+            "points": 5
+          },
+          {
             "name": "Vuelta a Burgos - Stage 3",
             "date": "07 Aug 2024",
             "points": 20,
@@ -237,7 +242,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 191
+        "totalPoints": 196
       },
       {
         "name": "Matteo Jorgenson",
