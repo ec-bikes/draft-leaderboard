@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182268,
-  "fetchedDate": "8 Aug 2024, 23:12 GMT",
+  "fetchedDate": "9 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 12309,
+    "totalPoints": 12314,
     "riders": [
       {
         "name": "Adam Yates",
@@ -874,6 +874,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Vuelta a Burgos - General classification",
+            "date": "09 Aug 2024",
+            "points": 5,
+            "rank": 26
+          },
+          {
             "name": "Tour de Suisse - General classification",
             "date": "16 Jun 2024",
             "points": 10,
@@ -934,7 +940,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 322
+        "totalPoints": 327
       },
       {
         "name": "Laurence Pithie",
