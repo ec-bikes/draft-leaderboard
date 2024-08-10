@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182268,
-  "fetchedDate": "9 Aug 2024, 23:12 GMT",
+  "fetchedDate": "10 Aug 2024, 23:11 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 9510,
+    "totalPoints": 9526,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -989,6 +989,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Donostia San Sebastian Klasikoa",
+            "date": "10 Aug 2024",
+            "points": 16,
+            "rank": 30
+          },
+          {
             "name": "Tour de France - General classification",
             "date": "21 Jul 2024",
             "points": 35,
@@ -1031,7 +1037,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 166
+        "totalPoints": 182
       }
     ]
   }

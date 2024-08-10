@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182268,
-  "fetchedDate": "9 Aug 2024, 23:12 GMT",
+  "fetchedDate": "10 Aug 2024, 23:11 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 14387,
+    "totalPoints": 14527,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -442,6 +442,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Donostia San Sebastian Klasikoa",
+            "date": "10 Aug 2024",
+            "points": 140,
+            "rank": 6
+          },
+          {
             "name": "Tour de France - General classification",
             "date": "21 Jul 2024",
             "points": 15,
@@ -472,7 +478,7 @@
             "rank": 22
           }
         ],
-        "totalPoints": 117
+        "totalPoints": 257
       },
       {
         "name": "Matej Mohoric",

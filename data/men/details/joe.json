@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182268,
-  "fetchedDate": "9 Aug 2024, 23:12 GMT",
+  "fetchedDate": "10 Aug 2024, 23:11 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 14671,
+    "totalPoints": 15007,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -335,6 +335,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Donostia San Sebastian Klasikoa",
+            "date": "10 Aug 2024",
+            "points": 8,
+            "rank": 42
+          },
+          {
             "name": "Olympic Games ME - Road Race",
             "date": "03 Aug 2024",
             "points": 45,
@@ -467,7 +473,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 1101
+        "totalPoints": 1109
       },
       {
         "name": "Tim Merlier",
@@ -631,6 +637,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "Donostia San Sebastian Klasikoa",
+            "date": "10 Aug 2024",
+            "points": 320,
+            "rank": 2
+          },
+          {
             "name": "Olympic Games ME - Road Race",
             "date": "03 Aug 2024",
             "points": 130,
@@ -751,7 +763,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 1048
+        "totalPoints": 1368
       },
       {
         "name": "Felix Gall",
@@ -881,6 +893,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Donostia San Sebastian Klasikoa",
+            "date": "10 Aug 2024",
+            "points": 8,
+            "rank": 35
+          },
+          {
             "name": "Tour de France - General classification",
             "date": "21 Jul 2024",
             "points": 190,
@@ -977,7 +995,7 @@
             "rank": 35
           }
         ],
-        "totalPoints": 690
+        "totalPoints": 698
       },
       {
         "name": "Dylan Groenewegen",

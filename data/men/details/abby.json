@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182268,
-  "fetchedDate": "9 Aug 2024, 23:12 GMT",
+  "fetchedDate": "10 Aug 2024, 23:11 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 13623,
+    "totalPoints": 13691,
     "riders": [
       {
         "name": "Mads Pedersen",
@@ -184,6 +184,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Donostia San Sebastian Klasikoa",
+            "date": "10 Aug 2024",
+            "points": 8,
+            "rank": 34
+          },
+          {
             "name": "Vuelta a Burgos - General classification",
             "date": "09 Aug 2024",
             "points": 200,
@@ -248,7 +254,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 396
+        "totalPoints": 404
       },
       {
         "name": "Matteo Jorgenson",
@@ -690,6 +696,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Donostia San Sebastian Klasikoa",
+            "date": "10 Aug 2024",
+            "points": 4,
+            "rank": 54
+          },
+          {
             "name": "Olympic Games ME - Road Race",
             "date": "03 Aug 2024",
             "points": 45,
@@ -816,7 +828,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1078
+        "totalPoints": 1082
       },
       {
         "name": "Egan Bernal",
@@ -982,6 +994,12 @@
         "sanctions": 15,
         "results": [
           {
+            "name": "Donostia San Sebastian Klasikoa",
+            "date": "10 Aug 2024",
+            "points": 56,
+            "rank": 11
+          },
+          {
             "name": "Olympic Games ME - Road Race",
             "date": "03 Aug 2024",
             "points": 10,
@@ -1108,7 +1126,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1735
+        "totalPoints": 1791
       },
       {
         "name": "Benoît Cosnefroy",
