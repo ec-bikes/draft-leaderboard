@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182268,
-  "fetchedDate": "10 Aug 2024, 23:11 GMT",
+  "fetchedDate": "11 Aug 2024, 23:11 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 14527,
+    "totalPoints": 14530,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -1045,6 +1045,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "La Polynormande",
+            "date": "11 Aug 2024",
+            "points": 3,
+            "rank": 24
+          },
+          {
             "name": "Tour de France - General classification",
             "date": "21 Jul 2024",
             "points": 140,
@@ -1147,7 +1153,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 677
+        "totalPoints": 680
       }
     ]
   }
