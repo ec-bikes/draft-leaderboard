@@ -2,7 +2,7 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182274,
-  "fetchedDate": "11 Aug 2024, 23:11 GMT",
+  "fetchedDate": "12 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
@@ -1023,7 +1023,7 @@
       {
         "name": "Lizzie Deignan",
         "id": 45988,
-        "sanctions": 0,
+        "sanctions": 5,
         "results": [
           {
             "name": "Olympic Games WE - Road Race",

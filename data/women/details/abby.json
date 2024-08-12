@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182274,
-  "fetchedDate": "11 Aug 2024, 23:11 GMT",
+  "fetchedDate": "12 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 12146,
+    "totalPoints": 12166,
     "riders": [
       {
         "name": "Marianne Vos",
         "id": 31144,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - Stage 1",
+            "date": "12 Aug 2024",
+            "points": 20,
+            "rank": 5
+          },
           {
             "name": "Olympic Games WE - Road Race",
             "date": "04 Aug 2024",
@@ -144,7 +150,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 2553
+        "totalPoints": 2573
       },
       {
         "name": "Pfeiffer Georgi",

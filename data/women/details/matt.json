@@ -2,7 +2,7 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182274,
-  "fetchedDate": "11 Aug 2024, 23:11 GMT",
+  "fetchedDate": "12 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
@@ -490,7 +490,7 @@
       {
         "name": "Gaia Realini",
         "id": 303036,
-        "sanctions": 0,
+        "sanctions": 5,
         "results": [
           {
             "name": "Giro d'Italia Women - General classification",

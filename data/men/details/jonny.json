@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182268,
-  "fetchedDate": "11 Aug 2024, 23:11 GMT",
+  "fetchedDate": "12 Aug 2024, 23:13 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 9526,
+    "totalPoints": 9534,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -861,6 +861,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Pologne - Stage 1",
+            "date": "12 Aug 2024",
+            "points": 8,
+            "rank": 7
+          },
+          {
             "name": "Tour de France - General classification",
             "date": "21 Jul 2024",
             "points": 25,
@@ -981,7 +987,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 678
+        "totalPoints": 686
       },
       {
         "name": "Jack Haig",

@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182268,
-  "fetchedDate": "11 Aug 2024, 23:11 GMT",
+  "fetchedDate": "12 Aug 2024, 23:13 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 12513,
+    "totalPoints": 12533,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Pologne - Stage 1",
+            "date": "12 Aug 2024",
+            "points": 20,
+            "rank": 4
+          },
           {
             "name": "Tour de France - Mountains classification",
             "date": "21 Jul 2024",
@@ -154,7 +160,7 @@
             "points": 3
           }
         ],
-        "totalPoints": 3023
+        "totalPoints": 3043
       },
       {
         "name": "Christophe Laporte",

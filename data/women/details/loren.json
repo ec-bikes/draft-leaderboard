@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182274,
-  "fetchedDate": "11 Aug 2024, 23:11 GMT",
+  "fetchedDate": "12 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 13788,
+    "totalPoints": 13836,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -339,6 +339,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France Femmes avec Zwift - Stage 1",
+            "date": "12 Aug 2024",
+            "points": 30,
+            "rank": 3
+          },
+          {
             "name": "Olympic Games WE - Road Race",
             "date": "04 Aug 2024",
             "points": 5,
@@ -422,7 +428,7 @@
             "points": 5
           }
         ],
-        "totalPoints": 1993
+        "totalPoints": 2023
       },
       {
         "name": "Maike van der Duin",
@@ -997,6 +1003,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France Femmes avec Zwift - Stage 1",
+            "date": "12 Aug 2024",
+            "points": 18,
+            "rank": 6
+          },
+          {
             "name": "Baloise Ladies Tour - General classification",
             "date": "21 Jul 2024",
             "points": 20,
@@ -1081,7 +1093,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 921
+        "totalPoints": 939
       },
       {
         "name": "Niamh Fisher-Black",

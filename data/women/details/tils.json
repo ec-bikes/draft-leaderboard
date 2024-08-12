@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182274,
-  "fetchedDate": "11 Aug 2024, 23:11 GMT",
+  "fetchedDate": "12 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 13171,
+    "totalPoints": 13229,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -528,6 +528,17 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France Femmes avec Zwift - Stage 1",
+            "date": "12 Aug 2024",
+            "points": 50,
+            "rank": 1
+          },
+          {
+            "name": "Tour de France Femmes avec Zwift - Stage 1 - Bonus",
+            "date": "12 Aug 2024",
+            "points": 8
+          },
+          {
             "name": "Baloise Ladies Tour - General classification",
             "date": "21 Jul 2024",
             "points": 40,
@@ -642,7 +653,7 @@
             "rank": 15
           }
         ],
-        "totalPoints": 1318
+        "totalPoints": 1376
       },
       {
         "name": "Riejanne Markus",
