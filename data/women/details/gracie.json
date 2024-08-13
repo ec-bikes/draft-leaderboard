@@ -1,18 +1,30 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 182274,
-  "fetchedDate": "12 Aug 2024, 23:12 GMT",
+  "momentId": 182557,
+  "fetchedDate": "13 Aug 2024, 23:11 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 10043,
+    "totalPoints": 10138,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - Stage 3 (ITT)",
+            "date": "13 Aug 2024",
+            "points": 15,
+            "rank": 7
+          },
+          {
+            "name": "Tour de France Femmes avec Zwift - Stage 2",
+            "date": "13 Aug 2024",
+            "points": 40,
+            "rank": 2
+          },
           {
             "name": "Olympic Games WE - Road Race",
             "date": "04 Aug 2024",
@@ -251,7 +263,7 @@
             "points": 8
           }
         ],
-        "totalPoints": 3086
+        "totalPoints": 3141
       },
       {
         "name": "Liane Lippert",
@@ -315,6 +327,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France Femmes avec Zwift - Stage 3 (ITT)",
+            "date": "13 Aug 2024",
+            "points": 40,
+            "rank": 2
+          },
+          {
             "name": "Olympic Games WE - Road Race",
             "date": "04 Aug 2024",
             "points": 40,
@@ -339,7 +357,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 388
+        "totalPoints": 428
       },
       {
         "name": "Mavi Garcia",

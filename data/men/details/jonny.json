@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 182268,
-  "fetchedDate": "12 Aug 2024, 23:13 GMT",
+  "momentId": 182551,
+  "fetchedDate": "13 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 9534,
+    "totalPoints": 9535,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -861,6 +861,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Pologne - Stage 2 (ITT)",
+            "date": "13 Aug 2024",
+            "points": 1,
+            "rank": 10
+          },
+          {
             "name": "Tour de Pologne - Stage 1",
             "date": "12 Aug 2024",
             "points": 8,
@@ -987,7 +993,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 686
+        "totalPoints": 687
       },
       {
         "name": "Jack Haig",

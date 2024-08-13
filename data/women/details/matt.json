@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 182274,
-  "fetchedDate": "12 Aug 2024, 23:12 GMT",
+  "momentId": 182557,
+  "fetchedDate": "13 Aug 2024, 23:11 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 10615,
+    "totalPoints": 10635,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -896,6 +896,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France Femmes avec Zwift - Stage 3 (ITT)",
+            "date": "13 Aug 2024",
+            "points": 20,
+            "rank": 5
+          },
+          {
             "name": "Olympic Games WE - Road Race",
             "date": "04 Aug 2024",
             "points": 600,
@@ -1004,7 +1010,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 1230
+        "totalPoints": 1250
       },
       {
         "name": "Anna Henderson",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 182274,
-  "fetchedDate": "12 Aug 2024, 23:12 GMT",
+  "momentId": 182557,
+  "fetchedDate": "13 Aug 2024, 23:11 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 13836,
+    "totalPoints": 13864,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -339,6 +339,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France Femmes avec Zwift - Stage 2",
+            "date": "13 Aug 2024",
+            "points": 20,
+            "rank": 5
+          },
+          {
             "name": "Tour de France Femmes avec Zwift - Stage 1",
             "date": "12 Aug 2024",
             "points": 30,
@@ -428,7 +434,7 @@
             "points": 5
           }
         ],
-        "totalPoints": 2023
+        "totalPoints": 2043
       },
       {
         "name": "Maike van der Duin",
@@ -589,6 +595,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France Femmes avec Zwift - Stage 3 (ITT)",
+            "date": "13 Aug 2024",
+            "points": 8,
+            "rank": 9
+          },
+          {
             "name": "Olympic Games WE - Road Race",
             "date": "04 Aug 2024",
             "points": 10,
@@ -685,7 +697,7 @@
             "rank": 11
           }
         ],
-        "totalPoints": 565
+        "totalPoints": 573
       },
       {
         "name": "Evita Muzic",

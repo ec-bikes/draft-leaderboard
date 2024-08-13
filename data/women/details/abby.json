@@ -1,18 +1,24 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 182274,
-  "fetchedDate": "12 Aug 2024, 23:12 GMT",
+  "momentId": 182557,
+  "fetchedDate": "13 Aug 2024, 23:11 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 12166,
+    "totalPoints": 12206,
     "riders": [
       {
         "name": "Marianne Vos",
         "id": 31144,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - Stage 2",
+            "date": "13 Aug 2024",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Tour de France Femmes avec Zwift - Stage 1",
             "date": "12 Aug 2024",
@@ -150,7 +156,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 2573
+        "totalPoints": 2603
       },
       {
         "name": "Pfeiffer Georgi",
@@ -426,6 +432,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France Femmes avec Zwift - Stage 3 (ITT)",
+            "date": "13 Aug 2024",
+            "points": 10,
+            "rank": 8
+          },
+          {
             "name": "Internationale LOTTO Thüringen Ladies Tour - General classification",
             "date": "30 Jun 2024",
             "points": 150,
@@ -544,7 +556,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 940
+        "totalPoints": 950
       },
       {
         "name": "Arlenis Sierra",

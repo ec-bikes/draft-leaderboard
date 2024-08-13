@@ -1,18 +1,29 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 182274,
-  "fetchedDate": "12 Aug 2024, 23:12 GMT",
+  "momentId": 182557,
+  "fetchedDate": "13 Aug 2024, 23:11 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 13229,
+    "totalPoints": 13351,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - Stage 3 (ITT)",
+            "date": "13 Aug 2024",
+            "points": 50,
+            "rank": 1
+          },
+          {
+            "name": "Tour de France Femmes avec Zwift - Stage 3 (ITT) - Bonus",
+            "date": "13 Aug 2024",
+            "points": 8
+          },
           {
             "name": "Olympic Games WE - Road Race",
             "date": "04 Aug 2024",
@@ -222,7 +233,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 3602
+        "totalPoints": 3660
       },
       {
         "name": "Kasia Niewiadoma",
@@ -528,6 +539,17 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France Femmes avec Zwift - Stage 2",
+            "date": "13 Aug 2024",
+            "points": 50,
+            "rank": 1
+          },
+          {
+            "name": "Tour de France Femmes avec Zwift - Stage 2 - Bonus",
+            "date": "13 Aug 2024",
+            "points": 8
+          },
+          {
             "name": "Tour de France Femmes avec Zwift - Stage 1",
             "date": "12 Aug 2024",
             "points": 50,
@@ -653,7 +675,7 @@
             "rank": 15
           }
         ],
-        "totalPoints": 1376
+        "totalPoints": 1434
       },
       {
         "name": "Riejanne Markus",
@@ -1217,6 +1239,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France Femmes avec Zwift - Stage 2",
+            "date": "13 Aug 2024",
+            "points": 6,
+            "rank": 10
+          },
+          {
             "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "31 Mar 2024",
             "points": 140,
@@ -1265,7 +1293,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 1025
+        "totalPoints": 1031
       }
     ]
   }
