@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182557,
-  "fetchedDate": "13 Aug 2024, 23:11 GMT",
+  "fetchedDate": "15 Aug 2024, 23:21 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 10138,
+    "totalPoints": 10178,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - Stage 5",
+            "date": "15 Aug 2024",
+            "points": 10,
+            "rank": 8
+          },
           {
             "name": "Tour de France Femmes avec Zwift - Stage 3 (ITT)",
             "date": "13 Aug 2024",
@@ -263,13 +269,19 @@
             "points": 8
           }
         ],
-        "totalPoints": 3141
+        "totalPoints": 3151
       },
       {
         "name": "Liane Lippert",
         "id": 140495,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - Stage 5",
+            "date": "15 Aug 2024",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Olympic Games WE - Road Race",
             "date": "04 Aug 2024",
@@ -319,7 +331,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 282
+        "totalPoints": 312
       },
       {
         "name": "Chloe Dygert",

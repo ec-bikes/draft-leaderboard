@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182557,
-  "fetchedDate": "13 Aug 2024, 23:11 GMT",
+  "fetchedDate": "15 Aug 2024, 23:21 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 13864,
+    "totalPoints": 13913,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -595,6 +595,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France Femmes avec Zwift - Stage 5",
+            "date": "15 Aug 2024",
+            "points": 20,
+            "rank": 5
+          },
+          {
             "name": "Tour de France Femmes avec Zwift - Stage 3 (ITT)",
             "date": "13 Aug 2024",
             "points": 8,
@@ -697,13 +703,25 @@
             "rank": 11
           }
         ],
-        "totalPoints": 573
+        "totalPoints": 593
       },
       {
         "name": "Evita Muzic",
         "id": 109412,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - Stage 5",
+            "date": "15 Aug 2024",
+            "points": 6,
+            "rank": 10
+          },
+          {
+            "name": "Tour de France Femmes avec Zwift - Stage 4",
+            "date": "14 Aug 2024",
+            "points": 15,
+            "rank": 7
+          },
           {
             "name": "National Championships France WE - Road Race",
             "date": "22 Jun 2024",
@@ -861,7 +879,7 @@
             "rank": 22
           }
         ],
-        "totalPoints": 1631
+        "totalPoints": 1652
       },
       {
         "name": "Chiara Consonni",
@@ -1113,6 +1131,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France Femmes avec Zwift - Stage 4",
+            "date": "14 Aug 2024",
+            "points": 8,
+            "rank": 9
+          },
+          {
             "name": "Olympic Games WE - Road Race",
             "date": "04 Aug 2024",
             "points": 20,
@@ -1215,7 +1239,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 658
+        "totalPoints": 666
       },
       {
         "name": "Kim Cadzow",

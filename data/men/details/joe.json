@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182551,
-  "fetchedDate": "13 Aug 2024, 23:12 GMT",
+  "fetchedDate": "15 Aug 2024, 23:22 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 15007,
+    "totalPoints": 15022,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -481,6 +481,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Pologne - Stage 4",
+            "date": "15 Aug 2024",
+            "points": 15,
+            "rank": 5
+          },
+          {
             "name": "National Championships Belgium ME - Road Race",
             "date": "23 Jun 2024",
             "points": 30,
@@ -629,7 +635,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1807
+        "totalPoints": 1822
       },
       {
         "name": "Julian Alaphilippe",

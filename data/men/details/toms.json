@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182551,
-  "fetchedDate": "13 Aug 2024, 23:12 GMT",
+  "fetchedDate": "15 Aug 2024, 23:22 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 12382,
+    "totalPoints": 12402,
     "riders": [
       {
         "name": "Adam Yates",
@@ -310,7 +310,7 @@
       {
         "name": "Valentin Madouas",
         "id": 91637,
-        "sanctions": 25,
+        "sanctions": 40,
         "results": [
           {
             "name": "Olympic Games ME - Road Race",
@@ -1123,6 +1123,12 @@
         "sanctions": 20,
         "results": [
           {
+            "name": "Tour de Pologne - Stage 4",
+            "date": "15 Aug 2024",
+            "points": 20,
+            "rank": 4
+          },
+          {
             "name": "Ethias-Tour de Wallonie - Stage 1",
             "date": "22 Jul 2024",
             "points": 20,
@@ -1200,7 +1206,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 760
+        "totalPoints": 780
       },
       {
         "name": "Casper van Uden",

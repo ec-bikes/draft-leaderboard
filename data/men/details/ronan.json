@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182551,
-  "fetchedDate": "13 Aug 2024, 23:12 GMT",
+  "fetchedDate": "15 Aug 2024, 23:22 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 13516,
+    "totalPoints": 13596,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -453,6 +453,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Pologne - Stage 4",
+            "date": "15 Aug 2024",
+            "points": 50,
+            "rank": 1
+          },
+          {
             "name": "National Championships Netherlands ME - Road Race",
             "date": "23 Jun 2024",
             "points": 75,
@@ -548,7 +554,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1067
+        "totalPoints": 1117
       },
       {
         "name": "Jonathan Milan",
@@ -973,6 +979,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Pologne - Stage 4",
+            "date": "15 Aug 2024",
+            "points": 30,
+            "rank": 2
+          },
+          {
             "name": "Tour de France - Stage 16",
             "date": "16 Jul 2024",
             "points": 90,
@@ -1131,7 +1143,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 714
+        "totalPoints": 744
       },
       {
         "name": "Isaac del Toro",

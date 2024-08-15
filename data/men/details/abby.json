@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182551,
-  "fetchedDate": "13 Aug 2024, 23:12 GMT",
+  "fetchedDate": "15 Aug 2024, 23:22 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 13691,
+    "totalPoints": 13716,
     "riders": [
       {
         "name": "Mads Pedersen",
         "id": 86895,
         "sanctions": 10,
         "results": [
+          {
+            "name": "Tour de Pologne - Stage 4",
+            "date": "15 Aug 2024",
+            "points": 25,
+            "rank": 3
+          },
           {
             "name": "Olympic Games ME - Road Race",
             "date": "03 Aug 2024",
@@ -176,7 +182,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 2230
+        "totalPoints": 2255
       },
       {
         "name": "Sepp Kuss",

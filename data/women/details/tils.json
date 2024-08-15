@@ -2,17 +2,28 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182557,
-  "fetchedDate": "13 Aug 2024, 23:11 GMT",
+  "fetchedDate": "15 Aug 2024, 23:21 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 13351,
+    "totalPoints": 13527,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - Stage 4",
+            "date": "14 Aug 2024",
+            "points": 40,
+            "rank": 2
+          },
+          {
+            "name": "Tour de France Femmes avec Zwift - Stage 4 - Bonus",
+            "date": "14 Aug 2024",
+            "points": 8
+          },
           {
             "name": "Tour de France Femmes avec Zwift - Stage 3 (ITT)",
             "date": "13 Aug 2024",
@@ -233,13 +244,30 @@
             "rank": 6
           }
         ],
-        "totalPoints": 3660
+        "totalPoints": 3708
       },
       {
         "name": "Kasia Niewiadoma",
         "id": 86824,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - Stage 5",
+            "date": "15 Aug 2024",
+            "points": 40,
+            "rank": 2
+          },
+          {
+            "name": "Tour de France Femmes avec Zwift - Stage 5 - Bonus",
+            "date": "15 Aug 2024",
+            "points": 8
+          },
+          {
+            "name": "Tour de France Femmes avec Zwift - Stage 4",
+            "date": "14 Aug 2024",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Olympic Games WE - Road Race",
             "date": "04 Aug 2024",
@@ -349,7 +377,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 1982
+        "totalPoints": 2060
       },
       {
         "name": "Juliette Labous",
@@ -1239,6 +1267,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France Femmes avec Zwift - Stage 4",
+            "date": "14 Aug 2024",
+            "points": 50,
+            "rank": 1
+          },
+          {
             "name": "Tour de France Femmes avec Zwift - Stage 2",
             "date": "13 Aug 2024",
             "points": 6,
@@ -1293,7 +1327,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 1031
+        "totalPoints": 1081
       }
     ]
   }

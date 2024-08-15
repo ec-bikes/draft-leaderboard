@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182557,
-  "fetchedDate": "13 Aug 2024, 23:11 GMT",
+  "fetchedDate": "15 Aug 2024, 23:21 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 10635,
+    "totalPoints": 10678,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -896,6 +896,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France Femmes avec Zwift - Stage 5",
+            "date": "15 Aug 2024",
+            "points": 25,
+            "rank": 4
+          },
+          {
             "name": "Tour de France Femmes avec Zwift - Stage 3 (ITT)",
             "date": "13 Aug 2024",
             "points": 20,
@@ -1010,7 +1016,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 1250
+        "totalPoints": 1275
       },
       {
         "name": "Anna Henderson",
@@ -1065,6 +1071,12 @@
         "tradedIn": true,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - Stage 4",
+            "date": "14 Aug 2024",
+            "points": 18,
+            "rank": 6
+          },
           {
             "name": "Baloise Ladies Tour - General classification",
             "date": "21 Jul 2024",
@@ -1228,7 +1240,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 1055
+        "totalPoints": 1073
       }
     ]
   }

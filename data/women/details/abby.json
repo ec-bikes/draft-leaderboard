@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182557,
-  "fetchedDate": "13 Aug 2024, 23:11 GMT",
+  "fetchedDate": "15 Aug 2024, 23:21 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 12206,
+    "totalPoints": 12244,
     "riders": [
       {
         "name": "Marianne Vos",
         "id": 31144,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - Stage 5",
+            "date": "15 Aug 2024",
+            "points": 8,
+            "rank": 9
+          },
           {
             "name": "Tour de France Femmes avec Zwift - Stage 2",
             "date": "13 Aug 2024",
@@ -156,7 +162,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 2603
+        "totalPoints": 2611
       },
       {
         "name": "Pfeiffer Georgi",
@@ -298,6 +304,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France Femmes avec Zwift - Stage 4",
+            "date": "14 Aug 2024",
+            "points": 10,
+            "rank": 8
+          },
+          {
             "name": "Internationale LOTTO Thüringen Ladies Tour - General classification",
             "date": "30 Jun 2024",
             "points": 25,
@@ -424,7 +436,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 1475
+        "totalPoints": 1485
       },
       {
         "name": "Mischa Bredewold",
@@ -960,6 +972,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France Femmes avec Zwift - Stage 4",
+            "date": "14 Aug 2024",
+            "points": 20,
+            "rank": 5
+          },
+          {
             "name": "Olympic Games WE - Road Race",
             "date": "04 Aug 2024",
             "points": 175,
@@ -1056,7 +1074,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 810
+        "totalPoints": 830
       },
       {
         "name": "Soraya Paladin",

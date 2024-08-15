@@ -2,17 +2,33 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182551,
-  "fetchedDate": "13 Aug 2024, 23:12 GMT",
+  "fetchedDate": "15 Aug 2024, 23:22 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 12571,
+    "totalPoints": 12620,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Pologne - Stage 4 - Bonus",
+            "date": "15 Aug 2024",
+            "points": 8
+          },
+          {
+            "name": "Tour de Pologne - Stage 3",
+            "date": "14 Aug 2024",
+            "points": 3,
+            "rank": 9
+          },
+          {
+            "name": "Tour de Pologne - Stage 3 - Bonus",
+            "date": "14 Aug 2024",
+            "points": 8
+          },
           {
             "name": "Tour de Pologne - Stage 2 (ITT)",
             "date": "13 Aug 2024",
@@ -171,7 +187,7 @@
             "points": 3
           }
         ],
-        "totalPoints": 3081
+        "totalPoints": 3100
       },
       {
         "name": "Christophe Laporte",
@@ -903,6 +919,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour of Leuven - Memorial Jef Scherens",
+            "date": "15 Aug 2024",
+            "points": 20,
+            "rank": 10
+          },
+          {
             "name": "Tour de France - Stage 13",
             "date": "12 Jul 2024",
             "points": 10,
@@ -963,13 +985,19 @@
             "rank": 5
           }
         ],
-        "totalPoints": 211
+        "totalPoints": 231
       },
       {
         "name": "Søren Kragh Andersen",
         "id": 79156,
         "sanctions": 0,
         "results": [
+          {
+            "name": "PostNord Tour of Denmark - Stage 2",
+            "date": "15 Aug 2024",
+            "points": 10,
+            "rank": 3
+          },
           {
             "name": "Tour de France - Stage 8",
             "date": "06 Jul 2024",
@@ -1013,7 +1041,7 @@
             "rank": 31
           }
         ],
-        "totalPoints": 143
+        "totalPoints": 153
       }
     ]
   }
