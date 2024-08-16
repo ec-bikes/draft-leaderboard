@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182551,
-  "fetchedDate": "15 Aug 2024, 23:22 GMT",
+  "fetchedDate": "16 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 12402,
+    "totalPoints": 12458,
     "riders": [
       {
         "name": "Adam Yates",
@@ -313,6 +313,12 @@
         "sanctions": 40,
         "results": [
           {
+            "name": "Tour du Limousin-Périgord - Nouvelle Aquitaine - General classification",
+            "date": "16 Aug 2024",
+            "points": 25,
+            "rank": 9
+          },
+          {
             "name": "Olympic Games ME - Road Race",
             "date": "03 Aug 2024",
             "points": 715,
@@ -409,7 +415,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 1443
+        "totalPoints": 1468
       },
       {
         "name": "João Almeida",
@@ -1123,6 +1129,12 @@
         "sanctions": 20,
         "results": [
           {
+            "name": "Tour de Pologne - Stage 5",
+            "date": "16 Aug 2024",
+            "points": 30,
+            "rank": 2
+          },
+          {
             "name": "Tour de Pologne - Stage 4",
             "date": "15 Aug 2024",
             "points": 20,
@@ -1206,13 +1218,19 @@
             "rank": 8
           }
         ],
-        "totalPoints": 780
+        "totalPoints": 810
       },
       {
         "name": "Casper van Uden",
         "id": 226805,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Pologne - Stage 5",
+            "date": "16 Aug 2024",
+            "points": 1,
+            "rank": 10
+          },
           {
             "name": "ZLM Tour - General classification",
             "date": "09 Jun 2024",
@@ -1320,7 +1338,7 @@
             "points": 3
           }
         ],
-        "totalPoints": 365
+        "totalPoints": 366
       }
     ]
   }

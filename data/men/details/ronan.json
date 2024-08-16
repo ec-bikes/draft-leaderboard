@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182551,
-  "fetchedDate": "15 Aug 2024, 23:22 GMT",
+  "fetchedDate": "16 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 13596,
+    "totalPoints": 13621,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -453,6 +453,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Pologne - Stage 5",
+            "date": "16 Aug 2024",
+            "points": 25,
+            "rank": 3
+          },
+          {
             "name": "Tour de Pologne - Stage 4",
             "date": "15 Aug 2024",
             "points": 50,
@@ -554,7 +560,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1117
+        "totalPoints": 1142
       },
       {
         "name": "Jonathan Milan",

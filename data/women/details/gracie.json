@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182557,
-  "fetchedDate": "15 Aug 2024, 23:21 GMT",
+  "fetchedDate": "16 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 10178,
+    "totalPoints": 10208,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -277,6 +277,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France Femmes avec Zwift - Stage 6",
+            "date": "16 Aug 2024",
+            "points": 30,
+            "rank": 3
+          },
+          {
             "name": "Tour de France Femmes avec Zwift - Stage 5",
             "date": "15 Aug 2024",
             "points": 30,
@@ -331,7 +337,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 312
+        "totalPoints": 342
       },
       {
         "name": "Chloe Dygert",

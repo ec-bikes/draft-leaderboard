@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182557,
-  "fetchedDate": "15 Aug 2024, 23:21 GMT",
+  "fetchedDate": "16 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 13913,
+    "totalPoints": 13921,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -711,6 +711,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France Femmes avec Zwift - Stage 6",
+            "date": "16 Aug 2024",
+            "points": 8,
+            "rank": 9
+          },
+          {
             "name": "Tour de France Femmes avec Zwift - Stage 5",
             "date": "15 Aug 2024",
             "points": 6,
@@ -879,7 +885,7 @@
             "rank": 22
           }
         ],
-        "totalPoints": 1652
+        "totalPoints": 1660
       },
       {
         "name": "Chiara Consonni",

@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182557,
-  "fetchedDate": "15 Aug 2024, 23:21 GMT",
+  "fetchedDate": "16 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 12244,
+    "totalPoints": 12309,
     "riders": [
       {
         "name": "Marianne Vos",
         "id": 31144,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - Stage 6",
+            "date": "16 Aug 2024",
+            "points": 40,
+            "rank": 2
+          },
           {
             "name": "Tour de France Femmes avec Zwift - Stage 5",
             "date": "15 Aug 2024",
@@ -162,7 +168,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 2611
+        "totalPoints": 2651
       },
       {
         "name": "Pfeiffer Georgi",
@@ -1226,6 +1232,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France Femmes avec Zwift - Stage 6",
+            "date": "16 Aug 2024",
+            "points": 25,
+            "rank": 4
+          },
+          {
             "name": "Kreiz Breizh Elites Féminin",
             "date": "30 Jul 2024",
             "points": 60,
@@ -1370,7 +1382,7 @@
             "rank": 14
           }
         ],
-        "totalPoints": 1077
+        "totalPoints": 1102
       }
     ]
   }

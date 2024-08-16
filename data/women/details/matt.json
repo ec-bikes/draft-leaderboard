@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182557,
-  "fetchedDate": "15 Aug 2024, 23:21 GMT",
+  "fetchedDate": "16 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 10678,
+    "totalPoints": 10688,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -1072,6 +1072,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France Femmes avec Zwift - Stage 6",
+            "date": "16 Aug 2024",
+            "points": 10,
+            "rank": 8
+          },
+          {
             "name": "Tour de France Femmes avec Zwift - Stage 4",
             "date": "14 Aug 2024",
             "points": 18,
@@ -1240,7 +1246,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 1073
+        "totalPoints": 1083
       }
     ]
   }

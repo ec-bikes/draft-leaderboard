@@ -2,17 +2,22 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182551,
-  "fetchedDate": "15 Aug 2024, 23:22 GMT",
+  "fetchedDate": "16 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 12620,
+    "totalPoints": 12628,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Pologne - Stage 5 - Bonus",
+            "date": "16 Aug 2024",
+            "points": 8
+          },
           {
             "name": "Tour de Pologne - Stage 4 - Bonus",
             "date": "15 Aug 2024",
@@ -187,7 +192,7 @@
             "points": 3
           }
         ],
-        "totalPoints": 3100
+        "totalPoints": 3108
       },
       {
         "name": "Christophe Laporte",
