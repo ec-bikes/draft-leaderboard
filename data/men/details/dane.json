@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182551,
-  "fetchedDate": "16 Aug 2024, 23:12 GMT",
+  "fetchedDate": "17 Aug 2024, 23:11 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 12628,
+    "totalPoints": 12728,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Pologne - Stage 6",
+            "date": "17 Aug 2024",
+            "points": 20,
+            "rank": 4
+          },
           {
             "name": "Tour de Pologne - Stage 5 - Bonus",
             "date": "16 Aug 2024",
@@ -192,7 +198,7 @@
             "points": 3
           }
         ],
-        "totalPoints": 3108
+        "totalPoints": 3128
       },
       {
         "name": "Christophe Laporte",
@@ -747,6 +753,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 1 (ITT)",
+            "date": "17 Aug 2024",
+            "points": 80,
+            "rank": 4
+          },
+          {
             "name": "Olympic Games ME - Road Race",
             "date": "03 Aug 2024",
             "points": 265,
@@ -855,7 +867,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1257
+        "totalPoints": 1337
       },
       {
         "name": "Fabio Jakobsen",

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182557,
-  "fetchedDate": "16 Aug 2024, 23:12 GMT",
+  "fetchedDate": "17 Aug 2024, 23:10 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 10688,
+    "totalPoints": 10712,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -493,6 +493,12 @@
         "sanctions": 5,
         "results": [
           {
+            "name": "Tour de France Femmes avec Zwift - Stage 7",
+            "date": "17 Aug 2024",
+            "points": 6,
+            "rank": 10
+          },
+          {
             "name": "Giro d'Italia Women - General classification",
             "date": "14 Jul 2024",
             "points": 120,
@@ -612,7 +618,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 791
+        "totalPoints": 797
       },
       {
         "name": "Amanda Spratt",
@@ -1072,6 +1078,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France Femmes avec Zwift - Stage 7",
+            "date": "17 Aug 2024",
+            "points": 18,
+            "rank": 6
+          },
+          {
             "name": "Tour de France Femmes avec Zwift - Stage 6",
             "date": "16 Aug 2024",
             "points": 10,
@@ -1246,7 +1258,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 1083
+        "totalPoints": 1101
       }
     ]
   }

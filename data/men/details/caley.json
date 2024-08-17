@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182551,
-  "fetchedDate": "16 Aug 2024, 23:12 GMT",
+  "fetchedDate": "17 Aug 2024, 23:11 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 14551,
+    "totalPoints": 14599,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -486,6 +486,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Pologne - Stage 6",
+            "date": "17 Aug 2024",
+            "points": 3,
+            "rank": 9
+          },
+          {
             "name": "Tour de Pologne - Stage 3",
             "date": "14 Aug 2024",
             "points": 6,
@@ -570,7 +576,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 715
+        "totalPoints": 718
       },
       {
         "name": "Victor Lafay",
@@ -788,6 +794,12 @@
         "sanctions": 100,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 1 (ITT)",
+            "date": "17 Aug 2024",
+            "points": 45,
+            "rank": 6
+          },
+          {
             "name": "Olympic Games ME - Road Race",
             "date": "03 Aug 2024",
             "points": 15,
@@ -871,7 +883,7 @@
             "rank": 55
           }
         ],
-        "totalPoints": 526
+        "totalPoints": 571
       },
       {
         "name": "Enric Mas",

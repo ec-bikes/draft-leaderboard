@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182551,
-  "fetchedDate": "16 Aug 2024, 23:12 GMT",
+  "fetchedDate": "17 Aug 2024, 23:11 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 12458,
+    "totalPoints": 12673,
     "riders": [
       {
         "name": "Adam Yates",
@@ -168,6 +168,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 1 (ITT)",
+            "date": "17 Aug 2024",
+            "points": 10,
+            "rank": 13
+          },
+          {
             "name": "Olympic Games ME - Road Race",
             "date": "03 Aug 2024",
             "points": 45,
@@ -305,7 +311,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1569
+        "totalPoints": 1579
       },
       {
         "name": "Valentin Madouas",
@@ -422,6 +428,12 @@
         "id": 107840,
         "sanctions": 50,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - Stage 1 (ITT)",
+            "date": "17 Aug 2024",
+            "points": 25,
+            "rank": 10
+          },
           {
             "name": "Tour de France - General classification",
             "date": "21 Jul 2024",
@@ -561,7 +573,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 2022
+        "totalPoints": 2047
       },
       {
         "name": "Kévin Vauquelin",
@@ -708,6 +720,12 @@
         "id": 150923,
         "sanctions": 0,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - Stage 1 (ITT)",
+            "date": "17 Aug 2024",
+            "points": 180,
+            "rank": 1
+          },
           {
             "name": "Donostia San Sebastian Klasikoa",
             "date": "10 Aug 2024",
@@ -878,7 +896,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1727
+        "totalPoints": 1907
       },
       {
         "name": "Cian Uijtdebroeks",

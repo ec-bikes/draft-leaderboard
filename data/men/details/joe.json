@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182551,
-  "fetchedDate": "16 Aug 2024, 23:12 GMT",
+  "fetchedDate": "17 Aug 2024, 23:11 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 15072,
+    "totalPoints": 15082,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -1148,6 +1148,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Pologne - Stage 6",
+            "date": "17 Aug 2024",
+            "points": 10,
+            "rank": 6
+          },
+          {
             "name": "Giro d'Italia - Stage 10",
             "date": "14 May 2024",
             "points": 80,
@@ -1178,7 +1184,7 @@
             "rank": 25
           }
         ],
-        "totalPoints": 101
+        "totalPoints": 111
       }
     ]
   }
