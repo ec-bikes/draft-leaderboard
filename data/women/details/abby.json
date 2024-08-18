@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182557,
-  "fetchedDate": "17 Aug 2024, 23:10 GMT",
+  "fetchedDate": "18 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 12309,
+    "totalPoints": 12365,
     "riders": [
       {
         "name": "Marianne Vos",
         "id": 31144,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - General classification",
+            "date": "18 Aug 2024",
+            "points": 8,
+            "rank": 31
+          },
           {
             "name": "Tour de France Femmes avec Zwift - Stage 6",
             "date": "16 Aug 2024",
@@ -168,7 +174,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 2651
+        "totalPoints": 2659
       },
       {
         "name": "Pfeiffer Georgi",
@@ -310,6 +316,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France Femmes avec Zwift - General classification",
+            "date": "18 Aug 2024",
+            "points": 40,
+            "rank": 13
+          },
+          {
             "name": "Tour de France Femmes avec Zwift - Stage 4",
             "date": "14 Aug 2024",
             "points": 10,
@@ -442,7 +454,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 1485
+        "totalPoints": 1525
       },
       {
         "name": "Mischa Bredewold",
@@ -1232,6 +1244,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France Femmes avec Zwift - General classification",
+            "date": "18 Aug 2024",
+            "points": 8,
+            "rank": 39
+          },
+          {
             "name": "Tour de France Femmes avec Zwift - Stage 6",
             "date": "16 Aug 2024",
             "points": 25,
@@ -1382,7 +1400,7 @@
             "rank": 14
           }
         ],
-        "totalPoints": 1102
+        "totalPoints": 1110
       }
     ]
   }

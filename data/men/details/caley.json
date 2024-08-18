@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182551,
-  "fetchedDate": "17 Aug 2024, 23:11 GMT",
+  "fetchedDate": "18 Aug 2024, 23:13 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 14599,
+    "totalPoints": 14739,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -486,6 +486,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Pologne - General classification",
+            "date": "18 Aug 2024",
+            "points": 140,
+            "rank": 6
+          },
+          {
             "name": "Tour de Pologne - Stage 6",
             "date": "17 Aug 2024",
             "points": 3,
@@ -576,7 +582,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 718
+        "totalPoints": 858
       },
       {
         "name": "Victor Lafay",

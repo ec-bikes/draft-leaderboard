@@ -2,16 +2,16 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182551,
-  "fetchedDate": "17 Aug 2024, 23:11 GMT",
+  "fetchedDate": "18 Aug 2024, 23:13 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 12673,
+    "totalPoints": 12723,
     "riders": [
       {
         "name": "Adam Yates",
         "id": 70590,
-        "sanctions": 25,
+        "sanctions": 40,
         "results": [
           {
             "name": "Tour de France - General classification",
@@ -426,7 +426,7 @@
       {
         "name": "João Almeida",
         "id": 107840,
-        "sanctions": 50,
+        "sanctions": 65,
         "results": [
           {
             "name": "La Vuelta Ciclista a España - Stage 1 (ITT)",
@@ -718,13 +718,18 @@
       {
         "name": "Brandon McNulty",
         "id": 150923,
-        "sanctions": 0,
+        "sanctions": 15,
         "results": [
           {
             "name": "La Vuelta Ciclista a España - Stage 1 (ITT)",
             "date": "17 Aug 2024",
             "points": 180,
             "rank": 1
+          },
+          {
+            "name": "La Vuelta Ciclista a España - Stage 1 (ITT) - Bonus",
+            "date": "17 Aug 2024",
+            "points": 20
           },
           {
             "name": "Donostia San Sebastian Klasikoa",
@@ -896,7 +901,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1907
+        "totalPoints": 1927
       },
       {
         "name": "Cian Uijtdebroeks",
@@ -1147,6 +1152,12 @@
         "sanctions": 20,
         "results": [
           {
+            "name": "Tour de Pologne - Stage 7",
+            "date": "18 Aug 2024",
+            "points": 10,
+            "rank": 6
+          },
+          {
             "name": "Tour de Pologne - Stage 5",
             "date": "16 Aug 2024",
             "points": 30,
@@ -1236,13 +1247,19 @@
             "rank": 8
           }
         ],
-        "totalPoints": 810
+        "totalPoints": 820
       },
       {
         "name": "Casper van Uden",
         "id": 226805,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Pologne - Stage 7",
+            "date": "18 Aug 2024",
+            "points": 20,
+            "rank": 4
+          },
           {
             "name": "Tour de Pologne - Stage 5",
             "date": "16 Aug 2024",
@@ -1356,7 +1373,7 @@
             "points": 3
           }
         ],
-        "totalPoints": 366
+        "totalPoints": 386
       }
     ]
   }

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182557,
-  "fetchedDate": "17 Aug 2024, 23:10 GMT",
+  "fetchedDate": "18 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 10208,
+    "totalPoints": 10256,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -277,6 +277,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France Femmes avec Zwift - General classification",
+            "date": "18 Aug 2024",
+            "points": 24,
+            "rank": 18
+          },
+          {
             "name": "Tour de France Femmes avec Zwift - Stage 6",
             "date": "16 Aug 2024",
             "points": 30,
@@ -337,7 +343,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 342
+        "totalPoints": 366
       },
       {
         "name": "Chloe Dygert",
@@ -382,6 +388,12 @@
         "id": 398547,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - General classification",
+            "date": "18 Aug 2024",
+            "points": 16,
+            "rank": 26
+          },
           {
             "name": "Olympic Games WE - Road Race",
             "date": "04 Aug 2024",
@@ -549,7 +561,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1418
+        "totalPoints": 1434
       },
       {
         "name": "Christina Schweinberger",
@@ -684,6 +696,12 @@
         "id": 1987823,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - General classification",
+            "date": "18 Aug 2024",
+            "points": 8,
+            "rank": 32
+          },
           {
             "name": "Giro d'Italia Women - General classification",
             "date": "14 Jul 2024",
@@ -823,7 +841,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1583
+        "totalPoints": 1591
       },
       {
         "name": "Rosita Reijnhout",

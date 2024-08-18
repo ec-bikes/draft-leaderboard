@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182551,
-  "fetchedDate": "17 Aug 2024, 23:11 GMT",
+  "fetchedDate": "18 Aug 2024, 23:13 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 9543,
+    "totalPoints": 9792,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -320,6 +320,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Pologne - General classification",
+            "date": "18 Aug 2024",
+            "points": 8,
+            "rank": 38
+          },
+          {
             "name": "Tour de France - General classification",
             "date": "21 Jul 2024",
             "points": 40,
@@ -427,7 +433,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1661
+        "totalPoints": 1669
       },
       {
         "name": "Jai Hindley",
@@ -635,6 +641,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Pologne - General classification",
+            "date": "18 Aug 2024",
+            "points": 16,
+            "rank": 29
+          },
+          {
             "name": "Olympic Games ME - Road Race",
             "date": "03 Aug 2024",
             "points": 15,
@@ -719,13 +731,19 @@
             "rank": 14
           }
         ],
-        "totalPoints": 282
+        "totalPoints": 298
       },
       {
         "name": "Bryan Coquard",
         "id": 68950,
         "sanctions": 0,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - Stage 2",
+            "date": "18 Aug 2024",
+            "points": 5,
+            "rank": 14
+          },
           {
             "name": "Tour de France - Points classification",
             "date": "21 Jul 2024",
@@ -853,13 +871,19 @@
             "rank": 2
           }
         ],
-        "totalPoints": 666
+        "totalPoints": 671
       },
       {
         "name": "Romain Grégoire",
         "id": 1759422,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Pologne - General classification",
+            "date": "18 Aug 2024",
+            "points": 220,
+            "rank": 4
+          },
           {
             "name": "Tour de Pologne - Stage 3",
             "date": "14 Aug 2024",
@@ -999,7 +1023,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 695
+        "totalPoints": 915
       },
       {
         "name": "Jack Haig",

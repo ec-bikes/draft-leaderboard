@@ -2,17 +2,28 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182551,
-  "fetchedDate": "17 Aug 2024, 23:11 GMT",
+  "fetchedDate": "18 Aug 2024, 23:13 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 7953,
+    "totalPoints": 8136,
     "riders": [
       {
         "name": "Wout van Aert",
         "id": 75859,
         "sanctions": 0,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - Stage 2",
+            "date": "18 Aug 2024",
+            "points": 130,
+            "rank": 2
+          },
+          {
+            "name": "La Vuelta Ciclista a España - Stage 2 - Bonus",
+            "date": "18 Aug 2024",
+            "points": 20
+          },
           {
             "name": "La Vuelta Ciclista a España - Stage 1 (ITT)",
             "date": "17 Aug 2024",
@@ -134,7 +145,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 1895
+        "totalPoints": 2045
       },
       {
         "name": "Juan Ayuso",
@@ -442,6 +453,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Pologne - General classification",
+            "date": "18 Aug 2024",
+            "points": 8,
+            "rank": 35
+          },
+          {
             "name": "Tour de France - Stage 1",
             "date": "29 Jun 2024",
             "points": 35,
@@ -538,7 +555,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 960
+        "totalPoints": 968
       },
       {
         "name": "Alexey Lutsenko",
@@ -663,6 +680,12 @@
         "sanctions": 10,
         "results": [
           {
+            "name": "Tour de Pologne - Stage 7",
+            "date": "18 Aug 2024",
+            "points": 25,
+            "rank": 3
+          },
+          {
             "name": "Tour de Pologne - Stage 4",
             "date": "15 Aug 2024",
             "points": 8,
@@ -776,7 +799,7 @@
             "rank": 19
           }
         ],
-        "totalPoints": 657
+        "totalPoints": 682
       },
       {
         "name": "Wout Poels",

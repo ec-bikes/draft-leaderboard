@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182557,
-  "fetchedDate": "17 Aug 2024, 23:10 GMT",
+  "fetchedDate": "18 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 10712,
+    "totalPoints": 11004,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -286,6 +286,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France Femmes avec Zwift - General classification",
+            "date": "18 Aug 2024",
+            "points": 16,
+            "rank": 28
+          },
+          {
             "name": "Olympic Games WE - Road Race",
             "date": "04 Aug 2024",
             "points": 20,
@@ -375,7 +381,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 606
+        "totalPoints": 622
       },
       {
         "name": "Silvia Persico",
@@ -492,6 +498,18 @@
         "id": 303036,
         "sanctions": 5,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - General classification",
+            "date": "18 Aug 2024",
+            "points": 180,
+            "rank": 5
+          },
+          {
+            "name": "Tour de France Femmes avec Zwift - Stage 8",
+            "date": "18 Aug 2024",
+            "points": 20,
+            "rank": 5
+          },
           {
             "name": "Tour de France Femmes avec Zwift - Stage 7",
             "date": "17 Aug 2024",
@@ -618,7 +636,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 797
+        "totalPoints": 997
       },
       {
         "name": "Amanda Spratt",
@@ -902,6 +920,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France Femmes avec Zwift - General classification",
+            "date": "18 Aug 2024",
+            "points": 8,
+            "rank": 38
+          },
+          {
             "name": "Tour de France Femmes avec Zwift - Stage 5",
             "date": "15 Aug 2024",
             "points": 25,
@@ -1022,7 +1046,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 1275
+        "totalPoints": 1283
       },
       {
         "name": "Anna Henderson",
@@ -1077,6 +1101,12 @@
         "tradedIn": true,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - General classification",
+            "date": "18 Aug 2024",
+            "points": 68,
+            "rank": 10
+          },
           {
             "name": "Tour de France Femmes avec Zwift - Stage 7",
             "date": "17 Aug 2024",
@@ -1258,7 +1288,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 1101
+        "totalPoints": 1169
       }
     ]
   }

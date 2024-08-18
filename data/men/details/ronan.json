@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182551,
-  "fetchedDate": "17 Aug 2024, 23:11 GMT",
+  "fetchedDate": "18 Aug 2024, 23:13 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 13656,
+    "totalPoints": 13706,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -459,6 +459,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Pologne - Stage 7",
+            "date": "18 Aug 2024",
+            "points": 50,
+            "rank": 1
+          },
+          {
             "name": "Tour de Pologne - Stage 5",
             "date": "16 Aug 2024",
             "points": 25,
@@ -566,7 +572,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1142
+        "totalPoints": 1192
       },
       {
         "name": "Jonathan Milan",
@@ -1160,7 +1166,7 @@
       {
         "name": "Isaac del Toro",
         "id": 2002910,
-        "sanctions": 50,
+        "sanctions": 65,
         "results": [
           {
             "name": "Donostia San Sebastian Klasikoa",

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182551,
-  "fetchedDate": "17 Aug 2024, 23:11 GMT",
+  "fetchedDate": "18 Aug 2024, 23:13 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 12728,
+    "totalPoints": 13236,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -14,10 +14,21 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Pologne - General classification",
+            "date": "18 Aug 2024",
+            "points": 400,
+            "rank": 1
+          },
+          {
             "name": "Tour de Pologne - Stage 6",
             "date": "17 Aug 2024",
             "points": 20,
             "rank": 4
+          },
+          {
+            "name": "Tour de Pologne - Stage 6 - Bonus",
+            "date": "17 Aug 2024",
+            "points": 8
           },
           {
             "name": "Tour de Pologne - Stage 5 - Bonus",
@@ -198,7 +209,7 @@
             "points": 3
           }
         ],
-        "totalPoints": 3128
+        "totalPoints": 3536
       },
       {
         "name": "Christophe Laporte",
@@ -1010,6 +1021,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "PostNord Tour of Denmark - General classification",
+            "date": "18 Aug 2024",
+            "points": 100,
+            "rank": 4
+          },
+          {
             "name": "PostNord Tour of Denmark - Stage 2",
             "date": "15 Aug 2024",
             "points": 10,
@@ -1058,7 +1075,7 @@
             "rank": 31
           }
         ],
-        "totalPoints": 153
+        "totalPoints": 253
       }
     ]
   }

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182557,
-  "fetchedDate": "17 Aug 2024, 23:10 GMT",
+  "fetchedDate": "18 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 13941,
+    "totalPoints": 14247,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -475,6 +475,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France Femmes avec Zwift - General classification",
+            "date": "18 Aug 2024",
+            "points": 16,
+            "rank": 27
+          },
+          {
             "name": "Olympic Games WE - Road Race",
             "date": "04 Aug 2024",
             "points": 20,
@@ -587,7 +593,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1322
+        "totalPoints": 1338
       },
       {
         "name": "Emma Norsgaard",
@@ -710,6 +716,18 @@
         "id": 109412,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - General classification",
+            "date": "18 Aug 2024",
+            "points": 220,
+            "rank": 4
+          },
+          {
+            "name": "Tour de France Femmes avec Zwift - Stage 8",
+            "date": "18 Aug 2024",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Tour de France Femmes avec Zwift - Stage 7",
             "date": "17 Aug 2024",
@@ -891,7 +909,7 @@
             "rank": 22
           }
         ],
-        "totalPoints": 1680
+        "totalPoints": 1930
       },
       {
         "name": "Chiara Consonni",
@@ -1143,6 +1161,18 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France Femmes avec Zwift - General classification",
+            "date": "18 Aug 2024",
+            "points": 32,
+            "rank": 14
+          },
+          {
+            "name": "Tour de France Femmes avec Zwift - Stage 8",
+            "date": "18 Aug 2024",
+            "points": 8,
+            "rank": 9
+          },
+          {
             "name": "Tour de France Femmes avec Zwift - Stage 4",
             "date": "14 Aug 2024",
             "points": 8,
@@ -1251,7 +1281,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 666
+        "totalPoints": 706
       },
       {
         "name": "Kim Cadzow",

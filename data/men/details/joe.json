@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182551,
-  "fetchedDate": "17 Aug 2024, 23:11 GMT",
+  "fetchedDate": "18 Aug 2024, 23:13 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 15082,
+    "totalPoints": 15120,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -481,6 +481,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Pologne - Stage 7",
+            "date": "18 Aug 2024",
+            "points": 30,
+            "rank": 2
+          },
+          {
             "name": "Tour de Pologne - Stage 5",
             "date": "16 Aug 2024",
             "points": 50,
@@ -641,7 +647,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1872
+        "totalPoints": 1902
       },
       {
         "name": "Julian Alaphilippe",
@@ -1148,6 +1154,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Pologne - General classification",
+            "date": "18 Aug 2024",
+            "points": 8,
+            "rank": 34
+          },
+          {
             "name": "Tour de Pologne - Stage 6",
             "date": "17 Aug 2024",
             "points": 10,
@@ -1184,7 +1196,7 @@
             "rank": 25
           }
         ],
-        "totalPoints": 111
+        "totalPoints": 119
       }
     ]
   }

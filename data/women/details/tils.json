@@ -2,17 +2,29 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182557,
-  "fetchedDate": "17 Aug 2024, 23:10 GMT",
+  "fetchedDate": "18 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 13662,
+    "totalPoints": 14723,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - General classification",
+            "date": "18 Aug 2024",
+            "points": 320,
+            "rank": 2
+          },
+          {
+            "name": "Tour de France Femmes avec Zwift - Stage 8",
+            "date": "18 Aug 2024",
+            "points": 50,
+            "rank": 1
+          },
           {
             "name": "Tour de France Femmes avec Zwift - Stage 7",
             "date": "17 Aug 2024",
@@ -250,13 +262,25 @@
             "rank": 6
           }
         ],
-        "totalPoints": 3738
+        "totalPoints": 4108
       },
       {
         "name": "Kasia Niewiadoma",
         "id": 86824,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - General classification",
+            "date": "18 Aug 2024",
+            "points": 400,
+            "rank": 1
+          },
+          {
+            "name": "Tour de France Femmes avec Zwift - Stage 8",
+            "date": "18 Aug 2024",
+            "points": 25,
+            "rank": 4
+          },
           {
             "name": "Tour de France Femmes avec Zwift - Stage 7",
             "date": "17 Aug 2024",
@@ -405,13 +429,19 @@
             "rank": 4
           }
         ],
-        "totalPoints": 2119
+        "totalPoints": 2544
       },
       {
         "name": "Juliette Labous",
         "id": 97498,
         "sanctions": 15,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - General classification",
+            "date": "18 Aug 2024",
+            "points": 80,
+            "rank": 9
+          },
           {
             "name": "Tour de France Femmes avec Zwift - Stage 7",
             "date": "17 Aug 2024",
@@ -599,7 +629,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 1748
+        "totalPoints": 1828
       },
       {
         "name": "Charlotte Kool",
@@ -889,6 +919,18 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France Femmes avec Zwift - General classification",
+            "date": "18 Aug 2024",
+            "points": 120,
+            "rank": 7
+          },
+          {
+            "name": "Tour de France Femmes avec Zwift - Stage 8",
+            "date": "18 Aug 2024",
+            "points": 10,
+            "rank": 8
+          },
+          {
             "name": "Internationale LOTTO Thüringen Ladies Tour - General classification",
             "date": "30 Jun 2024",
             "points": 10,
@@ -954,7 +996,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 592
+        "totalPoints": 722
       },
       {
         "name": "Ella Wyllie",
@@ -1307,6 +1349,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de France Femmes avec Zwift - General classification",
+            "date": "18 Aug 2024",
+            "points": 56,
+            "rank": 11
+          },
+          {
             "name": "Tour de France Femmes avec Zwift - Stage 7",
             "date": "17 Aug 2024",
             "points": 15,
@@ -1379,7 +1427,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 1111
+        "totalPoints": 1167
       }
     ]
   }
