@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182551,
-  "fetchedDate": "18 Aug 2024, 23:13 GMT",
+  "fetchedDate": "19 Aug 2024, 23:13 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 9792,
+    "totalPoints": 9827,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -739,6 +739,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 3",
+            "date": "19 Aug 2024",
+            "points": 35,
+            "rank": 8
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 2",
             "date": "18 Aug 2024",
             "points": 5,
@@ -871,7 +877,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 671
+        "totalPoints": 706
       },
       {
         "name": "Romain Grégoire",

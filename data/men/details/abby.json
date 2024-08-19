@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182551,
-  "fetchedDate": "18 Aug 2024, 23:13 GMT",
+  "fetchedDate": "19 Aug 2024, 23:13 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 13896,
+    "totalPoints": 14026,
     "riders": [
       {
         "name": "Mads Pedersen",
@@ -518,6 +518,12 @@
         "sanctions": 50,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 3",
+            "date": "19 Aug 2024",
+            "points": 130,
+            "rank": 2
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 2",
             "date": "18 Aug 2024",
             "points": 180,
@@ -596,7 +602,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 981
+        "totalPoints": 1111
       },
       {
         "name": "Toms Skujiņš",
