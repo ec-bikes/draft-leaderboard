@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 182551,
-  "fetchedDate": "19 Aug 2024, 23:13 GMT",
+  "momentId": 182603,
+  "fetchedDate": "20 Aug 2024, 23:13 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 14026,
+    "totalPoints": 14046,
     "riders": [
       {
         "name": "Mads Pedersen",
@@ -190,6 +190,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 4",
+            "date": "20 Aug 2024",
+            "points": 20,
+            "rank": 11
+          },
+          {
             "name": "Donostia San Sebastian Klasikoa",
             "date": "10 Aug 2024",
             "points": 8,
@@ -260,7 +266,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 404
+        "totalPoints": 424
       },
       {
         "name": "Matteo Jorgenson",

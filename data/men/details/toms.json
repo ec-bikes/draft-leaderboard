@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 182551,
-  "fetchedDate": "19 Aug 2024, 23:13 GMT",
+  "momentId": 182603,
+  "fetchedDate": "20 Aug 2024, 23:13 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 12723,
+    "totalPoints": 12818,
     "riders": [
       {
         "name": "Adam Yates",
@@ -429,6 +429,12 @@
         "sanctions": 65,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 4",
+            "date": "20 Aug 2024",
+            "points": 95,
+            "rank": 3
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 1 (ITT)",
             "date": "17 Aug 2024",
             "points": 25,
@@ -573,7 +579,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 2047
+        "totalPoints": 2142
       },
       {
         "name": "Kévin Vauquelin",

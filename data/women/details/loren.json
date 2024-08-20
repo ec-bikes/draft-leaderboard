@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 182557,
-  "fetchedDate": "19 Aug 2024, 23:12 GMT",
+  "momentId": 182621,
+  "fetchedDate": "20 Aug 2024, 23:13 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 14247,
+    "totalPoints": 14267,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -917,6 +917,12 @@
         "sanctions": 15,
         "results": [
           {
+            "name": "Egmont Cycling Race Women",
+            "date": "20 Aug 2024",
+            "points": 20,
+            "rank": 4
+          },
+          {
             "name": "Giro d'Italia Women - Stage 5",
             "date": "11 Jul 2024",
             "points": 40,
@@ -1055,7 +1061,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1500
+        "totalPoints": 1520
       },
       {
         "name": "Daria Pikulik",

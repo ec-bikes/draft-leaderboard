@@ -1,18 +1,29 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 182551,
-  "fetchedDate": "19 Aug 2024, 23:13 GMT",
+  "momentId": 182603,
+  "fetchedDate": "20 Aug 2024, 23:13 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 13706,
+    "totalPoints": 13906,
     "riders": [
       {
         "name": "Primož Roglič",
         "id": 88889,
         "sanctions": 0,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - Stage 4",
+            "date": "20 Aug 2024",
+            "points": 180,
+            "rank": 1
+          },
+          {
+            "name": "La Vuelta Ciclista a España - Stage 4 - Bonus",
+            "date": "20 Aug 2024",
+            "points": 20
+          },
           {
             "name": "La Vuelta Ciclista a España - Stage 1 (ITT)",
             "date": "17 Aug 2024",
@@ -135,7 +146,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 1256
+        "totalPoints": 1456
       },
       {
         "name": "Biniam Girmay",
