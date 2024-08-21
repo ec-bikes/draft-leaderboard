@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182603,
-  "fetchedDate": "20 Aug 2024, 23:13 GMT",
+  "fetchedDate": "21 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 14046,
+    "totalPoints": 14156,
     "riders": [
       {
         "name": "Mads Pedersen",
         "id": 86895,
         "sanctions": 10,
         "results": [
+          {
+            "name": "Lidl Deutschland Tour - Prologue",
+            "date": "21 Aug 2024",
+            "points": 15,
+            "rank": 2
+          },
           {
             "name": "Tour de Pologne - Stage 4",
             "date": "15 Aug 2024",
@@ -182,7 +188,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 2255
+        "totalPoints": 2270
       },
       {
         "name": "Sepp Kuss",
@@ -524,6 +530,12 @@
         "sanctions": 50,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 5",
+            "date": "21 Aug 2024",
+            "points": 95,
+            "rank": 3
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 3",
             "date": "19 Aug 2024",
             "points": 130,
@@ -608,7 +620,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 1111
+        "totalPoints": 1206
       },
       {
         "name": "Toms Skujiņš",

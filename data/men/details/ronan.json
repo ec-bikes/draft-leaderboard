@@ -2,17 +2,22 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182603,
-  "fetchedDate": "20 Aug 2024, 23:13 GMT",
+  "fetchedDate": "21 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 13906,
+    "totalPoints": 13991,
     "riders": [
       {
         "name": "Primož Roglič",
         "id": 88889,
         "sanctions": 0,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - Stage 5 - Bonus",
+            "date": "21 Aug 2024",
+            "points": 20
+          },
           {
             "name": "La Vuelta Ciclista a España - Stage 4",
             "date": "20 Aug 2024",
@@ -146,7 +151,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 1456
+        "totalPoints": 1476
       },
       {
         "name": "Biniam Girmay",
@@ -591,6 +596,17 @@
         "sanctions": 15,
         "results": [
           {
+            "name": "Lidl Deutschland Tour - Prologue",
+            "date": "21 Aug 2024",
+            "points": 20,
+            "rank": 1
+          },
+          {
+            "name": "Lidl Deutschland Tour - Prologue - Bonus",
+            "date": "21 Aug 2024",
+            "points": 5
+          },
+          {
             "name": "National Championships Italy ME - ITT",
             "date": "20 Jun 2024",
             "points": 15,
@@ -716,7 +732,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 1878
+        "totalPoints": 1903
       },
       {
         "name": "Richard Carapaz",
@@ -869,6 +885,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 5",
+            "date": "21 Aug 2024",
+            "points": 40,
+            "rank": 7
+          },
+          {
             "name": "Donostia San Sebastian Klasikoa",
             "date": "10 Aug 2024",
             "points": 180,
@@ -1000,7 +1022,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 1610
+        "totalPoints": 1650
       },
       {
         "name": "Sam Bennett",
