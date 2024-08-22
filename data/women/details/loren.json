@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182621,
-  "fetchedDate": "21 Aug 2024, 23:11 GMT",
+  "fetchedDate": "22 Aug 2024, 23:11 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 14267,
+    "totalPoints": 14277,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -917,6 +917,12 @@
         "sanctions": 15,
         "results": [
           {
+            "name": "GP Lucien Van Impe",
+            "date": "22 Aug 2024",
+            "points": 10,
+            "rank": 6
+          },
+          {
             "name": "Egmont Cycling Race Women",
             "date": "20 Aug 2024",
             "points": 20,
@@ -1061,7 +1067,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1520
+        "totalPoints": 1530
       },
       {
         "name": "Daria Pikulik",

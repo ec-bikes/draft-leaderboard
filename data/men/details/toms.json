@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182603,
-  "fetchedDate": "21 Aug 2024, 23:12 GMT",
+  "fetchedDate": "22 Aug 2024, 23:11 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 12818,
+    "totalPoints": 12833,
     "riders": [
       {
         "name": "Adam Yates",
@@ -1158,6 +1158,12 @@
         "sanctions": 20,
         "results": [
           {
+            "name": "Lidl Deutschland Tour - Stage 1",
+            "date": "22 Aug 2024",
+            "points": 15,
+            "rank": 2
+          },
+          {
             "name": "Tour de Pologne - Stage 7",
             "date": "18 Aug 2024",
             "points": 10,
@@ -1253,7 +1259,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 820
+        "totalPoints": 835
       },
       {
         "name": "Casper van Uden",
