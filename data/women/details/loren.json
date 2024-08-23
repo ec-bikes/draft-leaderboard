@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182621,
-  "fetchedDate": "22 Aug 2024, 23:11 GMT",
+  "fetchedDate": "23 Aug 2024, 23:11 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 14277,
+    "totalPoints": 14432,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -917,6 +917,12 @@
         "sanctions": 15,
         "results": [
           {
+            "name": "Konvert Koerse",
+            "date": "23 Aug 2024",
+            "points": 85,
+            "rank": 2
+          },
+          {
             "name": "GP Lucien Van Impe",
             "date": "22 Aug 2024",
             "points": 10,
@@ -1067,13 +1073,19 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1530
+        "totalPoints": 1615
       },
       {
         "name": "Daria Pikulik",
         "id": 99885,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Konvert Koerse",
+            "date": "23 Aug 2024",
+            "points": 70,
+            "rank": 3
+          },
           {
             "name": "Tour de France Femmes avec Zwift - Stage 1",
             "date": "12 Aug 2024",
@@ -1165,7 +1177,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 939
+        "totalPoints": 1009
       },
       {
         "name": "Niamh Fisher-Black",

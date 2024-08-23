@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182603,
-  "fetchedDate": "22 Aug 2024, 23:11 GMT",
+  "fetchedDate": "23 Aug 2024, 23:11 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 14046,
+    "totalPoints": 14056,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -751,6 +751,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 7",
+            "date": "23 Aug 2024",
+            "points": 10,
+            "rank": 13
+          },
+          {
             "name": "Tour de France - Mountains classification",
             "date": "21 Jul 2024",
             "points": 210,
@@ -888,7 +894,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1349
+        "totalPoints": 1359
       },
       {
         "name": "Jhonatan Narváez",

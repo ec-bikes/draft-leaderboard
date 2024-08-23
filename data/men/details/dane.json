@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182603,
-  "fetchedDate": "22 Aug 2024, 23:11 GMT",
+  "fetchedDate": "23 Aug 2024, 23:11 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 13346,
+    "totalPoints": 13445,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -770,6 +770,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 7",
+            "date": "23 Aug 2024",
+            "points": 80,
+            "rank": 4
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 5",
             "date": "21 Aug 2024",
             "points": 60,
@@ -896,7 +902,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1402
+        "totalPoints": 1482
       },
       {
         "name": "Fabio Jakobsen",
@@ -964,6 +970,18 @@
         "id": 64670,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour Poitou - Charentes en Nouvelle Aquitaine - General classification",
+            "date": "23 Aug 2024",
+            "points": 5,
+            "rank": 13
+          },
+          {
+            "name": "Tour Poitou - Charentes en Nouvelle Aquitaine - Stage 4",
+            "date": "23 Aug 2024",
+            "points": 14,
+            "rank": 1
+          },
           {
             "name": "Tour Poitou - Charentes en Nouvelle Aquitaine - Stage 2",
             "date": "21 Aug 2024",
@@ -1037,7 +1055,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 236
+        "totalPoints": 255
       },
       {
         "name": "Søren Kragh Andersen",
