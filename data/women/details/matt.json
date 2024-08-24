@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182621,
-  "fetchedDate": "23 Aug 2024, 23:11 GMT",
+  "fetchedDate": "24 Aug 2024, 23:11 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 11004,
+    "totalPoints": 11012,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -742,6 +742,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Classic Lorient Agglomération - Trophée CERATIZIT",
+            "date": "24 Aug 2024",
+            "points": 8,
+            "rank": 40
+          },
+          {
             "name": "Olympic Games WE - Road Race",
             "date": "04 Aug 2024",
             "points": 10,
@@ -814,7 +820,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 383
+        "totalPoints": 391
       },
       {
         "name": "Antonia Niedermaier",

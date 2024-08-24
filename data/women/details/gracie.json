@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182621,
-  "fetchedDate": "23 Aug 2024, 23:11 GMT",
+  "fetchedDate": "24 Aug 2024, 23:11 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 10256,
+    "totalPoints": 10876,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -277,6 +277,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Classic Lorient Agglomération - Trophée CERATIZIT",
+            "date": "24 Aug 2024",
+            "points": 260,
+            "rank": 3
+          },
+          {
             "name": "Tour de France Femmes avec Zwift - General classification",
             "date": "18 Aug 2024",
             "points": 24,
@@ -343,13 +349,19 @@
             "rank": 8
           }
         ],
-        "totalPoints": 366
+        "totalPoints": 626
       },
       {
         "name": "Chloe Dygert",
         "id": 109716,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Classic Lorient Agglomération - Trophée CERATIZIT",
+            "date": "24 Aug 2024",
+            "points": 320,
+            "rank": 2
+          },
           {
             "name": "Tour de France Femmes avec Zwift - Stage 3 (ITT)",
             "date": "13 Aug 2024",
@@ -381,7 +393,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 428
+        "totalPoints": 748
       },
       {
         "name": "Mavi Garcia",
@@ -1136,6 +1148,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Classic Lorient Agglomération - Trophée CERATIZIT",
+            "date": "24 Aug 2024",
+            "points": 40,
+            "rank": 13
+          },
+          {
             "name": "Princess Anna Vasa Tour - General classification",
             "date": "28 Jul 2024",
             "points": 20,
@@ -1196,7 +1214,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 783
+        "totalPoints": 823
       }
     ]
   }

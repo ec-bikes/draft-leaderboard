@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182603,
-  "fetchedDate": "23 Aug 2024, 23:11 GMT",
+  "fetchedDate": "24 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 14056,
+    "totalPoints": 14261,
     "riders": [
       {
         "name": "Primož Roglič",
         "id": 88889,
         "sanctions": 0,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - Stage 8",
+            "date": "24 Aug 2024",
+            "points": 180,
+            "rank": 1
+          },
           {
             "name": "La Vuelta Ciclista a España - Stage 5 - Bonus",
             "date": "21 Aug 2024",
@@ -151,7 +157,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 1476
+        "totalPoints": 1656
       },
       {
         "name": "Biniam Girmay",
@@ -596,6 +602,12 @@
         "sanctions": 15,
         "results": [
           {
+            "name": "Lidl Deutschland Tour - Stage 3",
+            "date": "24 Aug 2024",
+            "points": 20,
+            "rank": 1
+          },
+          {
             "name": "Lidl Deutschland Tour - Stage 1",
             "date": "22 Aug 2024",
             "points": 20,
@@ -743,13 +755,19 @@
             "rank": 5
           }
         ],
-        "totalPoints": 1928
+        "totalPoints": 1948
       },
       {
         "name": "Richard Carapaz",
         "id": 91656,
         "sanctions": 0,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - Stage 8",
+            "date": "24 Aug 2024",
+            "points": 5,
+            "rank": 14
+          },
           {
             "name": "La Vuelta Ciclista a España - Stage 7",
             "date": "23 Aug 2024",
@@ -894,7 +912,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1359
+        "totalPoints": 1364
       },
       {
         "name": "Jhonatan Narváez",

@@ -2,17 +2,22 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182603,
-  "fetchedDate": "23 Aug 2024, 23:11 GMT",
+  "fetchedDate": "24 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 14406,
+    "totalPoints": 14431,
     "riders": [
       {
         "name": "Mads Pedersen",
         "id": 86895,
         "sanctions": 10,
         "results": [
+          {
+            "name": "Lidl Deutschland Tour - Stage 3 - Bonus",
+            "date": "24 Aug 2024",
+            "points": 5
+          },
           {
             "name": "Lidl Deutschland Tour - Stage 2",
             "date": "23 Aug 2024",
@@ -199,7 +204,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 2295
+        "totalPoints": 2300
       },
       {
         "name": "Sepp Kuss",
@@ -1047,6 +1052,11 @@
         "sanctions": 15,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 8 - Bonus",
+            "date": "24 Aug 2024",
+            "points": 20
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 7 - Bonus",
             "date": "23 Aug 2024",
             "points": 20
@@ -1195,7 +1205,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 2011
+        "totalPoints": 2031
       },
       {
         "name": "Benoît Cosnefroy",

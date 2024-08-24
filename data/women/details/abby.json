@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182621,
-  "fetchedDate": "23 Aug 2024, 23:11 GMT",
+  "fetchedDate": "24 Aug 2024, 23:11 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 12365,
+    "totalPoints": 12985,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -316,6 +316,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Classic Lorient Agglomération - Trophée CERATIZIT",
+            "date": "24 Aug 2024",
+            "points": 8,
+            "rank": 31
+          },
+          {
             "name": "Tour de France Femmes avec Zwift - General classification",
             "date": "18 Aug 2024",
             "points": 40,
@@ -454,13 +460,19 @@
             "rank": 4
           }
         ],
-        "totalPoints": 1525
+        "totalPoints": 1533
       },
       {
         "name": "Mischa Bredewold",
         "id": 227721,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Classic Lorient Agglomération - Trophée CERATIZIT",
+            "date": "24 Aug 2024",
+            "points": 400,
+            "rank": 1
+          },
           {
             "name": "Tour de France Femmes avec Zwift - Stage 3 (ITT)",
             "date": "13 Aug 2024",
@@ -586,7 +598,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 950
+        "totalPoints": 1350
       },
       {
         "name": "Arlenis Sierra",
@@ -1100,6 +1112,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Classic Lorient Agglomération - Trophée CERATIZIT",
+            "date": "24 Aug 2024",
+            "points": 32,
+            "rank": 14
+          },
+          {
             "name": "Giro d'Italia Women - Stage 4",
             "date": "10 Jul 2024",
             "points": 40,
@@ -1184,7 +1202,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 746
+        "totalPoints": 778
       },
       {
         "name": "Alison Jackson",
@@ -1243,6 +1261,12 @@
         "tradedIn": true,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Classic Lorient Agglomération - Trophée CERATIZIT",
+            "date": "24 Aug 2024",
+            "points": 180,
+            "rank": 5
+          },
           {
             "name": "Tour de France Femmes avec Zwift - General classification",
             "date": "18 Aug 2024",
@@ -1400,7 +1424,7 @@
             "rank": 14
           }
         ],
-        "totalPoints": 1110
+        "totalPoints": 1290
       }
     ]
   }

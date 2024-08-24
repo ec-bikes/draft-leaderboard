@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182603,
-  "fetchedDate": "23 Aug 2024, 23:11 GMT",
+  "fetchedDate": "24 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 12833,
+    "totalPoints": 12903,
     "riders": [
       {
         "name": "Adam Yates",
@@ -168,6 +168,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 8",
+            "date": "24 Aug 2024",
+            "points": 60,
+            "rank": 5
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 1 (ITT)",
             "date": "17 Aug 2024",
             "points": 10,
@@ -311,7 +317,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1579
+        "totalPoints": 1639
       },
       {
         "name": "Valentin Madouas",
@@ -1158,6 +1164,12 @@
         "sanctions": 20,
         "results": [
           {
+            "name": "Lidl Deutschland Tour - Stage 3",
+            "date": "24 Aug 2024",
+            "points": 10,
+            "rank": 3
+          },
+          {
             "name": "Lidl Deutschland Tour - Stage 1",
             "date": "22 Aug 2024",
             "points": 15,
@@ -1259,7 +1271,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 835
+        "totalPoints": 845
       },
       {
         "name": "Casper van Uden",

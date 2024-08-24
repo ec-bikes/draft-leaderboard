@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182621,
-  "fetchedDate": "23 Aug 2024, 23:11 GMT",
+  "fetchedDate": "24 Aug 2024, 23:11 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 14432,
+    "totalPoints": 14652,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -339,6 +339,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Classic Lorient Agglomération - Trophée CERATIZIT",
+            "date": "24 Aug 2024",
+            "points": 220,
+            "rank": 4
+          },
+          {
             "name": "Tour de France Femmes avec Zwift - Stage 2",
             "date": "13 Aug 2024",
             "points": 20,
@@ -434,7 +440,7 @@
             "points": 5
           }
         ],
-        "totalPoints": 2043
+        "totalPoints": 2263
       },
       {
         "name": "Maike van der Duin",

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182603,
-  "fetchedDate": "23 Aug 2024, 23:11 GMT",
+  "fetchedDate": "24 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 9934,
+    "totalPoints": 9959,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -1055,6 +1055,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 8",
+            "date": "24 Aug 2024",
+            "points": 25,
+            "rank": 10
+          },
+          {
             "name": "Donostia San Sebastian Klasikoa",
             "date": "10 Aug 2024",
             "points": 16,
@@ -1103,7 +1109,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 182
+        "totalPoints": 207
       }
     ]
   }

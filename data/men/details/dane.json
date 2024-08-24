@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182603,
-  "fetchedDate": "23 Aug 2024, 23:11 GMT",
+  "fetchedDate": "24 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 13445,
+    "totalPoints": 13585,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -353,6 +353,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 8",
+            "date": "24 Aug 2024",
+            "points": 95,
+            "rank": 3
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 4",
             "date": "20 Aug 2024",
             "points": 40,
@@ -473,13 +479,19 @@
             "rank": 19
           }
         ],
-        "totalPoints": 1537
+        "totalPoints": 1632
       },
       {
         "name": "Carlos Rodriguez",
         "id": 428096,
         "sanctions": 0,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - Stage 8",
+            "date": "24 Aug 2024",
+            "points": 45,
+            "rank": 6
+          },
           {
             "name": "Tour de France - General classification",
             "date": "21 Jul 2024",
@@ -606,7 +618,7 @@
             "rank": 19
           }
         ],
-        "totalPoints": 1972
+        "totalPoints": 2017
       },
       {
         "name": "Marc Hirschi",
