@@ -2,17 +2,29 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182603,
-  "fetchedDate": "24 Aug 2024, 23:12 GMT",
+  "fetchedDate": "25 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 14431,
+    "totalPoints": 14820,
     "riders": [
       {
         "name": "Mads Pedersen",
         "id": 86895,
         "sanctions": 10,
         "results": [
+          {
+            "name": "Lidl Deutschland Tour - General classification",
+            "date": "25 Aug 2024",
+            "points": 200,
+            "rank": 1
+          },
+          {
+            "name": "Lidl Deutschland Tour - Stage 4",
+            "date": "25 Aug 2024",
+            "points": 20,
+            "rank": 1
+          },
           {
             "name": "Lidl Deutschland Tour - Stage 3 - Bonus",
             "date": "24 Aug 2024",
@@ -204,13 +216,19 @@
             "rank": 2
           }
         ],
-        "totalPoints": 2300
+        "totalPoints": 2520
       },
       {
         "name": "Sepp Kuss",
         "id": 88346,
         "sanctions": 0,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - Stage 9",
+            "date": "25 Aug 2024",
+            "points": 2,
+            "rank": 15
+          },
           {
             "name": "La Vuelta Ciclista a España - Stage 6",
             "date": "22 Aug 2024",
@@ -294,7 +312,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 429
+        "totalPoints": 431
       },
       {
         "name": "Matteo Jorgenson",
@@ -650,6 +668,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Lidl Deutschland Tour - General classification",
+            "date": "25 Aug 2024",
+            "points": 20,
+            "rank": 13
+          },
+          {
             "name": "Olympic Games ME - Road Race",
             "date": "03 Aug 2024",
             "points": 410,
@@ -746,13 +770,19 @@
             "rank": 11
           }
         ],
-        "totalPoints": 1247
+        "totalPoints": 1267
       },
       {
         "name": "Alex Aranburu",
         "id": 422863,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Bretagne Classic - Ouest-France",
+            "date": "25 Aug 2024",
+            "points": 16,
+            "rank": 29
+          },
           {
             "name": "Donostia San Sebastian Klasikoa",
             "date": "10 Aug 2024",
@@ -886,7 +916,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1082
+        "totalPoints": 1098
       },
       {
         "name": "Egan Bernal",
@@ -1052,6 +1082,17 @@
         "sanctions": 15,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 9",
+            "date": "25 Aug 2024",
+            "points": 95,
+            "rank": 3
+          },
+          {
+            "name": "La Vuelta Ciclista a España - Stage 9 - Bonus",
+            "date": "25 Aug 2024",
+            "points": 20
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 8 - Bonus",
             "date": "24 Aug 2024",
             "points": 20
@@ -1205,13 +1246,19 @@
             "rank": 1
           }
         ],
-        "totalPoints": 2031
+        "totalPoints": 2146
       },
       {
         "name": "Benoît Cosnefroy",
         "id": 79522,
         "sanctions": 10,
         "results": [
+          {
+            "name": "Bretagne Classic - Ouest-France",
+            "date": "25 Aug 2024",
+            "points": 16,
+            "rank": 26
+          },
           {
             "name": "Ethias-Tour de Wallonie - General classification",
             "date": "26 Jul 2024",
@@ -1361,7 +1408,7 @@
             "rank": 13
           }
         ],
-        "totalPoints": 1615
+        "totalPoints": 1631
       }
     ]
   }

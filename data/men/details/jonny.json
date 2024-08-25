@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182603,
-  "fetchedDate": "24 Aug 2024, 23:12 GMT",
+  "fetchedDate": "25 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 9959,
+    "totalPoints": 9997,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -246,6 +246,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 9",
+            "date": "25 Aug 2024",
+            "points": 30,
+            "rank": 9
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 6",
             "date": "22 Aug 2024",
             "points": 25,
@@ -324,7 +330,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 428
+        "totalPoints": 458
       },
       {
         "name": "Romain Bardet",
@@ -903,6 +909,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Bretagne Classic - Ouest-France",
+            "date": "25 Aug 2024",
+            "points": 8,
+            "rank": 37
+          },
+          {
             "name": "Tour de Pologne - General classification",
             "date": "18 Aug 2024",
             "points": 220,
@@ -1047,7 +1059,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 915
+        "totalPoints": 923
       },
       {
         "name": "Jack Haig",

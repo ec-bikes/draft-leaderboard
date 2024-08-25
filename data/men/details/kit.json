@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182603,
-  "fetchedDate": "24 Aug 2024, 23:12 GMT",
+  "fetchedDate": "25 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 8646,
+    "totalPoints": 8675,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -476,6 +476,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Bretagne Classic - Ouest-France",
+            "date": "25 Aug 2024",
+            "points": 24,
+            "rank": 19
+          },
+          {
             "name": "Tour de Pologne - General classification",
             "date": "18 Aug 2024",
             "points": 8,
@@ -578,7 +584,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 968
+        "totalPoints": 992
       },
       {
         "name": "Alexey Lutsenko",
@@ -830,6 +836,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Lidl Deutschland Tour - General classification",
+            "date": "25 Aug 2024",
+            "points": 5,
+            "rank": 28
+          },
+          {
             "name": "Tour de France - General classification",
             "date": "21 Jul 2024",
             "points": 25,
@@ -932,7 +944,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 508
+        "totalPoints": 513
       },
       {
         "name": "Esteban Chaves",

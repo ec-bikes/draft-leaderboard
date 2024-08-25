@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182603,
-  "fetchedDate": "24 Aug 2024, 23:12 GMT",
+  "fetchedDate": "25 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 14949,
+    "totalPoints": 15002,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -442,6 +442,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Bretagne Classic - Ouest-France",
+            "date": "25 Aug 2024",
+            "points": 4,
+            "rank": 53
+          },
+          {
             "name": "Donostia San Sebastian Klasikoa",
             "date": "10 Aug 2024",
             "points": 140,
@@ -478,7 +484,7 @@
             "rank": 22
           }
         ],
-        "totalPoints": 257
+        "totalPoints": 261
       },
       {
         "name": "Matej Mohoric",
@@ -732,6 +738,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "Bretagne Classic - Ouest-France",
+            "date": "25 Aug 2024",
+            "points": 24,
+            "rank": 17
+          },
+          {
             "name": "Olympic Games ME - Road Race",
             "date": "03 Aug 2024",
             "points": 15,
@@ -792,7 +804,7 @@
             "rank": 35
           }
         ],
-        "totalPoints": 795
+        "totalPoints": 819
       },
       {
         "name": "Josh Tarling",
@@ -896,6 +908,12 @@
         "id": 109803,
         "sanctions": 25,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - Stage 9",
+            "date": "25 Aug 2024",
+            "points": 25,
+            "rank": 10
+          },
           {
             "name": "La Vuelta Ciclista a España - Stage 8",
             "date": "24 Aug 2024",
@@ -1011,7 +1029,7 @@
             "rank": 12
           }
         ],
-        "totalPoints": 1144
+        "totalPoints": 1169
       },
       {
         "name": "Rui Costa",

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182603,
-  "fetchedDate": "24 Aug 2024, 23:12 GMT",
+  "fetchedDate": "25 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 13585,
+    "totalPoints": 14121,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -353,6 +353,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 9",
+            "date": "25 Aug 2024",
+            "points": 80,
+            "rank": 4
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 8",
             "date": "24 Aug 2024",
             "points": 95,
@@ -479,13 +485,19 @@
             "rank": 19
           }
         ],
-        "totalPoints": 1632
+        "totalPoints": 1712
       },
       {
         "name": "Carlos Rodriguez",
         "id": 428096,
         "sanctions": 0,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - Stage 9",
+            "date": "25 Aug 2024",
+            "points": 40,
+            "rank": 7
+          },
           {
             "name": "La Vuelta Ciclista a España - Stage 8",
             "date": "24 Aug 2024",
@@ -618,13 +630,19 @@
             "rank": 19
           }
         ],
-        "totalPoints": 2017
+        "totalPoints": 2057
       },
       {
         "name": "Marc Hirschi",
         "id": 111440,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Bretagne Classic - Ouest-France",
+            "date": "25 Aug 2024",
+            "points": 400,
+            "rank": 1
+          },
           {
             "name": "Donostia San Sebastian Klasikoa",
             "date": "10 Aug 2024",
@@ -774,7 +792,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 1893
+        "totalPoints": 2293
       },
       {
         "name": "Stefan Küng",
@@ -1075,6 +1093,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Bretagne Classic - Ouest-France",
+            "date": "25 Aug 2024",
+            "points": 16,
+            "rank": 21
+          },
+          {
             "name": "PostNord Tour of Denmark - General classification",
             "date": "18 Aug 2024",
             "points": 100,
@@ -1129,7 +1153,7 @@
             "rank": 31
           }
         ],
-        "totalPoints": 253
+        "totalPoints": 269
       }
     ]
   }

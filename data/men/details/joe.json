@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182603,
-  "fetchedDate": "24 Aug 2024, 23:12 GMT",
+  "fetchedDate": "25 Aug 2024, 23:12 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 15200,
+    "totalPoints": 15238,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -335,6 +335,18 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Lidl Deutschland Tour - General classification",
+            "date": "25 Aug 2024",
+            "points": 3,
+            "rank": 33
+          },
+          {
+            "name": "Lidl Deutschland Tour - Stage 4",
+            "date": "25 Aug 2024",
+            "points": 5,
+            "rank": 4
+          },
+          {
             "name": "Donostia San Sebastian Klasikoa",
             "date": "10 Aug 2024",
             "points": 8,
@@ -473,7 +485,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 1109
+        "totalPoints": 1117
       },
       {
         "name": "Tim Merlier",
@@ -655,6 +667,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "Bretagne Classic - Ouest-France",
+            "date": "25 Aug 2024",
+            "points": 2,
+            "rank": 58
+          },
+          {
             "name": "Donostia San Sebastian Klasikoa",
             "date": "10 Aug 2024",
             "points": 320,
@@ -781,13 +799,19 @@
             "rank": 4
           }
         ],
-        "totalPoints": 1368
+        "totalPoints": 1370
       },
       {
         "name": "Felix Gall",
         "id": 150925,
         "sanctions": 0,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - Stage 9",
+            "date": "25 Aug 2024",
+            "points": 20,
+            "rank": 11
+          },
           {
             "name": "La Vuelta Ciclista a España - Stage 8",
             "date": "24 Aug 2024",
@@ -915,7 +939,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 779
+        "totalPoints": 799
       },
       {
         "name": "Giulio Ciccone",
@@ -1166,6 +1190,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Bretagne Classic - Ouest-France",
+            "date": "25 Aug 2024",
+            "points": 8,
+            "rank": 39
+          },
+          {
             "name": "Tour de Pologne - General classification",
             "date": "18 Aug 2024",
             "points": 8,
@@ -1208,7 +1238,7 @@
             "rank": 25
           }
         ],
-        "totalPoints": 119
+        "totalPoints": 127
       }
     ]
   }
