@@ -1,18 +1,24 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 182603,
-  "fetchedDate": "26 Aug 2024, 23:13 GMT",
+  "momentId": 182845,
+  "fetchedDate": "27 Aug 2024, 23:13 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 8675,
+    "totalPoints": 8855,
     "riders": [
       {
         "name": "Wout van Aert",
         "id": 75859,
         "sanctions": 0,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - Stage 10",
+            "date": "27 Aug 2024",
+            "points": 180,
+            "rank": 1
+          },
           {
             "name": "La Vuelta Ciclista a España - Stage 7",
             "date": "23 Aug 2024",
@@ -168,7 +174,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 2555
+        "totalPoints": 2735
       },
       {
         "name": "Juan Ayuso",

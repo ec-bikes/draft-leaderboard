@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 182603,
-  "fetchedDate": "26 Aug 2024, 23:13 GMT",
+  "momentId": 182845,
+  "fetchedDate": "27 Aug 2024, 23:13 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 15238,
+    "totalPoints": 15243,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -807,6 +807,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 10",
+            "date": "27 Aug 2024",
+            "points": 5,
+            "rank": 14
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 9",
             "date": "25 Aug 2024",
             "points": 20,
@@ -939,7 +945,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 799
+        "totalPoints": 804
       },
       {
         "name": "Giulio Ciccone",

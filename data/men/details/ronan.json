@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 182603,
-  "fetchedDate": "26 Aug 2024, 23:13 GMT",
+  "momentId": 182845,
+  "fetchedDate": "27 Aug 2024, 23:13 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 14430,
+    "totalPoints": 14470,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -938,6 +938,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 10",
+            "date": "27 Aug 2024",
+            "points": 40,
+            "rank": 7
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 5",
             "date": "21 Aug 2024",
             "points": 40,
@@ -1075,7 +1081,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 1650
+        "totalPoints": 1690
       },
       {
         "name": "Sam Bennett",

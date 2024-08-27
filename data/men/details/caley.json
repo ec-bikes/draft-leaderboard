@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 182603,
-  "fetchedDate": "26 Aug 2024, 23:13 GMT",
+  "momentId": 182845,
+  "fetchedDate": "27 Aug 2024, 23:13 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 15002,
+    "totalPoints": 15012,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -1105,6 +1105,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 10",
+            "date": "27 Aug 2024",
+            "points": 10,
+            "rank": 13
+          },
+          {
             "name": "La Polynormande",
             "date": "11 Aug 2024",
             "points": 3,
@@ -1213,7 +1219,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 680
+        "totalPoints": 690
       }
     ]
   }

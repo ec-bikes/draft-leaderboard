@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 182603,
-  "fetchedDate": "26 Aug 2024, 23:13 GMT",
+  "momentId": 182845,
+  "fetchedDate": "27 Aug 2024, 23:13 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 14121,
+    "totalPoints": 14156,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -800,6 +800,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 10",
+            "date": "27 Aug 2024",
+            "points": 35,
+            "rank": 8
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 7",
             "date": "23 Aug 2024",
             "points": 80,
@@ -932,7 +938,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1482
+        "totalPoints": 1517
       },
       {
         "name": "Fabio Jakobsen",
