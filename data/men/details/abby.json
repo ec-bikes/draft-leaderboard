@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182845,
-  "fetchedDate": "27 Aug 2024, 23:13 GMT",
+  "fetchedDate": "28 Aug 2024, 23:13 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 14840,
+    "totalPoints": 14860,
     "riders": [
       {
         "name": "Mads Pedersen",
@@ -1082,6 +1082,11 @@
         "sanctions": 15,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 11 - Bonus",
+            "date": "28 Aug 2024",
+            "points": 20
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 10 - Bonus",
             "date": "27 Aug 2024",
             "points": 20
@@ -1251,7 +1256,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 2166
+        "totalPoints": 2186
       },
       {
         "name": "Benoît Cosnefroy",

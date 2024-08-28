@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182845,
-  "fetchedDate": "27 Aug 2024, 23:13 GMT",
+  "fetchedDate": "28 Aug 2024, 23:13 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 14470,
+    "totalPoints": 14608,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -614,6 +614,17 @@
         "sanctions": 15,
         "results": [
           {
+            "name": "Renewi Tour - Stage 1",
+            "date": "28 Aug 2024",
+            "points": 50,
+            "rank": 1
+          },
+          {
+            "name": "Renewi Tour - Stage 1 - Bonus",
+            "date": "28 Aug 2024",
+            "points": 8
+          },
+          {
             "name": "Lidl Deutschland Tour - Stage 3",
             "date": "24 Aug 2024",
             "points": 20,
@@ -767,7 +778,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 1948
+        "totalPoints": 2006
       },
       {
         "name": "Richard Carapaz",
@@ -938,6 +949,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 11",
+            "date": "28 Aug 2024",
+            "points": 80,
+            "rank": 4
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 10",
             "date": "27 Aug 2024",
             "points": 40,
@@ -1081,7 +1098,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 1690
+        "totalPoints": 1770
       },
       {
         "name": "Sam Bennett",

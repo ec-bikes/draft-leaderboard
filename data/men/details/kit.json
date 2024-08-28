@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182845,
-  "fetchedDate": "27 Aug 2024, 23:13 GMT",
+  "fetchedDate": "28 Aug 2024, 23:13 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 8855,
+    "totalPoints": 8865,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -715,6 +715,12 @@
         "sanctions": 10,
         "results": [
           {
+            "name": "Renewi Tour - Stage 1",
+            "date": "28 Aug 2024",
+            "points": 10,
+            "rank": 6
+          },
+          {
             "name": "Tour de Pologne - Stage 7",
             "date": "18 Aug 2024",
             "points": 25,
@@ -834,7 +840,7 @@
             "rank": 19
           }
         ],
-        "totalPoints": 682
+        "totalPoints": 692
       },
       {
         "name": "Wout Poels",
