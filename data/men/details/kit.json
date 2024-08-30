@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182845,
-  "fetchedDate": "29 Aug 2024, 23:12 GMT",
+  "fetchedDate": "30 Aug 2024, 23:13 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 8865,
+    "totalPoints": 8933,
     "riders": [
       {
         "name": "Wout van Aert",
         "id": 75859,
         "sanctions": 0,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - Stage 13",
+            "date": "30 Aug 2024",
+            "points": 60,
+            "rank": 5
+          },
           {
             "name": "La Vuelta Ciclista a España - Stage 10",
             "date": "27 Aug 2024",
@@ -174,7 +180,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 2735
+        "totalPoints": 2795
       },
       {
         "name": "Juan Ayuso",
@@ -715,6 +721,12 @@
         "sanctions": 10,
         "results": [
           {
+            "name": "Renewi Tour - Stage 3",
+            "date": "30 Aug 2024",
+            "points": 8,
+            "rank": 7
+          },
+          {
             "name": "Renewi Tour - Stage 1",
             "date": "28 Aug 2024",
             "points": 10,
@@ -840,7 +852,7 @@
             "rank": 19
           }
         ],
-        "totalPoints": 692
+        "totalPoints": 700
       },
       {
         "name": "Wout Poels",

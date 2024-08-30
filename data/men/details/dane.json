@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182845,
-  "fetchedDate": "29 Aug 2024, 23:12 GMT",
+  "fetchedDate": "30 Aug 2024, 23:13 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 14164,
+    "totalPoints": 14184,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -1013,6 +1013,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Renewi Tour - Stage 3",
+            "date": "30 Aug 2024",
+            "points": 20,
+            "rank": 4
+          },
+          {
             "name": "Tour Poitou - Charentes en Nouvelle Aquitaine - General classification",
             "date": "23 Aug 2024",
             "points": 5,
@@ -1097,7 +1103,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 255
+        "totalPoints": 275
       },
       {
         "name": "Søren Kragh Andersen",

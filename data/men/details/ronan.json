@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182845,
-  "fetchedDate": "29 Aug 2024, 23:12 GMT",
+  "fetchedDate": "30 Aug 2024, 23:13 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 14668,
+    "totalPoints": 14718,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -614,6 +614,12 @@
         "sanctions": 15,
         "results": [
           {
+            "name": "Renewi Tour - Stage 3",
+            "date": "30 Aug 2024",
+            "points": 50,
+            "rank": 1
+          },
+          {
             "name": "Renewi Tour - Stage 1",
             "date": "28 Aug 2024",
             "points": 50,
@@ -778,7 +784,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 2006
+        "totalPoints": 2056
       },
       {
         "name": "Richard Carapaz",
