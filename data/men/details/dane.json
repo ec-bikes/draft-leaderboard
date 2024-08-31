@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182845,
-  "fetchedDate": "30 Aug 2024, 23:13 GMT",
+  "fetchedDate": "31 Aug 2024, 23:11 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 14184,
+    "totalPoints": 14214,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -217,6 +217,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "Renewi Tour - Stage 4",
+            "date": "31 Aug 2024",
+            "points": 30,
+            "rank": 2
+          },
+          {
             "name": "Renewi Tour - Stage 2 (ITT)",
             "date": "29 Aug 2024",
             "points": 8,
@@ -253,7 +259,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 926
+        "totalPoints": 956
       },
       {
         "name": "Geraint Thomas",

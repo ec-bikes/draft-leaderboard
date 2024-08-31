@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182845,
-  "fetchedDate": "30 Aug 2024, 23:13 GMT",
+  "fetchedDate": "31 Aug 2024, 23:11 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 10057,
+    "totalPoints": 10107,
     "riders": [
       {
         "name": "Jasper Philipsen",
         "id": 148275,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Renewi Tour - Stage 4",
+            "date": "31 Aug 2024",
+            "points": 50,
+            "rank": 1
+          },
           {
             "name": "Renewi Tour - Stage 3",
             "date": "30 Aug 2024",
@@ -164,7 +170,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 3900
+        "totalPoints": 3950
       },
       {
         "name": "Simon Yates",
