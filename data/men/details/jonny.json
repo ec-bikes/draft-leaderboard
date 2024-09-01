@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182845,
-  "fetchedDate": "31 Aug 2024, 23:11 GMT",
+  "fetchedDate": "1 Sept 2024, 23:11 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 10107,
+    "totalPoints": 10320,
     "riders": [
       {
         "name": "Jasper Philipsen",
         "id": 148275,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Renewi Tour - General classification",
+            "date": "01 Sept 2024",
+            "points": 140,
+            "rank": 6
+          },
           {
             "name": "Renewi Tour - Stage 4",
             "date": "31 Aug 2024",
@@ -170,7 +176,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 3950
+        "totalPoints": 4090
       },
       {
         "name": "Simon Yates",
@@ -264,6 +270,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 15",
+            "date": "01 Sept 2024",
+            "points": 25,
+            "rank": 10
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 9",
             "date": "25 Aug 2024",
             "points": 30,
@@ -348,7 +360,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 458
+        "totalPoints": 483
       },
       {
         "name": "Romain Bardet",
@@ -677,6 +689,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Renewi Tour - General classification",
+            "date": "01 Sept 2024",
+            "points": 48,
+            "rank": 12
+          },
+          {
             "name": "Tour de Pologne - General classification",
             "date": "18 Aug 2024",
             "points": 16,
@@ -767,7 +785,7 @@
             "rank": 14
           }
         ],
-        "totalPoints": 298
+        "totalPoints": 346
       },
       {
         "name": "Bryan Coquard",

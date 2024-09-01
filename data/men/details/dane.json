@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182845,
-  "fetchedDate": "31 Aug 2024, 23:11 GMT",
+  "fetchedDate": "1 Sept 2024, 23:11 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 14214,
+    "totalPoints": 14485,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -217,6 +217,18 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "Renewi Tour - General classification",
+            "date": "01 Sept 2024",
+            "points": 220,
+            "rank": 4
+          },
+          {
+            "name": "Renewi Tour - Stage 5",
+            "date": "01 Sept 2024",
+            "points": 3,
+            "rank": 9
+          },
+          {
             "name": "Renewi Tour - Stage 4",
             "date": "31 Aug 2024",
             "points": 30,
@@ -259,7 +271,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 956
+        "totalPoints": 1179
       },
       {
         "name": "Geraint Thomas",
@@ -364,6 +376,12 @@
         "id": 68367,
         "sanctions": 25,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - Stage 15",
+            "date": "01 Sept 2024",
+            "points": 30,
+            "rank": 9
+          },
           {
             "name": "La Vuelta Ciclista a España - Stage 9",
             "date": "25 Aug 2024",
@@ -497,13 +515,19 @@
             "rank": 19
           }
         ],
-        "totalPoints": 1712
+        "totalPoints": 1742
       },
       {
         "name": "Carlos Rodriguez",
         "id": 428096,
         "sanctions": 0,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - Stage 15",
+            "date": "01 Sept 2024",
+            "points": 2,
+            "rank": 15
+          },
           {
             "name": "La Vuelta Ciclista a España - Stage 9",
             "date": "25 Aug 2024",
@@ -642,7 +666,7 @@
             "rank": 19
           }
         ],
-        "totalPoints": 2057
+        "totalPoints": 2059
       },
       {
         "name": "Marc Hirschi",
@@ -1117,6 +1141,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Renewi Tour - General classification",
+            "date": "01 Sept 2024",
+            "points": 16,
+            "rank": 25
+          },
+          {
             "name": "Bretagne Classic - Ouest-France",
             "date": "25 Aug 2024",
             "points": 16,
@@ -1177,7 +1207,7 @@
             "rank": 31
           }
         ],
-        "totalPoints": 269
+        "totalPoints": 285
       }
     ]
   }

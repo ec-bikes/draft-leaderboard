@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 182845,
-  "fetchedDate": "31 Aug 2024, 23:11 GMT",
+  "fetchedDate": "1 Sept 2024, 23:11 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 14724,
+    "totalPoints": 14832,
     "riders": [
       {
         "name": "Primož Roglič",
         "id": 88889,
-        "sanctions": 0,
+        "sanctions": 15,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - Stage 15",
+            "date": "01 Sept 2024",
+            "points": 60,
+            "rank": 5
+          },
           {
             "name": "La Vuelta Ciclista a España - Stage 9",
             "date": "25 Aug 2024",
@@ -163,13 +169,19 @@
             "rank": 7
           }
         ],
-        "totalPoints": 1691
+        "totalPoints": 1751
       },
       {
         "name": "Biniam Girmay",
         "id": 1707195,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Renewi Tour - General classification",
+            "date": "01 Sept 2024",
+            "points": 8,
+            "rank": 38
+          },
           {
             "name": "Olympic Games ME - Road Race",
             "date": "03 Aug 2024",
@@ -351,7 +363,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 2399
+        "totalPoints": 2407
       },
       {
         "name": "Tom Pidcock",
@@ -798,6 +810,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 15",
+            "date": "01 Sept 2024",
+            "points": 40,
+            "rank": 7
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 9",
             "date": "25 Aug 2024",
             "points": 130,
@@ -953,7 +971,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1494
+        "totalPoints": 1534
       },
       {
         "name": "Jhonatan Narváez",
