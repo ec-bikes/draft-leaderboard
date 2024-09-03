@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 182845,
-  "fetchedDate": "2 Sept 2024, 23:13 GMT",
+  "momentId": 183119,
+  "fetchedDate": "3 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 15180,
+    "totalPoints": 15200,
     "riders": [
       {
         "name": "Mads Pedersen",
@@ -1091,8 +1091,13 @@
       {
         "name": "Ben O'Connor",
         "id": 97805,
-        "sanctions": 15,
+        "sanctions": 35,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - Stage 16 - Bonus",
+            "date": "03 Sept 2024",
+            "points": 20
+          },
           {
             "name": "La Vuelta Ciclista a España - Stage 15",
             "date": "01 Sept 2024",
@@ -1300,7 +1305,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 2291
+        "totalPoints": 2311
       },
       {
         "name": "Benoît Cosnefroy",

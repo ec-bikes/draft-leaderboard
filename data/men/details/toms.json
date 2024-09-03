@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 182845,
-  "fetchedDate": "2 Sept 2024, 23:13 GMT",
+  "momentId": 183119,
+  "fetchedDate": "3 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 13258,
+    "totalPoints": 13276,
     "riders": [
       {
         "name": "Adam Yates",
@@ -180,6 +180,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 16",
+            "date": "03 Sept 2024",
+            "points": 15,
+            "rank": 12
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 15",
             "date": "01 Sept 2024",
             "points": 45,
@@ -347,7 +353,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1709
+        "totalPoints": 1724
       },
       {
         "name": "Valentin Madouas",
@@ -1339,6 +1345,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour of Britain - Stage 1",
+            "date": "03 Sept 2024",
+            "points": 3,
+            "rank": 5
+          },
+          {
             "name": "Tour de Pologne - Stage 7",
             "date": "18 Aug 2024",
             "points": 20,
@@ -1457,7 +1469,7 @@
             "points": 3
           }
         ],
-        "totalPoints": 386
+        "totalPoints": 389
       }
     ]
   }

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 182863,
-  "fetchedDate": "2 Sept 2024, 23:12 GMT",
+  "momentId": 183137,
+  "fetchedDate": "3 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 11012,
+    "totalPoints": 11031,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -1108,6 +1108,17 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour Cycliste Féminin International de l'Ardèche - Stage 1",
+            "date": "03 Sept 2024",
+            "points": 16,
+            "rank": 1
+          },
+          {
+            "name": "Tour Cycliste Féminin International de l'Ardèche - Stage 1 - Bonus",
+            "date": "03 Sept 2024",
+            "points": 3
+          },
+          {
             "name": "Tour de France Femmes avec Zwift - General classification",
             "date": "18 Aug 2024",
             "points": 68,
@@ -1294,7 +1305,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 1169
+        "totalPoints": 1188
       }
     ]
   }

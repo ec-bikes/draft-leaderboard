@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 182845,
-  "fetchedDate": "2 Sept 2024, 23:13 GMT",
+  "momentId": 183119,
+  "fetchedDate": "3 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 14485,
+    "totalPoints": 14487,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -523,6 +523,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 16",
+            "date": "03 Sept 2024",
+            "points": 2,
+            "rank": 15
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 15",
             "date": "01 Sept 2024",
             "points": 2,
@@ -666,7 +672,7 @@
             "rank": 19
           }
         ],
-        "totalPoints": 2059
+        "totalPoints": 2061
       },
       {
         "name": "Marc Hirschi",

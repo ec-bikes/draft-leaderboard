@@ -1,18 +1,24 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 182845,
-  "fetchedDate": "2 Sept 2024, 23:13 GMT",
+  "momentId": 183119,
+  "fetchedDate": "3 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 14832,
+    "totalPoints": 14927,
     "riders": [
       {
         "name": "Primož Roglič",
         "id": 88889,
         "sanctions": 15,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - Stage 16",
+            "date": "03 Sept 2024",
+            "points": 20,
+            "rank": 11
+          },
           {
             "name": "La Vuelta Ciclista a España - Stage 15",
             "date": "01 Sept 2024",
@@ -169,7 +175,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 1751
+        "totalPoints": 1771
       },
       {
         "name": "Biniam Girmay",
@@ -371,6 +377,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour of Britain - Stage 1",
+            "date": "03 Sept 2024",
+            "points": 5,
+            "rank": 4
+          },
+          {
             "name": "Bretagne Classic - Ouest-France",
             "date": "25 Aug 2024",
             "points": 4,
@@ -497,7 +509,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1805
+        "totalPoints": 1810
       },
       {
         "name": "Olav Kooij",
@@ -810,6 +822,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 16",
+            "date": "03 Sept 2024",
+            "points": 25,
+            "rank": 10
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 15",
             "date": "01 Sept 2024",
             "points": 40,
@@ -971,7 +989,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1534
+        "totalPoints": 1559
       },
       {
         "name": "Jhonatan Narváez",
@@ -1314,6 +1332,12 @@
         "sanctions": 65,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 16",
+            "date": "03 Sept 2024",
+            "points": 45,
+            "rank": 6
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 6",
             "date": "22 Aug 2024",
             "points": 30,
@@ -1465,7 +1489,7 @@
             "points": 10
           }
         ],
-        "totalPoints": 1253
+        "totalPoints": 1298
       },
       {
         "name": "Darren Rafferty",
