@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183119,
-  "fetchedDate": "3 Sept 2024, 23:13 GMT",
+  "fetchedDate": "4 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 15278,
+    "totalPoints": 15296,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour of Britain - Stage 2",
+            "date": "04 Sept 2024",
+            "points": 3,
+            "rank": 5
+          },
           {
             "name": "Olympic Games ME - Road Race",
             "date": "03 Aug 2024",
@@ -209,7 +215,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 4560
+        "totalPoints": 4563
       },
       {
         "name": "Mathieu van der Poel",
@@ -667,6 +673,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "Tour of Britain - Stage 2",
+            "date": "04 Sept 2024",
+            "points": 15,
+            "rank": 2
+          },
+          {
             "name": "Bretagne Classic - Ouest-France",
             "date": "25 Aug 2024",
             "points": 2,
@@ -799,7 +811,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 1370
+        "totalPoints": 1385
       },
       {
         "name": "Felix Gall",
