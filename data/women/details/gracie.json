@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183137,
-  "fetchedDate": "4 Sept 2024, 23:12 GMT",
+  "fetchedDate": "5 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 10880,
+    "totalPoints": 10884,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -1148,6 +1148,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour Cycliste Féminin International de l'Ardèche - Stage 3",
+            "date": "05 Sept 2024",
+            "points": 4,
+            "rank": 6
+          },
+          {
             "name": "Tour Cycliste Féminin International de l'Ardèche - Stage 2",
             "date": "04 Sept 2024",
             "points": 4,
@@ -1220,7 +1226,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 827
+        "totalPoints": 831
       }
     ]
   }
