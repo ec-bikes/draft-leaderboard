@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183137,
-  "fetchedDate": "5 Sept 2024, 23:13 GMT",
+  "fetchedDate": "6 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 14767,
+    "totalPoints": 14783,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Romandie Féminin - Stage 1",
+            "date": "06 Sept 2024",
+            "points": 10,
+            "rank": 8
+          },
           {
             "name": "Tour de France Femmes avec Zwift - General classification",
             "date": "18 Aug 2024",
@@ -262,7 +268,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 4108
+        "totalPoints": 4118
       },
       {
         "name": "Kasia Niewiadoma",
@@ -436,6 +442,12 @@
         "id": 97498,
         "sanctions": 15,
         "results": [
+          {
+            "name": "Tour de Romandie Féminin - Stage 1",
+            "date": "06 Sept 2024",
+            "points": 6,
+            "rank": 10
+          },
           {
             "name": "Tour de France Femmes avec Zwift - General classification",
             "date": "18 Aug 2024",
@@ -629,7 +641,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 1828
+        "totalPoints": 1834
       },
       {
         "name": "Charlotte Kool",

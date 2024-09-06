@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183137,
-  "fetchedDate": "5 Sept 2024, 23:13 GMT",
+  "fetchedDate": "6 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 12985,
+    "totalPoints": 13010,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -1002,6 +1002,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Romandie Féminin - Stage 1",
+            "date": "06 Sept 2024",
+            "points": 25,
+            "rank": 4
+          },
+          {
             "name": "Tour de France Femmes avec Zwift - Stage 4",
             "date": "14 Aug 2024",
             "points": 20,
@@ -1104,7 +1110,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 830
+        "totalPoints": 855
       },
       {
         "name": "Soraya Paladin",

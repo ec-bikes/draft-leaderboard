@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183137,
-  "fetchedDate": "5 Sept 2024, 23:13 GMT",
+  "fetchedDate": "6 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 10884,
+    "totalPoints": 10946,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -277,6 +277,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Romandie Féminin - Stage 1",
+            "date": "06 Sept 2024",
+            "points": 30,
+            "rank": 3
+          },
+          {
             "name": "Classic Lorient Agglomération - Trophée CERATIZIT",
             "date": "24 Aug 2024",
             "points": 260,
@@ -349,7 +355,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 626
+        "totalPoints": 656
       },
       {
         "name": "Chloe Dygert",
@@ -400,6 +406,12 @@
         "id": 398547,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Romandie Féminin - Stage 1",
+            "date": "06 Sept 2024",
+            "points": 20,
+            "rank": 5
+          },
           {
             "name": "Tour de France Femmes avec Zwift - General classification",
             "date": "18 Aug 2024",
@@ -573,7 +585,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1434
+        "totalPoints": 1454
       },
       {
         "name": "Christina Schweinberger",
@@ -1148,6 +1160,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour Cycliste Féminin International de l'Ardèche - Stage 4",
+            "date": "06 Sept 2024",
+            "points": 12,
+            "rank": 2
+          },
+          {
             "name": "Tour Cycliste Féminin International de l'Ardèche - Stage 3",
             "date": "05 Sept 2024",
             "points": 4,
@@ -1226,7 +1244,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 831
+        "totalPoints": 843
       }
     ]
   }

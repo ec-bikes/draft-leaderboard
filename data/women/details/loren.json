@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183137,
-  "fetchedDate": "5 Sept 2024, 23:13 GMT",
+  "fetchedDate": "6 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 14652,
+    "totalPoints": 14710,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -339,6 +339,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Romandie Féminin - Stage 1",
+            "date": "06 Sept 2024",
+            "points": 50,
+            "rank": 1
+          },
+          {
             "name": "Classic Lorient Agglomération - Trophée CERATIZIT",
             "date": "24 Aug 2024",
             "points": 220,
@@ -440,7 +446,7 @@
             "points": 5
           }
         ],
-        "totalPoints": 2263
+        "totalPoints": 2313
       },
       {
         "name": "Maike van der Duin",
@@ -723,6 +729,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Romandie Féminin - Stage 1",
+            "date": "06 Sept 2024",
+            "points": 8,
+            "rank": 9
+          },
+          {
             "name": "Tour de France Femmes avec Zwift - General classification",
             "date": "18 Aug 2024",
             "points": 220,
@@ -915,7 +927,7 @@
             "rank": 22
           }
         ],
-        "totalPoints": 1930
+        "totalPoints": 1938
       },
       {
         "name": "Chiara Consonni",

@@ -2,17 +2,28 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183119,
-  "fetchedDate": "5 Sept 2024, 23:13 GMT",
+  "fetchedDate": "6 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 14937,
+    "totalPoints": 15167,
     "riders": [
       {
         "name": "Primož Roglič",
         "id": 88889,
         "sanctions": 15,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - Stage 19",
+            "date": "06 Sept 2024",
+            "points": 180,
+            "rank": 1
+          },
+          {
+            "name": "La Vuelta Ciclista a España - Stage 19 - Bonus",
+            "date": "06 Sept 2024",
+            "points": 20
+          },
           {
             "name": "La Vuelta Ciclista a España - Stage 16",
             "date": "03 Sept 2024",
@@ -175,7 +186,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 1771
+        "totalPoints": 1971
       },
       {
         "name": "Biniam Girmay",
@@ -822,6 +833,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 19",
+            "date": "06 Sept 2024",
+            "points": 30,
+            "rank": 9
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 16",
             "date": "03 Sept 2024",
             "points": 25,
@@ -989,7 +1006,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1559
+        "totalPoints": 1589
       },
       {
         "name": "Jhonatan Narváez",

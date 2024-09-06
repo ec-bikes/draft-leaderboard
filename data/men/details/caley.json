@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183119,
-  "fetchedDate": "5 Sept 2024, 23:13 GMT",
+  "fetchedDate": "6 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 15255,
+    "totalPoints": 15335,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -927,6 +927,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 19",
+            "date": "06 Sept 2024",
+            "points": 80,
+            "rank": 4
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 16",
             "date": "03 Sept 2024",
             "points": 30,
@@ -1065,7 +1071,7 @@
             "rank": 12
           }
         ],
-        "totalPoints": 1281
+        "totalPoints": 1361
       },
       {
         "name": "Rui Costa",

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183119,
-  "fetchedDate": "5 Sept 2024, 23:13 GMT",
+  "fetchedDate": "6 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 13276,
+    "totalPoints": 13371,
     "riders": [
       {
         "name": "Adam Yates",
@@ -179,6 +179,12 @@
         "id": 365033,
         "sanctions": 0,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - Stage 19",
+            "date": "06 Sept 2024",
+            "points": 95,
+            "rank": 3
+          },
           {
             "name": "La Vuelta Ciclista a España - Stage 16",
             "date": "03 Sept 2024",
@@ -353,7 +359,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1724
+        "totalPoints": 1819
       },
       {
         "name": "Valentin Madouas",
