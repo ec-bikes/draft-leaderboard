@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183137,
-  "fetchedDate": "6 Sept 2024, 23:13 GMT",
+  "fetchedDate": "7 Sept 2024, 23:11 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 14783,
+    "totalPoints": 14868,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Romandie Féminin - Stage 2",
+            "date": "07 Sept 2024",
+            "points": 50,
+            "rank": 1
+          },
           {
             "name": "Tour de Romandie Féminin - Stage 1",
             "date": "06 Sept 2024",
@@ -268,7 +274,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 4118
+        "totalPoints": 4168
       },
       {
         "name": "Kasia Niewiadoma",
@@ -442,6 +448,12 @@
         "id": 97498,
         "sanctions": 15,
         "results": [
+          {
+            "name": "Tour de Romandie Féminin - Stage 2",
+            "date": "07 Sept 2024",
+            "points": 20,
+            "rank": 5
+          },
           {
             "name": "Tour de Romandie Féminin - Stage 1",
             "date": "06 Sept 2024",
@@ -641,7 +653,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 1834
+        "totalPoints": 1854
       },
       {
         "name": "Charlotte Kool",
@@ -937,6 +949,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Romandie Féminin - Stage 2",
+            "date": "07 Sept 2024",
+            "points": 15,
+            "rank": 7
+          },
+          {
             "name": "Classic Lorient Agglomération - Trophée CERATIZIT",
             "date": "24 Aug 2024",
             "points": 16,
@@ -1020,7 +1038,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 738
+        "totalPoints": 753
       },
       {
         "name": "Ella Wyllie",

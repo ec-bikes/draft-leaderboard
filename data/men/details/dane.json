@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183119,
-  "fetchedDate": "6 Sept 2024, 23:13 GMT",
+  "fetchedDate": "7 Sept 2024, 23:11 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 14607,
+    "totalPoints": 14642,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -377,6 +377,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 20",
+            "date": "07 Sept 2024",
+            "points": 35,
+            "rank": 8
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 19",
             "date": "06 Sept 2024",
             "points": 60,
@@ -521,7 +527,7 @@
             "rank": 19
           }
         ],
-        "totalPoints": 1802
+        "totalPoints": 1837
       },
       {
         "name": "Carlos Rodriguez",

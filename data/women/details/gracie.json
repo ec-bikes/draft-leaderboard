@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183137,
-  "fetchedDate": "6 Sept 2024, 23:13 GMT",
+  "fetchedDate": "7 Sept 2024, 23:11 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 10946,
+    "totalPoints": 10983,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -360,7 +360,7 @@
       {
         "name": "Chloe Dygert",
         "id": 109716,
-        "sanctions": 0,
+        "sanctions": 15,
         "results": [
           {
             "name": "Classic Lorient Agglomération - Trophée CERATIZIT",
@@ -406,6 +406,12 @@
         "id": 398547,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Romandie Féminin - Stage 2",
+            "date": "07 Sept 2024",
+            "points": 25,
+            "rank": 4
+          },
           {
             "name": "Tour de Romandie Féminin - Stage 1",
             "date": "06 Sept 2024",
@@ -585,7 +591,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1454
+        "totalPoints": 1479
       },
       {
         "name": "Christina Schweinberger",
@@ -1160,6 +1166,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour Cycliste Féminin International de l'Ardèche - Stage 5",
+            "date": "07 Sept 2024",
+            "points": 12,
+            "rank": 2
+          },
+          {
             "name": "Tour Cycliste Féminin International de l'Ardèche - Stage 4",
             "date": "06 Sept 2024",
             "points": 12,
@@ -1244,7 +1256,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 843
+        "totalPoints": 855
       }
     ]
   }

@@ -2,17 +2,28 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183137,
-  "fetchedDate": "6 Sept 2024, 23:13 GMT",
+  "fetchedDate": "7 Sept 2024, 23:11 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 11107,
+    "totalPoints": 11193,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
         "sanctions": 15,
         "results": [
+          {
+            "name": "Tour de Romandie Féminin - Stage 2",
+            "date": "07 Sept 2024",
+            "points": 40,
+            "rank": 2
+          },
+          {
+            "name": "Tour de Romandie Féminin - Stage 2 - Bonus",
+            "date": "07 Sept 2024",
+            "points": 8
+          },
           {
             "name": "Tour de Romandie Féminin - Stage 1",
             "date": "06 Sept 2024",
@@ -284,7 +295,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 4616
+        "totalPoints": 4664
       },
       {
         "name": "Cecilie Uttrup Ludwig",
@@ -505,6 +516,12 @@
         "sanctions": 5,
         "results": [
           {
+            "name": "Tour de Romandie Féminin - Stage 2",
+            "date": "07 Sept 2024",
+            "points": 30,
+            "rank": 3
+          },
+          {
             "name": "Tour de France Femmes avec Zwift - General classification",
             "date": "18 Aug 2024",
             "points": 180,
@@ -642,7 +659,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 997
+        "totalPoints": 1027
       },
       {
         "name": "Amanda Spratt",
@@ -1114,6 +1131,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour Cycliste Féminin International de l'Ardèche - Stage 5",
+            "date": "07 Sept 2024",
+            "points": 8,
+            "rank": 3
+          },
+          {
             "name": "Tour Cycliste Féminin International de l'Ardèche - Stage 4",
             "date": "06 Sept 2024",
             "points": 6,
@@ -1344,7 +1367,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 1224
+        "totalPoints": 1232
       }
     ]
   }

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183119,
-  "fetchedDate": "6 Sept 2024, 23:13 GMT",
+  "fetchedDate": "7 Sept 2024, 23:11 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 10460,
+    "totalPoints": 10500,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -270,6 +270,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - Stage 20",
+            "date": "07 Sept 2024",
+            "points": 40,
+            "rank": 7
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 19",
             "date": "06 Sept 2024",
             "points": 130,
@@ -372,7 +378,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 623
+        "totalPoints": 663
       },
       {
         "name": "Romain Bardet",
