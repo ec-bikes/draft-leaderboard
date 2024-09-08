@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183137,
-  "fetchedDate": "7 Sept 2024, 23:11 GMT",
+  "fetchedDate": "8 Sept 2024, 23:14 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 13010,
+    "totalPoints": 13075,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -862,6 +862,12 @@
         "sanctions": 10,
         "results": [
           {
+            "name": "Tour de Romandie Féminin - General classification",
+            "date": "08 Sept 2024",
+            "points": 16,
+            "rank": 26
+          },
+          {
             "name": "Olympic Games WE - Road Race",
             "date": "04 Aug 2024",
             "points": 30,
@@ -994,13 +1000,25 @@
             "rank": 7
           }
         ],
-        "totalPoints": 1193
+        "totalPoints": 1209
       },
       {
         "name": "Noemi Rüegg",
         "id": 347941,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Romandie Féminin - General classification",
+            "date": "08 Sept 2024",
+            "points": 24,
+            "rank": 17
+          },
+          {
+            "name": "Tour de Romandie Féminin - Stage 3",
+            "date": "08 Sept 2024",
+            "points": 25,
+            "rank": 4
+          },
           {
             "name": "Tour de Romandie Féminin - Stage 1",
             "date": "06 Sept 2024",
@@ -1110,7 +1128,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 855
+        "totalPoints": 904
       },
       {
         "name": "Soraya Paladin",

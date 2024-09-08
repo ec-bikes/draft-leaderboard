@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183137,
-  "fetchedDate": "7 Sept 2024, 23:11 GMT",
+  "fetchedDate": "8 Sept 2024, 23:14 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 10983,
+    "totalPoints": 11287,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -277,6 +277,18 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Romandie Féminin - General classification",
+            "date": "08 Sept 2024",
+            "points": 32,
+            "rank": 14
+          },
+          {
+            "name": "Tour de Romandie Féminin - Stage 3",
+            "date": "08 Sept 2024",
+            "points": 18,
+            "rank": 6
+          },
+          {
             "name": "Tour de Romandie Féminin - Stage 1",
             "date": "06 Sept 2024",
             "points": 30,
@@ -355,13 +367,19 @@
             "rank": 8
           }
         ],
-        "totalPoints": 656
+        "totalPoints": 706
       },
       {
         "name": "Chloe Dygert",
         "id": 109716,
         "sanctions": 15,
         "results": [
+          {
+            "name": "Tour de Romandie Féminin - General classification",
+            "date": "08 Sept 2024",
+            "points": 16,
+            "rank": 27
+          },
           {
             "name": "Classic Lorient Agglomération - Trophée CERATIZIT",
             "date": "24 Aug 2024",
@@ -399,13 +417,19 @@
             "rank": 6
           }
         ],
-        "totalPoints": 748
+        "totalPoints": 764
       },
       {
         "name": "Mavi Garcia",
         "id": 398547,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Romandie Féminin - General classification",
+            "date": "08 Sept 2024",
+            "points": 180,
+            "rank": 5
+          },
           {
             "name": "Tour de Romandie Féminin - Stage 2",
             "date": "07 Sept 2024",
@@ -591,7 +615,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1479
+        "totalPoints": 1659
       },
       {
         "name": "Christina Schweinberger",
@@ -879,6 +903,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Romandie Féminin - General classification",
+            "date": "08 Sept 2024",
+            "points": 16,
+            "rank": 30
+          },
+          {
             "name": "Tour de Suisse Women - General classification",
             "date": "18 Jun 2024",
             "points": 24,
@@ -945,7 +975,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 599
+        "totalPoints": 615
       },
       {
         "name": "Olivia Baril",
@@ -1166,13 +1196,25 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour Cycliste Féminin International de l'Ardèche - General classification",
+            "date": "08 Sept 2024",
+            "points": 40,
+            "rank": 6
+          },
+          {
+            "name": "Tour Cycliste Féminin International de l'Ardèche - Stage 6",
+            "date": "08 Sept 2024",
+            "points": 2,
+            "rank": 8
+          },
+          {
             "name": "Tour Cycliste Féminin International de l'Ardèche - Stage 5",
             "date": "07 Sept 2024",
             "points": 12,
             "rank": 2
           },
           {
-            "name": "Tour Cycliste Féminin International de l'Ardèche - Stage 4",
+            "name": "Tour Cycliste Féminin International de l'Ardèche - Stage 4 (ITT)",
             "date": "06 Sept 2024",
             "points": 12,
             "rank": 2
@@ -1256,7 +1298,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 855
+        "totalPoints": 897
       }
     ]
   }

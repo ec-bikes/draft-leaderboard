@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183119,
-  "fetchedDate": "7 Sept 2024, 23:11 GMT",
+  "fetchedDate": "8 Sept 2024, 23:14 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 10500,
+    "totalPoints": 11093,
     "riders": [
       {
         "name": "Jasper Philipsen",
         "id": 148275,
         "sanctions": 0,
         "results": [
+          {
+            "name": "BEMER Cyclassics",
+            "date": "08 Sept 2024",
+            "points": 120,
+            "rank": 7
+          },
           {
             "name": "Renewi Tour - General classification",
             "date": "01 Sept 2024",
@@ -176,7 +182,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 4090
+        "totalPoints": 4210
       },
       {
         "name": "Simon Yates",
@@ -269,6 +275,12 @@
         "id": 112351,
         "sanctions": 0,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - General classification",
+            "date": "08 Sept 2024",
+            "points": 415,
+            "rank": 6
+          },
           {
             "name": "La Vuelta Ciclista a España - Stage 20",
             "date": "07 Sept 2024",
@@ -378,7 +390,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 663
+        "totalPoints": 1078
       },
       {
         "name": "Romain Bardet",
@@ -707,6 +719,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "BEMER Cyclassics",
+            "date": "08 Sept 2024",
+            "points": 8,
+            "rank": 42
+          },
+          {
             "name": "Renewi Tour - General classification",
             "date": "01 Sept 2024",
             "points": 48,
@@ -803,7 +821,7 @@
             "rank": 14
           }
         ],
-        "totalPoints": 346
+        "totalPoints": 354
       },
       {
         "name": "Bryan Coquard",
@@ -1121,6 +1139,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - General classification",
+            "date": "08 Sept 2024",
+            "points": 50,
+            "rank": 22
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 8",
             "date": "24 Aug 2024",
             "points": 25,
@@ -1175,7 +1199,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 207
+        "totalPoints": 257
       }
     ]
   }

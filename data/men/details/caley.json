@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183119,
-  "fetchedDate": "7 Sept 2024, 23:11 GMT",
+  "fetchedDate": "8 Sept 2024, 23:14 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 15465,
+    "totalPoints": 16297,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -830,6 +830,12 @@
         "sanctions": 100,
         "results": [
           {
+            "name": "BEMER Cyclassics",
+            "date": "08 Sept 2024",
+            "points": 2,
+            "rank": 60
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 1 (ITT)",
             "date": "17 Aug 2024",
             "points": 45,
@@ -919,13 +925,19 @@
             "rank": 55
           }
         ],
-        "totalPoints": 571
+        "totalPoints": 573
       },
       {
         "name": "Enric Mas",
         "id": 109803,
         "sanctions": 25,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - General classification",
+            "date": "08 Sept 2024",
+            "points": 750,
+            "rank": 3
+          },
           {
             "name": "La Vuelta Ciclista a España - Stage 20",
             "date": "07 Sept 2024",
@@ -1077,7 +1089,7 @@
             "rank": 12
           }
         ],
-        "totalPoints": 1491
+        "totalPoints": 2241
       },
       {
         "name": "Rui Costa",
@@ -1152,6 +1164,12 @@
         "id": 75170,
         "sanctions": 0,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - General classification",
+            "date": "08 Sept 2024",
+            "points": 80,
+            "rank": 15
+          },
           {
             "name": "La Vuelta Ciclista a España - Stage 11",
             "date": "28 Aug 2024",
@@ -1273,7 +1291,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 695
+        "totalPoints": 775
       }
     ]
   }

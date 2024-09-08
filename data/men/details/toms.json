@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183119,
-  "fetchedDate": "7 Sept 2024, 23:11 GMT",
+  "fetchedDate": "8 Sept 2024, 23:14 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 13406,
+    "totalPoints": 14336,
     "riders": [
       {
         "name": "Adam Yates",
         "id": 70590,
         "sanctions": 40,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - General classification",
+            "date": "08 Sept 2024",
+            "points": 130,
+            "rank": 12
+          },
           {
             "name": "La Vuelta Ciclista a España - Stage 20",
             "date": "07 Sept 2024",
@@ -178,13 +184,25 @@
             "rank": 1
           }
         ],
-        "totalPoints": 2098
+        "totalPoints": 2228
       },
       {
         "name": "Mattias Skjelmose",
         "id": 365033,
         "sanctions": 0,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - General classification",
+            "date": "08 Sept 2024",
+            "points": 495,
+            "rank": 5
+          },
+          {
+            "name": "La Vuelta Ciclista a España - Stage 21 (ITT)",
+            "date": "08 Sept 2024",
+            "points": 35,
+            "rank": 8
+          },
           {
             "name": "La Vuelta Ciclista a España - Stage 20",
             "date": "07 Sept 2024",
@@ -371,7 +389,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1844
+        "totalPoints": 2374
       },
       {
         "name": "Valentin Madouas",
@@ -805,6 +823,12 @@
         "sanctions": 15,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - General classification",
+            "date": "08 Sept 2024",
+            "points": 15,
+            "rank": 54
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 13",
             "date": "30 Aug 2024",
             "points": 5,
@@ -997,7 +1021,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1957
+        "totalPoints": 1972
       },
       {
         "name": "Cian Uijtdebroeks",
@@ -1078,6 +1102,12 @@
         "id": 221617,
         "sanctions": 25,
         "results": [
+          {
+            "name": "GP de Fourmies / La Voix du Nord",
+            "date": "08 Sept 2024",
+            "points": 35,
+            "rank": 10
+          },
           {
             "name": "Olympic Games ME - Road Race",
             "date": "03 Aug 2024",
@@ -1240,13 +1270,19 @@
             "rank": 10
           }
         ],
-        "totalPoints": 1163
+        "totalPoints": 1198
       },
       {
         "name": "Jordi Meeus",
         "id": 148901,
         "sanctions": 20,
         "results": [
+          {
+            "name": "BEMER Cyclassics",
+            "date": "08 Sept 2024",
+            "points": 220,
+            "rank": 4
+          },
           {
             "name": "Lidl Deutschland Tour - Stage 3",
             "date": "24 Aug 2024",
@@ -1355,7 +1391,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 845
+        "totalPoints": 1065
       },
       {
         "name": "Casper van Uden",

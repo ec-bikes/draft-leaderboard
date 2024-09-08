@@ -2,17 +2,29 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183137,
-  "fetchedDate": "7 Sept 2024, 23:11 GMT",
+  "fetchedDate": "8 Sept 2024, 23:14 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 11193,
+    "totalPoints": 12044,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
         "sanctions": 15,
         "results": [
+          {
+            "name": "Tour de Romandie Féminin - General classification",
+            "date": "08 Sept 2024",
+            "points": 400,
+            "rank": 1
+          },
+          {
+            "name": "Tour de Romandie Féminin - Stage 3",
+            "date": "08 Sept 2024",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Tour de Romandie Féminin - Stage 2",
             "date": "07 Sept 2024",
@@ -295,7 +307,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 4664
+        "totalPoints": 5094
       },
       {
         "name": "Cecilie Uttrup Ludwig",
@@ -516,6 +528,12 @@
         "sanctions": 5,
         "results": [
           {
+            "name": "Tour de Romandie Féminin - General classification",
+            "date": "08 Sept 2024",
+            "points": 260,
+            "rank": 3
+          },
+          {
             "name": "Tour de Romandie Féminin - Stage 2",
             "date": "07 Sept 2024",
             "points": 30,
@@ -659,7 +677,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 1027
+        "totalPoints": 1287
       },
       {
         "name": "Amanda Spratt",
@@ -851,6 +869,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Romandie Féminin - General classification",
+            "date": "08 Sept 2024",
+            "points": 28,
+            "rank": 15
+          },
+          {
             "name": "Olympic Games WE - Road Race",
             "date": "04 Aug 2024",
             "points": 10,
@@ -941,7 +965,7 @@
             "rank": 25
           }
         ],
-        "totalPoints": 559
+        "totalPoints": 587
       },
       {
         "name": "Kristen Faulkner",
@@ -1131,19 +1155,36 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour Cycliste Féminin International de l'Ardèche - General classification",
+            "date": "08 Sept 2024",
+            "points": 125,
+            "rank": 1
+          },
+          {
+            "name": "Tour Cycliste Féminin International de l'Ardèche - Stage 6",
+            "date": "08 Sept 2024",
+            "points": 5,
+            "rank": 5
+          },
+          {
             "name": "Tour Cycliste Féminin International de l'Ardèche - Stage 5",
             "date": "07 Sept 2024",
             "points": 8,
             "rank": 3
           },
           {
-            "name": "Tour Cycliste Féminin International de l'Ardèche - Stage 4",
+            "name": "Tour Cycliste Féminin International de l'Ardèche - Stage 5 - Bonus",
+            "date": "07 Sept 2024",
+            "points": 3
+          },
+          {
+            "name": "Tour Cycliste Féminin International de l'Ardèche - Stage 4 (ITT)",
             "date": "06 Sept 2024",
             "points": 6,
             "rank": 4
           },
           {
-            "name": "Tour Cycliste Féminin International de l'Ardèche - Stage 4 - Bonus",
+            "name": "Tour Cycliste Féminin International de l'Ardèche - Stage 4 (ITT) - Bonus",
             "date": "06 Sept 2024",
             "points": 3
           },
@@ -1367,7 +1408,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 1232
+        "totalPoints": 1365
       }
     ]
   }

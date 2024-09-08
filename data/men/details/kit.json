@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183119,
-  "fetchedDate": "7 Sept 2024, 23:11 GMT",
+  "fetchedDate": "8 Sept 2024, 23:14 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 9063,
+    "totalPoints": 9223,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -727,6 +727,12 @@
         "sanctions": 35,
         "results": [
           {
+            "name": "GP de Fourmies / La Voix du Nord",
+            "date": "08 Sept 2024",
+            "points": 150,
+            "rank": 2
+          },
+          {
             "name": "Renewi Tour - Stage 3",
             "date": "30 Aug 2024",
             "points": 8,
@@ -858,13 +864,19 @@
             "rank": 19
           }
         ],
-        "totalPoints": 700
+        "totalPoints": 850
       },
       {
         "name": "Wout Poels",
         "id": 1974873,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour of Britain - General classification",
+            "date": "08 Sept 2024",
+            "points": 5,
+            "rank": 17
+          },
           {
             "name": "Lidl Deutschland Tour - General classification",
             "date": "25 Aug 2024",
@@ -974,13 +986,19 @@
             "rank": 10
           }
         ],
-        "totalPoints": 513
+        "totalPoints": 518
       },
       {
         "name": "Esteban Chaves",
         "id": 75873,
         "sanctions": 0,
         "results": [
+          {
+            "name": "GP Industria & Artigianato",
+            "date": "08 Sept 2024",
+            "points": 5,
+            "rank": 23
+          },
           {
             "name": "Giro d'Italia - General classification",
             "date": "26 May 2024",
@@ -1042,7 +1060,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 163
+        "totalPoints": 168
       }
     ]
   }

@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183119,
-  "fetchedDate": "7 Sept 2024, 23:11 GMT",
+  "fetchedDate": "8 Sept 2024, 23:14 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 15316,
+    "totalPoints": 15366,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour of Britain - General classification",
+            "date": "08 Sept 2024",
+            "points": 5,
+            "rank": 28
+          },
           {
             "name": "Tour of Britain - Stage 2",
             "date": "04 Sept 2024",
@@ -215,7 +221,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 4563
+        "totalPoints": 4568
       },
       {
         "name": "Mathieu van der Poel",
@@ -673,6 +679,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "Tour of Britain - General classification",
+            "date": "08 Sept 2024",
+            "points": 15,
+            "rank": 14
+          },
+          {
             "name": "Tour of Britain - Stage 2",
             "date": "04 Sept 2024",
             "points": 15,
@@ -811,13 +823,19 @@
             "rank": 4
           }
         ],
-        "totalPoints": 1385
+        "totalPoints": 1400
       },
       {
         "name": "Felix Gall",
         "id": 150925,
         "sanctions": 0,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - General classification",
+            "date": "08 Sept 2024",
+            "points": 30,
+            "rank": 29
+          },
           {
             "name": "La Vuelta Ciclista a España - Stage 20",
             "date": "07 Sept 2024",
@@ -969,7 +987,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 839
+        "totalPoints": 869
       },
       {
         "name": "Giulio Ciccone",

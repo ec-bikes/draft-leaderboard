@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183137,
-  "fetchedDate": "7 Sept 2024, 23:11 GMT",
+  "fetchedDate": "8 Sept 2024, 23:14 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 14736,
+    "totalPoints": 15012,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -492,6 +492,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Romandie Féminin - General classification",
+            "date": "08 Sept 2024",
+            "points": 16,
+            "rank": 24
+          },
+          {
             "name": "Tour de France Femmes avec Zwift - General classification",
             "date": "18 Aug 2024",
             "points": 16,
@@ -610,7 +616,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1338
+        "totalPoints": 1354
       },
       {
         "name": "Emma Norsgaard",
@@ -1208,6 +1214,18 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Romandie Féminin - General classification",
+            "date": "08 Sept 2024",
+            "points": 220,
+            "rank": 4
+          },
+          {
+            "name": "Tour de Romandie Féminin - Stage 3",
+            "date": "08 Sept 2024",
+            "points": 40,
+            "rank": 2
+          },
+          {
             "name": "Tour de Romandie Féminin - Stage 2",
             "date": "07 Sept 2024",
             "points": 18,
@@ -1334,7 +1352,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 724
+        "totalPoints": 984
       },
       {
         "name": "Kim Cadzow",

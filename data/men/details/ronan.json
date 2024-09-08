@@ -2,17 +2,35 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183119,
-  "fetchedDate": "7 Sept 2024, 23:11 GMT",
+  "fetchedDate": "8 Sept 2024, 23:14 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 15362,
+    "totalPoints": 18349,
     "riders": [
       {
         "name": "Primož Roglič",
         "id": 88889,
         "sanctions": 15,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - Points classification",
+            "date": "08 Sept 2024",
+            "points": 130,
+            "rank": 2
+          },
+          {
+            "name": "La Vuelta Ciclista a España - General classification",
+            "date": "08 Sept 2024",
+            "points": 1100,
+            "rank": 1
+          },
+          {
+            "name": "La Vuelta Ciclista a España - Stage 21 (ITT)",
+            "date": "08 Sept 2024",
+            "points": 130,
+            "rank": 2
+          },
           {
             "name": "La Vuelta Ciclista a España - Stage 20",
             "date": "07 Sept 2024",
@@ -197,13 +215,19 @@
             "rank": 7
           }
         ],
-        "totalPoints": 2086
+        "totalPoints": 3446
       },
       {
         "name": "Biniam Girmay",
         "id": 1707195,
         "sanctions": 0,
         "results": [
+          {
+            "name": "BEMER Cyclassics",
+            "date": "08 Sept 2024",
+            "points": 260,
+            "rank": 3
+          },
           {
             "name": "Renewi Tour - General classification",
             "date": "01 Sept 2024",
@@ -391,7 +415,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 2407
+        "totalPoints": 2667
       },
       {
         "name": "Tom Pidcock",
@@ -539,6 +563,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "BEMER Cyclassics",
+            "date": "08 Sept 2024",
+            "points": 400,
+            "rank": 1
+          },
+          {
             "name": "Tour de Pologne - Stage 7",
             "date": "18 Aug 2024",
             "points": 50,
@@ -652,13 +682,19 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1192
+        "totalPoints": 1592
       },
       {
         "name": "Jonathan Milan",
         "id": 301151,
         "sanctions": 15,
         "results": [
+          {
+            "name": "BEMER Cyclassics",
+            "date": "08 Sept 2024",
+            "points": 320,
+            "rank": 2
+          },
           {
             "name": "Renewi Tour - Stage 4",
             "date": "31 Aug 2024",
@@ -836,13 +872,19 @@
             "rank": 5
           }
         ],
-        "totalPoints": 2062
+        "totalPoints": 2382
       },
       {
         "name": "Richard Carapaz",
         "id": 91656,
         "sanctions": 0,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - General classification",
+            "date": "08 Sept 2024",
+            "points": 600,
+            "rank": 4
+          },
           {
             "name": "La Vuelta Ciclista a España - Stage 20",
             "date": "07 Sept 2024",
@@ -1023,13 +1065,19 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1669
+        "totalPoints": 2269
       },
       {
         "name": "Jhonatan Narváez",
         "id": 96372,
         "sanctions": 0,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - General classification",
+            "date": "08 Sept 2024",
+            "points": 20,
+            "rank": 50
+          },
           {
             "name": "La Vuelta Ciclista a España - Stage 17",
             "date": "04 Sept 2024",
@@ -1192,7 +1240,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 1840
+        "totalPoints": 1860
       },
       {
         "name": "Sam Bennett",
@@ -1372,6 +1420,18 @@
         "sanctions": 65,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - General classification",
+            "date": "08 Sept 2024",
+            "points": 25,
+            "rank": 36
+          },
+          {
+            "name": "La Vuelta Ciclista a España - Stage 21 (ITT)",
+            "date": "08 Sept 2024",
+            "points": 2,
+            "rank": 15
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 16",
             "date": "03 Sept 2024",
             "points": 45,
@@ -1529,7 +1589,7 @@
             "points": 10
           }
         ],
-        "totalPoints": 1298
+        "totalPoints": 1325
       },
       {
         "name": "Darren Rafferty",

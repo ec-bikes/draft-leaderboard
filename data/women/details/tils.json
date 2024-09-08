@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183137,
-  "fetchedDate": "7 Sept 2024, 23:11 GMT",
+  "fetchedDate": "8 Sept 2024, 23:14 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 14868,
+    "totalPoints": 15520,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Romandie Féminin - General classification",
+            "date": "08 Sept 2024",
+            "points": 320,
+            "rank": 2
+          },
           {
             "name": "Tour de Romandie Féminin - Stage 2",
             "date": "07 Sept 2024",
@@ -274,7 +280,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 4168
+        "totalPoints": 4488
       },
       {
         "name": "Kasia Niewiadoma",
@@ -448,6 +454,18 @@
         "id": 97498,
         "sanctions": 15,
         "results": [
+          {
+            "name": "Tour de Romandie Féminin - General classification",
+            "date": "08 Sept 2024",
+            "points": 140,
+            "rank": 6
+          },
+          {
+            "name": "Tour de Romandie Féminin - Stage 3",
+            "date": "08 Sept 2024",
+            "points": 6,
+            "rank": 10
+          },
           {
             "name": "Tour de Romandie Féminin - Stage 2",
             "date": "07 Sept 2024",
@@ -653,7 +671,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 1854
+        "totalPoints": 2000
       },
       {
         "name": "Charlotte Kool",
@@ -811,6 +829,18 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour de Romandie Féminin - General classification",
+            "date": "08 Sept 2024",
+            "points": 16,
+            "rank": 21
+          },
+          {
+            "name": "Tour de Romandie Féminin - Stage 3",
+            "date": "08 Sept 2024",
+            "points": 50,
+            "rank": 1
+          },
+          {
             "name": "Princess Anna Vasa Tour - General classification",
             "date": "28 Jul 2024",
             "points": 30,
@@ -941,13 +971,19 @@
             "rank": 18
           }
         ],
-        "totalPoints": 988
+        "totalPoints": 1054
       },
       {
         "name": "Sarah Gigante",
         "id": 1557078,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tour de Romandie Féminin - General classification",
+            "date": "08 Sept 2024",
+            "points": 120,
+            "rank": 7
+          },
           {
             "name": "Tour de Romandie Féminin - Stage 2",
             "date": "07 Sept 2024",
@@ -1038,7 +1074,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 753
+        "totalPoints": 873
       },
       {
         "name": "Ella Wyllie",

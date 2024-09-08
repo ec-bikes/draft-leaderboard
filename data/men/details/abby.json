@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183119,
-  "fetchedDate": "7 Sept 2024, 23:11 GMT",
+  "fetchedDate": "8 Sept 2024, 23:14 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 15525,
+    "totalPoints": 16705,
     "riders": [
       {
         "name": "Mads Pedersen",
@@ -224,6 +224,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - General classification",
+            "date": "08 Sept 2024",
+            "points": 90,
+            "rank": 14
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 19",
             "date": "06 Sept 2024",
             "points": 35,
@@ -324,7 +330,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 501
+        "totalPoints": 591
       },
       {
         "name": "Matteo Jorgenson",
@@ -496,6 +502,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "GP Industria & Artigianato",
+            "date": "08 Sept 2024",
+            "points": 5,
+            "rank": 22
+          },
+          {
             "name": "Olympic Games ME - Road Race",
             "date": "03 Aug 2024",
             "points": 150,
@@ -574,13 +586,19 @@
             "rank": 4
           }
         ],
-        "totalPoints": 666
+        "totalPoints": 671
       },
       {
         "name": "Kaden Groves",
         "id": 111683,
         "sanctions": 50,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - Points classification",
+            "date": "08 Sept 2024",
+            "points": 180,
+            "rank": 1
+          },
           {
             "name": "La Vuelta Ciclista a España - Stage 18",
             "date": "05 Sept 2024",
@@ -690,7 +708,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 1576
+        "totalPoints": 1756
       },
       {
         "name": "Toms Skujiņš",
@@ -1112,6 +1130,18 @@
         "sanctions": 35,
         "results": [
           {
+            "name": "La Vuelta Ciclista a España - General classification",
+            "date": "08 Sept 2024",
+            "points": 885,
+            "rank": 2
+          },
+          {
+            "name": "La Vuelta Ciclista a España - Stage 21 (ITT)",
+            "date": "08 Sept 2024",
+            "points": 20,
+            "rank": 11
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 20",
             "date": "07 Sept 2024",
             "points": 45,
@@ -1345,7 +1375,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 2411
+        "totalPoints": 3316
       },
       {
         "name": "Benoît Cosnefroy",

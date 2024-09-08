@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183119,
-  "fetchedDate": "7 Sept 2024, 23:11 GMT",
+  "fetchedDate": "8 Sept 2024, 23:14 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 14642,
+    "totalPoints": 15572,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -217,6 +217,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "BEMER Cyclassics",
+            "date": "08 Sept 2024",
+            "points": 8,
+            "rank": 48
+          },
+          {
             "name": "Renewi Tour - General classification",
             "date": "01 Sept 2024",
             "points": 220,
@@ -271,7 +277,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 1179
+        "totalPoints": 1187
       },
       {
         "name": "Geraint Thomas",
@@ -376,6 +382,12 @@
         "id": 68367,
         "sanctions": 25,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - General classification",
+            "date": "08 Sept 2024",
+            "points": 285,
+            "rank": 8
+          },
           {
             "name": "La Vuelta Ciclista a España - Stage 20",
             "date": "07 Sept 2024",
@@ -527,13 +539,19 @@
             "rank": 19
           }
         ],
-        "totalPoints": 1837
+        "totalPoints": 2122
       },
       {
         "name": "Carlos Rodriguez",
         "id": 428096,
         "sanctions": 0,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - General classification",
+            "date": "08 Sept 2024",
+            "points": 180,
+            "rank": 10
+          },
           {
             "name": "La Vuelta Ciclista a España - Stage 19",
             "date": "06 Sept 2024",
@@ -690,13 +708,19 @@
             "rank": 19
           }
         ],
-        "totalPoints": 2106
+        "totalPoints": 2286
       },
       {
         "name": "Marc Hirschi",
         "id": 111440,
         "sanctions": 0,
         "results": [
+          {
+            "name": "GP Industria & Artigianato",
+            "date": "08 Sept 2024",
+            "points": 200,
+            "rank": 1
+          },
           {
             "name": "Bretagne Classic - Ouest-France",
             "date": "25 Aug 2024",
@@ -852,13 +876,25 @@
             "rank": 6
           }
         ],
-        "totalPoints": 2293
+        "totalPoints": 2493
       },
       {
         "name": "Stefan Küng",
         "id": 74994,
         "sanctions": 0,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - General classification",
+            "date": "08 Sept 2024",
+            "points": 25,
+            "rank": 39
+          },
+          {
+            "name": "La Vuelta Ciclista a España - Stage 21 (ITT)",
+            "date": "08 Sept 2024",
+            "points": 180,
+            "rank": 1
+          },
           {
             "name": "La Vuelta Ciclista a España - Stage 18",
             "date": "05 Sept 2024",
@@ -1004,7 +1040,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1532
+        "totalPoints": 1737
       },
       {
         "name": "Fabio Jakobsen",
@@ -1072,6 +1108,12 @@
         "id": 64670,
         "sanctions": 0,
         "results": [
+          {
+            "name": "BEMER Cyclassics",
+            "date": "08 Sept 2024",
+            "points": 48,
+            "rank": 12
+          },
           {
             "name": "Renewi Tour - Stage 3",
             "date": "30 Aug 2024",
@@ -1163,13 +1205,19 @@
             "rank": 5
           }
         ],
-        "totalPoints": 275
+        "totalPoints": 323
       },
       {
         "name": "Søren Kragh Andersen",
         "id": 79156,
         "sanctions": 0,
         "results": [
+          {
+            "name": "BEMER Cyclassics",
+            "date": "08 Sept 2024",
+            "points": 4,
+            "rank": 54
+          },
           {
             "name": "Renewi Tour - General classification",
             "date": "01 Sept 2024",
@@ -1237,7 +1285,7 @@
             "rank": 31
           }
         ],
-        "totalPoints": 285
+        "totalPoints": 289
       }
     ]
   }
