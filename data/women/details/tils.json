@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 183137,
-  "fetchedDate": "9 Sept 2024, 23:13 GMT",
+  "momentId": 183378,
+  "fetchedDate": "10 Sept 2024, 23:11 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 15520,
+    "totalPoints": 15462,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -30,6 +30,11 @@
             "date": "06 Sept 2024",
             "points": 10,
             "rank": 8
+          },
+          {
+            "name": "Tour de Romandie Féminin - Stage 1 - Bonus",
+            "date": "06 Sept 2024",
+            "points": 6
           },
           {
             "name": "Tour de France Femmes avec Zwift - General classification",
@@ -280,7 +285,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 4488
+        "totalPoints": 4494
       },
       {
         "name": "Kasia Niewiadoma",
@@ -981,8 +986,8 @@
           {
             "name": "Tour de Romandie Féminin - General classification",
             "date": "08 Sept 2024",
-            "points": 120,
-            "rank": 7
+            "points": 56,
+            "rank": 11
           },
           {
             "name": "Tour de Romandie Féminin - Stage 2",
@@ -1074,7 +1079,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 873
+        "totalPoints": 809
       },
       {
         "name": "Ella Wyllie",
