@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183360,
-  "fetchedDate": "10 Sept 2024, 23:12 GMT",
+  "fetchedDate": "11 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 15572,
+    "totalPoints": 15627,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -884,6 +884,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "European Continental Championships ME - ITT",
+            "date": "11 Sept 2024",
+            "points": 55,
+            "rank": 2
+          },
+          {
             "name": "La Vuelta Ciclista a España - General classification",
             "date": "08 Sept 2024",
             "points": 25,
@@ -1040,7 +1046,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1737
+        "totalPoints": 1792
       },
       {
         "name": "Fabio Jakobsen",

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183378,
-  "fetchedDate": "10 Sept 2024, 23:11 GMT",
+  "fetchedDate": "11 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 11287,
+    "totalPoints": 11327,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -623,6 +623,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "European Continental Championships WE - ITT",
+            "date": "11 Sept 2024",
+            "points": 40,
+            "rank": 3
+          },
+          {
             "name": "Olympic Games WE - Road Race",
             "date": "04 Aug 2024",
             "points": 20,
@@ -743,7 +749,7 @@
             "rank": 15
           }
         ],
-        "totalPoints": 700
+        "totalPoints": 740
       },
       {
         "name": "Neve Bradbury",

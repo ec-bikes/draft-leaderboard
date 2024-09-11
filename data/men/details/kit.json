@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183360,
-  "fetchedDate": "10 Sept 2024, 23:12 GMT",
+  "fetchedDate": "11 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 9223,
+    "totalPoints": 9226,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -994,6 +994,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Giro della Toscana - Memorial Alfredo Martini",
+            "date": "11 Sept 2024",
+            "points": 3,
+            "rank": 16
+          },
+          {
             "name": "GP Industria & Artigianato",
             "date": "08 Sept 2024",
             "points": 5,
@@ -1060,7 +1066,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 168
+        "totalPoints": 171
       }
     ]
   }
