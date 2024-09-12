@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183360,
-  "fetchedDate": "11 Sept 2024, 23:13 GMT",
+  "fetchedDate": "12 Sept 2024, 23:14 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 9226,
+    "totalPoints": 9231,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -994,6 +994,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Gran Premio città di Peccioli - Coppa Sabatini",
+            "date": "12 Sept 2024",
+            "points": 5,
+            "rank": 29
+          },
+          {
             "name": "Giro della Toscana - Memorial Alfredo Martini",
             "date": "11 Sept 2024",
             "points": 3,
@@ -1066,7 +1072,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 171
+        "totalPoints": 176
       }
     ]
   }

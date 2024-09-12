@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183378,
-  "fetchedDate": "11 Sept 2024, 23:12 GMT",
+  "fetchedDate": "12 Sept 2024, 23:14 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 15517,
+    "totalPoints": 15540,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -1364,6 +1364,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "European Continental Championships - Mixed Relay TTT",
+            "date": "12 Sept 2024",
+            "points": 23.33,
+            "rank": 1
+          },
+          {
             "name": "European Continental Championships WE - ITT",
             "date": "11 Sept 2024",
             "points": 25,
@@ -1435,7 +1441,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 480
+        "totalPoints": 503
       },
       {
         "name": "Puck Pieterse",

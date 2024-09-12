@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183360,
-  "fetchedDate": "11 Sept 2024, 23:13 GMT",
+  "fetchedDate": "12 Sept 2024, 23:14 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 15627,
+    "totalPoints": 15827,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -716,6 +716,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Gran Premio città di Peccioli - Coppa Sabatini",
+            "date": "12 Sept 2024",
+            "points": 200,
+            "rank": 1
+          },
+          {
             "name": "GP Industria & Artigianato",
             "date": "08 Sept 2024",
             "points": 200,
@@ -876,7 +882,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 2493
+        "totalPoints": 2693
       },
       {
         "name": "Stefan Küng",
