@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183360,
-  "fetchedDate": "12 Sept 2024, 23:14 GMT",
+  "fetchedDate": "13 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 16297,
+    "totalPoints": 16867,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "13 Sept 2024",
+            "points": 150,
+            "rank": 7
+          },
           {
             "name": "Tour de France - Mountains classification",
             "date": "21 Jul 2024",
@@ -434,13 +440,19 @@
             "rank": 1
           }
         ],
-        "totalPoints": 9105
+        "totalPoints": 9255
       },
       {
         "name": "Neilson Powless",
         "id": 88143,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "13 Sept 2024",
+            "points": 125,
+            "rank": 8
+          },
           {
             "name": "Bretagne Classic - Ouest-France",
             "date": "25 Aug 2024",
@@ -484,13 +496,19 @@
             "rank": 22
           }
         ],
-        "totalPoints": 261
+        "totalPoints": 386
       },
       {
         "name": "Matej Mohoric",
         "id": 86863,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "13 Sept 2024",
+            "points": 20,
+            "rank": 30
+          },
           {
             "name": "Renewi Tour - General classification",
             "date": "01 Sept 2024",
@@ -600,7 +618,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 968
+        "totalPoints": 988
       },
       {
         "name": "Victor Lafay",
@@ -750,6 +768,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "13 Sept 2024",
+            "points": 275,
+            "rank": 4
+          },
+          {
             "name": "Renewi Tour - General classification",
             "date": "01 Sept 2024",
             "points": 16,
@@ -822,7 +846,7 @@
             "rank": 35
           }
         ],
-        "totalPoints": 835
+        "totalPoints": 1110
       },
       {
         "name": "Josh Tarling",

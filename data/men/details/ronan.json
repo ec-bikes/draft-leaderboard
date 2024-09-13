@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183360,
-  "fetchedDate": "12 Sept 2024, 23:14 GMT",
+  "fetchedDate": "13 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 18349,
+    "totalPoints": 18749,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -223,6 +223,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "13 Sept 2024",
+            "points": 400,
+            "rank": 2
+          },
+          {
             "name": "BEMER Cyclassics",
             "date": "08 Sept 2024",
             "points": 260,
@@ -415,7 +421,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 2667
+        "totalPoints": 3067
       },
       {
         "name": "Tom Pidcock",

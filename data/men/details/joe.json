@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183360,
-  "fetchedDate": "12 Sept 2024, 23:14 GMT",
+  "fetchedDate": "13 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 15366,
+    "totalPoints": 15386,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -1244,6 +1244,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "13 Sept 2024",
+            "points": 20,
+            "rank": 25
+          },
+          {
             "name": "Bretagne Classic - Ouest-France",
             "date": "25 Aug 2024",
             "points": 8,
@@ -1292,7 +1298,7 @@
             "rank": 25
           }
         ],
-        "totalPoints": 127
+        "totalPoints": 147
       }
     ]
   }

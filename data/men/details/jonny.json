@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183360,
-  "fetchedDate": "12 Sept 2024, 23:14 GMT",
+  "fetchedDate": "13 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 11093,
+    "totalPoints": 11138,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -190,6 +190,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "13 Sept 2024",
+            "points": 5,
+            "rank": 54
+          },
+          {
             "name": "Tour de France - General classification",
             "date": "21 Jul 2024",
             "points": 165,
@@ -268,7 +274,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 866
+        "totalPoints": 871
       },
       {
         "name": "David Gaudu",
@@ -519,6 +525,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "13 Sept 2024",
+            "points": 10,
+            "rank": 42
+          },
+          {
             "name": "Tour de France - General classification",
             "date": "21 Jul 2024",
             "points": 80,
@@ -603,7 +615,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 713
+        "totalPoints": 723
       },
       {
         "name": "Yves Lampaert",
@@ -981,6 +993,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "13 Sept 2024",
+            "points": 30,
+            "rank": 19
+          },
+          {
             "name": "Bretagne Classic - Ouest-France",
             "date": "25 Aug 2024",
             "points": 8,
@@ -1131,7 +1149,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 923
+        "totalPoints": 953
       },
       {
         "name": "Jack Haig",

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183360,
-  "fetchedDate": "12 Sept 2024, 23:14 GMT",
+  "fetchedDate": "13 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 14336,
+    "totalPoints": 14346,
     "riders": [
       {
         "name": "Adam Yates",
@@ -397,6 +397,12 @@
         "sanctions": 40,
         "results": [
           {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "13 Sept 2024",
+            "points": 10,
+            "rank": 36
+          },
+          {
             "name": "Renewi Tour - General classification",
             "date": "01 Sept 2024",
             "points": 32,
@@ -517,7 +523,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 1533
+        "totalPoints": 1543
       },
       {
         "name": "João Almeida",

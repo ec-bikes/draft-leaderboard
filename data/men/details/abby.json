@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183360,
-  "fetchedDate": "12 Sept 2024, 23:14 GMT",
+  "fetchedDate": "13 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 16705,
+    "totalPoints": 16745,
     "riders": [
       {
         "name": "Mads Pedersen",
@@ -338,6 +338,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "13 Sept 2024",
+            "points": 10,
+            "rank": 35
+          },
+          {
             "name": "Olympic Games ME - Road Race",
             "date": "03 Aug 2024",
             "points": 190,
@@ -494,7 +500,7 @@
             "rank": 29
           }
         ],
-        "totalPoints": 2612
+        "totalPoints": 2622
       },
       {
         "name": "Ben Healy",
@@ -716,6 +722,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "13 Sept 2024",
+            "points": 20,
+            "rank": 22
+          },
+          {
             "name": "Lidl Deutschland Tour - General classification",
             "date": "25 Aug 2024",
             "points": 20,
@@ -818,13 +830,19 @@
             "rank": 11
           }
         ],
-        "totalPoints": 1267
+        "totalPoints": 1287
       },
       {
         "name": "Alex Aranburu",
         "id": 422863,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "13 Sept 2024",
+            "points": 10,
+            "rank": 37
+          },
           {
             "name": "Bretagne Classic - Ouest-France",
             "date": "25 Aug 2024",
@@ -964,7 +982,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1098
+        "totalPoints": 1108
       },
       {
         "name": "Egan Bernal",

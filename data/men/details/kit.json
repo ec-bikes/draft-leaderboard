@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183360,
-  "fetchedDate": "12 Sept 2024, 23:14 GMT",
+  "fetchedDate": "13 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 9231,
+    "totalPoints": 9331,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -494,6 +494,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "13 Sept 2024",
+            "points": 100,
+            "rank": 9
+          },
+          {
             "name": "Bretagne Classic - Ouest-France",
             "date": "25 Aug 2024",
             "points": 24,
@@ -602,7 +608,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 992
+        "totalPoints": 1092
       },
       {
         "name": "Alexey Lutsenko",
