@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183378,
-  "fetchedDate": "13 Sept 2024, 23:12 GMT",
+  "fetchedDate": "14 Sept 2024, 23:11 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 13075,
+    "totalPoints": 13115,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -1008,6 +1008,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "European Continental Championships WE - Road Race",
+            "date": "14 Sept 2024",
+            "points": 40,
+            "rank": 11
+          },
+          {
             "name": "Tour de Romandie Féminin - General classification",
             "date": "08 Sept 2024",
             "points": 24,
@@ -1128,7 +1134,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 904
+        "totalPoints": 944
       },
       {
         "name": "Soraya Paladin",

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183378,
-  "fetchedDate": "13 Sept 2024, 23:12 GMT",
+  "fetchedDate": "14 Sept 2024, 23:11 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 15012,
+    "totalPoints": 15447,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -339,6 +339,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "European Continental Championships WE - Road Race",
+            "date": "14 Sept 2024",
+            "points": 200,
+            "rank": 2
+          },
+          {
             "name": "Tour de Romandie Féminin - Stage 1",
             "date": "06 Sept 2024",
             "points": 50,
@@ -451,7 +457,7 @@
             "points": 5
           }
         ],
-        "totalPoints": 2321
+        "totalPoints": 2521
       },
       {
         "name": "Maike van der Duin",
@@ -624,6 +630,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "European Continental Championships WE - Road Race",
+            "date": "14 Sept 2024",
+            "points": 80,
+            "rank": 7
+          },
+          {
             "name": "Tour de France Femmes avec Zwift - Stage 5",
             "date": "15 Aug 2024",
             "points": 20,
@@ -732,7 +744,7 @@
             "rank": 11
           }
         ],
-        "totalPoints": 593
+        "totalPoints": 673
       },
       {
         "name": "Evita Muzic",
@@ -946,6 +958,12 @@
         "sanctions": 15,
         "results": [
           {
+            "name": "European Continental Championships WE - Road Race",
+            "date": "14 Sept 2024",
+            "points": 5,
+            "rank": 22
+          },
+          {
             "name": "Konvert Koerse",
             "date": "23 Aug 2024",
             "points": 85,
@@ -1102,13 +1120,19 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1615
+        "totalPoints": 1620
       },
       {
         "name": "Daria Pikulik",
         "id": 99885,
         "sanctions": 0,
         "results": [
+          {
+            "name": "European Continental Championships WE - Road Race",
+            "date": "14 Sept 2024",
+            "points": 150,
+            "rank": 3
+          },
           {
             "name": "Konvert Koerse",
             "date": "23 Aug 2024",
@@ -1206,7 +1230,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 1009
+        "totalPoints": 1159
       },
       {
         "name": "Niamh Fisher-Black",

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183360,
-  "fetchedDate": "13 Sept 2024, 23:12 GMT",
+  "fetchedDate": "14 Sept 2024, 23:11 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 9331,
+    "totalPoints": 9334,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -616,6 +616,12 @@
         "sanctions": 30,
         "results": [
           {
+            "name": "Memorial Marco Pantani",
+            "date": "14 Sept 2024",
+            "points": 3,
+            "rank": 23
+          },
+          {
             "name": "Olympic Games ME - Road Race",
             "date": "03 Aug 2024",
             "points": 10,
@@ -699,7 +705,7 @@
             "rank": 31
           }
         ],
-        "totalPoints": 501
+        "totalPoints": 504
       },
       {
         "name": "Lennard Kämna",

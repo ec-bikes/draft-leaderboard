@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183360,
-  "fetchedDate": "13 Sept 2024, 23:12 GMT",
+  "fetchedDate": "14 Sept 2024, 23:11 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 15827,
+    "totalPoints": 15952,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -716,6 +716,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Memorial Marco Pantani",
+            "date": "14 Sept 2024",
+            "points": 125,
+            "rank": 1
+          },
+          {
             "name": "Gran Premio città di Peccioli - Coppa Sabatini",
             "date": "12 Sept 2024",
             "points": 200,
@@ -882,7 +888,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 2693
+        "totalPoints": 2818
       },
       {
         "name": "Stefan Küng",

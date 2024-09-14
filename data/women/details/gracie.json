@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183378,
-  "fetchedDate": "13 Sept 2024, 23:12 GMT",
+  "fetchedDate": "14 Sept 2024, 23:11 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 11327,
+    "totalPoints": 11577,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
         "sanctions": 0,
         "results": [
+          {
+            "name": "European Continental Championships WE - Road Race",
+            "date": "14 Sept 2024",
+            "points": 250,
+            "rank": 1
+          },
           {
             "name": "Tour de France Femmes avec Zwift - Stage 5",
             "date": "15 Aug 2024",
@@ -269,7 +275,7 @@
             "points": 8
           }
         ],
-        "totalPoints": 3151
+        "totalPoints": 3401
       },
       {
         "name": "Liane Lippert",
