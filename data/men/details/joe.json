@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183360,
-  "fetchedDate": "14 Sept 2024, 23:11 GMT",
+  "fetchedDate": "15 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 15386,
+    "totalPoints": 16016,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -229,6 +229,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "European Continental Championships ME - Road Race",
+            "date": "15 Sept 2024",
+            "points": 5,
+            "rank": 30
+          },
+          {
             "name": "Olympic Games ME - Road Race",
             "date": "03 Aug 2024",
             "points": 105,
@@ -295,7 +301,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 3230
+        "totalPoints": 3235
       },
       {
         "name": "Tao Geoghegan Hart",
@@ -346,6 +352,12 @@
         "id": 353375,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Montréal",
+            "date": "15 Sept 2024",
+            "points": 10,
+            "rank": 41
+          },
           {
             "name": "Lidl Deutschland Tour - General classification",
             "date": "25 Aug 2024",
@@ -497,13 +509,19 @@
             "rank": 2
           }
         ],
-        "totalPoints": 1117
+        "totalPoints": 1127
       },
       {
         "name": "Tim Merlier",
         "id": 70962,
         "sanctions": 0,
         "results": [
+          {
+            "name": "European Continental Championships ME - Road Race",
+            "date": "15 Sept 2024",
+            "points": 250,
+            "rank": 1
+          },
           {
             "name": "Tour de Pologne - Stage 7",
             "date": "18 Aug 2024",
@@ -671,13 +689,19 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1902
+        "totalPoints": 2152
       },
       {
         "name": "Julian Alaphilippe",
         "id": 71557,
         "sanctions": 25,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Montréal",
+            "date": "15 Sept 2024",
+            "points": 325,
+            "rank": 3
+          },
           {
             "name": "Tour of Britain - General classification",
             "date": "08 Sept 2024",
@@ -823,7 +847,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 1400
+        "totalPoints": 1725
       },
       {
         "name": "Felix Gall",
@@ -1244,6 +1268,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Grand Prix Cycliste de Montréal",
+            "date": "15 Sept 2024",
+            "points": 40,
+            "rank": 14
+          },
+          {
             "name": "Grand Prix Cycliste de Québec",
             "date": "13 Sept 2024",
             "points": 20,
@@ -1298,7 +1328,7 @@
             "rank": 25
           }
         ],
-        "totalPoints": 147
+        "totalPoints": 187
       }
     ]
   }

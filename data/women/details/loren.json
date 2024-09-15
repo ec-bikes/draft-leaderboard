@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183378,
-  "fetchedDate": "14 Sept 2024, 23:11 GMT",
+  "fetchedDate": "15 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 15447,
+    "totalPoints": 15482,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -958,6 +958,12 @@
         "sanctions": 15,
         "results": [
           {
+            "name": "Grand Prix International d'Isbergues - Pas de Calais Féminin",
+            "date": "15 Sept 2024",
+            "points": 35,
+            "rank": 7
+          },
+          {
             "name": "European Continental Championships WE - Road Race",
             "date": "14 Sept 2024",
             "points": 5,
@@ -1120,7 +1126,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1620
+        "totalPoints": 1655
       },
       {
         "name": "Daria Pikulik",

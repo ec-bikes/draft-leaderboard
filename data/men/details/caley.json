@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183360,
-  "fetchedDate": "14 Sept 2024, 23:11 GMT",
+  "fetchedDate": "15 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 16867,
+    "totalPoints": 17537,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Montréal",
+            "date": "15 Sept 2024",
+            "points": 500,
+            "rank": 1
+          },
           {
             "name": "Grand Prix Cycliste de Québec",
             "date": "13 Sept 2024",
@@ -440,13 +446,19 @@
             "rank": 1
           }
         ],
-        "totalPoints": 9255
+        "totalPoints": 9755
       },
       {
         "name": "Neilson Powless",
         "id": 88143,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Montréal",
+            "date": "15 Sept 2024",
+            "points": 20,
+            "rank": 23
+          },
           {
             "name": "Grand Prix Cycliste de Québec",
             "date": "13 Sept 2024",
@@ -496,7 +508,7 @@
             "rank": 22
           }
         ],
-        "totalPoints": 386
+        "totalPoints": 406
       },
       {
         "name": "Matej Mohoric",
@@ -768,6 +780,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "Grand Prix Cycliste de Montréal",
+            "date": "15 Sept 2024",
+            "points": 150,
+            "rank": 7
+          },
+          {
             "name": "Grand Prix Cycliste de Québec",
             "date": "13 Sept 2024",
             "points": 275,
@@ -846,7 +864,7 @@
             "rank": 35
           }
         ],
-        "totalPoints": 1110
+        "totalPoints": 1260
       },
       {
         "name": "Josh Tarling",

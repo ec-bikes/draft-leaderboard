@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183378,
-  "fetchedDate": "14 Sept 2024, 23:11 GMT",
+  "fetchedDate": "15 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 11577,
+    "totalPoints": 11655,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -915,6 +915,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Women's Cycling Grand Prix Stuttgart & Region",
+            "date": "15 Sept 2024",
+            "points": 3,
+            "rank": 29
+          },
+          {
             "name": "Tour de Romandie Féminin - General classification",
             "date": "08 Sept 2024",
             "points": 16,
@@ -987,13 +993,19 @@
             "rank": 9
           }
         ],
-        "totalPoints": 615
+        "totalPoints": 618
       },
       {
         "name": "Olivia Baril",
         "id": 151523,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Women's Cycling Grand Prix Stuttgart & Region",
+            "date": "15 Sept 2024",
+            "points": 5,
+            "rank": 17
+          },
           {
             "name": "Olympic Games WE - Road Race",
             "date": "04 Aug 2024",
@@ -1144,7 +1156,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 874
+        "totalPoints": 879
       },
       {
         "name": "Lizzie Deignan",
@@ -1207,6 +1219,12 @@
         "id": 1549446,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Women's Cycling Grand Prix Stuttgart & Region",
+            "date": "15 Sept 2024",
+            "points": 70,
+            "rank": 6
+          },
           {
             "name": "Tour Cycliste Féminin International de l'Ardèche - General classification",
             "date": "08 Sept 2024",
@@ -1310,7 +1328,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 897
+        "totalPoints": 967
       }
     ]
   }

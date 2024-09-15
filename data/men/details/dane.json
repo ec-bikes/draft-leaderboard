@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183360,
-  "fetchedDate": "14 Sept 2024, 23:11 GMT",
+  "fetchedDate": "15 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 15952,
+    "totalPoints": 16055,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -217,6 +217,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "European Continental Championships ME - Road Race",
+            "date": "15 Sept 2024",
+            "points": 60,
+            "rank": 9
+          },
+          {
             "name": "BEMER Cyclassics",
             "date": "08 Sept 2024",
             "points": 8,
@@ -277,7 +283,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 1187
+        "totalPoints": 1247
       },
       {
         "name": "Geraint Thomas",
@@ -1127,6 +1133,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "European Continental Championships ME - Road Race",
+            "date": "15 Sept 2024",
+            "points": 40,
+            "rank": 11
+          },
+          {
             "name": "BEMER Cyclassics",
             "date": "08 Sept 2024",
             "points": 48,
@@ -1223,13 +1235,19 @@
             "rank": 5
           }
         ],
-        "totalPoints": 323
+        "totalPoints": 363
       },
       {
         "name": "Søren Kragh Andersen",
         "id": 79156,
         "sanctions": 0,
         "results": [
+          {
+            "name": "European Continental Championships ME - Road Race",
+            "date": "15 Sept 2024",
+            "points": 3,
+            "rank": 34
+          },
           {
             "name": "BEMER Cyclassics",
             "date": "08 Sept 2024",
@@ -1303,7 +1321,7 @@
             "rank": 31
           }
         ],
-        "totalPoints": 289
+        "totalPoints": 292
       }
     ]
   }

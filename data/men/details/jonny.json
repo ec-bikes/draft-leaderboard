@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183360,
-  "fetchedDate": "14 Sept 2024, 23:11 GMT",
+  "fetchedDate": "15 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 11138,
+    "totalPoints": 11488,
     "riders": [
       {
         "name": "Jasper Philipsen",
         "id": 148275,
         "sanctions": 0,
         "results": [
+          {
+            "name": "European Continental Championships ME - Road Race",
+            "date": "15 Sept 2024",
+            "points": 125,
+            "rank": 4
+          },
           {
             "name": "BEMER Cyclassics",
             "date": "08 Sept 2024",
@@ -182,13 +188,19 @@
             "rank": 1
           }
         ],
-        "totalPoints": 4210
+        "totalPoints": 4335
       },
       {
         "name": "Simon Yates",
         "id": 1558112,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Montréal",
+            "date": "15 Sept 2024",
+            "points": 50,
+            "rank": 13
+          },
           {
             "name": "Grand Prix Cycliste de Québec",
             "date": "13 Sept 2024",
@@ -274,7 +286,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 871
+        "totalPoints": 921
       },
       {
         "name": "David Gaudu",
@@ -404,6 +416,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Grand Prix Cycliste de Montréal",
+            "date": "15 Sept 2024",
+            "points": 70,
+            "rank": 11
+          },
+          {
             "name": "Tour de Pologne - General classification",
             "date": "18 Aug 2024",
             "points": 8,
@@ -517,13 +535,19 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1669
+        "totalPoints": 1739
       },
       {
         "name": "Jai Hindley",
         "id": 109829,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Montréal",
+            "date": "15 Sept 2024",
+            "points": 85,
+            "rank": 10
+          },
           {
             "name": "Grand Prix Cycliste de Québec",
             "date": "13 Sept 2024",
@@ -615,7 +639,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 723
+        "totalPoints": 808
       },
       {
         "name": "Yves Lampaert",
@@ -993,6 +1017,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Grand Prix Cycliste de Montréal",
+            "date": "15 Sept 2024",
+            "points": 20,
+            "rank": 29
+          },
+          {
             "name": "Grand Prix Cycliste de Québec",
             "date": "13 Sept 2024",
             "points": 30,
@@ -1149,7 +1179,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 953
+        "totalPoints": 973
       },
       {
         "name": "Jack Haig",

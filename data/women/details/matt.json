@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183378,
-  "fetchedDate": "14 Sept 2024, 23:11 GMT",
+  "fetchedDate": "15 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 12144,
+    "totalPoints": 12147,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -691,6 +691,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Women's Cycling Grand Prix Stuttgart & Region",
+            "date": "15 Sept 2024",
+            "points": 3,
+            "rank": 30
+          },
+          {
             "name": "Tour de Suisse Women - General classification",
             "date": "18 Jun 2024",
             "points": 48,
@@ -781,7 +787,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 444
+        "totalPoints": 447
       },
       {
         "name": "Ruby Roseman-Gannon",

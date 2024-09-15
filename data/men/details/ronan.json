@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183360,
-  "fetchedDate": "14 Sept 2024, 23:11 GMT",
+  "fetchedDate": "15 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 18749,
+    "totalPoints": 18979,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -569,6 +569,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "European Continental Championships ME - Road Race",
+            "date": "15 Sept 2024",
+            "points": 200,
+            "rank": 2
+          },
+          {
             "name": "BEMER Cyclassics",
             "date": "08 Sept 2024",
             "points": 400,
@@ -688,13 +694,19 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1592
+        "totalPoints": 1792
       },
       {
         "name": "Jonathan Milan",
         "id": 301151,
         "sanctions": 15,
         "results": [
+          {
+            "name": "European Continental Championships ME - Road Race",
+            "date": "15 Sept 2024",
+            "points": 30,
+            "rank": 13
+          },
           {
             "name": "BEMER Cyclassics",
             "date": "08 Sept 2024",
@@ -878,7 +890,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 2382
+        "totalPoints": 2412
       },
       {
         "name": "Richard Carapaz",

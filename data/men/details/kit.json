@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183360,
-  "fetchedDate": "14 Sept 2024, 23:11 GMT",
+  "fetchedDate": "15 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 9334,
+    "totalPoints": 9877,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -494,6 +494,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Grand Prix Cycliste de Montréal",
+            "date": "15 Sept 2024",
+            "points": 400,
+            "rank": 2
+          },
+          {
             "name": "Grand Prix Cycliste de Québec",
             "date": "13 Sept 2024",
             "points": 100,
@@ -608,13 +614,19 @@
             "rank": 4
           }
         ],
-        "totalPoints": 1092
+        "totalPoints": 1492
       },
       {
         "name": "Alexey Lutsenko",
         "id": 68778,
         "sanctions": 30,
         "results": [
+          {
+            "name": "Trofeo Matteotti",
+            "date": "15 Sept 2024",
+            "points": 70,
+            "rank": 3
+          },
           {
             "name": "Memorial Marco Pantani",
             "date": "14 Sept 2024",
@@ -705,7 +717,7 @@
             "rank": 31
           }
         ],
-        "totalPoints": 504
+        "totalPoints": 574
       },
       {
         "name": "Lennard Kämna",
@@ -738,6 +750,12 @@
         "id": 107713,
         "sanctions": 35,
         "results": [
+          {
+            "name": "Grand Prix d'Isbergues - Pas de Calais",
+            "date": "15 Sept 2024",
+            "points": 70,
+            "rank": 3
+          },
           {
             "name": "GP de Fourmies / La Voix du Nord",
             "date": "08 Sept 2024",
@@ -876,7 +894,7 @@
             "rank": 19
           }
         ],
-        "totalPoints": 850
+        "totalPoints": 920
       },
       {
         "name": "Wout Poels",
@@ -1006,6 +1024,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Trofeo Matteotti",
+            "date": "15 Sept 2024",
+            "points": 3,
+            "rank": 22
+          },
+          {
             "name": "Gran Premio città di Peccioli - Coppa Sabatini",
             "date": "12 Sept 2024",
             "points": 5,
@@ -1084,7 +1108,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 176
+        "totalPoints": 179
       }
     ]
   }

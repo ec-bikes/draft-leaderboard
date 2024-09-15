@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183360,
-  "fetchedDate": "14 Sept 2024, 23:11 GMT",
+  "fetchedDate": "15 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 16745,
+    "totalPoints": 17125,
     "riders": [
       {
         "name": "Mads Pedersen",
         "id": 86895,
         "sanctions": 10,
         "results": [
+          {
+            "name": "European Continental Championships ME - Road Race",
+            "date": "15 Sept 2024",
+            "points": 90,
+            "rank": 6
+          },
           {
             "name": "Lidl Deutschland Tour - General classification",
             "date": "25 Aug 2024",
@@ -216,7 +222,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 2520
+        "totalPoints": 2610
       },
       {
         "name": "Sepp Kuss",
@@ -337,6 +343,12 @@
         "id": 159567,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Montréal",
+            "date": "15 Sept 2024",
+            "points": 60,
+            "rank": 12
+          },
           {
             "name": "Grand Prix Cycliste de Québec",
             "date": "13 Sept 2024",
@@ -500,13 +512,19 @@
             "rank": 29
           }
         ],
-        "totalPoints": 2622
+        "totalPoints": 2682
       },
       {
         "name": "Ben Healy",
         "id": 235075,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Montréal",
+            "date": "15 Sept 2024",
+            "points": 20,
+            "rank": 22
+          },
           {
             "name": "GP Industria & Artigianato",
             "date": "08 Sept 2024",
@@ -592,7 +610,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 671
+        "totalPoints": 691
       },
       {
         "name": "Kaden Groves",
@@ -722,6 +740,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Grand Prix Cycliste de Montréal",
+            "date": "15 Sept 2024",
+            "points": 175,
+            "rank": 6
+          },
+          {
             "name": "Grand Prix Cycliste de Québec",
             "date": "13 Sept 2024",
             "points": 20,
@@ -830,13 +854,19 @@
             "rank": 11
           }
         ],
-        "totalPoints": 1287
+        "totalPoints": 1462
       },
       {
         "name": "Alex Aranburu",
         "id": 422863,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Montréal",
+            "date": "15 Sept 2024",
+            "points": 35,
+            "rank": 15
+          },
           {
             "name": "Grand Prix Cycliste de Québec",
             "date": "13 Sept 2024",
@@ -982,7 +1012,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1108
+        "totalPoints": 1143
       },
       {
         "name": "Egan Bernal",

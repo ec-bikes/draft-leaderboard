@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183378,
-  "fetchedDate": "14 Sept 2024, 23:11 GMT",
+  "fetchedDate": "15 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 15540,
+    "totalPoints": 15625,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -1185,6 +1185,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Women's Cycling Grand Prix Stuttgart & Region",
+            "date": "15 Sept 2024",
+            "points": 85,
+            "rank": 5
+          },
+          {
             "name": "Olympic Games WE - Road Race",
             "date": "04 Aug 2024",
             "points": 100,
@@ -1305,7 +1311,7 @@
             "rank": 13
           }
         ],
-        "totalPoints": 743
+        "totalPoints": 828
       },
       {
         "name": "Sofia Bertizzolo",
