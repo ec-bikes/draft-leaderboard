@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183592,
-  "fetchedDate": "17 Sept 2024, 23:15 GMT",
+  "fetchedDate": "18 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 16055,
+    "totalPoints": 16070,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -217,6 +217,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "Skoda Tour de Luxembourg - Stage 1",
+            "date": "18 Sept 2024",
+            "points": 15,
+            "rank": 2
+          },
+          {
             "name": "European Continental Championships ME - Road Race",
             "date": "15 Sept 2024",
             "points": 60,
@@ -283,7 +289,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 1247
+        "totalPoints": 1262
       },
       {
         "name": "Geraint Thomas",

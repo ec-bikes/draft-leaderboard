@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183592,
-  "fetchedDate": "17 Sept 2024, 23:15 GMT",
+  "fetchedDate": "18 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 17125,
+    "totalPoints": 17275,
     "riders": [
       {
         "name": "Mads Pedersen",
@@ -862,6 +862,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Grand Prix de Wallonie",
+            "date": "18 Sept 2024",
+            "points": 150,
+            "rank": 2
+          },
+          {
             "name": "Grand Prix Cycliste de Montréal",
             "date": "15 Sept 2024",
             "points": 35,
@@ -1012,7 +1018,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1143
+        "totalPoints": 1293
       },
       {
         "name": "Egan Bernal",

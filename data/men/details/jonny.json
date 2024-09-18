@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183592,
-  "fetchedDate": "17 Sept 2024, 23:15 GMT",
+  "fetchedDate": "18 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 11488,
+    "totalPoints": 11493,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -865,6 +865,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Grand Prix de Wallonie",
+            "date": "18 Sept 2024",
+            "points": 5,
+            "rank": 25
+          },
+          {
             "name": "La Vuelta Ciclista a España - Stage 5",
             "date": "21 Aug 2024",
             "points": 80,
@@ -1009,7 +1015,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 786
+        "totalPoints": 791
       },
       {
         "name": "Romain Grégoire",

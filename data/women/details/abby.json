@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183610,
-  "fetchedDate": "17 Sept 2024, 23:14 GMT",
+  "fetchedDate": "18 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 13115,
+    "totalPoints": 13240,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -1292,6 +1292,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "St Feuillien Grand Prix de Wallonie",
+            "date": "18 Sept 2024",
+            "points": 125,
+            "rank": 1
+          },
+          {
             "name": "Classic Lorient Agglomération - Trophée CERATIZIT",
             "date": "24 Aug 2024",
             "points": 180,
@@ -1454,7 +1460,7 @@
             "rank": 14
           }
         ],
-        "totalPoints": 1290
+        "totalPoints": 1415
       }
     ]
   }

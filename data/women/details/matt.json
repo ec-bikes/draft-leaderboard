@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183610,
-  "fetchedDate": "17 Sept 2024, 23:14 GMT",
+  "fetchedDate": "18 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 12147,
+    "totalPoints": 12150,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -534,6 +534,12 @@
         "sanctions": 5,
         "results": [
           {
+            "name": "St Feuillien Grand Prix de Wallonie",
+            "date": "18 Sept 2024",
+            "points": 3,
+            "rank": 18
+          },
+          {
             "name": "Tour de Romandie Féminin - General classification",
             "date": "08 Sept 2024",
             "points": 260,
@@ -683,7 +689,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 1287
+        "totalPoints": 1290
       },
       {
         "name": "Amanda Spratt",

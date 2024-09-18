@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183610,
-  "fetchedDate": "17 Sept 2024, 23:14 GMT",
+  "fetchedDate": "18 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 11655,
+    "totalPoints": 11658,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -629,6 +629,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "St Feuillien Grand Prix de Wallonie",
+            "date": "18 Sept 2024",
+            "points": 3,
+            "rank": 17
+          },
+          {
             "name": "European Continental Championships WE - ITT",
             "date": "11 Sept 2024",
             "points": 40,
@@ -755,7 +761,7 @@
             "rank": 15
           }
         ],
-        "totalPoints": 740
+        "totalPoints": 743
       },
       {
         "name": "Neve Bradbury",

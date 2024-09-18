@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183592,
-  "fetchedDate": "17 Sept 2024, 23:15 GMT",
+  "fetchedDate": "18 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 18979,
+    "totalPoints": 19079,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -223,6 +223,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Grand Prix de Wallonie",
+            "date": "18 Sept 2024",
+            "points": 100,
+            "rank": 4
+          },
+          {
             "name": "Grand Prix Cycliste de Québec",
             "date": "13 Sept 2024",
             "points": 400,
@@ -421,7 +427,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 3067
+        "totalPoints": 3167
       },
       {
         "name": "Tom Pidcock",

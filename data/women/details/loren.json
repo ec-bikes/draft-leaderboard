@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183610,
-  "fetchedDate": "17 Sept 2024, 23:14 GMT",
+  "fetchedDate": "18 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 15482,
+    "totalPoints": 15592,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -85,6 +85,12 @@
         "id": 76149,
         "sanctions": 0,
         "results": [
+          {
+            "name": "St Feuillien Grand Prix de Wallonie",
+            "date": "18 Sept 2024",
+            "points": 85,
+            "rank": 2
+          },
           {
             "name": "Olympic Games WE - Road Race",
             "date": "04 Aug 2024",
@@ -331,7 +337,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 3979
+        "totalPoints": 4064
       },
       {
         "name": "Elisa Balsamo",
@@ -752,6 +758,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "St Feuillien Grand Prix de Wallonie",
+            "date": "18 Sept 2024",
+            "points": 25,
+            "rank": 9
+          },
+          {
             "name": "Tour de Romandie Féminin - Stage 1",
             "date": "06 Sept 2024",
             "points": 8,
@@ -950,7 +962,7 @@
             "rank": 22
           }
         ],
-        "totalPoints": 1938
+        "totalPoints": 1963
       },
       {
         "name": "Chiara Consonni",

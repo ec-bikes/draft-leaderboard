@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183592,
-  "fetchedDate": "17 Sept 2024, 23:15 GMT",
+  "fetchedDate": "18 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 17537,
+    "totalPoints": 17542,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -1207,6 +1207,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Grand Prix de Wallonie",
+            "date": "18 Sept 2024",
+            "points": 5,
+            "rank": 24
+          },
+          {
             "name": "La Vuelta Ciclista a España - General classification",
             "date": "08 Sept 2024",
             "points": 80,
@@ -1333,7 +1339,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 775
+        "totalPoints": 780
       }
     ]
   }
