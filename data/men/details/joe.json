@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183592,
-  "fetchedDate": "18 Sept 2024, 23:12 GMT",
+  "fetchedDate": "19 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 16041,
+    "totalPoints": 16056,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -229,6 +229,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Skoda Tour de Luxembourg - Stage 2",
+            "date": "19 Sept 2024",
+            "points": 15,
+            "rank": 2
+          },
+          {
             "name": "Skoda Tour de Luxembourg - Stage 1",
             "date": "18 Sept 2024",
             "points": 20,
@@ -312,7 +318,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 3260
+        "totalPoints": 3275
       },
       {
         "name": "Tao Geoghegan Hart",

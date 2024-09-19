@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183592,
-  "fetchedDate": "18 Sept 2024, 23:12 GMT",
+  "fetchedDate": "19 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 11493,
+    "totalPoints": 11496,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -755,6 +755,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Skoda Tour de Luxembourg - Stage 2",
+            "date": "19 Sept 2024",
+            "points": 3,
+            "rank": 5
+          },
+          {
             "name": "BEMER Cyclassics",
             "date": "08 Sept 2024",
             "points": 8,
@@ -857,7 +863,7 @@
             "rank": 14
           }
         ],
-        "totalPoints": 354
+        "totalPoints": 357
       },
       {
         "name": "Bryan Coquard",

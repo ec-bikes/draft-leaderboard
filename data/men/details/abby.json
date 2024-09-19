@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183592,
-  "fetchedDate": "18 Sept 2024, 23:12 GMT",
+  "fetchedDate": "19 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 17275,
+    "totalPoints": 17295,
     "riders": [
       {
         "name": "Mads Pedersen",
         "id": 86895,
         "sanctions": 10,
         "results": [
+          {
+            "name": "Skoda Tour de Luxembourg - Stage 2",
+            "date": "19 Sept 2024",
+            "points": 20,
+            "rank": 1
+          },
           {
             "name": "European Continental Championships ME - Road Race",
             "date": "15 Sept 2024",
@@ -222,7 +228,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 2610
+        "totalPoints": 2630
       },
       {
         "name": "Sepp Kuss",
