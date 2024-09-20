@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183592,
-  "fetchedDate": "19 Sept 2024, 23:13 GMT",
+  "fetchedDate": "20 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 14446,
+    "totalPoints": 14486,
     "riders": [
       {
         "name": "Adam Yates",
@@ -1296,6 +1296,12 @@
         "sanctions": 20,
         "results": [
           {
+            "name": "Kampioenschap van Vlaanderen",
+            "date": "20 Sept 2024",
+            "points": 40,
+            "rank": 6
+          },
+          {
             "name": "European Continental Championships ME - Road Race",
             "date": "15 Sept 2024",
             "points": 5,
@@ -1415,7 +1421,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 1070
+        "totalPoints": 1110
       },
       {
         "name": "Casper van Uden",

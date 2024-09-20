@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183592,
-  "fetchedDate": "19 Sept 2024, 23:13 GMT",
+  "fetchedDate": "20 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 16075,
+    "totalPoints": 16088,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -734,6 +734,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Skoda Tour de Luxembourg - Stage 3",
+            "date": "20 Sept 2024",
+            "points": 10,
+            "rank": 3
+          },
+          {
             "name": "Memorial Marco Pantani",
             "date": "14 Sept 2024",
             "points": 125,
@@ -906,7 +912,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 2818
+        "totalPoints": 2828
       },
       {
         "name": "Stefan Küng",
@@ -1145,6 +1151,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Kampioenschap van Vlaanderen",
+            "date": "20 Sept 2024",
+            "points": 3,
+            "rank": 24
+          },
+          {
             "name": "European Continental Championships ME - Road Race",
             "date": "15 Sept 2024",
             "points": 40,
@@ -1247,7 +1259,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 363
+        "totalPoints": 366
       },
       {
         "name": "Søren Kragh Andersen",

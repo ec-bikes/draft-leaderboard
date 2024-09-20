@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183592,
-  "fetchedDate": "19 Sept 2024, 23:13 GMT",
+  "fetchedDate": "20 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 9877,
+    "totalPoints": 9927,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -751,6 +751,12 @@
         "sanctions": 35,
         "results": [
           {
+            "name": "Kampioenschap van Vlaanderen",
+            "date": "20 Sept 2024",
+            "points": 50,
+            "rank": 5
+          },
+          {
             "name": "Grand Prix d'Isbergues - Pas de Calais",
             "date": "15 Sept 2024",
             "points": 70,
@@ -894,7 +900,7 @@
             "rank": 19
           }
         ],
-        "totalPoints": 920
+        "totalPoints": 970
       },
       {
         "name": "Wout Poels",

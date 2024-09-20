@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183592,
-  "fetchedDate": "19 Sept 2024, 23:13 GMT",
+  "fetchedDate": "20 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 11496,
+    "totalPoints": 11571,
     "riders": [
       {
         "name": "Jasper Philipsen",
         "id": 148275,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Kampioenschap van Vlaanderen",
+            "date": "20 Sept 2024",
+            "points": 70,
+            "rank": 3
+          },
           {
             "name": "European Continental Championships ME - Road Race",
             "date": "15 Sept 2024",
@@ -188,7 +194,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 4335
+        "totalPoints": 4405
       },
       {
         "name": "Simon Yates",
@@ -293,6 +299,12 @@
         "id": 112351,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Skoda Tour de Luxembourg - Stage 3",
+            "date": "20 Sept 2024",
+            "points": 5,
+            "rank": 4
+          },
           {
             "name": "La Vuelta Ciclista a España - General classification",
             "date": "08 Sept 2024",
@@ -408,7 +420,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 1078
+        "totalPoints": 1083
       },
       {
         "name": "Romain Bardet",

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183592,
-  "fetchedDate": "19 Sept 2024, 23:13 GMT",
+  "fetchedDate": "20 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 16056,
+    "totalPoints": 16231,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -229,10 +229,21 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Skoda Tour de Luxembourg - Stage 3",
+            "date": "20 Sept 2024",
+            "points": 15,
+            "rank": 2
+          },
+          {
             "name": "Skoda Tour de Luxembourg - Stage 2",
             "date": "19 Sept 2024",
             "points": 15,
             "rank": 2
+          },
+          {
+            "name": "Skoda Tour de Luxembourg - Stage 2 - Bonus",
+            "date": "19 Sept 2024",
+            "points": 5
           },
           {
             "name": "Skoda Tour de Luxembourg - Stage 1",
@@ -318,7 +329,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 3275
+        "totalPoints": 3295
       },
       {
         "name": "Tao Geoghegan Hart",
@@ -534,6 +545,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Kampioenschap van Vlaanderen",
+            "date": "20 Sept 2024",
+            "points": 125,
+            "rank": 1
+          },
+          {
             "name": "European Continental Championships ME - Road Race",
             "date": "15 Sept 2024",
             "points": 250,
@@ -706,7 +723,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 2152
+        "totalPoints": 2277
       },
       {
         "name": "Julian Alaphilippe",
@@ -1146,6 +1163,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "Kampioenschap van Vlaanderen",
+            "date": "20 Sept 2024",
+            "points": 30,
+            "rank": 8
+          },
+          {
             "name": "Renewi Tour - Stage 1",
             "date": "28 Aug 2024",
             "points": 20,
@@ -1277,7 +1300,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1292
+        "totalPoints": 1322
       },
       {
         "name": "Andrea Bagioli",

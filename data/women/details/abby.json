@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183610,
-  "fetchedDate": "19 Sept 2024, 23:12 GMT",
+  "fetchedDate": "20 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 13240,
+    "totalPoints": 13243,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -1292,6 +1292,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "AG Tour de la Semois - Stage 1",
+            "date": "20 Sept 2024",
+            "points": 3,
+            "rank": 3
+          },
+          {
             "name": "St Feuillien Grand Prix de Wallonie",
             "date": "18 Sept 2024",
             "points": 125,
@@ -1460,7 +1466,7 @@
             "rank": 14
           }
         ],
-        "totalPoints": 1415
+        "totalPoints": 1418
       }
     ]
   }
