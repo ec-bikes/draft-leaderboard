@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183592,
-  "fetchedDate": "20 Sept 2024, 23:12 GMT",
+  "fetchedDate": "21 Sept 2024, 23:11 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 16088,
+    "totalPoints": 16093,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -734,6 +734,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Skoda Tour de Luxembourg - Stage 4",
+            "date": "21 Sept 2024",
+            "points": 5,
+            "rank": 4
+          },
+          {
             "name": "Skoda Tour de Luxembourg - Stage 3",
             "date": "20 Sept 2024",
             "points": 10,
@@ -912,7 +918,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 2828
+        "totalPoints": 2833
       },
       {
         "name": "Stefan Küng",

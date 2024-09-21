@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183610,
-  "fetchedDate": "20 Sept 2024, 23:12 GMT",
+  "fetchedDate": "21 Sept 2024, 23:11 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 13243,
+    "totalPoints": 13288,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -1292,6 +1292,18 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "AG Tour de la Semois - General classification",
+            "date": "21 Sept 2024",
+            "points": 40,
+            "rank": 1
+          },
+          {
+            "name": "AG Tour de la Semois - Stage 2",
+            "date": "21 Sept 2024",
+            "points": 5,
+            "rank": 2
+          },
+          {
             "name": "AG Tour de la Semois - Stage 1",
             "date": "20 Sept 2024",
             "points": 3,
@@ -1466,7 +1478,7 @@
             "rank": 14
           }
         ],
-        "totalPoints": 1418
+        "totalPoints": 1463
       }
     ]
   }

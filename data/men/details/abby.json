@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183592,
-  "fetchedDate": "20 Sept 2024, 23:12 GMT",
+  "fetchedDate": "21 Sept 2024, 23:11 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 17295,
+    "totalPoints": 17335,
     "riders": [
       {
         "name": "Mads Pedersen",
         "id": 86895,
         "sanctions": 10,
         "results": [
+          {
+            "name": "Skoda Tour de Luxembourg - Stage 4",
+            "date": "21 Sept 2024",
+            "points": 10,
+            "rank": 3
+          },
           {
             "name": "Skoda Tour de Luxembourg - Stage 2",
             "date": "19 Sept 2024",
@@ -228,7 +234,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 2630
+        "totalPoints": 2640
       },
       {
         "name": "Sepp Kuss",
@@ -746,6 +752,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "SUPER 8 Classic",
+            "date": "21 Sept 2024",
+            "points": 30,
+            "rank": 11
+          },
+          {
             "name": "Grand Prix Cycliste de Montréal",
             "date": "15 Sept 2024",
             "points": 175,
@@ -860,7 +872,7 @@
             "rank": 11
           }
         ],
-        "totalPoints": 1462
+        "totalPoints": 1492
       },
       {
         "name": "Alex Aranburu",

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183592,
-  "fetchedDate": "20 Sept 2024, 23:12 GMT",
+  "fetchedDate": "21 Sept 2024, 23:11 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 9927,
+    "totalPoints": 9947,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -194,6 +194,12 @@
         "sanctions": 8,
         "results": [
           {
+            "name": "Skoda Tour de Luxembourg - Stage 4",
+            "date": "21 Sept 2024",
+            "points": 20,
+            "rank": 1
+          },
+          {
             "name": "Olympic Games ME - Road Race",
             "date": "03 Aug 2024",
             "points": 30,
@@ -340,7 +346,7 @@
             "rank": 20
           }
         ],
-        "totalPoints": 1956
+        "totalPoints": 1976
       },
       {
         "name": "Sam Welsford",

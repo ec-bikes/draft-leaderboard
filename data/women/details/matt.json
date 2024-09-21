@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183610,
-  "fetchedDate": "20 Sept 2024, 23:12 GMT",
+  "fetchedDate": "21 Sept 2024, 23:11 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 12150,
+    "totalPoints": 12188,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -1179,6 +1179,18 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "AG Tour de la Semois - General classification",
+            "date": "21 Sept 2024",
+            "points": 30,
+            "rank": 2
+          },
+          {
+            "name": "AG Tour de la Semois - Stage 2",
+            "date": "21 Sept 2024",
+            "points": 8,
+            "rank": 1
+          },
+          {
             "name": "Tour Cycliste Féminin International de l'Ardèche - General classification",
             "date": "08 Sept 2024",
             "points": 125,
@@ -1432,7 +1444,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 1365
+        "totalPoints": 1403
       }
     ]
   }

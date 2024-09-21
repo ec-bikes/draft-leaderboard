@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183592,
-  "fetchedDate": "20 Sept 2024, 23:12 GMT",
+  "fetchedDate": "21 Sept 2024, 23:11 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 14486,
+    "totalPoints": 14491,
     "riders": [
       {
         "name": "Adam Yates",
@@ -1296,6 +1296,12 @@
         "sanctions": 20,
         "results": [
           {
+            "name": "SUPER 8 Classic",
+            "date": "21 Sept 2024",
+            "points": 5,
+            "rank": 19
+          },
+          {
             "name": "Kampioenschap van Vlaanderen",
             "date": "20 Sept 2024",
             "points": 40,
@@ -1421,7 +1427,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 1110
+        "totalPoints": 1115
       },
       {
         "name": "Casper van Uden",
