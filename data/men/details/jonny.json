@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183592,
-  "fetchedDate": "21 Sept 2024, 23:11 GMT",
+  "fetchedDate": "22 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 11576,
+    "totalPoints": 11724,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -300,6 +300,18 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Skoda Tour de Luxembourg - General classification",
+            "date": "22 Sept 2024",
+            "points": 125,
+            "rank": 3
+          },
+          {
+            "name": "Skoda Tour de Luxembourg - Stage 5",
+            "date": "22 Sept 2024",
+            "points": 20,
+            "rank": 1
+          },
+          {
             "name": "Skoda Tour de Luxembourg - Stage 3",
             "date": "20 Sept 2024",
             "points": 5,
@@ -420,7 +432,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 1083
+        "totalPoints": 1228
       },
       {
         "name": "Romain Bardet",
@@ -767,6 +779,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Skoda Tour de Luxembourg - General classification",
+            "date": "22 Sept 2024",
+            "points": 3,
+            "rank": 38
+          },
+          {
             "name": "Skoda Tour de Luxembourg - Stage 2",
             "date": "19 Sept 2024",
             "points": 3,
@@ -875,7 +893,7 @@
             "rank": 14
           }
         ],
-        "totalPoints": 357
+        "totalPoints": 360
       },
       {
         "name": "Bryan Coquard",

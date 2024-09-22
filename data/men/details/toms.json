@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183592,
-  "fetchedDate": "21 Sept 2024, 23:11 GMT",
+  "fetchedDate": "22 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 14491,
+    "totalPoints": 14649,
     "riders": [
       {
         "name": "Adam Yates",
@@ -397,6 +397,12 @@
         "sanctions": 40,
         "results": [
           {
+            "name": "Skoda Tour de Luxembourg - General classification",
+            "date": "22 Sept 2024",
+            "points": 5,
+            "rank": 24
+          },
+          {
             "name": "Grand Prix Cycliste de Montréal",
             "date": "15 Sept 2024",
             "points": 10,
@@ -529,13 +535,19 @@
             "rank": 5
           }
         ],
-        "totalPoints": 1553
+        "totalPoints": 1558
       },
       {
         "name": "João Almeida",
         "id": 107840,
         "sanctions": 65,
         "results": [
+          {
+            "name": "World Championships ME - ITT",
+            "date": "22 Sept 2024",
+            "points": 3,
+            "rank": 24
+          },
           {
             "name": "La Vuelta Ciclista a España - Stage 4",
             "date": "20 Aug 2024",
@@ -687,7 +699,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 2142
+        "totalPoints": 2145
       },
       {
         "name": "Kévin Vauquelin",
@@ -834,6 +846,12 @@
         "id": 150923,
         "sanctions": 15,
         "results": [
+          {
+            "name": "World Championships ME - ITT",
+            "date": "22 Sept 2024",
+            "points": 65,
+            "rank": 10
+          },
           {
             "name": "La Vuelta Ciclista a España - General classification",
             "date": "08 Sept 2024",
@@ -1033,7 +1051,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1972
+        "totalPoints": 2037
       },
       {
         "name": "Cian Uijtdebroeks",
@@ -1296,6 +1314,12 @@
         "sanctions": 20,
         "results": [
           {
+            "name": "Alfasun Gooikse Pijl p/b Lotto",
+            "date": "22 Sept 2024",
+            "points": 85,
+            "rank": 2
+          },
+          {
             "name": "SUPER 8 Classic",
             "date": "21 Sept 2024",
             "points": 5,
@@ -1427,7 +1451,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 1115
+        "totalPoints": 1200
       },
       {
         "name": "Casper van Uden",

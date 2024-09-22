@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183592,
-  "fetchedDate": "21 Sept 2024, 23:11 GMT",
+  "fetchedDate": "22 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 16239,
+    "totalPoints": 17029,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
         "sanctions": 0,
         "results": [
+          {
+            "name": "World Championships ME - ITT",
+            "date": "22 Sept 2024",
+            "points": 455,
+            "rank": 1
+          },
           {
             "name": "Tour of Britain - General classification",
             "date": "08 Sept 2024",
@@ -221,13 +227,19 @@
             "rank": 1
           }
         ],
-        "totalPoints": 4568
+        "totalPoints": 5023
       },
       {
         "name": "Mathieu van der Poel",
         "id": 79462,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Skoda Tour de Luxembourg - General classification",
+            "date": "22 Sept 2024",
+            "points": 150,
+            "rank": 2
+          },
           {
             "name": "Skoda Tour de Luxembourg - Stage 4",
             "date": "21 Sept 2024",
@@ -340,7 +352,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 3303
+        "totalPoints": 3453
       },
       {
         "name": "Tao Geoghegan Hart",
@@ -556,6 +568,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Alfasun Gooikse Pijl p/b Lotto",
+            "date": "22 Sept 2024",
+            "points": 125,
+            "rank": 1
+          },
+          {
             "name": "Kampioenschap van Vlaanderen",
             "date": "20 Sept 2024",
             "points": 125,
@@ -734,7 +752,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 2277
+        "totalPoints": 2402
       },
       {
         "name": "Julian Alaphilippe",
@@ -1174,6 +1192,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "Alfasun Gooikse Pijl p/b Lotto",
+            "date": "22 Sept 2024",
+            "points": 60,
+            "rank": 4
+          },
+          {
             "name": "Kampioenschap van Vlaanderen",
             "date": "20 Sept 2024",
             "points": 30,
@@ -1311,7 +1335,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1322
+        "totalPoints": 1382
       },
       {
         "name": "Andrea Bagioli",

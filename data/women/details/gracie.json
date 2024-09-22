@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183610,
-  "fetchedDate": "21 Sept 2024, 23:11 GMT",
+  "fetchedDate": "22 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 11658,
+    "totalPoints": 11958,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -381,6 +381,12 @@
         "sanctions": 15,
         "results": [
           {
+            "name": "World Championships WE - ITT",
+            "date": "22 Sept 2024",
+            "points": 200,
+            "rank": 3
+          },
+          {
             "name": "Tour de Romandie Féminin - General classification",
             "date": "08 Sept 2024",
             "points": 16,
@@ -423,7 +429,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 764
+        "totalPoints": 964
       },
       {
         "name": "Mavi Garcia",
@@ -629,6 +635,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "World Championships WE - ITT",
+            "date": "22 Sept 2024",
+            "points": 100,
+            "rank": 6
+          },
+          {
             "name": "St Feuillien Grand Prix de Wallonie",
             "date": "18 Sept 2024",
             "points": 3,
@@ -761,7 +773,7 @@
             "rank": 15
           }
         ],
-        "totalPoints": 743
+        "totalPoints": 843
       },
       {
         "name": "Neve Bradbury",

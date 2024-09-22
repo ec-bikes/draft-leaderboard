@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183610,
-  "fetchedDate": "21 Sept 2024, 23:11 GMT",
+  "fetchedDate": "22 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 15625,
+    "totalPoints": 15940,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
         "sanctions": 0,
         "results": [
+          {
+            "name": "World Championships WE - ITT",
+            "date": "22 Sept 2024",
+            "points": 250,
+            "rank": 2
+          },
           {
             "name": "Tour de Romandie Féminin - General classification",
             "date": "08 Sept 2024",
@@ -285,7 +291,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 4494
+        "totalPoints": 4744
       },
       {
         "name": "Kasia Niewiadoma",
@@ -459,6 +465,12 @@
         "id": 97498,
         "sanctions": 15,
         "results": [
+          {
+            "name": "World Championships WE - ITT",
+            "date": "22 Sept 2024",
+            "points": 60,
+            "rank": 9
+          },
           {
             "name": "Tour de Romandie Féminin - General classification",
             "date": "08 Sept 2024",
@@ -676,7 +688,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 2000
+        "totalPoints": 2060
       },
       {
         "name": "Charlotte Kool",
@@ -1370,6 +1382,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "World Championships WE - ITT",
+            "date": "22 Sept 2024",
+            "points": 5,
+            "rank": 19
+          },
+          {
             "name": "European Continental Championships - Mixed Relay TTT",
             "date": "12 Sept 2024",
             "points": 23.33,
@@ -1447,7 +1465,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 503
+        "totalPoints": 508
       },
       {
         "name": "Puck Pieterse",

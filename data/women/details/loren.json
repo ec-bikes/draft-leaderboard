@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183610,
-  "fetchedDate": "21 Sept 2024, 23:11 GMT",
+  "fetchedDate": "22 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 15592,
+    "totalPoints": 15942,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -504,6 +504,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "World Championships WE - ITT",
+            "date": "22 Sept 2024",
+            "points": 350,
+            "rank": 1
+          },
+          {
             "name": "Tour de Romandie Féminin - General classification",
             "date": "08 Sept 2024",
             "points": 16,
@@ -628,7 +634,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1354
+        "totalPoints": 1704
       },
       {
         "name": "Emma Norsgaard",

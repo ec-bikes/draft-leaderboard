@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183592,
-  "fetchedDate": "21 Sept 2024, 23:11 GMT",
+  "fetchedDate": "22 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 16093,
+    "totalPoints": 16381,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -734,6 +734,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Skoda Tour de Luxembourg - General classification",
+            "date": "22 Sept 2024",
+            "points": 70,
+            "rank": 6
+          },
+          {
             "name": "Skoda Tour de Luxembourg - Stage 4",
             "date": "21 Sept 2024",
             "points": 5,
@@ -918,13 +924,19 @@
             "rank": 6
           }
         ],
-        "totalPoints": 2833
+        "totalPoints": 2903
       },
       {
         "name": "Stefan Küng",
         "id": 74994,
         "sanctions": 0,
         "results": [
+          {
+            "name": "World Championships ME - ITT",
+            "date": "22 Sept 2024",
+            "points": 90,
+            "rank": 8
+          },
           {
             "name": "European Continental Championships ME - ITT",
             "date": "11 Sept 2024",
@@ -1088,13 +1100,19 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1792
+        "totalPoints": 1882
       },
       {
         "name": "Fabio Jakobsen",
         "id": 87061,
         "sanctions": 15,
         "results": [
+          {
+            "name": "Paris-Chauny",
+            "date": "22 Sept 2024",
+            "points": 3,
+            "rank": 23
+          },
           {
             "name": "Tour de France - Stage 5",
             "date": "03 Jul 2024",
@@ -1149,13 +1167,19 @@
             "rank": 4
           }
         ],
-        "totalPoints": 329
+        "totalPoints": 332
       },
       {
         "name": "Arnaud Démare",
         "id": 64670,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Paris-Chauny",
+            "date": "22 Sept 2024",
+            "points": 125,
+            "rank": 1
+          },
           {
             "name": "Kampioenschap van Vlaanderen",
             "date": "20 Sept 2024",
@@ -1265,7 +1289,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 366
+        "totalPoints": 491
       },
       {
         "name": "Søren Kragh Andersen",

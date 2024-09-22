@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183592,
-  "fetchedDate": "21 Sept 2024, 23:11 GMT",
+  "fetchedDate": "22 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 19079,
+    "totalPoints": 19189,
     "riders": [
       {
         "name": "Primož Roglič",
         "id": 88889,
         "sanctions": 15,
         "results": [
+          {
+            "name": "World Championships ME - ITT",
+            "date": "22 Sept 2024",
+            "points": 40,
+            "rank": 12
+          },
           {
             "name": "La Vuelta Ciclista a España - Points classification",
             "date": "08 Sept 2024",
@@ -215,7 +221,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 3446
+        "totalPoints": 3486
       },
       {
         "name": "Biniam Girmay",
@@ -575,6 +581,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Alfasun Gooikse Pijl p/b Lotto",
+            "date": "22 Sept 2024",
+            "points": 70,
+            "rank": 3
+          },
+          {
             "name": "European Continental Championships ME - Road Race",
             "date": "15 Sept 2024",
             "points": 200,
@@ -700,7 +712,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1792
+        "totalPoints": 1862
       },
       {
         "name": "Jonathan Milan",

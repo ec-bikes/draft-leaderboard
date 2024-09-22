@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183610,
-  "fetchedDate": "21 Sept 2024, 23:11 GMT",
+  "fetchedDate": "22 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 12188,
+    "totalPoints": 12463,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
         "sanctions": 15,
         "results": [
+          {
+            "name": "World Championships WE - ITT",
+            "date": "22 Sept 2024",
+            "points": 125,
+            "rank": 5
+          },
           {
             "name": "European Continental Championships WE - ITT",
             "date": "11 Sept 2024",
@@ -313,7 +319,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 5164
+        "totalPoints": 5289
       },
       {
         "name": "Cecilie Uttrup Ludwig",
@@ -887,6 +893,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "World Championships WE - ITT",
+            "date": "22 Sept 2024",
+            "points": 150,
+            "rank": 4
+          },
+          {
             "name": "European Continental Championships WU - ITT",
             "date": "11 Sept 2024",
             "points": 30,
@@ -989,7 +1001,7 @@
             "rank": 25
           }
         ],
-        "totalPoints": 617
+        "totalPoints": 767
       },
       {
         "name": "Kristen Faulkner",

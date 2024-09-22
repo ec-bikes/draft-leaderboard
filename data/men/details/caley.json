@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183592,
-  "fetchedDate": "21 Sept 2024, 23:11 GMT",
+  "fetchedDate": "22 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 17542,
+    "totalPoints": 17737,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -872,6 +872,12 @@
         "sanctions": 100,
         "results": [
           {
+            "name": "World Championships ME - ITT",
+            "date": "22 Sept 2024",
+            "points": 195,
+            "rank": 4
+          },
+          {
             "name": "BEMER Cyclassics",
             "date": "08 Sept 2024",
             "points": 2,
@@ -967,7 +973,7 @@
             "rank": 55
           }
         ],
-        "totalPoints": 573
+        "totalPoints": 768
       },
       {
         "name": "Enric Mas",

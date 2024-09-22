@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183592,
-  "fetchedDate": "21 Sept 2024, 23:11 GMT",
+  "fetchedDate": "22 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 17335,
+    "totalPoints": 17338,
     "riders": [
       {
         "name": "Mads Pedersen",
         "id": 86895,
         "sanctions": 10,
         "results": [
+          {
+            "name": "Skoda Tour de Luxembourg - Stage 5",
+            "date": "22 Sept 2024",
+            "points": 3,
+            "rank": 5
+          },
           {
             "name": "Skoda Tour de Luxembourg - Stage 4",
             "date": "21 Sept 2024",
@@ -234,7 +240,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 2640
+        "totalPoints": 2643
       },
       {
         "name": "Sepp Kuss",

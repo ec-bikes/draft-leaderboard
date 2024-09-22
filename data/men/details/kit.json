@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183592,
-  "fetchedDate": "21 Sept 2024, 23:11 GMT",
+  "fetchedDate": "22 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 9947,
+    "totalPoints": 10372,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -194,6 +194,12 @@
         "sanctions": 8,
         "results": [
           {
+            "name": "Skoda Tour de Luxembourg - General classification",
+            "date": "22 Sept 2024",
+            "points": 85,
+            "rank": 5
+          },
+          {
             "name": "Skoda Tour de Luxembourg - Stage 4",
             "date": "21 Sept 2024",
             "points": 20,
@@ -346,7 +352,7 @@
             "rank": 20
           }
         ],
-        "totalPoints": 1976
+        "totalPoints": 2061
       },
       {
         "name": "Sam Welsford",
@@ -426,6 +432,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "World Championships ME - ITT",
+            "date": "22 Sept 2024",
+            "points": 325,
+            "rank": 2
+          },
+          {
             "name": "Olympic Games ME - ITT",
             "date": "27 Jul 2024",
             "points": 325,
@@ -492,7 +504,7 @@
             "rank": 36
           }
         ],
-        "totalPoints": 834
+        "totalPoints": 1159
       },
       {
         "name": "Pello Bilbao",
@@ -757,6 +769,12 @@
         "sanctions": 35,
         "results": [
           {
+            "name": "Alfasun Gooikse Pijl p/b Lotto",
+            "date": "22 Sept 2024",
+            "points": 10,
+            "rank": 12
+          },
+          {
             "name": "Kampioenschap van Vlaanderen",
             "date": "20 Sept 2024",
             "points": 50,
@@ -906,7 +924,7 @@
             "rank": 19
           }
         ],
-        "totalPoints": 970
+        "totalPoints": 980
       },
       {
         "name": "Wout Poels",
@@ -1036,6 +1054,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Skoda Tour de Luxembourg - General classification",
+            "date": "22 Sept 2024",
+            "points": 5,
+            "rank": 28
+          },
+          {
             "name": "Trofeo Matteotti",
             "date": "15 Sept 2024",
             "points": 3,
@@ -1120,7 +1144,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 179
+        "totalPoints": 184
       }
     ]
   }
