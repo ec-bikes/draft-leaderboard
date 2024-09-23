@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183592,
-  "fetchedDate": "22 Sept 2024, 23:13 GMT",
+  "fetchedDate": "23 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 19189,
+    "totalPoints": 19239,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -1456,6 +1456,12 @@
         "sanctions": 65,
         "results": [
           {
+            "name": "World Championships MU - ITT",
+            "date": "23 Sept 2024",
+            "points": 10,
+            "rank": 12
+          },
+          {
             "name": "La Vuelta Ciclista a España - General classification",
             "date": "08 Sept 2024",
             "points": 25,
@@ -1625,13 +1631,19 @@
             "points": 10
           }
         ],
-        "totalPoints": 1325
+        "totalPoints": 1335
       },
       {
         "name": "Darren Rafferty",
         "id": 171058,
         "sanctions": 0,
         "results": [
+          {
+            "name": "World Championships MU - ITT",
+            "date": "23 Sept 2024",
+            "points": 40,
+            "rank": 6
+          },
           {
             "name": "Vuelta a Burgos - General classification",
             "date": "09 Aug 2024",
@@ -1699,7 +1711,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 254
+        "totalPoints": 294
       }
     ]
   }
