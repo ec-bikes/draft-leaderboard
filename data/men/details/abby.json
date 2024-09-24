@@ -1,8 +1,8 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 183592,
-  "fetchedDate": "23 Sept 2024, 23:12 GMT",
+  "momentId": 183821,
+  "fetchedDate": "24 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
@@ -1205,7 +1205,7 @@
       {
         "name": "Ben O'Connor",
         "id": 97805,
-        "sanctions": 15,
+        "sanctions": 35,
         "results": [
           {
             "name": "La Vuelta Ciclista a España - General classification",

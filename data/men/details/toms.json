@@ -1,8 +1,8 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 183592,
-  "fetchedDate": "23 Sept 2024, 23:12 GMT",
+  "momentId": 183821,
+  "fetchedDate": "24 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
@@ -11,7 +11,7 @@
       {
         "name": "Adam Yates",
         "id": 70590,
-        "sanctions": 40,
+        "sanctions": 55,
         "results": [
           {
             "name": "La Vuelta Ciclista a España - General classification",
@@ -540,7 +540,7 @@
       {
         "name": "João Almeida",
         "id": 107840,
-        "sanctions": 65,
+        "sanctions": 80,
         "results": [
           {
             "name": "World Championships ME - ITT",
@@ -844,7 +844,7 @@
       {
         "name": "Brandon McNulty",
         "id": 150923,
-        "sanctions": 15,
+        "sanctions": 30,
         "results": [
           {
             "name": "World Championships ME - ITT",

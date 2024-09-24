@@ -1,8 +1,8 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 183592,
-  "fetchedDate": "23 Sept 2024, 23:12 GMT",
+  "momentId": 183821,
+  "fetchedDate": "24 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
@@ -1453,7 +1453,7 @@
       {
         "name": "Isaac del Toro",
         "id": 2002910,
-        "sanctions": 65,
+        "sanctions": 80,
         "results": [
           {
             "name": "World Championships MU - ITT",
