@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183839,
-  "fetchedDate": "24 Sept 2024, 23:12 GMT",
+  "fetchedDate": "25 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 15940,
+    "totalPoints": 15990,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -466,6 +466,12 @@
         "sanctions": 15,
         "results": [
           {
+            "name": "World Championships - Mixed Relay TTT",
+            "date": "25 Sept 2024",
+            "points": 50,
+            "rank": 4
+          },
+          {
             "name": "World Championships WE - ITT",
             "date": "22 Sept 2024",
             "points": 60,
@@ -688,7 +694,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 2060
+        "totalPoints": 2110
       },
       {
         "name": "Charlotte Kool",

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183821,
-  "fetchedDate": "24 Sept 2024, 23:12 GMT",
+  "fetchedDate": "25 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 16381,
+    "totalPoints": 16419,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -1108,6 +1108,12 @@
         "sanctions": 15,
         "results": [
           {
+            "name": "Omloop van het Houtland",
+            "date": "25 Sept 2024",
+            "points": 35,
+            "rank": 7
+          },
+          {
             "name": "Paris-Chauny",
             "date": "22 Sept 2024",
             "points": 3,
@@ -1167,13 +1173,19 @@
             "rank": 4
           }
         ],
-        "totalPoints": 332
+        "totalPoints": 367
       },
       {
         "name": "Arnaud Démare",
         "id": 64670,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Omloop van het Houtland",
+            "date": "25 Sept 2024",
+            "points": 3,
+            "rank": 16
+          },
           {
             "name": "Paris-Chauny",
             "date": "22 Sept 2024",
@@ -1289,7 +1301,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 491
+        "totalPoints": 494
       },
       {
         "name": "Søren Kragh Andersen",

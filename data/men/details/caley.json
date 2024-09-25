@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183821,
-  "fetchedDate": "24 Sept 2024, 23:12 GMT",
+  "fetchedDate": "25 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 17737,
+    "totalPoints": 17770,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -454,6 +454,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "World Championships - Mixed Relay TTT",
+            "date": "25 Sept 2024",
+            "points": 33.33,
+            "rank": 6
+          },
+          {
             "name": "Grand Prix Cycliste de Montréal",
             "date": "15 Sept 2024",
             "points": 20,
@@ -508,7 +514,7 @@
             "rank": 22
           }
         ],
-        "totalPoints": 406
+        "totalPoints": 439
       },
       {
         "name": "Matej Mohoric",

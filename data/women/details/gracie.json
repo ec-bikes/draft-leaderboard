@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183839,
-  "fetchedDate": "24 Sept 2024, 23:12 GMT",
+  "fetchedDate": "25 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 11958,
+    "totalPoints": 12088,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -283,6 +283,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "World Championships - Mixed Relay TTT",
+            "date": "25 Sept 2024",
+            "points": 83.33,
+            "rank": 2
+          },
+          {
             "name": "Tour de Romandie Féminin - General classification",
             "date": "08 Sept 2024",
             "points": 32,
@@ -373,7 +379,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 706
+        "totalPoints": 790
       },
       {
         "name": "Chloe Dygert",
@@ -635,6 +641,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "World Championships - Mixed Relay TTT",
+            "date": "25 Sept 2024",
+            "points": 16.67,
+            "rank": 10
+          },
+          {
             "name": "World Championships WE - ITT",
             "date": "22 Sept 2024",
             "points": 100,
@@ -773,7 +785,7 @@
             "rank": 15
           }
         ],
-        "totalPoints": 843
+        "totalPoints": 860
       },
       {
         "name": "Neve Bradbury",
@@ -1019,6 +1031,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "World Championships - Mixed Relay TTT",
+            "date": "25 Sept 2024",
+            "points": 28.33,
+            "rank": 7
+          },
+          {
             "name": "Women's Cycling Grand Prix Stuttgart & Region",
             "date": "15 Sept 2024",
             "points": 5,
@@ -1174,7 +1192,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 879
+        "totalPoints": 908
       },
       {
         "name": "Lizzie Deignan",

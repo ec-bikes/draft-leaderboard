@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183839,
-  "fetchedDate": "24 Sept 2024, 23:12 GMT",
+  "fetchedDate": "25 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 13288,
+    "totalPoints": 13405,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -862,6 +862,12 @@
         "sanctions": 10,
         "results": [
           {
+            "name": "World Championships - Mixed Relay TTT",
+            "date": "25 Sept 2024",
+            "points": 25,
+            "rank": 8
+          },
+          {
             "name": "Tour de Romandie Féminin - General classification",
             "date": "08 Sept 2024",
             "points": 16,
@@ -1000,13 +1006,19 @@
             "rank": 7
           }
         ],
-        "totalPoints": 1209
+        "totalPoints": 1234
       },
       {
         "name": "Noemi Rüegg",
         "id": 347941,
         "sanctions": 0,
         "results": [
+          {
+            "name": "World Championships - Mixed Relay TTT",
+            "date": "25 Sept 2024",
+            "points": 25,
+            "rank": 8
+          },
           {
             "name": "European Continental Championships WE - Road Race",
             "date": "14 Sept 2024",
@@ -1134,13 +1146,19 @@
             "rank": 1
           }
         ],
-        "totalPoints": 944
+        "totalPoints": 969
       },
       {
         "name": "Soraya Paladin",
         "id": 75244,
         "sanctions": 0,
         "results": [
+          {
+            "name": "World Championships - Mixed Relay TTT",
+            "date": "25 Sept 2024",
+            "points": 66.67,
+            "rank": 3
+          },
           {
             "name": "Classic Lorient Agglomération - Trophée CERATIZIT",
             "date": "24 Aug 2024",
@@ -1232,7 +1250,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 778
+        "totalPoints": 845
       },
       {
         "name": "Alison Jackson",

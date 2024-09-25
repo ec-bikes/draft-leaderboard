@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183821,
-  "fetchedDate": "24 Sept 2024, 23:12 GMT",
+  "fetchedDate": "25 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 17338,
+    "totalPoints": 17438,
     "riders": [
       {
         "name": "Mads Pedersen",
@@ -1208,6 +1208,12 @@
         "sanctions": 35,
         "results": [
           {
+            "name": "World Championships - Mixed Relay TTT",
+            "date": "25 Sept 2024",
+            "points": 100,
+            "rank": 1
+          },
+          {
             "name": "La Vuelta Ciclista a España - General classification",
             "date": "08 Sept 2024",
             "points": 885,
@@ -1453,7 +1459,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 3316
+        "totalPoints": 3416
       },
       {
         "name": "Benoît Cosnefroy",

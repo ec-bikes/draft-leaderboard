@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183821,
-  "fetchedDate": "24 Sept 2024, 23:12 GMT",
+  "fetchedDate": "25 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 19239,
+    "totalPoints": 19242,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -229,6 +229,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Omloop van het Houtland",
+            "date": "25 Sept 2024",
+            "points": 3,
+            "rank": 25
+          },
+          {
             "name": "Grand Prix de Wallonie",
             "date": "18 Sept 2024",
             "points": 100,
@@ -433,7 +439,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 3167
+        "totalPoints": 3170
       },
       {
         "name": "Tom Pidcock",

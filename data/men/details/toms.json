@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183821,
-  "fetchedDate": "24 Sept 2024, 23:12 GMT",
+  "fetchedDate": "25 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 14649,
+    "totalPoints": 14682,
     "riders": [
       {
         "name": "Adam Yates",
@@ -847,6 +847,12 @@
         "sanctions": 30,
         "results": [
           {
+            "name": "World Championships - Mixed Relay TTT",
+            "date": "25 Sept 2024",
+            "points": 33.33,
+            "rank": 6
+          },
+          {
             "name": "World Championships ME - ITT",
             "date": "22 Sept 2024",
             "points": 65,
@@ -1051,7 +1057,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 2037
+        "totalPoints": 2070
       },
       {
         "name": "Cian Uijtdebroeks",

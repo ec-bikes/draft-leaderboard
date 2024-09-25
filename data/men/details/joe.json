@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183821,
-  "fetchedDate": "24 Sept 2024, 23:12 GMT",
+  "fetchedDate": "25 Sept 2024, 23:13 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 17029,
+    "totalPoints": 17114,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -1192,6 +1192,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "Omloop van het Houtland",
+            "date": "25 Sept 2024",
+            "points": 85,
+            "rank": 2
+          },
+          {
             "name": "Alfasun Gooikse Pijl p/b Lotto",
             "date": "22 Sept 2024",
             "points": 60,
@@ -1335,7 +1341,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1382
+        "totalPoints": 1467
       },
       {
         "name": "Andrea Bagioli",
