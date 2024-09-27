@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183821,
-  "fetchedDate": "26 Sept 2024, 23:13 GMT",
+  "fetchedDate": "27 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 19242,
+    "totalPoints": 19334,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -229,12 +229,6 @@
         "sanctions": 0,
         "results": [
           {
-            "name": "Omloop van het Houtland",
-            "date": "25 Sept 2024",
-            "points": 3,
-            "rank": 25
-          },
-          {
             "name": "Grand Prix de Wallonie",
             "date": "18 Sept 2024",
             "points": 100,
@@ -439,7 +433,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 3170
+        "totalPoints": 3167
       },
       {
         "name": "Tom Pidcock",
@@ -1462,6 +1456,12 @@
         "sanctions": 80,
         "results": [
           {
+            "name": "World Championships MU - Road Race",
+            "date": "27 Sept 2024",
+            "points": 70,
+            "rank": 6
+          },
+          {
             "name": "World Championships MU - ITT",
             "date": "23 Sept 2024",
             "points": 10,
@@ -1637,13 +1637,19 @@
             "points": 10
           }
         ],
-        "totalPoints": 1335
+        "totalPoints": 1405
       },
       {
         "name": "Darren Rafferty",
         "id": 171058,
         "sanctions": 0,
         "results": [
+          {
+            "name": "World Championships MU - Road Race",
+            "date": "27 Sept 2024",
+            "points": 25,
+            "rank": 12
+          },
           {
             "name": "World Championships MU - ITT",
             "date": "23 Sept 2024",
@@ -1717,7 +1723,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 294
+        "totalPoints": 319
       }
     ]
   }
