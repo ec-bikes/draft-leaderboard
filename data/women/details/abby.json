@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183839,
-  "fetchedDate": "27 Sept 2024, 23:12 GMT",
+  "fetchedDate": "28 Sept 2024, 23:11 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 13405,
+    "totalPoints": 13695,
     "riders": [
       {
         "name": "Marianne Vos",
         "id": 31144,
         "sanctions": 0,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "28 Sept 2024",
+            "points": 150,
+            "rank": 8
+          },
           {
             "name": "Tour de France Femmes avec Zwift - General classification",
             "date": "18 Aug 2024",
@@ -174,7 +180,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 2659
+        "totalPoints": 2809
       },
       {
         "name": "Pfeiffer Georgi",
@@ -468,6 +474,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "World Championships WE - Road Race",
+            "date": "28 Sept 2024",
+            "points": 30,
+            "rank": 19
+          },
+          {
             "name": "Classic Lorient Agglomération - Trophée CERATIZIT",
             "date": "24 Aug 2024",
             "points": 400,
@@ -598,7 +610,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 1350
+        "totalPoints": 1380
       },
       {
         "name": "Arlenis Sierra",
@@ -862,6 +874,12 @@
         "sanctions": 10,
         "results": [
           {
+            "name": "World Championships WE - Road Race",
+            "date": "28 Sept 2024",
+            "points": 20,
+            "rank": 23
+          },
+          {
             "name": "World Championships - Mixed Relay TTT",
             "date": "25 Sept 2024",
             "points": 25,
@@ -1006,13 +1024,19 @@
             "rank": 7
           }
         ],
-        "totalPoints": 1234
+        "totalPoints": 1254
       },
       {
         "name": "Noemi Rüegg",
         "id": 347941,
         "sanctions": 0,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "28 Sept 2024",
+            "points": 85,
+            "rank": 11
+          },
           {
             "name": "World Championships - Mixed Relay TTT",
             "date": "25 Sept 2024",
@@ -1146,13 +1170,19 @@
             "rank": 1
           }
         ],
-        "totalPoints": 969
+        "totalPoints": 1054
       },
       {
         "name": "Soraya Paladin",
         "id": 75244,
         "sanctions": 0,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "28 Sept 2024",
+            "points": 5,
+            "rank": 60
+          },
           {
             "name": "World Championships - Mixed Relay TTT",
             "date": "25 Sept 2024",
@@ -1250,7 +1280,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 845
+        "totalPoints": 850
       },
       {
         "name": "Alison Jackson",

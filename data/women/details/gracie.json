@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183839,
-  "fetchedDate": "27 Sept 2024, 23:12 GMT",
+  "fetchedDate": "28 Sept 2024, 23:11 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 12088,
+    "totalPoints": 12948,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -283,6 +283,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "World Championships WE - Road Race",
+            "date": "28 Sept 2024",
+            "points": 325,
+            "rank": 4
+          },
+          {
             "name": "World Championships - Mixed Relay TTT",
             "date": "25 Sept 2024",
             "points": 83.33,
@@ -379,13 +385,19 @@
             "rank": 8
           }
         ],
-        "totalPoints": 790
+        "totalPoints": 1115
       },
       {
         "name": "Chloe Dygert",
         "id": 109716,
         "sanctions": 15,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "28 Sept 2024",
+            "points": 475,
+            "rank": 2
+          },
           {
             "name": "World Championships WE - ITT",
             "date": "22 Sept 2024",
@@ -435,7 +447,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 964
+        "totalPoints": 1439
       },
       {
         "name": "Mavi Garcia",
@@ -793,6 +805,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "World Championships WE - Road Race",
+            "date": "28 Sept 2024",
+            "points": 40,
+            "rank": 15
+          },
+          {
             "name": "Tour de France Femmes avec Zwift - General classification",
             "date": "18 Aug 2024",
             "points": 8,
@@ -937,7 +955,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1591
+        "totalPoints": 1631
       },
       {
         "name": "Rosita Reijnhout",
@@ -1030,6 +1048,12 @@
         "id": 151523,
         "sanctions": 0,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "28 Sept 2024",
+            "points": 10,
+            "rank": 41
+          },
           {
             "name": "World Championships - Mixed Relay TTT",
             "date": "25 Sept 2024",
@@ -1192,7 +1216,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 908
+        "totalPoints": 918
       },
       {
         "name": "Lizzie Deignan",
@@ -1255,6 +1279,12 @@
         "id": 1549446,
         "sanctions": 0,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "28 Sept 2024",
+            "points": 10,
+            "rank": 45
+          },
           {
             "name": "Women's Cycling Grand Prix Stuttgart & Region",
             "date": "15 Sept 2024",
@@ -1364,7 +1394,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 967
+        "totalPoints": 977
       }
     ]
   }

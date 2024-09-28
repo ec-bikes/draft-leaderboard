@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183839,
-  "fetchedDate": "27 Sept 2024, 23:12 GMT",
+  "fetchedDate": "28 Sept 2024, 23:11 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 12755,
+    "totalPoints": 13640,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
         "sanctions": 15,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "28 Sept 2024",
+            "points": 600,
+            "rank": 1
+          },
           {
             "name": "World Championships WE - ITT",
             "date": "22 Sept 2024",
@@ -319,13 +325,19 @@
             "rank": 9
           }
         ],
-        "totalPoints": 5289
+        "totalPoints": 5889
       },
       {
         "name": "Cecilie Uttrup Ludwig",
         "id": 86838,
         "sanctions": 0,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "28 Sept 2024",
+            "points": 10,
+            "rank": 33
+          },
           {
             "name": "World Championships - Mixed Relay TTT",
             "date": "25 Sept 2024",
@@ -428,7 +440,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 664
+        "totalPoints": 674
       },
       {
         "name": "Silvia Persico",
@@ -545,6 +557,12 @@
         "id": 303036,
         "sanctions": 5,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "28 Sept 2024",
+            "points": 10,
+            "rank": 42
+          },
           {
             "name": "World Championships - Mixed Relay TTT",
             "date": "25 Sept 2024",
@@ -707,7 +725,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 1357
+        "totalPoints": 1367
       },
       {
         "name": "Amanda Spratt",
@@ -819,6 +837,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "World Championships WE - Road Race",
+            "date": "28 Sept 2024",
+            "points": 225,
+            "rank": 6
+          },
+          {
             "name": "World Championships - Mixed Relay TTT",
             "date": "25 Sept 2024",
             "points": 100,
@@ -903,13 +927,19 @@
             "rank": 1
           }
         ],
-        "totalPoints": 491
+        "totalPoints": 716
       },
       {
         "name": "Antonia Niedermaier",
         "id": 2188959,
         "sanctions": 0,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "28 Sept 2024",
+            "points": 30,
+            "rank": 18
+          },
           {
             "name": "World Championships - Mixed Relay TTT",
             "date": "25 Sept 2024",
@@ -1025,13 +1055,19 @@
             "rank": 25
           }
         ],
-        "totalPoints": 850
+        "totalPoints": 880
       },
       {
         "name": "Kristen Faulkner",
         "id": 1688341,
         "sanctions": 0,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "28 Sept 2024",
+            "points": 10,
+            "rank": 35
+          },
           {
             "name": "Tour de France Femmes avec Zwift - General classification",
             "date": "18 Aug 2024",
@@ -1159,7 +1195,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 1283
+        "totalPoints": 1293
       },
       {
         "name": "Anna Henderson",

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183839,
-  "fetchedDate": "27 Sept 2024, 23:12 GMT",
+  "fetchedDate": "28 Sept 2024, 23:11 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 16151,
+    "totalPoints": 16611,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -85,6 +85,12 @@
         "id": 76149,
         "sanctions": 0,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "28 Sept 2024",
+            "points": 400,
+            "rank": 3
+          },
           {
             "name": "World Championships - Mixed Relay TTT",
             "date": "25 Sept 2024",
@@ -343,7 +349,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 4131
+        "totalPoints": 4531
       },
       {
         "name": "Elisa Balsamo",
@@ -510,6 +516,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "World Championships WE - Road Race",
+            "date": "28 Sept 2024",
+            "points": 20,
+            "rank": 30
+          },
+          {
             "name": "World Championships - Mixed Relay TTT",
             "date": "25 Sept 2024",
             "points": 100,
@@ -646,7 +658,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1804
+        "totalPoints": 1824
       },
       {
         "name": "Emma Norsgaard",
@@ -781,6 +793,12 @@
         "id": 109412,
         "sanctions": 0,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "28 Sept 2024",
+            "points": 20,
+            "rank": 26
+          },
           {
             "name": "St Feuillien Grand Prix de Wallonie",
             "date": "18 Sept 2024",
@@ -986,7 +1004,7 @@
             "rank": 22
           }
         ],
-        "totalPoints": 1963
+        "totalPoints": 1983
       },
       {
         "name": "Chiara Consonni",
@@ -1280,6 +1298,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "World Championships WE - Road Race",
+            "date": "28 Sept 2024",
+            "points": 20,
+            "rank": 25
+          },
+          {
             "name": "Tour de Romandie Féminin - General classification",
             "date": "08 Sept 2024",
             "points": 220,
@@ -1418,7 +1442,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 984
+        "totalPoints": 1004
       },
       {
         "name": "Kim Cadzow",

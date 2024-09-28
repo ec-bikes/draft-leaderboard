@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183839,
-  "fetchedDate": "27 Sept 2024, 23:12 GMT",
+  "fetchedDate": "28 Sept 2024, 23:11 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 15990,
+    "totalPoints": 16580,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
         "sanctions": 0,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "28 Sept 2024",
+            "points": 275,
+            "rank": 5
+          },
           {
             "name": "World Championships WE - ITT",
             "date": "22 Sept 2024",
@@ -291,13 +297,19 @@
             "rank": 6
           }
         ],
-        "totalPoints": 4744
+        "totalPoints": 5019
       },
       {
         "name": "Kasia Niewiadoma",
         "id": 86824,
         "sanctions": 0,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "28 Sept 2024",
+            "points": 30,
+            "rank": 17
+          },
           {
             "name": "Tour de France Femmes avec Zwift - General classification",
             "date": "18 Aug 2024",
@@ -458,13 +470,19 @@
             "rank": 4
           }
         ],
-        "totalPoints": 2544
+        "totalPoints": 2574
       },
       {
         "name": "Juliette Labous",
         "id": 97498,
         "sanctions": 15,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "28 Sept 2024",
+            "points": 70,
+            "rank": 12
+          },
           {
             "name": "World Championships - Mixed Relay TTT",
             "date": "25 Sept 2024",
@@ -694,7 +712,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 2110
+        "totalPoints": 2180
       },
       {
         "name": "Charlotte Kool",
@@ -852,6 +870,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "World Championships WE - Road Race",
+            "date": "28 Sept 2024",
+            "points": 125,
+            "rank": 9
+          },
+          {
             "name": "European Continental Championships WE - ITT",
             "date": "11 Sept 2024",
             "points": 30,
@@ -1000,13 +1024,19 @@
             "rank": 18
           }
         ],
-        "totalPoints": 1084
+        "totalPoints": 1209
       },
       {
         "name": "Sarah Gigante",
         "id": 1557078,
         "sanctions": 0,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "28 Sept 2024",
+            "points": 30,
+            "rank": 20
+          },
           {
             "name": "Tour de Romandie Féminin - General classification",
             "date": "08 Sept 2024",
@@ -1103,7 +1133,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 809
+        "totalPoints": 839
       },
       {
         "name": "Ella Wyllie",
@@ -1480,6 +1510,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "World Championships WE - Road Race",
+            "date": "28 Sept 2024",
+            "points": 60,
+            "rank": 13
+          },
+          {
             "name": "Tour de France Femmes avec Zwift - General classification",
             "date": "18 Aug 2024",
             "points": 56,
@@ -1558,7 +1594,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 1167
+        "totalPoints": 1227
       }
     ]
   }
