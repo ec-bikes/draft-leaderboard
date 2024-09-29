@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183821,
-  "fetchedDate": "28 Sept 2024, 23:12 GMT",
+  "fetchedDate": "29 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 11724,
+    "totalPoints": 11949,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -300,6 +300,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "World Championships ME - Road Race",
+            "date": "29 Sept 2024",
+            "points": 15,
+            "rank": 33
+          },
+          {
             "name": "Skoda Tour de Luxembourg - General classification",
             "date": "22 Sept 2024",
             "points": 125,
@@ -432,13 +438,19 @@
             "rank": 6
           }
         ],
-        "totalPoints": 1228
+        "totalPoints": 1243
       },
       {
         "name": "Romain Bardet",
         "id": 64917,
         "sanctions": 0,
         "results": [
+          {
+            "name": "World Championships ME - Road Race",
+            "date": "29 Sept 2024",
+            "points": 150,
+            "rank": 10
+          },
           {
             "name": "Grand Prix Cycliste de Montréal",
             "date": "15 Sept 2024",
@@ -559,13 +571,19 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1739
+        "totalPoints": 1889
       },
       {
         "name": "Jai Hindley",
         "id": 109829,
         "sanctions": 0,
         "results": [
+          {
+            "name": "World Championships ME - Road Race",
+            "date": "29 Sept 2024",
+            "points": 45,
+            "rank": 18
+          },
           {
             "name": "Grand Prix Cycliste de Montréal",
             "date": "15 Sept 2024",
@@ -663,7 +681,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 808
+        "totalPoints": 853
       },
       {
         "name": "Yves Lampaert",
@@ -1065,6 +1083,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "World Championships ME - Road Race",
+            "date": "29 Sept 2024",
+            "points": 15,
+            "rank": 38
+          },
+          {
             "name": "Grand Prix Cycliste de Montréal",
             "date": "15 Sept 2024",
             "points": 20,
@@ -1227,7 +1251,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 973
+        "totalPoints": 988
       },
       {
         "name": "Jack Haig",

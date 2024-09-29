@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183821,
-  "fetchedDate": "28 Sept 2024, 23:12 GMT",
+  "fetchedDate": "29 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 17438,
+    "totalPoints": 19018,
     "riders": [
       {
         "name": "Mads Pedersen",
         "id": 86895,
         "sanctions": 10,
         "results": [
+          {
+            "name": "World Championships ME - Road Race",
+            "date": "29 Sept 2024",
+            "points": 90,
+            "rank": 13
+          },
           {
             "name": "Skoda Tour de Luxembourg - Stage 5",
             "date": "22 Sept 2024",
@@ -240,7 +246,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 2643
+        "totalPoints": 2733
       },
       {
         "name": "Sepp Kuss",
@@ -361,6 +367,12 @@
         "id": 159567,
         "sanctions": 0,
         "results": [
+          {
+            "name": "World Championships ME - Road Race",
+            "date": "29 Sept 2024",
+            "points": 15,
+            "rank": 34
+          },
           {
             "name": "Grand Prix Cycliste de Montréal",
             "date": "15 Sept 2024",
@@ -530,13 +542,19 @@
             "rank": 29
           }
         ],
-        "totalPoints": 2682
+        "totalPoints": 2697
       },
       {
         "name": "Ben Healy",
         "id": 235075,
         "sanctions": 0,
         "results": [
+          {
+            "name": "World Championships ME - Road Race",
+            "date": "29 Sept 2024",
+            "points": 265,
+            "rank": 7
+          },
           {
             "name": "Grand Prix Cycliste de Montréal",
             "date": "15 Sept 2024",
@@ -628,7 +646,7 @@
             "rank": 4
           }
         ],
-        "totalPoints": 691
+        "totalPoints": 956
       },
       {
         "name": "Kaden Groves",
@@ -758,6 +776,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "World Championships ME - Road Race",
+            "date": "29 Sept 2024",
+            "points": 490,
+            "rank": 4
+          },
+          {
             "name": "SUPER 8 Classic",
             "date": "21 Sept 2024",
             "points": 30,
@@ -878,13 +902,19 @@
             "rank": 11
           }
         ],
-        "totalPoints": 1492
+        "totalPoints": 1982
       },
       {
         "name": "Alex Aranburu",
         "id": 422863,
         "sanctions": 0,
         "results": [
+          {
+            "name": "World Championships ME - Road Race",
+            "date": "29 Sept 2024",
+            "points": 5,
+            "rank": 58
+          },
           {
             "name": "Grand Prix de Wallonie",
             "date": "18 Sept 2024",
@@ -1042,7 +1072,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1293
+        "totalPoints": 1298
       },
       {
         "name": "Egan Bernal",
@@ -1207,6 +1237,12 @@
         "id": 97805,
         "sanctions": 35,
         "results": [
+          {
+            "name": "World Championships ME - Road Race",
+            "date": "29 Sept 2024",
+            "points": 715,
+            "rank": 2
+          },
           {
             "name": "World Championships - Mixed Relay TTT",
             "date": "25 Sept 2024",
@@ -1459,7 +1495,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 3416
+        "totalPoints": 4131
       },
       {
         "name": "Benoît Cosnefroy",

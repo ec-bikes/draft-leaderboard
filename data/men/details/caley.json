@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183821,
-  "fetchedDate": "28 Sept 2024, 23:12 GMT",
+  "fetchedDate": "29 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 17770,
+    "totalPoints": 18925,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "sanctions": 0,
         "results": [
+          {
+            "name": "World Championships ME - Road Race",
+            "date": "29 Sept 2024",
+            "points": 900,
+            "rank": 1
+          },
           {
             "name": "Grand Prix Cycliste de Montréal",
             "date": "15 Sept 2024",
@@ -446,13 +452,19 @@
             "rank": 1
           }
         ],
-        "totalPoints": 9755
+        "totalPoints": 10655
       },
       {
         "name": "Neilson Powless",
         "id": 88143,
         "sanctions": 0,
         "results": [
+          {
+            "name": "World Championships ME - Road Race",
+            "date": "29 Sept 2024",
+            "points": 15,
+            "rank": 39
+          },
           {
             "name": "World Championships - Mixed Relay TTT",
             "date": "25 Sept 2024",
@@ -514,7 +526,7 @@
             "rank": 22
           }
         ],
-        "totalPoints": 439
+        "totalPoints": 454
       },
       {
         "name": "Matej Mohoric",
@@ -987,6 +999,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "World Championships ME - Road Race",
+            "date": "29 Sept 2024",
+            "points": 225,
+            "rank": 8
+          },
+          {
             "name": "La Vuelta Ciclista a España - General classification",
             "date": "08 Sept 2024",
             "points": 750,
@@ -1143,13 +1161,19 @@
             "rank": 12
           }
         ],
-        "totalPoints": 2241
+        "totalPoints": 2466
       },
       {
         "name": "Rui Costa",
         "id": 32596,
         "sanctions": 0,
         "results": [
+          {
+            "name": "World Championships ME - Road Race",
+            "date": "29 Sept 2024",
+            "points": 15,
+            "rank": 42
+          },
           {
             "name": "Olympic Games ME - Road Race",
             "date": "03 Aug 2024",
@@ -1211,7 +1235,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 253
+        "totalPoints": 268
       },
       {
         "name": "Guillaume Martin",

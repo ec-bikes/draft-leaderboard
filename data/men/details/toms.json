@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183821,
-  "fetchedDate": "28 Sept 2024, 23:12 GMT",
+  "fetchedDate": "29 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 14682,
+    "totalPoints": 14802,
     "riders": [
       {
         "name": "Adam Yates",
         "id": 70590,
         "sanctions": 55,
         "results": [
+          {
+            "name": "World Championships ME - Road Race",
+            "date": "29 Sept 2024",
+            "points": 30,
+            "rank": 30
+          },
           {
             "name": "La Vuelta Ciclista a España - General classification",
             "date": "08 Sept 2024",
@@ -184,7 +190,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 2228
+        "totalPoints": 2258
       },
       {
         "name": "Mattias Skjelmose",
@@ -397,6 +403,12 @@
         "sanctions": 40,
         "results": [
           {
+            "name": "World Championships ME - Road Race",
+            "date": "29 Sept 2024",
+            "points": 30,
+            "rank": 22
+          },
+          {
             "name": "Skoda Tour de Luxembourg - General classification",
             "date": "22 Sept 2024",
             "points": 5,
@@ -535,7 +547,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 1558
+        "totalPoints": 1588
       },
       {
         "name": "João Almeida",
@@ -847,6 +859,12 @@
         "sanctions": 30,
         "results": [
           {
+            "name": "World Championships ME - Road Race",
+            "date": "29 Sept 2024",
+            "points": 45,
+            "rank": 17
+          },
+          {
             "name": "World Championships - Mixed Relay TTT",
             "date": "25 Sept 2024",
             "points": 33.33,
@@ -1057,7 +1075,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 2070
+        "totalPoints": 2115
       },
       {
         "name": "Cian Uijtdebroeks",
@@ -1465,6 +1483,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "PETRONAS Le Tour de Langkawi - Stage 1",
+            "date": "29 Sept 2024",
+            "points": 15,
+            "rank": 2
+          },
+          {
             "name": "Tour of Britain - Stage 1",
             "date": "03 Sept 2024",
             "points": 3,
@@ -1589,7 +1613,7 @@
             "points": 3
           }
         ],
-        "totalPoints": 389
+        "totalPoints": 404
       }
     ]
   }

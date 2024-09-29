@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183821,
-  "fetchedDate": "28 Sept 2024, 23:12 GMT",
+  "fetchedDate": "29 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 10499,
+    "totalPoints": 10529,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -194,6 +194,12 @@
         "sanctions": 8,
         "results": [
           {
+            "name": "World Championships ME - Road Race",
+            "date": "29 Sept 2024",
+            "points": 30,
+            "rank": 26
+          },
+          {
             "name": "Skoda Tour de Luxembourg - General classification",
             "date": "22 Sept 2024",
             "points": 85,
@@ -352,7 +358,7 @@
             "rank": 20
           }
         ],
-        "totalPoints": 2061
+        "totalPoints": 2091
       },
       {
         "name": "Sam Welsford",

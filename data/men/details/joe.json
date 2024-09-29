@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183821,
-  "fetchedDate": "28 Sept 2024, 23:12 GMT",
+  "fetchedDate": "29 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 17114,
+    "totalPoints": 18154,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
         "sanctions": 0,
         "results": [
+          {
+            "name": "World Championships ME - Road Race",
+            "date": "29 Sept 2024",
+            "points": 410,
+            "rank": 5
+          },
           {
             "name": "World Championships ME - ITT",
             "date": "22 Sept 2024",
@@ -227,13 +233,19 @@
             "rank": 1
           }
         ],
-        "totalPoints": 5023
+        "totalPoints": 5433
       },
       {
         "name": "Mathieu van der Poel",
         "id": 79462,
         "sanctions": 0,
         "results": [
+          {
+            "name": "World Championships ME - Road Race",
+            "date": "29 Sept 2024",
+            "points": 600,
+            "rank": 3
+          },
           {
             "name": "Skoda Tour de Luxembourg - General classification",
             "date": "22 Sept 2024",
@@ -352,7 +364,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 3453
+        "totalPoints": 4053
       },
       {
         "name": "Tao Geoghegan Hart",
@@ -1082,6 +1094,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "World Championships ME - Road Race",
+            "date": "29 Sept 2024",
+            "points": 30,
+            "rank": 25
+          },
+          {
             "name": "Donostia San Sebastian Klasikoa",
             "date": "10 Aug 2024",
             "points": 8,
@@ -1184,7 +1202,7 @@
             "rank": 35
           }
         ],
-        "totalPoints": 698
+        "totalPoints": 728
       },
       {
         "name": "Dylan Groenewegen",

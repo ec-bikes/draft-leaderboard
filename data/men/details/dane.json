@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183821,
-  "fetchedDate": "28 Sept 2024, 23:12 GMT",
+  "fetchedDate": "29 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 16431,
+    "totalPoints": 16791,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -565,6 +565,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "World Championships ME - Road Race",
+            "date": "29 Sept 2024",
+            "points": 5,
+            "rank": 59
+          },
+          {
             "name": "La Vuelta Ciclista a España - General classification",
             "date": "08 Sept 2024",
             "points": 180,
@@ -726,13 +732,19 @@
             "rank": 19
           }
         ],
-        "totalPoints": 2286
+        "totalPoints": 2291
       },
       {
         "name": "Marc Hirschi",
         "id": 111440,
         "sanctions": 0,
         "results": [
+          {
+            "name": "World Championships ME - Road Race",
+            "date": "29 Sept 2024",
+            "points": 340,
+            "rank": 6
+          },
           {
             "name": "Skoda Tour de Luxembourg - General classification",
             "date": "22 Sept 2024",
@@ -924,13 +936,19 @@
             "rank": 6
           }
         ],
-        "totalPoints": 2903
+        "totalPoints": 3243
       },
       {
         "name": "Stefan Küng",
         "id": 74994,
         "sanctions": 0,
         "results": [
+          {
+            "name": "World Championships ME - Road Race",
+            "date": "29 Sept 2024",
+            "points": 15,
+            "rank": 37
+          },
           {
             "name": "World Championships ME - ITT",
             "date": "22 Sept 2024",
@@ -1100,7 +1118,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1882
+        "totalPoints": 1897
       },
       {
         "name": "Fabio Jakobsen",

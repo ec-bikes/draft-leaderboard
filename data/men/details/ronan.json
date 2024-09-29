@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 183821,
-  "fetchedDate": "28 Sept 2024, 23:12 GMT",
+  "fetchedDate": "29 Sept 2024, 23:12 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 19334,
+    "totalPoints": 19339,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -441,6 +441,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "World Championships ME - Road Race",
+            "date": "29 Sept 2024",
+            "points": 5,
+            "rank": 57
+          },
+          {
             "name": "Tour of Britain - Stage 1",
             "date": "03 Sept 2024",
             "points": 5,
@@ -573,7 +579,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1810
+        "totalPoints": 1815
       },
       {
         "name": "Olav Kooij",
