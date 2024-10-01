@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 183839,
-  "fetchedDate": "30 Sept 2024, 23:12 GMT",
+  "momentId": 184108,
+  "fetchedDate": "1 Oct 2024, 23:12 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 13695,
+    "totalPoints": 13703,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -1180,7 +1180,7 @@
           {
             "name": "World Championships WE - Road Race",
             "date": "28 Sept 2024",
-            "points": 5,
+            "points": 3,
             "rank": 60
           },
           {
@@ -1280,7 +1280,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 850
+        "totalPoints": 848
       },
       {
         "name": "Alison Jackson",
@@ -1339,6 +1339,12 @@
         "tradedIn": true,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Binche Chimay Binche pour Dames",
+            "date": "01 Oct 2024",
+            "points": 10,
+            "rank": 12
+          },
           {
             "name": "AG Tour de la Semois - General classification",
             "date": "21 Sept 2024",
@@ -1526,7 +1532,7 @@
             "rank": 14
           }
         ],
-        "totalPoints": 1463
+        "totalPoints": 1473
       }
     ]
   }

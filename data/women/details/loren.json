@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 183839,
-  "fetchedDate": "30 Sept 2024, 23:12 GMT",
+  "momentId": 184108,
+  "fetchedDate": "1 Oct 2024, 23:12 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 16611,
+    "totalPoints": 16661,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -666,6 +666,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Binche Chimay Binche pour Dames",
+            "date": "01 Oct 2024",
+            "points": 15,
+            "rank": 11
+          },
+          {
             "name": "World Championships - Mixed Relay TTT",
             "date": "25 Sept 2024",
             "points": 41.67,
@@ -786,7 +792,7 @@
             "rank": 11
           }
         ],
-        "totalPoints": 715
+        "totalPoints": 730
       },
       {
         "name": "Evita Muzic",
@@ -1188,6 +1194,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Binche Chimay Binche pour Dames",
+            "date": "01 Oct 2024",
+            "points": 35,
+            "rank": 7
+          },
+          {
             "name": "European Continental Championships WE - Road Race",
             "date": "14 Sept 2024",
             "points": 150,
@@ -1290,7 +1302,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 1159
+        "totalPoints": 1194
       },
       {
         "name": "Niamh Fisher-Black",

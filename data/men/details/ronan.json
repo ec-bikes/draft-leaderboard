@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 183821,
-  "fetchedDate": "30 Sept 2024, 23:13 GMT",
+  "momentId": 184090,
+  "fetchedDate": "1 Oct 2024, 23:12 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 19339,
+    "totalPoints": 19424,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -229,6 +229,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Binche - Chimay - Binche / Mémorial Frank Vandenbroucke",
+            "date": "01 Oct 2024",
+            "points": 85,
+            "rank": 2
+          },
+          {
             "name": "Grand Prix de Wallonie",
             "date": "18 Sept 2024",
             "points": 100,
@@ -433,7 +439,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 3167
+        "totalPoints": 3252
       },
       {
         "name": "Tom Pidcock",

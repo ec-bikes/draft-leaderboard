@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 183839,
-  "fetchedDate": "30 Sept 2024, 23:12 GMT",
+  "momentId": 184108,
+  "fetchedDate": "1 Oct 2024, 23:12 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 16580,
+    "totalPoints": 16640,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -720,6 +720,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Binche Chimay Binche pour Dames",
+            "date": "01 Oct 2024",
+            "points": 60,
+            "rank": 4
+          },
+          {
             "name": "Classic Lorient Agglomération - Trophée CERATIZIT",
             "date": "24 Aug 2024",
             "points": 28,
@@ -862,7 +868,7 @@
             "rank": 15
           }
         ],
-        "totalPoints": 1462
+        "totalPoints": 1522
       },
       {
         "name": "Riejanne Markus",

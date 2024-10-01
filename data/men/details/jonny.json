@@ -1,18 +1,24 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 183821,
-  "fetchedDate": "30 Sept 2024, 23:13 GMT",
+  "momentId": 184090,
+  "fetchedDate": "1 Oct 2024, 23:12 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 11949,
+    "totalPoints": 12009,
     "riders": [
       {
         "name": "Jasper Philipsen",
         "id": 148275,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Binche - Chimay - Binche / Mémorial Frank Vandenbroucke",
+            "date": "01 Oct 2024",
+            "points": 60,
+            "rank": 4
+          },
           {
             "name": "Kampioenschap van Vlaanderen",
             "date": "20 Sept 2024",
@@ -194,7 +200,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 4405
+        "totalPoints": 4465
       },
       {
         "name": "Simon Yates",

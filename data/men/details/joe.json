@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 183821,
-  "fetchedDate": "30 Sept 2024, 23:13 GMT",
+  "momentId": 184090,
+  "fetchedDate": "1 Oct 2024, 23:12 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 18154,
+    "totalPoints": 18159,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -580,6 +580,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Binche - Chimay - Binche / Mémorial Frank Vandenbroucke",
+            "date": "01 Oct 2024",
+            "points": 5,
+            "rank": 15
+          },
+          {
             "name": "Alfasun Gooikse Pijl p/b Lotto",
             "date": "22 Sept 2024",
             "points": 125,
@@ -764,7 +770,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 2402
+        "totalPoints": 2407
       },
       {
         "name": "Julian Alaphilippe",

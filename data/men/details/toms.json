@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 183821,
-  "fetchedDate": "30 Sept 2024, 23:13 GMT",
+  "momentId": 184090,
+  "fetchedDate": "1 Oct 2024, 23:12 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 14802,
+    "totalPoints": 14812,
     "riders": [
       {
         "name": "Adam Yates",
@@ -1338,6 +1338,12 @@
         "sanctions": 20,
         "results": [
           {
+            "name": "Binche - Chimay - Binche / Mémorial Frank Vandenbroucke",
+            "date": "01 Oct 2024",
+            "points": 10,
+            "rank": 12
+          },
+          {
             "name": "Alfasun Gooikse Pijl p/b Lotto",
             "date": "22 Sept 2024",
             "points": 85,
@@ -1475,7 +1481,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 1200
+        "totalPoints": 1210
       },
       {
         "name": "Casper van Uden",

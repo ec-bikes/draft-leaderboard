@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 183839,
-  "fetchedDate": "30 Sept 2024, 23:12 GMT",
+  "momentId": 184108,
+  "fetchedDate": "1 Oct 2024, 23:12 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 12948,
+    "totalPoints": 13033,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -653,6 +653,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Binche Chimay Binche pour Dames",
+            "date": "01 Oct 2024",
+            "points": 85,
+            "rank": 2
+          },
+          {
             "name": "World Championships - Mixed Relay TTT",
             "date": "25 Sept 2024",
             "points": 16.67,
@@ -797,7 +803,7 @@
             "rank": 15
           }
         ],
-        "totalPoints": 860
+        "totalPoints": 945
       },
       {
         "name": "Neve Bradbury",
