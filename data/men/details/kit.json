@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184090,
-  "fetchedDate": "1 Oct 2024, 23:12 GMT",
+  "fetchedDate": "2 Oct 2024, 23:13 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 10529,
+    "totalPoints": 10532,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -366,6 +366,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Cro Race - Stage 2",
+            "date": "02 Oct 2024",
+            "points": 3,
+            "rank": 3
+          },
+          {
             "name": "Tour of Slovenia - Stage 1",
             "date": "12 Jun 2024",
             "points": 3,
@@ -430,7 +436,7 @@
             "points": 10
           }
         ],
-        "totalPoints": 320
+        "totalPoints": 323
       },
       {
         "name": "Filippo Ganna",

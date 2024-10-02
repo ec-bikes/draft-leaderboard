@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184090,
-  "fetchedDate": "1 Oct 2024, 23:12 GMT",
+  "fetchedDate": "2 Oct 2024, 23:13 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 16791,
+    "totalPoints": 16861,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -217,6 +217,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "Betcity Elfstedenrace",
+            "date": "02 Oct 2024",
+            "points": 70,
+            "rank": 3
+          },
+          {
             "name": "Skoda Tour de Luxembourg - Stage 2",
             "date": "19 Sept 2024",
             "points": 5,
@@ -295,7 +301,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 1267
+        "totalPoints": 1337
       },
       {
         "name": "Geraint Thomas",
