@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 184090,
-  "fetchedDate": "2 Oct 2024, 23:13 GMT",
+  "momentId": 184341,
+  "fetchedDate": "3 Oct 2024, 23:13 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 14812,
+    "totalPoints": 14979,
     "riders": [
       {
         "name": "Adam Yates",
@@ -859,6 +859,17 @@
         "sanctions": 30,
         "results": [
           {
+            "name": "Cro Race - Stage 3",
+            "date": "03 Oct 2024",
+            "points": 14,
+            "rank": 1
+          },
+          {
+            "name": "Cro Race - Stage 3 - Bonus",
+            "date": "03 Oct 2024",
+            "points": 3
+          },
+          {
             "name": "World Championships ME - Road Race",
             "date": "29 Sept 2024",
             "points": 45,
@@ -1075,7 +1086,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 2115
+        "totalPoints": 2132
       },
       {
         "name": "Cian Uijtdebroeks",
@@ -1338,6 +1349,12 @@
         "sanctions": 20,
         "results": [
           {
+            "name": "Sparkassen Münsterland Giro",
+            "date": "03 Oct 2024",
+            "points": 150,
+            "rank": 2
+          },
+          {
             "name": "Binche - Chimay - Binche / Mémorial Frank Vandenbroucke",
             "date": "01 Oct 2024",
             "points": 10,
@@ -1481,7 +1498,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 1210
+        "totalPoints": 1360
       },
       {
         "name": "Casper van Uden",

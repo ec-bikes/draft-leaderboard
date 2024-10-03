@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 184090,
-  "fetchedDate": "2 Oct 2024, 23:13 GMT",
+  "momentId": 184341,
+  "fetchedDate": "3 Oct 2024, 23:13 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 16861,
+    "totalPoints": 16866,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -1205,6 +1205,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Sparkassen Münsterland Giro",
+            "date": "03 Oct 2024",
+            "points": 5,
+            "rank": 29
+          },
+          {
             "name": "Omloop van het Houtland",
             "date": "25 Sept 2024",
             "points": 15,
@@ -1325,7 +1331,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 506
+        "totalPoints": 511
       },
       {
         "name": "Søren Kragh Andersen",

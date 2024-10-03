@@ -1,18 +1,24 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 184090,
-  "fetchedDate": "2 Oct 2024, 23:13 GMT",
+  "momentId": 184341,
+  "fetchedDate": "3 Oct 2024, 23:13 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 12009,
+    "totalPoints": 12209,
     "riders": [
       {
         "name": "Jasper Philipsen",
         "id": 148275,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Sparkassen Münsterland Giro",
+            "date": "03 Oct 2024",
+            "points": 200,
+            "rank": 1
+          },
           {
             "name": "Binche - Chimay - Binche / Mémorial Frank Vandenbroucke",
             "date": "01 Oct 2024",
@@ -200,7 +206,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 4465
+        "totalPoints": 4665
       },
       {
         "name": "Simon Yates",
