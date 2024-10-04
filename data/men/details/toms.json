@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184341,
-  "fetchedDate": "3 Oct 2024, 23:13 GMT",
+  "fetchedDate": "4 Oct 2024, 23:12 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 14979,
+    "totalPoints": 14985,
     "riders": [
       {
         "name": "Adam Yates",
@@ -859,6 +859,11 @@
         "sanctions": 30,
         "results": [
           {
+            "name": "Cro Race - Stage 4 - Bonus",
+            "date": "04 Oct 2024",
+            "points": 3
+          },
+          {
             "name": "Cro Race - Stage 3",
             "date": "03 Oct 2024",
             "points": 14,
@@ -1086,7 +1091,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 2132
+        "totalPoints": 2135
       },
       {
         "name": "Cian Uijtdebroeks",
@@ -1506,6 +1511,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "PETRONAS Le Tour de Langkawi - Stage 6",
+            "date": "04 Oct 2024",
+            "points": 3,
+            "rank": 5
+          },
+          {
             "name": "PETRONAS Le Tour de Langkawi - Stage 1",
             "date": "29 Sept 2024",
             "points": 15,
@@ -1636,7 +1647,7 @@
             "points": 3
           }
         ],
-        "totalPoints": 404
+        "totalPoints": 407
       }
     ]
   }
