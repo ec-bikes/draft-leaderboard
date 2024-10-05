@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184341,
-  "fetchedDate": "4 Oct 2024, 23:12 GMT",
+  "fetchedDate": "5 Oct 2024, 23:12 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 18925,
+    "totalPoints": 19180,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro dell'Emilia",
+            "date": "05 Oct 2024",
+            "points": 200,
+            "rank": 1
+          },
           {
             "name": "World Championships ME - Road Race",
             "date": "29 Sept 2024",
@@ -452,7 +458,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 10655
+        "totalPoints": 10855
       },
       {
         "name": "Neilson Powless",
@@ -999,6 +1005,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "Giro dell'Emilia",
+            "date": "05 Oct 2024",
+            "points": 50,
+            "rank": 8
+          },
+          {
             "name": "World Championships ME - Road Race",
             "date": "29 Sept 2024",
             "points": 225,
@@ -1161,7 +1173,7 @@
             "rank": 12
           }
         ],
-        "totalPoints": 2466
+        "totalPoints": 2516
       },
       {
         "name": "Rui Costa",
@@ -1242,6 +1254,12 @@
         "id": 75170,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro dell'Emilia",
+            "date": "05 Oct 2024",
+            "points": 5,
+            "rank": 16
+          },
           {
             "name": "Grand Prix de Wallonie",
             "date": "18 Sept 2024",
@@ -1375,7 +1393,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 780
+        "totalPoints": 785
       }
     ]
   }

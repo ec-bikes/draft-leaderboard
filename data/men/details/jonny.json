@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184341,
-  "fetchedDate": "4 Oct 2024, 23:12 GMT",
+  "fetchedDate": "5 Oct 2024, 23:12 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 12209,
+    "totalPoints": 12299,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -214,6 +214,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Giro dell'Emilia",
+            "date": "05 Oct 2024",
+            "points": 85,
+            "rank": 5
+          },
+          {
             "name": "Grand Prix Cycliste de Montréal",
             "date": "15 Sept 2024",
             "points": 50,
@@ -304,7 +310,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 921
+        "totalPoints": 1006
       },
       {
         "name": "David Gaudu",
@@ -591,6 +597,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Giro dell'Emilia",
+            "date": "05 Oct 2024",
+            "points": 5,
+            "rank": 27
+          },
+          {
             "name": "World Championships ME - Road Race",
             "date": "29 Sept 2024",
             "points": 45,
@@ -693,7 +705,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 853
+        "totalPoints": 858
       },
       {
         "name": "Yves Lampaert",

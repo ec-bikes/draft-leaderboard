@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184341,
-  "fetchedDate": "4 Oct 2024, 23:12 GMT",
+  "fetchedDate": "5 Oct 2024, 23:12 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 14985,
+    "totalPoints": 15013,
     "riders": [
       {
         "name": "Adam Yates",
         "id": 70590,
         "sanctions": 55,
         "results": [
+          {
+            "name": "Giro dell'Emilia",
+            "date": "05 Oct 2024",
+            "points": 25,
+            "rank": 12
+          },
           {
             "name": "World Championships ME - Road Race",
             "date": "29 Sept 2024",
@@ -190,7 +196,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 2258
+        "totalPoints": 2283
       },
       {
         "name": "Mattias Skjelmose",
@@ -859,6 +865,11 @@
         "sanctions": 30,
         "results": [
           {
+            "name": "Cro Race - Stage 5 - Bonus",
+            "date": "05 Oct 2024",
+            "points": 3
+          },
+          {
             "name": "Cro Race - Stage 4 - Bonus",
             "date": "04 Oct 2024",
             "points": 3
@@ -1091,7 +1102,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 2135
+        "totalPoints": 2138
       },
       {
         "name": "Cian Uijtdebroeks",

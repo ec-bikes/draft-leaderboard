@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184347,
-  "fetchedDate": "4 Oct 2024, 23:12 GMT",
+  "fetchedDate": "5 Oct 2024, 23:11 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 16661,
+    "totalPoints": 17011,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -85,6 +85,12 @@
         "id": 76149,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Giro dell'Emilia Internazionale Donne Elite",
+            "date": "05 Oct 2024",
+            "points": 200,
+            "rank": 1
+          },
           {
             "name": "World Championships WE - Road Race",
             "date": "28 Sept 2024",
@@ -349,7 +355,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 4531
+        "totalPoints": 4731
       },
       {
         "name": "Elisa Balsamo",
@@ -800,6 +806,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Giro dell'Emilia Internazionale Donne Elite",
+            "date": "05 Oct 2024",
+            "points": 150,
+            "rank": 2
+          },
+          {
             "name": "World Championships WE - Road Race",
             "date": "28 Sept 2024",
             "points": 20,
@@ -1010,7 +1022,7 @@
             "rank": 22
           }
         ],
-        "totalPoints": 1983
+        "totalPoints": 2133
       },
       {
         "name": "Chiara Consonni",

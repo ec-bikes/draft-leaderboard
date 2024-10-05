@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184347,
-  "fetchedDate": "4 Oct 2024, 23:12 GMT",
+  "fetchedDate": "5 Oct 2024, 23:11 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 16640,
+    "totalPoints": 16765,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -478,6 +478,12 @@
         "sanctions": 15,
         "results": [
           {
+            "name": "Giro dell'Emilia Internazionale Donne Elite",
+            "date": "05 Oct 2024",
+            "points": 125,
+            "rank": 3
+          },
+          {
             "name": "World Championships WE - Road Race",
             "date": "28 Sept 2024",
             "points": 70,
@@ -712,7 +718,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 2180
+        "totalPoints": 2305
       },
       {
         "name": "Charlotte Kool",

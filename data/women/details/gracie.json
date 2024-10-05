@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184347,
-  "fetchedDate": "4 Oct 2024, 23:12 GMT",
+  "fetchedDate": "5 Oct 2024, 23:11 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 13033,
+    "totalPoints": 13048,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -455,6 +455,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Giro dell'Emilia Internazionale Donne Elite",
+            "date": "05 Oct 2024",
+            "points": 15,
+            "rank": 14
+          },
+          {
             "name": "Tour de Romandie Féminin - General classification",
             "date": "08 Sept 2024",
             "points": 180,
@@ -645,7 +651,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1659
+        "totalPoints": 1674
       },
       {
         "name": "Christina Schweinberger",
