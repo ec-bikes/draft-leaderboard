@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184341,
-  "fetchedDate": "5 Oct 2024, 23:12 GMT",
+  "fetchedDate": "6 Oct 2024, 23:12 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
-    "totalPoints": 15013,
+    "totalPoints": 15143,
     "riders": [
       {
         "name": "Adam Yates",
@@ -409,6 +409,12 @@
         "sanctions": 40,
         "results": [
           {
+            "name": "Paris - Tours Elite",
+            "date": "06 Oct 2024",
+            "points": 5,
+            "rank": 27
+          },
+          {
             "name": "World Championships ME - Road Race",
             "date": "29 Sept 2024",
             "points": 30,
@@ -553,7 +559,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 1588
+        "totalPoints": 1593
       },
       {
         "name": "João Almeida",
@@ -865,6 +871,12 @@
         "sanctions": 30,
         "results": [
           {
+            "name": "Cro Race - General classification",
+            "date": "06 Oct 2024",
+            "points": 125,
+            "rank": 1
+          },
+          {
             "name": "Cro Race - Stage 5 - Bonus",
             "date": "05 Oct 2024",
             "points": 3
@@ -1102,7 +1114,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 2138
+        "totalPoints": 2263
       },
       {
         "name": "Cian Uijtdebroeks",

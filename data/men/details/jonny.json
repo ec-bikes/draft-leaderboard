@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184341,
-  "fetchedDate": "5 Oct 2024, 23:12 GMT",
+  "fetchedDate": "6 Oct 2024, 23:12 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 12299,
+    "totalPoints": 12579,
     "riders": [
       {
         "name": "Jasper Philipsen",
         "id": 148275,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Paris - Tours Elite",
+            "date": "06 Oct 2024",
+            "points": 125,
+            "rank": 3
+          },
           {
             "name": "Sparkassen Münsterland Giro",
             "date": "03 Oct 2024",
@@ -206,7 +212,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 4665
+        "totalPoints": 4790
       },
       {
         "name": "Simon Yates",
@@ -821,6 +827,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Cro Race - General classification",
+            "date": "06 Oct 2024",
+            "points": 70,
+            "rank": 3
+          },
+          {
             "name": "Skoda Tour de Luxembourg - General classification",
             "date": "22 Sept 2024",
             "points": 3,
@@ -935,7 +947,7 @@
             "rank": 14
           }
         ],
-        "totalPoints": 360
+        "totalPoints": 430
       },
       {
         "name": "Bryan Coquard",
@@ -1107,6 +1119,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Coppa Agostoni - Giro delle Brianze",
+            "date": "06 Oct 2024",
+            "points": 85,
+            "rank": 2
+          },
+          {
             "name": "World Championships ME - Road Race",
             "date": "29 Sept 2024",
             "points": 15,
@@ -1275,7 +1293,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 988
+        "totalPoints": 1073
       },
       {
         "name": "Jack Haig",

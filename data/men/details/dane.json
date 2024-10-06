@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184341,
-  "fetchedDate": "5 Oct 2024, 23:12 GMT",
+  "fetchedDate": "6 Oct 2024, 23:12 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 16866,
+    "totalPoints": 17191,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -217,6 +217,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "Paris - Tours Elite",
+            "date": "06 Oct 2024",
+            "points": 200,
+            "rank": 1
+          },
+          {
             "name": "Betcity Elfstedenrace",
             "date": "02 Oct 2024",
             "points": 70,
@@ -301,7 +307,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 1337
+        "totalPoints": 1537
       },
       {
         "name": "Geraint Thomas",
@@ -746,6 +752,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Coppa Agostoni - Giro delle Brianze",
+            "date": "06 Oct 2024",
+            "points": 125,
+            "rank": 1
+          },
+          {
             "name": "World Championships ME - Road Race",
             "date": "29 Sept 2024",
             "points": 340,
@@ -942,7 +954,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 3243
+        "totalPoints": 3368
       },
       {
         "name": "Stefan Küng",

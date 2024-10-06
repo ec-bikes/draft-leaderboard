@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184341,
-  "fetchedDate": "5 Oct 2024, 23:12 GMT",
+  "fetchedDate": "6 Oct 2024, 23:12 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 19180,
+    "totalPoints": 19190,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -662,6 +662,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Coppa Agostoni - Giro delle Brianze",
+            "date": "06 Oct 2024",
+            "points": 5,
+            "rank": 14
+          },
+          {
             "name": "Vuelta a Burgos - General classification",
             "date": "09 Aug 2024",
             "points": 5,
@@ -674,7 +680,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 40
+        "totalPoints": 45
       },
       {
         "name": "Lenny Martinez",
@@ -1255,6 +1261,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Coppa Agostoni - Giro delle Brianze",
+            "date": "06 Oct 2024",
+            "points": 5,
+            "rank": 13
+          },
+          {
             "name": "Giro dell'Emilia",
             "date": "05 Oct 2024",
             "points": 5,
@@ -1393,7 +1405,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 785
+        "totalPoints": 790
       }
     ]
   }
