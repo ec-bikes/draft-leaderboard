@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184341,
-  "fetchedDate": "6 Oct 2024, 23:12 GMT",
+  "fetchedDate": "7 Oct 2024, 23:12 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 19190,
+    "totalPoints": 19290,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -466,6 +466,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Coppa Bernocchi - GP Banco BPM",
+            "date": "07 Oct 2024",
+            "points": 100,
+            "rank": 4
+          },
+          {
             "name": "World Championships ME - Road Race",
             "date": "29 Sept 2024",
             "points": 15,
@@ -532,7 +538,7 @@
             "rank": 22
           }
         ],
-        "totalPoints": 454
+        "totalPoints": 554
       },
       {
         "name": "Matej Mohoric",
