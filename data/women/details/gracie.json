@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 184347,
-  "fetchedDate": "7 Oct 2024, 23:12 GMT",
+  "momentId": 184406,
+  "fetchedDate": "8 Oct 2024, 23:13 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 13048,
+    "totalPoints": 13195,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -283,6 +283,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tre Valli Varesine Women's Race",
+            "date": "08 Oct 2024",
+            "points": 125,
+            "rank": 3
+          },
+          {
             "name": "World Championships WE - Road Race",
             "date": "28 Sept 2024",
             "points": 325,
@@ -385,13 +391,19 @@
             "rank": 8
           }
         ],
-        "totalPoints": 1115
+        "totalPoints": 1240
       },
       {
         "name": "Chloe Dygert",
         "id": 109716,
         "sanctions": 15,
         "results": [
+          {
+            "name": "Simac Ladies Tour - Stage 1 (ITT)",
+            "date": "08 Oct 2024",
+            "points": 6,
+            "rank": 10
+          },
           {
             "name": "World Championships WE - Road Race",
             "date": "28 Sept 2024",
@@ -447,13 +459,19 @@
             "rank": 6
           }
         ],
-        "totalPoints": 1439
+        "totalPoints": 1445
       },
       {
         "name": "Mavi Garcia",
         "id": 398547,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Tre Valli Varesine Women's Race",
+            "date": "08 Oct 2024",
+            "points": 3,
+            "rank": 30
+          },
           {
             "name": "Giro dell'Emilia Internazionale Donne Elite",
             "date": "05 Oct 2024",
@@ -651,13 +669,19 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1674
+        "totalPoints": 1677
       },
       {
         "name": "Christina Schweinberger",
         "id": 98623,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Simac Ladies Tour - Stage 1 (ITT)",
+            "date": "08 Oct 2024",
+            "points": 10,
+            "rank": 8
+          },
           {
             "name": "Binche Chimay Binche pour Dames",
             "date": "01 Oct 2024",
@@ -809,7 +833,7 @@
             "rank": 15
           }
         ],
-        "totalPoints": 945
+        "totalPoints": 955
       },
       {
         "name": "Neve Bradbury",
@@ -1292,6 +1316,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tre Valli Varesine Women's Race",
+            "date": "08 Oct 2024",
+            "points": 3,
+            "rank": 28
+          },
+          {
             "name": "World Championships WE - Road Race",
             "date": "28 Sept 2024",
             "points": 10,
@@ -1406,7 +1436,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 977
+        "totalPoints": 980
       }
     ]
   }

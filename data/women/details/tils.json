@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 184347,
-  "fetchedDate": "7 Oct 2024, 23:12 GMT",
+  "momentId": 184406,
+  "fetchedDate": "8 Oct 2024, 23:13 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 16765,
+    "totalPoints": 16850,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -478,6 +478,12 @@
         "sanctions": 15,
         "results": [
           {
+            "name": "Tre Valli Varesine Women's Race",
+            "date": "08 Oct 2024",
+            "points": 70,
+            "rank": 6
+          },
+          {
             "name": "Giro dell'Emilia Internazionale Donne Elite",
             "date": "05 Oct 2024",
             "points": 125,
@@ -718,7 +724,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 2305
+        "totalPoints": 2375
       },
       {
         "name": "Charlotte Kool",
@@ -882,6 +888,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Simac Ladies Tour - Stage 1 (ITT)",
+            "date": "08 Oct 2024",
+            "points": 15,
+            "rank": 7
+          },
+          {
             "name": "World Championships WE - Road Race",
             "date": "28 Sept 2024",
             "points": 125,
@@ -1036,7 +1048,7 @@
             "rank": 18
           }
         ],
-        "totalPoints": 1209
+        "totalPoints": 1224
       },
       {
         "name": "Sarah Gigante",

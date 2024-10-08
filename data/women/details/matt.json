@@ -1,18 +1,24 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 184347,
-  "fetchedDate": "7 Oct 2024, 23:12 GMT",
+  "momentId": 184406,
+  "fetchedDate": "8 Oct 2024, 23:13 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 13675,
+    "totalPoints": 13850,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
         "sanctions": 15,
         "results": [
+          {
+            "name": "Simac Ladies Tour - Stage 1 (ITT)",
+            "date": "08 Oct 2024",
+            "points": 25,
+            "rank": 4
+          },
           {
             "name": "World Championships WE - Road Race",
             "date": "28 Sept 2024",
@@ -325,7 +331,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 5889
+        "totalPoints": 5914
       },
       {
         "name": "Cecilie Uttrup Ludwig",
@@ -454,6 +460,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tre Valli Varesine Women's Race",
+            "date": "08 Oct 2024",
+            "points": 150,
+            "rank": 2
+          },
+          {
             "name": "Olympic Games WE - Road Race",
             "date": "04 Aug 2024",
             "points": 5,
@@ -556,7 +568,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 794
+        "totalPoints": 944
       },
       {
         "name": "Gaia Realini",
