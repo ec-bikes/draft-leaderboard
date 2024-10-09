@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184406,
-  "fetchedDate": "8 Oct 2024, 23:13 GMT",
+  "fetchedDate": "9 Oct 2024, 23:14 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 13850,
+    "totalPoints": 13860,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
         "sanctions": 15,
         "results": [
+          {
+            "name": "Simac Ladies Tour - Stage 2",
+            "date": "09 Oct 2024",
+            "points": 10,
+            "rank": 8
+          },
           {
             "name": "Simac Ladies Tour - Stage 1 (ITT)",
             "date": "08 Oct 2024",
@@ -331,7 +337,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 5914
+        "totalPoints": 5924
       },
       {
         "name": "Cecilie Uttrup Ludwig",

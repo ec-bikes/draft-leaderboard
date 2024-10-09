@@ -2,7 +2,7 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184388,
-  "fetchedDate": "8 Oct 2024, 23:13 GMT",
+  "fetchedDate": "9 Oct 2024, 23:15 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "EF Education-EasyPost p/b Haribo",
@@ -564,7 +564,7 @@
       {
         "name": "João Almeida",
         "id": 107840,
-        "sanctions": 80,
+        "sanctions": 65,
         "results": [
           {
             "name": "World Championships ME - ITT",
@@ -868,7 +868,7 @@
       {
         "name": "Brandon McNulty",
         "id": 150923,
-        "sanctions": 30,
+        "sanctions": 15,
         "results": [
           {
             "name": "Cro Race - General classification",

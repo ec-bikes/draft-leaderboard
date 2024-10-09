@@ -2,7 +2,7 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184388,
-  "fetchedDate": "8 Oct 2024, 23:13 GMT",
+  "fetchedDate": "9 Oct 2024, 23:15 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
@@ -1477,7 +1477,7 @@
       {
         "name": "Isaac del Toro",
         "id": 2002910,
-        "sanctions": 80,
+        "sanctions": 65,
         "results": [
           {
             "name": "World Championships MU - Road Race",
