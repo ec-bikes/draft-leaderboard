@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184388,
-  "fetchedDate": "9 Oct 2024, 23:15 GMT",
+  "fetchedDate": "10 Oct 2024, 23:13 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 19290,
+    "totalPoints": 19525,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -466,6 +466,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Gran Piemonte",
+            "date": "10 Oct 2024",
+            "points": 200,
+            "rank": 1
+          },
+          {
             "name": "Coppa Bernocchi - GP Banco BPM",
             "date": "07 Oct 2024",
             "points": 100,
@@ -538,13 +544,19 @@
             "rank": 22
           }
         ],
-        "totalPoints": 554
+        "totalPoints": 754
       },
       {
         "name": "Matej Mohoric",
         "id": 86863,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Gran Piemonte",
+            "date": "10 Oct 2024",
+            "points": 35,
+            "rank": 10
+          },
           {
             "name": "Grand Prix Cycliste de Québec",
             "date": "13 Sept 2024",
@@ -660,7 +672,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 988
+        "totalPoints": 1023
       },
       {
         "name": "Victor Lafay",

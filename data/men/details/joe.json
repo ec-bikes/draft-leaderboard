@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184388,
-  "fetchedDate": "9 Oct 2024, 23:15 GMT",
+  "fetchedDate": "10 Oct 2024, 23:13 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 18159,
+    "totalPoints": 18164,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -1100,6 +1100,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Gran Piemonte",
+            "date": "10 Oct 2024",
+            "points": 5,
+            "rank": 30
+          },
+          {
             "name": "World Championships ME - Road Race",
             "date": "29 Sept 2024",
             "points": 30,
@@ -1208,7 +1214,7 @@
             "rank": 35
           }
         ],
-        "totalPoints": 728
+        "totalPoints": 733
       },
       {
         "name": "Dylan Groenewegen",

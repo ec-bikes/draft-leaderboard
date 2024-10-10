@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184406,
-  "fetchedDate": "9 Oct 2024, 23:14 GMT",
+  "fetchedDate": "10 Oct 2024, 23:12 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 16880,
+    "totalPoints": 16905,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -732,6 +732,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Simac Ladies Tour - Stage 3",
+            "date": "10 Oct 2024",
+            "points": 25,
+            "rank": 4
+          },
+          {
             "name": "Simac Ladies Tour - Stage 2",
             "date": "09 Oct 2024",
             "points": 30,
@@ -886,7 +892,7 @@
             "rank": 15
           }
         ],
-        "totalPoints": 1552
+        "totalPoints": 1577
       },
       {
         "name": "Riejanne Markus",

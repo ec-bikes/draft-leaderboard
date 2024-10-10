@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184388,
-  "fetchedDate": "9 Oct 2024, 23:15 GMT",
+  "fetchedDate": "10 Oct 2024, 23:13 GMT",
   "team": {
     "owner": "Ronan Mc Laughlin",
     "name": "DSM-Firmenich-PostNL-TIAGOYPWDWBTCC WOLUUNLITL",
-    "totalPoints": 19674,
+    "totalPoints": 19684,
     "riders": [
       {
         "name": "Primož Roglič",
@@ -450,8 +450,14 @@
       {
         "name": "Tom Pidcock",
         "id": 109775,
-        "sanctions": 0,
+        "sanctions": 5,
         "results": [
+          {
+            "name": "Gran Piemonte",
+            "date": "10 Oct 2024",
+            "points": 10,
+            "rank": 15
+          },
           {
             "name": "Giro dell'Emilia",
             "date": "05 Oct 2024",
@@ -597,7 +603,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1965
+        "totalPoints": 1975
       },
       {
         "name": "Olav Kooij",

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184406,
-  "fetchedDate": "9 Oct 2024, 23:14 GMT",
+  "fetchedDate": "10 Oct 2024, 23:12 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 17051,
+    "totalPoints": 17091,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -363,6 +363,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Simac Ladies Tour - Stage 3",
+            "date": "10 Oct 2024",
+            "points": 40,
+            "rank": 2
+          },
+          {
             "name": "Simac Ladies Tour - Stage 2",
             "date": "09 Oct 2024",
             "points": 40,
@@ -487,7 +493,7 @@
             "points": 5
           }
         ],
-        "totalPoints": 2561
+        "totalPoints": 2601
       },
       {
         "name": "Maike van der Duin",

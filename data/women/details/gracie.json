@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184406,
-  "fetchedDate": "9 Oct 2024, 23:14 GMT",
+  "fetchedDate": "10 Oct 2024, 23:12 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 13245,
+    "totalPoints": 13295,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Simac Ladies Tour - Stage 3",
+            "date": "10 Oct 2024",
+            "points": 50,
+            "rank": 1
+          },
           {
             "name": "Simac Ladies Tour - Stage 2",
             "date": "09 Oct 2024",
@@ -281,7 +287,7 @@
             "points": 8
           }
         ],
-        "totalPoints": 3451
+        "totalPoints": 3501
       },
       {
         "name": "Liane Lippert",

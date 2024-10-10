@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184406,
-  "fetchedDate": "9 Oct 2024, 23:14 GMT",
+  "fetchedDate": "10 Oct 2024, 23:12 GMT",
   "team": {
     "owner": "Matt de Neef",
     "name": "Amateur Pro Cycling",
-    "totalPoints": 13860,
+    "totalPoints": 13908,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
         "sanctions": 15,
         "results": [
+          {
+            "name": "Simac Ladies Tour - Stage 3",
+            "date": "10 Oct 2024",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Simac Ladies Tour - Stage 2",
             "date": "09 Oct 2024",
@@ -337,7 +343,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 5924
+        "totalPoints": 5954
       },
       {
         "name": "Cecilie Uttrup Ludwig",
@@ -867,6 +873,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Simac Ladies Tour - Stage 3",
+            "date": "10 Oct 2024",
+            "points": 18,
+            "rank": 6
+          },
+          {
             "name": "World Championships WE - Road Race",
             "date": "28 Sept 2024",
             "points": 225,
@@ -957,7 +969,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 716
+        "totalPoints": 734
       },
       {
         "name": "Antonia Niedermaier",

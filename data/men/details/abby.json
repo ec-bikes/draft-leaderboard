@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184388,
-  "fetchedDate": "9 Oct 2024, 23:15 GMT",
+  "fetchedDate": "10 Oct 2024, 23:13 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 19093,
+    "totalPoints": 19218,
     "riders": [
       {
         "name": "Mads Pedersen",
@@ -928,6 +928,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Gran Piemonte",
+            "date": "10 Oct 2024",
+            "points": 125,
+            "rank": 3
+          },
+          {
             "name": "Coppa Agostoni - Giro delle Brianze",
             "date": "06 Oct 2024",
             "points": 60,
@@ -1096,7 +1102,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1358
+        "totalPoints": 1483
       },
       {
         "name": "Egan Bernal",
