@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184406,
-  "fetchedDate": "10 Oct 2024, 23:12 GMT",
+  "fetchedDate": "11 Oct 2024, 23:12 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
-    "totalPoints": 13718,
+    "totalPoints": 13738,
     "riders": [
       {
         "name": "Marianne Vos",
@@ -1340,6 +1340,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Simac Ladies Tour - Stage 4",
+            "date": "11 Oct 2024",
+            "points": 20,
+            "rank": 5
+          },
+          {
             "name": "Simac Ladies Tour - Stage 3",
             "date": "10 Oct 2024",
             "points": 15,
@@ -1538,7 +1544,7 @@
             "rank": 14
           }
         ],
-        "totalPoints": 1488
+        "totalPoints": 1508
       }
     ]
   }
