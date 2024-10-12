@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184388,
-  "fetchedDate": "11 Oct 2024, 23:12 GMT",
+  "fetchedDate": "12 Oct 2024, 23:12 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 17191,
+    "totalPoints": 17206,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -752,6 +752,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Il Lombardia",
+            "date": "12 Oct 2024",
+            "points": 15,
+            "rank": 44
+          },
+          {
             "name": "Coppa Agostoni - Giro delle Brianze",
             "date": "06 Oct 2024",
             "points": 125,
@@ -954,7 +960,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 3368
+        "totalPoints": 3383
       },
       {
         "name": "Stefan Küng",

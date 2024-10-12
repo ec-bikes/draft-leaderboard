@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184388,
-  "fetchedDate": "11 Oct 2024, 23:12 GMT",
+  "fetchedDate": "12 Oct 2024, 23:12 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 19525,
+    "totalPoints": 20905,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Il Lombardia",
+            "date": "12 Oct 2024",
+            "points": 800,
+            "rank": 1
+          },
           {
             "name": "Giro dell'Emilia",
             "date": "05 Oct 2024",
@@ -458,13 +464,19 @@
             "rank": 1
           }
         ],
-        "totalPoints": 10855
+        "totalPoints": 11655
       },
       {
         "name": "Neilson Powless",
         "id": 88143,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Il Lombardia",
+            "date": "12 Oct 2024",
+            "points": 200,
+            "rank": 8
+          },
           {
             "name": "Gran Piemonte",
             "date": "10 Oct 2024",
@@ -544,7 +556,7 @@
             "rank": 22
           }
         ],
-        "totalPoints": 754
+        "totalPoints": 954
       },
       {
         "name": "Matej Mohoric",
@@ -828,6 +840,12 @@
         "sanctions": 25,
         "results": [
           {
+            "name": "Il Lombardia",
+            "date": "12 Oct 2024",
+            "points": 5,
+            "rank": 58
+          },
+          {
             "name": "Grand Prix Cycliste de Montréal",
             "date": "15 Sept 2024",
             "points": 150,
@@ -912,7 +930,7 @@
             "rank": 35
           }
         ],
-        "totalPoints": 1260
+        "totalPoints": 1265
       },
       {
         "name": "Josh Tarling",
@@ -1028,6 +1046,12 @@
         "id": 109803,
         "sanctions": 25,
         "results": [
+          {
+            "name": "Il Lombardia",
+            "date": "12 Oct 2024",
+            "points": 360,
+            "rank": 5
+          },
           {
             "name": "Giro dell'Emilia",
             "date": "05 Oct 2024",
@@ -1197,7 +1221,7 @@
             "rank": 12
           }
         ],
-        "totalPoints": 2516
+        "totalPoints": 2876
       },
       {
         "name": "Rui Costa",
@@ -1278,6 +1302,12 @@
         "id": 75170,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Il Lombardia",
+            "date": "12 Oct 2024",
+            "points": 15,
+            "rank": 43
+          },
           {
             "name": "Coppa Agostoni - Giro delle Brianze",
             "date": "06 Oct 2024",
@@ -1423,7 +1453,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 790
+        "totalPoints": 805
       }
     ]
   }

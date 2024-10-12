@@ -2,17 +2,23 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184406,
-  "fetchedDate": "11 Oct 2024, 23:12 GMT",
+  "fetchedDate": "12 Oct 2024, 23:12 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
-    "totalPoints": 13305,
+    "totalPoints": 13370,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Simac Ladies Tour - Stage 5",
+            "date": "12 Oct 2024",
+            "points": 50,
+            "rank": 1
+          },
           {
             "name": "Simac Ladies Tour - Stage 3",
             "date": "10 Oct 2024",
@@ -287,7 +293,7 @@
             "points": 8
           }
         ],
-        "totalPoints": 3501
+        "totalPoints": 3551
       },
       {
         "name": "Liane Lippert",
@@ -689,6 +695,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Simac Ladies Tour - Stage 5",
+            "date": "12 Oct 2024",
+            "points": 15,
+            "rank": 7
+          },
+          {
             "name": "Simac Ladies Tour - Stage 4",
             "date": "11 Oct 2024",
             "points": 10,
@@ -851,7 +863,7 @@
             "rank": 15
           }
         ],
-        "totalPoints": 965
+        "totalPoints": 980
       },
       {
         "name": "Neve Bradbury",
