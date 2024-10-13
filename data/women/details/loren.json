@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184406,
-  "fetchedDate": "12 Oct 2024, 23:12 GMT",
+  "fetchedDate": "13 Oct 2024, 23:12 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 17131,
+    "totalPoints": 17424,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -85,6 +85,12 @@
         "id": 76149,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Simac Ladies Tour - General classification",
+            "date": "13 Oct 2024",
+            "points": 68,
+            "rank": 10
+          },
           {
             "name": "Giro dell'Emilia Internazionale Donne Elite",
             "date": "05 Oct 2024",
@@ -355,13 +361,25 @@
             "rank": 7
           }
         ],
-        "totalPoints": 4731
+        "totalPoints": 4799
       },
       {
         "name": "Elisa Balsamo",
         "id": 101826,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Simac Ladies Tour - General classification",
+            "date": "13 Oct 2024",
+            "points": 80,
+            "rank": 9
+          },
+          {
+            "name": "Simac Ladies Tour - Stage 6",
+            "date": "13 Oct 2024",
+            "points": 20,
+            "rank": 5
+          },
           {
             "name": "Simac Ladies Tour - Stage 5",
             "date": "12 Oct 2024",
@@ -499,7 +517,7 @@
             "points": 5
           }
         ],
-        "totalPoints": 2641
+        "totalPoints": 2741
       },
       {
         "name": "Maike van der Duin",
@@ -539,6 +557,12 @@
         "id": 143292,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Chrono des Nations",
+            "date": "13 Oct 2024",
+            "points": 125,
+            "rank": 1
+          },
           {
             "name": "World Championships WE - Road Race",
             "date": "28 Sept 2024",
@@ -682,7 +706,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1824
+        "totalPoints": 1949
       },
       {
         "name": "Emma Norsgaard",

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184388,
-  "fetchedDate": "12 Oct 2024, 23:12 GMT",
+  "fetchedDate": "13 Oct 2024, 23:13 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 17206,
+    "totalPoints": 17331,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -968,6 +968,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Chrono des Nations",
+            "date": "13 Oct 2024",
+            "points": 125,
+            "rank": 1
+          },
+          {
             "name": "World Championships ME - Road Race",
             "date": "29 Sept 2024",
             "points": 15,
@@ -1142,7 +1148,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 1897
+        "totalPoints": 2022
       },
       {
         "name": "Fabio Jakobsen",
