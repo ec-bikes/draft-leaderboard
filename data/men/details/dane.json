@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184642,
-  "fetchedDate": "15 Oct 2024, 23:14 GMT",
+  "fetchedDate": "16 Oct 2024, 23:13 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 17331,
+    "totalPoints": 17416,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -752,6 +752,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Giro del Veneto",
+            "date": "16 Oct 2024",
+            "points": 85,
+            "rank": 5
+          },
+          {
             "name": "Il Lombardia",
             "date": "12 Oct 2024",
             "points": 15,
@@ -960,7 +966,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 3383
+        "totalPoints": 3468
       },
       {
         "name": "Stefan Küng",

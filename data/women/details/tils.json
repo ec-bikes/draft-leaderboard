@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184660,
-  "fetchedDate": "15 Oct 2024, 23:14 GMT",
+  "fetchedDate": "16 Oct 2024, 23:12 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 17006,
+    "totalPoints": 17056,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -1275,6 +1275,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour of Chongming Island - Stage 2",
+            "date": "16 Oct 2024",
+            "points": 50,
+            "rank": 1
+          },
+          {
             "name": "Women's Cycling Grand Prix Stuttgart & Region",
             "date": "15 Sept 2024",
             "points": 85,
@@ -1401,7 +1407,7 @@
             "rank": 13
           }
         ],
-        "totalPoints": 828
+        "totalPoints": 878
       },
       {
         "name": "Sofia Bertizzolo",
