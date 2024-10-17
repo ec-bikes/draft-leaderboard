@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184660,
-  "fetchedDate": "16 Oct 2024, 23:12 GMT",
+  "fetchedDate": "17 Oct 2024, 23:13 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 17056,
+    "totalPoints": 17506,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -1275,6 +1275,18 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour of Chongming Island - General classification",
+            "date": "17 Oct 2024",
+            "points": 400,
+            "rank": 1
+          },
+          {
+            "name": "Tour of Chongming Island - Stage 3",
+            "date": "17 Oct 2024",
+            "points": 50,
+            "rank": 1
+          },
+          {
             "name": "Tour of Chongming Island - Stage 2",
             "date": "16 Oct 2024",
             "points": 50,
@@ -1407,7 +1419,7 @@
             "rank": 13
           }
         ],
-        "totalPoints": 878
+        "totalPoints": 1328
       },
       {
         "name": "Sofia Bertizzolo",

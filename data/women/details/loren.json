@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184660,
-  "fetchedDate": "16 Oct 2024, 23:12 GMT",
+  "fetchedDate": "17 Oct 2024, 23:13 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women's Cycling Team",
-    "totalPoints": 17424,
+    "totalPoints": 17450,
     "riders": [
       {
         "name": "Marlen Reusser",
@@ -1248,6 +1248,18 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour of Chongming Island - General classification",
+            "date": "17 Oct 2024",
+            "points": 16,
+            "rank": 24
+          },
+          {
+            "name": "Tour of Chongming Island - Stage 3",
+            "date": "17 Oct 2024",
+            "points": 10,
+            "rank": 8
+          },
+          {
             "name": "Binche Chimay Binche pour Dames",
             "date": "01 Oct 2024",
             "points": 35,
@@ -1356,7 +1368,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 1194
+        "totalPoints": 1220
       },
       {
         "name": "Niamh Fisher-Black",
