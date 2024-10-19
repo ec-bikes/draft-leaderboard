@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184642,
-  "fetchedDate": "18 Oct 2024, 23:12 GMT",
+  "fetchedDate": "19 Oct 2024, 23:13 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 20905,
+    "totalPoints": 20920,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -692,6 +692,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Gree-Tour of Guangxi - Stage 5",
+            "date": "19 Oct 2024",
+            "points": 15,
+            "rank": 4
+          },
+          {
             "name": "Coppa Agostoni - Giro delle Brianze",
             "date": "06 Oct 2024",
             "points": 5,
@@ -710,7 +716,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 45
+        "totalPoints": 60
       },
       {
         "name": "Lenny Martinez",
