@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184642,
-  "fetchedDate": "19 Oct 2024, 23:13 GMT",
+  "fetchedDate": "20 Oct 2024, 23:13 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Ag2r La Mondiale-Criterion",
-    "totalPoints": 10532,
+    "totalPoints": 10549,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -180,7 +180,7 @@
             "rank": 1
           },
           {
-            "name": "Clasica de Almeria",
+            "name": "Clasica de Almeria ME",
             "date": "11 Feb 2024",
             "points": 35,
             "rank": 10
@@ -658,6 +658,12 @@
         "sanctions": 30,
         "results": [
           {
+            "name": "Gree-Tour of Guangxi - General classification",
+            "date": "20 Oct 2024",
+            "points": 5,
+            "rank": 48
+          },
+          {
             "name": "Trofeo Matteotti",
             "date": "15 Sept 2024",
             "points": 70,
@@ -753,7 +759,7 @@
             "rank": 31
           }
         ],
-        "totalPoints": 574
+        "totalPoints": 579
       },
       {
         "name": "Lennard Kämna",
@@ -930,7 +936,7 @@
             "points": 5
           },
           {
-            "name": "Clasica de Almeria",
+            "name": "Clasica de Almeria ME",
             "date": "11 Feb 2024",
             "points": 85,
             "rank": 5
@@ -1078,6 +1084,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Gree-Tour of Guangxi - General classification",
+            "date": "20 Oct 2024",
+            "points": 12,
+            "rank": 25
+          },
+          {
             "name": "Skoda Tour de Luxembourg - General classification",
             "date": "22 Sept 2024",
             "points": 5,
@@ -1168,7 +1180,7 @@
             "rank": 8
           }
         ],
-        "totalPoints": 184
+        "totalPoints": 196
       }
     ]
   }

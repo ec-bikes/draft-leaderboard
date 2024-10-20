@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184642,
-  "fetchedDate": "19 Oct 2024, 23:13 GMT",
+  "fetchedDate": "20 Oct 2024, 23:13 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Lidl-Trek M&Ms",
-    "totalPoints": 19233,
+    "totalPoints": 19283,
     "riders": [
       {
         "name": "Mads Pedersen",
@@ -794,6 +794,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Utsunomiya Japan Cup Road Race",
+            "date": "20 Oct 2024",
+            "points": 50,
+            "rank": 8
+          },
+          {
             "name": "Coppa Bernocchi - GP Banco BPM",
             "date": "07 Oct 2024",
             "points": 5,
@@ -926,7 +932,7 @@
             "rank": 11
           }
         ],
-        "totalPoints": 1987
+        "totalPoints": 2037
       },
       {
         "name": "Alex Aranburu",

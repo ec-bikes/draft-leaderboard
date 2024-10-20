@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184642,
-  "fetchedDate": "19 Oct 2024, 23:13 GMT",
+  "fetchedDate": "20 Oct 2024, 23:13 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ines Grenadiers-Greenpeace",
-    "totalPoints": 12909,
+    "totalPoints": 13059,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -1131,6 +1131,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Veneto Classic",
+            "date": "20 Oct 2024",
+            "points": 150,
+            "rank": 2
+          },
+          {
             "name": "Giro del Veneto",
             "date": "16 Oct 2024",
             "points": 125,
@@ -1317,7 +1323,7 @@
             "rank": 10
           }
         ],
-        "totalPoints": 1213
+        "totalPoints": 1363
       },
       {
         "name": "Jack Haig",

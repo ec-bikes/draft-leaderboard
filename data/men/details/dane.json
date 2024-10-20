@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184642,
-  "fetchedDate": "19 Oct 2024, 23:13 GMT",
+  "fetchedDate": "20 Oct 2024, 23:13 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 17416,
+    "totalPoints": 17516,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -752,6 +752,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Veneto Classic",
+            "date": "20 Oct 2024",
+            "points": 100,
+            "rank": 4
+          },
+          {
             "name": "Giro del Veneto",
             "date": "16 Oct 2024",
             "points": 85,
@@ -966,7 +972,7 @@
             "rank": 6
           }
         ],
-        "totalPoints": 3468
+        "totalPoints": 3568
       },
       {
         "name": "Stefan Küng",
@@ -1349,7 +1355,7 @@
             "rank": 5
           },
           {
-            "name": "Clasica de Almeria",
+            "name": "Clasica de Almeria ME",
             "date": "11 Feb 2024",
             "points": 30,
             "rank": 11

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184660,
-  "fetchedDate": "19 Oct 2024, 23:12 GMT",
+  "fetchedDate": "20 Oct 2024, 23:13 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "Collective Cartel",
-    "totalPoints": 17506,
+    "totalPoints": 17766,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -1275,6 +1275,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Tour of Guangxi",
+            "date": "20 Oct 2024",
+            "points": 260,
+            "rank": 3
+          },
+          {
             "name": "Tour of Chongming Island - General classification",
             "date": "17 Oct 2024",
             "points": 400,
@@ -1419,7 +1425,7 @@
             "rank": 13
           }
         ],
-        "totalPoints": 1328
+        "totalPoints": 1588
       },
       {
         "name": "Sofia Bertizzolo",

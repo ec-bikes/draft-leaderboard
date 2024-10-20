@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 184642,
-  "fetchedDate": "19 Oct 2024, 23:13 GMT",
+  "fetchedDate": "20 Oct 2024, 23:13 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "Arkéa-Formula 1 Hotels",
-    "totalPoints": 20920,
+    "totalPoints": 21420,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -472,6 +472,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Utsunomiya Japan Cup Road Race",
+            "date": "20 Oct 2024",
+            "points": 200,
+            "rank": 1
+          },
+          {
             "name": "Il Lombardia",
             "date": "12 Oct 2024",
             "points": 200,
@@ -556,13 +562,19 @@
             "rank": 22
           }
         ],
-        "totalPoints": 954
+        "totalPoints": 1154
       },
       {
         "name": "Matej Mohoric",
         "id": 86863,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Utsunomiya Japan Cup Road Race",
+            "date": "20 Oct 2024",
+            "points": 125,
+            "rank": 3
+          },
           {
             "name": "Gran Piemonte",
             "date": "10 Oct 2024",
@@ -684,13 +696,19 @@
             "rank": 1
           }
         ],
-        "totalPoints": 1023
+        "totalPoints": 1148
       },
       {
         "name": "Victor Lafay",
         "id": 136296,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Gree-Tour of Guangxi - General classification",
+            "date": "20 Oct 2024",
+            "points": 175,
+            "rank": 4
+          },
           {
             "name": "Gree-Tour of Guangxi - Stage 5",
             "date": "19 Oct 2024",
@@ -716,7 +734,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 60
+        "totalPoints": 235
       },
       {
         "name": "Lenny Martinez",
