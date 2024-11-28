@@ -2,7 +2,7 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 185123,
-  "fetchedDate": "27 Nov 2024, 23:13 GMT",
+  "fetchedDate": "28 Nov 2024, 23:13 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "RBF Spokeswoman Racing",
@@ -165,36 +165,36 @@
             "rank": 3
           },
           {
-            "name": "RideLondon Classique - General classification",
+            "name": "Ford RideLondon Classique - General classification",
             "date": "26 May 2024",
             "points": 400,
             "rank": 1
           },
           {
-            "name": "RideLondon Classique - Stage 3",
+            "name": "Ford RideLondon Classique - Stage 3",
             "date": "26 May 2024",
             "points": 50,
             "rank": 1
           },
           {
-            "name": "RideLondon Classique - Stage 2",
+            "name": "Ford RideLondon Classique - Stage 2",
             "date": "25 May 2024",
             "points": 50,
             "rank": 1
           },
           {
-            "name": "RideLondon Classique - Stage 2 - Bonus",
+            "name": "Ford RideLondon Classique - Stage 2 - Bonus",
             "date": "25 May 2024",
             "points": 8
           },
           {
-            "name": "RideLondon Classique - Stage 1",
+            "name": "Ford RideLondon Classique - Stage 1",
             "date": "24 May 2024",
             "points": 50,
             "rank": 1
           },
           {
-            "name": "RideLondon Classique - Stage 1 - Bonus",
+            "name": "Ford RideLondon Classique - Stage 1 - Bonus",
             "date": "24 May 2024",
             "points": 8
           },
@@ -1338,7 +1338,7 @@
             "rank": 4
           },
           {
-            "name": "RideLondon Classique - General classification",
+            "name": "Ford RideLondon Classique - General classification",
             "date": "26 May 2024",
             "points": 24,
             "rank": 18

@@ -2,7 +2,7 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 185123,
-  "fetchedDate": "27 Nov 2024, 23:13 GMT",
+  "fetchedDate": "28 Nov 2024, 23:13 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "Death By A Thousand Attacks",
@@ -248,13 +248,13 @@
             "rank": 3
           },
           {
-            "name": "RideLondon Classique - General classification",
+            "name": "Ford RideLondon Classique - General classification",
             "date": "26 May 2024",
             "points": 8,
             "rank": 36
           },
           {
-            "name": "RideLondon Classique - Stage 2",
+            "name": "Ford RideLondon Classique - Stage 2",
             "date": "25 May 2024",
             "points": 10,
             "rank": 8
@@ -1202,19 +1202,19 @@
             "rank": 2
           },
           {
-            "name": "RideLondon Classique - General classification",
+            "name": "Ford RideLondon Classique - General classification",
             "date": "26 May 2024",
             "points": 140,
             "rank": 6
           },
           {
-            "name": "RideLondon Classique - Stage 2",
+            "name": "Ford RideLondon Classique - Stage 2",
             "date": "25 May 2024",
             "points": 20,
             "rank": 5
           },
           {
-            "name": "RideLondon Classique - Stage 1",
+            "name": "Ford RideLondon Classique - Stage 1",
             "date": "24 May 2024",
             "points": 6,
             "rank": 10
