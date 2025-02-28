@@ -1,6 +1,7 @@
 const disciplineId = 10; // presumably road
 const rankingTypeId = 1;
-const disciplineSeasonId = 432; // 2024?
+// const disciplineSeasonId = 432; // 2024
+const disciplineSeasonId = 444; // 2025
 
 /** Parameters used in UCI ranking URLs and request bodies */
 export const uciRankingParams = {

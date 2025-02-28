@@ -53,7 +53,7 @@ import { teams } from '../data/men/teams.js';
   for (const team of teams) {
     for (const rider of team.riders) {
       console.log(rider.name);
-      await getRiderPcsData({ rider, year: 2024 });
+      await getRiderPcsData({ rider, year: 2025 });
     }
   }
 })().catch((err) => {
