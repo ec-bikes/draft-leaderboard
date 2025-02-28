@@ -3,18 +3,19 @@ import type { BaseTeam, TeamDetails } from '../../common/types/Team.js';
 import { getRiderUciData } from './getRiderUciData.js';
 import { getRiderPcsData } from './getRiderPcsData.js';
 import type { Draft } from '../../common/types/Draft.js';
-import type { RiderDetails } from '../../common/types/Rider.js';
+import type { BaseRider, RiderDetails } from '../../common/types/Rider.js';
 
 export async function getTeamData(params: {
   source: Source;
   team: BaseTeam;
   momentId: number;
   draft: Pick<Draft, 'group' | 'year' | 'tradeDate'>;
+  riderIds: Record<string, number | undefined>;
 }): Promise<TeamDetails> {
-  const { team: rawTeam, momentId, draft, source } = params;
+  const { team: rawTeam, momentId, draft, source, riderIds } = params;
   const { year, group, tradeDate: tradeDateStr } = draft;
   const tradeDate = tradeDateStr ? new Date(tradeDateStr).getTime() : null;
-  const { owner, name, riders } = rawTeam;
+  const { owner, name, riders, tradedOut } = rawTeam;
   const team: TeamDetails = {
     owner,
     name,
@@ -23,7 +24,12 @@ export async function getTeamData(params: {
   };
 
   // do the requests one at a time for now
-  for (const rawRider of riders) {
+  for (const riderName of riders) {
+    const riderId = riderIds[riderName];
+    if (!riderId) {
+      throw new Error(`Couldn't find ID for ${riderName}`);
+    }
+    const rawRider: BaseRider = { name: riderName, id: riderId };
     const riderData =
       source === 'uci'
         ? await getRiderUciData({ rider: rawRider, momentId, year, group })
@@ -34,21 +40,21 @@ export async function getTeamData(params: {
     rider.results.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
     // Trim results and update sanctions if the rider was traded
-    // if (tradeDate && (rider.tradedIn || rider.tradedOut)) {
-    if (tradeDate && rider.tradedOut) {
+    // if (tradeDate && (rider.name === tradedIn || rider.name === tradedOut)) {
+    if (tradeDate && rider.name === tradedOut) {
       // Find the first result before the trade date
       let tradeIndex = rider.results.findIndex((res) => new Date(res.date).getTime() < tradeDate);
       tradeIndex = tradeIndex === -1 ? Infinity : tradeIndex;
 
       rider.results = rider.results.slice(tradeIndex);
-      // rider.results = rider.tradedIn
+      // rider.results = rider.name === tradedIn
       //   ? rider.results.slice(0, tradeIndex)
       //   : rider.results.slice(tradeIndex);
 
       // Correct the sanctions to account for any before or after trade
       if (rider.sanctions && rider.sanctionsAtTrade) {
         rider.sanctions = rider.sanctionsAtTrade;
-        // rider.sanctions = rider.tradedIn
+        // rider.sanctions = rider.name === tradedIn
         //   ? rider.sanctions - rider.sanctionsAtTrade
         //   : rider.sanctionsAtTrade;
       }

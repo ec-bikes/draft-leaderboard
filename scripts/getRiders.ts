@@ -3,15 +3,19 @@ import type { UciRiderRanking } from './data/uci/types/UciRiderRanking.js';
 import { getRiderPcsData } from './data/getRiderPcsData.js';
 import { getUciRiderRankings } from './data/uci/getUciRiderRankings.js';
 import { teams } from '../data/men/teams.js';
+import type { Group } from '../common/types/Group.js';
+import type { BaseRider } from '../common/types/Rider.js';
+
+const group: Group = 'men';
 
 // Initial script to try and get rider IDs and figure out if any need custom PCS URLs
 (async () => {
-  const ridersFile = 'riders.json';
+  const ridersFile = `data/${group}/riders.json`;
   let riders: UciRiderRanking[];
   if (fs.existsSync(ridersFile)) {
     riders = JSON.parse(fs.readFileSync(ridersFile, 'utf8'));
   } else {
-    const result = await getUciRiderRankings({ limit: 400, group: 'men' });
+    const result = await getUciRiderRankings({ limit: 400, group });
     if (typeof result === 'string') {
       console.error('❌', result);
       process.exit(1);
@@ -38,23 +42,22 @@ import { teams } from '../data/men/teams.js';
     }),
   );
 
+  const fetchRiders: BaseRider[] = [];
   for (const team of teams) {
-    for (const rider of team.riders) {
-      const id = riderIds[rider.name];
+    for (const name of team.riders) {
+      const id = riderIds[name];
       if (id) {
-        rider.id = id;
+        fetchRiders.push({ name, id });
       } else {
-        console.log(`couldn't find ${rider.name}`);
+        console.log(`couldn't find ${name}`);
       }
     }
   }
   console.log(JSON.stringify(teams));
 
-  for (const team of teams) {
-    for (const rider of team.riders) {
-      console.log(rider.name);
-      await getRiderPcsData({ rider, year: 2025 });
-    }
+  for (const rider of fetchRiders) {
+    console.log(rider.name);
+    await getRiderPcsData({ rider, year: 2025 });
   }
 })().catch((err) => {
   console.error((err as Error).stack || err);

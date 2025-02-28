@@ -6,6 +6,8 @@ import type { Team } from '../common/types/Team.js';
 import type { TeamDetailsJson, TeamsSummaryJson } from '../common/types/TeamJson.js';
 import * as men from '../data/men/teams.js';
 import * as women from '../data/women/teams.js';
+import { allRiders as allMen } from '../data/men/allRiders.js';
+import { allRiders as allWomen } from '../data/women/allRiders.js';
 import { getRankingMetadata } from './data/getRankingMetadata.js';
 import { getTeamData } from './data/getTeamData.js';
 import { logError } from './log.js';
@@ -22,6 +24,7 @@ const source: Source = 'pcs';
     if (groupArg && groupArg !== group) {
       continue; // skip other groups if a specific one was requested
     }
+    const riderIds = group === 'men' ? allMen : allWomen;
 
     // Get the momentId value (which is slightly different between men and women) and ranking date
     const metadata = await getRankingMetadata({ group, source });
@@ -39,6 +42,7 @@ const source: Source = 'pcs';
         momentId: metadata.momentId,
         draft,
         source,
+        riderIds,
       });
 
       // Update the detailed team data file (only the current version, not dated)

@@ -1,20 +1,23 @@
 import { describe, it, expect, vi, beforeAll, afterAll } from 'vitest';
 import * as getRiderPcsDataModule from './getRiderPcsData.js';
 import { getTeamData } from './getTeamData.js';
-import type { BaseRider } from '../../common/types/Rider.js';
 
 function getParams(
-  rider: Partial<BaseRider>,
+  params: { tradedIn?: boolean; tradedOut?: boolean } = {},
   tradeDate: string = '2021-01-03',
 ): Parameters<typeof getTeamData>[0] {
+  const name = 'rider';
   return {
     source: 'pcs',
     momentId: 1,
     draft: { group: 'women', year: 2021, tradeDate },
+    riderIds: { [name]: 0 },
     team: {
       owner: 'owner',
       name: 'team',
-      riders: [{ name: 'rider', id: 0, ...rider }],
+      tradedIn: params.tradedIn ? name : undefined,
+      tradedOut: params.tradedOut ? name : undefined,
+      riders: [name],
     },
   };
 }

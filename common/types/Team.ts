@@ -1,19 +1,21 @@
-import type { BaseRider, Rider, RiderDetails } from './Rider.js';
+import type { Rider, RiderDetails } from './Rider.js';
 
 /** Basic team info used in the team definition files */
 export interface BaseTeam {
-  owner: string;
-  name: string;
-  /** Basic rider info used to look up results */
-  riders: BaseRider[];
-}
-
-/** Team info without individual race results (used in `TeamsSummaryJson`) */
-export interface Team {
   /** Team owner name */
   owner: string;
   /** Team name */
   name: string;
+  /** Rider names used to look up IDs and results */
+  riders: string[];
+  /** Rider name traded in */
+  tradedIn?: string;
+  /** Rider name traded out */
+  tradedOut?: string;
+}
+
+/** Team info without individual race results (used in `TeamsSummaryJson`) */
+export interface Team extends Pick<BaseTeam, 'owner' | 'name' | 'tradedIn' | 'tradedOut'> {
   /** Current points total */
   totalPoints: number;
   /** Rider summary data (no race results) */
