@@ -5,13 +5,7 @@ import { baseUrl } from './common/constants.js';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  plugins: [
-    react(),
-    vike({
-      prerender: true,
-      disableUrlNormalization: true,
-    }),
-  ],
+  plugins: [react(), vike()],
   // this needs to match the path on github pages, https://ec-bikes.github.io/draft-leaderboard/
   base: baseUrl,
 });
