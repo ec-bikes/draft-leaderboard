@@ -6,8 +6,8 @@
   "search.exclude": {
     "**/node_modules": true,
     "**/*.code-search": true,
-    "**/previous": true,
-    "**/data/*2024": true,
+    // "**/previous": true,
+    // "**/data/*2024": true,
     "**/.yarn": true
   }
 }

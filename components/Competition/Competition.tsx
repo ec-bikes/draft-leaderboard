@@ -8,10 +8,12 @@ import type { Draft } from '../../common/types/Draft.js';
 import { formatDate } from '../../common/formatDate.js';
 import { years } from '../../common/constants.js';
 import { getPageUrl } from '../../common/pageUrls.js';
+import type { PointsHistory } from '../../common/types/PointsHistory.js';
 
 export interface CompetitionProps extends Draft {
   group: Group;
   teamData: TeamsSummaryJson;
+  history?: PointsHistory;
 }
 
 export function Competition(props: CompetitionProps) {

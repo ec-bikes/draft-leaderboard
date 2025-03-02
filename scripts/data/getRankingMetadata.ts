@@ -5,18 +5,20 @@ import { getUciRankingMoments } from './uci/getUciRankingMoments.js';
 
 const schemaVersion = 1;
 
+export interface RankingMetadataResult {
+  /** Date used in filenames (will be formatted as UTC): ranking date for UCI, fetch date if PCS */
+  fileDate: Date;
+  metadata: TeamJsonMetadata;
+}
+
 /**
  * Get the `momentId` value used by UCI APIs, as well as the ranking date corresponding to that ID,
  * and the current date/time when the data is being fetched.
  */
-export async function getRankingMetadata(params: { group: Group; source: 'uci' | 'pcs' }): Promise<
-  | {
-      /** Date used in filenames (will be formatted as UTC): ranking date for UCI, fetch date if PCS */
-      fileDate: Date;
-      metadata: TeamJsonMetadata;
-    }
-  | string
-> {
+export async function getRankingMetadata(params: {
+  group: Group;
+  source: 'uci' | 'pcs';
+}): Promise<RankingMetadataResult | string> {
   const { group, source } = params;
 
   // Get the fetch date with hour and minute in UTC time
@@ -45,8 +47,12 @@ export async function getRankingMetadata(params: { group: Group; source: 'uci' |
   let fileDate = new Date();
   if (source === 'uci') {
     // This comes in DD/MM/YYYY format. Convert it to an unambiguous text-based date.
-    const rankingDateParts = moment.Name.split('/').map(Number);
-    const rdate = makeUtcDate(rankingDateParts[2], rankingDateParts[1], rankingDateParts[0]);
+    const uciRankingDateParts = moment.Name.split('/').map(Number);
+    const rdate = makeUtcDate(
+      uciRankingDateParts[2],
+      uciRankingDateParts[1],
+      uciRankingDateParts[0],
+    );
     uciRankingDate = formatDate(rdate);
     fileDate = rdate;
   }

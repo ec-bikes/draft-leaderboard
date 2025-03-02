@@ -12,8 +12,10 @@ import { getTeamData } from './data/getTeamData.js';
 import { logError } from './log.js';
 import { getDataFilePath } from '../common/filenames.js';
 import { cleanUpFiles } from './data/cleanUpFiles.js';
+import { updateHistory } from './data/updateHistory.js';
 
 const drafts = [women, men];
+const year = women.draft.year;
 
 const groupArg = process.argv.includes('--men')
   ? 'men'
@@ -52,7 +54,7 @@ const source: Source = 'pcs';
 
       // Update the detailed team data file (only the current version, not dated)
       const teamDetails: TeamDetailsJson = { ...metadata, team };
-      writeFile(getDataFilePath({ group, owner: team.owner }), teamDetails);
+      writeFile(getDataFilePath({ group, year, owner: team.owner }), teamDetails);
 
       teams.push({
         ...team,
@@ -62,13 +64,16 @@ const source: Source = 'pcs';
       console.log();
     }
 
+    // Update history and fill in `movement` property of teams
+    updateHistory({ group, teams, fileDate });
+
     // Write the summary file and a dated version
     const teamsSummary: TeamsSummaryJson = { ...metadata, teams };
-    writeFile(getDataFilePath({ group, summary: true }), teamsSummary);
-    writeFile(getDataFilePath({ group, summaryDate: fileDate }), teamsSummary);
+    writeFile(getDataFilePath({ group, year, summary: true }), teamsSummary);
+    writeFile(getDataFilePath({ group, year, summaryDate: fileDate }), teamsSummary);
 
     if (source === 'pcs') {
-      cleanUpFiles(group);
+      cleanUpFiles(group, year);
     }
   }
 })().catch((err) => {

@@ -5,24 +5,30 @@ import type { Group } from './types/Group.js';
 export const datedSummaryFileRegex = /^summary-(\d{4}-\d{2}-\d{2})\.json$/;
 
 /**
- * Get a filename for a team data file or summary file.
- * Provide exactly ONE of `summary`, `summaryDate`, or `owner`.
+ * Get the path for a data file.
+ * Provide exactly ONE of the optional props to determine the file type.
  *
  * (Unfortunately this can't be used for dynamic imports of data files,
  * but it at least serves as a central reference.)
  */
 export function getDataFilePath(params: {
   group: Group;
-  /** Write the current summary file */
+  year: number;
+  /** Main summary file */
   summary?: boolean;
-  /** Write a dated summary file under `/previous/` */
+  /** Dated summary file under `/previous/` */
   summaryDate?: Date;
-  /** Write the team details file */
+  /** Team details file */
   owner?: string;
+  /** Points history file */
+  history?: boolean;
 }): string {
-  const { group, summary, owner, summaryDate } = params;
+  const { group, year, summary, owner, summaryDate } = params;
 
-  const root = `data/${group}`;
+  let root = `data/${group}`;
+  if (year !== new Date().getFullYear()) {
+    root += `${year}`;
+  }
   if (summary) {
     return `${root}/summary.json`;
   }
@@ -33,5 +39,5 @@ export function getDataFilePath(params: {
   if (owner) {
     return `${root}/details/${owner.split(' ')[0].toLowerCase()}.json`;
   }
-  throw new Error('Must provide exactly one of summary, summaryDate, or owner');
+  throw new Error('Missing type of file');
 }

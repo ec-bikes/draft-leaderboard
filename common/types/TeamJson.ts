@@ -1,3 +1,4 @@
+import type { PointsHistory } from './PointsHistory.js';
 import type { Team, TeamDetails } from './Team.js';
 
 /** Ranking and fetch dates for team data */
@@ -15,6 +16,7 @@ export interface TeamJsonMetadata {
 /** Short data about all the teams (no individual race results) */
 export interface TeamsSummaryJson extends TeamJsonMetadata {
   teams: Team[];
+  history?: PointsHistory;
 }
 
 /** Data about a team including individual race results */
