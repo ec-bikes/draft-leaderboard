@@ -1,0 +1,410 @@
+{
+  "source": "pcs",
+  "schemaVersion": 1,
+  "momentId": 189001,
+  "fetchedDate": "2 Mar 2025, 06:33 GMT",
+  "teams": [
+    {
+      "owner": "Loren Rowney",
+      "name": "(TBD)",
+      "totalPoints": 2030,
+      "riders": [
+        {
+          "name": "Lotte Kopecky",
+          "id": 73504,
+          "sanctions": 0,
+          "totalPoints": 0
+        },
+        {
+          "name": "Cecilie Uttrup Ludwig",
+          "id": 86838,
+          "sanctions": 0,
+          "totalPoints": 5
+        },
+        {
+          "name": "Kim le Court",
+          "id": 88660,
+          "sanctions": 0,
+          "totalPoints": 290
+        },
+        {
+          "name": "Justine Ghekiere",
+          "id": 2202121,
+          "sanctions": 0,
+          "totalPoints": 171
+        },
+        {
+          "name": "Silke Smulders",
+          "id": 231378,
+          "sanctions": 0,
+          "totalPoints": 585
+        },
+        {
+          "name": "Daria Pikulik",
+          "id": 99885,
+          "sanctions": 0,
+          "totalPoints": 125
+        },
+        {
+          "name": "Lore de Schepper",
+          "id": 2096868,
+          "sanctions": 0,
+          "totalPoints": 5
+        },
+        {
+          "name": "Monica Trinca Colonel",
+          "id": 1897613,
+          "sanctions": 0,
+          "totalPoints": 259
+        },
+        {
+          "name": "Clara Copponi",
+          "id": 153287,
+          "sanctions": 0,
+          "totalPoints": 370
+        },
+        {
+          "name": "Georgia Baker",
+          "id": 78086,
+          "sanctions": 0,
+          "totalPoints": 220
+        }
+      ]
+    },
+    {
+      "owner": "Abby Mickey",
+      "name": "The Tortured Breakaway Department",
+      "totalPoints": 1481,
+      "riders": [
+        {
+          "name": "Elisa Longo Borghini",
+          "id": 76149,
+          "sanctions": 0,
+          "totalPoints": 483
+        },
+        {
+          "name": "Marianne Vos",
+          "id": 31144,
+          "sanctions": 0,
+          "totalPoints": 0
+        },
+        {
+          "name": "Pfeiffer Georgi",
+          "id": 153350,
+          "sanctions": 0,
+          "totalPoints": 188
+        },
+        {
+          "name": "Karlijn Swinkels",
+          "id": 98571,
+          "sanctions": 0,
+          "totalPoints": 599
+        },
+        {
+          "name": "Charlotte Kool",
+          "id": 157612,
+          "sanctions": 0,
+          "totalPoints": 40
+        },
+        {
+          "name": "Anna Henderson",
+          "id": 237690,
+          "sanctions": 0,
+          "totalPoints": 3
+        },
+        {
+          "name": "Chiara Consonni",
+          "id": 156600,
+          "sanctions": 0,
+          "totalPoints": 100
+        },
+        {
+          "name": "Shirin van Anrooij",
+          "id": 228375,
+          "sanctions": 0,
+          "totalPoints": 0
+        },
+        {
+          "name": "Ingvild Gåskjenn",
+          "id": 101715,
+          "sanctions": 0,
+          "totalPoints": 68
+        },
+        {
+          "name": "Scarlett Souren",
+          "id": 233425,
+          "sanctions": 0,
+          "totalPoints": 0
+        }
+      ]
+    },
+    {
+      "owner": "Gracie Elvin",
+      "name": "Lamborghini p/b Tony's Chocolonely",
+      "totalPoints": 2258,
+      "riders": [
+        {
+          "name": "Demi Vollering",
+          "id": 151466,
+          "sanctions": 0,
+          "totalPoints": 512
+        },
+        {
+          "name": "Elisa Balsamo",
+          "id": 101826,
+          "sanctions": 0,
+          "totalPoints": 190
+        },
+        {
+          "name": "Chloe Dygert",
+          "id": 109716,
+          "sanctions": 0,
+          "totalPoints": 471
+        },
+        {
+          "name": "Mischa Bredewold",
+          "id": 227721,
+          "sanctions": 0,
+          "totalPoints": 54
+        },
+        {
+          "name": "Maike van der Duin",
+          "id": 226974,
+          "sanctions": 0,
+          "totalPoints": 71
+        },
+        {
+          "name": "Cedrine Kerbaol",
+          "id": 1750054,
+          "sanctions": 0,
+          "totalPoints": 97
+        },
+        {
+          "name": "Niamh Fisher-Black",
+          "id": 217072,
+          "sanctions": 0,
+          "totalPoints": 261
+        },
+        {
+          "name": "Kim Cadzow",
+          "id": 2246047,
+          "sanctions": 0,
+          "totalPoints": 150
+        },
+        {
+          "name": "Elise Chabbey",
+          "id": 1638135,
+          "sanctions": 0,
+          "totalPoints": 305
+        },
+        {
+          "name": "Kathrin Schweinberger",
+          "id": 98622,
+          "sanctions": 0,
+          "totalPoints": 147
+        }
+      ]
+    },
+    {
+      "owner": "Tilda Price",
+      "name": "Santa Cruz-Shimano",
+      "totalPoints": 1652,
+      "riders": [
+        {
+          "name": "Lorena Wiebes",
+          "id": 141733,
+          "sanctions": 0,
+          "totalPoints": 386
+        },
+        {
+          "name": "Evita Muzic",
+          "id": 109412,
+          "sanctions": 0,
+          "totalPoints": 5
+        },
+        {
+          "name": "Puck Pieterse",
+          "id": 234336,
+          "sanctions": 0,
+          "totalPoints": 220
+        },
+        {
+          "name": "Noemi Rüegg",
+          "id": 347941,
+          "sanctions": 0,
+          "totalPoints": 766
+        },
+        {
+          "name": "Pauliena Rooijakkers",
+          "id": 79690,
+          "sanctions": 0,
+          "totalPoints": 0
+        },
+        {
+          "name": "Marion Bunel",
+          "id": 1742562,
+          "sanctions": 0,
+          "totalPoints": 0
+        },
+        {
+          "name": "Sofie van Rooijen",
+          "id": 228141,
+          "sanctions": 0,
+          "totalPoints": 55
+        },
+        {
+          "name": "Marta Lach",
+          "id": 96399,
+          "sanctions": 0,
+          "totalPoints": 42
+        },
+        {
+          "name": "Mavi Garcia",
+          "id": 398547,
+          "sanctions": 0,
+          "totalPoints": 178
+        },
+        {
+          "name": "Arlenis Sierra",
+          "id": 71998,
+          "sanctions": 0,
+          "totalPoints": 0
+        }
+      ]
+    },
+    {
+      "owner": "Georgie Howe",
+      "name": "Specialized-Win-Collective Racing",
+      "totalPoints": 1346,
+      "riders": [
+        {
+          "name": "Kasia Niewiadoma",
+          "id": 86824,
+          "sanctions": 0,
+          "totalPoints": 13
+        },
+        {
+          "name": "Silvia Persico",
+          "id": 107539,
+          "sanctions": 0,
+          "totalPoints": 547
+        },
+        {
+          "name": "Antonia Niedermaier",
+          "id": 2188959,
+          "sanctions": 0,
+          "totalPoints": 138
+        },
+        {
+          "name": "Thalita de Jong",
+          "id": 79176,
+          "sanctions": 0,
+          "totalPoints": 284
+        },
+        {
+          "name": "Brodie Chapman",
+          "id": 106168,
+          "sanctions": 0,
+          "totalPoints": 100
+        },
+        {
+          "name": "Lily Williams",
+          "id": 459694,
+          "sanctions": 0,
+          "totalPoints": 75
+        },
+        {
+          "name": "Juliette Labous",
+          "id": 97498,
+          "sanctions": 0,
+          "totalPoints": 72
+        },
+        {
+          "name": "Lucinda Brand",
+          "id": 66056,
+          "sanctions": 0,
+          "totalPoints": 0
+        },
+        {
+          "name": "Sarah van Dam",
+          "id": 488553,
+          "sanctions": 0,
+          "totalPoints": 101
+        },
+        {
+          "name": "Riejanne Markus",
+          "id": 86854,
+          "sanctions": 0,
+          "totalPoints": 16
+        }
+      ]
+    },
+    {
+      "owner": "Tils Raynolds",
+      "name": "The Suffragettes Collective",
+      "totalPoints": 1527,
+      "riders": [
+        {
+          "name": "Liane Lippert",
+          "id": 140495,
+          "sanctions": 0,
+          "totalPoints": 143
+        },
+        {
+          "name": "Anna van der Breggen",
+          "id": 59726,
+          "sanctions": 0,
+          "totalPoints": 140
+        },
+        {
+          "name": "Marlen Reusser",
+          "id": 1589305,
+          "sanctions": 0,
+          "totalPoints": 314
+        },
+        {
+          "name": "Ally Wollaston",
+          "id": 220562,
+          "sanctions": 0,
+          "totalPoints": 775
+        },
+        {
+          "name": "Neve Bradbury",
+          "id": 1987823,
+          "sanctions": 0,
+          "totalPoints": 125
+        },
+        {
+          "name": "Cat Ferguson",
+          "id": 2317617,
+          "sanctions": 0,
+          "totalPoints": 0
+        },
+        {
+          "name": "Gaia Realini",
+          "id": 303036,
+          "sanctions": 0,
+          "totalPoints": 0
+        },
+        {
+          "name": "Kristen Faulkner",
+          "id": 1688341,
+          "sanctions": 0,
+          "totalPoints": 0
+        },
+        {
+          "name": "Letizia Paternoster",
+          "id": 153363,
+          "sanctions": 0,
+          "totalPoints": 0
+        },
+        {
+          "name": "Pauline Ferrand-Prévot",
+          "id": 66298,
+          "sanctions": 0,
+          "totalPoints": 30
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "source": "pcs",
+  "schemaVersion": 1,
+  "momentId": 188995,
+  "fetchedDate": "2 Mar 2025, 07:13 GMT",
+  "team": {
+    "owner": "Andrew/Alain Philippe",
+    "name": "Groupama-FDJ-Tourtel Twist",
+    "totalPoints": 1488,
+    "riders": [
+      {
+        "name": "Adam Yates",
+        "id": 70590,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Tour of Oman - General classification",
+            "date": "12 Feb 2025",
+            "points": 200,
+            "rank": 1
+          },
+          {
+            "name": "Tour of Oman - Stage 5",
+            "date": "12 Feb 2025",
+            "points": 15,
+            "rank": 2
+          },
+          {
+            "name": "Tour of Oman - Stage 3",
+            "date": "10 Feb 2025",
+            "points": 15,
+            "rank": 2
+          },
+          {
+            "name": "Muscat Classic",
+            "date": "07 Feb 2025",
+            "points": 3,
+            "rank": 25
+          }
+        ],
+        "totalPoints": 233
+      },
+      {
+        "name": "João Almeida",
+        "id": 107840,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Volta ao Algarve em Bicicleta - General classification",
+            "date": "23 Feb 2025",
+            "points": 150,
+            "rank": 2
+          },
+          {
+            "name": "Volta ao Algarve em Bicicleta - Stage 2",
+            "date": "20 Feb 2025",
+            "points": 15,
+            "rank": 2
+          },
+          {
+            "name": "Figueira Champions Classic",
+            "date": "16 Feb 2025",
+            "points": 5,
+            "rank": 16
+          },
+          {
+            "name": "Volta a la Comunitat Valenciana - General classification",
+            "date": "09 Feb 2025",
+            "points": 150,
+            "rank": 2
+          },
+          {
+            "name": "Volta a la Comunitat Valenciana - Stage 3",
+            "date": "07 Feb 2025",
+            "points": 10,
+            "rank": 3
+          },
+          {
+            "name": "Volta a la Comunitat Valenciana - Stage 3 - Bonus",
+            "date": "07 Feb 2025",
+            "points": 5
+          },
+          {
+            "name": "Volta a la Comunitat Valenciana - Stage 2",
+            "date": "06 Feb 2025",
+            "points": 10,
+            "rank": 3
+          },
+          {
+            "name": "Volta a la Comunitat Valenciana - Stage 1 (TTT)",
+            "date": "05 Feb 2025",
+            "points": 1.43,
+            "rank": 3
+          }
+        ],
+        "totalPoints": 346
+      },
+      {
+        "name": "Olav Kooij",
+        "id": 227110,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Tour of Oman - Stage 4",
+            "date": "11 Feb 2025",
+            "points": 20,
+            "rank": 1
+          },
+          {
+            "name": "Tour of Oman - Stage 1",
+            "date": "08 Feb 2025",
+            "points": 20,
+            "rank": 1
+          },
+          {
+            "name": "Tour of Oman - Stage 1 - Bonus",
+            "date": "08 Feb 2025",
+            "points": 5
+          }
+        ],
+        "totalPoints": 45
+      },
+      {
+        "name": "Kévin Vauquelin",
+        "id": 1745291,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Classic Var",
+            "date": "21 Feb 2025",
+            "points": 60,
+            "rank": 4
+          },
+          {
+            "name": "Etoile de Bessèges - Tour du Gard - General classification",
+            "date": "09 Feb 2025",
+            "points": 125,
+            "rank": 1
+          },
+          {
+            "name": "Etoile de Bessèges - Tour du Gard - Stage 5 (ITT)",
+            "date": "09 Feb 2025",
+            "points": 14,
+            "rank": 1
+          },
+          {
+            "name": "Etoile de Bessèges - Tour du Gard - Stage 4",
+            "date": "08 Feb 2025",
+            "points": 14,
+            "rank": 1
+          },
+          {
+            "name": "Etoile de Bessèges - Tour du Gard - Stage 4 - Bonus",
+            "date": "08 Feb 2025",
+            "points": 3
+          },
+          {
+            "name": "Grand Prix Cycliste de Marseille La Marseillaise",
+            "date": "02 Feb 2025",
+            "points": 3,
+            "rank": 20
+          }
+        ],
+        "totalPoints": 219
+      },
+      {
+        "name": "Pavel Sivakov",
+        "id": 111343,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Vuelta a Andalucia Ruta Ciclista Del Sol - General classification",
+            "date": "23 Feb 2025",
+            "points": 200,
+            "rank": 1
+          },
+          {
+            "name": "Vuelta a Andalucia Ruta Ciclista Del Sol - Stage 4 - Bonus",
+            "date": "22 Feb 2025",
+            "points": 5
+          },
+          {
+            "name": "Vuelta a Andalucia Ruta Ciclista Del Sol - Stage 3 - Bonus",
+            "date": "21 Feb 2025",
+            "points": 5
+          },
+          {
+            "name": "Vuelta a Andalucia Ruta Ciclista Del Sol - Stage 2",
+            "date": "20 Feb 2025",
+            "points": 10,
+            "rank": 3
+          },
+          {
+            "name": "Vuelta a Andalucia Ruta Ciclista Del Sol - Stage 2 - Bonus",
+            "date": "20 Feb 2025",
+            "points": 5
+          },
+          {
+            "name": "Vuelta a Andalucia Ruta Ciclista Del Sol - Stage 1",
+            "date": "19 Feb 2025",
+            "points": 10,
+            "rank": 3
+          },
+          {
+            "name": "Volta a la Comunitat Valenciana - General classification",
+            "date": "09 Feb 2025",
+            "points": 10,
+            "rank": 15
+          },
+          {
+            "name": "Volta a la Comunitat Valenciana - Stage 1 (TTT)",
+            "date": "05 Feb 2025",
+            "points": 1.43,
+            "rank": 3
+          }
+        ],
+        "totalPoints": 246
+      },
+      {
+        "name": "Tim Wellens",
+        "id": 64531,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Omloop Nieuwsblad ME",
+            "date": "01 Mar 2025",
+            "points": 5,
+            "rank": 46
+          },
+          {
+            "name": "Vuelta a Andalucia Ruta Ciclista Del Sol - General classification",
+            "date": "23 Feb 2025",
+            "points": 85,
+            "rank": 5
+          },
+          {
+            "name": "Vuelta a Andalucia Ruta Ciclista Del Sol - Stage 1",
+            "date": "19 Feb 2025",
+            "points": 15,
+            "rank": 2
+          },
+          {
+            "name": "Clásica Jaén",
+            "date": "17 Feb 2025",
+            "points": 20,
+            "rank": 10
+          },
+          {
+            "name": "Vuelta a la Región de Murcia ''Costa Cálida''",
+            "date": "15 Feb 2025",
+            "points": 30,
+            "rank": 8
+          }
+        ],
+        "totalPoints": 155
+      },
+      {
+        "name": "Dylan van Baarle",
+        "id": 68844,
+        "sanctions": 0,
+        "results": [],
+        "totalPoints": 0
+      },
+      {
+        "name": "Felix Gall",
+        "id": 150925,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "UAE Tour - General classification",
+            "date": "23 Feb 2025",
+            "points": 20,
+            "rank": 18
+          },
+          {
+            "name": "UAE Tour - Stage 3",
+            "date": "19 Feb 2025",
+            "points": 20,
+            "rank": 3
+          }
+        ],
+        "totalPoints": 40
+      },
+      {
+        "name": "Pablo Castrillo",
+        "id": 373832,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "UAE Tour - General classification",
+            "date": "23 Feb 2025",
+            "points": 95,
+            "rank": 7
+          },
+          {
+            "name": "UAE Tour - Stage 7",
+            "date": "23 Feb 2025",
+            "points": 8,
+            "rank": 6
+          },
+          {
+            "name": "UAE Tour - Stage 3",
+            "date": "19 Feb 2025",
+            "points": 3,
+            "rank": 8
+          },
+          {
+            "name": "UAE Tour - Stage 2 (ITT)",
+            "date": "18 Feb 2025",
+            "points": 8,
+            "rank": 6
+          },
+          {
+            "name": "Volta a la Comunitat Valenciana - General classification",
+            "date": "09 Feb 2025",
+            "points": 25,
+            "rank": 12
+          }
+        ],
+        "totalPoints": 139
+      },
+      {
+        "name": "Marc Soler",
+        "id": 89223,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Vuelta a Andalucia Ruta Ciclista Del Sol - General classification",
+            "date": "23 Feb 2025",
+            "points": 60,
+            "rank": 7
+          },
+          {
+            "name": "Vuelta a Andalucia Ruta Ciclista Del Sol - Stage 1",
+            "date": "19 Feb 2025",
+            "points": 5,
+            "rank": 4
+          }
+        ],
+        "totalPoints": 65
+      }
+    ]
+  }
+}

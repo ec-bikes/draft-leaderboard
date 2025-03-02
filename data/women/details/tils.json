@@ -1,0 +1,239 @@
+{
+  "source": "pcs",
+  "schemaVersion": 1,
+  "momentId": 189001,
+  "fetchedDate": "2 Mar 2025, 06:33 GMT",
+  "team": {
+    "owner": "Tils Raynolds",
+    "name": "The Suffragettes Collective",
+    "totalPoints": 1527,
+    "riders": [
+      {
+        "name": "Liane Lippert",
+        "id": 140495,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Omloop Nieuwsblad WE",
+            "date": "01 Mar 2025",
+            "points": 8,
+            "rank": 36
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classification",
+            "date": "16 Feb 2025",
+            "points": 85,
+            "rank": 5
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 4",
+            "date": "16 Feb 2025",
+            "points": 15,
+            "rank": 3
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 3",
+            "date": "15 Feb 2025",
+            "points": 10,
+            "rank": 5
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 2",
+            "date": "14 Feb 2025",
+            "points": 15,
+            "rank": 3
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 1",
+            "date": "13 Feb 2025",
+            "points": 10,
+            "rank": 5
+          }
+        ],
+        "totalPoints": 143
+      },
+      {
+        "name": "Anna van der Breggen",
+        "id": 59726,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classification",
+            "date": "16 Feb 2025",
+            "points": 125,
+            "rank": 3
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 1",
+            "date": "13 Feb 2025",
+            "points": 15,
+            "rank": 3
+          }
+        ],
+        "totalPoints": 140
+      },
+      {
+        "name": "Marlen Reusser",
+        "id": 1589305,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Omloop Nieuwsblad WE",
+            "date": "01 Mar 2025",
+            "points": 8,
+            "rank": 40
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classification",
+            "date": "16 Feb 2025",
+            "points": 150,
+            "rank": 2
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 4",
+            "date": "16 Feb 2025",
+            "points": 8,
+            "rank": 6
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 1",
+            "date": "13 Feb 2025",
+            "points": 20,
+            "rank": 2
+          },
+          {
+            "name": "Trofeo Binissalem-Andratx",
+            "date": "27 Jan 2025",
+            "points": 3,
+            "rank": 23
+          },
+          {
+            "name": "Trofeo Palma Femina",
+            "date": "26 Jan 2025",
+            "points": 125,
+            "rank": 1
+          }
+        ],
+        "totalPoints": 314
+      },
+      {
+        "name": "Ally Wollaston",
+        "id": 220562,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Clasica de Almeria WE",
+            "date": "23 Feb 2025",
+            "points": 125,
+            "rank": 1
+          },
+          {
+            "name": "National Championships New Zealand WE - Road Race",
+            "date": "07 Feb 2025",
+            "points": 10,
+            "rank": 8
+          },
+          {
+            "name": "National Championships New Zealand WE - ITT",
+            "date": "06 Feb 2025",
+            "points": 15,
+            "rank": 4
+          },
+          {
+            "name": "Cadel Evans Great Ocean Road Race - Women",
+            "date": "01 Feb 2025",
+            "points": 400,
+            "rank": 1
+          },
+          {
+            "name": "Surf Coast Classic - Women",
+            "date": "29 Jan 2025",
+            "points": 125,
+            "rank": 1
+          },
+          {
+            "name": "Schwalbe Women's One Day Classic",
+            "date": "26 Jan 2025",
+            "points": 60,
+            "rank": 7
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 1",
+            "date": "17 Jan 2025",
+            "points": 40,
+            "rank": 2
+          }
+        ],
+        "totalPoints": 775
+      },
+      {
+        "name": "Neve Bradbury",
+        "id": 1987823,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Santos Tour Down Under - General classification",
+            "date": "19 Jan 2025",
+            "points": 100,
+            "rank": 8
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 2",
+            "date": "18 Jan 2025",
+            "points": 25,
+            "rank": 4
+          }
+        ],
+        "totalPoints": 125
+      },
+      {
+        "name": "Cat Ferguson",
+        "id": 2317617,
+        "sanctions": 0,
+        "results": [],
+        "totalPoints": 0
+      },
+      {
+        "name": "Gaia Realini",
+        "id": 303036,
+        "sanctions": 0,
+        "results": [],
+        "totalPoints": 0
+      },
+      {
+        "name": "Kristen Faulkner",
+        "id": 1688341,
+        "sanctions": 0,
+        "results": [],
+        "totalPoints": 0
+      },
+      {
+        "name": "Letizia Paternoster",
+        "id": 153363,
+        "sanctions": 0,
+        "results": [],
+        "totalPoints": 0
+      },
+      {
+        "name": "Pauline Ferrand-Prévot",
+        "id": 66298,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "UAE Tour Women - General classification",
+            "date": "09 Feb 2025",
+            "points": 24,
+            "rank": 17
+          },
+          {
+            "name": "UAE Tour Women - Stage 2",
+            "date": "07 Feb 2025",
+            "points": 6,
+            "rank": 10
+          }
+        ],
+        "totalPoints": 30
+      }
+    ]
+  }
+}

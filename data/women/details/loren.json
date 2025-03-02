@@ -1,0 +1,236 @@
+{
+  "source": "pcs",
+  "schemaVersion": 1,
+  "momentId": 189001,
+  "fetchedDate": "2 Mar 2025, 06:33 GMT",
+  "team": {
+    "owner": "Loren Rowney",
+    "name": "(TBD)",
+    "totalPoints": 2030,
+    "riders": [
+      {
+        "name": "Lotte Kopecky",
+        "id": 73504,
+        "sanctions": 0,
+        "results": [],
+        "totalPoints": 0
+      },
+      {
+        "name": "Cecilie Uttrup Ludwig",
+        "id": 86838,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classification",
+            "date": "16 Feb 2025",
+            "points": 5,
+            "rank": 24
+          }
+        ],
+        "totalPoints": 5
+      },
+      {
+        "name": "Kim le Court",
+        "id": 88660,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "UAE Tour Women - General classification",
+            "date": "09 Feb 2025",
+            "points": 260,
+            "rank": 3
+          },
+          {
+            "name": "UAE Tour Women - Stage 3",
+            "date": "08 Feb 2025",
+            "points": 30,
+            "rank": 3
+          }
+        ],
+        "totalPoints": 290
+      },
+      {
+        "name": "Justine Ghekiere",
+        "id": 2202121,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Schwalbe Women's One Day Classic",
+            "date": "26 Jan 2025",
+            "points": 5,
+            "rank": 19
+          },
+          {
+            "name": "Santos Tour Down Under - General classification",
+            "date": "19 Jan 2025",
+            "points": 140,
+            "rank": 6
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 3",
+            "date": "19 Jan 2025",
+            "points": 8,
+            "rank": 9
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 2",
+            "date": "18 Jan 2025",
+            "points": 18,
+            "rank": 6
+          }
+        ],
+        "totalPoints": 171
+      },
+      {
+        "name": "Silke Smulders",
+        "id": 231378,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classification",
+            "date": "16 Feb 2025",
+            "points": 5,
+            "rank": 22
+          },
+          {
+            "name": "Cadel Evans Great Ocean Road Race - Women",
+            "date": "01 Feb 2025",
+            "points": 180,
+            "rank": 5
+          },
+          {
+            "name": "Santos Tour Down Under - General classification",
+            "date": "19 Jan 2025",
+            "points": 320,
+            "rank": 2
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 3",
+            "date": "19 Jan 2025",
+            "points": 40,
+            "rank": 2
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 2",
+            "date": "18 Jan 2025",
+            "points": 40,
+            "rank": 2
+          }
+        ],
+        "totalPoints": 585
+      },
+      {
+        "name": "Daria Pikulik",
+        "id": 99885,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Vuelta CV Feminas",
+            "date": "09 Feb 2025",
+            "points": 125,
+            "rank": 3
+          }
+        ],
+        "totalPoints": 125
+      },
+      {
+        "name": "Lore de Schepper",
+        "id": 2096868,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classification",
+            "date": "16 Feb 2025",
+            "points": 5,
+            "rank": 23
+          }
+        ],
+        "totalPoints": 5
+      },
+      {
+        "name": "Monica Trinca Colonel",
+        "id": 1897613,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classification",
+            "date": "16 Feb 2025",
+            "points": 10,
+            "rank": 15
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 4",
+            "date": "16 Feb 2025",
+            "points": 4,
+            "rank": 8
+          },
+          {
+            "name": "UAE Tour Women - General classification",
+            "date": "09 Feb 2025",
+            "points": 220,
+            "rank": 4
+          },
+          {
+            "name": "UAE Tour Women - Stage 3",
+            "date": "08 Feb 2025",
+            "points": 25,
+            "rank": 4
+          }
+        ],
+        "totalPoints": 259
+      },
+      {
+        "name": "Clara Copponi",
+        "id": 153287,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Omloop Nieuwsblad WE",
+            "date": "01 Mar 2025",
+            "points": 100,
+            "rank": 8
+          },
+          {
+            "name": "Surf Coast Classic - Women",
+            "date": "29 Jan 2025",
+            "points": 60,
+            "rank": 4
+          },
+          {
+            "name": "Schwalbe Women's One Day Classic",
+            "date": "26 Jan 2025",
+            "points": 200,
+            "rank": 1
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 1",
+            "date": "17 Jan 2025",
+            "points": 10,
+            "rank": 8
+          }
+        ],
+        "totalPoints": 370
+      },
+      {
+        "name": "Georgia Baker",
+        "id": 78086,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Surf Coast Classic - Women",
+            "date": "29 Jan 2025",
+            "points": 70,
+            "rank": 3
+          },
+          {
+            "name": "Schwalbe Women's One Day Classic",
+            "date": "26 Jan 2025",
+            "points": 150,
+            "rank": 2
+          }
+        ],
+        "totalPoints": 220
+      }
+    ]
+  }
+}

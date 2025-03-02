@@ -1,0 +1,299 @@
+{
+  "source": "pcs",
+  "schemaVersion": 1,
+  "momentId": 188995,
+  "fetchedDate": "2 Mar 2025, 07:13 GMT",
+  "team": {
+    "owner": "Jonny Long",
+    "name": "Ineos Grenadiers-Greenpeace-Poundland",
+    "totalPoints": 2003,
+    "riders": [
+      {
+        "name": "Jonas Vingegaard",
+        "id": 112082,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Volta ao Algarve em Bicicleta - General classification",
+            "date": "23 Feb 2025",
+            "points": 200,
+            "rank": 1
+          },
+          {
+            "name": "Volta ao Algarve em Bicicleta - Stage 5 (ITT)",
+            "date": "23 Feb 2025",
+            "points": 20,
+            "rank": 1
+          }
+        ],
+        "totalPoints": 220
+      },
+      {
+        "name": "Mattias Skjelmose",
+        "id": 365033,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Faun-Ardèche Classic",
+            "date": "01 Mar 2025",
+            "points": 70,
+            "rank": 6
+          }
+        ],
+        "totalPoints": 70
+      },
+      {
+        "name": "Enric Mas",
+        "id": 109803,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Faun-Ardèche Classic",
+            "date": "01 Mar 2025",
+            "points": 40,
+            "rank": 9
+          },
+          {
+            "name": "Vuelta a Andalucia Ruta Ciclista Del Sol - General classification",
+            "date": "23 Feb 2025",
+            "points": 5,
+            "rank": 18
+          },
+          {
+            "name": "Vuelta a Andalucia Ruta Ciclista Del Sol - Stage 2",
+            "date": "20 Feb 2025",
+            "points": 3,
+            "rank": 5
+          }
+        ],
+        "totalPoints": 48
+      },
+      {
+        "name": "Oscar Onley",
+        "id": 1710249,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "UAE Tour - General classification",
+            "date": "23 Feb 2025",
+            "points": 120,
+            "rank": 5
+          },
+          {
+            "name": "UAE Tour - Stage 7",
+            "date": "23 Feb 2025",
+            "points": 10,
+            "rank": 5
+          },
+          {
+            "name": "UAE Tour - Stage 3",
+            "date": "19 Feb 2025",
+            "points": 25,
+            "rank": 2
+          },
+          {
+            "name": "UAE Tour - Stage 1",
+            "date": "17 Feb 2025",
+            "points": 10,
+            "rank": 5
+          },
+          {
+            "name": "Cadel Evans Great Ocean Road Race - Men",
+            "date": "02 Feb 2025",
+            "points": 60,
+            "rank": 9
+          },
+          {
+            "name": "Santos Tour Down Under - General classification",
+            "date": "26 Jan 2025",
+            "points": 275,
+            "rank": 4
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 5",
+            "date": "25 Jan 2025",
+            "points": 40,
+            "rank": 2
+          }
+        ],
+        "totalPoints": 540
+      },
+      {
+        "name": "Santiago Buitrago",
+        "id": 353375,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Tour des Alpes-Maritimes - General classification",
+            "date": "23 Feb 2025",
+            "points": 85,
+            "rank": 2
+          },
+          {
+            "name": "Tour des Alpes-Maritimes - Stage 1",
+            "date": "22 Feb 2025",
+            "points": 5,
+            "rank": 2
+          },
+          {
+            "name": "Classic Var",
+            "date": "21 Feb 2025",
+            "points": 50,
+            "rank": 5
+          },
+          {
+            "name": "Volta a la Comunitat Valenciana - General classification",
+            "date": "09 Feb 2025",
+            "points": 200,
+            "rank": 1
+          },
+          {
+            "name": "Volta a la Comunitat Valenciana - Stage 4",
+            "date": "08 Feb 2025",
+            "points": 20,
+            "rank": 1
+          },
+          {
+            "name": "Volta a la Comunitat Valenciana - Stage 4 - Bonus",
+            "date": "08 Feb 2025",
+            "points": 5
+          },
+          {
+            "name": "Volta a la Comunitat Valenciana - Stage 3",
+            "date": "07 Feb 2025",
+            "points": 15,
+            "rank": 2
+          },
+          {
+            "name": "Volta a la Comunitat Valenciana - Stage 2",
+            "date": "06 Feb 2025",
+            "points": 20,
+            "rank": 1
+          },
+          {
+            "name": "Clàssica Comunitat Valenciana 1969 - Gran Premi València",
+            "date": "26 Jan 2025",
+            "points": 60,
+            "rank": 4
+          }
+        ],
+        "totalPoints": 460
+      },
+      {
+        "name": "Christophe Laporte",
+        "id": 81980,
+        "sanctions": 0,
+        "results": [],
+        "totalPoints": 0
+      },
+      {
+        "name": "Valentin Madouas",
+        "id": 91637,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Faun-Ardèche Classic",
+            "date": "01 Mar 2025",
+            "points": 5,
+            "rank": 29
+          }
+        ],
+        "totalPoints": 5
+      },
+      {
+        "name": "Geraint Thomas",
+        "id": 32532,
+        "sanctions": 0,
+        "results": [],
+        "totalPoints": 0
+      },
+      {
+        "name": "Christian Scaroni",
+        "id": 144019,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Faun-Ardèche Classic",
+            "date": "01 Mar 2025",
+            "points": 85,
+            "rank": 5
+          },
+          {
+            "name": "Tour des Alpes-Maritimes - General classification",
+            "date": "23 Feb 2025",
+            "points": 125,
+            "rank": 1
+          },
+          {
+            "name": "Tour des Alpes-Maritimes - Stage 1",
+            "date": "22 Feb 2025",
+            "points": 14,
+            "rank": 1
+          },
+          {
+            "name": "Tour des Alpes-Maritimes - Stage 1 - Bonus",
+            "date": "22 Feb 2025",
+            "points": 3
+          },
+          {
+            "name": "Classic Var",
+            "date": "21 Feb 2025",
+            "points": 125,
+            "rank": 1
+          },
+          {
+            "name": "Vuelta a la Región de Murcia ''Costa Cálida''",
+            "date": "15 Feb 2025",
+            "points": 70,
+            "rank": 3
+          },
+          {
+            "name": "Trofeo Serra Tramuntana",
+            "date": "31 Jan 2025",
+            "points": 3,
+            "rank": 17
+          },
+          {
+            "name": "Trofeo Calvià",
+            "date": "29 Jan 2025",
+            "points": 85,
+            "rank": 2
+          },
+          {
+            "name": "Clàssica Comunitat Valenciana 1969 - Gran Premi València",
+            "date": "26 Jan 2025",
+            "points": 85,
+            "rank": 2
+          },
+          {
+            "name": "Gran Premio Castellón - Ruta de la Cerámica",
+            "date": "25 Jan 2025",
+            "points": 50,
+            "rank": 5
+          }
+        ],
+        "totalPoints": 645
+      },
+      {
+        "name": "Antonio Tiberi",
+        "id": 308040,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Volta ao Algarve em Bicicleta - General classification",
+            "date": "23 Feb 2025",
+            "points": 5,
+            "rank": 16
+          },
+          {
+            "name": "Volta ao Algarve em Bicicleta - Stage 5 (ITT)",
+            "date": "23 Feb 2025",
+            "points": 10,
+            "rank": 3
+          }
+        ],
+        "totalPoints": 15
+      }
+    ]
+  }
+}

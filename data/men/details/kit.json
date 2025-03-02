@@ -1,0 +1,217 @@
+{
+  "source": "pcs",
+  "schemaVersion": 1,
+  "momentId": 188995,
+  "fetchedDate": "2 Mar 2025, 07:13 GMT",
+  "team": {
+    "owner": "Kit Nicholson",
+    "name": "Picnic-Letterboxd",
+    "totalPoints": 641,
+    "riders": [
+      {
+        "name": "Tadej Pogačar",
+        "id": 149727,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "UAE Tour - General classification",
+            "date": "23 Feb 2025",
+            "points": 300,
+            "rank": 1
+          },
+          {
+            "name": "UAE Tour - Stage 7",
+            "date": "23 Feb 2025",
+            "points": 40,
+            "rank": 1
+          },
+          {
+            "name": "UAE Tour - Stage 6 - Bonus",
+            "date": "22 Feb 2025",
+            "points": 6
+          },
+          {
+            "name": "UAE Tour - Stage 5 - Bonus",
+            "date": "21 Feb 2025",
+            "points": 6
+          },
+          {
+            "name": "UAE Tour - Stage 4 - Bonus",
+            "date": "20 Feb 2025",
+            "points": 6
+          },
+          {
+            "name": "UAE Tour - Stage 3",
+            "date": "19 Feb 2025",
+            "points": 40,
+            "rank": 1
+          },
+          {
+            "name": "UAE Tour - Stage 3 - Bonus",
+            "date": "19 Feb 2025",
+            "points": 6
+          },
+          {
+            "name": "UAE Tour - Stage 2 (ITT)",
+            "date": "18 Feb 2025",
+            "points": 20,
+            "rank": 3
+          },
+          {
+            "name": "UAE Tour - Stage 1",
+            "date": "17 Feb 2025",
+            "points": 1,
+            "rank": 10
+          }
+        ],
+        "totalPoints": 425
+      },
+      {
+        "name": "Thibau Nys",
+        "id": 1721034,
+        "sanctions": 0,
+        "results": [],
+        "totalPoints": 0
+      },
+      {
+        "name": "Toms Skujiņš",
+        "id": 68892,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Omloop Nieuwsblad ME",
+            "date": "01 Mar 2025",
+            "points": 5,
+            "rank": 31
+          },
+          {
+            "name": "Tour de la Provence - General classification",
+            "date": "16 Feb 2025",
+            "points": 5,
+            "rank": 15
+          }
+        ],
+        "totalPoints": 10
+      },
+      {
+        "name": "Mikel Landa",
+        "id": 68367,
+        "sanctions": 0,
+        "results": [],
+        "totalPoints": 0
+      },
+      {
+        "name": "Jordi Meeus",
+        "id": 148901,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Volta ao Algarve em Bicicleta - Stage 4",
+            "date": "22 Feb 2025",
+            "points": 15,
+            "rank": 2
+          },
+          {
+            "name": "Volta ao Algarve em Bicicleta - Stage 3",
+            "date": "21 Feb 2025",
+            "points": 20,
+            "rank": 1
+          },
+          {
+            "name": "Etoile de Bessèges - Tour du Gard - Stage 1",
+            "date": "05 Feb 2025",
+            "points": 5,
+            "rank": 2
+          }
+        ],
+        "totalPoints": 40
+      },
+      {
+        "name": "Kaden Groves",
+        "id": 111683,
+        "sanctions": 0,
+        "results": [],
+        "totalPoints": 0
+      },
+      {
+        "name": "Richard Carapaz",
+        "id": 91656,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Tour des Alpes-Maritimes - General classification",
+            "date": "23 Feb 2025",
+            "points": 25,
+            "rank": 9
+          },
+          {
+            "name": "Classic Var",
+            "date": "21 Feb 2025",
+            "points": 3,
+            "rank": 25
+          }
+        ],
+        "totalPoints": 28
+      },
+      {
+        "name": "Benoît Cosnefroy",
+        "id": 79522,
+        "sanctions": 0,
+        "results": [],
+        "totalPoints": 0
+      },
+      {
+        "name": "Alex Aranburu",
+        "id": 422863,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Faun-Ardèche Classic",
+            "date": "01 Mar 2025",
+            "points": 5,
+            "rank": 16
+          },
+          {
+            "name": "Trofeo Calvià",
+            "date": "29 Jan 2025",
+            "points": 30,
+            "rank": 8
+          },
+          {
+            "name": "Clàssica Comunitat Valenciana 1969 - Gran Premi València",
+            "date": "26 Jan 2025",
+            "points": 3,
+            "rank": 19
+          },
+          {
+            "name": "Gran Premio Castellón - Ruta de la Cerámica",
+            "date": "25 Jan 2025",
+            "points": 5,
+            "rank": 14
+          }
+        ],
+        "totalPoints": 43
+      },
+      {
+        "name": "Paul Lapeira",
+        "id": 257361,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Classic Var",
+            "date": "21 Feb 2025",
+            "points": 85,
+            "rank": 2
+          },
+          {
+            "name": "Santos Tour Down Under - General classification",
+            "date": "26 Jan 2025",
+            "points": 10,
+            "rank": 49
+          }
+        ],
+        "totalPoints": 95
+      }
+    ]
+  }
+}

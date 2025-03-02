@@ -1,0 +1,254 @@
+{
+  "source": "pcs",
+  "schemaVersion": 1,
+  "momentId": 189001,
+  "fetchedDate": "2 Mar 2025, 06:33 GMT",
+  "team": {
+    "owner": "Georgie Howe",
+    "name": "Specialized-Win-Collective Racing",
+    "totalPoints": 1346,
+    "riders": [
+      {
+        "name": "Kasia Niewiadoma",
+        "id": 86824,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Omloop Nieuwsblad WE",
+            "date": "01 Mar 2025",
+            "points": 8,
+            "rank": 37
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classification",
+            "date": "16 Feb 2025",
+            "points": 5,
+            "rank": 18
+          }
+        ],
+        "totalPoints": 13
+      },
+      {
+        "name": "Silvia Persico",
+        "id": 107539,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Omloop Nieuwsblad WE",
+            "date": "01 Mar 2025",
+            "points": 32,
+            "rank": 14
+          },
+          {
+            "name": "UAE Tour Women - General classification",
+            "date": "09 Feb 2025",
+            "points": 320,
+            "rank": 2
+          },
+          {
+            "name": "UAE Tour Women - Stage 3",
+            "date": "08 Feb 2025",
+            "points": 40,
+            "rank": 2
+          },
+          {
+            "name": "Trofeo Binissalem-Andratx",
+            "date": "27 Jan 2025",
+            "points": 85,
+            "rank": 2
+          },
+          {
+            "name": "Trofeo Palma Femina",
+            "date": "26 Jan 2025",
+            "points": 70,
+            "rank": 3
+          }
+        ],
+        "totalPoints": 547
+      },
+      {
+        "name": "Antonia Niedermaier",
+        "id": 2188959,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "UAE Tour Women - General classification",
+            "date": "09 Feb 2025",
+            "points": 120,
+            "rank": 7
+          },
+          {
+            "name": "UAE Tour Women - Stage 3",
+            "date": "08 Feb 2025",
+            "points": 18,
+            "rank": 6
+          }
+        ],
+        "totalPoints": 138
+      },
+      {
+        "name": "Thalita de Jong",
+        "id": 79176,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Omloop Nieuwsblad WE",
+            "date": "01 Mar 2025",
+            "points": 48,
+            "rank": 12
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classification",
+            "date": "16 Feb 2025",
+            "points": 35,
+            "rank": 10
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 4",
+            "date": "16 Feb 2025",
+            "points": 12,
+            "rank": 4
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - Stage 3",
+            "date": "15 Feb 2025",
+            "points": 4,
+            "rank": 8
+          },
+          {
+            "name": "Trofeo Binissalem-Andratx",
+            "date": "27 Jan 2025",
+            "points": 125,
+            "rank": 1
+          },
+          {
+            "name": "Trofeo Palma Femina",
+            "date": "26 Jan 2025",
+            "points": 60,
+            "rank": 4
+          }
+        ],
+        "totalPoints": 284
+      },
+      {
+        "name": "Brodie Chapman",
+        "id": 106168,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classification",
+            "date": "16 Feb 2025",
+            "points": 50,
+            "rank": 8
+          },
+          {
+            "name": "National Championships Australia WE - ITT",
+            "date": "09 Jan 2025",
+            "points": 50,
+            "rank": 1
+          }
+        ],
+        "totalPoints": 100
+      },
+      {
+        "name": "Lily Williams",
+        "id": 459694,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Omloop Nieuwsblad WE",
+            "date": "01 Mar 2025",
+            "points": 16,
+            "rank": 24
+          },
+          {
+            "name": "UAE Tour Women - General classification",
+            "date": "09 Feb 2025",
+            "points": 16,
+            "rank": 23
+          },
+          {
+            "name": "UAE Tour Women - Stage 2",
+            "date": "07 Feb 2025",
+            "points": 40,
+            "rank": 2
+          },
+          {
+            "name": "Trofeo Binissalem-Andratx",
+            "date": "27 Jan 2025",
+            "points": 3,
+            "rank": 25
+          }
+        ],
+        "totalPoints": 75
+      },
+      {
+        "name": "Juliette Labous",
+        "id": 97498,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Omloop Nieuwsblad WE",
+            "date": "01 Mar 2025",
+            "points": 16,
+            "rank": 21
+          },
+          {
+            "name": "UAE Tour Women - General classification",
+            "date": "09 Feb 2025",
+            "points": 56,
+            "rank": 11
+          }
+        ],
+        "totalPoints": 72
+      },
+      {
+        "name": "Lucinda Brand",
+        "id": 66056,
+        "sanctions": 0,
+        "results": [],
+        "totalPoints": 0
+      },
+      {
+        "name": "Sarah van Dam",
+        "id": 488553,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Santos Tour Down Under - General classification",
+            "date": "19 Jan 2025",
+            "points": 56,
+            "rank": 11
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 3",
+            "date": "19 Jan 2025",
+            "points": 20,
+            "rank": 5
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 1",
+            "date": "17 Jan 2025",
+            "points": 25,
+            "rank": 4
+          }
+        ],
+        "totalPoints": 101
+      },
+      {
+        "name": "Riejanne Markus",
+        "id": 86854,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "UAE Tour Women - General classification",
+            "date": "09 Feb 2025",
+            "points": 16,
+            "rank": 21
+          }
+        ],
+        "totalPoints": 16
+      }
+    ]
+  }
+}

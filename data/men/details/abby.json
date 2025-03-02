@@ -1,0 +1,372 @@
+{
+  "source": "pcs",
+  "schemaVersion": 1,
+  "momentId": 188995,
+  "fetchedDate": "2 Mar 2025, 07:13 GMT",
+  "team": {
+    "owner": "Abby Mickey",
+    "name": "EF Education-Swift Nation",
+    "totalPoints": 1681,
+    "riders": [
+      {
+        "name": "Wout van Aert",
+        "id": 75859,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Omloop Nieuwsblad ME",
+            "date": "01 Mar 2025",
+            "points": 40,
+            "rank": 11
+          },
+          {
+            "name": "Volta ao Algarve em Bicicleta - Stage 5 (ITT)",
+            "date": "23 Feb 2025",
+            "points": 15,
+            "rank": 2
+          }
+        ],
+        "totalPoints": 55
+      },
+      {
+        "name": "Biniam Girmay",
+        "id": 1707195,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Volta ao Algarve em Bicicleta - Stage 4",
+            "date": "22 Feb 2025",
+            "points": 3,
+            "rank": 5
+          },
+          {
+            "name": "Volta ao Algarve em Bicicleta - Stage 3",
+            "date": "21 Feb 2025",
+            "points": 15,
+            "rank": 2
+          },
+          {
+            "name": "Figueira Champions Classic",
+            "date": "16 Feb 2025",
+            "points": 70,
+            "rank": 6
+          },
+          {
+            "name": "Trofeo Palma",
+            "date": "02 Feb 2025",
+            "points": 25,
+            "rank": 9
+          },
+          {
+            "name": "Trofeo Ses Salines",
+            "date": "30 Jan 2025",
+            "points": 60,
+            "rank": 4
+          }
+        ],
+        "totalPoints": 173
+      },
+      {
+        "name": "Maxim van Gils",
+        "id": 154218,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Vuelta a Andalucia Ruta Ciclista Del Sol - General classification",
+            "date": "23 Feb 2025",
+            "points": 100,
+            "rank": 4
+          },
+          {
+            "name": "Vuelta a Andalucia Ruta Ciclista Del Sol - Stage 3",
+            "date": "21 Feb 2025",
+            "points": 10,
+            "rank": 3
+          },
+          {
+            "name": "Vuelta a Andalucia Ruta Ciclista Del Sol - Stage 1",
+            "date": "19 Feb 2025",
+            "points": 20,
+            "rank": 1
+          },
+          {
+            "name": "Vuelta a Andalucia Ruta Ciclista Del Sol - Stage 1 - Bonus",
+            "date": "19 Feb 2025",
+            "points": 5
+          }
+        ],
+        "totalPoints": 135
+      },
+      {
+        "name": "Michal Kwiatkowski",
+        "id": 58528,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Clásica Jaén",
+            "date": "17 Feb 2025",
+            "points": 125,
+            "rank": 1
+          },
+          {
+            "name": "Cadel Evans Great Ocean Road Race - Men",
+            "date": "02 Feb 2025",
+            "points": 12,
+            "rank": 25
+          },
+          {
+            "name": "Surf Coast Classic - Men",
+            "date": "30 Jan 2025",
+            "points": 3,
+            "rank": 16
+          },
+          {
+            "name": "Santos Tour Down Under - General classification",
+            "date": "26 Jan 2025",
+            "points": 5,
+            "rank": 52
+          }
+        ],
+        "totalPoints": 145
+      },
+      {
+        "name": "Filippo Ganna",
+        "id": 91640,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Volta ao Algarve em Bicicleta - Stage 4",
+            "date": "22 Feb 2025",
+            "points": 10,
+            "rank": 3
+          },
+          {
+            "name": "Figueira Champions Classic",
+            "date": "16 Feb 2025",
+            "points": 5,
+            "rank": 29
+          }
+        ],
+        "totalPoints": 15
+      },
+      {
+        "name": "Tao Geoghegan Hart",
+        "id": 86735,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Volta ao Algarve em Bicicleta - General classification",
+            "date": "23 Feb 2025",
+            "points": 40,
+            "rank": 9
+          },
+          {
+            "name": "Figueira Champions Classic",
+            "date": "16 Feb 2025",
+            "points": 5,
+            "rank": 25
+          }
+        ],
+        "totalPoints": 45
+      },
+      {
+        "name": "David Gaudu",
+        "id": 112351,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Tour of Oman - General classification",
+            "date": "12 Feb 2025",
+            "points": 125,
+            "rank": 3
+          },
+          {
+            "name": "Tour of Oman - Stage 5",
+            "date": "12 Feb 2025",
+            "points": 10,
+            "rank": 3
+          },
+          {
+            "name": "Tour of Oman - Stage 4 - Bonus",
+            "date": "11 Feb 2025",
+            "points": 5
+          },
+          {
+            "name": "Tour of Oman - Stage 3",
+            "date": "10 Feb 2025",
+            "points": 20,
+            "rank": 1
+          },
+          {
+            "name": "Tour of Oman - Stage 3 - Bonus",
+            "date": "10 Feb 2025",
+            "points": 5
+          },
+          {
+            "name": "Muscat Classic",
+            "date": "07 Feb 2025",
+            "points": 5,
+            "rank": 13
+          }
+        ],
+        "totalPoints": 170
+      },
+      {
+        "name": "Finn Fisher-Black",
+        "id": 217083,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "UAE Tour - General classification",
+            "date": "23 Feb 2025",
+            "points": 115,
+            "rank": 6
+          },
+          {
+            "name": "UAE Tour - Stage 7",
+            "date": "23 Feb 2025",
+            "points": 6,
+            "rank": 7
+          },
+          {
+            "name": "UAE Tour - Stage 3",
+            "date": "19 Feb 2025",
+            "points": 8,
+            "rank": 6
+          },
+          {
+            "name": "UAE Tour - Stage 2 (ITT)",
+            "date": "18 Feb 2025",
+            "points": 1,
+            "rank": 10
+          },
+          {
+            "name": "UAE Tour - Stage 1",
+            "date": "17 Feb 2025",
+            "points": 25,
+            "rank": 2
+          },
+          {
+            "name": "National Championships New Zealand ME - ITT",
+            "date": "06 Feb 2025",
+            "points": 50,
+            "rank": 1
+          },
+          {
+            "name": "Cadel Evans Great Ocean Road Race - Men",
+            "date": "02 Feb 2025",
+            "points": 50,
+            "rank": 10
+          },
+          {
+            "name": "Santos Tour Down Under - General classification",
+            "date": "26 Jan 2025",
+            "points": 325,
+            "rank": 3
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 5",
+            "date": "25 Jan 2025",
+            "points": 30,
+            "rank": 3
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 3",
+            "date": "23 Jan 2025",
+            "points": 30,
+            "rank": 3
+          }
+        ],
+        "totalPoints": 640
+      },
+      {
+        "name": "Thymen Arensman",
+        "id": 109481,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Volta ao Algarve em Bicicleta - General classification",
+            "date": "23 Feb 2025",
+            "points": 5,
+            "rank": 17
+          },
+          {
+            "name": "Volta a la Comunitat Valenciana - General classification",
+            "date": "09 Feb 2025",
+            "points": 100,
+            "rank": 4
+          },
+          {
+            "name": "Volta a la Comunitat Valenciana - Stage 4",
+            "date": "08 Feb 2025",
+            "points": 3,
+            "rank": 5
+          },
+          {
+            "name": "Volta a la Comunitat Valenciana - Stage 2",
+            "date": "06 Feb 2025",
+            "points": 3,
+            "rank": 5
+          },
+          {
+            "name": "Volta a la Comunitat Valenciana - Stage 1 (TTT)",
+            "date": "05 Feb 2025",
+            "points": 0.43,
+            "rank": 5
+          }
+        ],
+        "totalPoints": 111
+      },
+      {
+        "name": "Patrick Konrad",
+        "id": 71677,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "UAE Tour - General classification",
+            "date": "23 Feb 2025",
+            "points": 50,
+            "rank": 10
+          },
+          {
+            "name": "UAE Tour - Stage 7",
+            "date": "23 Feb 2025",
+            "points": 2,
+            "rank": 9
+          },
+          {
+            "name": "Cadel Evans Great Ocean Road Race - Men",
+            "date": "02 Feb 2025",
+            "points": 20,
+            "rank": 18
+          },
+          {
+            "name": "Surf Coast Classic - Men",
+            "date": "30 Jan 2025",
+            "points": 3,
+            "rank": 20
+          },
+          {
+            "name": "Santos Tour Down Under - General classification",
+            "date": "26 Jan 2025",
+            "points": 100,
+            "rank": 9
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 5",
+            "date": "25 Jan 2025",
+            "points": 2,
+            "rank": 10
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 3",
+            "date": "23 Jan 2025",
+            "points": 15,
+            "rank": 6
+          }
+        ],
+        "totalPoints": 192
+      }
+    ]
+  }
+}

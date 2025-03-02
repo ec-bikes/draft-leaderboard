@@ -1,0 +1,241 @@
+{
+  "source": "pcs",
+  "schemaVersion": 1,
+  "momentId": 188995,
+  "fetchedDate": "2 Mar 2025, 07:13 GMT",
+  "team": {
+    "owner": "Caley Fretz",
+    "name": "US Postal Service Bald Eagles",
+    "totalPoints": 962,
+    "riders": [
+      {
+        "name": "Matteo Jorgenson",
+        "id": 159567,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Omloop Nieuwsblad ME",
+            "date": "01 Mar 2025",
+            "points": 2,
+            "rank": 52
+          }
+        ],
+        "totalPoints": 2
+      },
+      {
+        "name": "Jonathan Milan",
+        "id": 301151,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "UAE Tour - Stage 6",
+            "date": "22 Feb 2025",
+            "points": 20,
+            "rank": 3
+          },
+          {
+            "name": "UAE Tour - Stage 5",
+            "date": "21 Feb 2025",
+            "points": 20,
+            "rank": 3
+          },
+          {
+            "name": "UAE Tour - Stage 4",
+            "date": "20 Feb 2025",
+            "points": 40,
+            "rank": 1
+          },
+          {
+            "name": "UAE Tour - Stage 1",
+            "date": "17 Feb 2025",
+            "points": 40,
+            "rank": 1
+          },
+          {
+            "name": "UAE Tour - Stage 1 - Bonus",
+            "date": "17 Feb 2025",
+            "points": 6
+          },
+          {
+            "name": "Volta a la Comunitat Valenciana - Stage 5",
+            "date": "09 Feb 2025",
+            "points": 20,
+            "rank": 1
+          },
+          {
+            "name": "Volta a la Comunitat Valenciana - Stage 4",
+            "date": "08 Feb 2025",
+            "points": 15,
+            "rank": 2
+          },
+          {
+            "name": "Volta a la Comunitat Valenciana - Stage 1 (TTT)",
+            "date": "05 Feb 2025",
+            "points": 2.86,
+            "rank": 1
+          }
+        ],
+        "totalPoints": 164
+      },
+      {
+        "name": "Sepp Kuss",
+        "id": 88346,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Volta ao Algarve em Bicicleta - General classification",
+            "date": "23 Feb 2025",
+            "points": 3,
+            "rank": 38
+          }
+        ],
+        "totalPoints": 3
+      },
+      {
+        "name": "Michael Matthews",
+        "id": 62919,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Gran Premio Castellón - Ruta de la Cerámica",
+            "date": "25 Jan 2025",
+            "points": 10,
+            "rank": 12
+          }
+        ],
+        "totalPoints": 10
+      },
+      {
+        "name": "Isaac del Toro",
+        "id": 2002910,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Faun-Ardèche Classic",
+            "date": "01 Mar 2025",
+            "points": 3,
+            "rank": 34
+          },
+          {
+            "name": "Clásica Jaén",
+            "date": "17 Feb 2025",
+            "points": 85,
+            "rank": 2
+          },
+          {
+            "name": "Vuelta a la Región de Murcia ''Costa Cálida''",
+            "date": "15 Feb 2025",
+            "points": 35,
+            "rank": 7
+          }
+        ],
+        "totalPoints": 123
+      },
+      {
+        "name": "Daniel Felipe Martínez",
+        "id": 92264,
+        "sanctions": 0,
+        "results": [],
+        "totalPoints": 0
+      },
+      {
+        "name": "Neilson Powless",
+        "id": 88143,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Volta ao Algarve em Bicicleta - General classification",
+            "date": "23 Feb 2025",
+            "points": 70,
+            "rank": 6
+          },
+          {
+            "name": "Figueira Champions Classic",
+            "date": "16 Feb 2025",
+            "points": 5,
+            "rank": 23
+          }
+        ],
+        "totalPoints": 75
+      },
+      {
+        "name": "Magnus Sheffield",
+        "id": 361433,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Cadel Evans Great Ocean Road Race - Men",
+            "date": "02 Feb 2025",
+            "points": 95,
+            "rank": 7
+          },
+          {
+            "name": "Santos Tour Down Under - General classification",
+            "date": "26 Jan 2025",
+            "points": 150,
+            "rank": 7
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 5",
+            "date": "25 Jan 2025",
+            "points": 8,
+            "rank": 8
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 3",
+            "date": "23 Jan 2025",
+            "points": 2,
+            "rank": 10
+          }
+        ],
+        "totalPoints": 255
+      },
+      {
+        "name": "Luke Plapp",
+        "id": 1557079,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Santos Tour Down Under - General classification",
+            "date": "26 Jan 2025",
+            "points": 175,
+            "rank": 6
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 5",
+            "date": "25 Jan 2025",
+            "points": 25,
+            "rank": 4
+          },
+          {
+            "name": "National Championships Australia ME - Road Race",
+            "date": "12 Jan 2025",
+            "points": 75,
+            "rank": 2
+          },
+          {
+            "name": "National Championships Australia ME - ITT",
+            "date": "09 Jan 2025",
+            "points": 50,
+            "rank": 1
+          }
+        ],
+        "totalPoints": 325
+      },
+      {
+        "name": "Kevin Vermaerke",
+        "id": 762315,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Tour of Oman - General classification",
+            "date": "12 Feb 2025",
+            "points": 5,
+            "rank": 16
+          }
+        ],
+        "totalPoints": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "source": "pcs",
+  "schemaVersion": 1,
+  "momentId": 189001,
+  "fetchedDate": "2 Mar 2025, 06:33 GMT",
+  "team": {
+    "owner": "Tilda Price",
+    "name": "Santa Cruz-Shimano",
+    "totalPoints": 1652,
+    "riders": [
+      {
+        "name": "Lorena Wiebes",
+        "id": 141733,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Omloop Nieuwsblad WE",
+            "date": "01 Mar 2025",
+            "points": 180,
+            "rank": 5
+          },
+          {
+            "name": "UAE Tour Women - General classification",
+            "date": "09 Feb 2025",
+            "points": 40,
+            "rank": 13
+          },
+          {
+            "name": "UAE Tour Women - Stage 4",
+            "date": "09 Feb 2025",
+            "points": 50,
+            "rank": 1
+          },
+          {
+            "name": "UAE Tour Women - Stage 2",
+            "date": "07 Feb 2025",
+            "points": 50,
+            "rank": 1
+          },
+          {
+            "name": "UAE Tour Women - Stage 2 - Bonus",
+            "date": "07 Feb 2025",
+            "points": 8
+          },
+          {
+            "name": "UAE Tour Women - Stage 1",
+            "date": "06 Feb 2025",
+            "points": 50,
+            "rank": 1
+          },
+          {
+            "name": "UAE Tour Women - Stage 1 - Bonus",
+            "date": "06 Feb 2025",
+            "points": 8
+          }
+        ],
+        "totalPoints": 386
+      },
+      {
+        "name": "Evita Muzic",
+        "id": 109412,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classification",
+            "date": "16 Feb 2025",
+            "points": 5,
+            "rank": 21
+          }
+        ],
+        "totalPoints": 5
+      },
+      {
+        "name": "Puck Pieterse",
+        "id": 234336,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Omloop Nieuwsblad WE",
+            "date": "01 Mar 2025",
+            "points": 220,
+            "rank": 4
+          }
+        ],
+        "totalPoints": 220
+      },
+      {
+        "name": "Noemi Rüegg",
+        "id": 347941,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Cadel Evans Great Ocean Road Race - Women",
+            "date": "01 Feb 2025",
+            "points": 260,
+            "rank": 3
+          },
+          {
+            "name": "Santos Tour Down Under - General classification",
+            "date": "19 Jan 2025",
+            "points": 400,
+            "rank": 1
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 3",
+            "date": "19 Jan 2025",
+            "points": 30,
+            "rank": 3
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 2",
+            "date": "18 Jan 2025",
+            "points": 50,
+            "rank": 1
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 2 - Bonus",
+            "date": "18 Jan 2025",
+            "points": 8
+          },
+          {
+            "name": "Santos Tour Down Under - Stage 1",
+            "date": "17 Jan 2025",
+            "points": 18,
+            "rank": 6
+          }
+        ],
+        "totalPoints": 766
+      },
+      {
+        "name": "Pauliena Rooijakkers",
+        "id": 79690,
+        "sanctions": 0,
+        "results": [],
+        "totalPoints": 0
+      },
+      {
+        "name": "Marion Bunel",
+        "id": 1742562,
+        "sanctions": 0,
+        "results": [],
+        "totalPoints": 0
+      },
+      {
+        "name": "Sofie van Rooijen",
+        "id": 228141,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "UAE Tour Women - Stage 1",
+            "date": "06 Feb 2025",
+            "points": 15,
+            "rank": 7
+          },
+          {
+            "name": "Trofeo Marratxi-Felanitx",
+            "date": "25 Jan 2025",
+            "points": 40,
+            "rank": 6
+          }
+        ],
+        "totalPoints": 55
+      },
+      {
+        "name": "Marta Lach",
+        "id": 96399,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "UAE Tour Women - General classification",
+            "date": "09 Feb 2025",
+            "points": 24,
+            "rank": 20
+          },
+          {
+            "name": "UAE Tour Women - Stage 2",
+            "date": "07 Feb 2025",
+            "points": 18,
+            "rank": 6
+          }
+        ],
+        "totalPoints": 42
+      },
+      {
+        "name": "Mavi Garcia",
+        "id": 398547,
+        "sanctions": 0,
+        "results": [
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classification",
+            "date": "16 Feb 2025",
+            "points": 5,
+            "rank": 19
+          },
+          {
+            "name": "UAE Tour Women - General classification",
+            "date": "09 Feb 2025",
+            "points": 32,
+            "rank": 14
+          },
+          {
+            "name": "UAE Tour Women - Stage 3",
+            "date": "08 Feb 2025",
+            "points": 6,
+            "rank": 10
+          },
+          {
+            "name": "Trofeo Binissalem-Andratx",
+            "date": "27 Jan 2025",
+            "points": 50,
+            "rank": 5
+          },
+          {
+            "name": "Trofeo Palma Femina",
+            "date": "26 Jan 2025",
+            "points": 85,
+            "rank": 2
+          }
+        ],
+        "totalPoints": 178
+      },
+      {
+        "name": "Arlenis Sierra",
+        "id": 71998,
+        "sanctions": 0,
+        "results": [],
+        "totalPoints": 0
+      }
+    ]
+  }
+}
