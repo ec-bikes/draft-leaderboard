@@ -43,7 +43,7 @@ const primaryDark = '#c15432';
 
 const fontWeights = {
   regular: 400,
-  semibold: 500,
+  semibold: 600,
   bold: 700,
 };
 
@@ -115,7 +115,7 @@ export const theme = createTheme({
     MuiTab: {
       styleOverrides: {
         root: ({ theme }) => ({
-          fontWeight: 'bold',
+          fontWeight: fontWeights.bold,
           fontSize: '1.2rem',
           [theme.breakpoints.up('sm')]: { fontSize: '1.5rem' },
           padding: theme.spacing(1.5, 4),
@@ -136,7 +136,7 @@ export const theme = createTheme({
     MuiTableCell: {
       styleOverrides: {
         root: ({ theme }) => ({ padding: theme.spacing(0.5, 1) }),
-        head: { fontWeight: 'bold' },
+        head: { fontWeight: fontWeights.bold },
       },
     },
   },
@@ -149,7 +149,7 @@ export const theme = createTheme({
     h1: {
       fontSize: '2rem', // xs; breakpoint overrides below
       lineHeight: '1.1',
-      fontWeight: 'bold',
+      fontWeight: fontWeights.bold,
       textAlign: 'center',
       margin: 0, // xs-s; override below for md+
     },
@@ -158,7 +158,7 @@ export const theme = createTheme({
       fontSize: '1.3rem',
       // fontSize: '1.2rem',
       lineHeight: '1.3',
-      fontWeight: 'normal',
+      fontWeight: fontWeights.regular,
       margin: 0,
     },
     // tab labels, other buttons
@@ -183,7 +183,7 @@ export const theme = createTheme({
     // Rank number in the card header
     rankingNumber: {
       fontSize: '2.5rem',
-      fontWeight: 'bold',
+      fontWeight: fontWeights.bold,
     },
     // Number of points in the card header
     rankingPointsCount: {
@@ -210,14 +210,6 @@ theme.typography.h1[theme.breakpoints.up('md')] = {
   marginTop: theme.spacing(spacingMain),
 };
 
-// docs recommend creating this element only once
-export const globalStyles = (
-  <GlobalStyles
-    styles={{
-      em: {
-        fontStyle: 'normal',
-        fontVariationSettings: '"slnt" -8',
-      },
-    }}
-  />
-);
+// docs recommend creating this JSX element only once
+// (leaving for reference after style was removed)
+export const globalStyles = <GlobalStyles styles={{}} />;
