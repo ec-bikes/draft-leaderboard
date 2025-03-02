@@ -11,7 +11,7 @@ function getParams(
     source: 'pcs',
     momentId: 1,
     draft: { group: 'women', year: 2021, tradeDate },
-    riderIds: { [name]: 0 },
+    riderIds: { [name]: 1 },
     team: {
       owner: 'owner',
       name: 'team',
