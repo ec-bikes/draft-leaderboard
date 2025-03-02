@@ -6,6 +6,7 @@ import { spacing } from '../theme.js';
 import type { TeamsSummaryJson } from '../../common/types/TeamJson.js';
 import type { Draft } from '../../common/types/Draft.js';
 import { formatDate } from '../../scripts/data/formatDate.js';
+import { baseUrl, years } from '../../common/constants.js';
 
 export interface CompetitionProps extends Draft {
   group: Group;
@@ -25,6 +26,7 @@ export function Competition(props: CompetitionProps) {
   return (
     <Stack gap={spacing.general} alignItems="center">
       <Typography variant="description">
+        {`${year} `}
         {link ? (
           <Link target="_blank" href={link}>
             {linkText}
@@ -49,9 +51,21 @@ export function Competition(props: CompetitionProps) {
             <br /> Includes trades from {formatDate(new Date(tradeDate), 'short')}.
           </>
         )}
+        <br />
+        (Other years: {getYearLinks(group, year)})
       </Typography>
 
       <TeamCards teamData={teamData} group={group} year={year} />
     </Stack>
   );
+}
+
+function getYearLinks(group: Group, currentYear: number) {
+  const otherYears = years.filter((year) => year !== currentYear);
+  const groupUrl = baseUrl + group;
+  return otherYears.map((year) => (
+    <Link key={year} href={year === years[0] ? groupUrl : `${groupUrl}/${year}`}>
+      {year}
+    </Link>
+  ));
 }
