@@ -98,7 +98,7 @@ export function TeamCardContent(props: {
                   <Link
                     style={{ cursor: 'pointer' }}
                     onClick={() =>
-                      setRiderDialogProps({ teamOwner: team.owner, rider, uciUrl, pcsUrl })
+                      setRiderDialogProps({ teamOwner: team.owner, rider, uciUrl, pcsUrl, year })
                     }
                   >
                     {Math.round(rider.totalPoints)}

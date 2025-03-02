@@ -17,6 +17,7 @@ import {
 import type { Group } from '../../common/types/Group.js';
 import CloseIcon from '../icons/Close.js';
 import type { TeamDetailsJson } from '../../common/types/TeamJson.js';
+import { years } from '../../common/constants.js';
 
 export interface RiderDialogProps {
   group: Group;
@@ -24,6 +25,7 @@ export interface RiderDialogProps {
   rider: Rider;
   uciUrl: string;
   pcsUrl: string;
+  year: number;
   onClose: () => void;
 }
 
@@ -51,13 +53,17 @@ function CloseButton(props: { onClose: () => void }) {
 
 // this has to be export default due to react.lazy
 export default function RiderDialog(props: RiderDialogProps) {
-  const { teamOwner, rider, uciUrl, pcsUrl, group, onClose } = props;
+  const { teamOwner, rider, uciUrl, pcsUrl, group, year, onClose } = props;
   const [results, setResults] = React.useState<RaceResult[]>();
   const [error, setError] = React.useState<string>();
 
   React.useEffect(() => {
     const teamName = teamOwner.split(' ')[0].toLowerCase();
-    import(`../../data/${group}/details/${teamName}.json`)
+    const teamPromise =
+      year === years[0]
+        ? import(`../../data/${group}/details/${teamName}.json`)
+        : import(`../../data/${group}${year}/details/${teamName}.json`);
+    teamPromise
       .then(({ team }: TeamDetailsJson) => {
         const results = team.riders.find((r) => r.name === rider.name)?.results;
         if (results) {
