@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 189001,
-  "fetchedDate": "2 Mar 2025, 06:33 GMT",
+  "fetchedDate": "2 Mar 2025, 23:20 GMT",
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 1652,
+    "totalPoints": 1712,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -76,13 +76,19 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Fenix Omloop van het Hageland",
+            "date": "02 Mar 2025",
+            "points": 60,
+            "rank": 4
+          },
+          {
             "name": "Omloop Nieuwsblad WE",
             "date": "01 Mar 2025",
             "points": 220,
             "rank": 4
           }
         ],
-        "totalPoints": 220
+        "totalPoints": 280
       },
       {
         "name": "Noemi Rüegg",

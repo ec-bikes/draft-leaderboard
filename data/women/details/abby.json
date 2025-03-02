@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 189001,
-  "fetchedDate": "2 Mar 2025, 06:33 GMT",
+  "fetchedDate": "2 Mar 2025, 23:20 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 1481,
+    "totalPoints": 1514,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -116,13 +116,19 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Fenix Omloop van het Hageland",
+            "date": "02 Mar 2025",
+            "points": 30,
+            "rank": 8
+          },
+          {
             "name": "UAE Tour Women - Stage 1",
             "date": "06 Feb 2025",
             "points": 40,
             "rank": 2
           }
         ],
-        "totalPoints": 40
+        "totalPoints": 70
       },
       {
         "name": "Anna Henderson",
@@ -207,8 +213,15 @@
         "name": "Scarlett Souren",
         "id": 233425,
         "sanctions": 0,
-        "results": [],
-        "totalPoints": 0
+        "results": [
+          {
+            "name": "Fenix Omloop van het Hageland",
+            "date": "02 Mar 2025",
+            "points": 3,
+            "rank": 25
+          }
+        ],
+        "totalPoints": 3
       }
     ]
   }

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 188995,
-  "fetchedDate": "2 Mar 2025, 07:13 GMT",
+  "fetchedDate": "2 Mar 2025, 23:20 GMT",
   "team": {
     "owner": "Andrew (Alain Philippe)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 1488,
+    "totalPoints": 1638,
     "riders": [
       {
         "name": "Adam Yates",
@@ -101,6 +101,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Kuurne - Brussel - Kuurne",
+            "date": "02 Mar 2025",
+            "points": 150,
+            "rank": 2
+          },
+          {
             "name": "Tour of Oman - Stage 4",
             "date": "11 Feb 2025",
             "points": 20,
@@ -118,7 +124,7 @@
             "points": 5
           }
         ],
-        "totalPoints": 45
+        "totalPoints": 195
       },
       {
         "name": "Kévin Vauquelin",

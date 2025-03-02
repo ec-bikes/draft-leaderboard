@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 188995,
-  "fetchedDate": "2 Mar 2025, 07:13 GMT",
+  "fetchedDate": "2 Mar 2025, 23:20 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 2003,
+    "totalPoints": 2171,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -34,19 +34,31 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Faun Drome Classic",
+            "date": "02 Mar 2025",
+            "points": 150,
+            "rank": 2
+          },
+          {
             "name": "Faun-Ardèche Classic",
             "date": "01 Mar 2025",
             "points": 70,
             "rank": 6
           }
         ],
-        "totalPoints": 70
+        "totalPoints": 220
       },
       {
         "name": "Enric Mas",
         "id": 109803,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Faun Drome Classic",
+            "date": "02 Mar 2025",
+            "points": 3,
+            "rank": 32
+          },
           {
             "name": "Faun-Ardèche Classic",
             "date": "01 Mar 2025",
@@ -66,7 +78,7 @@
             "rank": 5
           }
         ],
-        "totalPoints": 48
+        "totalPoints": 51
       },
       {
         "name": "Oscar Onley",
@@ -192,13 +204,19 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Faun Drome Classic",
+            "date": "02 Mar 2025",
+            "points": 15,
+            "rank": 14
+          },
+          {
             "name": "Faun-Ardèche Classic",
             "date": "01 Mar 2025",
             "points": 5,
             "rank": 29
           }
         ],
-        "totalPoints": 5
+        "totalPoints": 20
       },
       {
         "name": "Geraint Thomas",

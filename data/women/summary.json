@@ -2,7 +2,7 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 189001,
-  "fetchedDate": "2 Mar 2025, 06:33 GMT",
+  "fetchedDate": "2 Mar 2025, 23:20 GMT",
   "teams": [
     {
       "owner": "Loren Rowney",
@@ -74,7 +74,7 @@
     {
       "owner": "Abby Mickey",
       "name": "The Tortured Breakaway Department",
-      "totalPoints": 1481,
+      "totalPoints": 1514,
       "riders": [
         {
           "name": "Elisa Longo Borghini",
@@ -104,7 +104,7 @@
           "name": "Charlotte Kool",
           "id": 157612,
           "sanctions": 0,
-          "totalPoints": 40
+          "totalPoints": 70
         },
         {
           "name": "Anna Henderson",
@@ -134,14 +134,14 @@
           "name": "Scarlett Souren",
           "id": 233425,
           "sanctions": 0,
-          "totalPoints": 0
+          "totalPoints": 3
         }
       ]
     },
     {
       "owner": "Gracie Elvin",
       "name": "Lamborghini p/b Tony's Chocolonely",
-      "totalPoints": 2258,
+      "totalPoints": 2298,
       "riders": [
         {
           "name": "Demi Vollering",
@@ -171,7 +171,7 @@
           "name": "Maike van der Duin",
           "id": 226974,
           "sanctions": 0,
-          "totalPoints": 71
+          "totalPoints": 111
         },
         {
           "name": "Cedrine Kerbaol",
@@ -208,7 +208,7 @@
     {
       "owner": "Tilda Price",
       "name": "Santa Cruz-Shimano",
-      "totalPoints": 1652,
+      "totalPoints": 1712,
       "riders": [
         {
           "name": "Lorena Wiebes",
@@ -226,7 +226,7 @@
           "name": "Puck Pieterse",
           "id": 234336,
           "sanctions": 0,
-          "totalPoints": 220
+          "totalPoints": 280
         },
         {
           "name": "Noemi Rüegg",
@@ -342,7 +342,7 @@
     {
       "owner": "Tils Raynolds",
       "name": "The Suffragettes Collective",
-      "totalPoints": 1527,
+      "totalPoints": 1562,
       "riders": [
         {
           "name": "Liane Lippert",
@@ -354,7 +354,7 @@
           "name": "Anna van der Breggen",
           "id": 59726,
           "sanctions": 0,
-          "totalPoints": 140
+          "totalPoints": 175
         },
         {
           "name": "Marlen Reusser",

@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 188995,
-  "fetchedDate": "2 Mar 2025, 07:13 GMT",
+  "fetchedDate": "2 Mar 2025, 23:20 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 888,
+    "totalPoints": 916,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -149,8 +149,15 @@
         "name": "Axel Zingle",
         "id": 101278,
         "sanctions": 0,
-        "results": [],
-        "totalPoints": 0
+        "results": [
+          {
+            "name": "Faun Drome Classic",
+            "date": "02 Mar 2025",
+            "points": 3,
+            "rank": 37
+          }
+        ],
+        "totalPoints": 3
       },
       {
         "name": "Tobias Andresen",
@@ -228,6 +235,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "O Gran Camiño -  The Historical Route - General classification",
+            "date": "02 Mar 2025",
+            "points": 25,
+            "rank": 9
+          },
+          {
             "name": "Tour of Oman - General classification",
             "date": "12 Feb 2025",
             "points": 3,
@@ -240,7 +253,7 @@
             "rank": 9
           }
         ],
-        "totalPoints": 28
+        "totalPoints": 53
       },
       {
         "name": "Alberto Bettiol",

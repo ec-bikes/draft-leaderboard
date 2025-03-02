@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 188995,
-  "fetchedDate": "2 Mar 2025, 07:13 GMT",
+  "fetchedDate": "2 Mar 2025, 23:20 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 962,
+    "totalPoints": 1035,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -27,6 +27,12 @@
         "id": 301151,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Kuurne - Brussel - Kuurne",
+            "date": "02 Mar 2025",
+            "points": 70,
+            "rank": 6
+          },
           {
             "name": "UAE Tour - Stage 6",
             "date": "22 Feb 2025",
@@ -75,7 +81,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 164
+        "totalPoints": 234
       },
       {
         "name": "Sepp Kuss",
@@ -111,6 +117,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Faun Drome Classic",
+            "date": "02 Mar 2025",
+            "points": 3,
+            "rank": 31
+          },
+          {
             "name": "Faun-Ardèche Classic",
             "date": "01 Mar 2025",
             "points": 3,
@@ -129,7 +141,7 @@
             "rank": 7
           }
         ],
-        "totalPoints": 123
+        "totalPoints": 126
       },
       {
         "name": "Daniel Felipe Martínez",

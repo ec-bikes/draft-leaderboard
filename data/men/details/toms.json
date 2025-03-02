@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 188995,
-  "fetchedDate": "2 Mar 2025, 07:13 GMT",
+  "fetchedDate": "2 Mar 2025, 23:20 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 1693,
+    "totalPoints": 1738,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -20,6 +20,12 @@
         "id": 70962,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Kuurne - Brussel - Kuurne",
+            "date": "02 Mar 2025",
+            "points": 10,
+            "rank": 15
+          },
           {
             "name": "UAE Tour - Stage 6",
             "date": "22 Feb 2025",
@@ -56,7 +62,7 @@
             "points": 3
           }
         ],
-        "totalPoints": 136
+        "totalPoints": 146
       },
       {
         "name": "Ben O'Connor",
@@ -228,6 +234,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Kuurne - Brussel - Kuurne",
+            "date": "02 Mar 2025",
+            "points": 35,
+            "rank": 10
+          },
+          {
             "name": "Volta ao Algarve em Bicicleta - Stage 4",
             "date": "22 Feb 2025",
             "points": 20,
@@ -246,7 +258,7 @@
             "rank": 1
           }
         ],
-        "totalPoints": 223
+        "totalPoints": 258
       },
       {
         "name": "Maximilian Schachmann",

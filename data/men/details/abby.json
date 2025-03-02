@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 188995,
-  "fetchedDate": "2 Mar 2025, 07:13 GMT",
+  "fetchedDate": "2 Mar 2025, 23:20 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 1681,
+    "totalPoints": 1684,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -155,6 +155,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Faun Drome Classic",
+            "date": "02 Mar 2025",
+            "points": 3,
+            "rank": 39
+          },
+          {
             "name": "Volta ao Algarve em Bicicleta - General classification",
             "date": "23 Feb 2025",
             "points": 40,
@@ -167,7 +173,7 @@
             "rank": 25
           }
         ],
-        "totalPoints": 45
+        "totalPoints": 48
       },
       {
         "name": "David Gaudu",

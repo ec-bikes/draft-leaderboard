@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 189001,
-  "fetchedDate": "2 Mar 2025, 06:33 GMT",
+  "fetchedDate": "2 Mar 2025, 23:20 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 1527,
+    "totalPoints": 1562,
     "riders": [
       {
         "name": "Liane Lippert",
@@ -58,6 +58,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Fenix Omloop van het Hageland",
+            "date": "02 Mar 2025",
+            "points": 35,
+            "rank": 7
+          },
+          {
             "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classification",
             "date": "16 Feb 2025",
             "points": 125,
@@ -70,7 +76,7 @@
             "rank": 3
           }
         ],
-        "totalPoints": 140
+        "totalPoints": 175
       },
       {
         "name": "Marlen Reusser",

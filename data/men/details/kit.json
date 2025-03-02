@@ -2,11 +2,11 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 188995,
-  "fetchedDate": "2 Mar 2025, 07:13 GMT",
+  "fetchedDate": "2 Mar 2025, 23:20 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 641,
+    "totalPoints": 696,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -106,6 +106,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Kuurne - Brussel - Kuurne",
+            "date": "02 Mar 2025",
+            "points": 30,
+            "rank": 11
+          },
+          {
             "name": "Volta ao Algarve em Bicicleta - Stage 4",
             "date": "22 Feb 2025",
             "points": 15,
@@ -124,7 +130,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 40
+        "totalPoints": 70
       },
       {
         "name": "Kaden Groves",
@@ -166,6 +172,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Faun Drome Classic",
+            "date": "02 Mar 2025",
+            "points": 25,
+            "rank": 12
+          },
+          {
             "name": "Faun-Ardèche Classic",
             "date": "01 Mar 2025",
             "points": 5,
@@ -190,7 +202,7 @@
             "rank": 14
           }
         ],
-        "totalPoints": 43
+        "totalPoints": 68
       },
       {
         "name": "Paul Lapeira",
