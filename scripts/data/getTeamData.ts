@@ -39,22 +39,29 @@ export async function getTeamData(params: {
     // Ensure the results are sorted by date descending
     rider.results.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
+    if (rider.name === tradedOut) {
+      rider.tradedOut = true;
+    }
+    if (rider.name === rawTeam.tradedIn) {
+      rider.tradedIn = true;
+    }
+
     // Trim results and update sanctions if the rider was traded
-    // if (tradeDate && (rider.name === tradedIn || rider.name === tradedOut)) {
-    if (tradeDate && rider.name === tradedOut) {
+    // if (tradeDate && (rider.tradedIn || rider.tradedOut)) {
+    if (tradeDate && rider.tradedOut) {
       // Find the first result before the trade date
       let tradeIndex = rider.results.findIndex((res) => new Date(res.date).getTime() < tradeDate);
       tradeIndex = tradeIndex === -1 ? Infinity : tradeIndex;
 
       rider.results = rider.results.slice(tradeIndex);
-      // rider.results = rider.name === tradedIn
+      // rider.results = rider.tradedIn
       //   ? rider.results.slice(0, tradeIndex)
       //   : rider.results.slice(tradeIndex);
 
       // Correct the sanctions to account for any before or after trade
       if (rider.sanctions && rider.sanctionsAtTrade) {
         rider.sanctions = rider.sanctionsAtTrade;
-        // rider.sanctions = rider.name === tradedIn
+        // rider.sanctions = rider.tradedIn
         //   ? rider.sanctions - rider.sanctionsAtTrade
         //   : rider.sanctionsAtTrade;
       }

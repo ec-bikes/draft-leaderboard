@@ -4,6 +4,8 @@ export interface BaseRider {
   name: string;
   /** Partial UCI ID used to look up the rider in the UCI APIs */
   id: number;
+  tradedIn?: boolean;
+  tradedOut?: boolean;
   /** Number of sanction points the rider had as of the trade date */
   sanctionsAtTrade?: number;
 }

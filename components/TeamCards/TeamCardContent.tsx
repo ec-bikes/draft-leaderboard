@@ -33,7 +33,6 @@ export function TeamCardContent(props: {
   year: number;
 }) {
   const { team, rank, momentId, group, year } = props;
-  const { tradedIn, tradedOut } = team;
   const [riderDialogProps, setRiderDialogProps] =
     React.useState<Omit<RiderDialogProps, 'onClose' | 'group'>>();
 
@@ -89,13 +88,11 @@ export function TeamCardContent(props: {
               <RiderRow key={rider.name}>
                 <TableCell>
                   {
-                    <span
-                      style={rider.name === tradedOut ? { textDecoration: 'line-through' } : {}}
-                    >
+                    <span style={rider.tradedOut ? { textDecoration: 'line-through' } : {}}>
                       {rider.name}
                     </span>
                   }
-                  {rider.name === tradedIn && <Typography variant="tiny"> (trade)</Typography>}
+                  {rider.tradedIn && <Typography variant="tiny"> (trade)</Typography>}
                 </TableCell>
                 <TableCell>
                   <Link

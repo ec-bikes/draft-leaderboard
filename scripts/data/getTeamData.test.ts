@@ -58,6 +58,7 @@ describe('getTeamData', () => {
   it('trims results for traded out rider', async () => {
     const team = await getTeamData(getParams({ tradedOut: true }));
 
+    expect(team.riders[0].tradedOut).toEqual(true);
     // excluding trade date
     expect(team.riders[0].results.map((r) => r.date)).toEqual(['2021-01-02', '2021-01-01']);
     expect(team.riders[0].totalPoints).toEqual(20);
@@ -86,6 +87,7 @@ describe('getTeamData', () => {
     const params = getParams({ tradedIn: true }, '2021-01-01');
     const team = await getTeamData(params);
 
+    expect(team.riders[0].tradedIn).toEqual(true);
     expect(team.riders[0].results).toHaveLength(5);
     expect(team.riders[0].totalPoints).toEqual(50);
     expect(team.totalPoints).toEqual(50);
