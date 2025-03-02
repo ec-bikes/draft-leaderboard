@@ -4,17 +4,22 @@ import type { Group } from '../common/types/Group.js';
 import type { Source } from '../common/types/Source.js';
 import type { Team } from '../common/types/Team.js';
 import type { TeamDetailsJson, TeamsSummaryJson } from '../common/types/TeamJson.js';
-import * as men from '../data/men/teams.js';
-import * as women from '../data/women/teams.js';
-import { allRiders as allMen } from '../data/men/allRiders.js';
-import { allRiders as allWomen } from '../data/women/allRiders.js';
+import * as men from '../data/mensTeams.js';
+import * as women from '../data/womensTeams.js';
+import { mensRiders } from '../data/mensRiders.js';
+import { womensRiders } from '../data/womensRiders.js';
 import { getRankingMetadata } from './data/getRankingMetadata.js';
 import { getTeamData } from './data/getTeamData.js';
 import { logError } from './log.js';
+import path from 'path';
 
 const drafts = [women, men];
 
-const groupArg = process.argv[2] as Group | undefined;
+const groupArg = process.argv.includes('--men')
+  ? 'men'
+  : process.argv.includes('--women')
+    ? 'women'
+    : undefined;
 const source: Source = 'pcs';
 
 (async () => {
@@ -24,7 +29,7 @@ const source: Source = 'pcs';
     if (groupArg && groupArg !== group) {
       continue; // skip other groups if a specific one was requested
     }
-    const riderIds = group === 'men' ? allMen : allWomen;
+    const riderIds = group === 'men' ? mensRiders : womensRiders;
 
     // Get the momentId value (which is slightly different between men and women) and ranking date
     const metadata = await getRankingMetadata({ group, source });
@@ -87,8 +92,14 @@ function writeFiles<TData>(params: {
     data: { rankingDateShort, ...data },
   } = params;
   const str = JSON.stringify(data, null, 2) + '\n';
-  fs.writeFileSync(`data/${group}/${name}.json`, str);
+
+  const groupFile = `data/${group}/${name}.json`;
+  fs.mkdirSync(path.dirname(groupFile), { recursive: true });
+  fs.writeFileSync(groupFile, str);
+
   if (dated) {
-    fs.writeFileSync(`data/${group}/previous/${name}-${rankingDateShort}.json`, str);
+    const groupPrevFile = `data/${group}/previous/${name}-${rankingDateShort}.json`;
+    fs.mkdirSync(path.dirname(groupPrevFile), { recursive: true });
+    fs.writeFileSync(groupPrevFile, str);
   }
 }

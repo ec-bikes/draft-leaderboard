@@ -1,3 +1,5 @@
+import type { uciRankingSeasons } from '../../../../common/uciRankingParams.js';
+
 /**
  * Rider ranking info returned from the UCI rankings API (see `getUciRiderRankings` and
  * `searchUciRiderRankings`).
@@ -29,7 +31,7 @@ export interface UciRiderRanking {
   /** 12-month rolling sanction points */
   SanctionPoints: number;
   ResultTeamTypeId: 0;
-  DisciplineSeasonId: 432;
+  DisciplineSeasonId: (typeof uciRankingSeasons)[keyof typeof uciRankingSeasons];
   RankingId: 0;
   GroupId: 0;
   MomentId: number;

@@ -9,6 +9,7 @@
     "lint": "eslint . --report-unused-disable-directives --max-warnings 0",
     "preview": "vike preview",
     "test": "vitest run",
+    "get-riders": "tsx scripts/getRiders.ts",
     "update-data": "tsx scripts/updateData.ts"
   },
   "dependencies": {

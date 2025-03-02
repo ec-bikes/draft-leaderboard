@@ -16,12 +16,22 @@ export function Competition(props: CompetitionProps) {
   const { group, podcast, link, teamData, tradeDate, year } = props;
   const { source } = teamData;
 
+  const linkText = (
+    <>
+      <em>{podcast}</em> podcast draft team
+    </>
+  );
+
   return (
     <Stack gap={spacing.general} alignItems="center">
       <Typography variant="description">
-        <Link target="_blank" href={link}>
-          <em>{podcast}</em> podcast draft team
-        </Link>{' '}
+        {link ? (
+          <Link target="_blank" href={link}>
+            {linkText}
+          </Link>
+        ) : (
+          linkText
+        )}{' '}
         rankings, based on{' '}
         {source === 'uci' ? (
           <Link

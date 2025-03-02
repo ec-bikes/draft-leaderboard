@@ -4,7 +4,7 @@ export interface Draft {
   group: Group;
   year: number;
   podcast: string;
-  link: string;
+  link?: string;
   /** Date of trades, YYYY-MM-DD */
   tradeDate?: string;
 }
