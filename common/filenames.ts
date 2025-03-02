@@ -23,7 +23,7 @@ export function getDataFilePath(params: {
   /** Points history file */
   history?: boolean;
 }): string {
-  const { group, year, summary, owner, summaryDate } = params;
+  const { group, year, summary, owner, summaryDate, history } = params;
 
   let root = `data/${group}`;
   if (year !== new Date().getFullYear()) {
@@ -38,6 +38,9 @@ export function getDataFilePath(params: {
   }
   if (owner) {
     return `${root}/details/${owner.split(' ')[0].toLowerCase()}.json`;
+  }
+  if (history) {
+    return `${root}/history.json`;
   }
   throw new Error('Missing type of file');
 }

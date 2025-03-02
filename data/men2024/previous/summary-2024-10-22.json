@@ -69,7 +69,8 @@
           "sanctions": 10,
           "totalPoints": 1631
         }
-      ]
+      ],
+      "movement": 0
     },
     {
       "owner": "Caley Fretz",
@@ -136,7 +137,8 @@
           "sanctions": 0,
           "totalPoints": 805
         }
-      ]
+      ],
+      "movement": 0
     },
     {
       "owner": "Ronan Mc Laughlin",
@@ -203,7 +205,8 @@
           "sanctions": 0,
           "totalPoints": 319
         }
-      ]
+      ],
+      "movement": 0
     },
     {
       "owner": "Dane Cash",
@@ -270,7 +273,8 @@
           "sanctions": 0,
           "totalPoints": 292
         }
-      ]
+      ],
+      "movement": 0
     },
     {
       "owner": "Joe Lindsey",
@@ -337,7 +341,8 @@
           "sanctions": 0,
           "totalPoints": 187
         }
-      ]
+      ],
+      "movement": 0
     },
     {
       "owner": "Kit Nicholson",
@@ -404,7 +409,8 @@
           "sanctions": 0,
           "totalPoints": 196
         }
-      ]
+      ],
+      "movement": 0
     },
     {
       "owner": "Toms Skujiņš",
@@ -471,7 +477,8 @@
           "sanctions": 0,
           "totalPoints": 407
         }
-      ]
+      ],
+      "movement": 0
     },
     {
       "owner": "Jonny Long",
@@ -538,7 +545,8 @@
           "sanctions": 0,
           "totalPoints": 257
         }
-      ]
+      ],
+      "movement": 0
     }
   ]
 }

@@ -20,7 +20,10 @@ export interface Team extends Pick<BaseTeam, 'owner' | 'name' | 'tradedIn' | 'tr
   totalPoints: number;
   /** Rider summary data (no race results) */
   riders: Rider[];
-  /** Ranking movement since a week ago (filled in by `updateHistory`) */
+  /**
+   * Ranking movement since a week ago (filled in by `updateHistory`).
+   * This is optional because old files may not have it.
+   */
   movement?: number;
 }
 

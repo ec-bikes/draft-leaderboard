@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "type": "module",
+  "license": "MIT",
   "scripts": {
     "dev": "vike dev",
     "build": "tsc && rm -rf dist && vike build && touch dist/client/.nojekyll",
