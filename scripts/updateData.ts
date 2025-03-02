@@ -1,6 +1,5 @@
 import fs from 'fs';
-import { getTeamFilename } from '../common/getTeamFilename.js';
-import type { Group } from '../common/types/Group.js';
+import path from 'path';
 import type { Source } from '../common/types/Source.js';
 import type { Team } from '../common/types/Team.js';
 import type { TeamDetailsJson, TeamsSummaryJson } from '../common/types/TeamJson.js';
@@ -11,7 +10,8 @@ import { womensRiders } from '../data/womensRiders.js';
 import { getRankingMetadata } from './data/getRankingMetadata.js';
 import { getTeamData } from './data/getTeamData.js';
 import { logError } from './log.js';
-import path from 'path';
+import { getDataFilePath } from '../common/filenames.js';
+import { cleanUpFiles } from './data/cleanUpFiles.js';
 
 const drafts = [women, men];
 
@@ -23,8 +23,7 @@ const groupArg = process.argv.includes('--men')
 const source: Source = 'pcs';
 
 (async () => {
-  for (const draftMod of drafts) {
-    const { draft, teams: rawTeams } = draftMod;
+  for (const { draft, teams: rawTeams } of drafts) {
     const { group } = draft;
     if (groupArg && groupArg !== group) {
       continue; // skip other groups if a specific one was requested
@@ -32,11 +31,12 @@ const source: Source = 'pcs';
     const riderIds = group === 'men' ? mensRiders : womensRiders;
 
     // Get the momentId value (which is slightly different between men and women) and ranking date
-    const metadata = await getRankingMetadata({ group, source });
-    if (typeof metadata === 'string') {
-      logError(metadata);
+    const metadataResult = await getRankingMetadata({ group, source });
+    if (typeof metadataResult === 'string') {
+      logError(metadataResult);
       process.exit(1);
     }
+    const { metadata, fileDate } = metadataResult;
 
     // Get data for each team
     const teams: Team[] = [];
@@ -51,11 +51,8 @@ const source: Source = 'pcs';
       });
 
       // Update the detailed team data file (only the current version, not dated)
-      writeFiles<TeamDetailsJson>({
-        name: `details/${getTeamFilename(team.owner)}`,
-        group,
-        data: { ...metadata, team },
-      });
+      const teamDetails: TeamDetailsJson = { ...metadata, team };
+      writeFile(getDataFilePath({ group, owner: team.owner }), teamDetails);
 
       teams.push({
         ...team,
@@ -65,41 +62,24 @@ const source: Source = 'pcs';
       console.log();
     }
 
-    // Write the summary file
-    writeFiles<TeamsSummaryJson>({
-      name: 'summary',
-      group,
-      data: { ...metadata, teams },
-      dated: true, // also write a dated version of this file
-    });
+    // Write the summary file and a dated version
+    const teamsSummary: TeamsSummaryJson = { ...metadata, teams };
+    writeFile(getDataFilePath({ group, summary: true }), teamsSummary);
+    writeFile(getDataFilePath({ group, summaryDate: fileDate }), teamsSummary);
+
+    if (source === 'pcs') {
+      cleanUpFiles(group);
+    }
   }
 })().catch((err) => {
   logError((err as Error).stack || err);
   process.exit(1);
 });
 
-function writeFiles<TData>(params: {
-  name: string;
-  group: Group;
-  data: TData & { rankingDateShort: string };
-  /** If true, write an extra dated file */
-  dated?: boolean;
-}) {
-  const {
-    name,
-    dated,
-    group,
-    data: { rankingDateShort, ...data },
-  } = params;
+/** Write the data to the file, ensuring the directory exists first. */
+function writeFile(filePath: string, data: object) {
   const str = JSON.stringify(data, null, 2) + '\n';
 
-  const groupFile = `data/${group}/${name}.json`;
-  fs.mkdirSync(path.dirname(groupFile), { recursive: true });
-  fs.writeFileSync(groupFile, str);
-
-  if (dated) {
-    const groupPrevFile = `data/${group}/previous/${name}-${rankingDateShort}.json`;
-    fs.mkdirSync(path.dirname(groupPrevFile), { recursive: true });
-    fs.writeFileSync(groupPrevFile, str);
-  }
+  fs.mkdirSync(path.dirname(filePath), { recursive: true });
+  fs.writeFileSync(filePath, str);
 }

@@ -5,7 +5,7 @@ import { getUciSeasonRankingUrl } from '../../common/uciUrls.js';
 import { spacing } from '../theme.js';
 import type { TeamsSummaryJson } from '../../common/types/TeamJson.js';
 import type { Draft } from '../../common/types/Draft.js';
-import { formatDate } from '../../scripts/data/formatDate.js';
+import { formatDate } from '../../common/formatDate.js';
 import { years } from '../../common/constants.js';
 import { getPageUrl } from '../../common/pageUrls.js';
 
@@ -46,7 +46,7 @@ export function Competition(props: CompetitionProps) {
         ) : (
           <>UCI points (via PCS)</>
         )}{' '}
-        as of <strong>{source === 'uci' ? teamData.rankingDate : teamData.fetchedDate}</strong>.
+        as of <strong>{source === 'uci' ? teamData.uciRankingDate : teamData.fetchedDate}</strong>.
         {tradeDate && (
           <>
             <br /> Includes trades from {formatDate(new Date(tradeDate), 'short')}.

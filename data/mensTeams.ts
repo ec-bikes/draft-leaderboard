@@ -123,7 +123,7 @@ export const teams: BaseTeam[] = [
     ],
   },
   {
-    owner: 'Andrew/Alain Philippe',
+    owner: 'Andrew (Alain Philippe)',
     name: 'Groupama-FDJ-Tourtel Twist',
     riders: [
       'Adam Yates',
