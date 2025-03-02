@@ -1,16 +1,14 @@
 import type { PageContext } from 'vike/types';
-import type { Group } from '../../../common/types/Group.js';
 import type { CompetitionProps } from '../../../components/Competition/Competition.js';
-
-// NOTE: Right now this just supports 2024
+import { years } from '../../../common/constants.js';
 
 export async function data(pageContext: PageContext): Promise<CompetitionProps | undefined> {
-  const group = pageContext.routeParams?.group as Group | undefined;
-  if (!group) return undefined;
+  const { group, year } = pageContext.routeParams;
 
-  const summary = await import(`../../../data/${group}2024/summary.json`);
+  const importYear = Number(year) === years[0] ? '' : year;
+  const summary = await import(`../../../data/${group}${importYear}/summary.json`);
   // Quirk of vite: it seems to require the original extension for variable dynamic imports
-  const { draft } = await import(`../../../data/${group}sTeams2024.ts`);
+  const { draft } = await import(`../../../data/${group}sTeams${importYear}.ts`);
 
   return {
     teamData: summary,

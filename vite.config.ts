@@ -1,7 +1,7 @@
 import react from '@vitejs/plugin-react';
 import vike from 'vike/plugin';
 import { defineConfig } from 'vite';
-import { baseUrl } from './common/constants.js';
+import { baseUrl } from './common/pageUrls.js';
 
 // https://vitejs.dev/config/
 export default defineConfig({

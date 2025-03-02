@@ -6,7 +6,8 @@ import { spacing } from '../theme.js';
 import type { TeamsSummaryJson } from '../../common/types/TeamJson.js';
 import type { Draft } from '../../common/types/Draft.js';
 import { formatDate } from '../../scripts/data/formatDate.js';
-import { baseUrl, years } from '../../common/constants.js';
+import { years } from '../../common/constants.js';
+import { getPageUrl } from '../../common/pageUrls.js';
 
 export interface CompetitionProps extends Draft {
   group: Group;
@@ -62,9 +63,8 @@ export function Competition(props: CompetitionProps) {
 
 function getYearLinks(group: Group, currentYear: number) {
   const otherYears = years.filter((year) => year !== currentYear);
-  const groupUrl = baseUrl + group;
   return otherYears.map((year) => (
-    <Link key={year} href={year === years[0] ? groupUrl : `${groupUrl}/${year}`}>
+    <Link key={year} href={getPageUrl(group, year)}>
       {year}
     </Link>
   ));

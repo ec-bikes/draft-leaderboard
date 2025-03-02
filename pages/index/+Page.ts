@@ -1,12 +1,13 @@
 import { useEffect } from 'react';
 import { navigate } from 'vike/client/router';
-import { baseUrl } from '../../common/constants.js';
+import { getPageUrl } from '../../common/pageUrls.js';
 
 // Forces vike to generate an index page for github pages...
-// Also work around the fact the +guard redirect doesn't work on github pages??
+// Also work around the fact that the usual guard method (https://vike.dev/guard)
+// doesn't appear to work on github pages.
 export function Page() {
   useEffect(() => {
-    navigate(baseUrl + 'women');
+    navigate(getPageUrl('women'));
   }, []);
   return null;
 }
