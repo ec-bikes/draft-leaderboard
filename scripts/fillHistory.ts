@@ -1,3 +1,7 @@
+//
+// Script to fill in history data for 2024
+//
+
 import fs from 'fs';
 import path from 'path';
 import { datedSummaryFileRegex, getDataFilePath } from '../common/filenames.js';
@@ -7,8 +11,6 @@ import { teams as womensTeams } from '../data/womensTeams2024.js';
 import { teams as mensTeams } from '../data/mensTeams2024.js';
 import { updateHistory } from './data/updateHistory.js';
 import type { TeamsSummaryJson } from '../common/types/TeamJson.js';
-
-// Script to fill in history data for 2024
 
 const group: Group = 'men';
 const teams = group === 'men' ? mensTeams : womensTeams;

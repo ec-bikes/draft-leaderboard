@@ -7,14 +7,14 @@ import { logWarning } from '../../log.js';
 /**
  * Get data from a rider's ProCyclingStats page for a given year.
  * Throws if there's an error fetching data.
- *
- * (Right now this only returns the UCI points and sanctions totals. Race results could be added
- * if needed, but the format is more cmoplex.)
  */
-export async function loadPcsPage(params: {
-  rider: BaseRider;
-  year: number;
-}): Promise<{ pcsUrl: string; resultsTable: BasicHTMLElement; resultsSum: BasicHTMLElement }> {
+export async function loadPcsPage(params: { rider: BaseRider; year: number }): Promise<{
+  pcsUrl: string;
+  /** Race results table element */
+  resultsTable: BasicHTMLElement;
+  /** Totals row element */
+  resultsSum: BasicHTMLElement;
+}> {
   const { rider, year } = params;
   const pcsUrl = getPcsUrl({ name: rider.name, year });
 
@@ -39,7 +39,7 @@ export async function loadPcsPage(params: {
 
   // This is usually the page title, or "Page not found" if the URL didn't work
   const h1Text = root.querySelector('h1')?.textContent.trim() || '';
-  // This is the race results (we're not parsing this right now)
+  // This is the race results
   const resultsTable = root.querySelector('.rdrResults');
   // This is the totals row
   const resultsSum = root.querySelector('.rdrResultsSum');

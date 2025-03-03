@@ -29,7 +29,7 @@ export async function getRankingMetadata(params: {
     return moments;
   }
 
-  // Result will be like:
+  // Result will be like this, where dates are in DD/MM/YYYY format:
   // [
   //   { Id: 0, Name: 'Most Recent Ranking', Sequence: 0, DisplayText: 'Most Recent Ranking' },
   //   { Id: 176133, Name: '05/03/2024', Sequence: 0, DisplayText: '05/03/2024' },
