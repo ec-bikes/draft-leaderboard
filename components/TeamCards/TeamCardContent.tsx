@@ -16,6 +16,7 @@ import { getUciRiderUrl } from '../../common/uciUrls.js';
 import { getPcsUrl } from '../../common/getPcsUrl.js';
 import { spacing } from '../theme.js';
 import type { RiderDialogProps } from '../RiderDialog/RiderDialog.js';
+import { TeamCardHeader } from './TeamCardHeader.js';
 
 const LazyRiderDialog = React.lazy(() => import('../RiderDialog/RiderDialog.js'));
 
@@ -36,42 +37,20 @@ export function TeamCardContent(props: {
   const [riderDialogProps, setRiderDialogProps] =
     React.useState<Omit<RiderDialogProps, 'onClose' | 'group'>>();
 
-  const riders = [...team.riders].sort((a, b) => b.totalPoints - a.totalPoints);
+  const riders = [...team.riders]
+    .sort((a, b) => b.totalPoints - a.totalPoints)
+    .map((rider) => ({
+      ...rider,
+      uciUrl: getUciRiderUrl({ individualId: rider.id, momentId, group }),
+      pcsUrl: getPcsUrl({ name: rider.name, year }),
+    }));
 
   // const theme = useTheme();
   // const isExtraSmallSize = useMediaQuery(theme.breakpoints.down('xs'));
 
   return (
     <Stack direction="column" spacing={spacing.teamCard.vertical}>
-      <Stack
-        direction="row"
-        justifyContent="flex-start"
-        alignItems="center"
-        spacing={spacing.teamCard.headerHorizontal}
-      >
-        <Stack
-          textAlign="right"
-          spacing={spacing.teamCard.rankingVertical}
-          lineHeight="1.0"
-          whiteSpace="nowrap"
-          paddingLeft={1}
-        >
-          <span>
-            <Typography variant="rankingPound">#</Typography>
-            <Typography variant="rankingNumber">{rank}</Typography>
-          </span>
-          <Typography variant="rankingPointsCount">{Math.round(team.totalPoints)}</Typography>
-          <Typography variant="rankingPointsText">points</Typography>
-        </Stack>
-
-        <Typography variant="h3">
-          <Typography variant="teamOwner">
-            {team.owner + (team.owner.endsWith('s') ? '’' : '’s')}
-          </Typography>
-          <br />
-          <em>{team.name}</em>
-        </Typography>
-      </Stack>
+      <TeamCardHeader team={team} rank={rank} />
       <Table>
         <TableHead>
           <TableRow>
@@ -81,43 +60,35 @@ export function TeamCardContent(props: {
           </TableRow>
         </TableHead>
         <TableBody>
-          {riders.map((rider) => {
-            const uciUrl = getUciRiderUrl({ individualId: rider.id, momentId, group });
-            const pcsUrl = getPcsUrl({ name: rider.name, year });
-            return (
-              <RiderRow key={rider.name}>
-                <TableCell>
-                  {
-                    <span style={rider.tradedOut ? { textDecoration: 'line-through' } : {}}>
-                      {rider.name}
-                    </span>
-                  }
-                  {rider.tradedIn && <Typography variant="tiny"> (trade)</Typography>}
-                </TableCell>
-                <TableCell>
-                  <Link
-                    style={{ cursor: 'pointer' }}
-                    onClick={() =>
-                      setRiderDialogProps({ teamOwner: team.owner, rider, uciUrl, pcsUrl, year })
-                    }
-                  >
-                    {Math.round(rider.totalPoints)}
+          {riders.map((rider) => (
+            <RiderRow key={rider.name}>
+              <TableCell>
+                <span style={rider.tradedOut ? { textDecoration: 'line-through' } : undefined}>
+                  {rider.name}
+                </span>
+                {rider.tradedIn && <Typography variant="tiny"> (trade)</Typography>}
+              </TableCell>
+              <TableCell>
+                <Link
+                  style={{ cursor: 'pointer' }}
+                  onClick={() => setRiderDialogProps({ teamOwner: team.owner, rider, year })}
+                >
+                  {Math.round(rider.totalPoints)}
+                </Link>
+              </TableCell>
+              <TableCell>
+                <Typography variant="tiny">
+                  <Link target="_blank" href={rider.uciUrl}>
+                    UCI
                   </Link>
-                </TableCell>
-                <TableCell>
-                  <Typography variant="tiny">
-                    <Link target="_blank" href={uciUrl}>
-                      UCI
-                    </Link>
-                    {', '}
-                    <Link target="_blank" href={pcsUrl}>
-                      PCS
-                    </Link>
-                  </Typography>
-                </TableCell>
-              </RiderRow>
-            );
-          })}
+                  {', '}
+                  <Link target="_blank" href={rider.pcsUrl}>
+                    PCS
+                  </Link>
+                </Typography>
+              </TableCell>
+            </RiderRow>
+          ))}
         </TableBody>
       </Table>
       {riderDialogProps && (

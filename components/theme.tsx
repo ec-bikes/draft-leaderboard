@@ -38,7 +38,9 @@ declare module '@mui/material/Typography' {
       Record<keyof NewTypographyVariants, true> {}
 }
 
+/** Escape orange */
 const primaryMain = '#ff6f42';
+/** Darker orange (ok contrast on white) */
 const primaryDark = '#c15432';
 
 const fontWeights = {
@@ -73,12 +75,16 @@ export const spacing = {
   },
 };
 
+/** Ranking numeral size in rem */
+export const rankingNumberSize = 2.5;
+
 export const theme = createTheme({
   palette: {
     mode: 'light',
     primary: { main: primaryMain, dark: primaryDark },
   },
   components: {
+    // rider dialog title
     MuiDialogTitle: {
       styleOverrides: {
         root: {
@@ -87,6 +93,7 @@ export const theme = createTheme({
         },
       },
     },
+    // Layout container
     MuiContainer: {
       defaultProps: {
         maxWidth: 'lg',
@@ -112,6 +119,7 @@ export const theme = createTheme({
     MuiStack: {
       defaultProps: { useFlexGap: true },
     },
+    // women/men tabs
     MuiTab: {
       styleOverrides: {
         root: ({ theme }) => ({
@@ -122,11 +130,13 @@ export const theme = createTheme({
         }),
       },
     },
+    // competition tab content
     MuiTabPanel: {
       styleOverrides: {
         root: { padding: 0 },
       },
     },
+    // team and rider tables
     MuiTable: {
       defaultProps: { size: 'small' },
       styleOverrides: {
@@ -174,16 +184,17 @@ export const theme = createTheme({
     // Number sign in the card header
     rankingPound: {
       display: 'inline-block',
-      fontSize: '1.5rem',
-      // fontSize: '1.4rem',
-      paddingRight: 4,
+      fontSize: '1.4rem', // was 1.5
+      paddingRight: 2, // was 4
       paddingTop: 6,
       verticalAlign: 'top',
+      // color: primaryMain,
     },
     // Rank number in the card header
     rankingNumber: {
-      fontSize: '2.5rem',
+      fontSize: `${rankingNumberSize}rem`,
       fontWeight: fontWeights.bold,
+      // color: primaryMain,
     },
     // Number of points in the card header
     rankingPointsCount: {

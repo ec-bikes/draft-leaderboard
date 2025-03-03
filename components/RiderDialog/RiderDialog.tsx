@@ -22,9 +22,7 @@ import { years } from '../../common/constants.js';
 export interface RiderDialogProps {
   group: Group;
   teamOwner: string;
-  rider: Rider;
-  uciUrl: string;
-  pcsUrl: string;
+  rider: Rider & { uciUrl: string; pcsUrl: string };
   year: number;
   onClose: () => void;
 }
@@ -53,7 +51,7 @@ function CloseButton(props: { onClose: () => void }) {
 
 // this has to be export default due to react.lazy
 export default function RiderDialog(props: RiderDialogProps) {
-  const { teamOwner, rider, uciUrl, pcsUrl, group, year, onClose } = props;
+  const { teamOwner, rider, group, year, onClose } = props;
   const [results, setResults] = React.useState<RaceResult[]>();
   const [error, setError] = React.useState<string>();
 
@@ -89,11 +87,11 @@ export default function RiderDialog(props: RiderDialogProps) {
         <Typography>
           {rider.totalPoints} points
           {rider.sanctions ? ` (including -${rider.sanctions} sanctions)` : ''} -{' '}
-          <Link target="_blank" href={uciUrl}>
+          <Link target="_blank" href={rider.uciUrl}>
             UCI
           </Link>
           {' - '}
-          <Link target="_blank" href={pcsUrl}>
+          <Link target="_blank" href={rider.pcsUrl}>
             PCS
           </Link>
           <br />
