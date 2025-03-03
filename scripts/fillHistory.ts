@@ -48,5 +48,7 @@ fs.writeFileSync(historyPath, JSON.stringify(history, null, 2) + '\n');
 // (will also rewrite the history file, but that's fine)
 updateHistory({ group, teams: summary.teams, fileDate: new Date(summaryDate) });
 
-// Write the summary file
-fs.writeFileSync(summaryPath, JSON.stringify(summary, null, 2) + '\n');
+// Write the summary files
+const summaryText = JSON.stringify(summary, null, 2) + '\n';
+fs.writeFileSync(summaryPath, summaryText);
+fs.writeFileSync(getDataFilePath({ group, year, summary: true }), summaryText);

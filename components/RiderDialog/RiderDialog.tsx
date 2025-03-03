@@ -15,7 +15,7 @@ import {
   styled,
 } from '@mui/material';
 import type { Group } from '../../common/types/Group.js';
-import CloseIcon from '../icons/Close.js';
+import { CloseIcon } from '../icons/Close.js';
 import type { TeamDetailsJson } from '../../common/types/TeamJson.js';
 import { years } from '../../common/constants.js';
 

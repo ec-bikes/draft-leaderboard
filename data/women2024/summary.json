@@ -77,7 +77,8 @@
           "sanctions": 0,
           "totalPoints": 1403
         }
-      ]
+      ],
+      "movement": 0
     },
     {
       "owner": "Tils Raynolds",
@@ -152,7 +153,8 @@
           "sanctions": 0,
           "totalPoints": 1227
         }
-      ]
+      ],
+      "movement": 1
     },
     {
       "owner": "Abby Mickey",
@@ -227,7 +229,8 @@
           "sanctions": 0,
           "totalPoints": 1648
         }
-      ]
+      ],
+      "movement": 0
     },
     {
       "owner": "Gracie Elvin",
@@ -294,7 +297,8 @@
           "sanctions": 0,
           "totalPoints": 980
         }
-      ]
+      ],
+      "movement": 0
     },
     {
       "owner": "Loren Rowney",
@@ -369,7 +373,8 @@
           "sanctions": 0,
           "totalPoints": 725
         }
-      ]
+      ],
+      "movement": -1
     }
   ]
 }

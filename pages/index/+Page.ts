@@ -1,4 +1,4 @@
-import { useEffect } from 'react';
+import React from 'react';
 import { navigate } from 'vike/client/router';
 import { getPageUrl } from '../../common/pageUrls.js';
 
@@ -6,7 +6,7 @@ import { getPageUrl } from '../../common/pageUrls.js';
 // Also work around the fact that the usual guard method (https://vike.dev/guard)
 // doesn't appear to work on github pages.
 export function Page() {
-  useEffect(() => {
+  React.useEffect(() => {
     navigate(getPageUrl('women'));
   }, []);
   return null;

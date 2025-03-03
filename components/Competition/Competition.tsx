@@ -1,5 +1,5 @@
 import { Link, Stack, Typography } from '@mui/material';
-import { TeamCards } from '../../components/TeamCards/TeamCards';
+import { TeamCards } from '../TeamCards/TeamCards';
 import type { Group } from '../../common/types/Group';
 import { getUciSeasonRankingUrl } from '../../common/uciUrls.js';
 import { spacing } from '../theme.js';

@@ -1,8 +1,11 @@
-import { Card, CardContent, Grid } from '@mui/material';
+import { Card, CardContent, Grid2 as Grid } from '@mui/material';
 import { TeamCardContent } from './TeamCardContent.js';
 import type { Group } from '../../common/types/Group';
 import { spacing } from '../theme.js';
 import type { TeamsSummaryJson } from '../../common/types/TeamJson.js';
+
+// number is colspan (out of 12)
+const gridSizes = { xs: 12, sm: 6, md: 4 };
 
 export function TeamCards(props: { teamData: TeamsSummaryJson; group: Group; year: number }) {
   const { teamData, ...rest } = props;
@@ -11,8 +14,7 @@ export function TeamCards(props: { teamData: TeamsSummaryJson; group: Group; yea
   return (
     <Grid container spacing={spacing.general}>
       {teams.map((team, i) => (
-        // number is colspan (out of 12)
-        <Grid key={team.owner} item xs={12} sm={6} md={4}>
+        <Grid key={team.owner} size={gridSizes}>
           <Card>
             <CardContent>
               <TeamCardContent team={team} rank={i + 1} momentId={teamData.momentId} {...rest} />
