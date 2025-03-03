@@ -1,4 +1,5 @@
 import { createTheme, GlobalStyles } from '@mui/material';
+// types for tab augmentation
 import '@mui/lab/themeAugmentation';
 
 interface NewTypographyVariants {
