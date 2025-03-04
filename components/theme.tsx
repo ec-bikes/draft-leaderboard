@@ -244,13 +244,11 @@ typography.rankingPound = {
   paddingRight: 2, // was 4
   paddingTop: 6,
   verticalAlign: 'top',
-  // color: primaryMain,
 };
 // Rank number in the card header
 typography.rankingNumber = {
   fontSize: `${rankingNumberSize}rem`,
   fontWeight: typography.fontWeightBold,
-  // color: primaryMain,
 };
 // Number of points in the card header
 typography.rankingPointsCount = {

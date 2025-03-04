@@ -41,7 +41,7 @@ function CloseButton(props: { onClose: () => void }) {
         position: 'absolute',
         right: 8,
         top: 8,
-        color: (theme) => theme.palette.grey[500],
+        color: (theme) => theme.vars.palette.grey[500],
       }}
     >
       <CloseIcon />
@@ -98,7 +98,7 @@ export default function RiderDialog(props: RiderDialogProps) {
           <br />
         </Typography>
         {results && (
-          <Table>
+          <Table aria-label={`Results for ${rider.name}`}>
             <TableHead>
               <TableRow>
                 <TableCell>Date</TableCell>

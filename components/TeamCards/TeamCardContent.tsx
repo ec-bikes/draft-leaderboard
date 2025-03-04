@@ -51,7 +51,7 @@ export function TeamCardContent(props: {
   return (
     <Stack direction="column" spacing={spacing.teamCard.vertical}>
       <TeamCardHeader team={team} rank={rank} />
-      <Table>
+      <Table aria-label={`Points by rider for ${team.name}`}>
         <TableHead>
           <TableRow>
             <TableCell>Rider</TableCell>
