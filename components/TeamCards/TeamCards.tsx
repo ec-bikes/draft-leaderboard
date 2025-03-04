@@ -12,7 +12,7 @@ export function TeamCards(props: { teamData: TeamsSummaryJson; group: Group; yea
   const teams = [...teamData.teams].sort((a, b) => b.totalPoints - a.totalPoints);
 
   return (
-    <Grid container spacing={spacing.general}>
+    <Grid container spacing={spacing.teamCardsGrid}>
       {teams.map((team, i) => (
         <Grid key={team.owner} size={gridSizes}>
           <Card>

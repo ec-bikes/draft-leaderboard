@@ -27,7 +27,7 @@ export function Competition(props: CompetitionProps) {
   );
 
   return (
-    <Stack gap={spacing.general} alignItems="center">
+    <Stack gap={spacing.competitionVertical} alignItems="center">
       <Typography variant="description">
         {`${year} `}
         {link ? (

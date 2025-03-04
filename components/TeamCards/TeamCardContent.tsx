@@ -70,7 +70,7 @@ export function TeamCardContent(props: {
               </TableCell>
               <TableCell>
                 <Link
-                  style={{ cursor: 'pointer' }}
+                  component="button"
                   onClick={() => setRiderDialogProps({ teamOwner: team.owner, rider, year })}
                 >
                   {Math.round(rider.totalPoints)}

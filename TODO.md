@@ -1,9 +1,7 @@
-- up/down/steady arrows
-- historical rankings
-- summary at top of page
-- theme colors?
-- consistent web font?
-- rider result details (popup?)
-- team images?
+- colored card header? or at least number?
+- actual team acronyms and/or flags in rider list
+- actual team names and countries in rider dialog
+- team images
+- rankings graph
 - asterisk for sanctions?
 - retry for pcs fetch

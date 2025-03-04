@@ -42,6 +42,8 @@ export function TeamCardHeader(props: { team: Team; rank: number }) {
         spacing={spacing.teamCard.rankingVertical}
         lineHeight="1.0"
         whiteSpace="nowrap"
+        // Extra padding (1 spacing unit) to match the table content
+        // (the row divider lines extend beyond the content)
         paddingLeft={1}
       >
         <span>

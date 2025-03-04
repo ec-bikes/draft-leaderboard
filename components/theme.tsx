@@ -51,12 +51,6 @@ declare module '@mui/material/Typography' {
       Record<keyof NewTypographyVariants, true> {}
 }
 
-const fontWeights = {
-  regular: 400,
-  semibold: 600,
-  bold: 700,
-};
-
 // xs: 0px
 // sm: 600px
 // md: 900px
@@ -70,15 +64,30 @@ const spacingMainGutter = 3;
 /** Spacing within page content (and above/below) >= S */
 const spacingMain = 4;
 
+const generalSpacing = { xs: spacingXS, sm: spacingMain };
+
 export const spacing = {
-  /** Page outer padding */
-  pagePadding: { xs: spacingXS, main: [spacingMain, spacingMainGutter] as const },
-  /** General spacing within page content */
-  general: { xs: spacingXS, sm: spacingMain },
+  page: {
+    /** Outer padding for XS */
+    paddingXS: spacingXS,
+    /** Outer padding for > XS */
+    padding: [spacingMain, spacingMainGutter] as const,
+    /** Spacing between heading and content */
+    vertical: generalSpacing,
+  },
+
+  /** Spacing between competition description and team cards */
+  competitionVertical: generalSpacing,
+
+  /** Spacing between team card grid items */
+  teamCardsGrid: generalSpacing,
+
   teamCard: {
+    /** Spacing betwen header and elements */
     vertical: spacingXS,
+    /** Spacing between ranking/points and team name */
     headerHorizontal: { xs: 2.5, sm: 3 },
-    // there's also a stack for the ranking, with design props defined inline
+    /** Spacing between ranking, points number, "points" (design props defined inline) */
     rankingVertical: '3px',
   },
 };
@@ -123,7 +132,8 @@ export const theme = createTheme({
       styleOverrides: {
         root: {
           fontSize: '1.5rem',
-          paddingBottom: 0,
+          // The content has padding all around, so double padding after the title looks excessive
+          paddingBottom: '0',
         },
       },
     },
@@ -135,31 +145,30 @@ export const theme = createTheme({
       },
       styleOverrides: {
         root: ({ theme }) => ({
-          padding: theme.spacing(spacing.pagePadding.xs),
+          padding: theme.spacing(spacing.page.paddingXS),
           [theme.breakpoints.up('sm')]: {
-            padding: theme.spacing(...spacing.pagePadding.main),
+            padding: theme.spacing(...spacing.page.padding),
           },
         }),
       },
     },
     MuiLink: {
       styleOverrides: {
-        root: ({ theme }) => [
+        root: ({ theme }) =>
           // Ensure adequate text contrast for links in light mode
           theme.applyStyles('light', {
             color: theme.vars.palette.primary.dark,
           }),
-        ],
       },
     },
     MuiStack: {
       defaultProps: { useFlexGap: true },
     },
-    // women/men tabs
+    // women/men tab buttons
     MuiTab: {
       styleOverrides: {
         root: ({ theme }) => ({
-          fontWeight: fontWeights.bold,
+          fontWeight: typography.fontWeightBold,
           fontSize: '1.2rem',
           [theme.breakpoints.up('sm')]: { fontSize: '1.5rem' },
           padding: theme.spacing(1.5, 4),
@@ -169,7 +178,7 @@ export const theme = createTheme({
     // competition tab content
     MuiTabPanel: {
       styleOverrides: {
-        root: { padding: 0 },
+        root: { padding: '0' },
       },
     },
     // team and rider tables
@@ -182,79 +191,83 @@ export const theme = createTheme({
     MuiTableCell: {
       styleOverrides: {
         root: ({ theme }) => ({ padding: theme.spacing(0.5, 1) }),
-        head: { fontWeight: fontWeights.bold },
+        head: ({ theme }) => ({ fontWeight: typography.fontWeightBold }),
       },
     },
   },
   typography: {
     fontFamily: 'Inter, system-ui, Avenir, Helvetica Neue, Helvetica, Arial, sans-serif',
-    fontWeightRegular: fontWeights.regular,
-    fontWeightMedium: fontWeights.regular,
-    fontWeightBold: fontWeights.bold,
-    // page title
-    h1: {
-      fontSize: '2rem', // xs; breakpoint overrides below
-      lineHeight: '1.1',
-      fontWeight: fontWeights.bold,
-      textAlign: 'center',
-      margin: 0, // xs-s; override below for md+
-    },
-    // team names on cards
-    h3: {
-      fontSize: '1.3rem',
-      // fontSize: '1.2rem',
-      lineHeight: '1.3',
-      fontWeight: fontWeights.regular,
-      margin: 0,
-    },
-    // tab labels, other buttons
-    button: {
-      textTransform: 'none',
-    },
-    // description text with links to article and UCI rankings
-    description: {
-      fontSize: '1.1rem',
-      lineHeight: '1.6',
-      textAlign: 'center',
-    },
-    // Number sign in the card header
-    rankingPound: {
-      display: 'inline-block',
-      fontSize: '1.4rem', // was 1.5
-      paddingRight: 2, // was 4
-      paddingTop: 6,
-      verticalAlign: 'top',
-      // color: primaryMain,
-    },
-    // Rank number in the card header
-    rankingNumber: {
-      fontSize: `${rankingNumberSize}rem`,
-      fontWeight: fontWeights.bold,
-      // color: primaryMain,
-    },
-    // Number of points in the card header
-    rankingPointsCount: {
-      fontSize: '1.3rem',
-    },
-    // "points" text in the card header
-    rankingPointsText: {
-      fontSize: '1rem',
-    },
-    teamOwner: {
-      fontWeight: fontWeights.semibold,
-    },
-    tiny: {
-      fontSize: '0.7rem',
-    },
+    fontWeightLight: 400,
+    fontWeightRegular: 400,
+    fontWeightMedium: 600,
+    fontWeightBold: 700,
+    // Typography variant styles are set separately below so they can access provided or generated
+    // values from the theme
   },
 });
 
-theme.typography.h1[theme.breakpoints.up('sm')] = {
-  fontSize: '2.3rem',
+const { typography } = theme;
+// page title
+typography.h1 = {
+  fontSize: '2rem', // xs
+  lineHeight: '1.1',
+  fontWeight: typography.fontWeightBold,
+  textAlign: 'center',
+  margin: '0',
+  [theme.breakpoints.up('sm')]: {
+    fontSize: '2.3rem',
+  },
+  [theme.breakpoints.up('md')]: {
+    fontSize: '2.7rem',
+    marginTop: theme.spacing(spacingMain),
+  },
 };
-theme.typography.h1[theme.breakpoints.up('md')] = {
-  fontSize: '2.7rem',
-  marginTop: theme.spacing(spacingMain),
+// team names on cards
+typography.h3 = {
+  fontSize: '1.3rem',
+  lineHeight: '1.3',
+  fontWeight: typography.fontWeightRegular,
+  margin: '0',
+};
+// tab labels, other buttons
+typography.button = {
+  textTransform: 'none', // don't uppercase
+};
+// description text with links to article and UCI rankings
+typography.description = {
+  fontSize: '1.1rem',
+  lineHeight: '1.6',
+  textAlign: 'center',
+};
+// Number sign in the card header
+typography.rankingPound = {
+  display: 'inline-block',
+  fontSize: '1.4rem', // was 1.5
+  paddingRight: 2, // was 4
+  paddingTop: 6,
+  verticalAlign: 'top',
+  // color: primaryMain,
+};
+// Rank number in the card header
+typography.rankingNumber = {
+  fontSize: `${rankingNumberSize}rem`,
+  fontWeight: typography.fontWeightBold,
+  // color: primaryMain,
+};
+// Number of points in the card header
+typography.rankingPointsCount = {
+  fontSize: '1.3rem',
+};
+// "points" text in the card header
+typography.rankingPointsText = {
+  fontSize: '1rem',
+};
+// Team owner name in card header
+typography.teamOwner = {
+  fontWeight: typography.fontWeightMedium,
+};
+typography.tiny = {
+  fontSize: '0.7rem',
 };
 
 // docs recommend creating this JSX element only once

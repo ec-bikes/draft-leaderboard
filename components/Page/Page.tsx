@@ -13,7 +13,7 @@ export function Page() {
   const { group, year } = data;
 
   return (
-    <Stack spacing={spacing.general} alignItems="center">
+    <Stack spacing={spacing.page.vertical} alignItems="center">
       <Typography variant="h1">
         <em>Escape Collective</em> {year} draft rankings
       </Typography>
