@@ -1,6 +1,9 @@
 import { createTheme, GlobalStyles } from '@mui/material';
-// types for tab augmentation
-import '@mui/lab/themeAugmentation';
+// https://mui.com/material-ui/customization/css-theme-variables/usage/#typescript
+import type {} from '@mui/material/themeCssVarsAugmentation';
+// types for Tabs augmentation
+import type {} from '@mui/lab/themeAugmentation';
+import type { PaletteOptions } from '@mui/material/styles';
 
 interface NewTypographyVariants {
   /** Description text with links to article and UCI rankings */
@@ -32,17 +35,21 @@ type UnusedTypographyVariants =
 declare module '@mui/material/styles' {
   interface TypographyVariantsOptions extends NewTypographyVariants {}
   interface TypographyVariants extends Required<NewTypographyVariants> {}
+
+  interface PaletteOptions {
+    /** colors for arrow indicators */
+    indicator: Record<'up' | 'down' | 'neutral', string>;
+  }
+  interface Palette {
+    /** colors for arrow indicators */
+    indicator: Record<'up' | 'down' | 'neutral', string>;
+  }
 }
 declare module '@mui/material/Typography' {
   interface TypographyPropsVariantOverrides
     extends Record<UnusedTypographyVariants, false>,
       Record<keyof NewTypographyVariants, true> {}
 }
-
-/** Escape orange */
-const primaryMain = '#ff6f42';
-/** Darker orange (ok contrast on white) */
-const primaryDark = '#c15432';
 
 const fontWeights = {
   regular: 400,
@@ -79,10 +86,36 @@ export const spacing = {
 /** Ranking numeral size in rem */
 export const rankingNumberSize = 2.5;
 
+/** Escape orange, #ff6f42 */
+const primaryMain = 'rgb(255, 110, 66)';
+/** Indicator colors that need to be included in both light and dark */
+const indicator: PaletteOptions['indicator'] = {
+  up: 'rgb(76, 175, 80)',
+  down: 'rgb(255, 0, 0)',
+  neutral: 'rgb(170, 170, 170)',
+};
+
 export const theme = createTheme({
-  palette: {
-    mode: 'light',
-    primary: { main: primaryMain, dark: primaryDark },
+  cssVariables: true,
+  colorSchemes: {
+    light: {
+      palette: {
+        primary: {
+          main: primaryMain,
+          // slightly less dark than the default, but ok contrast on white
+          dark: 'rgb(193, 84, 50)',
+        },
+        indicator,
+      },
+    },
+    dark: {
+      palette: {
+        primary: {
+          main: primaryMain,
+        },
+        indicator,
+      },
+    },
   },
   components: {
     // rider dialog title
@@ -111,10 +144,12 @@ export const theme = createTheme({
     },
     MuiLink: {
       styleOverrides: {
-        root: {
-          color: primaryDark,
-          textDecorationColor: `rgba(193, 84, 50, 0.4)`,
-        },
+        root: ({ theme }) => [
+          // Ensure adequate text contrast for links in light mode
+          theme.applyStyles('light', {
+            color: theme.vars.palette.primary.dark,
+          }),
+        ],
       },
     },
     MuiStack: {

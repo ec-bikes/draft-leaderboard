@@ -11,20 +11,20 @@ const iconStyle: React.CSSProperties = {
   marginRight: '8px',
   marginBottom: `${((rankingNumberSize - arrowSize) / 4).toFixed(2)}rem`,
 };
-const ArrowUp = styled(ArrowUpIcon)({
+const ArrowUp = styled(ArrowUpIcon)(({ theme }) => ({
   ...iconStyle,
-  color: '#4caf50',
-});
-const ArrowDown = styled(ArrowUpIcon)({
+  color: theme.vars.palette.indicator.up,
+}));
+const ArrowDown = styled(ArrowUpIcon)(({ theme }) => ({
   ...iconStyle,
-  color: 'red',
+  color: theme.vars.palette.indicator.down,
   transform: 'rotate(180deg)',
-});
-const CircleSmall = styled(CircleSmallIcon)({
+}));
+const CircleSmall = styled(CircleSmallIcon)(({ theme }) => ({
   ...iconStyle,
-  color: '#aaa',
+  color: theme.vars.palette.indicator.neutral,
   marginRight: '6px',
-});
+}));
 
 export function TeamCardHeader(props: { team: Team; rank: number }) {
   const { team, rank } = props;
