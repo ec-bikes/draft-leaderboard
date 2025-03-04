@@ -3,7 +3,6 @@ import { createTheme, GlobalStyles } from '@mui/material';
 import type {} from '@mui/material/themeCssVarsAugmentation';
 // types for Tabs augmentation
 import type {} from '@mui/lab/themeAugmentation';
-import type { PaletteOptions } from '@mui/material/styles';
 
 interface NewTypographyVariants {
   /** Description text with links to article and UCI rankings */
@@ -36,14 +35,14 @@ declare module '@mui/material/styles' {
   interface TypographyVariantsOptions extends NewTypographyVariants {}
   interface TypographyVariants extends Required<NewTypographyVariants> {}
 
-  interface PaletteOptions {
-    /** colors for arrow indicators */
-    indicator: Record<'up' | 'down' | 'neutral', string>;
-  }
-  interface Palette {
-    /** colors for arrow indicators */
-    indicator: Record<'up' | 'down' | 'neutral', string>;
-  }
+  // interface PaletteOptions {
+  //   /** colors for arrow indicators */
+  //   indicator: Record<'up' | 'down' | 'neutral', string>;
+  // }
+  // interface Palette {
+  //   /** colors for arrow indicators */
+  //   indicator: Record<'up' | 'down' | 'neutral', string>;
+  // }
 }
 declare module '@mui/material/Typography' {
   interface TypographyPropsVariantOverrides
@@ -97,12 +96,6 @@ export const rankingNumberSize = 2.5;
 
 /** Escape orange, #ff6f42 */
 const primaryMain = 'rgb(255, 110, 66)';
-/** Indicator colors that need to be included in both light and dark */
-const indicator: PaletteOptions['indicator'] = {
-  up: 'rgb(76, 175, 80)',
-  down: 'rgb(255, 0, 0)',
-  neutral: 'rgb(170, 170, 170)',
-};
 
 export const theme = createTheme({
   cssVariables: true,
@@ -114,7 +107,6 @@ export const theme = createTheme({
           // slightly less dark than the default, but ok contrast on white
           dark: 'rgb(193, 84, 50)',
         },
-        indicator,
       },
     },
     dark: {
@@ -122,7 +114,6 @@ export const theme = createTheme({
         primary: {
           main: primaryMain,
         },
-        indicator,
       },
     },
   },
@@ -154,11 +145,18 @@ export const theme = createTheme({
     },
     MuiLink: {
       styleOverrides: {
-        root: ({ theme }) =>
+        root: ({ theme }) => [
+          // Make tiny links more readable by moving the underline down
+          { textUnderlineOffset: '2px' },
           // Ensure adequate text contrast for links in light mode
           theme.applyStyles('light', {
             color: theme.vars.palette.primary.dark,
           }),
+          // The default dark mode underline color is too dark
+          theme.applyStyles('dark', {
+            textDecorationColor: `rgba(${theme.vars.palette.primary.mainChannel} / 0.6)`,
+          }),
+        ],
       },
     },
     MuiStack: {
@@ -191,7 +189,7 @@ export const theme = createTheme({
     MuiTableCell: {
       styleOverrides: {
         root: ({ theme }) => ({ padding: theme.spacing(0.5, 1) }),
-        head: ({ theme }) => ({ fontWeight: typography.fontWeightBold }),
+        head: ({ theme }) => ({ fontWeight: theme.typography.fontWeightBold }),
       },
     },
   },

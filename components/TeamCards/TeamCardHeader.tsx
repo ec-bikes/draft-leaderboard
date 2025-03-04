@@ -13,16 +13,16 @@ const iconStyle: React.CSSProperties = {
 };
 const ArrowUp = styled(ArrowUpIcon)(({ theme }) => ({
   ...iconStyle,
-  color: theme.vars.palette.indicator.up,
+  color: theme.vars.palette.success.light,
 }));
 const ArrowDown = styled(ArrowUpIcon)(({ theme }) => ({
   ...iconStyle,
-  color: theme.vars.palette.indicator.down,
+  color: theme.vars.palette.error.main,
   transform: 'rotate(180deg)',
 }));
 const CircleSmall = styled(CircleSmallIcon)(({ theme }) => ({
   ...iconStyle,
-  color: theme.vars.palette.indicator.neutral,
+  color: theme.vars.palette.grey[400],
   marginRight: '6px',
 }));
 
