@@ -1,5 +1,3 @@
-import fs from 'fs';
-import path from 'path';
 import type { Source } from '../common/types/Source.js';
 import type { Team } from '../common/types/Team.js';
 import type { TeamDetailsJson, TeamsSummaryJson } from '../common/types/TeamJson.js';
@@ -10,9 +8,10 @@ import { womensRiders } from '../data/womensRiders.js';
 import { getRankingMetadata } from './data/getRankingMetadata.js';
 import { getTeamData } from './data/getTeamData.js';
 import { logError } from './log.js';
-import { getDataFilePath } from '../common/filenames.js';
+import { getSummaryFilePath, getTeamDetailsFilePath } from '../common/filenames.js';
 import { cleanUpFiles } from './data/cleanUpFiles.js';
 import { updateHistory } from './data/updateHistory.js';
+import { writeJson } from './data/writeJson.js';
 
 const drafts = [women, men];
 const year = women.draft.year;
@@ -54,7 +53,7 @@ const source: Source = 'pcs';
 
       // Update the detailed team data file (only the current version, not dated)
       const teamDetails: TeamDetailsJson = { ...metadata, team };
-      writeFile(getDataFilePath({ group, year, owner: team.owner }), teamDetails);
+      writeJson(getTeamDetailsFilePath({ group, year, owner: team.owner }), teamDetails);
 
       teams.push({
         ...team,
@@ -69,8 +68,8 @@ const source: Source = 'pcs';
 
     // Write the summary file and a dated version
     const teamsSummary: TeamsSummaryJson = { ...metadata, teams };
-    writeFile(getDataFilePath({ group, year, summary: true }), teamsSummary);
-    writeFile(getDataFilePath({ group, year, summaryDate: fileDate }), teamsSummary);
+    writeJson(getSummaryFilePath({ group, year }), teamsSummary);
+    writeJson(getSummaryFilePath({ group, year, summaryDate: fileDate }), teamsSummary);
 
     if (source === 'pcs') {
       cleanUpFiles(group, year);
@@ -80,11 +79,3 @@ const source: Source = 'pcs';
   logError((err as Error).stack || err);
   process.exit(1);
 });
-
-/** Write the data to the file, ensuring the directory exists first. */
-function writeFile(filePath: string, data: object) {
-  const str = JSON.stringify(data, null, 2) + '\n';
-
-  fs.mkdirSync(path.dirname(filePath), { recursive: true });
-  fs.writeFileSync(filePath, str);
-}

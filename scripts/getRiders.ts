@@ -13,10 +13,15 @@ import type { Group } from '../common/types/Group.js';
 import type { BaseRider } from '../common/types/Rider.js';
 import { mensRiders } from '../data/mensRiders.js';
 import { womensRiders } from '../data/womensRiders.js';
+import { writeJson } from './data/writeJson.js';
+import { getRidersFilePath } from '../common/filenames.js';
+import { years } from '../common/constants.js';
+import { readJson } from './data/readJson.js';
 
 const group: Group = process.argv.includes('--men') ? 'men' : 'women';
 const savedRiders = group === 'men' ? mensRiders : womensRiders;
 const teams = group === 'men' ? mensTeams : womensTeams;
+const year = years[0];
 
 // Either read data/{group}/riders.json or fetch it from the UCI API
 const processUci = process.argv.includes('--uci');
@@ -32,17 +37,17 @@ const fetchUciRankingCount = 300;
  * normalized names (they come in format LAST First) to object IDs.
  */
 async function getUciRiderIds() {
-  const ridersFile = `data/${group}/riders.json`;
+  const ridersFile = getRidersFilePath({ group, year });
   let riders: UciRiderRanking[];
   if (fs.existsSync(ridersFile) && !forceUciFetch) {
-    riders = JSON.parse(fs.readFileSync(ridersFile, 'utf8'));
+    riders = readJson(ridersFile);
   } else {
     const result = await getUciRiderRankings({ limit: fetchUciRankingCount, group });
     if (typeof result === 'string') {
       console.error('❌', result);
       process.exit(1);
     }
-    fs.writeFileSync(ridersFile, JSON.stringify(result, null, 2));
+    writeJson(ridersFile, result);
     riders = result;
   }
 

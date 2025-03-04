@@ -1,10 +1,12 @@
 import fs from 'fs';
-import { getDataFilePath } from '../../common/filenames.js';
+import { getHistoryFilePath } from '../../common/filenames.js';
 import type { Group } from '../../common/types/Group.js';
 import type { PointsHistory } from '../../common/types/PointsHistory.js';
 import type { Team } from '../../common/types/Team.js';
 import type { RankingMetadataResult } from './getRankingMetadata.js';
 import { formatNumericDate } from '../../common/formatDate.js';
+import { writeJson } from './writeJson.js';
+import { readJson } from './readJson.js';
 
 /**
  * Update points history file and fill in `movement` property of teams.
@@ -14,10 +16,10 @@ export function updateHistory(
 ): void {
   const { group, teams, fileDate } = params;
 
-  const historyPath = getDataFilePath({ group, history: true, year: fileDate.getFullYear() });
+  const historyPath = getHistoryFilePath({ group, year: fileDate.getFullYear() });
   let history: PointsHistory;
   if (fs.existsSync(historyPath)) {
-    history = JSON.parse(fs.readFileSync(historyPath, 'utf-8'));
+    history = readJson(historyPath);
   } else {
     history = {
       dates: [],
@@ -60,7 +62,7 @@ export function updateHistory(
 
   updateMovement({ teams, history, comparisonIndex });
 
-  fs.writeFileSync(historyPath, JSON.stringify(history, null, 2));
+  writeJson(historyPath, history);
 }
 
 /**

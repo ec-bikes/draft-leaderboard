@@ -4,43 +4,43 @@ import type { Group } from './types/Group.js';
 /** Matches a dated summary file basename. Group 1 is the date YYYY-MM-DD. */
 export const datedSummaryFileRegex = /^summary-(\d{4}-\d{2}-\d{2})\.json$/;
 
-/**
- * Get the path for a data file.
- * Provide exactly ONE of the optional props to determine the file type.
- *
- * (Unfortunately this can't be used for dynamic imports of data files,
- * but it at least serves as a central reference.)
- */
-export function getDataFilePath(params: {
+interface FileParams {
   group: Group;
   year: number;
-  /** Main summary file */
-  summary?: boolean;
-  /** Dated summary file under `/previous/` */
-  summaryDate?: Date;
-  /** Team details file */
-  owner?: string;
-  /** Points history file */
-  history?: boolean;
-}): string {
-  const { group, year, summary, owner, summaryDate, history } = params;
+}
 
-  let root = `data/${group}`;
-  if (year !== new Date().getFullYear()) {
-    root += `${year}`;
-  }
-  if (summary) {
-    return `${root}/summary.json`;
-  }
-  if (summaryDate) {
-    // Should match datedSummaryFileRegex
-    return `${root}/previous/summary-${formatNumericDate(summaryDate)}.json`;
-  }
-  if (owner) {
-    return `${root}/details/${owner.split(' ')[0].toLowerCase()}.json`;
-  }
-  if (history) {
-    return `${root}/history.json`;
-  }
-  throw new Error('Missing type of file');
+function getBasePath({ group, year }: FileParams) {
+  const root = `data/${group}` as const;
+  return year === new Date().getFullYear() ? root : (`${root}${year}` as const);
+}
+
+/** Get the path to a summary data file. */
+export function getSummaryFilePath(
+  params: FileParams & {
+    /** If provided, returns a dated summary file path under `/previous/`. */
+    summaryDate?: Date;
+  },
+) {
+  const { summaryDate } = params;
+  const base = getBasePath(params);
+  return summaryDate
+    ? // Should match datedSummaryFileRegex
+      (`${base}/previous/summary-${formatNumericDate(summaryDate)}.json` as const)
+    : (`${base}/summary.json` as const);
+}
+
+/** Get a team details data file path. */
+export function getTeamDetailsFilePath(params: FileParams & { owner: string }) {
+  const base = getBasePath(params);
+  return `${base}/details/${params.owner.split(' ')[0].toLowerCase()}.json` as const;
+}
+
+/** Get a history data file path. */
+export function getHistoryFilePath(params: FileParams) {
+  return `${getBasePath(params)}/history.json` as const;
+}
+
+/** Get a UCI rider list data file path. */
+export function getRidersFilePath(params: FileParams) {
+  return `${getBasePath(params)}/riders.json` as const;
 }

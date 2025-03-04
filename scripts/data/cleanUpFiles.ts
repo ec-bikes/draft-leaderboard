@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import { datedSummaryFileRegex, getDataFilePath } from '../../common/filenames.js';
+import { datedSummaryFileRegex, getSummaryFilePath } from '../../common/filenames.js';
 import type { Group } from '../../common/types/Group.js';
 
 /**
@@ -13,7 +13,7 @@ export function cleanUpFiles(group: Group, year: number) {
   const monthAgo = new Date();
   monthAgo.setMonth(monthAgo.getMonth() - 1);
 
-  const previousDir = path.dirname(getDataFilePath({ group, year, summaryDate: monthAgo }));
+  const previousDir = path.dirname(getSummaryFilePath({ group, year, summaryDate: monthAgo }));
   const previousFiles = fs.readdirSync(previousDir).sort();
   for (const file of previousFiles) {
     const fileDateStr = file.match(datedSummaryFileRegex)?.[1];
