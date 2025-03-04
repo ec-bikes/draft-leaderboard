@@ -1,8 +1,8 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 188995,
-  "fetchedDate": "3 Mar 2025, 23:21 GMT",
+  "momentId": 189039,
+  "fetchedDate": "4 Mar 2025, 23:21 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
@@ -283,7 +283,7 @@
       {
         "name": "Laurence Pithie",
         "id": 221617,
-        "sanctions": 0,
+        "sanctions": 10,
         "results": [
           {
             "name": "National Championships New Zealand ME - ITT",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 189001,
-  "fetchedDate": "3 Mar 2025, 23:21 GMT",
+  "momentId": 189057,
+  "fetchedDate": "4 Mar 2025, 23:21 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 1514,
+    "totalPoints": 1524,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -116,6 +116,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Le Samyn des Dames",
+            "date": "04 Mar 2025",
+            "points": 10,
+            "rank": 12
+          },
+          {
             "name": "Fenix Omloop van het Hageland",
             "date": "02 Mar 2025",
             "points": 30,
@@ -128,7 +134,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 70
+        "totalPoints": 80
       },
       {
         "name": "Anna Henderson",

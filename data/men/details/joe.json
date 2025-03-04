@@ -1,19 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 188995,
-  "fetchedDate": "3 Mar 2025, 23:21 GMT",
+  "momentId": 189039,
+  "fetchedDate": "4 Mar 2025, 23:21 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 916,
+    "totalPoints": 1041,
     "riders": [
       {
         "name": "Mathieu van der Poel",
         "id": 79462,
         "sanctions": 0,
-        "results": [],
-        "totalPoints": 0
+        "results": [
+          {
+            "name": "Ename Samyn Classic",
+            "date": "04 Mar 2025",
+            "points": 125,
+            "rank": 1
+          }
+        ],
+        "totalPoints": 125
       },
       {
         "name": "Mads Pedersen",

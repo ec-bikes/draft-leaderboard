@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 189001,
-  "fetchedDate": "3 Mar 2025, 23:21 GMT",
+  "momentId": 189057,
+  "fetchedDate": "4 Mar 2025, 23:21 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 1562,
+    "totalPoints": 1587,
     "riders": [
       {
         "name": "Liane Lippert",
@@ -217,8 +217,15 @@
         "name": "Letizia Paternoster",
         "id": 153363,
         "sanctions": 0,
-        "results": [],
-        "totalPoints": 0
+        "results": [
+          {
+            "name": "Le Samyn des Dames",
+            "date": "04 Mar 2025",
+            "points": 25,
+            "rank": 9
+          }
+        ],
+        "totalPoints": 25
       },
       {
         "name": "Pauline Ferrand-Prévot",

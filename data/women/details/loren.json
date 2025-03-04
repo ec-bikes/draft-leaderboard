@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 189001,
-  "fetchedDate": "3 Mar 2025, 23:21 GMT",
+  "momentId": 189057,
+  "fetchedDate": "4 Mar 2025, 23:21 GMT",
   "team": {
     "owner": "Loren Rowney",
     "name": "(TBD)",
-    "totalPoints": 2030,
+    "totalPoints": 2080,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -217,6 +217,12 @@
         "sanctions": 0,
         "results": [
           {
+            "name": "Le Samyn des Dames",
+            "date": "04 Mar 2025",
+            "points": 50,
+            "rank": 5
+          },
+          {
             "name": "Surf Coast Classic - Women",
             "date": "29 Jan 2025",
             "points": 70,
@@ -229,7 +235,7 @@
             "rank": 2
           }
         ],
-        "totalPoints": 220
+        "totalPoints": 270
       }
     ]
   }

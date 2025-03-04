@@ -1,18 +1,24 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "momentId": 189001,
-  "fetchedDate": "3 Mar 2025, 23:21 GMT",
+  "momentId": 189057,
+  "fetchedDate": "4 Mar 2025, 23:21 GMT",
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 1712,
+    "totalPoints": 1837,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
         "sanctions": 0,
         "results": [
+          {
+            "name": "Le Samyn des Dames",
+            "date": "04 Mar 2025",
+            "points": 125,
+            "rank": 1
+          },
           {
             "name": "Omloop Nieuwsblad WE",
             "date": "01 Mar 2025",
@@ -54,7 +60,7 @@
             "points": 8
           }
         ],
-        "totalPoints": 386
+        "totalPoints": 511
       },
       {
         "name": "Evita Muzic",
