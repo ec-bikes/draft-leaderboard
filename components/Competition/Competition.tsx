@@ -3,21 +3,14 @@ import { TeamCards } from '../TeamCards/TeamCards';
 import type { Group } from '../../common/types/Group';
 import { getUciSeasonRankingUrl } from '../../common/uciUrls.js';
 import { spacing } from '../theme.js';
-import type { TeamsSummaryJson } from '../../common/types/TeamJson.js';
-import type { Draft } from '../../common/types/Draft.js';
 import { formatDate } from '../../common/formatDate.js';
 import { years } from '../../common/constants.js';
 import { getPageUrl } from '../../common/pageUrls.js';
-import type { PointsHistory } from '../../common/types/PointsHistory.js';
+import type { ClientData } from '../../common/types/ClientData.js';
 
-export interface CompetitionProps extends Draft {
-  group: Group;
-  teamData: TeamsSummaryJson;
-  history?: PointsHistory;
-}
-
-export function Competition(props: CompetitionProps) {
-  const { group, podcast, link, teamData, tradeDate, year } = props;
+export function Competition(props: ClientData) {
+  const { teamData, draft } = props;
+  const { group, year, podcast, link, tradeDate } = draft;
   const { source } = teamData;
 
   const linkText = (

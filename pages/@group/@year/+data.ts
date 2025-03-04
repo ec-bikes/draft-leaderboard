@@ -1,8 +1,8 @@
 import type { PageContext } from 'vike/types';
-import type { CompetitionProps } from '../../../components/Competition/Competition.js';
+import type { ClientData } from '../../../common/types/ClientData.js';
 import { years } from '../../../common/constants.js';
 
-export async function data(pageContext: PageContext): Promise<CompetitionProps | undefined> {
+export async function data(pageContext: PageContext): Promise<ClientData | undefined> {
   const { group, year } = pageContext.routeParams;
 
   const importYear = Number(year) === years[0] ? '' : year;
@@ -12,6 +12,6 @@ export async function data(pageContext: PageContext): Promise<CompetitionProps |
 
   return {
     teamData: summary,
-    ...draft,
+    draft,
   };
 }
