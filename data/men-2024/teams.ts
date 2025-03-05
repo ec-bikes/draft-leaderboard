@@ -1,5 +1,4 @@
-import type { Draft } from '../common/types/Draft.js';
-import type { BaseTeam } from '../common/types/Team.js';
+import type { BaseTeam, Draft } from '../../common/types/index.js';
 
 export const draft: Draft = {
   group: 'men',
