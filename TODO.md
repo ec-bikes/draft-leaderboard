@@ -1,7 +1,5 @@
-- colored card header? or at least number?
-- actual team acronyms and/or flags in rider list
-- actual team names and countries in rider dialog
 - team images
-- rankings graph
+- colored card header? or at least number? (colored number starts to get noisy with up/down arrows, and attempts at a colored background or thick divider line have just looked bad)
+- rankings graph? (probably not because what would it look like? a rankings 1-N line graph is pretty boring, and the scale on a cumulative points by week line graph would get hard to see differences early in the year as the year goes on)
 - asterisk for sanctions?
 - retry for pcs fetch
