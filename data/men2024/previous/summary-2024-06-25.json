@@ -18,19 +18,16 @@
         {
           "name": "Sepp Kuss",
           "id": 88346,
-          "sanctions": 0,
           "totalPoints": 166
         },
         {
           "name": "Matteo Jorgenson",
           "id": 159567,
-          "sanctions": 0,
           "totalPoints": 1677
         },
         {
           "name": "Ben Healy",
           "id": 235075,
-          "sanctions": 0,
           "totalPoints": 371
         },
         {
@@ -42,19 +39,16 @@
         {
           "name": "Toms Skujiņš",
           "id": 68892,
-          "sanctions": 0,
           "totalPoints": 697
         },
         {
           "name": "Alex Aranburu",
           "id": 422863,
-          "sanctions": 0,
           "totalPoints": 813
         },
         {
           "name": "Egan Bernal",
           "id": 95844,
-          "sanctions": 0,
           "totalPoints": 1168
         },
         {
@@ -79,31 +73,26 @@
         {
           "name": "Tadej Pogačar",
           "id": 149727,
-          "sanctions": 0,
           "totalPoints": 5495
         },
         {
           "name": "Neilson Powless",
           "id": 88143,
-          "sanctions": 0,
           "totalPoints": 102
         },
         {
           "name": "Matej Mohoric",
           "id": 86863,
-          "sanctions": 0,
           "totalPoints": 694
         },
         {
           "name": "Victor Lafay",
           "id": 136296,
-          "sanctions": 0,
           "totalPoints": 0
         },
         {
           "name": "Lenny Martinez",
           "id": 1843476,
-          "sanctions": 0,
           "totalPoints": 1221
         },
         {
@@ -121,19 +110,16 @@
         {
           "name": "Enric Mas",
           "id": 109803,
-          "sanctions": 0,
           "totalPoints": 659
         },
         {
           "name": "Rui Costa",
           "id": 32596,
-          "sanctions": 0,
           "totalPoints": 220
         },
         {
           "name": "Guillaume Martin",
           "id": 75170,
-          "sanctions": 0,
           "totalPoints": 482
         }
       ]
@@ -146,25 +132,21 @@
         {
           "name": "Primož Roglič",
           "id": 88889,
-          "sanctions": 0,
           "totalPoints": 931
         },
         {
           "name": "Biniam Girmay",
           "id": 1707195,
-          "sanctions": 0,
           "totalPoints": 1084
         },
         {
           "name": "Tom Pidcock",
           "id": 109775,
-          "sanctions": 0,
           "totalPoints": 1536
         },
         {
           "name": "Olav Kooij",
           "id": 227110,
-          "sanctions": 0,
           "totalPoints": 1067
         },
         {
@@ -176,19 +158,16 @@
         {
           "name": "Richard Carapaz",
           "id": 91656,
-          "sanctions": 0,
           "totalPoints": 534
         },
         {
           "name": "Jhonatan Narváez",
           "id": 96372,
-          "sanctions": 0,
           "totalPoints": 1415
         },
         {
           "name": "Sam Bennett",
           "id": 65995,
-          "sanctions": 0,
           "totalPoints": 509
         },
         {
@@ -200,7 +179,6 @@
         {
           "name": "Darren Rafferty",
           "id": 171058,
-          "sanctions": 0,
           "totalPoints": 189
         }
       ]
@@ -213,7 +191,6 @@
         {
           "name": "Jonas Vingegaard",
           "id": 112082,
-          "sanctions": 0,
           "totalPoints": 833
         },
         {
@@ -225,7 +202,6 @@
         {
           "name": "Geraint Thomas",
           "id": 32532,
-          "sanctions": 0,
           "totalPoints": 1240
         },
         {
@@ -237,19 +213,16 @@
         {
           "name": "Carlos Rodriguez",
           "id": 428096,
-          "sanctions": 0,
           "totalPoints": 1307
         },
         {
           "name": "Marc Hirschi",
           "id": 111440,
-          "sanctions": 0,
           "totalPoints": 1288
         },
         {
           "name": "Stefan Küng",
           "id": 74994,
-          "sanctions": 0,
           "totalPoints": 872
         },
         {
@@ -261,13 +234,11 @@
         {
           "name": "Arnaud Démare",
           "id": 64670,
-          "sanctions": 0,
           "totalPoints": 111
         },
         {
           "name": "Søren Kragh Andersen",
           "id": 79156,
-          "sanctions": 0,
           "totalPoints": 118
         }
       ]
@@ -280,31 +251,26 @@
         {
           "name": "Remco Evenepoel",
           "id": 1596046,
-          "sanctions": 0,
           "totalPoints": 1275
         },
         {
           "name": "Mathieu van der Poel",
           "id": 79462,
-          "sanctions": 0,
           "totalPoints": 3075
         },
         {
           "name": "Tao Geoghegan Hart",
           "id": 86735,
-          "sanctions": 0,
           "totalPoints": 163
         },
         {
           "name": "Santiago Buitrago",
           "id": 353375,
-          "sanctions": 0,
           "totalPoints": 616
         },
         {
           "name": "Tim Merlier",
           "id": 70962,
-          "sanctions": 0,
           "totalPoints": 1807
         },
         {
@@ -316,25 +282,21 @@
         {
           "name": "Felix Gall",
           "id": 150925,
-          "sanctions": 0,
           "totalPoints": 464
         },
         {
           "name": "Giulio Ciccone",
           "id": 97091,
-          "sanctions": 0,
           "totalPoints": 290
         },
         {
           "name": "Dylan Groenewegen",
           "id": 72932,
-          "sanctions": 0,
           "totalPoints": 902
         },
         {
           "name": "Andrea Bagioli",
           "id": 157221,
-          "sanctions": 0,
           "totalPoints": 101
         }
       ]
@@ -347,7 +309,6 @@
         {
           "name": "Wout van Aert",
           "id": 75859,
-          "sanctions": 0,
           "totalPoints": 845
         },
         {
@@ -359,19 +320,16 @@
         {
           "name": "Sam Welsford",
           "id": 91180,
-          "sanctions": 0,
           "totalPoints": 320
         },
         {
           "name": "Filippo Ganna",
           "id": 91640,
-          "sanctions": 0,
           "totalPoints": 490
         },
         {
           "name": "Pello Bilbao",
           "id": 76092,
-          "sanctions": 0,
           "totalPoints": 925
         },
         {
@@ -383,7 +341,6 @@
         {
           "name": "Lennard Kämna",
           "id": 97741,
-          "sanctions": 0,
           "totalPoints": 159
         },
         {
@@ -395,13 +352,11 @@
         {
           "name": "Wout Poels",
           "id": 1974873,
-          "sanctions": 0,
           "totalPoints": 443
         },
         {
           "name": "Esteban Chaves",
           "id": 75873,
-          "sanctions": 0,
           "totalPoints": 163
         }
       ]
@@ -414,13 +369,11 @@
         {
           "name": "Adam Yates",
           "id": 70590,
-          "sanctions": 0,
           "totalPoints": 1133
         },
         {
           "name": "Mattias Skjelmose",
           "id": 365033,
-          "sanctions": 0,
           "totalPoints": 1499
         },
         {
@@ -438,19 +391,16 @@
         {
           "name": "Kévin Vauquelin",
           "id": 1745291,
-          "sanctions": 0,
           "totalPoints": 808
         },
         {
           "name": "Brandon McNulty",
           "id": 150923,
-          "sanctions": 0,
           "totalPoints": 1464
         },
         {
           "name": "Cian Uijtdebroeks",
           "id": 1789559,
-          "sanctions": 0,
           "totalPoints": 322
         },
         {
@@ -462,13 +412,11 @@
         {
           "name": "Jordi Meeus",
           "id": 148901,
-          "sanctions": 0,
           "totalPoints": 735
         },
         {
           "name": "Casper van Uden",
           "id": 226805,
-          "sanctions": 0,
           "totalPoints": 365
         }
       ]
@@ -481,61 +429,51 @@
         {
           "name": "Jasper Philipsen",
           "id": 148275,
-          "sanctions": 0,
           "totalPoints": 2670
         },
         {
           "name": "Simon Yates",
           "id": 1558112,
-          "sanctions": 0,
           "totalPoints": 391
         },
         {
           "name": "David Gaudu",
           "id": 112351,
-          "sanctions": 0,
           "totalPoints": 396
         },
         {
           "name": "Romain Bardet",
           "id": 64917,
-          "sanctions": 0,
           "totalPoints": 1356
         },
         {
           "name": "Jai Hindley",
           "id": 109829,
-          "sanctions": 0,
           "totalPoints": 583
         },
         {
           "name": "Yves Lampaert",
           "id": 86228,
-          "sanctions": 0,
           "totalPoints": 237
         },
         {
           "name": "Fred Wright",
           "id": 153275,
-          "sanctions": 0,
           "totalPoints": 227
         },
         {
           "name": "Bryan Coquard",
           "id": 68950,
-          "sanctions": 0,
           "totalPoints": 346
         },
         {
           "name": "Romain Grégoire",
           "id": 1759422,
-          "sanctions": 0,
           "totalPoints": 648
         },
         {
           "name": "Jack Haig",
           "id": 78342,
-          "sanctions": 0,
           "totalPoints": 131
         }
       ]
