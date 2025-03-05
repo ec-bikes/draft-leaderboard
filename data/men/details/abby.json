@@ -2,7 +2,7 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 189039,
-  "fetchedDate": "4 Mar 2025, 23:21 GMT",
+  "fetchedDate": "5 Mar 2025, 01:41 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
@@ -11,7 +11,9 @@
       {
         "name": "Wout van Aert",
         "id": 75859,
-        "sanctions": 0,
+        "team": "TVL",
+        "country": "be",
+        "totalPoints": 55,
         "results": [
           {
             "name": "Omloop Nieuwsblad ME",
@@ -25,13 +27,14 @@
             "points": 15,
             "rank": 2
           }
-        ],
-        "totalPoints": 55
+        ]
       },
       {
         "name": "Biniam Girmay",
         "id": 1707195,
-        "sanctions": 0,
+        "team": "IWA",
+        "country": "er",
+        "totalPoints": 173,
         "results": [
           {
             "name": "Volta ao Algarve em Bicicleta - Stage 4",
@@ -63,13 +66,14 @@
             "points": 60,
             "rank": 4
           }
-        ],
-        "totalPoints": 173
+        ]
       },
       {
         "name": "Maxim van Gils",
         "id": 154218,
-        "sanctions": 0,
+        "team": "LOT",
+        "country": "be",
+        "totalPoints": 135,
         "results": [
           {
             "name": "Vuelta a Andalucia Ruta Ciclista Del Sol - General classification",
@@ -94,13 +98,14 @@
             "date": "19 Feb 2025",
             "points": 5
           }
-        ],
-        "totalPoints": 135
+        ]
       },
       {
         "name": "Michal Kwiatkowski",
         "id": 58528,
-        "sanctions": 0,
+        "team": "IGD",
+        "country": "pl",
+        "totalPoints": 145,
         "results": [
           {
             "name": "Clásica Jaén",
@@ -126,13 +131,14 @@
             "points": 5,
             "rank": 52
           }
-        ],
-        "totalPoints": 145
+        ]
       },
       {
         "name": "Filippo Ganna",
         "id": 91640,
-        "sanctions": 0,
+        "team": "IGD",
+        "country": "it",
+        "totalPoints": 15,
         "results": [
           {
             "name": "Volta ao Algarve em Bicicleta - Stage 4",
@@ -146,13 +152,14 @@
             "points": 5,
             "rank": 29
           }
-        ],
-        "totalPoints": 15
+        ]
       },
       {
         "name": "Tao Geoghegan Hart",
         "id": 86735,
-        "sanctions": 0,
+        "team": "LTK",
+        "country": "gb",
+        "totalPoints": 48,
         "results": [
           {
             "name": "Faun Drome Classic",
@@ -172,13 +179,14 @@
             "points": 5,
             "rank": 25
           }
-        ],
-        "totalPoints": 48
+        ]
       },
       {
         "name": "David Gaudu",
         "id": 112351,
-        "sanctions": 0,
+        "team": "GFC",
+        "country": "fr",
+        "totalPoints": 170,
         "results": [
           {
             "name": "Tour of Oman - General classification",
@@ -214,13 +222,14 @@
             "points": 5,
             "rank": 13
           }
-        ],
-        "totalPoints": 170
+        ]
       },
       {
         "name": "Finn Fisher-Black",
         "id": 217083,
-        "sanctions": 0,
+        "team": "RBH",
+        "country": "nz",
+        "totalPoints": 640,
         "results": [
           {
             "name": "UAE Tour - General classification",
@@ -282,13 +291,14 @@
             "points": 30,
             "rank": 3
           }
-        ],
-        "totalPoints": 640
+        ]
       },
       {
         "name": "Thymen Arensman",
         "id": 109481,
-        "sanctions": 0,
+        "team": "IGD",
+        "country": "nl",
+        "totalPoints": 111,
         "results": [
           {
             "name": "Volta ao Algarve em Bicicleta - General classification",
@@ -320,13 +330,14 @@
             "points": 0.43,
             "rank": 5
           }
-        ],
-        "totalPoints": 111
+        ]
       },
       {
         "name": "Patrick Konrad",
         "id": 71677,
-        "sanctions": 0,
+        "team": "LTK",
+        "country": "at",
+        "totalPoints": 192,
         "results": [
           {
             "name": "UAE Tour - General classification",
@@ -370,8 +381,7 @@
             "points": 15,
             "rank": 6
           }
-        ],
-        "totalPoints": 192
+        ]
       }
     ]
   }

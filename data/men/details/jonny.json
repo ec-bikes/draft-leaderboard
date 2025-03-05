@@ -2,7 +2,7 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 189039,
-  "fetchedDate": "4 Mar 2025, 23:21 GMT",
+  "fetchedDate": "5 Mar 2025, 01:41 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
@@ -11,7 +11,9 @@
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
-        "sanctions": 0,
+        "team": "TVL",
+        "country": "dk",
+        "totalPoints": 220,
         "results": [
           {
             "name": "Volta ao Algarve em Bicicleta - General classification",
@@ -25,13 +27,14 @@
             "points": 20,
             "rank": 1
           }
-        ],
-        "totalPoints": 220
+        ]
       },
       {
         "name": "Mattias Skjelmose",
         "id": 365033,
-        "sanctions": 0,
+        "team": "LTK",
+        "country": "dk",
+        "totalPoints": 220,
         "results": [
           {
             "name": "Faun Drome Classic",
@@ -45,13 +48,14 @@
             "points": 70,
             "rank": 6
           }
-        ],
-        "totalPoints": 220
+        ]
       },
       {
         "name": "Enric Mas",
         "id": 109803,
-        "sanctions": 0,
+        "team": "MOV",
+        "country": "es",
+        "totalPoints": 51,
         "results": [
           {
             "name": "Faun Drome Classic",
@@ -77,13 +81,14 @@
             "points": 3,
             "rank": 5
           }
-        ],
-        "totalPoints": 51
+        ]
       },
       {
         "name": "Oscar Onley",
         "id": 1710249,
-        "sanctions": 0,
+        "team": "TPP",
+        "country": "gb",
+        "totalPoints": 540,
         "results": [
           {
             "name": "UAE Tour - General classification",
@@ -127,13 +132,14 @@
             "points": 40,
             "rank": 2
           }
-        ],
-        "totalPoints": 540
+        ]
       },
       {
         "name": "Santiago Buitrago",
         "id": 353375,
-        "sanctions": 0,
+        "team": "TBV",
+        "country": "co",
+        "totalPoints": 460,
         "results": [
           {
             "name": "Tour des Alpes-Maritimes - General classification",
@@ -188,20 +194,22 @@
             "points": 60,
             "rank": 4
           }
-        ],
-        "totalPoints": 460
+        ]
       },
       {
         "name": "Christophe Laporte",
         "id": 81980,
-        "sanctions": 0,
-        "results": [],
-        "totalPoints": 0
+        "team": "TVL",
+        "country": "fr",
+        "totalPoints": 0,
+        "results": []
       },
       {
         "name": "Valentin Madouas",
         "id": 91637,
-        "sanctions": 0,
+        "team": "GFC",
+        "country": "fr",
+        "totalPoints": 20,
         "results": [
           {
             "name": "Faun Drome Classic",
@@ -215,20 +223,22 @@
             "points": 5,
             "rank": 29
           }
-        ],
-        "totalPoints": 20
+        ]
       },
       {
         "name": "Geraint Thomas",
         "id": 32532,
-        "sanctions": 0,
-        "results": [],
-        "totalPoints": 0
+        "team": "IGD",
+        "country": "gb",
+        "totalPoints": 0,
+        "results": []
       },
       {
         "name": "Christian Scaroni",
         "id": 144019,
-        "sanctions": 0,
+        "team": "XAT",
+        "country": "it",
+        "totalPoints": 645,
         "results": [
           {
             "name": "Faun-Ardèche Classic",
@@ -289,13 +299,14 @@
             "points": 50,
             "rank": 5
           }
-        ],
-        "totalPoints": 645
+        ]
       },
       {
         "name": "Antonio Tiberi",
         "id": 308040,
-        "sanctions": 0,
+        "team": "TBV",
+        "country": "it",
+        "totalPoints": 15,
         "results": [
           {
             "name": "Volta ao Algarve em Bicicleta - General classification",
@@ -309,8 +320,7 @@
             "points": 10,
             "rank": 3
           }
-        ],
-        "totalPoints": 15
+        ]
       }
     ]
   }

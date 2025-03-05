@@ -2,7 +2,7 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 189039,
-  "fetchedDate": "4 Mar 2025, 23:21 GMT",
+  "fetchedDate": "5 Mar 2025, 01:41 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
@@ -11,7 +11,9 @@
       {
         "name": "Mathieu van der Poel",
         "id": 79462,
-        "sanctions": 0,
+        "team": "ADC",
+        "country": "nl",
+        "totalPoints": 125,
         "results": [
           {
             "name": "Ename Samyn Classic",
@@ -19,13 +21,14 @@
             "points": 125,
             "rank": 1
           }
-        ],
-        "totalPoints": 125
+        ]
       },
       {
         "name": "Mads Pedersen",
         "id": 86895,
-        "sanctions": 0,
+        "team": "LTK",
+        "country": "dk",
+        "totalPoints": 142,
         "results": [
           {
             "name": "Tour de la Provence - General classification",
@@ -44,13 +47,14 @@
             "date": "15 Feb 2025",
             "points": 3
           }
-        ],
-        "totalPoints": 142
+        ]
       },
       {
         "name": "Brandon McNulty",
         "id": 150923,
-        "sanctions": 0,
+        "team": "UAD",
+        "country": "us",
+        "totalPoints": 146,
         "results": [
           {
             "name": "Faun-Ardèche Classic",
@@ -76,13 +80,14 @@
             "points": 1.43,
             "rank": 3
           }
-        ],
-        "totalPoints": 146
+        ]
       },
       {
         "name": "Aleksandr Vlasov",
         "id": 97280,
-        "sanctions": 0,
+        "team": "RBH",
+        "country": "ru",
+        "totalPoints": 6,
         "results": [
           {
             "name": "Volta a la Comunitat Valenciana - General classification",
@@ -96,13 +101,14 @@
             "points": 0.71,
             "rank": 4
           }
-        ],
-        "totalPoints": 6
+        ]
       },
       {
         "name": "Jan Christen",
         "id": 462394,
-        "sanctions": 0,
+        "team": "UAD",
+        "country": "ch",
+        "totalPoints": 260,
         "results": [
           {
             "name": "Volta ao Algarve em Bicicleta - General classification",
@@ -149,13 +155,14 @@
             "points": 50,
             "rank": 5
           }
-        ],
-        "totalPoints": 260
+        ]
       },
       {
         "name": "Axel Zingle",
         "id": 101278,
-        "sanctions": 0,
+        "team": "TVL",
+        "country": "fr",
+        "totalPoints": 3,
         "results": [
           {
             "name": "Faun Drome Classic",
@@ -163,13 +170,14 @@
             "points": 3,
             "rank": 37
           }
-        ],
-        "totalPoints": 3
+        ]
       },
       {
         "name": "Tobias Andresen",
         "id": 482927,
-        "sanctions": 0,
+        "team": "TPP",
+        "country": "dk",
+        "totalPoints": 211,
         "results": [
           {
             "name": "UAE Tour - General classification",
@@ -213,13 +221,14 @@
             "points": 20,
             "rank": 5
           }
-        ],
-        "totalPoints": 211
+        ]
       },
       {
         "name": "Diego Ulissi",
         "id": 54679,
-        "sanctions": 0,
+        "team": "XAT",
+        "country": "it",
+        "totalPoints": 95,
         "results": [
           {
             "name": "Muscat Classic",
@@ -233,13 +242,14 @@
             "points": 35,
             "rank": 7
           }
-        ],
-        "totalPoints": 95
+        ]
       },
       {
         "name": "Mauri Vansevenant",
         "id": 154227,
-        "sanctions": 0,
+        "team": "SOQ",
+        "country": "be",
+        "totalPoints": 53,
         "results": [
           {
             "name": "O Gran Camiño -  The Historical Route - General classification",
@@ -259,15 +269,15 @@
             "points": 25,
             "rank": 9
           }
-        ],
-        "totalPoints": 53
+        ]
       },
       {
         "name": "Alberto Bettiol",
         "id": 86630,
-        "sanctions": 0,
-        "results": [],
-        "totalPoints": 0
+        "team": "XAT",
+        "country": "it",
+        "totalPoints": 0,
+        "results": []
       }
     ]
   }

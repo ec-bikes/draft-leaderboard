@@ -2,7 +2,7 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 189057,
-  "fetchedDate": "4 Mar 2025, 23:21 GMT",
+  "fetchedDate": "5 Mar 2025, 01:41 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
@@ -11,7 +11,9 @@
       {
         "name": "Elisa Longo Borghini",
         "id": 76149,
-        "sanctions": 0,
+        "team": "UAD",
+        "country": "it",
+        "totalPoints": 483,
         "results": [
           {
             "name": "UAE Tour Women - General classification",
@@ -36,20 +38,22 @@
             "points": 25,
             "rank": 4
           }
-        ],
-        "totalPoints": 483
+        ]
       },
       {
         "name": "Marianne Vos",
         "id": 31144,
-        "sanctions": 0,
-        "results": [],
-        "totalPoints": 0
+        "team": "TVL",
+        "country": "nl",
+        "totalPoints": 0,
+        "results": []
       },
       {
         "name": "Pfeiffer Georgi",
         "id": 153350,
-        "sanctions": 0,
+        "team": "TPP",
+        "country": "gb",
+        "totalPoints": 188,
         "results": [
           {
             "name": "Omloop Nieuwsblad WE",
@@ -63,13 +67,14 @@
             "points": 68,
             "rank": 10
           }
-        ],
-        "totalPoints": 188
+        ]
       },
       {
         "name": "Karlijn Swinkels",
         "id": 98571,
-        "sanctions": 0,
+        "team": "UAD",
+        "country": "nl",
+        "totalPoints": 599,
         "results": [
           {
             "name": "UAE Tour Women - General classification",
@@ -107,13 +112,14 @@
             "points": 24,
             "rank": 20
           }
-        ],
-        "totalPoints": 599
+        ]
       },
       {
         "name": "Charlotte Kool",
         "id": 157612,
-        "sanctions": 0,
+        "team": "TPP",
+        "country": "nl",
+        "totalPoints": 80,
         "results": [
           {
             "name": "Le Samyn des Dames",
@@ -133,13 +139,14 @@
             "points": 40,
             "rank": 2
           }
-        ],
-        "totalPoints": 80
+        ]
       },
       {
         "name": "Anna Henderson",
         "id": 237690,
-        "sanctions": 0,
+        "team": "LTK",
+        "country": "gb",
+        "totalPoints": 3,
         "results": [
           {
             "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classification",
@@ -147,13 +154,14 @@
             "points": 3,
             "rank": 28
           }
-        ],
-        "totalPoints": 3
+        ]
       },
       {
         "name": "Chiara Consonni",
         "id": 156600,
-        "sanctions": 0,
+        "team": "CSZ",
+        "country": "it",
+        "totalPoints": 100,
         "results": [
           {
             "name": "UAE Tour Women - Stage 2",
@@ -167,20 +175,22 @@
             "points": 85,
             "rank": 2
           }
-        ],
-        "totalPoints": 100
+        ]
       },
       {
         "name": "Shirin van Anrooij",
         "id": 228375,
-        "sanctions": 0,
-        "results": [],
-        "totalPoints": 0
+        "team": "LTK",
+        "country": "nl",
+        "totalPoints": 0,
+        "results": []
       },
       {
         "name": "Ingvild Gåskjenn",
         "id": 101715,
-        "sanctions": 0,
+        "team": "UXM",
+        "country": "no",
+        "totalPoints": 68,
         "results": [
           {
             "name": "Omloop Nieuwsblad WE",
@@ -212,13 +222,14 @@
             "points": 15,
             "rank": 14
           }
-        ],
-        "totalPoints": 68
+        ]
       },
       {
         "name": "Scarlett Souren",
         "id": 233425,
-        "sanctions": 0,
+        "team": "VWT",
+        "country": "nl",
+        "totalPoints": 3,
         "results": [
           {
             "name": "Fenix Omloop van het Hageland",
@@ -226,8 +237,7 @@
             "points": 3,
             "rank": 25
           }
-        ],
-        "totalPoints": 3
+        ]
       }
     ]
   }

@@ -2,7 +2,7 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 189039,
-  "fetchedDate": "4 Mar 2025, 23:21 GMT",
+  "fetchedDate": "5 Mar 2025, 01:41 GMT",
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
@@ -11,14 +11,17 @@
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
-        "sanctions": 0,
-        "results": [],
-        "totalPoints": 0
+        "team": "SOQ",
+        "country": "be",
+        "totalPoints": 0,
+        "results": []
       },
       {
         "name": "Tim Merlier",
         "id": 70962,
-        "sanctions": 0,
+        "team": "SOQ",
+        "country": "be",
+        "totalPoints": 146,
         "results": [
           {
             "name": "Kuurne - Brussel - Kuurne",
@@ -61,13 +64,14 @@
             "date": "28 Jan 2025",
             "points": 3
           }
-        ],
-        "totalPoints": 146
+        ]
       },
       {
         "name": "Ben O'Connor",
         "id": 97805,
-        "sanctions": 0,
+        "team": "JAY",
+        "country": "au",
+        "totalPoints": 37,
         "results": [
           {
             "name": "Volta a la Comunitat Valenciana - General classification",
@@ -81,13 +85,14 @@
             "points": 2.14,
             "rank": 2
           }
-        ],
-        "totalPoints": 37
+        ]
       },
       {
         "name": "Pello Bilbao",
         "id": 76092,
-        "sanctions": 0,
+        "team": "TBV",
+        "country": "es",
+        "totalPoints": 383,
         "results": [
           {
             "name": "UAE Tour - General classification",
@@ -125,13 +130,14 @@
             "points": 15,
             "rank": 2
           }
-        ],
-        "totalPoints": 383
+        ]
       },
       {
         "name": "Giulio Ciccone",
         "id": 97091,
-        "sanctions": 0,
+        "team": "LTK",
+        "country": "it",
+        "totalPoints": 285,
         "results": [
           {
             "name": "UAE Tour - General classification",
@@ -151,13 +157,14 @@
             "points": 10,
             "rank": 5
           }
-        ],
-        "totalPoints": 285
+        ]
       },
       {
         "name": "Lenny Martinez",
         "id": 1843476,
-        "sanctions": 0,
+        "team": "TBV",
+        "country": "fr",
+        "totalPoints": 133,
         "results": [
           {
             "name": "Tour des Alpes-Maritimes - General classification",
@@ -183,13 +190,14 @@
             "points": 30,
             "rank": 11
           }
-        ],
-        "totalPoints": 133
+        ]
       },
       {
         "name": "Mathias Vacek",
         "id": 472995,
-        "sanctions": 0,
+        "team": "LTK",
+        "country": "cz",
+        "totalPoints": 183,
         "results": [
           {
             "name": "Omloop Nieuwsblad ME",
@@ -225,13 +233,14 @@
             "date": "05 Feb 2025",
             "points": 5
           }
-        ],
-        "totalPoints": 183
+        ]
       },
       {
         "name": "Milan Fretin",
         "id": 1714193,
-        "sanctions": 0,
+        "team": "COF",
+        "country": "be",
+        "totalPoints": 258,
         "results": [
           {
             "name": "Kuurne - Brussel - Kuurne",
@@ -257,13 +266,14 @@
             "points": 200,
             "rank": 1
           }
-        ],
-        "totalPoints": 258
+        ]
       },
       {
         "name": "Maximilian Schachmann",
         "id": 86938,
-        "sanctions": 0,
+        "team": "SOQ",
+        "country": "de",
+        "totalPoints": 88,
         "results": [
           {
             "name": "Volta ao Algarve em Bicicleta - General classification",
@@ -277,13 +287,15 @@
             "points": 3,
             "rank": 5
           }
-        ],
-        "totalPoints": 88
+        ]
       },
       {
         "name": "Laurence Pithie",
         "id": 221617,
         "sanctions": 10,
+        "team": "RBH",
+        "country": "nz",
+        "totalPoints": 225,
         "results": [
           {
             "name": "National Championships New Zealand ME - ITT",
@@ -297,8 +309,7 @@
             "points": 215,
             "rank": 3
           }
-        ],
-        "totalPoints": 225
+        ]
       }
     ]
   }

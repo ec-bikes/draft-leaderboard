@@ -7,17 +7,25 @@ function getParams(
   tradeDate: string = '2021-01-03',
 ): Parameters<typeof getTeamData>[0] {
   const name = 'rider';
+  const id = 1;
   return {
     source: 'pcs',
     momentId: 1,
     draft: { group: 'women', year: 2021, tradeDate },
-    riderIds: { [name]: 1 },
+    getRiderId: () => id,
     team: {
       owner: 'owner',
       name: 'team',
       tradedIn: params.tradedIn ? name : undefined,
       tradedOut: params.tradedOut ? name : undefined,
       riders: [name],
+    },
+    uciRiderInfo: {
+      [id]: {
+        name,
+        team: 'ABC',
+        country: 'us',
+      },
     },
   };
 }

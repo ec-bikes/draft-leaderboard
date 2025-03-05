@@ -6,7 +6,7 @@ import type { HTMLElement as BasicHTMLElement } from 'node-html-parser';
  */
 export function getPcsRiderTotals(params: { pcsUrl: string; resultsSum: BasicHTMLElement }): {
   uciPoints: number;
-  sanctions: number;
+  sanctions: number | undefined;
 } {
   const { pcsUrl, resultsSum } = params;
 
@@ -24,6 +24,7 @@ export function getPcsRiderTotals(params: { pcsUrl: string; resultsSum: BasicHTM
 
   return {
     uciPoints: Number(uciPointsText) || 0,
-    sanctions: Number(resultsSum.textContent.match(/Penalties: ([\d.]+)/)?.[1]) || 0,
+    // Use undefined if not set so it won't be included in the JSON
+    sanctions: Number(resultsSum.textContent.match(/Penalties: ([\d.]+)/)?.[1]) || undefined,
   };
 }

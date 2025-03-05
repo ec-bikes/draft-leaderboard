@@ -2,7 +2,7 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 189039,
-  "fetchedDate": "4 Mar 2025, 23:21 GMT",
+  "fetchedDate": "5 Mar 2025, 01:41 GMT",
   "team": {
     "owner": "Andrew (Discord)",
     "name": "Groupama-FDJ-Tourtel Twist",
@@ -11,7 +11,9 @@
       {
         "name": "Adam Yates",
         "id": 70590,
-        "sanctions": 0,
+        "team": "UAD",
+        "country": "gb",
+        "totalPoints": 233,
         "results": [
           {
             "name": "Tour of Oman - General classification",
@@ -37,13 +39,14 @@
             "points": 3,
             "rank": 25
           }
-        ],
-        "totalPoints": 233
+        ]
       },
       {
         "name": "João Almeida",
         "id": 107840,
-        "sanctions": 0,
+        "team": "UAD",
+        "country": "pt",
+        "totalPoints": 346,
         "results": [
           {
             "name": "Volta ao Algarve em Bicicleta - General classification",
@@ -92,13 +95,14 @@
             "points": 1.43,
             "rank": 3
           }
-        ],
-        "totalPoints": 346
+        ]
       },
       {
         "name": "Olav Kooij",
         "id": 227110,
-        "sanctions": 0,
+        "team": "TVL",
+        "country": "nl",
+        "totalPoints": 195,
         "results": [
           {
             "name": "Kuurne - Brussel - Kuurne",
@@ -123,13 +127,14 @@
             "date": "08 Feb 2025",
             "points": 5
           }
-        ],
-        "totalPoints": 195
+        ]
       },
       {
         "name": "Kévin Vauquelin",
         "id": 1745291,
-        "sanctions": 0,
+        "team": "ARK",
+        "country": "fr",
+        "totalPoints": 219,
         "results": [
           {
             "name": "Classic Var",
@@ -166,13 +171,14 @@
             "points": 3,
             "rank": 20
           }
-        ],
-        "totalPoints": 219
+        ]
       },
       {
         "name": "Pavel Sivakov",
         "id": 111343,
-        "sanctions": 0,
+        "team": "UAD",
+        "country": "fr",
+        "totalPoints": 246,
         "results": [
           {
             "name": "Vuelta a Andalucia Ruta Ciclista Del Sol - General classification",
@@ -219,13 +225,14 @@
             "points": 1.43,
             "rank": 3
           }
-        ],
-        "totalPoints": 246
+        ]
       },
       {
         "name": "Tim Wellens",
         "id": 64531,
-        "sanctions": 0,
+        "team": "UAD",
+        "country": "be",
+        "totalPoints": 155,
         "results": [
           {
             "name": "Omloop Nieuwsblad ME",
@@ -257,20 +264,22 @@
             "points": 30,
             "rank": 8
           }
-        ],
-        "totalPoints": 155
+        ]
       },
       {
         "name": "Dylan van Baarle",
         "id": 68844,
-        "sanctions": 0,
-        "results": [],
-        "totalPoints": 0
+        "team": "TVL",
+        "country": "nl",
+        "totalPoints": 0,
+        "results": []
       },
       {
         "name": "Felix Gall",
         "id": 150925,
-        "sanctions": 0,
+        "team": "DAT",
+        "country": "at",
+        "totalPoints": 40,
         "results": [
           {
             "name": "UAE Tour - General classification",
@@ -284,13 +293,14 @@
             "points": 20,
             "rank": 3
           }
-        ],
-        "totalPoints": 40
+        ]
       },
       {
         "name": "Pablo Castrillo",
         "id": 373832,
-        "sanctions": 0,
+        "team": "MOV",
+        "country": "es",
+        "totalPoints": 139,
         "results": [
           {
             "name": "UAE Tour - General classification",
@@ -322,13 +332,14 @@
             "points": 25,
             "rank": 12
           }
-        ],
-        "totalPoints": 139
+        ]
       },
       {
         "name": "Marc Soler",
         "id": 89223,
-        "sanctions": 0,
+        "team": "UAD",
+        "country": "es",
+        "totalPoints": 65,
         "results": [
           {
             "name": "Vuelta a Andalucia Ruta Ciclista Del Sol - General classification",
@@ -342,8 +353,7 @@
             "points": 5,
             "rank": 4
           }
-        ],
-        "totalPoints": 65
+        ]
       }
     ]
   }

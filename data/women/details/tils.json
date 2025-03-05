@@ -2,7 +2,7 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 189057,
-  "fetchedDate": "4 Mar 2025, 23:21 GMT",
+  "fetchedDate": "5 Mar 2025, 01:41 GMT",
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
@@ -11,7 +11,9 @@
       {
         "name": "Liane Lippert",
         "id": 140495,
-        "sanctions": 0,
+        "team": "MOV",
+        "country": "de",
+        "totalPoints": 143,
         "results": [
           {
             "name": "Omloop Nieuwsblad WE",
@@ -49,13 +51,14 @@
             "points": 10,
             "rank": 5
           }
-        ],
-        "totalPoints": 143
+        ]
       },
       {
         "name": "Anna van der Breggen",
         "id": 59726,
-        "sanctions": 0,
+        "team": "SDW",
+        "country": "nl",
+        "totalPoints": 175,
         "results": [
           {
             "name": "Fenix Omloop van het Hageland",
@@ -75,13 +78,14 @@
             "points": 15,
             "rank": 3
           }
-        ],
-        "totalPoints": 175
+        ]
       },
       {
         "name": "Marlen Reusser",
         "id": 1589305,
-        "sanctions": 0,
+        "team": "MOV",
+        "country": "ch",
+        "totalPoints": 314,
         "results": [
           {
             "name": "Omloop Nieuwsblad WE",
@@ -119,13 +123,14 @@
             "points": 125,
             "rank": 1
           }
-        ],
-        "totalPoints": 314
+        ]
       },
       {
         "name": "Ally Wollaston",
         "id": 220562,
-        "sanctions": 0,
+        "team": "TFS",
+        "country": "nz",
+        "totalPoints": 775,
         "results": [
           {
             "name": "Clasica de Almeria WE",
@@ -169,13 +174,14 @@
             "points": 40,
             "rank": 2
           }
-        ],
-        "totalPoints": 775
+        ]
       },
       {
         "name": "Neve Bradbury",
         "id": 1987823,
-        "sanctions": 0,
+        "team": "CSZ",
+        "country": "au",
+        "totalPoints": 125,
         "results": [
           {
             "name": "Santos Tour Down Under - General classification",
@@ -189,34 +195,38 @@
             "points": 25,
             "rank": 4
           }
-        ],
-        "totalPoints": 125
+        ]
       },
       {
         "name": "Cat Ferguson",
         "id": 2317617,
-        "sanctions": 0,
-        "results": [],
-        "totalPoints": 0
+        "team": "MOV",
+        "country": "gb",
+        "totalPoints": 0,
+        "results": []
       },
       {
         "name": "Gaia Realini",
         "id": 303036,
-        "sanctions": 0,
-        "results": [],
-        "totalPoints": 0
+        "team": "LTK",
+        "country": "it",
+        "totalPoints": 0,
+        "results": []
       },
       {
         "name": "Kristen Faulkner",
         "id": 1688341,
-        "sanctions": 0,
-        "results": [],
-        "totalPoints": 0
+        "team": "EFO",
+        "country": "us",
+        "totalPoints": 0,
+        "results": []
       },
       {
         "name": "Letizia Paternoster",
         "id": 153363,
-        "sanctions": 0,
+        "team": "LIV",
+        "country": "it",
+        "totalPoints": 25,
         "results": [
           {
             "name": "Le Samyn des Dames",
@@ -224,13 +234,14 @@
             "points": 25,
             "rank": 9
           }
-        ],
-        "totalPoints": 25
+        ]
       },
       {
         "name": "Pauline Ferrand-Prévot",
         "id": 66298,
-        "sanctions": 0,
+        "team": "TVL",
+        "country": "fr",
+        "totalPoints": 30,
         "results": [
           {
             "name": "UAE Tour Women - General classification",
@@ -244,8 +255,7 @@
             "points": 6,
             "rank": 10
           }
-        ],
-        "totalPoints": 30
+        ]
       }
     ]
   }

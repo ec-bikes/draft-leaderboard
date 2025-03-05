@@ -2,7 +2,7 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 189039,
-  "fetchedDate": "4 Mar 2025, 23:21 GMT",
+  "fetchedDate": "5 Mar 2025, 01:41 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
@@ -11,7 +11,9 @@
       {
         "name": "Jasper Philipsen",
         "id": 148275,
-        "sanctions": 0,
+        "team": "ADC",
+        "country": "be",
+        "totalPoints": 460,
         "results": [
           {
             "name": "Kuurne - Brussel - Kuurne",
@@ -37,13 +39,14 @@
             "points": 20,
             "rank": 3
           }
-        ],
-        "totalPoints": 460
+        ]
       },
       {
         "name": "Primož Roglič",
         "id": 88889,
-        "sanctions": 0,
+        "team": "RBH",
+        "country": "si",
+        "totalPoints": 50,
         "results": [
           {
             "name": "Volta ao Algarve em Bicicleta - General classification",
@@ -51,13 +54,14 @@
             "points": 50,
             "rank": 8
           }
-        ],
-        "totalPoints": 50
+        ]
       },
       {
         "name": "Carlos Rodriguez",
         "id": 428096,
-        "sanctions": 0,
+        "team": "IGD",
+        "country": "es",
+        "totalPoints": 70,
         "results": [
           {
             "name": "Volta a la Comunitat Valenciana - General classification",
@@ -71,13 +75,14 @@
             "points": 0.43,
             "rank": 5
           }
-        ],
-        "totalPoints": 70
+        ]
       },
       {
         "name": "Juan Ayuso",
         "id": 415141,
-        "sanctions": 0,
+        "team": "UAD",
+        "country": "es",
+        "totalPoints": 235,
         "results": [
           {
             "name": "Faun Drome Classic",
@@ -91,20 +96,22 @@
             "points": 35,
             "rank": 10
           }
-        ],
-        "totalPoints": 235
+        ]
       },
       {
         "name": "Simon Yates",
         "id": 1558112,
-        "sanctions": 0,
-        "results": [],
-        "totalPoints": 0
+        "team": "TVL",
+        "country": "gb",
+        "totalPoints": 0,
+        "results": []
       },
       {
         "name": "Jhonatan Narváez",
         "id": 96372,
-        "sanctions": 0,
+        "team": "UAD",
+        "country": "ec",
+        "totalPoints": 745,
         "results": [
           {
             "name": "Omloop Nieuwsblad ME",
@@ -147,13 +154,14 @@
             "points": 40,
             "rank": 2
           }
-        ],
-        "totalPoints": 745
+        ]
       },
       {
         "name": "Egan Bernal",
         "id": 95844,
-        "sanctions": 0,
+        "team": "IGD",
+        "country": "co",
+        "totalPoints": 150,
         "results": [
           {
             "name": "National Championships Colombia ME - Road Race",
@@ -167,20 +175,22 @@
             "points": 50,
             "rank": 1
           }
-        ],
-        "totalPoints": 150
+        ]
       },
       {
         "name": "Florian Lipowitz",
         "id": 2097255,
-        "sanctions": 0,
-        "results": [],
-        "totalPoints": 0
+        "team": "RBH",
+        "country": "de",
+        "totalPoints": 0,
+        "results": []
       },
       {
         "name": "Romain Grégoire",
         "id": 1759422,
-        "sanctions": 0,
+        "team": "GFC",
+        "country": "fr",
+        "totalPoints": 305,
         "results": [
           {
             "name": "Faun-Ardèche Classic",
@@ -200,13 +210,15 @@
             "points": 5,
             "rank": 4
           }
-        ],
-        "totalPoints": 305
+        ]
       },
       {
         "name": "Stefan Küng",
         "id": 74994,
         "sanctions": 25,
+        "team": "GFC",
+        "country": "ch",
+        "totalPoints": 5,
         "results": [
           {
             "name": "Omloop Nieuwsblad ME",
@@ -214,8 +226,7 @@
             "points": 5,
             "rank": 32
           }
-        ],
-        "totalPoints": 5
+        ]
       }
     ]
   }

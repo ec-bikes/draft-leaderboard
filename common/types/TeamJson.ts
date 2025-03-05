@@ -28,11 +28,11 @@ export interface TeamDetailsJson extends TeamJsonMetadata {
 /** Data about actual UCI teams and countries of riders */
 export interface UciTeamsJson {
   teamNames: UciTeamNames;
-  /** Mapping from rider ID to country and team. Name is added for readability. */
+  /** Mapping from rider ID to country and team (plus name) */
   riderInfo: Record<
     number,
     ExtraRiderInfo & {
-      /** Rider name */
+      /** Rider name, just included for readability */
       name: string;
     }
   >;

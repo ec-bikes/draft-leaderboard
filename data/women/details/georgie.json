@@ -2,7 +2,7 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 189057,
-  "fetchedDate": "4 Mar 2025, 23:21 GMT",
+  "fetchedDate": "5 Mar 2025, 01:41 GMT",
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
@@ -11,7 +11,9 @@
       {
         "name": "Kasia Niewiadoma",
         "id": 86824,
-        "sanctions": 0,
+        "team": "CSZ",
+        "country": "pl",
+        "totalPoints": 13,
         "results": [
           {
             "name": "Omloop Nieuwsblad WE",
@@ -25,13 +27,14 @@
             "points": 5,
             "rank": 18
           }
-        ],
-        "totalPoints": 13
+        ]
       },
       {
         "name": "Silvia Persico",
         "id": 107539,
-        "sanctions": 0,
+        "team": "UAD",
+        "country": "it",
+        "totalPoints": 547,
         "results": [
           {
             "name": "Omloop Nieuwsblad WE",
@@ -63,13 +66,14 @@
             "points": 70,
             "rank": 3
           }
-        ],
-        "totalPoints": 547
+        ]
       },
       {
         "name": "Antonia Niedermaier",
         "id": 2188959,
-        "sanctions": 0,
+        "team": "CSZ",
+        "country": "de",
+        "totalPoints": 138,
         "results": [
           {
             "name": "UAE Tour Women - General classification",
@@ -83,13 +87,14 @@
             "points": 18,
             "rank": 6
           }
-        ],
-        "totalPoints": 138
+        ]
       },
       {
         "name": "Thalita de Jong",
         "id": 79176,
-        "sanctions": 0,
+        "team": "HPH",
+        "country": "nl",
+        "totalPoints": 284,
         "results": [
           {
             "name": "Omloop Nieuwsblad WE",
@@ -127,13 +132,14 @@
             "points": 60,
             "rank": 4
           }
-        ],
-        "totalPoints": 284
+        ]
       },
       {
         "name": "Brodie Chapman",
         "id": 106168,
-        "sanctions": 0,
+        "team": "UAD",
+        "country": "au",
+        "totalPoints": 100,
         "results": [
           {
             "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classification",
@@ -147,13 +153,14 @@
             "points": 50,
             "rank": 1
           }
-        ],
-        "totalPoints": 100
+        ]
       },
       {
         "name": "Lily Williams",
         "id": 459694,
-        "sanctions": 0,
+        "team": "HPH",
+        "country": "us",
+        "totalPoints": 75,
         "results": [
           {
             "name": "Omloop Nieuwsblad WE",
@@ -179,13 +186,14 @@
             "points": 3,
             "rank": 25
           }
-        ],
-        "totalPoints": 75
+        ]
       },
       {
         "name": "Juliette Labous",
         "id": 97498,
-        "sanctions": 0,
+        "team": "TFS",
+        "country": "fr",
+        "totalPoints": 72,
         "results": [
           {
             "name": "Omloop Nieuwsblad WE",
@@ -199,20 +207,22 @@
             "points": 56,
             "rank": 11
           }
-        ],
-        "totalPoints": 72
+        ]
       },
       {
         "name": "Lucinda Brand",
         "id": 66056,
-        "sanctions": 0,
-        "results": [],
-        "totalPoints": 0
+        "team": "LTK",
+        "country": "nl",
+        "totalPoints": 0,
+        "results": []
       },
       {
         "name": "Sarah van Dam",
         "id": 488553,
-        "sanctions": 0,
+        "team": "CTC",
+        "country": "ca",
+        "totalPoints": 101,
         "results": [
           {
             "name": "Santos Tour Down Under - General classification",
@@ -232,13 +242,14 @@
             "points": 25,
             "rank": 4
           }
-        ],
-        "totalPoints": 101
+        ]
       },
       {
         "name": "Riejanne Markus",
         "id": 86854,
-        "sanctions": 0,
+        "team": "LTK",
+        "country": "nl",
+        "totalPoints": 16,
         "results": [
           {
             "name": "UAE Tour Women - General classification",
@@ -246,8 +257,7 @@
             "points": 16,
             "rank": 21
           }
-        ],
-        "totalPoints": 16
+        ]
       }
     ]
   }

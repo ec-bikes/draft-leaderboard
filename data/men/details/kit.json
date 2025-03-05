@@ -2,7 +2,7 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 189039,
-  "fetchedDate": "4 Mar 2025, 23:21 GMT",
+  "fetchedDate": "5 Mar 2025, 01:41 GMT",
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
@@ -11,7 +11,9 @@
       {
         "name": "Tadej Pogačar",
         "id": 149727,
-        "sanctions": 0,
+        "team": "UAD",
+        "country": "si",
+        "totalPoints": 425,
         "results": [
           {
             "name": "UAE Tour - General classification",
@@ -63,20 +65,22 @@
             "points": 1,
             "rank": 10
           }
-        ],
-        "totalPoints": 425
+        ]
       },
       {
         "name": "Thibau Nys",
         "id": 1721034,
-        "sanctions": 0,
-        "results": [],
-        "totalPoints": 0
+        "team": "LTK",
+        "country": "be",
+        "totalPoints": 0,
+        "results": []
       },
       {
         "name": "Toms Skujiņš",
         "id": 68892,
-        "sanctions": 0,
+        "team": "LTK",
+        "country": "lv",
+        "totalPoints": 10,
         "results": [
           {
             "name": "Omloop Nieuwsblad ME",
@@ -90,20 +94,22 @@
             "points": 5,
             "rank": 15
           }
-        ],
-        "totalPoints": 10
+        ]
       },
       {
         "name": "Mikel Landa",
         "id": 68367,
-        "sanctions": 0,
-        "results": [],
-        "totalPoints": 0
+        "team": "SOQ",
+        "country": "es",
+        "totalPoints": 0,
+        "results": []
       },
       {
         "name": "Jordi Meeus",
         "id": 148901,
-        "sanctions": 0,
+        "team": "RBH",
+        "country": "be",
+        "totalPoints": 70,
         "results": [
           {
             "name": "Kuurne - Brussel - Kuurne",
@@ -129,20 +135,22 @@
             "points": 5,
             "rank": 2
           }
-        ],
-        "totalPoints": 70
+        ]
       },
       {
         "name": "Kaden Groves",
         "id": 111683,
-        "sanctions": 0,
-        "results": [],
-        "totalPoints": 0
+        "team": "ADC",
+        "country": "au",
+        "totalPoints": 0,
+        "results": []
       },
       {
         "name": "Richard Carapaz",
         "id": 91656,
-        "sanctions": 0,
+        "team": "EFE",
+        "country": "ec",
+        "totalPoints": 28,
         "results": [
           {
             "name": "Tour des Alpes-Maritimes - General classification",
@@ -156,20 +164,22 @@
             "points": 3,
             "rank": 25
           }
-        ],
-        "totalPoints": 28
+        ]
       },
       {
         "name": "Benoît Cosnefroy",
         "id": 79522,
-        "sanctions": 0,
-        "results": [],
-        "totalPoints": 0
+        "team": "DAT",
+        "country": "fr",
+        "totalPoints": 0,
+        "results": []
       },
       {
         "name": "Alex Aranburu",
         "id": 422863,
-        "sanctions": 0,
+        "team": "COF",
+        "country": "es",
+        "totalPoints": 68,
         "results": [
           {
             "name": "Faun Drome Classic",
@@ -201,13 +211,14 @@
             "points": 5,
             "rank": 14
           }
-        ],
-        "totalPoints": 68
+        ]
       },
       {
         "name": "Paul Lapeira",
         "id": 257361,
-        "sanctions": 0,
+        "team": "DAT",
+        "country": "fr",
+        "totalPoints": 95,
         "results": [
           {
             "name": "Classic Var",
@@ -221,8 +232,7 @@
             "points": 10,
             "rank": 49
           }
-        ],
-        "totalPoints": 95
+        ]
       }
     ]
   }

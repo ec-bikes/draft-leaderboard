@@ -4,6 +4,7 @@ import { getRiderUciData } from './getRiderUciData.js';
 import { getRiderPcsData } from './getRiderPcsData.js';
 import type { Draft } from '../../common/types/Draft.js';
 import type { BaseRider, RiderDetails } from '../../common/types/Rider.js';
+import type { UciTeamsJson } from '../../common/types/TeamJson.js';
 
 export async function getTeamData(params: {
   source: Source;
@@ -11,8 +12,9 @@ export async function getTeamData(params: {
   momentId: number;
   draft: Pick<Draft, 'group' | 'year' | 'tradeDate'>;
   getRiderId: (name: string) => number | undefined;
+  uciRiderInfo: UciTeamsJson['riderInfo'];
 }): Promise<TeamDetails> {
-  const { team: rawTeam, momentId, draft, source, getRiderId } = params;
+  const { team: rawTeam, momentId, draft, source, getRiderId, uciRiderInfo } = params;
   const { year, group, tradeDate: tradeDateStr } = draft;
   const tradeDate = tradeDateStr ? new Date(tradeDateStr).getTime() : null;
   const { owner, name, riders, tradedOut } = rawTeam;
@@ -29,12 +31,23 @@ export async function getTeamData(params: {
     if (!riderId) {
       throw new Error(`Couldn't find ID for ${riderName}`);
     }
+    const uciRider = uciRiderInfo[riderId];
+    if (!uciRider) {
+      throw new Error(`Missing UciTeamsJson data for ${riderName} (${riderId})`);
+    }
+
     const rawRider: BaseRider = { name: riderName, id: riderId };
-    const riderData =
+    const { results, ...riderData } =
       source === 'uci'
         ? await getRiderUciData({ rider: rawRider, momentId, year, group })
         : await getRiderPcsData({ rider: rawRider, year });
-    const rider: RiderDetails = { ...riderData, totalPoints: 0 };
+    const rider: RiderDetails = {
+      ...riderData,
+      team: uciRider.team,
+      country: uciRider.country,
+      totalPoints: 0,
+      results, // put this last
+    };
 
     // Ensure the results are sorted by date descending
     rider.results.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());

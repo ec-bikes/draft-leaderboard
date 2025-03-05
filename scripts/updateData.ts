@@ -8,10 +8,15 @@ import { getWomensRiderId } from '../data/womensRiders.js';
 import { getRankingMetadata } from './data/getRankingMetadata.js';
 import { getTeamData } from './data/getTeamData.js';
 import { logError } from './log.js';
-import { getSummaryFilePath, getTeamDetailsFilePath } from '../common/filenames.js';
+import {
+  getSummaryFilePath,
+  getTeamDetailsFilePath,
+  getUciTeamsFilePath,
+} from '../common/filenames.js';
 import { cleanUpFiles } from './data/cleanUpFiles.js';
 import { updateHistory } from './data/updateHistory.js';
 import { writeJson } from './data/writeJson.js';
+import { readJson } from './data/readJson.js';
 
 const drafts = [women, men];
 const year = women.draft.year;
@@ -31,7 +36,11 @@ const source: Source = 'pcs';
     }
     const getRiderId = group === 'men' ? getMensRiderId : getWomensRiderId;
 
-    // Get the momentId value (which is slightly different between men and women) and ranking date
+    const uciTeamsJson = readJson(getUciTeamsFilePath({ group, year }));
+
+    // Get the momentId value (which is slightly different between men and women) and ranking date.
+    // The momentId needs to be saved even if we're not using UCI data to be able to make accurate
+    // UCI URLs linking to rider results.
     const metadataResult = await getRankingMetadata({ group, source });
     if (typeof metadataResult === 'string') {
       logError(metadataResult);
@@ -49,6 +58,7 @@ const source: Source = 'pcs';
         draft,
         source,
         getRiderId,
+        uciRiderInfo: uciTeamsJson.riderInfo,
       });
 
       // Update the detailed team data file (only the current version, not dated)

@@ -2,7 +2,7 @@
   "source": "pcs",
   "schemaVersion": 1,
   "momentId": 189057,
-  "fetchedDate": "4 Mar 2025, 23:21 GMT",
+  "fetchedDate": "5 Mar 2025, 01:41 GMT",
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
@@ -11,7 +11,9 @@
       {
         "name": "Demi Vollering",
         "id": 151466,
-        "sanctions": 0,
+        "team": "TFS",
+        "country": "nl",
+        "totalPoints": 512,
         "results": [
           {
             "name": "Omloop Nieuwsblad WE",
@@ -52,13 +54,14 @@
             "date": "13 Feb 2025",
             "points": 5
           }
-        ],
-        "totalPoints": 512
+        ]
       },
       {
         "name": "Elisa Balsamo",
         "id": 101826,
-        "sanctions": 0,
+        "team": "LTK",
+        "country": "it",
+        "totalPoints": 190,
         "results": [
           {
             "name": "Omloop Nieuwsblad WE",
@@ -96,13 +99,14 @@
             "points": 12,
             "rank": 4
           }
-        ],
-        "totalPoints": 190
+        ]
       },
       {
         "name": "Chloe Dygert",
         "id": 109716,
-        "sanctions": 0,
+        "team": "CSZ",
+        "country": "us",
+        "totalPoints": 471,
         "results": [
           {
             "name": "Cadel Evans Great Ocean Road Race - Women",
@@ -134,13 +138,14 @@
             "points": 50,
             "rank": 1
           }
-        ],
-        "totalPoints": 471
+        ]
       },
       {
         "name": "Mischa Bredewold",
         "id": 227721,
-        "sanctions": 0,
+        "team": "SDW",
+        "country": "nl",
+        "totalPoints": 54,
         "results": [
           {
             "name": "Omloop Nieuwsblad WE",
@@ -172,13 +177,14 @@
             "points": 25,
             "rank": 1
           }
-        ],
-        "totalPoints": 54
+        ]
       },
       {
         "name": "Maike van der Duin",
         "id": 226974,
-        "sanctions": 0,
+        "team": "CSZ",
+        "country": "nl",
+        "totalPoints": 111,
         "results": [
           {
             "name": "Fenix Omloop van het Hageland",
@@ -198,13 +204,14 @@
             "points": 15,
             "rank": 7
           }
-        ],
-        "totalPoints": 111
+        ]
       },
       {
         "name": "Cedrine Kerbaol",
         "id": 1750054,
-        "sanctions": 0,
+        "team": "EFO",
+        "country": "fr",
+        "totalPoints": 97,
         "results": [
           {
             "name": "UAE Tour Women - General classification",
@@ -224,13 +231,14 @@
             "points": 3,
             "rank": 23
           }
-        ],
-        "totalPoints": 97
+        ]
       },
       {
         "name": "Niamh Fisher-Black",
         "id": 217072,
-        "sanctions": 0,
+        "team": "LTK",
+        "country": "nz",
+        "totalPoints": 261,
         "results": [
           {
             "name": "National Championships New Zealand WE - Road Race",
@@ -262,13 +270,14 @@
             "points": 8,
             "rank": 9
           }
-        ],
-        "totalPoints": 261
+        ]
       },
       {
         "name": "Kim Cadzow",
         "id": 2246047,
-        "sanctions": 0,
+        "team": "EFO",
+        "country": "nz",
+        "totalPoints": 150,
         "results": [
           {
             "name": "National Championships New Zealand WE - Road Race",
@@ -282,13 +291,14 @@
             "points": 50,
             "rank": 1
           }
-        ],
-        "totalPoints": 150
+        ]
       },
       {
         "name": "Elise Chabbey",
         "id": 1638135,
-        "sanctions": 0,
+        "team": "TFS",
+        "country": "ch",
+        "totalPoints": 305,
         "results": [
           {
             "name": "Omloop Nieuwsblad WE",
@@ -326,13 +336,14 @@
             "points": 15,
             "rank": 7
           }
-        ],
-        "totalPoints": 305
+        ]
       },
       {
         "name": "Kathrin Schweinberger",
         "id": 98622,
-        "sanctions": 0,
+        "team": "HPH",
+        "country": "at",
+        "totalPoints": 147,
         "results": [
           {
             "name": "UAE Tour Women - Stage 1",
@@ -364,8 +375,7 @@
             "points": 30,
             "rank": 3
           }
-        ],
-        "totalPoints": 147
+        ]
       }
     ]
   }
