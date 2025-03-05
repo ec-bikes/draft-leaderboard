@@ -17,14 +17,21 @@ import { getPcsUrl } from '../../common/getPcsUrl.js';
 import { spacing } from '../theme.js';
 import type { RiderDialogProps } from '../RiderDialog/RiderDialog.js';
 import { TeamCardHeader } from './TeamCardHeader.js';
+import { Country } from '../Country/Country.js';
+import { useData } from 'vike-react/useData';
+import { ClientData } from '../../common/types/ClientData.js';
 
 const LazyRiderDialog = React.lazy(() => import('../RiderDialog/RiderDialog.js'));
 
-// Force points (2) and links (3) to specific widths and prevent wrapping
-const RiderRow = styled(TableRow)({
-  [`& td:nth-of-type(2)`]: { width: '62px', whiteSpace: 'nowrap' },
+// Force points (2) and links (3) to specific widths (intepreted as minimums if content overflows)
+// and prevent wrapping
+const RiderTableRow = styled(TableRow)({
+  [`& td:nth-of-type(2)`]: { width: '60px', whiteSpace: 'nowrap' },
   [`& td:nth-of-type(3)`]: { width: '65px', whiteSpace: 'nowrap' },
 });
+
+/** A slightly wider space (NOT a normal space character) */
+const enSpace = ' ';
 
 export function TeamCardContent(props: {
   team: Team;
@@ -34,8 +41,8 @@ export function TeamCardContent(props: {
   year: number;
 }) {
   const { team, rank, momentId, group, year } = props;
-  const [riderDialogProps, setRiderDialogProps] =
-    React.useState<Omit<RiderDialogProps, 'onClose' | 'group'>>();
+  const [riderForDialog, setRiderForDialog] = React.useState<RiderDialogProps['rider']>();
+  const { uciTeamNames } = useData<ClientData>();
 
   const riders = [...team.riders]
     .sort((a, b) => b.totalPoints - a.totalPoints)
@@ -61,45 +68,78 @@ export function TeamCardContent(props: {
         </TableHead>
         <TableBody>
           {riders.map((rider) => (
-            <RiderRow key={rider.name}>
-              <TableCell>
-                <span style={rider.tradedOut ? { textDecoration: 'line-through' } : undefined}>
-                  {rider.name}
-                </span>
-                {rider.tradedIn && <Typography variant="tiny"> (trade)</Typography>}
-              </TableCell>
-              <TableCell>
-                <Link
-                  component="button"
-                  onClick={() => setRiderDialogProps({ teamOwner: team.owner, rider, year })}
-                >
-                  {Math.round(rider.totalPoints)}
-                </Link>
-              </TableCell>
-              <TableCell>
-                <Typography variant="tiny">
-                  <Link target="_blank" href={rider.uciUrl}>
-                    UCI
-                  </Link>
-                  {', '}
-                  <Link target="_blank" href={rider.pcsUrl}>
-                    PCS
-                  </Link>
-                </Typography>
-              </TableCell>
-            </RiderRow>
+            <RiderRow
+              key={rider.name}
+              rider={rider}
+              onOpenDialog={() => setRiderForDialog(rider)}
+              uciTeamNames={uciTeamNames}
+            />
           ))}
         </TableBody>
       </Table>
-      {riderDialogProps && (
+      {riderForDialog && (
         <React.Suspense fallback={<></>}>
           <LazyRiderDialog
-            {...riderDialogProps}
+            rider={riderForDialog}
+            teamOwner={team.owner}
             group={group}
-            onClose={() => setRiderDialogProps(undefined)}
+            year={year}
+            onClose={() => setRiderForDialog(undefined)}
           />
         </React.Suspense>
       )}
     </Stack>
+  );
+}
+
+function RiderRow(
+  props: Pick<ClientData, 'uciTeamNames'> & {
+    rider: RiderDialogProps['rider'];
+    onOpenDialog: () => void;
+  },
+) {
+  const { rider, onOpenDialog, uciTeamNames } = props;
+
+  const uciTeamName = !!rider.team && uciTeamNames?.[rider.team];
+
+  return (
+    <RiderTableRow>
+      <TableCell>
+        <span style={rider.tradedOut ? { textDecoration: 'line-through' } : undefined}>
+          {rider.country && (
+            <>
+              <Country flagOnly country={rider.country} />
+              {enSpace}
+            </>
+          )}
+          {rider.name}
+          {uciTeamName && (
+            <>
+              {' '}
+              <Typography variant="tiny" component="em" title={uciTeamName}>
+                ({rider.team})
+              </Typography>
+            </>
+          )}
+        </span>
+        {rider.tradedIn && <Typography variant="tiny"> (trade)</Typography>}
+      </TableCell>
+      <TableCell>
+        <Link component="button" onClick={onOpenDialog}>
+          {Math.round(rider.totalPoints)}
+        </Link>
+      </TableCell>
+      <TableCell>
+        <Typography variant="tiny">
+          <Link target="_blank" href={rider.uciUrl}>
+            UCI
+          </Link>
+          {', '}
+          <Link target="_blank" href={rider.pcsUrl}>
+            PCS
+          </Link>
+        </Typography>
+      </TableCell>
+    </RiderTableRow>
   );
 }

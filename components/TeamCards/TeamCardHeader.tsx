@@ -47,7 +47,13 @@ export function TeamCardHeader(props: { team: Team; rank: number }) {
         paddingLeft={1}
       >
         <span>
-          {movement > 0 ? <ArrowUp /> : movement < 0 ? <ArrowDown /> : <CircleSmall />}
+          {movement > 0 ? (
+            <ArrowUp titleAccess={`+${movement} since last week`} />
+          ) : movement < 0 ? (
+            <ArrowDown titleAccess={`${movement} since last week`} />
+          ) : (
+            <CircleSmall titleAccess="no change since last week" />
+          )}
           <Typography variant="rankingPound">#</Typography>
           <Typography variant="rankingNumber">{rank}</Typography>
         </span>

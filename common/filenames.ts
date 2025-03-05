@@ -1,5 +1,6 @@
 import { formatNumericDate } from './formatDate.js';
 import type { Group } from './types/Group.js';
+import { years } from './constants.js';
 
 /** Matches a dated summary file basename. Group 1 is the date YYYY-MM-DD. */
 export const datedSummaryFileRegex = /^summary-(\d{4}-\d{2}-\d{2})\.json$/;
@@ -11,7 +12,7 @@ interface FileParams {
 
 function getBasePath({ group, year }: FileParams) {
   const root = `data/${group}` as const;
-  return year === new Date().getFullYear() ? root : (`${root}${year}` as const);
+  return year === years[0] ? root : (`${root}${year}` as const);
 }
 
 /** Get the path to a summary data file. */

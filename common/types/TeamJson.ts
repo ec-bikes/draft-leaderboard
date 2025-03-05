@@ -1,4 +1,3 @@
-import type { PointsHistory } from './PointsHistory.js';
 import type { ExtraRiderInfo } from './Rider.js';
 import type { Team, TeamDetails, UciTeamNames } from './Team.js';
 
@@ -17,7 +16,6 @@ export interface TeamJsonMetadata {
 /** Short data about all the teams (no individual race results) */
 export interface TeamsSummaryJson extends TeamJsonMetadata {
   teams: Team[];
-  history?: PointsHistory;
 }
 
 /** Data about a team including individual race results */

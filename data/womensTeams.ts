@@ -13,13 +13,13 @@ export const teams: BaseTeam[] = [
     name: '(TBD)',
     riders: [
       'Lotte Kopecky',
-      'Cecilie Uttrup Ludwig',
+      'Cecilie Uttrup Ludwig', //
       'Kim le Court',
       'Justine Ghekiere',
       'Silke Smulders',
       'Daria Pikulik',
       'Lore de Schepper',
-      'Monica Trinca Colonel',
+      'Monica Trinca Colonel', //
       'Clara Copponi',
       'Georgia Baker',
     ],
@@ -53,7 +53,7 @@ export const teams: BaseTeam[] = [
       'Niamh Fisher-Black',
       'Kim Cadzow',
       'Elise Chabbey',
-      'Kathrin Schweinberger',
+      'Kathrin Schweinberger', //
     ],
   },
   {

@@ -118,14 +118,13 @@ export const theme = createTheme({
     },
   },
   components: {
-    // rider dialog title
-    MuiDialogTitle: {
+    // Team card content
+    MuiCardContent: {
       styleOverrides: {
-        root: {
-          fontSize: '1.5rem',
-          // The content has padding all around, so double padding after the title looks excessive
-          paddingBottom: '0',
-        },
+        root: ({ theme }) => ({
+          // The default padding is 2spc other sides, 3spc bottom. Reducing it looks better.
+          '&:last-child': { paddingBottom: theme.spacing(2.5) },
+        }),
       },
     },
     // Layout container
@@ -141,6 +140,16 @@ export const theme = createTheme({
             padding: theme.spacing(...spacing.page.padding),
           },
         }),
+      },
+    },
+    // rider dialog title
+    MuiDialogTitle: {
+      styleOverrides: {
+        root: {
+          fontSize: '1.5rem',
+          // The content has padding all around, so double padding after the title looks excessive
+          paddingBottom: '0',
+        },
       },
     },
     MuiLink: {
