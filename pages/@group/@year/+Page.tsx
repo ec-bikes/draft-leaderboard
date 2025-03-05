@@ -1,1 +1,2 @@
-export { Page } from '../../../components/Page/Page.js';
+// Page layout is the same for this route
+export { Page } from '../+Page.js';

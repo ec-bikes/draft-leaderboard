@@ -40,7 +40,8 @@ export function Competition() {
         as of <strong>{source === 'uci' ? data.uciRankingDate : data.fetchedDate}</strong>.
         {tradeDate && (
           <>
-            <br /> Includes trades from {formatDate(new Date(tradeDate), 'short')}.
+            <br />
+            Includes trades from {formatDate(new Date(tradeDate), 'short')}.
           </>
         )}
         <br />

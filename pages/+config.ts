@@ -5,7 +5,10 @@ import vikeReact from 'vike-react/config';
 // https://vike.dev/vike-react
 const config: Config = {
   extends: [vikeReact],
-  prerender: true,
+  prerender: {
+    // for route /foo, generate /foo.html rather than /foo/index.html
+    noExtraDir: true,
+  },
   disableUrlNormalization: true,
 };
 

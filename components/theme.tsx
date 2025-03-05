@@ -36,15 +36,6 @@ declare module '@mui/material/styles' {
   interface TypographyVariantsOptions extends NewTypographyVariants {}
   // eslint-disable-next-line @typescript-eslint/no-empty-object-type
   interface TypographyVariants extends Required<NewTypographyVariants> {}
-
-  // interface PaletteOptions {
-  //   /** colors for arrow indicators */
-  //   indicator: Record<'up' | 'down' | 'neutral', string>;
-  // }
-  // interface Palette {
-  //   /** colors for arrow indicators */
-  //   indicator: Record<'up' | 'down' | 'neutral', string>;
-  // }
 }
 declare module '@mui/material/Typography' {
   interface TypographyPropsVariantOverrides
@@ -57,6 +48,12 @@ declare module '@mui/material/Typography' {
 // md: 900px
 // lg: 1200px
 // xl: 1536px
+
+/**
+ * Define the font family in a custom variable to prevent the long list from being
+ * repeated several times in the generated CSS
+ */
+const fontVarName = '--draft-font';
 
 /** Page padding on XS; other small spaces */
 const spacingXS = 2;
@@ -100,6 +97,10 @@ export const rankingNumberSize = 2.5;
 const primaryMain = 'rgb(255, 110, 66)';
 
 export const theme = createTheme({
+  // This makes the built pages bigger because MUI uses longer variable references everywhere
+  // and defines a bunch of variables that are never used...but without it, dark mode detection
+  // based on system preference doesn't see to work...
+  // (see bottom for a list of the only vars that are used)
   cssVariables: true,
   colorSchemes: {
     light: {
@@ -205,7 +206,7 @@ export const theme = createTheme({
     },
   },
   typography: {
-    fontFamily: 'Inter, system-ui, Avenir, Helvetica Neue, Helvetica, Arial, sans-serif',
+    fontFamily: `var(${fontVarName})`,
     fontWeightLight: 400,
     fontWeightRegular: 400,
     fontWeightMedium: 600,
@@ -278,5 +279,37 @@ typography.tiny = {
 };
 
 // docs recommend creating this JSX element only once
-// (leaving for reference after style was removed)
-export const globalStyles = <GlobalStyles styles={{}} />;
+export const globalStyles = (
+  <GlobalStyles
+    styles={{
+      ':root': {
+        // Not sure if MUI provides a proper way of defining a custom variable, so do this
+        [fontVarName]: 'Inter, system-ui, Avenir, Helvetica Neue, Helvetica, Arial, sans-serif',
+      },
+    }}
+  />
+);
+
+// The only used --mui-* vars, based on getting all the style elements and finding var() references:
+// --mui-palette-action-active
+// --mui-palette-action-activeChannel
+// --mui-palette-action-disabled
+// --mui-palette-action-hover
+// --mui-palette-action-hoverOpacity
+// --mui-palette-action-selectedOpacity
+// --mui-palette-background-default
+// --mui-palette-background-paper
+// --mui-palette-common-white
+// --mui-palette-error-main
+// --mui-palette-grey-400
+// --mui-palette-grey-500
+// --mui-palette-primary-dark
+// --mui-palette-primary-main
+// --mui-palette-primary-mainChannel
+// --mui-palette-success-light
+// --mui-palette-TableCell-border
+// --mui-palette-text-disabled
+// --mui-palette-text-primary
+// --mui-palette-text-secondary
+// --mui-spacing
+// --mui-zIndex-modal
