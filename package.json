@@ -19,13 +19,13 @@
     "@emotion/styled": "^11.14.0",
     "@mui/lab": "6.0.0-beta.29",
     "@mui/material": "^6.4.6",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@types/node": "^20.17.19",
-    "@types/react": "^18.3.18",
-    "@types/react-dom": "^18.3.5",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
     "@typescript-eslint/eslint-plugin": "^7.18.0",
     "@typescript-eslint/parser": "^7.18.0",
     "@vitejs/plugin-react": "^4.3.4",
@@ -42,6 +42,11 @@
     "vike-react": "^0.5.13",
     "vite": "^6.2.0",
     "vitest": "^3.0.7"
+  },
+  "prettier": {
+    "printWidth": 100,
+    "tabWidth": 2,
+    "singleQuote": true
   },
   "packageManager": "yarn@4.7.0"
 }
