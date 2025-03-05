@@ -11,6 +11,7 @@ const nameMappings: Record<string, string> = {
   'Kim le Court': 'kimberley-le-court',
   'Lizzie Deignan': 'elizabeth-deignan',
   'Mattias Skjelmose': 'mattias-skjelmose-jensen',
+  'Max Schachmann': 'maximilian-schachmann',
   'Pablo Castrillo': 'pablo-castrillo-zapater',
   'Romain Grégoire': 'romain-gregoire1',
   'Santiago Buitrago': 'santiago-buitrago-sanchez',
