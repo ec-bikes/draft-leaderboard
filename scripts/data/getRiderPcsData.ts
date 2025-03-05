@@ -1,7 +1,7 @@
-import type { BaseRider, RiderDetails } from '../../common/types/Rider.js';
-import { loadPcsPage } from './pcs/loadPcsPage.js';
-import { getPcsRiderTotals } from './pcs/getPcsRiderTotals.js';
+import type { BaseRider, RiderDetails } from '../../common/types/index.js';
 import { getPcsRiderResults } from './pcs/getPcsRiderResults.js';
+import { getPcsRiderTotals } from './pcs/getPcsRiderTotals.js';
+import { loadPcsPage } from './pcs/loadPcsPage.js';
 
 /**
  * Get data from a rider's ProCyclingStats page for a given year.

@@ -1,5 +1,4 @@
-import type { BaseRider, RiderDetails } from '../../common/types/Rider.js';
-import type { Group } from '../../common/types/Group.js';
+import type { BaseRider, Group, RiderDetails } from '../../common/types/index.js';
 import { getRiderPcsData } from './getRiderPcsData.js';
 import { getRiderResults } from './getRiderResults.js';
 

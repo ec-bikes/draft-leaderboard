@@ -1,7 +1,7 @@
-import type { UciRiderResult } from './types/UciRiderResult.js';
-import type { Group } from '../../../common/types/Group.js';
-import { doUciRequest } from './doUciRequest.js';
+import type { Group } from '../../../common/types/index.js';
 import { uciRankingParams } from '../../../common/uciRankingParams.js';
+import { doUciRequest } from './doUciRequest.js';
+import type { UciRiderResult } from './types/UciRiderResult.js';
 
 /**
  * Get details of a rider's results.

@@ -1,4 +1,3 @@
-import React from 'react';
 import {
   Link,
   Stack,
@@ -10,15 +9,15 @@ import {
   Typography,
   styled,
 } from '@mui/material';
-import type { Team } from '../../common/types/Team';
-import { getUciRiderUrl } from '../../common/uciUrls.js';
-import { getPcsUrl } from '../../common/getPcsUrl.js';
-import { spacing } from '../theme.js';
-import type { RiderDialogProps } from '../RiderDialog/RiderDialog.js';
-import { TeamCardHeader } from './TeamCardHeader.js';
-import { Country } from '../Country/Country.js';
+import React from 'react';
 import { useData } from 'vike-react/useData';
-import { DraftData } from '../../common/types/DraftData.js';
+import { getPcsUrl } from '../../common/getPcsUrl.js';
+import type { DraftData, Team } from '../../common/types/index';
+import { getUciRiderUrl } from '../../common/uciUrls.js';
+import { Country } from '../Country/Country.js';
+import type { RiderDialogProps } from '../RiderDialog/RiderDialog.js';
+import { spacing } from '../theme.js';
+import { TeamCardHeader } from './TeamCardHeader.js';
 
 const LazyRiderDialog = React.lazy(() => import('../RiderDialog/RiderDialog.js'));
 

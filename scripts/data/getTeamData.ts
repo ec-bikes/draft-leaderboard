@@ -1,11 +1,15 @@
-import type { Source } from '../../common/types/Source.js';
-import type { BaseTeam, TeamDetails } from '../../common/types/Team.js';
-import { getRiderUciData } from './getRiderUciData.js';
-import { getRiderPcsData } from './getRiderPcsData.js';
-import type { Draft } from '../../common/types/Draft.js';
-import type { BaseRider, RiderDetails } from '../../common/types/Rider.js';
-import type { UciTeamsJson } from '../../common/types/TeamJson.js';
+import type {
+  BaseRider,
+  BaseTeam,
+  Draft,
+  RiderDetails,
+  Source,
+  TeamDetails,
+  UciTeamsJson,
+} from '../../common/types/index.js';
 import { getRiderId } from '../../data/getRiderId.js';
+import { getRiderPcsData } from './getRiderPcsData.js';
+import { getRiderUciData } from './getRiderUciData.js';
 
 export async function getTeamData(params: {
   source: Source;

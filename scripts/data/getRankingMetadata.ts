@@ -1,6 +1,5 @@
-import type { Group } from '../../common/types/Group.js';
-import type { TeamJsonMetadata } from '../../common/types/TeamJson.js';
 import { formatDate, formatDateTime, makeUtcDate } from '../../common/formatDate.js';
+import type { Group, TeamJsonMetadata } from '../../common/types/index.js';
 import { getUciRankingMoments } from './uci/getUciRankingMoments.js';
 
 const schemaVersion = 1;

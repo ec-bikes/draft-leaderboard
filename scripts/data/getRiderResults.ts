@@ -1,5 +1,4 @@
-import type { BaseRider, RaceResult } from '../../common/types/Rider.js';
-import type { Group } from '../../common/types/Group.js';
+import type { BaseRider, Group, RaceResult } from '../../common/types/index.js';
 import { logWarning } from '../log.js';
 import { getUciRiderResults } from './uci/getUciRiderResults.js';
 

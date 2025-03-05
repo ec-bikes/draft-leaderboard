@@ -1,8 +1,8 @@
 import { Card, CardContent, Grid2 as Grid } from '@mui/material';
-import { TeamCardContent } from './TeamCardContent.js';
-import { spacing } from '../theme.js';
 import { useData } from 'vike-react/useData';
-import { DraftData } from '../../common/types/DraftData.js';
+import { DraftData } from '../../common/types/index.js';
+import { spacing } from '../theme.js';
+import { TeamCardContent } from './TeamCardContent.js';
 
 // number is colspan (out of 12)
 const gridSizes = { xs: 12, sm: 6, md: 4 };

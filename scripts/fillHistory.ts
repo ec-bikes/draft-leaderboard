@@ -9,13 +9,11 @@ import {
   getHistoryFilePath,
   getSummaryFilePath,
 } from '../common/filenames.js';
-import type { Group } from '../common/types/Group.js';
-import type { PointsHistory } from '../common/types/PointsHistory.js';
-import { updateHistory } from './data/updateHistory.js';
-import type { TeamsSummaryJson } from '../common/types/TeamJson.js';
-import { writeJson } from './data/writeJson.js';
-import { readJson } from './data/readJson.js';
+import type { Group, PointsHistory, TeamsSummaryJson } from '../common/types/index.js';
 import { importDraftFile } from '../data/importDraftFile.js';
+import { readJson } from './data/readJson.js';
+import { updateHistory } from './data/updateHistory.js';
+import { writeJson } from './data/writeJson.js';
 
 const group: Group = 'men';
 const year = 2024;

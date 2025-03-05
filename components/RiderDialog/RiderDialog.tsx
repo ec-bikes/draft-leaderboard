@@ -1,5 +1,3 @@
-import React from 'react';
-import type { RaceResult, Rider } from '../../common/types/Rider.js';
 import {
   Dialog,
   DialogContent,
@@ -14,11 +12,11 @@ import {
   Typography,
   styled,
 } from '@mui/material';
-import { CloseIcon } from '../icons/Close.js';
-import type { TeamDetailsJson } from '../../common/types/TeamJson.js';
-import { Country } from '../Country/Country.js';
+import React from 'react';
 import { useData } from 'vike-react/useData';
-import { DraftData } from '../../common/types/DraftData.js';
+import type { DraftData, RaceResult, Rider, TeamDetailsJson } from '../../common/types/index.js';
+import { Country } from '../Country/Country.js';
+import { CloseIcon } from '../icons/Close.js';
 
 export interface RiderDialogProps {
   teamOwner: string;

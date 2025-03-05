@@ -1,13 +1,12 @@
 import { Link, Stack, Typography } from '@mui/material';
-import { TeamCards } from '../TeamCards/TeamCards';
-import type { Group } from '../../common/types/Group';
-import { getUciSeasonRankingUrl } from '../../common/uciUrls.js';
-import { spacing } from '../theme.js';
-import { formatDate } from '../../common/formatDate.js';
-import { years } from '../../common/constants.js';
-import { getPageUrl } from '../../common/pageUrls.js';
 import { useData } from 'vike-react/useData';
-import { DraftData } from '../../common/types/DraftData.js';
+import { years } from '../../common/constants.js';
+import { formatDate } from '../../common/formatDate.js';
+import { getPageUrl } from '../../common/pageUrls.js';
+import type { DraftData, Group } from '../../common/types/index';
+import { getUciSeasonRankingUrl } from '../../common/uciUrls.js';
+import { TeamCards } from '../TeamCards/TeamCards';
+import { spacing } from '../theme.js';
 
 export function Competition() {
   const data = useData<DraftData>();

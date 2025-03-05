@@ -1,20 +1,18 @@
-import type { Source } from '../common/types/Source.js';
-import type { Team } from '../common/types/Team.js';
-import type { TeamDetailsJson, TeamsSummaryJson } from '../common/types/TeamJson.js';
-import { getRankingMetadata } from './data/getRankingMetadata.js';
-import { getTeamData } from './data/getTeamData.js';
-import { logError } from './log.js';
+import { years } from '../common/constants.js';
 import {
   getSummaryFilePath,
   getTeamDetailsFilePath,
   getUciTeamsFilePath,
 } from '../common/filenames.js';
+import type { Source, Team, TeamDetailsJson, TeamsSummaryJson } from '../common/types/index.js';
+import { importDraftFile } from '../data/importDraftFile.js';
 import { cleanUpFiles } from './data/cleanUpFiles.js';
+import { getRankingMetadata } from './data/getRankingMetadata.js';
+import { getTeamData } from './data/getTeamData.js';
+import { readJson } from './data/readJson.js';
 import { updateHistory } from './data/updateHistory.js';
 import { writeJson } from './data/writeJson.js';
-import { readJson } from './data/readJson.js';
-import { importDraftFile } from '../data/importDraftFile.js';
-import { years } from '../common/constants.js';
+import { logError } from './log.js';
 
 const year = years[0];
 const drafts = {

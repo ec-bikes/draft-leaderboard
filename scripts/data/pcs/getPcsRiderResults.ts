@@ -1,6 +1,6 @@
 import type { HTMLElement as BasicHTMLElement } from 'node-html-parser';
-import type { RaceResult } from '../../../common/types/Rider.js';
 import { formatDate, makeUtcDate } from '../../../common/formatDate.js';
+import type { RaceResult } from '../../../common/types/index.js';
 
 const expectedHeaders = [
   // 0. day.month (21.04) or date range (08.02 » 11.02) for stage race header

@@ -3,20 +3,23 @@
 // Limitation: won't include sanctions data since the only sources are undated.
 //
 
+import { groups } from '../common/constants.js';
 import {
   getHistoryFilePath,
   getSummaryFilePath,
   getTeamDetailsFilePath,
 } from '../common/filenames.js';
-import { groups } from '../common/constants.js';
-import type { TeamDetailsJson, TeamsSummaryJson } from '../common/types/TeamJson.js';
-import type { Rider } from '../common/types/Rider.js';
-import type { Team } from '../common/types/Team.js';
-import type { PointsHistory } from '../common/types/PointsHistory.js';
 import { formatNumericDate } from '../common/formatDate.js';
+import type {
+  PointsHistory,
+  Rider,
+  Team,
+  TeamDetailsJson,
+  TeamsSummaryJson,
+} from '../common/types/index.js';
+import { readJson } from './data/readJson.js';
 import { updateMovement } from './data/updateHistory.js';
 import { writeJson } from './data/writeJson.js';
-import { readJson } from './data/readJson.js';
 
 const year = 2025;
 // This date should be a Tuesday, or the file will be removed by the cleanup script

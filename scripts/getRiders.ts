@@ -4,18 +4,17 @@
 //
 
 import fs from 'fs';
-import type { UciRiderRanking } from './data/uci/types/UciRiderRanking.js';
-import { getRiderPcsData } from './data/getRiderPcsData.js';
-import { getUciRiderRankings } from './data/uci/getUciRiderRankings.js';
-import type { Group } from '../common/types/Group.js';
-import type { BaseRider } from '../common/types/Rider.js';
-import { writeJson } from './data/writeJson.js';
-import { getRidersFilePath } from '../common/filenames.js';
 import { years } from '../common/constants.js';
+import { getRidersFilePath } from '../common/filenames.js';
+import type { BaseRider, Group } from '../common/types/index.js';
+import { getRiderId } from '../data/getRiderId.js';
+import { importDraftFile } from '../data/importDraftFile.js';
+import { getRiderPcsData } from './data/getRiderPcsData.js';
 import { readJson } from './data/readJson.js';
 import { toTitleCase } from './data/toTitleCase.js';
-import { importDraftFile } from '../data/importDraftFile.js';
-import { getRiderId } from '../data/getRiderId.js';
+import { getUciRiderRankings } from './data/uci/getUciRiderRankings.js';
+import type { UciRiderRanking } from './data/uci/types/UciRiderRanking.js';
+import { writeJson } from './data/writeJson.js';
 
 const group: Group = process.argv.includes('--men') ? 'men' : 'women';
 const year = years[0];

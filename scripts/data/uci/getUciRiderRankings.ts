@@ -1,7 +1,7 @@
-import type { UciRiderRanking } from './types/UciRiderRanking.js';
-import type { Group } from '../../../common/types/Group.js';
-import { doUciRequest } from './doUciRequest.js';
+import type { Group } from '../../../common/types/index.js';
 import { uciRankingParams } from '../../../common/uciRankingParams.js';
+import { doUciRequest } from './doUciRequest.js';
+import type { UciRiderRanking } from './types/UciRiderRanking.js';
 
 const riderRankingsUrl = 'https://dataride.uci.ch/iframe/ObjectRankings/';
 

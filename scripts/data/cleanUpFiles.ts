@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { datedSummaryFileRegex, getSummaryFilePath } from '../../common/filenames.js';
-import type { Group } from '../../common/types/Group.js';
+import type { Group } from '../../common/types/index.js';
 
 /**
  * For PCS, we end up with a file every day, which is excessive to keep them all.

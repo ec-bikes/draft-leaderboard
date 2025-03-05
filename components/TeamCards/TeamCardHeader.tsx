@@ -1,9 +1,9 @@
-import type React from 'react';
 import { Stack, styled, Typography } from '@mui/material';
-import type { Team } from '../../common/types/Team';
-import { rankingNumberSize, spacing } from '../theme.js';
+import type React from 'react';
+import type { Team } from '../../common/types/index';
 import { ArrowUpIcon } from '../icons/ArrowUp.js';
 import { CircleSmallIcon } from '../icons/CircleSmall.js';
+import { rankingNumberSize, spacing } from '../theme.js';
 
 const arrowSize = 0.9;
 const iconStyle: React.CSSProperties = {

@@ -1,12 +1,10 @@
 import fs from 'fs';
 import { getHistoryFilePath } from '../../common/filenames.js';
-import type { Group } from '../../common/types/Group.js';
-import type { PointsHistory } from '../../common/types/PointsHistory.js';
-import type { Team } from '../../common/types/Team.js';
-import type { RankingMetadataResult } from './getRankingMetadata.js';
 import { formatNumericDate } from '../../common/formatDate.js';
-import { writeJson } from './writeJson.js';
+import type { Group, PointsHistory, Team } from '../../common/types/index.js';
+import type { RankingMetadataResult } from './getRankingMetadata.js';
 import { readJson } from './readJson.js';
+import { writeJson } from './writeJson.js';
 
 /**
  * Update points history file and fill in `movement` property of teams.

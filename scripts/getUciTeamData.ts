@@ -4,13 +4,13 @@
 import fs from 'fs';
 import { groups, years } from '../common/constants.js';
 import { getRidersFilePath, getUciTeamsFilePath } from '../common/filenames.js';
-import type { UciRiderRanking } from './data/uci/types/UciRiderRanking.js';
-import { readJson } from './data/readJson.js';
-import { writeJson } from './data/writeJson.js';
-import { toTitleCase } from './data/toTitleCase.js';
-import type { UciTeamsJson } from '../common/types/TeamJson.js';
-import { importDraftFile } from '../data/importDraftFile.js';
+import type { UciTeamsJson } from '../common/types/index.js';
 import { getRiderId } from '../data/getRiderId.js';
+import { importDraftFile } from '../data/importDraftFile.js';
+import { readJson } from './data/readJson.js';
+import { toTitleCase } from './data/toTitleCase.js';
+import type { UciRiderRanking } from './data/uci/types/UciRiderRanking.js';
+import { writeJson } from './data/writeJson.js';
 
 const year = years[0];
 const files = {

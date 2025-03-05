@@ -1,7 +1,7 @@
 import fetch from 'node-fetch';
 import { parse, type HTMLElement as BasicHTMLElement } from 'node-html-parser';
-import type { BaseRider } from '../../../common/types/Rider.js';
 import { getPcsUrl } from '../../../common/getPcsUrl.js';
+import type { BaseRider } from '../../../common/types/index.js';
 import { logWarning } from '../../log.js';
 
 /**

@@ -1,11 +1,11 @@
-import { Stack, Tab, Typography } from '@mui/material';
 import { TabContext, TabList, TabPanel } from '@mui/lab';
+import { Stack, Tab, Typography } from '@mui/material';
 import { useData } from 'vike-react/useData';
-import { Competition } from '../Competition/Competition.js';
-import type { DraftData } from '../../common/types/DraftData.js';
-import { spacing } from '../theme.js';
 import { groups } from '../../common/constants.js';
 import { getPageUrl } from '../../common/pageUrls.js';
+import type { DraftData } from '../../common/types/index.js';
+import { Competition } from '../Competition/Competition.js';
+import { spacing } from '../theme.js';
 
 export function Page() {
   const { group, year } = useData<DraftData>();

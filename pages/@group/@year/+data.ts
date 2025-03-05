@@ -1,12 +1,15 @@
 import fs from 'fs';
 import type { PageContext } from 'vike/types';
-import type { DraftData } from '../../../common/types/DraftData.js';
 import { years } from '../../../common/constants.js';
 import { getSummaryFilePath, getUciTeamsFilePath } from '../../../common/filenames.js';
-import type { Group } from '../../../common/types/Group.js';
-import { readJson } from '../../../scripts/data/readJson.js';
-import type { TeamsSummaryJson, UciTeamsJson } from '../../../common/types/TeamJson.js';
+import type {
+  DraftData,
+  Group,
+  TeamsSummaryJson,
+  UciTeamsJson,
+} from '../../../common/types/index.js';
 import { importDraftFile } from '../../../data/importDraftFile.js';
+import { readJson } from '../../../scripts/data/readJson.js';
 
 export async function data(pageContext: PageContext): Promise<DraftData | undefined> {
   // This is also used for the top level route, so provide a default year
