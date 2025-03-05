@@ -11,7 +11,6 @@ import {
   styled,
 } from '@mui/material';
 import type { Team } from '../../common/types/Team';
-import type { Group } from '../../common/types/Group';
 import { getUciRiderUrl } from '../../common/uciUrls.js';
 import { getPcsUrl } from '../../common/getPcsUrl.js';
 import { spacing } from '../theme.js';
@@ -19,7 +18,7 @@ import type { RiderDialogProps } from '../RiderDialog/RiderDialog.js';
 import { TeamCardHeader } from './TeamCardHeader.js';
 import { Country } from '../Country/Country.js';
 import { useData } from 'vike-react/useData';
-import { ClientData } from '../../common/types/ClientData.js';
+import { DraftData } from '../../common/types/DraftData.js';
 
 const LazyRiderDialog = React.lazy(() => import('../RiderDialog/RiderDialog.js'));
 
@@ -33,16 +32,11 @@ const RiderTableRow = styled(TableRow)({
 /** A slightly wider space (NOT a normal space character) */
 const enSpace = ' ';
 
-export function TeamCardContent(props: {
-  team: Team;
-  rank: number;
-  momentId: number;
-  group: Group;
-  year: number;
-}) {
-  const { team, rank, momentId, group, year } = props;
+export function TeamCardContent(props: { team: Team; rank: number }) {
+  const { team, rank } = props;
+  const { momentId, group, year } = useData<DraftData>();
   const [riderForDialog, setRiderForDialog] = React.useState<RiderDialogProps['rider']>();
-  const { uciTeamNames } = useData<ClientData>();
+  const { uciTeamNames } = useData<DraftData>();
 
   const riders = [...team.riders]
     .sort((a, b) => b.totalPoints - a.totalPoints)
@@ -82,8 +76,6 @@ export function TeamCardContent(props: {
           <LazyRiderDialog
             rider={riderForDialog}
             teamOwner={team.owner}
-            group={group}
-            year={year}
             onClose={() => setRiderForDialog(undefined)}
           />
         </React.Suspense>
@@ -93,7 +85,7 @@ export function TeamCardContent(props: {
 }
 
 function RiderRow(
-  props: Pick<ClientData, 'uciTeamNames'> & {
+  props: Pick<DraftData, 'uciTeamNames'> & {
     rider: RiderDialogProps['rider'];
     onOpenDialog: () => void;
   },

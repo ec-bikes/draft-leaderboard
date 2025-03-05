@@ -2,15 +2,13 @@ import { Stack, Tab, Typography } from '@mui/material';
 import { TabContext, TabList, TabPanel } from '@mui/lab';
 import { useData } from 'vike-react/useData';
 import { Competition } from '../Competition/Competition.js';
-import type { ClientData } from '../../common/types/ClientData.js';
+import type { DraftData } from '../../common/types/DraftData.js';
 import { spacing } from '../theme.js';
 import { groups } from '../../common/constants.js';
 import { getPageUrl } from '../../common/pageUrls.js';
 
 export function Page() {
-  const data = useData<ClientData>();
-
-  const { group, year } = data.draft;
+  const { group, year } = useData<DraftData>();
 
   return (
     <Stack spacing={spacing.page.vertical} alignItems="center">
@@ -29,7 +27,7 @@ export function Page() {
           ))}
         </TabList>
         <TabPanel key={group} value={group}>
-          <Competition {...data} />
+          <Competition />
         </TabPanel>
       </TabContext>
     </Stack>

@@ -14,19 +14,16 @@ import {
   Typography,
   styled,
 } from '@mui/material';
-import type { Group } from '../../common/types/Group.js';
 import { CloseIcon } from '../icons/Close.js';
 import type { TeamDetailsJson } from '../../common/types/TeamJson.js';
 import { years } from '../../common/constants.js';
 import { Country } from '../Country/Country.js';
 import { useData } from 'vike-react/useData';
-import { ClientData } from '../../common/types/ClientData.js';
+import { DraftData } from '../../common/types/DraftData.js';
 
 export interface RiderDialogProps {
-  group: Group;
   teamOwner: string;
   rider: Rider & { uciUrl: string; pcsUrl: string };
-  year: number;
   onClose: () => void;
 }
 
@@ -54,10 +51,12 @@ function CloseButton(props: { onClose: () => void }) {
 
 // this has to be export default due to react.lazy
 export default function RiderDialog(props: RiderDialogProps) {
-  const { teamOwner, rider, group, year, onClose } = props;
+  const { teamOwner, rider, onClose } = props;
+  const { group, year } = useData<DraftData>();
+
   const [results, setResults] = React.useState<RaceResult[]>();
   const [error, setError] = React.useState<string>();
-  const { uciTeamNames } = useData<ClientData>();
+  const { uciTeamNames } = useData<DraftData>();
   const uciTeamName = !!rider.team && uciTeamNames?.[rider.team];
 
   React.useEffect(() => {
@@ -85,11 +84,6 @@ export default function RiderDialog(props: RiderDialogProps) {
   return (
     <Dialog open onClose={onClose}>
       <DialogTitle>
-        {/* {rider.country && (
-          <>
-            <Country flagOnly country={rider.country} />{' '}
-          </>
-        )} */}
         <strong>{rider.name}</strong>
       </DialogTitle>
       <CloseButton onClose={onClose} />
@@ -115,11 +109,6 @@ export default function RiderDialog(props: RiderDialogProps) {
             Trade team: {uciTeamName} ({rider.team})
           </Typography>
         )}
-        {/* {rider.country && uciTeamName && (
-          <Typography>
-            <Country country={rider.country} /> - {uciTeamName} ({rider.team})
-          </Typography>
-        )} */}
         <br />
         {results && (
           <Table aria-label={`Results for ${rider.name}`}>

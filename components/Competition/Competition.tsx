@@ -6,12 +6,12 @@ import { spacing } from '../theme.js';
 import { formatDate } from '../../common/formatDate.js';
 import { years } from '../../common/constants.js';
 import { getPageUrl } from '../../common/pageUrls.js';
-import type { ClientData } from '../../common/types/ClientData.js';
+import { useData } from 'vike-react/useData';
+import { DraftData } from '../../common/types/DraftData.js';
 
-export function Competition(props: ClientData) {
-  const { teamData, draft } = props;
-  const { group, year, podcast, link, tradeDate } = draft;
-  const { source } = teamData;
+export function Competition() {
+  const data = useData<DraftData>();
+  const { source, group, year, podcast, link, tradeDate } = data;
 
   const linkText = (
     <>
@@ -32,16 +32,13 @@ export function Competition(props: ClientData) {
         )}{' '}
         rankings, based on{' '}
         {source === 'uci' ? (
-          <Link
-            target="_blank"
-            href={getUciSeasonRankingUrl({ momentId: teamData.momentId, group })}
-          >
+          <Link target="_blank" href={getUciSeasonRankingUrl({ momentId: data.momentId, group })}>
             UCI points
           </Link>
         ) : (
           <>UCI points (via PCS)</>
         )}{' '}
-        as of <strong>{source === 'uci' ? teamData.uciRankingDate : teamData.fetchedDate}</strong>.
+        as of <strong>{source === 'uci' ? data.uciRankingDate : data.fetchedDate}</strong>.
         {tradeDate && (
           <>
             <br /> Includes trades from {formatDate(new Date(tradeDate), 'short')}.
@@ -51,7 +48,7 @@ export function Competition(props: ClientData) {
         (Other years: {getYearLinks(group, year)})
       </Typography>
 
-      <TeamCards teamData={teamData} group={group} year={year} />
+      <TeamCards />
     </Stack>
   );
 }
