@@ -1,8 +1,8 @@
 import fetch from 'node-fetch';
 import { parse, type HTMLElement as BasicHTMLElement } from 'node-html-parser';
-import { getPcsUrl } from '../../../common/getPcsUrl.js';
-import type { BaseRider } from '../../../common/types/index.js';
-import { logWarning } from '../../log.js';
+import { getPcsUrl } from '../../common/getPcsUrl.js';
+import type { BaseRider } from '../../common/types/index.js';
+import { logWarning } from '../log.js';
 
 /**
  * Get data from a rider's ProCyclingStats page for a given year.

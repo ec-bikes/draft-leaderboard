@@ -2,16 +2,13 @@ import fs from 'fs';
 import { getHistoryFilePath } from '../../common/filenames.js';
 import { formatNumericDate } from '../../common/formatDate.js';
 import type { Group, PointsHistory, Team } from '../../common/types/index.js';
-import type { RankingMetadataResult } from './getRankingMetadata.js';
 import { readJson } from '../utils/readJson.js';
 import { writeJson } from '../utils/writeJson.js';
 
 /**
  * Update points history file and fill in `movement` property of teams.
  */
-export function updateHistory(
-  params: Pick<RankingMetadataResult, 'fileDate'> & { group: Group; teams: Team[] },
-): void {
+export function updateHistory(params: { fileDate: Date; group: Group; teams: Team[] }): void {
   const { group, teams, fileDate } = params;
 
   const historyPath = getHistoryFilePath({ group, year: fileDate.getFullYear() });

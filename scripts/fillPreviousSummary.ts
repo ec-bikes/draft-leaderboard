@@ -18,7 +18,7 @@ import type {
   TeamsSummaryJson,
 } from '../common/types/index.js';
 import { readJson } from './utils/readJson.js';
-import { updateMovement } from './data/updateHistory.js';
+import { updateMovement } from './aggregate/updateHistory.js';
 import { writeJson } from './utils/writeJson.js';
 
 const year = 2025;

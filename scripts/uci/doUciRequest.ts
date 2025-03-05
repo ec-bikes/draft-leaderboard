@@ -1,6 +1,6 @@
 import fetch, { type RequestInit } from 'node-fetch';
-import { formatQueryParams } from '../../../common/uciUrls.js';
-import { logWarning } from '../../log.js';
+import { formatQueryParams } from '../../common/uciUrls.js';
+import { logWarning } from '../log.js';
 
 /** Response from UCI APIs taking POST requests with paging */
 interface UciApiResult<T> {

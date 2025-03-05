@@ -1,5 +1,5 @@
 import { describe, it, expect, vi, beforeAll, afterAll } from 'vitest';
-import * as getRiderPcsDataModule from './getRiderPcsData.js';
+import * as getPcsRiderDataModule from '../pcs/getPcsRiderData.js';
 import { getTeamData } from './getTeamData.js';
 import { getRiderId } from '../../data/getRiderId.js';
 
@@ -34,7 +34,7 @@ function getParams(
 // test handling of edge cases for traded riders
 describe('getTeamData', () => {
   beforeAll(() => {
-    vi.spyOn(getRiderPcsDataModule, 'getRiderPcsData').mockImplementation(async ({ rider }) => ({
+    vi.spyOn(getPcsRiderDataModule, 'getPcsRiderData').mockImplementation(async ({ rider }) => ({
       ...rider,
       totalPoints: 50,
       results: [

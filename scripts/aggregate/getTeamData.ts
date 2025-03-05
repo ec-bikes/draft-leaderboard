@@ -8,8 +8,8 @@ import type {
   UciTeamsJson,
 } from '../../common/types/index.js';
 import { getRiderId } from '../../data/getRiderId.js';
-import { getRiderPcsData } from './getRiderPcsData.js';
-import { getRiderUciData } from './getRiderUciData.js';
+import { getPcsRiderData } from '../pcs/getPcsRiderData.js';
+import { getUciRiderData } from '../uci/index.js';
 
 export async function getTeamData(params: {
   source: Source;
@@ -40,11 +40,21 @@ export async function getTeamData(params: {
       throw new Error(`Missing UciTeamsJson data for ${riderName} (${riderId})`);
     }
 
+    // Currently it's necessary to fill in sanctions in UCI data from PCS data,
+    // so get that regardless
     const rawRider: BaseRider = { name: riderName, id: riderId };
-    const { results, ...riderData } =
-      source === 'uci'
-        ? await getRiderUciData({ rider: rawRider, momentId, year, group })
-        : await getRiderPcsData({ rider: rawRider, year });
+    let data = await getPcsRiderData({ rider: rawRider, year });
+    if (source === 'uci') {
+      data = await getUciRiderData({
+        rider: rawRider,
+        momentId,
+        year,
+        group,
+        sanctions: data.sanctions,
+      });
+    }
+
+    const { results, ...riderData } = data;
     const rider: RiderDetails = {
       ...riderData,
       team: uciRider.team,

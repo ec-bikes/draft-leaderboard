@@ -9,8 +9,9 @@ import { getRiderId } from '../data/getRiderId.js';
 import { importDraftFile } from '../data/importDraftFile.js';
 import { readJson } from './utils/readJson.js';
 import { toTitleCase } from './utils/toTitleCase.js';
-import type { UciRiderRanking } from './data/uci/types/UciRiderRanking.js';
+import type { UciRiderRanking } from './uci/index.js';
 import { writeJson } from './utils/writeJson.js';
+import { logWarning } from './log.js';
 
 const year = years[0];
 const files = {
@@ -43,14 +44,14 @@ for (const group of groups) {
       const nameAndId = `${riderName} (${riderId})`;
       const rider = uciRiders.find((r) => r.ObjectId === riderId);
       if (!rider) {
-        console.warn(`Couldn't find ${nameAndId} in UCI rankings`);
+        logWarning(`Couldn't find ${nameAndId} in UCI rankings`);
         missing[group].push(nameAndId);
         continue;
       }
 
       const { TeamCode, TeamName, FlagCode } = rider;
       if (!(TeamCode && TeamName && FlagCode)) {
-        console.warn(`Missing data for ${nameAndId} (see ${ridersPath})`);
+        logWarning(`Missing data for ${nameAndId} (see ${ridersPath})`);
         missing[group].push(nameAndId);
       } else {
         teamsJson.teamNames[TeamCode] = toTitleCase(TeamName);

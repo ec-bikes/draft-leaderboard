@@ -1,28 +1,29 @@
 import type { BaseRider, Group, RiderDetails } from '../../common/types/index.js';
-import { getRiderPcsData } from './getRiderPcsData.js';
-import { getRiderResults } from './getRiderResults.js';
+import { getUciRiderResults } from './getUciRiderResults.js';
 
 /**
  * Get data for a rider. Mostly uses UCI data, but also gets PCS data for sanctions.
  * Throws if there's an error fetching data.
  */
-export async function getRiderUciData(params: {
+export async function getUciRiderData(params: {
   rider: BaseRider;
   year: number;
   momentId: number;
   group: Group;
+  /**
+   * The UCI API only includes 12-month rolling sanctions, so this must be calculated from the
+   * PCS API and passed in...
+   */
+  sanctions: number | undefined;
 }): Promise<Omit<RiderDetails, 'totalPoints'>> {
   const rider: Omit<RiderDetails, 'totalPoints'> = { ...params.rider, results: [] };
 
   console.log(`Getting UCI data for ${rider.name}`);
 
   // Get rider results from the UCI API
-  rider.results = await getRiderResults(params);
+  rider.results = await getUciRiderResults(params);
 
-  // Get current year sanctions from PCS, because the only value I can find from the UCI is
-  // 12-month rolling, which isn't useful here.
-  const pcsData = await getRiderPcsData(params);
-  rider.sanctions = pcsData.sanctions;
+  rider.sanctions = params.sanctions;
 
   return rider;
 }

@@ -1,4 +1,4 @@
-import type { uciRankingSeasons } from '../../../../common/uciRankingParams.js';
+import type { uciRankingSeasons } from '../../../common/uciRankingParams.js';
 
 /**
  * Rider ranking info returned from the UCI rankings API (see `getUciRiderRankings` and

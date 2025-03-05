@@ -1,7 +1,12 @@
-import type { Group } from '../../../common/types/index.js';
-import { uciRankingParams } from '../../../common/uciRankingParams.js';
+//
+// This file contains low-level helpers to get results from different APIs.
+//
+
+import type { Group } from '../../common/types/index.js';
+import { uciRankingParams } from '../../common/uciRankingParams.js';
+import { formatQueryParams } from '../../common/uciUrls.js';
 import { doUciRequest } from './doUciRequest.js';
-import type { UciRiderRanking } from './types/UciRiderRanking.js';
+import type { UciRankingMoment, UciRiderRanking, UciRiderResult } from './types/index.js';
 
 const riderRankingsUrl = 'https://dataride.uci.ch/iframe/ObjectRankings/';
 
@@ -9,7 +14,7 @@ const riderRankingsUrl = 'https://dataride.uci.ch/iframe/ObjectRankings/';
  * Get the top `limit` riders in the ranking.
  * Returns the results or an error string.
  */
-export function getUciRiderRankings(params: {
+export function fetchUciRiderRankings(params: {
   limit: number;
   group: Group;
 }): Promise<UciRiderRanking[] | string> {
@@ -69,5 +74,50 @@ export function searchUciRiderRankings(params: {
       'filter[filters][6][field]': 'TeamName',
       'filter[filters][6][value]': '',
     },
+  });
+}
+
+/**
+ * Get details of a rider's results.
+ * Returns the results or an error string.
+ */
+export function fetchUciRiderResults(params: {
+  momentId: number;
+  individualId: number;
+  group: Group;
+}): Promise<UciRiderResult[] | string> {
+  const { group, individualId, momentId } = params;
+  const { rankingTypeId, ...otherParams } = uciRankingParams[group];
+
+  // https://dataride.uci.ch/iframe/IndividualEventRankings/
+  // individualId=151466&rankingId=32&momentId=175727&groupId=2&baseRankingTypeId=1&disciplineSeasonId=432&disciplineId=10&categoryId=23&raceTypeId=0&countryId=0&teamId=0&take=40&skip=0&page=1&pageSize=40
+  return doUciRequest({
+    url: 'https://dataride.uci.ch/iframe/IndividualEventRankings/',
+    postData: {
+      individualId,
+      momentId,
+      ...otherParams,
+      baseRankingTypeId: rankingTypeId,
+      raceTypeId: 0,
+      countryId: 0,
+      teamId: 0,
+    },
+  });
+}
+
+/**
+ * Get UCI ranking moments, or an error string.
+ */
+export function fetchUciRankingMoments(group: Group): Promise<UciRankingMoment[] | string> {
+  const { disciplineId, disciplineSeasonId, rankingId } = uciRankingParams[group];
+
+  // https://dataride.uci.ch/iframe/GetRankingMoments/?disciplineId=10&disciplineSeasonId=432&rankingId=32
+  return doUciRequest({
+    url: `https://dataride.uci.ch/iframe/GetRankingMoments/?${formatQueryParams({
+      disciplineId,
+      disciplineSeasonId,
+      rankingId,
+    })}`,
+    isPlainArray: true,
   });
 }

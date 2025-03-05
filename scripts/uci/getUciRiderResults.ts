@@ -1,12 +1,12 @@
 import type { BaseRider, Group, RaceResult } from '../../common/types/index.js';
 import { logWarning } from '../log.js';
-import { getUciRiderResults } from './uci/getUciRiderResults.js';
+import { fetchUciRiderResults } from './uciApis.js';
 
 /**
  * Get the current year's race results for a rider from the UCI API.
  * Throws if there's an error fetching data.
  */
-export async function getRiderResults(params: {
+export async function getUciRiderResults(params: {
   rider: BaseRider;
   momentId: number;
   year: number;
@@ -15,7 +15,7 @@ export async function getRiderResults(params: {
   const { momentId, rider, year, group } = params;
   const { name, id } = rider;
 
-  const rawResults = await getUciRiderResults({ momentId, individualId: id, group });
+  const rawResults = await fetchUciRiderResults({ momentId, individualId: id, group });
   if (typeof rawResults === 'string') {
     // It's critical to get everyone's race results, so stop if something is going wrong
     throw new Error(`Couldn't get results for ${name}: ${rawResults}`);

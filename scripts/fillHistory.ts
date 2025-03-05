@@ -12,7 +12,7 @@ import {
 import type { Group, PointsHistory, TeamsSummaryJson } from '../common/types/index.js';
 import { importDraftFile } from '../data/importDraftFile.js';
 import { readJson } from './utils/readJson.js';
-import { updateHistory } from './data/updateHistory.js';
+import { updateHistory } from './aggregate/updateHistory.js';
 import { writeJson } from './utils/writeJson.js';
 
 const group: Group = 'men';

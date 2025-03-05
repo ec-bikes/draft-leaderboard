@@ -4,7 +4,7 @@ import type { HTMLElement as BasicHTMLElement } from 'node-html-parser';
  * Parse the totals row from a rider's ProCyclingStats page.
  * Throws if the data isn't in the expected format.
  */
-export function getPcsRiderTotals(params: { pcsUrl: string; resultsSum: BasicHTMLElement }): {
+export function parsePcsRiderTotals(params: { pcsUrl: string; resultsSum: BasicHTMLElement }): {
   uciPoints: number;
   sanctions: number | undefined;
 } {
