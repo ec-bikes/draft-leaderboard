@@ -1,0 +1,322 @@
+{
+  "teamNames": {
+    "SDW": "Team SD Worx - Protime",
+    "CSZ": "CANYON//SRAM zondacrypto",
+    "AGS": "AG Insurance - Soudal Team",
+    "LIV": "Liv-AlUla-Jayco",
+    "HPH": "Human Powered Health",
+    "LTK": "Lidl - Trek",
+    "UAD": "UAE Team ADQ",
+    "TVL": "Team Visma | Lease a Bike",
+    "TPP": "Team Picnic PostNL",
+    "UXM": "Uno-X Mobility",
+    "VWT": "VolkerWessels Cycling Team",
+    "TFS": "FDJ-Suez",
+    "EFO": "EF Education - Oatly",
+    "FDC": "Fenix-Deceuninck",
+    "MOV": "Movistar Team",
+    "CTC": "Ceratizit Pro Cycling Team"
+  },
+  "riderInfo": {
+    "31144": {
+      "name": "Marianne Vos",
+      "team": "TVL",
+      "country": "nl"
+    },
+    "59726": {
+      "name": "Anna van der Breggen",
+      "team": "SDW",
+      "country": "nl"
+    },
+    "66056": {
+      "name": "Lucinda Brand",
+      "team": "LTK",
+      "country": "nl"
+    },
+    "71998": {
+      "name": "Arlenis Sierra",
+      "team": "MOV",
+      "country": "cu"
+    },
+    "73504": {
+      "name": "Lotte Kopecky",
+      "team": "SDW",
+      "country": "be"
+    },
+    "76149": {
+      "name": "Elisa Longo Borghini",
+      "team": "UAD",
+      "country": "it"
+    },
+    "78086": {
+      "name": "Georgia Baker",
+      "team": "LIV",
+      "country": "au"
+    },
+    "79176": {
+      "name": "Thalita de Jong",
+      "team": "HPH",
+      "country": "nl"
+    },
+    "79690": {
+      "name": "Pauliena Rooijakkers",
+      "team": "FDC",
+      "country": "nl"
+    },
+    "86824": {
+      "name": "Kasia Niewiadoma",
+      "team": "CSZ",
+      "country": "pl"
+    },
+    "86838": {
+      "name": "Cecilie Uttrup Ludwig",
+      "team": "CSZ",
+      "country": "dk"
+    },
+    "86854": {
+      "name": "Riejanne Markus",
+      "team": "LTK",
+      "country": "nl"
+    },
+    "88660": {
+      "name": "Kim le Court",
+      "team": "AGS",
+      "country": "mu"
+    },
+    "96399": {
+      "name": "Marta Lach",
+      "team": "SDW",
+      "country": "pl"
+    },
+    "97498": {
+      "name": "Juliette Labous",
+      "team": "TFS",
+      "country": "fr"
+    },
+    "98571": {
+      "name": "Karlijn Swinkels",
+      "team": "UAD",
+      "country": "nl"
+    },
+    "98622": {
+      "name": "Kathrin Schweinberger",
+      "team": "HPH",
+      "country": "at"
+    },
+    "99885": {
+      "name": "Daria Pikulik",
+      "team": "HPH",
+      "country": "pl"
+    },
+    "101715": {
+      "name": "Ingvild Gåskjenn",
+      "team": "UXM",
+      "country": "no"
+    },
+    "101826": {
+      "name": "Elisa Balsamo",
+      "team": "LTK",
+      "country": "it"
+    },
+    "106168": {
+      "name": "Brodie Chapman",
+      "team": "UAD",
+      "country": "au"
+    },
+    "107539": {
+      "name": "Silvia Persico",
+      "team": "UAD",
+      "country": "it"
+    },
+    "109412": {
+      "name": "Evita Muzic",
+      "team": "TFS",
+      "country": "fr"
+    },
+    "109716": {
+      "name": "Chloe Dygert",
+      "team": "CSZ",
+      "country": "us"
+    },
+    "140495": {
+      "name": "Liane Lippert",
+      "team": "MOV",
+      "country": "de"
+    },
+    "141733": {
+      "name": "Lorena Wiebes",
+      "team": "SDW",
+      "country": "nl"
+    },
+    "151466": {
+      "name": "Demi Vollering",
+      "team": "TFS",
+      "country": "nl"
+    },
+    "153287": {
+      "name": "Clara Copponi",
+      "team": "LTK",
+      "country": "fr"
+    },
+    "153350": {
+      "name": "Pfeiffer Georgi",
+      "team": "TPP",
+      "country": "gb"
+    },
+    "153363": {
+      "name": "Letizia Paternoster",
+      "team": "LIV",
+      "country": "it"
+    },
+    "156600": {
+      "name": "Chiara Consonni",
+      "team": "CSZ",
+      "country": "it"
+    },
+    "157612": {
+      "name": "Charlotte Kool",
+      "team": "TPP",
+      "country": "nl"
+    },
+    "217072": {
+      "name": "Niamh Fisher-Black",
+      "team": "LTK",
+      "country": "nz"
+    },
+    "220562": {
+      "name": "Ally Wollaston",
+      "team": "TFS",
+      "country": "nz"
+    },
+    "227721": {
+      "name": "Mischa Bredewold",
+      "team": "SDW",
+      "country": "nl"
+    },
+    "228141": {
+      "name": "Sofie van Rooijen",
+      "team": "UAD",
+      "country": "nl"
+    },
+    "228375": {
+      "name": "Shirin van Anrooij",
+      "team": "LTK",
+      "country": "nl"
+    },
+    "231378": {
+      "name": "Silke Smulders",
+      "team": "LIV",
+      "country": "nl"
+    },
+    "233425": {
+      "name": "Scarlett Souren",
+      "team": "VWT",
+      "country": "nl"
+    },
+    "234336": {
+      "name": "Puck Pieterse",
+      "team": "FDC",
+      "country": "nl"
+    },
+    "237690": {
+      "name": "Anna Henderson",
+      "team": "LTK",
+      "country": "gb"
+    },
+    "303036": {
+      "name": "Gaia Realini",
+      "team": "LTK",
+      "country": "it"
+    },
+    "347941": {
+      "name": "Noemi Rüegg",
+      "team": "EFO",
+      "country": "ch"
+    },
+    "398547": {
+      "name": "Mavi Garcia",
+      "team": "LIV",
+      "country": "es"
+    },
+    "459694": {
+      "name": "Lily Williams",
+      "team": "HPH",
+      "country": "us"
+    },
+    "488553": {
+      "name": "Sarah van Dam",
+      "team": "CTC",
+      "country": "ca"
+    },
+    "1589305": {
+      "name": "Marlen Reusser",
+      "team": "MOV",
+      "country": "ch"
+    },
+    "1638135": {
+      "name": "Elise Chabbey",
+      "team": "TFS",
+      "country": "ch"
+    },
+    "1742562": {
+      "name": "Marion Bunel",
+      "team": "TVL",
+      "country": "fr"
+    },
+    "1750054": {
+      "name": "Cedrine Kerbaol",
+      "team": "EFO",
+      "country": "fr"
+    },
+    "1897613": {
+      "name": "Monica Trinca Colonel",
+      "team": "LIV",
+      "country": "it"
+    },
+    "1987823": {
+      "name": "Neve Bradbury",
+      "team": "CSZ",
+      "country": "au"
+    },
+    "2096868": {
+      "name": "Lore de Schepper",
+      "team": "AGS",
+      "country": "be"
+    },
+    "2188959": {
+      "name": "Antonia Niedermaier",
+      "team": "CSZ",
+      "country": "de"
+    },
+    "2202121": {
+      "name": "Justine Ghekiere",
+      "team": "AGS",
+      "country": "be"
+    },
+    "2246047": {
+      "name": "Kim Cadzow",
+      "team": "EFO",
+      "country": "nz"
+    },
+    "2317617": {
+      "name": "Cat Ferguson",
+      "team": "MOV",
+      "country": "gb"
+    },
+    "226974": {
+      "name": "Maike van der Duin",
+      "team": "CSZ",
+      "country": "nl"
+    },
+    "1688341": {
+      "name": "Kristen Faulkner",
+      "team": "EFO",
+      "country": "us"
+    },
+    "66298": {
+      "name": "Pauline Ferrand-Prévot",
+      "team": "TVL",
+      "country": "fr"
+    }
+  }
+}

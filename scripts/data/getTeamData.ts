@@ -10,9 +10,9 @@ export async function getTeamData(params: {
   team: BaseTeam;
   momentId: number;
   draft: Pick<Draft, 'group' | 'year' | 'tradeDate'>;
-  riderIds: Record<string, number | undefined>;
+  getRiderId: (name: string) => number | undefined;
 }): Promise<TeamDetails> {
-  const { team: rawTeam, momentId, draft, source, riderIds } = params;
+  const { team: rawTeam, momentId, draft, source, getRiderId } = params;
   const { year, group, tradeDate: tradeDateStr } = draft;
   const tradeDate = tradeDateStr ? new Date(tradeDateStr).getTime() : null;
   const { owner, name, riders, tradedOut } = rawTeam;
@@ -25,7 +25,7 @@ export async function getTeamData(params: {
 
   // do the requests one at a time for now
   for (const riderName of riders) {
-    const riderId = riderIds[riderName];
+    const riderId = getRiderId(riderName);
     if (!riderId) {
       throw new Error(`Couldn't find ID for ${riderName}`);
     }

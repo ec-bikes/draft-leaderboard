@@ -40,6 +40,11 @@ export function getHistoryFilePath(params: FileParams) {
   return `${getBasePath(params)}/history.json` as const;
 }
 
+/** Get a UCI teams data file path. */
+export function getUciTeamsFilePath(params: FileParams) {
+  return `${getBasePath(params)}/uciTeams.json` as const;
+}
+
 /** Get a UCI rider list data file path. */
 export function getRidersFilePath(params: FileParams) {
   return `${getBasePath(params)}/riders.json` as const;

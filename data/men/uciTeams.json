@@ -1,0 +1,425 @@
+{
+  "teamNames": {
+    "UAD": "UAE Team Emirates XRG",
+    "LTK": "Lidl-Trek",
+    "SOQ": "Soudal Quick-Step",
+    "RBH": "Red Bull - Bora - Hansgrohe",
+    "ADC": "Alpecin-Deceuninck",
+    "EFE": "EF Education - EasyPost",
+    "DAT": "Decathlon AG2R La Mondiale Team",
+    "COF": "Cofidis",
+    "TVL": "Team Visma | Lease a Bike",
+    "MOV": "Movistar Team",
+    "TPP": "Team Picnic PostNL",
+    "TBV": "Bahrain Victorious",
+    "GFC": "Groupama-FDJ",
+    "IGD": "Ineos Grenadiers",
+    "XAT": "XDS Astana Team",
+    "JAY": "Team Jayco AlUla",
+    "IWA": "Intermarché - Wanty",
+    "LOT": "Lotto",
+    "ARK": "Arkea-B&B Hotels"
+  },
+  "riderInfo": {
+    "32532": {
+      "name": "Geraint Thomas",
+      "team": "IGD",
+      "country": "gb"
+    },
+    "54679": {
+      "name": "Diego Ulissi",
+      "team": "XAT",
+      "country": "it"
+    },
+    "58528": {
+      "name": "Michal Kwiatkowski",
+      "team": "IGD",
+      "country": "pl"
+    },
+    "62919": {
+      "name": "Michael Matthews",
+      "team": "JAY",
+      "country": "au"
+    },
+    "64531": {
+      "name": "Tim Wellens",
+      "team": "UAD",
+      "country": "be"
+    },
+    "68367": {
+      "name": "Mikel Landa",
+      "team": "SOQ",
+      "country": "es"
+    },
+    "68892": {
+      "name": "Toms Skujiņš",
+      "team": "LTK",
+      "country": "lv"
+    },
+    "70590": {
+      "name": "Adam Yates",
+      "team": "UAD",
+      "country": "gb"
+    },
+    "70962": {
+      "name": "Tim Merlier",
+      "team": "SOQ",
+      "country": "be"
+    },
+    "71677": {
+      "name": "Patrick Konrad",
+      "team": "LTK",
+      "country": "at"
+    },
+    "74994": {
+      "name": "Stefan Küng",
+      "team": "GFC",
+      "country": "ch"
+    },
+    "75859": {
+      "name": "Wout van Aert",
+      "team": "TVL",
+      "country": "be"
+    },
+    "76092": {
+      "name": "Pello Bilbao",
+      "team": "TBV",
+      "country": "es"
+    },
+    "79462": {
+      "name": "Mathieu van der Poel",
+      "team": "ADC",
+      "country": "nl"
+    },
+    "79522": {
+      "name": "Benoît Cosnefroy",
+      "team": "DAT",
+      "country": "fr"
+    },
+    "81980": {
+      "name": "Christophe Laporte",
+      "team": "TVL",
+      "country": "fr"
+    },
+    "86630": {
+      "name": "Alberto Bettiol",
+      "team": "XAT",
+      "country": "it"
+    },
+    "86895": {
+      "name": "Mads Pedersen",
+      "team": "LTK",
+      "country": "dk"
+    },
+    "86938": {
+      "name": "Maximilian Schachmann",
+      "team": "SOQ",
+      "country": "de"
+    },
+    "88143": {
+      "name": "Neilson Powless",
+      "team": "EFE",
+      "country": "us"
+    },
+    "88346": {
+      "name": "Sepp Kuss",
+      "team": "TVL",
+      "country": "us"
+    },
+    "88889": {
+      "name": "Primož Roglič",
+      "team": "RBH",
+      "country": "si"
+    },
+    "89223": {
+      "name": "Marc Soler",
+      "team": "UAD",
+      "country": "es"
+    },
+    "91637": {
+      "name": "Valentin Madouas",
+      "team": "GFC",
+      "country": "fr"
+    },
+    "91640": {
+      "name": "Filippo Ganna",
+      "team": "IGD",
+      "country": "it"
+    },
+    "91656": {
+      "name": "Richard Carapaz",
+      "team": "EFE",
+      "country": "ec"
+    },
+    "92264": {
+      "name": "Daniel Felipe Martínez",
+      "team": "RBH",
+      "country": "co"
+    },
+    "95844": {
+      "name": "Egan Bernal",
+      "team": "IGD",
+      "country": "co"
+    },
+    "96372": {
+      "name": "Jhonatan Narváez",
+      "team": "UAD",
+      "country": "ec"
+    },
+    "97091": {
+      "name": "Giulio Ciccone",
+      "team": "LTK",
+      "country": "it"
+    },
+    "97280": {
+      "name": "Aleksandr Vlasov",
+      "team": "RBH",
+      "country": "ru"
+    },
+    "97805": {
+      "name": "Ben O'Connor",
+      "team": "JAY",
+      "country": "au"
+    },
+    "101278": {
+      "name": "Axel Zingle",
+      "team": "TVL",
+      "country": "fr"
+    },
+    "107840": {
+      "name": "João Almeida",
+      "team": "UAD",
+      "country": "pt"
+    },
+    "109481": {
+      "name": "Thymen Arensman",
+      "team": "IGD",
+      "country": "nl"
+    },
+    "109803": {
+      "name": "Enric Mas",
+      "team": "MOV",
+      "country": "es"
+    },
+    "111343": {
+      "name": "Pavel Sivakov",
+      "team": "UAD",
+      "country": "fr"
+    },
+    "111683": {
+      "name": "Kaden Groves",
+      "team": "ADC",
+      "country": "au"
+    },
+    "112082": {
+      "name": "Jonas Vingegaard",
+      "team": "TVL",
+      "country": "dk"
+    },
+    "112351": {
+      "name": "David Gaudu",
+      "team": "GFC",
+      "country": "fr"
+    },
+    "144019": {
+      "name": "Christian Scaroni",
+      "team": "XAT",
+      "country": "it"
+    },
+    "148275": {
+      "name": "Jasper Philipsen",
+      "team": "ADC",
+      "country": "be"
+    },
+    "148901": {
+      "name": "Jordi Meeus",
+      "team": "RBH",
+      "country": "be"
+    },
+    "149727": {
+      "name": "Tadej Pogačar",
+      "team": "UAD",
+      "country": "si"
+    },
+    "150923": {
+      "name": "Brandon McNulty",
+      "team": "UAD",
+      "country": "us"
+    },
+    "150925": {
+      "name": "Felix Gall",
+      "team": "DAT",
+      "country": "at"
+    },
+    "154218": {
+      "name": "Maxim van Gils",
+      "team": "LOT",
+      "country": "be"
+    },
+    "154227": {
+      "name": "Mauri Vansevenant",
+      "team": "SOQ",
+      "country": "be"
+    },
+    "159567": {
+      "name": "Matteo Jorgenson",
+      "team": "TVL",
+      "country": "us"
+    },
+    "217083": {
+      "name": "Finn Fisher-Black",
+      "team": "RBH",
+      "country": "nz"
+    },
+    "221617": {
+      "name": "Laurence Pithie",
+      "team": "RBH",
+      "country": "nz"
+    },
+    "227110": {
+      "name": "Olav Kooij",
+      "team": "TVL",
+      "country": "nl"
+    },
+    "257361": {
+      "name": "Paul Lapeira",
+      "team": "DAT",
+      "country": "fr"
+    },
+    "301151": {
+      "name": "Jonathan Milan",
+      "team": "LTK",
+      "country": "it"
+    },
+    "308040": {
+      "name": "Antonio Tiberi",
+      "team": "TBV",
+      "country": "it"
+    },
+    "353375": {
+      "name": "Santiago Buitrago",
+      "team": "TBV",
+      "country": "co"
+    },
+    "361433": {
+      "name": "Magnus Sheffield",
+      "team": "IGD",
+      "country": "us"
+    },
+    "365033": {
+      "name": "Mattias Skjelmose",
+      "team": "LTK",
+      "country": "dk"
+    },
+    "373832": {
+      "name": "Pablo Castrillo",
+      "team": "MOV",
+      "country": "es"
+    },
+    "415141": {
+      "name": "Juan Ayuso",
+      "team": "UAD",
+      "country": "es"
+    },
+    "422863": {
+      "name": "Alex Aranburu",
+      "team": "COF",
+      "country": "es"
+    },
+    "428096": {
+      "name": "Carlos Rodriguez",
+      "team": "IGD",
+      "country": "es"
+    },
+    "462394": {
+      "name": "Jan Christen",
+      "team": "UAD",
+      "country": "ch"
+    },
+    "472995": {
+      "name": "Mathias Vacek",
+      "team": "LTK",
+      "country": "cz"
+    },
+    "482927": {
+      "name": "Tobias Andresen",
+      "team": "TPP",
+      "country": "dk"
+    },
+    "762315": {
+      "name": "Kevin Vermaerke",
+      "team": "TPP",
+      "country": "us"
+    },
+    "1557079": {
+      "name": "Luke Plapp",
+      "team": "JAY",
+      "country": "au"
+    },
+    "1558112": {
+      "name": "Simon Yates",
+      "team": "TVL",
+      "country": "gb"
+    },
+    "1596046": {
+      "name": "Remco Evenepoel",
+      "team": "SOQ",
+      "country": "be"
+    },
+    "1707195": {
+      "name": "Biniam Girmay",
+      "team": "IWA",
+      "country": "er"
+    },
+    "1710249": {
+      "name": "Oscar Onley",
+      "team": "TPP",
+      "country": "gb"
+    },
+    "1714193": {
+      "name": "Milan Fretin",
+      "team": "COF",
+      "country": "be"
+    },
+    "1721034": {
+      "name": "Thibau Nys",
+      "team": "LTK",
+      "country": "be"
+    },
+    "1745291": {
+      "name": "Kévin Vauquelin",
+      "team": "ARK",
+      "country": "fr"
+    },
+    "1759422": {
+      "name": "Romain Grégoire",
+      "team": "GFC",
+      "country": "fr"
+    },
+    "1843476": {
+      "name": "Lenny Martinez",
+      "team": "TBV",
+      "country": "fr"
+    },
+    "2002910": {
+      "name": "Isaac del Toro",
+      "team": "UAD",
+      "country": "mx"
+    },
+    "2097255": {
+      "name": "Florian Lipowitz",
+      "team": "RBH",
+      "country": "de"
+    },
+    "86735": {
+      "name": "Tao Geoghegan Hart",
+      "team": "LTK",
+      "country": "gb"
+    },
+    "68844": {
+      "name": "Dylan van Baarle",
+      "team": "TVL",
+      "country": "nl"
+    }
+  }
+}

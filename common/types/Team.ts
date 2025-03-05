@@ -32,3 +32,8 @@ export interface TeamDetails extends Omit<Team, 'riders'> {
   /** Rider data with race results */
   riders: RiderDetails[];
 }
+
+/** Mapping from real team 3-letter code to real team name */
+export interface UciTeamNames {
+  [teamCode: string]: string;
+}

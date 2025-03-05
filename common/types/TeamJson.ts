@@ -1,5 +1,6 @@
 import type { PointsHistory } from './PointsHistory.js';
-import type { Team, TeamDetails } from './Team.js';
+import type { ExtraRiderInfo } from './Rider.js';
+import type { Team, TeamDetails, UciTeamNames } from './Team.js';
 
 /** Ranking and fetch dates for team data */
 export interface TeamJsonMetadata {
@@ -22,4 +23,17 @@ export interface TeamsSummaryJson extends TeamJsonMetadata {
 /** Data about a team including individual race results */
 export interface TeamDetailsJson extends TeamJsonMetadata {
   team: TeamDetails;
+}
+
+/** Data about actual UCI teams and countries of riders */
+export interface UciTeamsJson {
+  teamNames: UciTeamNames;
+  /** Mapping from rider ID to country and team. Name is added for readability. */
+  riderInfo: Record<
+    number,
+    ExtraRiderInfo & {
+      /** Rider name */
+      name: string;
+    }
+  >;
 }

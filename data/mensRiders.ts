@@ -1,10 +1,14 @@
-// PCS name differences are in `getPcsUrl`.
-// Comments are UCI ranking names.
-export const mensRiders: Record<string, number | undefined> = {
-  'Adam Yates': 70590, // Adam Richard Yates
+/**
+ * Mapping from top rider names (not necessarily selected) to UCI object IDs.
+ * Some name variants are included, mapping to the same ID.
+ */
+const mensRiders: Record<string, number | undefined> = {
+  'Adam Yates': 70590,
+  'Adam Richard Yates': 70590,
   'Alberto Bettiol': 86630,
   'Aleksandr Vlasov': 97280,
-  'Alex Aranburu': 422863, // Alex Aranburu Deva
+  'Alex Aranburu': 422863,
+  'Alex Aranburu Deva': 422863,
   'Alex Baudin': 1772214,
   'Alexander Kristoff': 32691,
   'Alexandre Mayer': 108443,
@@ -18,7 +22,8 @@ export const mensRiders: Record<string, number | undefined> = {
   'António Tomas Morgado': 442797,
   'Archie Ryan': 171147,
   'Arnaud de Lie': 735965,
-  'Arnaud Démare': 64670, // Arnaud Demare
+  'Arnaud Démare': 64670,
+  'Arnaud Demare': 64670,
   'Arvid de Kleijn': 98176,
   'Attila Valter': 98207,
   'Aurélien Paret Peintre': 250807,
@@ -26,12 +31,15 @@ export const mensRiders: Record<string, number | undefined> = {
   'Axel Zingle': 101278,
   'Bauke Mollema': 55131,
   'Ben Healy': 235075,
-  "Ben O'Connor": 97805, // Ben Alexander O'connor
-  'Benoît Cosnefroy': 79522, // Benoit Cosnefroy
+  "Ben O'Connor": 97805,
+  "Ben Alexander O'Connor": 97805,
+  'Benoît Cosnefroy': 79522,
+  'Benoit Cosnefroy': 79522,
   'Biniam Girmay': 1707195,
   'Brandon McNulty': 150923,
   'Bryan Coquard': 68950,
-  'Carlos Rodriguez': 428096, // Carlos Rodriguez Cano
+  'Carlos Rodriguez': 428096,
+  'Carlos Rodriguez Cano': 428096,
   'Casper van Uden': 226805,
   'Christian Scaroni': 144019,
   'Christophe Laporte': 81980,
@@ -41,7 +49,8 @@ export const mensRiders: Record<string, number | undefined> = {
   'Clement Venturini': 70965,
   'Corbin John Strong': 236644,
   'Cristian Rodriguez Martin': 86932,
-  'Daniel Felipe Martínez': 92264, // Daniel Felipe Martinez Poveda
+  'Daniel Felipe Martínez': 92264,
+  'Daniel Felipe Martinez Poveda': 92264,
   'Danny van Poppel': 69149,
   'Darren Rafferty': 171058,
   'David Gaudu': 112351,
@@ -54,11 +63,14 @@ export const mensRiders: Record<string, number | undefined> = {
   'Edoardo Affini': 95012,
   'Edoardo Zambanini': 300493,
   'Edward Dunbar': 97939,
-  'Egan Bernal': 95844, // Egan Arley Bernal Gomez
+  'Egan Bernal': 95844,
+  'Egan Arley Bernal Gomez': 95844,
   'Einer Augusto Rubio Reyes': 1578987,
   'Emilien Jeanniere': 152898,
-  'Enric Mas': 109803, // Enric Mas Nicolau
-  'Esteban Chaves': 75873, // Jhoan Esteban Chaves Rubio
+  'Enric Mas': 109803,
+  'Enric Mas Nicolau': 109803,
+  'Esteban Chaves': 75873,
+  'Jhoan Esteban Chaves Rubio': 75873,
   'Fabio Christen': 462391,
   'Fabio Jakobsen': 87061,
   'Felix Gall': 150925,
@@ -66,7 +78,8 @@ export const mensRiders: Record<string, number | undefined> = {
   'Filippo Baroncini': 306260,
   'Filippo Ganna': 91640,
   'Filippo Zana': 158293,
-  'Finn Fisher-Black': 217083, // Finn Lachlan Fox Fisher-Black
+  'Finn Fisher-Black': 217083,
+  'Finn Lachlan Fox Fisher-Black': 217083,
   'Florian Lipowitz': 2097255,
   'Frank van Den Broek': 230938,
   'Fred Wright': 153275,
@@ -79,12 +92,14 @@ export const mensRiders: Record<string, number | undefined> = {
   'Giovanni Aleotti': 158278,
   'Giulio Ciccone': 97091,
   'Giulio Pellizzari': 308599,
-  'Guillaume Martin': 75170, // Guillaume Martin Guyonnet
+  'Guillaume Martin': 75170,
+  'Guillaume Martin Guyonnet': 75170,
   'Guillermo Thomas Silva Coussan': 2022613,
   'Henok Mulueberhan': 235007,
   'Ilan van Wilder': 165041,
   'Ion Izaguirre Insausti': 422366,
-  'Isaac del Toro': 2002910, // Isaac del Toro Romero
+  'Isaac del Toro': 2002910,
+  'Isaac del Toro Romero': 2002910,
   'Ivan Romeo Abad': 418882,
   'Jack Haig': 78342,
   'Jai Hindley': 109829,
@@ -98,18 +113,25 @@ export const mensRiders: Record<string, number | undefined> = {
   'Jelte Krijnsen': 232331,
   'Jenno Berckmoes': 1720261,
   'Jenthe Biermans': 86633,
-  'Jhonatan Narváez': 96372, // Jhonatan Manuel Narvaez Prado
-  'João Almeida': 107840, // Joao Pedro Gonçalves Almeida
+  'Jhonatan Narváez': 96372,
+  'Jhonatan Manuel Narvaez Prado': 96372,
+  'João Almeida': 107840,
+  'Joao Pedro Gonçalves Almeida': 107840,
   'Jonas Abrahamsen': 86594,
-  'Jonas Vingegaard': 112082, // Jonas Vingegaard Hansen
+  'Jonas Vingegaard': 112082,
+  'Jonas Vingegaard Hansen': 112082,
   'Jonathan Milan': 301151,
   'Jordan Jegat': 162430,
   'Jordi Meeus': 148901,
   'Joseph Blackmore': 2083636,
-  'Josh Tarling': 1557793, // Joshua Tarling, Joshua Michael Tarling
-  'Juan Ayuso': 415141, // Juan Ayuso Pesquera
+  'Josh Tarling': 1557793,
+  'Joshua Tarling': 1557793,
+  'Joshua Michael Tarling': 1557793,
+  'Juan Ayuso': 415141,
+  'Juan Ayuso Pesquera': 415141,
   'Julian Alaphilippe': 71557,
-  'Kaden Groves': 111683, // Kaden Alexander Groves
+  'Kaden Groves': 111683,
+  'Kaden Alexander Groves': 111683,
   'Kévin Vauquelin': 1745291,
   'Kevin Vermaerke': 762315,
   'Laurence Pithie': 221617,
@@ -122,10 +144,12 @@ export const mensRiders: Record<string, number | undefined> = {
   'Lorenzo Fortunato': 112350,
   'Lorenzo Rota': 93935,
   'Luca Mozzato': 149918,
-  'Luke Plapp': 1557079, // Lucas Plapp
+  'Luke Plapp': 1557079,
+  'Lucas Plapp': 1557079,
   'Madis Mihkels': 1858789,
   'Mads Pedersen': 86895,
-  'Magnus Cort': 73817, // Magnus Cort Nielsen
+  'Magnus Cort': 73817,
+  'Magnus Cort Nielsen': 73817,
   'Magnus Sheffield': 361433,
   'Marc Hirschi': 111440,
   'Marc Soler': 89223,
@@ -139,7 +163,8 @@ export const mensRiders: Record<string, number | undefined> = {
   'Matteo Jorgenson': 159567,
   'Matteo Trentin': 47742,
   'Matthew Riccitello': 1706565,
-  'Mattias Skjelmose': 365033, // Mattias Jensen
+  'Mattias Skjelmose': 365033,
+  'Mattias Jensen': 365033,
   'Mauri Vansevenant': 154227,
   'Mauro Schmid': 109483,
   'Max David Poole': 1600745,
@@ -152,8 +177,10 @@ export const mensRiders: Record<string, number | undefined> = {
   'Michael Russell Woods': 86480,
   'Michael Storer': 102035,
   'Mike Teunissen': 66315,
-  'Mikel Landa': 68367, // Mikel Landa Meana
-  'Mikkel Bjerg': 158259, // Mikkel Norsgaard Bjerg
+  'Mikel Landa': 68367,
+  'Mikel Landa Meana': 68367,
+  'Mikkel Bjerg': 158259,
+  'Mikkel Norsgaard Bjerg': 158259,
   'Milan Fretin': 1714193,
   'Neilson Powless': 88143,
   'Nils Politt': 87226,
@@ -162,7 +189,8 @@ export const mensRiders: Record<string, number | undefined> = {
   'Oliver Naesen': 93654,
   'Orluis Alberto Aular Sanabria': 97204,
   'Oscar Onley': 1710249,
-  'Pablo Castrillo': 373832, // Pablo Castrillo Zapater
+  'Pablo Castrillo': 373832,
+  'Pablo Castrillo Zapater': 373832,
   'Pascal Ackermann': 77380,
   'Patrick Konrad': 71677,
   'Pau Miquel Delgado': 235739,
@@ -171,7 +199,8 @@ export const mensRiders: Record<string, number | undefined> = {
   'Paul Penhoet': 1758297,
   'Pavel Bittner': 467185,
   'Pavel Sivakov': 111343,
-  'Pello Bilbao': 76092, // Pello Bilbao Lopez de Armentia
+  'Pello Bilbao': 76092,
+  'Pello Bilbao Lopez de Armentia': 76092,
   'Per Strand Hagenes': 199947,
   'Phil Bauhaus': 86624,
   'Primož Roglič': 88889,
@@ -182,14 +211,17 @@ export const mensRiders: Record<string, number | undefined> = {
   'Riley Sheehan': 235343,
   'Roger Adria Oliveras': 407508,
   'Romain Bardet': 64917,
-  'Romain Grégoire': 1759422, // Romain Gregoire
+  'Romain Grégoire': 1759422,
+  'Romain Gregoire': 1759422,
   'Rudy Molard': 77534,
   'Rui Costa': 32596,
   'Sam Bennett': 65995,
   'Sam Welsford': 91180,
-  'Santiago Buitrago': 353375, // Santiago Buitrago Sanchez
+  'Santiago Buitrago': 353375,
+  'Santiago Buitrago Sanchez': 353375,
   'Sepp Kuss': 88346,
-  'Simon Yates': 1558112, // Simon Philip Yates
+  'Simon Yates': 1558112,
+  'Simon Philip Yates': 1558112,
   'Simone Velasco': 80188,
   'Søren Kragh Andersen': 79156,
   'Stanislaw Aniolkowski': 109575,
@@ -205,9 +237,11 @@ export const mensRiders: Record<string, number | undefined> = {
   'Tim Wellens': 64531,
   'Tobias Andresen': 482927,
   'Tobias Halland Johannessen': 1905765,
-  'Tom Pidcock': 109775, // Thomas Pidcock
+  'Tom Pidcock': 109775,
+  'Thomas Pidcock': 109775,
   'Tom van Asbroeck': 79141,
-  'Toms Skujiņš': 68892, // Toms Skujins
+  'Toms Skujiņš': 68892,
+  'Toms Skujins': 68892,
   'Urko Berrade Fernandez': 424785,
   'Valentin Madouas': 91637,
   'Valentin Paret Peintre': 1748274,
@@ -215,8 +249,18 @@ export const mensRiders: Record<string, number | undefined> = {
   'Victor Lafay': 136296,
   'Vincenzo Albanese': 95054,
   'Wilco Kelderman': 64730,
-  'Wout Poels': 1974873, // Wouter Poels
+  'Wout Poels': 1974873,
+  'Wouter Poels': 1974873,
   'Wout van Aert': 75859,
   'Xandro Meurisse': 66427,
   'Yves Lampaert': 86228,
 };
+
+const mensRidersLower: Record<string, number | undefined> = Object.fromEntries(
+  Object.entries(mensRiders).map(([name, id]) => [name.toLowerCase(), id]),
+);
+
+/** Get the UCI object ID for a rider name. */
+export function getMensRiderId(name: string): number | undefined {
+  return mensRidersLower[name.toLowerCase()];
+}

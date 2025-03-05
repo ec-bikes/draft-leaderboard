@@ -1,17 +1,23 @@
-// PCS name differences are in `getPcsUrl`.
-// Comments are UCI ranking names.
-export const womensRiders: Record<string, number | undefined> = {
+/**
+ * Mapping from top rider names (not necessarily selected) to UCI object IDs.
+ * Some name variants are included, mapping to the same ID.
+ */
+const womensRiders: Record<string, number | undefined> = {
   'Agnieszka Skalniak-Sojka': 111153,
-  'Alexandra Manly': 91152, // Alexandra Grace Manly
+  'Alexandra Manly': 91152,
+  'Alexandra Grace Manly': 91152,
   'Alice Maria Arzuffi': 78167,
   'Alice Towers': 1979285,
   'Alison Jackson': 96860,
-  'Ally Wollaston': 220562, // Ally Marée Wollaston
+  'Ally Wollaston': 220562,
+  'Ally Marée Wollaston': 220562,
   'Amalie Dideriksen': 94870,
   'Amanda Spratt': 32706,
   'Amber Kraak': 2153619,
-  'Ana Vitória Magalhães': 2316090, // Ana Vitoria Gouvea Vieira Almeida Magalhaes
-  'Ane Santesteban': 64896, // Ane Santesteban Gonzalez
+  'Ana Vitória Magalhães': 2316090,
+  'Ana Vitoria Gouvea Vieira Almeida Magalhaes': 2316090,
+  'Ane Santesteban': 64896,
+  'Ane Santesteban Gonzalez': 64896,
   'Anna Henderson': 237690,
   'Anna Kiesenhofer': 2038923,
   'Anna van der Breggen': 59726,
@@ -21,7 +27,8 @@ export const womensRiders: Record<string, number | undefined> = {
   'Anouska Koster': 79689,
   'Antonia Niedermaier': 2188959,
   'Antri Christoforou': 77043,
-  'Arlenis Sierra': 71998, // Arlenis Sierra Canadilla
+  'Arlenis Sierra': 71998,
+  'Arlenis Sierra Canadilla': 71998,
   'Ashleigh Moolman Pasio': 69196,
   'Audrey Cordon Ragot': 55409,
   'Babette van der Wolf': 227970,
@@ -34,7 +41,8 @@ export const womensRiders: Record<string, number | undefined> = {
   'Caroline Andersson': 224473,
   'Cat Ferguson': 2317617,
   'Catalina Soto Campos': 1656726,
-  'Cecilie Uttrup Ludwig': 86838, // searchName: 'Cecilie Ludwig'
+  'Cecilie Uttrup Ludwig': 86838,
+  'Cecilie Ludwig': 86838,
   'Cedrine Kerbaol': 1750054,
   'Charlotte Kool': 157612,
   'Chiara Consonni': 156600,
@@ -57,7 +65,8 @@ export const womensRiders: Record<string, number | undefined> = {
   'Elise Chabbey': 1638135,
   'Ella Wyllie': 220428,
   'Ellen van Dijk': 32643,
-  'Emma Norsgaard': 151974, // Emma Cecilie Norsgaard Bjerg
+  'Emma Norsgaard': 151974,
+  'Emma Cecilie Norsgaard Bjerg': 151974,
   'Erica Magnaldi': 483205,
   'Eugenia Bujak': 64125,
   'Evita Muzic': 109412,
@@ -93,12 +102,15 @@ export const womensRiders: Record<string, number | undefined> = {
   'Karen Villamizar Varon': 2173614,
   'Karlijn Swinkels': 98571,
   'Karolina Perekitko': 98822,
-  'Kasia Niewiadoma': 86824, // Katarzyna Niewiadoma-Phinney, searchName: 'Niewiadoma'
+  'Kasia Niewiadoma': 86824,
+  'Kasia Niewiadoma-Phinney': 86824,
+  'Katarzyna Niewiadoma-Phinney': 86824,
   'Kathrin Schweinberger': 98622,
   'Katrine Aalerud': 153601,
   'Kiara Lylyk': 1914091,
   'Kim Cadzow': 2246047,
-  'Kim le Court': 88660, // Mary Patricia Kimberley le Court de Billot
+  'Kim le Court': 88660,
+  'Mary Patricia Kimberley le Court de Billot': 88660,
   'Kristen Faulkner': 1688341,
   'Kristýna Burlová': 472083,
   'Lara Gillespie': 166366,
@@ -113,7 +125,8 @@ export const womensRiders: Record<string, number | undefined> = {
   'Lily Williams': 459694,
   'Linda Riedmann': 1548351,
   'Linda Zanetti': 347967,
-  'Lizzie Deignan': 45988, // searchName: 'Elizabeth Deignan'
+  'Lizzie Deignan': 45988,
+  'Elizabeth Deignan': 45988,
   'Loes Adegeest': 142171,
   'Lore de Schepper': 2096868,
   'Lorena Wiebes': 141733,
@@ -141,7 +154,9 @@ export const womensRiders: Record<string, number | undefined> = {
   'Marte Berg Edseth': 2296641,
   'Marthe Truyen': 110267,
   'Martina Fidanza': 156623,
-  'Mavi Garcia': 398547, // Margarita Victo Garcia Cañellas, searchName: 'Margarita Victo Garcia'
+  'Mavi Garcia': 398547,
+  'Margarita Victo Garcia Cañellas': 398547,
+  'Margarita Victo Garcia': 398547,
   'Michaela Drummond': 107472,
   'Mie Bjørndal Ottestad': 152655,
   'Mireia Benito Pellicer': 431396,
@@ -151,8 +166,10 @@ export const womensRiders: Record<string, number | undefined> = {
   'Mylene de Zoete': 155099,
   'Nadia Gontova': 2240638,
   'Nadia Quagliotto': 106787,
-  'Neve Bradbury': 1987823, // Neve Summer Bradbury
-  'Niamh Fisher-Black': 217072, // searchName: 'Niamh Fisher'
+  'Neve Bradbury': 1987823,
+  'Neve Summer Bradbury': 1987823,
+  'Niamh Fisher-Black': 217072,
+  'Niamh Fisher': 217072,
   'Nienke Veenhoven': 233158,
   'Nienke Vinke': 1677353,
   'Nikola Nosková': 93351,
@@ -203,3 +220,12 @@ export const womensRiders: Record<string, number | undefined> = {
   'Yuliia Biriukova': 1993633,
   'Zoe Backstedt': 1546801,
 };
+
+const womensRidersLower: Record<string, number | undefined> = Object.fromEntries(
+  Object.entries(womensRiders).map(([name, id]) => [name.toLowerCase(), id]),
+);
+
+/** Get the UCI object ID for a rider name. */
+export function getWomensRiderId(name: string): number | undefined {
+  return womensRidersLower[name.toLowerCase()];
+}

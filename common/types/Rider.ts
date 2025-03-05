@@ -10,8 +10,16 @@ export interface BaseRider {
   sanctionsAtTrade?: number;
 }
 
-/** Rider info without race results */
-export interface Rider extends BaseRider {
+/** Rider info which was added later and is saved separately */
+export interface ExtraRiderInfo {
+  /** Two-letter country code (missing in 2024) */
+  country: string;
+  /** Three-letter code for the rider's real team (missing in 2024) */
+  team: string;
+}
+
+/** Rider info without race results, but with team/country info if available */
+export interface Rider extends BaseRider, Partial<ExtraRiderInfo> {
   /** Points for this year including sanctions */
   totalPoints: number;
   /** Sanctions for this year */

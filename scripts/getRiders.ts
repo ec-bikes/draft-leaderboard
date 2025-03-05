@@ -11,15 +11,16 @@ import { teams as mensTeams } from '../data/mensTeams.js';
 import { teams as womensTeams } from '../data/womensTeams.js';
 import type { Group } from '../common/types/Group.js';
 import type { BaseRider } from '../common/types/Rider.js';
-import { mensRiders } from '../data/mensRiders.js';
-import { womensRiders } from '../data/womensRiders.js';
+import { getMensRiderId } from '../data/mensRiders.js';
+import { getWomensRiderId } from '../data/womensRiders.js';
 import { writeJson } from './data/writeJson.js';
 import { getRidersFilePath } from '../common/filenames.js';
 import { years } from '../common/constants.js';
 import { readJson } from './data/readJson.js';
+import { toTitleCase } from './data/toTitleCase.js';
 
 const group: Group = process.argv.includes('--men') ? 'men' : 'women';
-const savedRiders = group === 'men' ? mensRiders : womensRiders;
+const getRiderId = group === 'men' ? getMensRiderId : getWomensRiderId;
 const teams = group === 'men' ? mensTeams : womensTeams;
 const year = years[0];
 
@@ -34,7 +35,9 @@ const fetchUciRankingCount = 300;
 
 /**
  * Fetch the top `fetchUciRankingCount` riders from the UCI ranking and return a map from
- * normalized names (they come in format LAST First) to object IDs.
+ * normalized **lowercase** names (they come in format LAST First) to object IDs.
+ *
+ * Also logs the the mapping with attempted proper case names to the console.
  */
 async function getUciRiderIds() {
   const ridersFile = getRidersFilePath({ group, year });
@@ -53,7 +56,7 @@ async function getUciRiderIds() {
 
   // Try to convert the names from "LAST First" to "First Last".
   // This gets interesting with multiple names and non-ASCII characters.
-  const result = Object.fromEntries(
+  const properCaseResult = Object.fromEntries(
     riders.map((rider) => {
       const { DisplayName: name, ObjectId: id } = rider;
 
@@ -70,16 +73,18 @@ async function getUciRiderIds() {
       const firstName = name.slice(firstNameIndex).replace(/.$/, (val) => val.toLowerCase());
 
       // Imperfect attempt to capitalize words in the last name...
-      const lastName = name
-        .slice(0, firstNameIndex)
-        .replace(/\b\S+\b/g, (val) => val[0] + val.slice(1).toLowerCase())
-        .replace(/ (De|Der|Den|Van) /i, (val) => val.toLowerCase());
+      const lastName = toTitleCase(name.slice(0, firstNameIndex));
       return [`${firstName} ${lastName}`.trim(), id];
     }),
   );
 
-  console.log(JSON.stringify(result, null, 2));
-  return result;
+  // Log the names in attempted proper case (better for manually populating [group]sRiders.ts)
+  console.log(JSON.stringify(properCaseResult, null, 2));
+
+  // Return the names in lowercase for more reliable lookup
+  return Object.fromEntries(
+    Object.entries(properCaseResult).map(([name, id]) => [name.toLowerCase(), id]),
+  );
 }
 
 (async () => {
@@ -88,7 +93,7 @@ async function getUciRiderIds() {
   const fetchRiders: BaseRider[] = [];
   for (const team of teams) {
     for (const name of team.riders) {
-      const id = savedRiders[name] || calcRiderIds?.[name];
+      const id = calcRiderIds?.[name.toLowerCase()] || getRiderId(name);
       if (id) {
         fetchRiders.push({ name, id });
       } else {
