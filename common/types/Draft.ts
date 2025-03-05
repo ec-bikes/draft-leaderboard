@@ -1,4 +1,5 @@
 import type { Group } from './Group.js';
+import type { BaseTeam } from './Team.js';
 
 export interface Draft {
   group: Group;
@@ -7,4 +8,5 @@ export interface Draft {
   link?: string;
   /** Date of trades, YYYY-MM-DD */
   tradeDate?: string;
+  teams: BaseTeam[];
 }

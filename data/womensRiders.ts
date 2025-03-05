@@ -1,6 +1,8 @@
 /**
  * Mapping from top rider names (not necessarily selected) to UCI object IDs.
  * Some name variants are included, mapping to the same ID.
+ *
+ * (PCS name differences are in `getPcsUrl`.)
  */
 const womensRiders: Record<string, number | undefined> = {
   'Agnieszka Skalniak-Sojka': 111153,
@@ -221,11 +223,6 @@ const womensRiders: Record<string, number | undefined> = {
   'Zoe Backstedt': 1546801,
 };
 
-const womensRidersLower: Record<string, number | undefined> = Object.fromEntries(
+export const womensRidersLower: Record<string, number | undefined> = Object.fromEntries(
   Object.entries(womensRiders).map(([name, id]) => [name.toLowerCase(), id]),
 );
-
-/** Get the UCI object ID for a rider name. */
-export function getWomensRiderId(name: string): number | undefined {
-  return womensRidersLower[name.toLowerCase()];
-}
