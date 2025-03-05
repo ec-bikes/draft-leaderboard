@@ -1,8 +1,8 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
+  "fetchedDate": "5 Mar 2025, 23:23 GMT",
   "momentId": 189039,
-  "fetchedDate": "5 Mar 2025, 01:41 GMT",
   "teams": [
     {
       "owner": "Kit Nicholson",
@@ -85,7 +85,7 @@
     {
       "owner": "Jonny Long",
       "name": "Ineos Grenadiers-Greenpeace-Poundland",
-      "totalPoints": 2171,
+      "totalPoints": 2321,
       "riders": [
         {
           "name": "Jonas Vingegaard",
@@ -148,7 +148,7 @@
           "id": 144019,
           "team": "XAT",
           "country": "it",
-          "totalPoints": 645
+          "totalPoints": 795
         },
         {
           "name": "Antonio Tiberi",
@@ -242,7 +242,7 @@
     {
       "owner": "Dane Cash",
       "name": "Visma-Lease a Bike-Monster Energy",
-      "totalPoints": 2020,
+      "totalPoints": 2220,
       "riders": [
         {
           "name": "Jasper Philipsen",
@@ -270,7 +270,7 @@
           "id": 415141,
           "team": "UAD",
           "country": "es",
-          "totalPoints": 235
+          "totalPoints": 435
         },
         {
           "name": "Simon Yates",
@@ -321,7 +321,7 @@
     {
       "owner": "Abby Mickey",
       "name": "EF Education-Swift Nation",
-      "totalPoints": 1684,
+      "totalPoints": 1704,
       "riders": [
         {
           "name": "Wout van Aert",
@@ -349,7 +349,7 @@
           "id": 58528,
           "team": "IGD",
           "country": "pl",
-          "totalPoints": 145
+          "totalPoints": 165
         },
         {
           "name": "Filippo Ganna",
@@ -399,7 +399,7 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 1041,
+      "totalPoints": 1104,
       "riders": [
         {
           "name": "Mathieu van der Poel",
@@ -455,7 +455,7 @@
           "id": 54679,
           "team": "XAT",
           "country": "it",
-          "totalPoints": 95
+          "totalPoints": 98
         },
         {
           "name": "Mauri Vansevenant",
@@ -469,15 +469,15 @@
           "id": 86630,
           "team": "XAT",
           "country": "it",
-          "totalPoints": 0
+          "totalPoints": 60
         }
       ],
-      "movement": 1
+      "movement": 0
     },
     {
       "owner": "Caley Fretz",
       "name": "US Postal Service Bald Eagles",
-      "totalPoints": 1035,
+      "totalPoints": 1205,
       "riders": [
         {
           "name": "Matteo Jorgenson",
@@ -526,14 +526,14 @@
           "id": 88143,
           "team": "EFE",
           "country": "us",
-          "totalPoints": 75
+          "totalPoints": 175
         },
         {
           "name": "Magnus Sheffield",
           "id": 361433,
           "team": "IGD",
           "country": "us",
-          "totalPoints": 255
+          "totalPoints": 325
         },
         {
           "name": "Luke Plapp",
@@ -550,7 +550,7 @@
           "totalPoints": 5
         }
       ],
-      "movement": -1
+      "movement": 0
     },
     {
       "owner": "Andrew (Discord)",

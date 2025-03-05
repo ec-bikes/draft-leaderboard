@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
+  "fetchedDate": "5 Mar 2025, 23:23 GMT",
   "momentId": 189039,
-  "fetchedDate": "5 Mar 2025, 01:41 GMT",
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 1684,
+    "totalPoints": 1704,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -105,8 +105,14 @@
         "id": 58528,
         "team": "IGD",
         "country": "pl",
-        "totalPoints": 145,
+        "totalPoints": 165,
         "results": [
+          {
+            "name": "Trofeo Laigueglia",
+            "date": "05 Mar 2025",
+            "points": 20,
+            "rank": 13
+          },
           {
             "name": "Clásica Jaén",
             "date": "17 Feb 2025",

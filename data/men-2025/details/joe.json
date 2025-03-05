@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
+  "fetchedDate": "5 Mar 2025, 23:23 GMT",
   "momentId": 189039,
-  "fetchedDate": "5 Mar 2025, 01:41 GMT",
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 1041,
+    "totalPoints": 1104,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -228,8 +228,14 @@
         "id": 54679,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 95,
+        "totalPoints": 98,
         "results": [
+          {
+            "name": "Trofeo Laigueglia",
+            "date": "05 Mar 2025",
+            "points": 3,
+            "rank": 38
+          },
           {
             "name": "Muscat Classic",
             "date": "07 Feb 2025",
@@ -276,8 +282,15 @@
         "id": 86630,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 0,
-        "results": []
+        "totalPoints": 60,
+        "results": [
+          {
+            "name": "Trofeo Laigueglia",
+            "date": "05 Mar 2025",
+            "points": 60,
+            "rank": 7
+          }
+        ]
       }
     ]
   }

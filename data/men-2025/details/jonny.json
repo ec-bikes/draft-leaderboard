@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
+  "fetchedDate": "5 Mar 2025, 23:23 GMT",
   "momentId": 189039,
-  "fetchedDate": "5 Mar 2025, 01:41 GMT",
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 2171,
+    "totalPoints": 2321,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -238,8 +238,14 @@
         "id": 144019,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 645,
+        "totalPoints": 795,
         "results": [
+          {
+            "name": "Trofeo Laigueglia",
+            "date": "05 Mar 2025",
+            "points": 150,
+            "rank": 2
+          },
           {
             "name": "Faun-Ardèche Classic",
             "date": "01 Mar 2025",

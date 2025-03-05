@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
+  "fetchedDate": "5 Mar 2025, 23:23 GMT",
   "momentId": 189039,
-  "fetchedDate": "5 Mar 2025, 01:41 GMT",
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 2020,
+    "totalPoints": 2220,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -82,8 +82,14 @@
         "id": 415141,
         "team": "UAD",
         "country": "es",
-        "totalPoints": 235,
+        "totalPoints": 435,
         "results": [
+          {
+            "name": "Trofeo Laigueglia",
+            "date": "05 Mar 2025",
+            "points": 200,
+            "rank": 1
+          },
           {
             "name": "Faun Drome Classic",
             "date": "02 Mar 2025",

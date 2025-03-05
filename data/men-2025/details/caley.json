@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
+  "fetchedDate": "5 Mar 2025, 23:23 GMT",
   "momentId": 189039,
-  "fetchedDate": "5 Mar 2025, 01:41 GMT",
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 1035,
+    "totalPoints": 1205,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -161,8 +161,14 @@
         "id": 88143,
         "team": "EFE",
         "country": "us",
-        "totalPoints": 75,
+        "totalPoints": 175,
         "results": [
+          {
+            "name": "Trofeo Laigueglia",
+            "date": "05 Mar 2025",
+            "points": 100,
+            "rank": 4
+          },
           {
             "name": "Volta ao Algarve em Bicicleta - General classification",
             "date": "23 Feb 2025",
@@ -182,8 +188,14 @@
         "id": 361433,
         "team": "IGD",
         "country": "us",
-        "totalPoints": 255,
+        "totalPoints": 325,
         "results": [
+          {
+            "name": "Trofeo Laigueglia",
+            "date": "05 Mar 2025",
+            "points": 70,
+            "rank": 6
+          },
           {
             "name": "Cadel Evans Great Ocean Road Race - Men",
             "date": "02 Feb 2025",
