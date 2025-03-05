@@ -9,7 +9,7 @@ import type {
   UciTeamsJson,
 } from '../../../common/types/index.js';
 import { importDraftFile } from '../../../data/importDraftFile.js';
-import { readJson } from '../../../scripts/data/readJson.js';
+import { readJson } from '../../../scripts/utils/readJson.js';
 
 export async function data(pageContext: PageContext): Promise<DraftData | undefined> {
   // This is also used for the top level route, so provide a default year

@@ -10,11 +10,11 @@ import type { BaseRider, Group } from '../common/types/index.js';
 import { getRiderId } from '../data/getRiderId.js';
 import { importDraftFile } from '../data/importDraftFile.js';
 import { getRiderPcsData } from './data/getRiderPcsData.js';
-import { readJson } from './data/readJson.js';
-import { toTitleCase } from './data/toTitleCase.js';
+import { readJson } from './utils/readJson.js';
+import { toTitleCase } from './utils/toTitleCase.js';
 import { getUciRiderRankings } from './data/uci/getUciRiderRankings.js';
 import type { UciRiderRanking } from './data/uci/types/UciRiderRanking.js';
-import { writeJson } from './data/writeJson.js';
+import { writeJson } from './utils/writeJson.js';
 
 const group: Group = process.argv.includes('--men') ? 'men' : 'women';
 const year = years[0];

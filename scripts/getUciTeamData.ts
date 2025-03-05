@@ -7,10 +7,10 @@ import { getRidersFilePath, getUciTeamsFilePath } from '../common/filenames.js';
 import type { UciTeamsJson } from '../common/types/index.js';
 import { getRiderId } from '../data/getRiderId.js';
 import { importDraftFile } from '../data/importDraftFile.js';
-import { readJson } from './data/readJson.js';
-import { toTitleCase } from './data/toTitleCase.js';
+import { readJson } from './utils/readJson.js';
+import { toTitleCase } from './utils/toTitleCase.js';
 import type { UciRiderRanking } from './data/uci/types/UciRiderRanking.js';
-import { writeJson } from './data/writeJson.js';
+import { writeJson } from './utils/writeJson.js';
 
 const year = years[0];
 const files = {

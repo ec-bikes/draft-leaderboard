@@ -17,9 +17,9 @@ import type {
   TeamDetailsJson,
   TeamsSummaryJson,
 } from '../common/types/index.js';
-import { readJson } from './data/readJson.js';
+import { readJson } from './utils/readJson.js';
 import { updateMovement } from './data/updateHistory.js';
-import { writeJson } from './data/writeJson.js';
+import { writeJson } from './utils/writeJson.js';
 
 const year = 2025;
 // This date should be a Tuesday, or the file will be removed by the cleanup script

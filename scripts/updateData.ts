@@ -9,9 +9,9 @@ import { importDraftFile } from '../data/importDraftFile.js';
 import { cleanUpFiles } from './data/cleanUpFiles.js';
 import { getRankingMetadata } from './data/getRankingMetadata.js';
 import { getTeamData } from './data/getTeamData.js';
-import { readJson } from './data/readJson.js';
+import { readJson } from './utils/readJson.js';
 import { updateHistory } from './data/updateHistory.js';
-import { writeJson } from './data/writeJson.js';
+import { writeJson } from './utils/writeJson.js';
 import { logError } from './log.js';
 
 const year = years[0];

@@ -3,8 +3,8 @@ import { getHistoryFilePath } from '../../common/filenames.js';
 import { formatNumericDate } from '../../common/formatDate.js';
 import type { Group, PointsHistory, Team } from '../../common/types/index.js';
 import type { RankingMetadataResult } from './getRankingMetadata.js';
-import { readJson } from './readJson.js';
-import { writeJson } from './writeJson.js';
+import { readJson } from '../utils/readJson.js';
+import { writeJson } from '../utils/writeJson.js';
 
 /**
  * Update points history file and fill in `movement` property of teams.
