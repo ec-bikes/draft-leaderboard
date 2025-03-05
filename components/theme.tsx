@@ -32,7 +32,9 @@ type UnusedTypographyVariants =
   | 'subtitle2';
 
 declare module '@mui/material/styles' {
+  // eslint-disable-next-line @typescript-eslint/no-empty-object-type
   interface TypographyVariantsOptions extends NewTypographyVariants {}
+  // eslint-disable-next-line @typescript-eslint/no-empty-object-type
   interface TypographyVariants extends Required<NewTypographyVariants> {}
 
   // interface PaletteOptions {
