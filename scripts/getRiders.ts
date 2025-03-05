@@ -7,24 +7,21 @@ import fs from 'fs';
 import type { UciRiderRanking } from './data/uci/types/UciRiderRanking.js';
 import { getRiderPcsData } from './data/getRiderPcsData.js';
 import { getUciRiderRankings } from './data/uci/getUciRiderRankings.js';
-import { teams as mensTeams } from '../data/mensTeams.js';
-import { teams as womensTeams } from '../data/womensTeams.js';
 import type { Group } from '../common/types/Group.js';
 import type { BaseRider } from '../common/types/Rider.js';
-import { getMensRiderId } from '../data/mensRiders.js';
-import { getWomensRiderId } from '../data/womensRiders.js';
 import { writeJson } from './data/writeJson.js';
 import { getRidersFilePath } from '../common/filenames.js';
 import { years } from '../common/constants.js';
 import { readJson } from './data/readJson.js';
 import { toTitleCase } from './data/toTitleCase.js';
+import { importDraftFile } from '../data/importDraftFile.js';
+import { getRiderId } from '../data/getRiderId.js';
 
 const group: Group = process.argv.includes('--men') ? 'men' : 'women';
-const getRiderId = group === 'men' ? getMensRiderId : getWomensRiderId;
-const teams = group === 'men' ? mensTeams : womensTeams;
 const year = years[0];
+const { teams } = await importDraftFile(group, year);
 
-// Either read data/{group}/riders.json or fetch it from the UCI API
+// Either read data/{group}-{year}/riders.json or fetch it from the UCI API
 const processUci = process.argv.includes('--uci');
 const forceUciFetch = process.argv.includes('--force');
 // Fetch PCS data for each rider who's listed on a team
@@ -93,7 +90,7 @@ async function getUciRiderIds() {
   const fetchRiders: BaseRider[] = [];
   for (const team of teams) {
     for (const name of team.riders) {
-      const id = calcRiderIds?.[name.toLowerCase()] || getRiderId(name);
+      const id = calcRiderIds?.[name.toLowerCase()] || getRiderId(name, group);
       if (id) {
         fetchRiders.push({ name, id });
       } else {

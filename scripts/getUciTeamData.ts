@@ -2,10 +2,6 @@
 // Get real team info about each rider included in the draft and write to uciTeams.json.
 //
 import fs from 'fs';
-import { teams as mensTeams } from '../data/mensTeams.js';
-import { teams as womensTeams } from '../data/womensTeams.js';
-import { getMensRiderId } from '../data/mensRiders.js';
-import { getWomensRiderId } from '../data/womensRiders.js';
 import { groups, years } from '../common/constants.js';
 import { getRidersFilePath, getUciTeamsFilePath } from '../common/filenames.js';
 import type { UciRiderRanking } from './data/uci/types/UciRiderRanking.js';
@@ -13,6 +9,8 @@ import { readJson } from './data/readJson.js';
 import { writeJson } from './data/writeJson.js';
 import { toTitleCase } from './data/toTitleCase.js';
 import type { UciTeamsJson } from '../common/types/TeamJson.js';
+import { importDraftFile } from '../data/importDraftFile.js';
+import { getRiderId } from '../data/getRiderId.js';
 
 const year = years[0];
 const files = {
@@ -22,8 +20,7 @@ const files = {
 const missing = { men: [] as string[], women: [] as string[] };
 
 for (const group of groups) {
-  const teams = group === 'men' ? mensTeams : womensTeams;
-  const getRiderId = group === 'men' ? getMensRiderId : getWomensRiderId;
+  const { teams } = await importDraftFile(group, year);
 
   const ridersPath = getRidersFilePath({ group, year });
   if (!fs.existsSync(ridersPath)) {
@@ -38,7 +35,7 @@ for (const group of groups) {
 
   for (const team of teams) {
     for (const riderName of team.riders) {
-      const riderId = getRiderId(riderName);
+      const riderId = getRiderId(riderName, group);
       if (!riderId) {
         throw new Error(`Couldn't find ID for ${riderName}`);
       }

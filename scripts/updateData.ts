@@ -1,10 +1,6 @@
 import type { Source } from '../common/types/Source.js';
 import type { Team } from '../common/types/Team.js';
 import type { TeamDetailsJson, TeamsSummaryJson } from '../common/types/TeamJson.js';
-import * as men from '../data/mensTeams.js';
-import * as women from '../data/womensTeams.js';
-import { getMensRiderId } from '../data/mensRiders.js';
-import { getWomensRiderId } from '../data/womensRiders.js';
 import { getRankingMetadata } from './data/getRankingMetadata.js';
 import { getTeamData } from './data/getTeamData.js';
 import { logError } from './log.js';
@@ -17,9 +13,14 @@ import { cleanUpFiles } from './data/cleanUpFiles.js';
 import { updateHistory } from './data/updateHistory.js';
 import { writeJson } from './data/writeJson.js';
 import { readJson } from './data/readJson.js';
+import { importDraftFile } from '../data/importDraftFile.js';
+import { years } from '../common/constants.js';
 
-const drafts = [women, men];
-const year = women.draft.year;
+const year = years[0];
+const drafts = {
+  women: await importDraftFile('women', year),
+  men: await importDraftFile('men', year),
+};
 
 const groupArg = process.argv.includes('--men')
   ? 'men'
@@ -29,12 +30,11 @@ const groupArg = process.argv.includes('--men')
 const source: Source = 'pcs';
 
 (async () => {
-  for (const { draft, teams: rawTeams } of drafts) {
+  for (const { teams: rawTeams, ...draft } of Object.values(drafts)) {
     const { group } = draft;
     if (groupArg && groupArg !== group) {
       continue; // skip other groups if a specific one was requested
     }
-    const getRiderId = group === 'men' ? getMensRiderId : getWomensRiderId;
 
     const uciTeamsJson = readJson(getUciTeamsFilePath({ group, year }));
 
@@ -57,7 +57,6 @@ const source: Source = 'pcs';
         momentId: metadata.momentId,
         draft,
         source,
-        getRiderId,
         uciRiderInfo: uciTeamsJson.riderInfo,
       });
 

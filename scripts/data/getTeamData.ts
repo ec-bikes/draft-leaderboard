@@ -5,16 +5,16 @@ import { getRiderPcsData } from './getRiderPcsData.js';
 import type { Draft } from '../../common/types/Draft.js';
 import type { BaseRider, RiderDetails } from '../../common/types/Rider.js';
 import type { UciTeamsJson } from '../../common/types/TeamJson.js';
+import { getRiderId } from '../../data/getRiderId.js';
 
 export async function getTeamData(params: {
   source: Source;
   team: BaseTeam;
   momentId: number;
   draft: Pick<Draft, 'group' | 'year' | 'tradeDate'>;
-  getRiderId: (name: string) => number | undefined;
   uciRiderInfo: UciTeamsJson['riderInfo'];
 }): Promise<TeamDetails> {
-  const { team: rawTeam, momentId, draft, source, getRiderId, uciRiderInfo } = params;
+  const { team: rawTeam, momentId, draft, source, uciRiderInfo } = params;
   const { year, group, tradeDate: tradeDateStr } = draft;
   const tradeDate = tradeDateStr ? new Date(tradeDateStr).getTime() : null;
   const { owner, name, riders, tradedOut } = rawTeam;
@@ -27,7 +27,7 @@ export async function getTeamData(params: {
 
   // do the requests one at a time for now
   for (const riderName of riders) {
-    const riderId = getRiderId(riderName);
+    const riderId = getRiderId(riderName, group);
     if (!riderId) {
       throw new Error(`Couldn't find ID for ${riderName}`);
     }

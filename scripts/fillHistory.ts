@@ -11,16 +11,15 @@ import {
 } from '../common/filenames.js';
 import type { Group } from '../common/types/Group.js';
 import type { PointsHistory } from '../common/types/PointsHistory.js';
-import { teams as womensTeams } from '../data/womensTeams2024.js';
-import { teams as mensTeams } from '../data/mensTeams2024.js';
 import { updateHistory } from './data/updateHistory.js';
 import type { TeamsSummaryJson } from '../common/types/TeamJson.js';
 import { writeJson } from './data/writeJson.js';
 import { readJson } from './data/readJson.js';
+import { importDraftFile } from '../data/importDraftFile.js';
 
 const group: Group = 'men';
-const teams = group === 'men' ? mensTeams : womensTeams;
 const year = 2024;
+const { teams } = await importDraftFile(group, year);
 const history: PointsHistory = {
   dates: [],
   teams: Object.fromEntries(teams.map((team) => [team.owner, []])),

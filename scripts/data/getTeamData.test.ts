@@ -1,18 +1,19 @@
 import { describe, it, expect, vi, beforeAll, afterAll } from 'vitest';
 import * as getRiderPcsDataModule from './getRiderPcsData.js';
 import { getTeamData } from './getTeamData.js';
+import { getRiderId } from '../../data/getRiderId.js';
+
+const name = 'Demi Vollering';
+const id = getRiderId(name, 'women')!;
 
 function getParams(
   params: { tradedIn?: boolean; tradedOut?: boolean } = {},
   tradeDate: string = '2021-01-03',
 ): Parameters<typeof getTeamData>[0] {
-  const name = 'rider';
-  const id = 1;
   return {
     source: 'pcs',
     momentId: 1,
     draft: { group: 'women', year: 2021, tradeDate },
-    getRiderId: () => id,
     team: {
       owner: 'owner',
       name: 'team',

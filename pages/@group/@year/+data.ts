@@ -6,6 +6,7 @@ import { getSummaryFilePath, getUciTeamsFilePath } from '../../../common/filenam
 import type { Group } from '../../../common/types/Group.js';
 import { readJson } from '../../../scripts/data/readJson.js';
 import type { TeamsSummaryJson, UciTeamsJson } from '../../../common/types/TeamJson.js';
+import { importDraftFile } from '../../../data/importDraftFile.js';
 
 export async function data(pageContext: PageContext): Promise<DraftData | undefined> {
   // This is also used for the top level route, so provide a default year
@@ -22,9 +23,7 @@ export async function data(pageContext: PageContext): Promise<DraftData | undefi
     uciTeams = readJson(uciTeamsPath);
   }
 
-  const importYear = year === years[0] ? '' : year;
-  // Quirk of vite: it seems to require the original extension for variable dynamic imports
-  const { draft } = await import(`../../../data/${group}sTeams${importYear}.ts`);
+  const { teams: _, ...draft } = await importDraftFile(group, year);
 
   const teamsJson: TeamsSummaryJson = readJson(getSummaryFilePath({ group, year }));
 

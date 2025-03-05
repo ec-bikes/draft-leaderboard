@@ -16,7 +16,6 @@ import {
 } from '@mui/material';
 import { CloseIcon } from '../icons/Close.js';
 import type { TeamDetailsJson } from '../../common/types/TeamJson.js';
-import { years } from '../../common/constants.js';
 import { Country } from '../Country/Country.js';
 import { useData } from 'vike-react/useData';
 import { DraftData } from '../../common/types/DraftData.js';
@@ -61,10 +60,7 @@ export default function RiderDialog(props: RiderDialogProps) {
 
   React.useEffect(() => {
     const teamName = teamOwner.split(' ')[0].toLowerCase();
-    const teamPromise =
-      year === years[0]
-        ? import(`../../data/${group}/details/${teamName}.json`)
-        : import(`../../data/${group}${year}/details/${teamName}.json`);
+    const teamPromise = import(`../../data/${group}-${year}/details/${teamName}.json`);
     teamPromise
       .then(({ team }: TeamDetailsJson) => {
         const results = team.riders.find((r) => r.name === rider.name)?.results;
