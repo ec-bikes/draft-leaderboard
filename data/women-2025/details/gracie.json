@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 Mar 2025, 23:17 GMT",
+  "fetchedDate": "8 Mar 2025, 23:18 GMT",
   "momentId": 189057,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 2298,
+    "totalPoints": 2834,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
         "team": "TFS",
         "country": "nl",
-        "totalPoints": 512,
+        "totalPoints": 912,
         "results": [
+          {
+            "name": "Strade Bianche Donne",
+            "date": "08 Mar 2025",
+            "points": 400,
+            "rank": 1
+          },
           {
             "name": "Omloop Nieuwsblad WE",
             "date": "01 Mar 2025",
@@ -145,8 +151,14 @@
         "id": 227721,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 54,
+        "totalPoints": 82,
         "results": [
+          {
+            "name": "Strade Bianche Donne",
+            "date": "08 Mar 2025",
+            "points": 28,
+            "rank": 15
+          },
           {
             "name": "Omloop Nieuwsblad WE",
             "date": "01 Mar 2025",
@@ -211,8 +223,14 @@
         "id": 1750054,
         "team": "EFO",
         "country": "fr",
-        "totalPoints": 97,
+        "totalPoints": 105,
         "results": [
+          {
+            "name": "Strade Bianche Donne",
+            "date": "08 Mar 2025",
+            "points": 8,
+            "rank": 33
+          },
           {
             "name": "UAE Tour Women - General classification",
             "date": "09 Feb 2025",
@@ -238,8 +256,14 @@
         "id": 217072,
         "team": "LTK",
         "country": "nz",
-        "totalPoints": 261,
+        "totalPoints": 361,
         "results": [
+          {
+            "name": "Strade Bianche Donne",
+            "date": "08 Mar 2025",
+            "points": 100,
+            "rank": 8
+          },
           {
             "name": "National Championships New Zealand WE - Road Race",
             "date": "07 Feb 2025",

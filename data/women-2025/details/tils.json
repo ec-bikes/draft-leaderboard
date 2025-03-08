@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 Mar 2025, 23:17 GMT",
+  "fetchedDate": "8 Mar 2025, 23:18 GMT",
   "momentId": 189057,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 1587,
+    "totalPoints": 2191,
     "riders": [
       {
         "name": "Liane Lippert",
         "id": 140495,
         "team": "MOV",
         "country": "de",
-        "totalPoints": 143,
+        "totalPoints": 167,
         "results": [
+          {
+            "name": "Strade Bianche Donne",
+            "date": "08 Mar 2025",
+            "points": 24,
+            "rank": 19
+          },
           {
             "name": "Omloop Nieuwsblad WE",
             "date": "01 Mar 2025",
@@ -58,8 +64,14 @@
         "id": 59726,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 175,
+        "totalPoints": 495,
         "results": [
+          {
+            "name": "Strade Bianche Donne",
+            "date": "08 Mar 2025",
+            "points": 320,
+            "rank": 2
+          },
           {
             "name": "Fenix Omloop van het Hageland",
             "date": "02 Mar 2025",
@@ -241,8 +253,14 @@
         "id": 66298,
         "team": "TVL",
         "country": "fr",
-        "totalPoints": 30,
+        "totalPoints": 290,
         "results": [
+          {
+            "name": "Strade Bianche Donne",
+            "date": "08 Mar 2025",
+            "points": 260,
+            "rank": 3
+          },
           {
             "name": "UAE Tour Women - General classification",
             "date": "09 Feb 2025",

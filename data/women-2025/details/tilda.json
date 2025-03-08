@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 Mar 2025, 23:17 GMT",
+  "fetchedDate": "8 Mar 2025, 23:18 GMT",
   "momentId": 189057,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 1837,
+    "totalPoints": 2268,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -68,8 +68,14 @@
         "id": 109412,
         "team": "TFS",
         "country": "fr",
-        "totalPoints": 5,
+        "totalPoints": 53,
         "results": [
+          {
+            "name": "Strade Bianche Donne",
+            "date": "08 Mar 2025",
+            "points": 48,
+            "rank": 12
+          },
           {
             "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classification",
             "date": "16 Feb 2025",
@@ -83,8 +89,14 @@
         "id": 234336,
         "team": "FDC",
         "country": "nl",
-        "totalPoints": 280,
+        "totalPoints": 400,
         "results": [
+          {
+            "name": "Strade Bianche Donne",
+            "date": "08 Mar 2025",
+            "points": 120,
+            "rank": 7
+          },
           {
             "name": "Fenix Omloop van het Hageland",
             "date": "02 Mar 2025",
@@ -104,8 +116,14 @@
         "id": 347941,
         "team": "EFO",
         "country": "ch",
-        "totalPoints": 766,
+        "totalPoints": 846,
         "results": [
+          {
+            "name": "Strade Bianche Donne",
+            "date": "08 Mar 2025",
+            "points": 80,
+            "rank": 9
+          },
           {
             "name": "Cadel Evans Great Ocean Road Race - Women",
             "date": "01 Feb 2025",
@@ -156,8 +174,15 @@
         "id": 1742562,
         "team": "TVL",
         "country": "fr",
-        "totalPoints": 0,
-        "results": []
+        "totalPoints": 3,
+        "results": [
+          {
+            "name": "Vuelta a Extremadura Femenina - General classification",
+            "date": "08 Mar 2025",
+            "points": 3,
+            "rank": 25
+          }
+        ]
       },
       {
         "name": "Sofie van Rooijen",
@@ -206,8 +231,14 @@
         "id": 398547,
         "team": "LIV",
         "country": "es",
-        "totalPoints": 178,
+        "totalPoints": 358,
         "results": [
+          {
+            "name": "Strade Bianche Donne",
+            "date": "08 Mar 2025",
+            "points": 180,
+            "rank": 5
+          },
           {
             "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classification",
             "date": "16 Feb 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 Mar 2025, 23:18 GMT",
+  "fetchedDate": "8 Mar 2025, 23:18 GMT",
   "momentId": 189039,
   "team": {
     "owner": "Andrew (Discord)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 1638,
+    "totalPoints": 1922,
     "riders": [
       {
         "name": "Adam Yates",
@@ -134,8 +134,14 @@
         "id": 1745291,
         "team": "ARK",
         "country": "fr",
-        "totalPoints": 219,
+        "totalPoints": 243,
         "results": [
+          {
+            "name": "Strade Bianche",
+            "date": "08 Mar 2025",
+            "points": 24,
+            "rank": 20
+          },
           {
             "name": "Classic Var",
             "date": "21 Feb 2025",
@@ -232,8 +238,14 @@
         "id": 64531,
         "team": "UAD",
         "country": "be",
-        "totalPoints": 155,
+        "totalPoints": 415,
         "results": [
+          {
+            "name": "Strade Bianche",
+            "date": "08 Mar 2025",
+            "points": 260,
+            "rank": 3
+          },
           {
             "name": "Omloop Nieuwsblad ME",
             "date": "01 Mar 2025",

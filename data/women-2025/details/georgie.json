@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 Mar 2025, 23:17 GMT",
+  "fetchedDate": "8 Mar 2025, 23:18 GMT",
   "momentId": 189057,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 1346,
+    "totalPoints": 1598,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -34,8 +34,14 @@
         "id": 107539,
         "team": "UAD",
         "country": "it",
-        "totalPoints": 547,
+        "totalPoints": 571,
         "results": [
+          {
+            "name": "Strade Bianche Donne",
+            "date": "08 Mar 2025",
+            "points": 24,
+            "rank": 16
+          },
           {
             "name": "Omloop Nieuwsblad WE",
             "date": "01 Mar 2025",
@@ -139,8 +145,14 @@
         "id": 106168,
         "team": "UAD",
         "country": "au",
-        "totalPoints": 100,
+        "totalPoints": 108,
         "results": [
+          {
+            "name": "Strade Bianche Donne",
+            "date": "08 Mar 2025",
+            "points": 8,
+            "rank": 37
+          },
           {
             "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classification",
             "date": "16 Feb 2025",
@@ -193,8 +205,14 @@
         "id": 97498,
         "team": "TFS",
         "country": "fr",
-        "totalPoints": 72,
+        "totalPoints": 292,
         "results": [
+          {
+            "name": "Strade Bianche Donne",
+            "date": "08 Mar 2025",
+            "points": 220,
+            "rank": 4
+          },
           {
             "name": "Omloop Nieuwsblad WE",
             "date": "01 Mar 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 Mar 2025, 23:18 GMT",
+  "fetchedDate": "8 Mar 2025, 23:18 GMT",
   "momentId": 189039,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 2220,
+    "totalPoints": 2224,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -196,8 +196,14 @@
         "id": 1759422,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 305,
+        "totalPoints": 309,
         "results": [
+          {
+            "name": "Strade Bianche",
+            "date": "08 Mar 2025",
+            "points": 4,
+            "rank": 52
+          },
           {
             "name": "Faun-Ardèche Classic",
             "date": "01 Mar 2025",

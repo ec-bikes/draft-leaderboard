@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 Mar 2025, 23:18 GMT",
+  "fetchedDate": "8 Mar 2025, 23:18 GMT",
   "momentId": 189039,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 696,
+    "totalPoints": 1200,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "team": "UAD",
         "country": "si",
-        "totalPoints": 425,
+        "totalPoints": 825,
         "results": [
+          {
+            "name": "Strade Bianche",
+            "date": "08 Mar 2025",
+            "points": 400,
+            "rank": 1
+          },
           {
             "name": "UAE Tour - General classification",
             "date": "23 Feb 2025",
@@ -80,8 +86,14 @@
         "id": 68892,
         "team": "LTK",
         "country": "lv",
-        "totalPoints": 10,
+        "totalPoints": 58,
         "results": [
+          {
+            "name": "Strade Bianche",
+            "date": "08 Mar 2025",
+            "points": 48,
+            "rank": 12
+          },
           {
             "name": "Omloop Nieuwsblad ME",
             "date": "01 Mar 2025",
@@ -101,8 +113,15 @@
         "id": 68367,
         "team": "SOQ",
         "country": "es",
-        "totalPoints": 0,
-        "results": []
+        "totalPoints": 56,
+        "results": [
+          {
+            "name": "Strade Bianche",
+            "date": "08 Mar 2025",
+            "points": 56,
+            "rank": 11
+          }
+        ]
       },
       {
         "name": "Jordi Meeus",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 Mar 2025, 23:17 GMT",
+  "fetchedDate": "8 Mar 2025, 23:18 GMT",
   "momentId": 189057,
   "team": {
     "owner": "Loren Rowney",
     "name": "(TBD)",
-    "totalPoints": 2086,
+    "totalPoints": 2250,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -21,8 +21,14 @@
         "id": 86838,
         "team": "CSZ",
         "country": "dk",
-        "totalPoints": 5,
+        "totalPoints": 13,
         "results": [
+          {
+            "name": "Strade Bianche Donne",
+            "date": "08 Mar 2025",
+            "points": 8,
+            "rank": 39
+          },
           {
             "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classification",
             "date": "16 Feb 2025",
@@ -36,8 +42,14 @@
         "id": 88660,
         "team": "AGS",
         "country": "mu",
-        "totalPoints": 290,
+        "totalPoints": 322,
         "results": [
+          {
+            "name": "Strade Bianche Donne",
+            "date": "08 Mar 2025",
+            "points": 32,
+            "rank": 14
+          },
           {
             "name": "UAE Tour Women - General classification",
             "date": "09 Feb 2025",
@@ -90,8 +102,14 @@
         "id": 231378,
         "team": "LIV",
         "country": "nl",
-        "totalPoints": 585,
+        "totalPoints": 653,
         "results": [
+          {
+            "name": "Strade Bianche Donne",
+            "date": "08 Mar 2025",
+            "points": 68,
+            "rank": 10
+          },
           {
             "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classification",
             "date": "16 Feb 2025",
@@ -159,8 +177,14 @@
         "id": 1897613,
         "team": "LIV",
         "country": "it",
-        "totalPoints": 259,
+        "totalPoints": 315,
         "results": [
+          {
+            "name": "Strade Bianche Donne",
+            "date": "08 Mar 2025",
+            "points": 56,
+            "rank": 11
+          },
           {
             "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classification",
             "date": "16 Feb 2025",

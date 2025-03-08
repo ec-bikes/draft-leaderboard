@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 Mar 2025, 23:17 GMT",
+  "fetchedDate": "8 Mar 2025, 23:18 GMT",
   "momentId": 189057,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 1524,
+    "totalPoints": 1532,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -146,8 +146,14 @@
         "id": 237690,
         "team": "LTK",
         "country": "gb",
-        "totalPoints": 3,
+        "totalPoints": 11,
         "results": [
+          {
+            "name": "Strade Bianche Donne",
+            "date": "08 Mar 2025",
+            "points": 8,
+            "rank": 35
+          },
           {
             "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classification",
             "date": "16 Feb 2025",

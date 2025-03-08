@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 Mar 2025, 23:18 GMT",
+  "fetchedDate": "8 Mar 2025, 23:18 GMT",
   "momentId": 189039,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 1205,
+    "totalPoints": 1213,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -120,8 +120,14 @@
         "id": 2002910,
         "team": "UAD",
         "country": "mx",
-        "totalPoints": 126,
+        "totalPoints": 134,
         "results": [
+          {
+            "name": "Strade Bianche",
+            "date": "08 Mar 2025",
+            "points": 8,
+            "rank": 33
+          },
           {
             "name": "Faun Drome Classic",
             "date": "02 Mar 2025",
