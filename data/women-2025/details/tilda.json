@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 Mar 2025, 23:18 GMT",
+  "fetchedDate": "9 Mar 2025, 23:17 GMT",
   "momentId": 189057,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 2268,
+    "totalPoints": 2353,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -89,8 +89,14 @@
         "id": 234336,
         "team": "FDC",
         "country": "nl",
-        "totalPoints": 400,
+        "totalPoints": 485,
         "results": [
+          {
+            "name": "Trofeo Oro in Euro - Women's Bike Race",
+            "date": "09 Mar 2025",
+            "points": 85,
+            "rank": 2
+          },
           {
             "name": "Strade Bianche Donne",
             "date": "08 Mar 2025",

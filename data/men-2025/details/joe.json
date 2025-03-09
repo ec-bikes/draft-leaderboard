@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 Mar 2025, 23:18 GMT",
+  "fetchedDate": "9 Mar 2025, 23:17 GMT",
   "momentId": 189039,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 1104,
+    "totalPoints": 1124,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -162,8 +162,14 @@
         "id": 101278,
         "team": "TVL",
         "country": "fr",
-        "totalPoints": 3,
+        "totalPoints": 23,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 1",
+            "date": "09 Mar 2025",
+            "points": 20,
+            "rank": 5
+          },
           {
             "name": "Faun Drome Classic",
             "date": "02 Mar 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 Mar 2025, 23:18 GMT",
+  "fetchedDate": "9 Mar 2025, 23:17 GMT",
   "momentId": 189057,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 1532,
+    "totalPoints": 1657,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -74,8 +74,14 @@
         "id": 98571,
         "team": "UAD",
         "country": "nl",
-        "totalPoints": 599,
+        "totalPoints": 724,
         "results": [
+          {
+            "name": "Trofeo Oro in Euro - Women's Bike Race",
+            "date": "09 Mar 2025",
+            "points": 125,
+            "rank": 1
+          },
           {
             "name": "UAE Tour Women - General classification",
             "date": "09 Feb 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 Mar 2025, 23:18 GMT",
+  "fetchedDate": "9 Mar 2025, 23:17 GMT",
   "momentId": 189057,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 1598,
+    "totalPoints": 1631,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -34,8 +34,14 @@
         "id": 107539,
         "team": "UAD",
         "country": "it",
-        "totalPoints": 571,
+        "totalPoints": 601,
         "results": [
+          {
+            "name": "Trofeo Oro in Euro - Women's Bike Race",
+            "date": "09 Mar 2025",
+            "points": 30,
+            "rank": 8
+          },
           {
             "name": "Strade Bianche Donne",
             "date": "08 Mar 2025",
@@ -79,8 +85,14 @@
         "id": 2188959,
         "team": "CSZ",
         "country": "de",
-        "totalPoints": 138,
+        "totalPoints": 141,
         "results": [
+          {
+            "name": "Trofeo Oro in Euro - Women's Bike Race",
+            "date": "09 Mar 2025",
+            "points": 3,
+            "rank": 24
+          },
           {
             "name": "UAE Tour Women - General classification",
             "date": "09 Feb 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 Mar 2025, 23:18 GMT",
+  "fetchedDate": "9 Mar 2025, 23:17 GMT",
   "momentId": 189039,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 1978,
+    "totalPoints": 2098,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -21,8 +21,19 @@
         "id": 70962,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 146,
+        "totalPoints": 216,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 1",
+            "date": "09 Mar 2025",
+            "points": 60,
+            "rank": 1
+          },
+          {
+            "name": "Paris-Nice - Stage 1 - Bonus",
+            "date": "09 Mar 2025",
+            "points": 10
+          },
           {
             "name": "Kuurne - Brussel - Kuurne",
             "date": "02 Mar 2025",
@@ -246,8 +257,14 @@
         "id": 1714193,
         "team": "COF",
         "country": "be",
-        "totalPoints": 318,
+        "totalPoints": 368,
         "results": [
+          {
+            "name": "Grote prijs Jean - Pierre Monseré",
+            "date": "09 Mar 2025",
+            "points": 50,
+            "rank": 5
+          },
           {
             "name": "Grand Prix Criquielion",
             "date": "08 Mar 2025",
