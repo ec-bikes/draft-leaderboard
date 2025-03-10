@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 Mar 2025, 23:17 GMT",
+  "fetchedDate": "10 Mar 2025, 23:21 GMT",
   "momentId": 189039,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 1213,
+    "totalPoints": 1238,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -28,8 +28,14 @@
         "id": 301151,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 234,
+        "totalPoints": 254,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Stage 1 (ITT)",
+            "date": "10 Mar 2025",
+            "points": 20,
+            "rank": 5
+          },
           {
             "name": "Kuurne - Brussel - Kuurne",
             "date": "02 Mar 2025",
@@ -120,8 +126,14 @@
         "id": 2002910,
         "team": "UAD",
         "country": "mx",
-        "totalPoints": 134,
+        "totalPoints": 139,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Stage 1 (ITT)",
+            "date": "10 Mar 2025",
+            "points": 5,
+            "rank": 9
+          },
           {
             "name": "Strade Bianche",
             "date": "08 Mar 2025",

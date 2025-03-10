@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 Mar 2025, 23:17 GMT",
+  "fetchedDate": "10 Mar 2025, 23:21 GMT",
   "momentId": 189039,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 2098,
+    "totalPoints": 2168,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -21,8 +21,19 @@
         "id": 70962,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 216,
+        "totalPoints": 286,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 2",
+            "date": "10 Mar 2025",
+            "points": 60,
+            "rank": 1
+          },
+          {
+            "name": "Paris-Nice - Stage 2 - Bonus",
+            "date": "10 Mar 2025",
+            "points": 10
+          },
           {
             "name": "Paris-Nice - Stage 1",
             "date": "09 Mar 2025",

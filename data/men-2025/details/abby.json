@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 Mar 2025, 23:17 GMT",
+  "fetchedDate": "10 Mar 2025, 23:21 GMT",
   "momentId": 189039,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 1704,
+    "totalPoints": 1774,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -144,8 +144,19 @@
         "id": 91640,
         "team": "IGD",
         "country": "it",
-        "totalPoints": 15,
+        "totalPoints": 85,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Stage 1 (ITT)",
+            "date": "10 Mar 2025",
+            "points": 60,
+            "rank": 1
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 1 (ITT) - Bonus",
+            "date": "10 Mar 2025",
+            "points": 10
+          },
           {
             "name": "Volta ao Algarve em Bicicleta - Stage 4",
             "date": "22 Feb 2025",

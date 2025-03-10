@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 Mar 2025, 23:17 GMT",
+  "fetchedDate": "10 Mar 2025, 23:21 GMT",
   "momentId": 189039,
   "team": {
     "owner": "Andrew (Discord)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 1922,
+    "totalPoints": 1924,
     "riders": [
       {
         "name": "Adam Yates",
@@ -134,8 +134,14 @@
         "id": 1745291,
         "team": "ARK",
         "country": "fr",
-        "totalPoints": 243,
+        "totalPoints": 245,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Stage 1 (ITT)",
+            "date": "10 Mar 2025",
+            "points": 2,
+            "rank": 10
+          },
           {
             "name": "Strade Bianche",
             "date": "08 Mar 2025",
