@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 Mar 2025, 23:21 GMT",
-  "momentId": 189039,
+  "fetchedDate": "11 Mar 2025, 23:21 GMT",
+  "momentId": 189241,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 2354,
+    "totalPoints": 2367,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "team": "TVL",
         "country": "dk",
-        "totalPoints": 220,
+        "totalPoints": 229,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 3 (TTT)",
+            "date": "11 Mar 2025",
+            "points": 8.57,
+            "rank": 1
+          },
           {
             "name": "Volta ao Algarve em Bicicleta - General classification",
             "date": "23 Feb 2025",
@@ -34,8 +40,14 @@
         "id": 365033,
         "team": "LTK",
         "country": "dk",
-        "totalPoints": 220,
+        "totalPoints": 224,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 3 (TTT)",
+            "date": "11 Mar 2025",
+            "points": 3.57,
+            "rank": 4
+          },
           {
             "name": "Faun Drome Classic",
             "date": "02 Mar 2025",

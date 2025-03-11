@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 Mar 2025, 23:21 GMT",
-  "momentId": 189039,
+  "fetchedDate": "11 Mar 2025, 23:21 GMT",
+  "momentId": 189241,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 2264,
+    "totalPoints": 2270,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -123,8 +123,14 @@
         "id": 96372,
         "team": "UAD",
         "country": "ec",
-        "totalPoints": 745,
+        "totalPoints": 746,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 3 (TTT)",
+            "date": "11 Mar 2025",
+            "points": 1.14,
+            "rank": 8
+          },
           {
             "name": "Omloop Nieuwsblad ME",
             "date": "01 Mar 2025",
@@ -194,8 +200,15 @@
         "id": 2097255,
         "team": "RBH",
         "country": "de",
-        "totalPoints": 0,
-        "results": []
+        "totalPoints": 5,
+        "results": [
+          {
+            "name": "Paris-Nice - Stage 3 (TTT)",
+            "date": "11 Mar 2025",
+            "points": 5,
+            "rank": 3
+          }
+        ]
       },
       {
         "name": "Romain Grégoire",

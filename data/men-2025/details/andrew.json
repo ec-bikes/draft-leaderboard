@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 Mar 2025, 23:21 GMT",
-  "momentId": 189039,
+  "fetchedDate": "11 Mar 2025, 23:21 GMT",
+  "momentId": 189241,
   "team": {
     "owner": "Andrew (Discord)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 1924,
+    "totalPoints": 1955,
     "riders": [
       {
         "name": "Adam Yates",
@@ -46,8 +46,14 @@
         "id": 107840,
         "team": "UAD",
         "country": "pt",
-        "totalPoints": 346,
+        "totalPoints": 348,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 3 (TTT)",
+            "date": "11 Mar 2025",
+            "points": 1.14,
+            "rank": 8
+          },
           {
             "name": "Volta ao Algarve em Bicicleta - General classification",
             "date": "23 Feb 2025",
@@ -102,8 +108,14 @@
         "id": 227110,
         "team": "TVL",
         "country": "nl",
-        "totalPoints": 195,
+        "totalPoints": 220,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Stage 2",
+            "date": "11 Mar 2025",
+            "points": 25,
+            "rank": 4
+          },
           {
             "name": "Kuurne - Brussel - Kuurne",
             "date": "02 Mar 2025",
@@ -190,8 +202,14 @@
         "id": 111343,
         "team": "UAD",
         "country": "fr",
-        "totalPoints": 246,
+        "totalPoints": 248,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 3 (TTT)",
+            "date": "11 Mar 2025",
+            "points": 1.14,
+            "rank": 8
+          },
           {
             "name": "Vuelta a Andalucia Ruta Ciclista Del Sol - General classification",
             "date": "23 Feb 2025",
@@ -297,8 +315,14 @@
         "id": 150925,
         "team": "DAT",
         "country": "at",
-        "totalPoints": 40,
+        "totalPoints": 41,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 3 (TTT)",
+            "date": "11 Mar 2025",
+            "points": 1.43,
+            "rank": 7
+          },
           {
             "name": "UAE Tour - General classification",
             "date": "23 Feb 2025",
@@ -318,8 +342,14 @@
         "id": 373832,
         "team": "MOV",
         "country": "es",
-        "totalPoints": 139,
+        "totalPoints": 140,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 3 (TTT)",
+            "date": "11 Mar 2025",
+            "points": 0.71,
+            "rank": 9
+          },
           {
             "name": "UAE Tour - General classification",
             "date": "23 Feb 2025",

@@ -1,20 +1,31 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 Mar 2025, 23:21 GMT",
-  "momentId": 189039,
+  "fetchedDate": "11 Mar 2025, 23:21 GMT",
+  "momentId": 189241,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 1238,
+    "totalPoints": 1330,
     "riders": [
       {
         "name": "Matteo Jorgenson",
         "id": 159567,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 2,
+        "totalPoints": 21,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 3 (TTT)",
+            "date": "11 Mar 2025",
+            "points": 8.57,
+            "rank": 1
+          },
+          {
+            "name": "Paris-Nice - Stage 3 (TTT) - Bonus",
+            "date": "11 Mar 2025",
+            "points": 10
+          },
           {
             "name": "Omloop Nieuwsblad ME",
             "date": "01 Mar 2025",
@@ -28,8 +39,14 @@
         "id": 301151,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 254,
+        "totalPoints": 314,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Stage 2",
+            "date": "11 Mar 2025",
+            "points": 60,
+            "rank": 1
+          },
           {
             "name": "Tirreno-Adriatico - Stage 1 (ITT)",
             "date": "10 Mar 2025",
@@ -111,8 +128,14 @@
         "id": 62919,
         "team": "JAY",
         "country": "au",
-        "totalPoints": 10,
+        "totalPoints": 17,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 3 (TTT)",
+            "date": "11 Mar 2025",
+            "points": 6.67,
+            "rank": 2
+          },
           {
             "name": "Gran Premio Castellón - Ruta de la Cerámica",
             "date": "25 Jan 2025",
@@ -179,8 +202,14 @@
         "id": 88143,
         "team": "EFE",
         "country": "us",
-        "totalPoints": 175,
+        "totalPoints": 178,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 3 (TTT)",
+            "date": "11 Mar 2025",
+            "points": 2.5,
+            "rank": 6
+          },
           {
             "name": "Trofeo Laigueglia",
             "date": "05 Mar 2025",
@@ -206,8 +235,14 @@
         "id": 361433,
         "team": "IGD",
         "country": "us",
-        "totalPoints": 325,
+        "totalPoints": 328,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 3 (TTT)",
+            "date": "11 Mar 2025",
+            "points": 2.86,
+            "rank": 5
+          },
           {
             "name": "Trofeo Laigueglia",
             "date": "05 Mar 2025",
