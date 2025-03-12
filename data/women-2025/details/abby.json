@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 Mar 2025, 23:21 GMT",
+  "fetchedDate": "12 Mar 2025, 23:22 GMT",
   "momentId": 189259,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 1657,
+    "totalPoints": 1797,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -152,8 +152,14 @@
         "id": 237690,
         "team": "LTK",
         "country": "gb",
-        "totalPoints": 11,
+        "totalPoints": 26,
         "results": [
+          {
+            "name": "Ixina GP Oetingen p/b Lotto",
+            "date": "12 Mar 2025",
+            "points": 15,
+            "rank": 14
+          },
           {
             "name": "Strade Bianche Donne",
             "date": "08 Mar 2025",
@@ -173,8 +179,14 @@
         "id": 156600,
         "team": "CSZ",
         "country": "it",
-        "totalPoints": 100,
+        "totalPoints": 225,
         "results": [
+          {
+            "name": "Ixina GP Oetingen p/b Lotto",
+            "date": "12 Mar 2025",
+            "points": 125,
+            "rank": 3
+          },
           {
             "name": "UAE Tour Women - Stage 2",
             "date": "07 Feb 2025",

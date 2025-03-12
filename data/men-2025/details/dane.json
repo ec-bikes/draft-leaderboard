@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 Mar 2025, 23:21 GMT",
+  "fetchedDate": "12 Mar 2025, 23:23 GMT",
   "momentId": 189241,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 2270,
+    "totalPoints": 2320,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -200,8 +200,14 @@
         "id": 2097255,
         "team": "RBH",
         "country": "de",
-        "totalPoints": 5,
+        "totalPoints": 25,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 4",
+            "date": "12 Mar 2025",
+            "points": 20,
+            "rank": 5
+          },
           {
             "name": "Paris-Nice - Stage 3 (TTT)",
             "date": "11 Mar 2025",
@@ -215,8 +221,14 @@
         "id": 1759422,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 309,
+        "totalPoints": 339,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Stage 3",
+            "date": "12 Mar 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Strade Bianche",
             "date": "08 Mar 2025",

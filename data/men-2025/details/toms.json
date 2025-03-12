@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 Mar 2025, 23:21 GMT",
+  "fetchedDate": "12 Mar 2025, 23:23 GMT",
   "momentId": 189241,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 2175,
+    "totalPoints": 2200,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -204,8 +204,14 @@
         "id": 1843476,
         "team": "TBV",
         "country": "fr",
-        "totalPoints": 133,
+        "totalPoints": 158,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 4",
+            "date": "12 Mar 2025",
+            "points": 25,
+            "rank": 4
+          },
           {
             "name": "Tour des Alpes-Maritimes - General classification",
             "date": "23 Feb 2025",

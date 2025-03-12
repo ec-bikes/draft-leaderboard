@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 Mar 2025, 23:21 GMT",
+  "fetchedDate": "12 Mar 2025, 23:23 GMT",
   "momentId": 189241,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 1189,
+    "totalPoints": 1199,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -66,8 +66,14 @@
         "id": 150923,
         "team": "UAD",
         "country": "us",
-        "totalPoints": 148,
+        "totalPoints": 158,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 4",
+            "date": "12 Mar 2025",
+            "points": 10,
+            "rank": 7
+          },
           {
             "name": "Paris-Nice - Stage 3 (TTT)",
             "date": "11 Mar 2025",

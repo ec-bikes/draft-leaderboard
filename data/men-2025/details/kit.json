@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 Mar 2025, 23:21 GMT",
+  "fetchedDate": "12 Mar 2025, 23:23 GMT",
   "momentId": 189241,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 1200,
+    "totalPoints": 1208,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -198,8 +198,14 @@
         "id": 422863,
         "team": "COF",
         "country": "es",
-        "totalPoints": 68,
+        "totalPoints": 76,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Stage 3",
+            "date": "12 Mar 2025",
+            "points": 8,
+            "rank": 8
+          },
           {
             "name": "Faun Drome Classic",
             "date": "02 Mar 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 Mar 2025, 23:21 GMT",
+  "fetchedDate": "12 Mar 2025, 23:22 GMT",
   "momentId": 189259,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 2353,
+    "totalPoints": 2456,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -195,8 +195,14 @@
         "id": 228141,
         "team": "UAD",
         "country": "nl",
-        "totalPoints": 55,
+        "totalPoints": 58,
         "results": [
+          {
+            "name": "Ixina GP Oetingen p/b Lotto",
+            "date": "12 Mar 2025",
+            "points": 3,
+            "rank": 29
+          },
           {
             "name": "UAE Tour Women - Stage 1",
             "date": "06 Feb 2025",
@@ -216,8 +222,14 @@
         "id": 96399,
         "team": "SDW",
         "country": "pl",
-        "totalPoints": 42,
+        "totalPoints": 142,
         "results": [
+          {
+            "name": "Ixina GP Oetingen p/b Lotto",
+            "date": "12 Mar 2025",
+            "points": 100,
+            "rank": 4
+          },
           {
             "name": "UAE Tour Women - General classification",
             "date": "09 Feb 2025",
