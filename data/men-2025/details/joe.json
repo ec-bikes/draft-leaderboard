@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 Mar 2025, 23:23 GMT",
+  "fetchedDate": "13 Mar 2025, 23:21 GMT",
   "momentId": 189241,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 1199,
+    "totalPoints": 1239,
     "riders": [
       {
         "name": "Mathieu van der Poel",
         "id": 79462,
         "team": "ADC",
         "country": "nl",
-        "totalPoints": 125,
+        "totalPoints": 155,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Stage 4",
+            "date": "13 Mar 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Ename Samyn Classic",
             "date": "04 Mar 2025",
@@ -66,8 +72,14 @@
         "id": 150923,
         "team": "UAD",
         "country": "us",
-        "totalPoints": 158,
+        "totalPoints": 168,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 5",
+            "date": "13 Mar 2025",
+            "points": 10,
+            "rank": 7
+          },
           {
             "name": "Paris-Nice - Stage 4",
             "date": "12 Mar 2025",
@@ -190,6 +202,7 @@
       {
         "name": "Axel Zingle",
         "id": 101278,
+        "sanctions": 25,
         "team": "TVL",
         "country": "fr",
         "totalPoints": 47,
