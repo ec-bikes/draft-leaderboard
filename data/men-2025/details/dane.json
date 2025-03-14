@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "13 Mar 2025, 23:21 GMT",
+  "fetchedDate": "14 Mar 2025, 23:24 GMT",
   "momentId": 189241,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 2340,
+    "totalPoints": 2350,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -227,8 +227,14 @@
         "id": 1759422,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 339,
+        "totalPoints": 349,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Stage 5",
+            "date": "14 Mar 2025",
+            "points": 10,
+            "rank": 7
+          },
           {
             "name": "Tirreno-Adriatico - Stage 3",
             "date": "12 Mar 2025",

@@ -1,20 +1,32 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "13 Mar 2025, 23:21 GMT",
+  "fetchedDate": "14 Mar 2025, 23:24 GMT",
   "momentId": 189241,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 1390,
+    "totalPoints": 1423,
     "riders": [
       {
         "name": "Matteo Jorgenson",
         "id": 159567,
+        "sanctions": 25,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 76,
+        "totalPoints": 94,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 6",
+            "date": "14 Mar 2025",
+            "points": 8,
+            "rank": 8
+          },
+          {
+            "name": "Paris-Nice - Stage 6 - Bonus",
+            "date": "14 Mar 2025",
+            "points": 10
+          },
           {
             "name": "Paris-Nice - Stage 5",
             "date": "13 Mar 2025",
@@ -253,8 +265,14 @@
         "id": 361433,
         "team": "IGD",
         "country": "us",
-        "totalPoints": 333,
+        "totalPoints": 348,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 6",
+            "date": "14 Mar 2025",
+            "points": 15,
+            "rank": 6
+          },
           {
             "name": "Paris-Nice - Stage 5",
             "date": "13 Mar 2025",
