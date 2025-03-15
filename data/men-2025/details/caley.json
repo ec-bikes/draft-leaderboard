@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 Mar 2025, 23:24 GMT",
+  "fetchedDate": "15 Mar 2025, 23:20 GMT",
   "momentId": 189241,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 1423,
+    "totalPoints": 1443,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -14,8 +14,13 @@
         "sanctions": 25,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 94,
+        "totalPoints": 104,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 7 - Bonus",
+            "date": "15 Mar 2025",
+            "points": 10
+          },
           {
             "name": "Paris-Nice - Stage 6",
             "date": "14 Mar 2025",
@@ -179,8 +184,14 @@
         "sanctions": 25,
         "team": "UAD",
         "country": "mx",
-        "totalPoints": 139,
+        "totalPoints": 149,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Stage 6",
+            "date": "15 Mar 2025",
+            "points": 10,
+            "rank": 7
+          },
           {
             "name": "Tirreno-Adriatico - Stage 1 (ITT)",
             "date": "10 Mar 2025",

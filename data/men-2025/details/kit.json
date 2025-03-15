@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 Mar 2025, 23:24 GMT",
+  "fetchedDate": "15 Mar 2025, 23:20 GMT",
   "momentId": 189241,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 1228,
+    "totalPoints": 1253,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -113,8 +113,14 @@
         "id": 68367,
         "team": "SOQ",
         "country": "es",
-        "totalPoints": 56,
+        "totalPoints": 81,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Stage 6",
+            "date": "15 Mar 2025",
+            "points": 25,
+            "rank": 4
+          },
           {
             "name": "Strade Bianche",
             "date": "08 Mar 2025",

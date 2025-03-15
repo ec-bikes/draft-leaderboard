@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 Mar 2025, 23:24 GMT",
+  "fetchedDate": "15 Mar 2025, 23:20 GMT",
   "momentId": 189241,
   "team": {
     "owner": "Andrew (Discord)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 2090,
+    "totalPoints": 2105,
     "riders": [
       {
         "name": "Adam Yates",
@@ -333,8 +333,14 @@
         "id": 150925,
         "team": "DAT",
         "country": "at",
-        "totalPoints": 41,
+        "totalPoints": 56,
         "results": [
+          {
+            "name": "Paris-Nice - Stage 7",
+            "date": "15 Mar 2025",
+            "points": 15,
+            "rank": 6
+          },
           {
             "name": "Paris-Nice - Stage 3 (TTT)",
             "date": "11 Mar 2025",

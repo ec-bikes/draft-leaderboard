@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 Mar 2025, 23:24 GMT",
+  "fetchedDate": "15 Mar 2025, 23:20 GMT",
   "momentId": 189241,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 2457,
+    "totalPoints": 2477,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -353,8 +353,14 @@
         "id": 308040,
         "team": "TBV",
         "country": "it",
-        "totalPoints": 40,
+        "totalPoints": 60,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Stage 6",
+            "date": "15 Mar 2025",
+            "points": 20,
+            "rank": 5
+          },
           {
             "name": "Tirreno-Adriatico - Stage 1 (ITT)",
             "date": "10 Mar 2025",
