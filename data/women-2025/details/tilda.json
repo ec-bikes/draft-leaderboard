@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 Mar 2025, 23:20 GMT",
+  "fetchedDate": "16 Mar 2025, 23:21 GMT",
   "momentId": 189259,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 2456,
+    "totalPoints": 2740,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -68,8 +68,14 @@
         "id": 109412,
         "team": "TFS",
         "country": "fr",
-        "totalPoints": 53,
+        "totalPoints": 69,
         "results": [
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
+            "date": "16 Mar 2025",
+            "points": 16,
+            "rank": 29
+          },
           {
             "name": "Strade Bianche Donne",
             "date": "08 Mar 2025",
@@ -89,8 +95,14 @@
         "id": 234336,
         "team": "FDC",
         "country": "nl",
-        "totalPoints": 485,
+        "totalPoints": 605,
         "results": [
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
+            "date": "16 Mar 2025",
+            "points": 120,
+            "rank": 7
+          },
           {
             "name": "Trofeo Oro in Euro - Women's Bike Race",
             "date": "09 Mar 2025",
@@ -122,8 +134,14 @@
         "id": 347941,
         "team": "EFO",
         "country": "ch",
-        "totalPoints": 846,
+        "totalPoints": 986,
         "results": [
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
+            "date": "16 Mar 2025",
+            "points": 140,
+            "rank": 6
+          },
           {
             "name": "Strade Bianche Donne",
             "date": "08 Mar 2025",
@@ -249,8 +267,14 @@
         "id": 398547,
         "team": "LIV",
         "country": "es",
-        "totalPoints": 358,
+        "totalPoints": 366,
         "results": [
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
+            "date": "16 Mar 2025",
+            "points": 8,
+            "rank": 36
+          },
           {
             "name": "Strade Bianche Donne",
             "date": "08 Mar 2025",

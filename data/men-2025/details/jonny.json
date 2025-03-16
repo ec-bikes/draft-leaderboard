@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 Mar 2025, 23:20 GMT",
+  "fetchedDate": "16 Mar 2025, 23:22 GMT",
   "momentId": 189241,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 2477,
+    "totalPoints": 2812,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -244,8 +244,14 @@
         "id": 91637,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 28,
+        "totalPoints": 38,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - General classification",
+            "date": "16 Mar 2025",
+            "points": 10,
+            "rank": 35
+          },
           {
             "name": "Strade Bianche",
             "date": "08 Mar 2025",
@@ -353,8 +359,14 @@
         "id": 308040,
         "team": "TBV",
         "country": "it",
-        "totalPoints": 60,
+        "totalPoints": 385,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - General classification",
+            "date": "16 Mar 2025",
+            "points": 325,
+            "rank": 3
+          },
           {
             "name": "Tirreno-Adriatico - Stage 6",
             "date": "15 Mar 2025",

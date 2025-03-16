@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 Mar 2025, 23:20 GMT",
+  "fetchedDate": "16 Mar 2025, 23:21 GMT",
   "momentId": 189259,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 1636,
+    "totalPoints": 1644,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -85,8 +85,14 @@
         "id": 2188959,
         "team": "CSZ",
         "country": "de",
-        "totalPoints": 141,
+        "totalPoints": 149,
         "results": [
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
+            "date": "16 Mar 2025",
+            "points": 8,
+            "rank": 37
+          },
           {
             "name": "Trofeo Oro in Euro - Women's Bike Race",
             "date": "09 Mar 2025",

@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 Mar 2025, 23:20 GMT",
+  "fetchedDate": "16 Mar 2025, 23:22 GMT",
   "momentId": 189241,
   "team": {
     "owner": "Andrew (Discord)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 2105,
+    "totalPoints": 2530,
     "riders": [
       {
         "name": "Adam Yates",
         "id": 70590,
         "team": "UAD",
         "country": "gb",
-        "totalPoints": 233,
+        "totalPoints": 263,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - General classification",
+            "date": "16 Mar 2025",
+            "points": 30,
+            "rank": 16
+          },
           {
             "name": "Tour of Oman - General classification",
             "date": "12 Feb 2025",
@@ -46,8 +52,14 @@
         "id": 107840,
         "team": "UAD",
         "country": "pt",
-        "totalPoints": 423,
+        "totalPoints": 598,
         "results": [
+          {
+            "name": "Paris-Nice - General classification",
+            "date": "16 Mar 2025",
+            "points": 175,
+            "rank": 6
+          },
           {
             "name": "Paris-Nice - Stage 5",
             "date": "13 Mar 2025",
@@ -120,8 +132,14 @@
         "id": 227110,
         "team": "TVL",
         "country": "nl",
-        "totalPoints": 280,
+        "totalPoints": 310,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - Stage 7",
+            "date": "16 Mar 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Tirreno-Adriatico - Stage 4",
             "date": "13 Mar 2025",
@@ -164,8 +182,14 @@
         "id": 1745291,
         "team": "ARK",
         "country": "fr",
-        "totalPoints": 245,
+        "totalPoints": 305,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - General classification",
+            "date": "16 Mar 2025",
+            "points": 60,
+            "rank": 12
+          },
           {
             "name": "Tirreno-Adriatico - Stage 1 (ITT)",
             "date": "10 Mar 2025",
@@ -333,8 +357,20 @@
         "id": 150925,
         "team": "DAT",
         "country": "at",
-        "totalPoints": 56,
+        "totalPoints": 116,
         "results": [
+          {
+            "name": "Paris-Nice - General classification",
+            "date": "16 Mar 2025",
+            "points": 30,
+            "rank": 18
+          },
+          {
+            "name": "Paris-Nice - Stage 8",
+            "date": "16 Mar 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Paris-Nice - Stage 7",
             "date": "15 Mar 2025",
@@ -366,8 +402,14 @@
         "id": 373832,
         "team": "MOV",
         "country": "es",
-        "totalPoints": 140,
+        "totalPoints": 210,
         "results": [
+          {
+            "name": "Paris-Nice - General classification",
+            "date": "16 Mar 2025",
+            "points": 70,
+            "rank": 11
+          },
           {
             "name": "Paris-Nice - Stage 3 (TTT)",
             "date": "11 Mar 2025",

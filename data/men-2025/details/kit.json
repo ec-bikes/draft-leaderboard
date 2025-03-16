@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 Mar 2025, 23:20 GMT",
+  "fetchedDate": "16 Mar 2025, 23:22 GMT",
   "momentId": 189241,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 1253,
+    "totalPoints": 1453,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -113,8 +113,14 @@
         "id": 68367,
         "team": "SOQ",
         "country": "es",
-        "totalPoints": 81,
+        "totalPoints": 231,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - General classification",
+            "date": "16 Mar 2025",
+            "points": 150,
+            "rank": 7
+          },
           {
             "name": "Tirreno-Adriatico - Stage 6",
             "date": "15 Mar 2025",
@@ -175,8 +181,14 @@
         "id": 91656,
         "team": "EFE",
         "country": "ec",
-        "totalPoints": 28,
+        "totalPoints": 58,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - General classification",
+            "date": "16 Mar 2025",
+            "points": 30,
+            "rank": 18
+          },
           {
             "name": "Tour des Alpes-Maritimes - General classification",
             "date": "23 Feb 2025",
@@ -204,8 +216,14 @@
         "id": 422863,
         "team": "COF",
         "country": "es",
-        "totalPoints": 96,
+        "totalPoints": 116,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - General classification",
+            "date": "16 Mar 2025",
+            "points": 20,
+            "rank": 29
+          },
           {
             "name": "Tirreno-Adriatico - Stage 5",
             "date": "14 Mar 2025",

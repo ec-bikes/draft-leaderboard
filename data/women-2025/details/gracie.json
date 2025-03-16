@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 Mar 2025, 23:20 GMT",
+  "fetchedDate": "16 Mar 2025, 23:21 GMT",
   "momentId": 189259,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 2839,
+    "totalPoints": 3327,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
         "team": "TFS",
         "country": "nl",
-        "totalPoints": 912,
+        "totalPoints": 968,
         "results": [
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
+            "date": "16 Mar 2025",
+            "points": 56,
+            "rank": 11
+          },
           {
             "name": "Strade Bianche Donne",
             "date": "08 Mar 2025",
@@ -67,8 +73,14 @@
         "id": 101826,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 190,
+        "totalPoints": 590,
         "results": [
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
+            "date": "16 Mar 2025",
+            "points": 400,
+            "rank": 1
+          },
           {
             "name": "Omloop Nieuwsblad WE",
             "date": "01 Mar 2025",
@@ -229,8 +241,14 @@
         "id": 1750054,
         "team": "EFO",
         "country": "fr",
-        "totalPoints": 105,
+        "totalPoints": 129,
         "results": [
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
+            "date": "16 Mar 2025",
+            "points": 24,
+            "rank": 20
+          },
           {
             "name": "Strade Bianche Donne",
             "date": "08 Mar 2025",
@@ -262,8 +280,14 @@
         "id": 217072,
         "team": "LTK",
         "country": "nz",
-        "totalPoints": 361,
+        "totalPoints": 369,
         "results": [
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
+            "date": "16 Mar 2025",
+            "points": 8,
+            "rank": 38
+          },
           {
             "name": "Strade Bianche Donne",
             "date": "08 Mar 2025",

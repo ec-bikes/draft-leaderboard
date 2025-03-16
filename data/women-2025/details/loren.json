@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 Mar 2025, 23:20 GMT",
+  "fetchedDate": "16 Mar 2025, 23:21 GMT",
   "momentId": 189259,
   "team": {
     "owner": "Loren Rowney",
     "name": "(TBD)",
-    "totalPoints": 2250,
+    "totalPoints": 2486,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -21,8 +21,14 @@
         "id": 86838,
         "team": "CSZ",
         "country": "dk",
-        "totalPoints": 13,
+        "totalPoints": 29,
         "results": [
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
+            "date": "16 Mar 2025",
+            "points": 16,
+            "rank": 28
+          },
           {
             "name": "Strade Bianche Donne",
             "date": "08 Mar 2025",
@@ -42,8 +48,14 @@
         "id": 88660,
         "team": "AGS",
         "country": "mu",
-        "totalPoints": 322,
+        "totalPoints": 402,
         "results": [
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
+            "date": "16 Mar 2025",
+            "points": 80,
+            "rank": 9
+          },
           {
             "name": "Strade Bianche Donne",
             "date": "08 Mar 2025",
@@ -69,8 +81,14 @@
         "id": 2202121,
         "team": "AGS",
         "country": "be",
-        "totalPoints": 171,
+        "totalPoints": 195,
         "results": [
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
+            "date": "16 Mar 2025",
+            "points": 24,
+            "rank": 17
+          },
           {
             "name": "Schwalbe Women's One Day Classic",
             "date": "26 Jan 2025",
@@ -102,8 +120,14 @@
         "id": 231378,
         "team": "LIV",
         "country": "nl",
-        "totalPoints": 653,
+        "totalPoints": 669,
         "results": [
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
+            "date": "16 Mar 2025",
+            "points": 16,
+            "rank": 21
+          },
           {
             "name": "Strade Bianche Donne",
             "date": "08 Mar 2025",
@@ -177,8 +201,14 @@
         "id": 1897613,
         "team": "LIV",
         "country": "it",
-        "totalPoints": 315,
+        "totalPoints": 415,
         "results": [
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
+            "date": "16 Mar 2025",
+            "points": 100,
+            "rank": 8
+          },
           {
             "name": "Strade Bianche Donne",
             "date": "08 Mar 2025",

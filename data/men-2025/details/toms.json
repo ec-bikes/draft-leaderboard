@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 Mar 2025, 23:20 GMT",
+  "fetchedDate": "16 Mar 2025, 23:22 GMT",
   "momentId": 189241,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 2305,
+    "totalPoints": 2545,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -99,8 +99,14 @@
         "id": 97805,
         "team": "JAY",
         "country": "au",
-        "totalPoints": 44,
+        "totalPoints": 84,
         "results": [
+          {
+            "name": "Paris-Nice - General classification",
+            "date": "16 Mar 2025",
+            "points": 40,
+            "rank": 14
+          },
           {
             "name": "Paris-Nice - Stage 3 (TTT)",
             "date": "11 Mar 2025",
@@ -126,8 +132,14 @@
         "id": 76092,
         "team": "TBV",
         "country": "es",
-        "totalPoints": 568,
+        "totalPoints": 668,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - General classification",
+            "date": "16 Mar 2025",
+            "points": 100,
+            "rank": 9
+          },
           {
             "name": "Tirreno-Adriatico - Stage 5",
             "date": "14 Mar 2025",
@@ -183,8 +195,14 @@
         "id": 97091,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 310,
+        "totalPoints": 360,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - General classification",
+            "date": "16 Mar 2025",
+            "points": 50,
+            "rank": 13
+          },
           {
             "name": "Tirreno-Adriatico - Stage 5",
             "date": "14 Mar 2025",
@@ -216,8 +234,14 @@
         "id": 1843476,
         "team": "TBV",
         "country": "fr",
-        "totalPoints": 228,
+        "totalPoints": 248,
         "results": [
+          {
+            "name": "Paris-Nice - General classification",
+            "date": "16 Mar 2025",
+            "points": 20,
+            "rank": 24
+          },
           {
             "name": "Paris-Nice - Stage 7",
             "date": "15 Mar 2025",
@@ -355,8 +379,14 @@
         "id": 86938,
         "team": "SOQ",
         "country": "de",
-        "totalPoints": 93,
+        "totalPoints": 123,
         "results": [
+          {
+            "name": "Paris-Nice - General classification",
+            "date": "16 Mar 2025",
+            "points": 30,
+            "rank": 17
+          },
           {
             "name": "Paris-Nice - Stage 6",
             "date": "14 Mar 2025",

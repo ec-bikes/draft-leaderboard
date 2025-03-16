@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 Mar 2025, 23:20 GMT",
+  "fetchedDate": "16 Mar 2025, 23:22 GMT",
   "momentId": 189241,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 2418,
+    "totalPoints": 3438,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -82,13 +82,24 @@
         "id": 415141,
         "team": "UAD",
         "country": "es",
-        "totalPoints": 535,
+        "totalPoints": 1045,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - General classification",
+            "date": "16 Mar 2025",
+            "points": 500,
+            "rank": 1
+          },
           {
             "name": "Tirreno-Adriatico - Stage 6",
             "date": "15 Mar 2025",
             "points": 60,
             "rank": 1
+          },
+          {
+            "name": "Tirreno-Adriatico - Stage 6 - Bonus",
+            "date": "15 Mar 2025",
+            "points": 10
           },
           {
             "name": "Tirreno-Adriatico - Stage 1 (ITT)",
@@ -121,16 +132,29 @@
         "id": 1558112,
         "team": "TVL",
         "country": "gb",
-        "totalPoints": 0,
-        "results": []
+        "totalPoints": 40,
+        "results": [
+          {
+            "name": "Tirreno-Adriatico - General classification",
+            "date": "16 Mar 2025",
+            "points": 40,
+            "rank": 14
+          }
+        ]
       },
       {
         "name": "Jhonatan Narváez",
         "id": 96372,
         "team": "UAD",
         "country": "ec",
-        "totalPoints": 746,
+        "totalPoints": 756,
         "results": [
+          {
+            "name": "Paris-Nice - General classification",
+            "date": "16 Mar 2025",
+            "points": 10,
+            "rank": 37
+          },
           {
             "name": "Paris-Nice - Stage 3 (TTT)",
             "date": "11 Mar 2025",
@@ -206,8 +230,20 @@
         "id": 2097255,
         "team": "RBH",
         "country": "de",
-        "totalPoints": 53,
+        "totalPoints": 468,
         "results": [
+          {
+            "name": "Paris-Nice - General classification",
+            "date": "16 Mar 2025",
+            "points": 400,
+            "rank": 2
+          },
+          {
+            "name": "Paris-Nice - Stage 8",
+            "date": "16 Mar 2025",
+            "points": 15,
+            "rank": 6
+          },
           {
             "name": "Paris-Nice - Stage 7",
             "date": "15 Mar 2025",
@@ -239,8 +275,14 @@
         "id": 1759422,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 349,
+        "totalPoints": 384,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - General classification",
+            "date": "16 Mar 2025",
+            "points": 35,
+            "rank": 15
+          },
           {
             "name": "Tirreno-Adriatico - Stage 5",
             "date": "14 Mar 2025",
@@ -285,8 +327,14 @@
         "sanctions": 25,
         "team": "GFC",
         "country": "ch",
-        "totalPoints": 5,
+        "totalPoints": 15,
         "results": [
+          {
+            "name": "Paris-Nice - General classification",
+            "date": "16 Mar 2025",
+            "points": 10,
+            "rank": 45
+          },
           {
             "name": "Omloop Nieuwsblad ME",
             "date": "01 Mar 2025",

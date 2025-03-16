@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 Mar 2025, 23:20 GMT",
+  "fetchedDate": "16 Mar 2025, 23:22 GMT",
   "momentId": 189241,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 1836,
+    "totalPoints": 2571,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -144,8 +144,14 @@
         "id": 91640,
         "team": "IGD",
         "country": "it",
-        "totalPoints": 137,
+        "totalPoints": 537,
         "results": [
+          {
+            "name": "Tirreno-Adriatico - General classification",
+            "date": "16 Mar 2025",
+            "points": 400,
+            "rank": 2
+          },
           {
             "name": "Tirreno-Adriatico - Stage 5 - Bonus",
             "date": "14 Mar 2025",
@@ -347,8 +353,20 @@
         "id": 109481,
         "team": "IGD",
         "country": "nl",
-        "totalPoints": 121,
+        "totalPoints": 456,
         "results": [
+          {
+            "name": "Paris-Nice - General classification",
+            "date": "16 Mar 2025",
+            "points": 325,
+            "rank": 3
+          },
+          {
+            "name": "Paris-Nice - Stage 8",
+            "date": "16 Mar 2025",
+            "points": 10,
+            "rank": 7
+          },
           {
             "name": "Paris-Nice - Stage 6",
             "date": "14 Mar 2025",
