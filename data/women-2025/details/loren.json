@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 Mar 2025, 23:22 GMT",
+  "fetchedDate": "19 Mar 2025, 23:23 GMT",
   "momentId": 189416,
   "team": {
     "owner": "Loren Rowney",
     "name": "(TBD)",
-    "totalPoints": 2486,
+    "totalPoints": 2491,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -246,8 +246,14 @@
         "id": 153287,
         "team": "LTK",
         "country": "fr",
-        "totalPoints": 376,
+        "totalPoints": 381,
         "results": [
+          {
+            "name": "Danilith Nokere Koerse WE",
+            "date": "19 Mar 2025",
+            "points": 5,
+            "rank": 22
+          },
           {
             "name": "Vuelta a Extremadura Femenina - Stage 1",
             "date": "06 Mar 2025",

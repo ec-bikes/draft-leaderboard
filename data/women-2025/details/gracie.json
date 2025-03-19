@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 Mar 2025, 23:22 GMT",
+  "fetchedDate": "19 Mar 2025, 23:23 GMT",
   "momentId": 189416,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 3327,
+    "totalPoints": 3337,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -208,8 +208,14 @@
         "id": 226974,
         "team": "CSZ",
         "country": "nl",
-        "totalPoints": 116,
+        "totalPoints": 126,
         "results": [
+          {
+            "name": "Danilith Nokere Koerse WE",
+            "date": "19 Mar 2025",
+            "points": 10,
+            "rank": 15
+          },
           {
             "name": "Ixina GP Oetingen p/b Lotto",
             "date": "12 Mar 2025",

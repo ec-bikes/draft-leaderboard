@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 Mar 2025, 23:22 GMT",
+  "fetchedDate": "19 Mar 2025, 23:23 GMT",
   "momentId": 189398,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 2423,
+    "totalPoints": 2628,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -208,8 +208,14 @@
         "sanctions": 25,
         "team": "UAD",
         "country": "mx",
-        "totalPoints": 179,
+        "totalPoints": 379,
         "results": [
+          {
+            "name": "Milano - Torino",
+            "date": "19 Mar 2025",
+            "points": 200,
+            "rank": 1
+          },
           {
             "name": "Tirreno-Adriatico - General classification",
             "date": "16 Mar 2025",
@@ -414,8 +420,14 @@
         "id": 762315,
         "team": "TPP",
         "country": "us",
-        "totalPoints": 5,
+        "totalPoints": 10,
         "results": [
+          {
+            "name": "Milano - Torino",
+            "date": "19 Mar 2025",
+            "points": 5,
+            "rank": 27
+          },
           {
             "name": "Tour of Oman - General classification",
             "date": "12 Feb 2025",

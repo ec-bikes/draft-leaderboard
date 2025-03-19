@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 Mar 2025, 23:22 GMT",
+  "fetchedDate": "19 Mar 2025, 23:23 GMT",
   "momentId": 189398,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 2545,
+    "totalPoints": 2645,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -334,8 +334,14 @@
         "id": 1714193,
         "team": "COF",
         "country": "be",
-        "totalPoints": 368,
+        "totalPoints": 468,
         "results": [
+          {
+            "name": "Danilith Nokere Koerse",
+            "date": "19 Mar 2025",
+            "points": 100,
+            "rank": 4
+          },
           {
             "name": "Grote prijs Jean - Pierre Monseré",
             "date": "09 Mar 2025",

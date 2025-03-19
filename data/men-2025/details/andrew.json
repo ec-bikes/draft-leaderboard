@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 Mar 2025, 23:22 GMT",
+  "fetchedDate": "19 Mar 2025, 23:23 GMT",
   "momentId": 189398,
   "team": {
     "owner": "Andrew (Discord)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 2530,
+    "totalPoints": 2630,
     "riders": [
       {
         "name": "Adam Yates",
         "id": 70590,
         "team": "UAD",
         "country": "gb",
-        "totalPoints": 263,
+        "totalPoints": 363,
         "results": [
+          {
+            "name": "Milano - Torino",
+            "date": "19 Mar 2025",
+            "points": 100,
+            "rank": 4
+          },
           {
             "name": "Tirreno-Adriatico - General classification",
             "date": "16 Mar 2025",

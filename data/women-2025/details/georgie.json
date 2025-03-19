@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 Mar 2025, 23:22 GMT",
+  "fetchedDate": "19 Mar 2025, 23:23 GMT",
   "momentId": 189416,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 1644,
+    "totalPoints": 1659,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -190,8 +190,14 @@
         "id": 459694,
         "team": "HPH",
         "country": "us",
-        "totalPoints": 80,
+        "totalPoints": 95,
         "results": [
+          {
+            "name": "Danilith Nokere Koerse WE",
+            "date": "19 Mar 2025",
+            "points": 15,
+            "rank": 14
+          },
           {
             "name": "Ixina GP Oetingen p/b Lotto",
             "date": "12 Mar 2025",

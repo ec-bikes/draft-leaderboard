@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 Mar 2025, 23:22 GMT",
+  "fetchedDate": "19 Mar 2025, 23:23 GMT",
   "momentId": 189416,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 2740,
+    "totalPoints": 2940,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -240,8 +240,14 @@
         "id": 96399,
         "team": "SDW",
         "country": "pl",
-        "totalPoints": 142,
+        "totalPoints": 342,
         "results": [
+          {
+            "name": "Danilith Nokere Koerse WE",
+            "date": "19 Mar 2025",
+            "points": 200,
+            "rank": 1
+          },
           {
             "name": "Ixina GP Oetingen p/b Lotto",
             "date": "12 Mar 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 Mar 2025, 23:22 GMT",
+  "fetchedDate": "19 Mar 2025, 23:23 GMT",
   "momentId": 189416,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 2149,
+    "totalPoints": 2152,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -177,8 +177,14 @@
         "id": 237690,
         "team": "LTK",
         "country": "gb",
-        "totalPoints": 26,
+        "totalPoints": 29,
         "results": [
+          {
+            "name": "Danilith Nokere Koerse WE",
+            "date": "19 Mar 2025",
+            "points": 3,
+            "rank": 28
+          },
           {
             "name": "Ixina GP Oetingen p/b Lotto",
             "date": "12 Mar 2025",

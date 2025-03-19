@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 Mar 2025, 23:22 GMT",
+  "fetchedDate": "19 Mar 2025, 23:23 GMT",
   "momentId": 189398,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 1419,
+    "totalPoints": 1444,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -343,8 +343,14 @@
         "id": 54679,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 98,
+        "totalPoints": 123,
         "results": [
+          {
+            "name": "Milano - Torino",
+            "date": "19 Mar 2025",
+            "points": 25,
+            "rank": 12
+          },
           {
             "name": "Trofeo Laigueglia",
             "date": "05 Mar 2025",
