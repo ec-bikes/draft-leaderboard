@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 Mar 2025, 23:21 GMT",
+  "fetchedDate": "21 Mar 2025, 23:21 GMT",
   "momentId": 189398,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 1444,
+    "totalPoints": 1449,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -292,8 +292,14 @@
         "id": 482927,
         "team": "TPP",
         "country": "dk",
-        "totalPoints": 211,
+        "totalPoints": 216,
         "results": [
+          {
+            "name": "Bredene Koksijde Classic",
+            "date": "21 Mar 2025",
+            "points": 5,
+            "rank": 25
+          },
           {
             "name": "UAE Tour - General classification",
             "date": "23 Feb 2025",

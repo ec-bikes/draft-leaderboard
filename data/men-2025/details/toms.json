@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 Mar 2025, 23:21 GMT",
+  "fetchedDate": "21 Mar 2025, 23:21 GMT",
   "momentId": 189398,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 2645,
+    "totalPoints": 2685,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -334,8 +334,14 @@
         "id": 1714193,
         "team": "COF",
         "country": "be",
-        "totalPoints": 468,
+        "totalPoints": 508,
         "results": [
+          {
+            "name": "Bredene Koksijde Classic",
+            "date": "21 Mar 2025",
+            "points": 40,
+            "rank": 9
+          },
           {
             "name": "Danilith Nokere Koerse",
             "date": "19 Mar 2025",
