@@ -95,9 +95,8 @@ export async function getTeamData(params: {
 
     // Add the total from results, minus sanctions. Round it because it appears that in a TTT,
     // points are split evenly between riders, which can lead to silly JS handling of floats.
-    rider.totalPoints = Math.round(
-      rider.results.reduce((acc, res) => acc + res.points, -(rider.sanctions || 0)),
-    );
+    rider.totalPoints =
+      Math.round(rider.results.reduce((acc, res) => acc + res.points, 0)) - (rider.sanctions || 0);
 
     team.riders.push(rider);
     team.totalPoints += rider.totalPoints;

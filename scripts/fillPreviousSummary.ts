@@ -38,10 +38,11 @@ for (const group of groups) {
     const riders = teamDetails.team.riders.map<Rider>(({ name, id, results, sanctions = 0 }) => ({
       name,
       id,
-      totalPoints: results.reduce(
-        (total, result) => (new Date(result.date) < summaryDate ? total + result.points : total),
-        -sanctions,
-      ),
+      totalPoints:
+        results.reduce(
+          (total, result) => (new Date(result.date) < summaryDate ? total + result.points : total),
+          0,
+        ) - sanctions,
     }));
 
     return {
