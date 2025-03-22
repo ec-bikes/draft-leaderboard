@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 Mar 2025, 23:21 GMT",
+  "fetchedDate": "22 Mar 2025, 19:55 GMT",
   "momentId": 189416,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 3337,
+    "totalPoints": 3844,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
         "team": "TFS",
         "country": "nl",
-        "totalPoints": 968,
+        "totalPoints": 1188,
         "results": [
+          {
+            "name": "Milano-Sanremo Donne",
+            "date": "22 Mar 2025",
+            "points": 220,
+            "rank": 4
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "16 Mar 2025",
@@ -73,8 +79,14 @@
         "id": 101826,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 590,
+        "totalPoints": 710,
         "results": [
+          {
+            "name": "Milano-Sanremo Donne",
+            "date": "22 Mar 2025",
+            "points": 120,
+            "rank": 7
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "16 Mar 2025",
@@ -124,8 +136,14 @@
         "id": 109716,
         "team": "CSZ",
         "country": "us",
-        "totalPoints": 471,
+        "totalPoints": 611,
         "results": [
+          {
+            "name": "Milano-Sanremo Donne",
+            "date": "22 Mar 2025",
+            "points": 140,
+            "rank": 6
+          },
           {
             "name": "Cadel Evans Great Ocean Road Race - Women",
             "date": "01 Feb 2025",
@@ -245,10 +263,17 @@
       {
         "name": "Cedrine Kerbaol",
         "id": 1750054,
+        "sanctions": 5,
         "team": "EFO",
         "country": "fr",
-        "totalPoints": 129,
+        "totalPoints": 140,
         "results": [
+          {
+            "name": "Milano-Sanremo Donne",
+            "date": "22 Mar 2025",
+            "points": 16,
+            "rank": 21
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "16 Mar 2025",
@@ -286,8 +311,14 @@
         "id": 217072,
         "team": "LTK",
         "country": "nz",
-        "totalPoints": 369,
+        "totalPoints": 385,
         "results": [
+          {
+            "name": "Milano-Sanremo Donne",
+            "date": "22 Mar 2025",
+            "points": 16,
+            "rank": 29
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "16 Mar 2025",

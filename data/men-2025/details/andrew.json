@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 Mar 2025, 23:21 GMT",
+  "fetchedDate": "22 Mar 2025, 19:55 GMT",
   "momentId": 189398,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 2630,
+    "totalPoints": 2845,
     "riders": [
       {
         "name": "Adam Yates",
@@ -138,8 +138,14 @@
         "id": 227110,
         "team": "TVL",
         "country": "nl",
-        "totalPoints": 310,
+        "totalPoints": 510,
         "results": [
+          {
+            "name": "Milano-Sanremo",
+            "date": "22 Mar 2025",
+            "points": 200,
+            "rank": 8
+          },
           {
             "name": "Tirreno-Adriatico - Stage 7",
             "date": "16 Mar 2025",
@@ -188,8 +194,14 @@
         "id": 1745291,
         "team": "ARK",
         "country": "fr",
-        "totalPoints": 305,
+        "totalPoints": 320,
         "results": [
+          {
+            "name": "Milano-Sanremo",
+            "date": "22 Mar 2025",
+            "points": 15,
+            "rank": 41
+          },
           {
             "name": "Tirreno-Adriatico - General classification",
             "date": "16 Mar 2025",

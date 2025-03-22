@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 Mar 2025, 23:21 GMT",
+  "fetchedDate": "22 Mar 2025, 19:55 GMT",
   "momentId": 189416,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 1659,
+    "totalPoints": 1811,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
         "id": 86824,
         "team": "CSZ",
         "country": "pl",
-        "totalPoints": 13,
+        "totalPoints": 41,
         "results": [
+          {
+            "name": "Milano-Sanremo Donne",
+            "date": "22 Mar 2025",
+            "points": 28,
+            "rank": 15
+          },
           {
             "name": "Omloop Nieuwsblad WE",
             "date": "01 Mar 2025",
@@ -235,8 +241,14 @@
         "id": 97498,
         "team": "TFS",
         "country": "fr",
-        "totalPoints": 292,
+        "totalPoints": 392,
         "results": [
+          {
+            "name": "Milano-Sanremo Donne",
+            "date": "22 Mar 2025",
+            "points": 100,
+            "rank": 8
+          },
           {
             "name": "Strade Bianche Donne",
             "date": "08 Mar 2025",
@@ -262,16 +274,29 @@
         "id": 66056,
         "team": "LTK",
         "country": "nl",
-        "totalPoints": 0,
-        "results": []
+        "totalPoints": 8,
+        "results": [
+          {
+            "name": "Milano-Sanremo Donne",
+            "date": "22 Mar 2025",
+            "points": 8,
+            "rank": 37
+          }
+        ]
       },
       {
         "name": "Sarah van Dam",
         "id": 488553,
         "team": "CTC",
         "country": "ca",
-        "totalPoints": 101,
+        "totalPoints": 117,
         "results": [
+          {
+            "name": "Milano-Sanremo Donne",
+            "date": "22 Mar 2025",
+            "points": 16,
+            "rank": 25
+          },
           {
             "name": "Santos Tour Down Under - General classification",
             "date": "19 Jan 2025",

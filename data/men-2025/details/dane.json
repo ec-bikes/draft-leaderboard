@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 Mar 2025, 23:21 GMT",
+  "fetchedDate": "22 Mar 2025, 19:55 GMT",
   "momentId": 189398,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 3413,
+    "totalPoints": 3443,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -275,8 +275,14 @@
         "id": 1759422,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 384,
+        "totalPoints": 414,
         "results": [
+          {
+            "name": "Milano-Sanremo",
+            "date": "22 Mar 2025",
+            "points": 30,
+            "rank": 30
+          },
           {
             "name": "Tirreno-Adriatico - General classification",
             "date": "16 Mar 2025",

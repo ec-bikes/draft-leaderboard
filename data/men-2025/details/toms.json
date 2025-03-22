@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 Mar 2025, 23:21 GMT",
+  "fetchedDate": "22 Mar 2025, 19:55 GMT",
   "momentId": 189398,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 2675,
+    "totalPoints": 2720,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -195,8 +195,14 @@
         "id": 97091,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 360,
+        "totalPoints": 375,
         "results": [
+          {
+            "name": "Milano-Sanremo",
+            "date": "22 Mar 2025",
+            "points": 15,
+            "rank": 47
+          },
           {
             "name": "Tirreno-Adriatico - General classification",
             "date": "16 Mar 2025",
@@ -391,8 +397,14 @@
         "id": 86938,
         "team": "SOQ",
         "country": "de",
-        "totalPoints": 123,
+        "totalPoints": 138,
         "results": [
+          {
+            "name": "Milano-Sanremo",
+            "date": "22 Mar 2025",
+            "points": 15,
+            "rank": 33
+          },
           {
             "name": "Paris-Nice - General classification",
             "date": "16 Mar 2025",
@@ -431,8 +443,14 @@
         "sanctions": 10,
         "team": "RBH",
         "country": "nz",
-        "totalPoints": 215,
+        "totalPoints": 230,
         "results": [
+          {
+            "name": "Milano-Sanremo",
+            "date": "22 Mar 2025",
+            "points": 15,
+            "rank": 48
+          },
           {
             "name": "National Championships New Zealand ME - ITT",
             "date": "06 Feb 2025",

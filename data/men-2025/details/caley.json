@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 Mar 2025, 23:21 GMT",
+  "fetchedDate": "22 Mar 2025, 19:55 GMT",
   "momentId": 189398,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 2578,
+    "totalPoints": 3118,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -180,8 +180,14 @@
         "id": 62919,
         "team": "JAY",
         "country": "au",
-        "totalPoints": 22,
+        "totalPoints": 462,
         "results": [
+          {
+            "name": "Milano-Sanremo",
+            "date": "22 Mar 2025",
+            "points": 440,
+            "rank": 4
+          },
           {
             "name": "Paris-Nice - General classification",
             "date": "16 Mar 2025",
@@ -208,8 +214,14 @@
         "sanctions": 25,
         "team": "UAD",
         "country": "mx",
-        "totalPoints": 354,
+        "totalPoints": 439,
         "results": [
+          {
+            "name": "Milano-Sanremo",
+            "date": "22 Mar 2025",
+            "points": 85,
+            "rank": 13
+          },
           {
             "name": "Milano - Torino",
             "date": "19 Mar 2025",
@@ -279,8 +291,14 @@
         "id": 88143,
         "team": "EFE",
         "country": "us",
-        "totalPoints": 188,
+        "totalPoints": 203,
         "results": [
+          {
+            "name": "Milano-Sanremo",
+            "date": "22 Mar 2025",
+            "points": 15,
+            "rank": 37
+          },
           {
             "name": "Paris-Nice - General classification",
             "date": "16 Mar 2025",

@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 Mar 2025, 23:21 GMT",
+  "fetchedDate": "22 Mar 2025, 19:55 GMT",
   "momentId": 189416,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 2152,
+    "totalPoints": 2552,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
         "id": 76149,
         "team": "UAD",
         "country": "it",
-        "totalPoints": 551,
+        "totalPoints": 607,
         "results": [
+          {
+            "name": "Milano-Sanremo Donne",
+            "date": "22 Mar 2025",
+            "points": 56,
+            "rank": 11
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "16 Mar 2025",
@@ -51,8 +57,14 @@
         "id": 31144,
         "team": "TVL",
         "country": "nl",
-        "totalPoints": 220,
+        "totalPoints": 540,
         "results": [
+          {
+            "name": "Milano-Sanremo Donne",
+            "date": "22 Mar 2025",
+            "points": 320,
+            "rank": 2
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "16 Mar 2025",
@@ -66,8 +78,14 @@
         "id": 153350,
         "team": "TPP",
         "country": "gb",
-        "totalPoints": 212,
+        "totalPoints": 236,
         "results": [
+          {
+            "name": "Milano-Sanremo Donne",
+            "date": "22 Mar 2025",
+            "points": 24,
+            "rank": 16
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "16 Mar 2025",

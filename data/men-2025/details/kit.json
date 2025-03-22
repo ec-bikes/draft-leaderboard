@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 Mar 2025, 23:21 GMT",
+  "fetchedDate": "22 Mar 2025, 19:55 GMT",
   "momentId": 189398,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 1458,
+    "totalPoints": 2393,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "team": "UAD",
         "country": "si",
-        "totalPoints": 825,
+        "totalPoints": 1345,
         "results": [
+          {
+            "name": "Milano-Sanremo",
+            "date": "22 Mar 2025",
+            "points": 520,
+            "rank": 3
+          },
           {
             "name": "Strade Bianche",
             "date": "08 Mar 2025",
@@ -173,8 +179,15 @@
         "id": 111683,
         "team": "ADC",
         "country": "au",
-        "totalPoints": 0,
-        "results": []
+        "totalPoints": 360,
+        "results": [
+          {
+            "name": "Milano-Sanremo",
+            "date": "22 Mar 2025",
+            "points": 360,
+            "rank": 5
+          }
+        ]
       },
       {
         "name": "Richard Carapaz",
@@ -222,8 +235,14 @@
         "id": 422863,
         "team": "COF",
         "country": "es",
-        "totalPoints": 116,
+        "totalPoints": 171,
         "results": [
+          {
+            "name": "Milano-Sanremo",
+            "date": "22 Mar 2025",
+            "points": 55,
+            "rank": 15
+          },
           {
             "name": "Tirreno-Adriatico - General classification",
             "date": "16 Mar 2025",

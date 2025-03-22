@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 Mar 2025, 23:21 GMT",
+  "fetchedDate": "22 Mar 2025, 19:55 GMT",
   "momentId": 189416,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 2940,
+    "totalPoints": 4020,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 511,
+        "totalPoints": 911,
         "results": [
+          {
+            "name": "Milano-Sanremo Donne",
+            "date": "22 Mar 2025",
+            "points": 400,
+            "rank": 1
+          },
           {
             "name": "Le Samyn des Dames",
             "date": "04 Mar 2025",
@@ -95,8 +101,14 @@
         "id": 234336,
         "team": "FDC",
         "country": "nl",
-        "totalPoints": 605,
+        "totalPoints": 673,
         "results": [
+          {
+            "name": "Milano-Sanremo Donne",
+            "date": "22 Mar 2025",
+            "points": 68,
+            "rank": 10
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "16 Mar 2025",
@@ -134,8 +146,14 @@
         "id": 347941,
         "team": "EFO",
         "country": "ch",
-        "totalPoints": 986,
+        "totalPoints": 1246,
         "results": [
+          {
+            "name": "Milano-Sanremo Donne",
+            "date": "22 Mar 2025",
+            "points": 260,
+            "rank": 3
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "16 Mar 2025",
@@ -273,8 +291,14 @@
         "id": 398547,
         "team": "LIV",
         "country": "es",
-        "totalPoints": 366,
+        "totalPoints": 382,
         "results": [
+          {
+            "name": "Milano-Sanremo Donne",
+            "date": "22 Mar 2025",
+            "points": 16,
+            "rank": 28
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "16 Mar 2025",
@@ -320,12 +344,25 @@
         ]
       },
       {
-        "name": "Arlenis Sierra",
-        "id": 71998,
-        "team": "MOV",
-        "country": "cu",
-        "totalPoints": 0,
-        "results": []
+        "name": "Blanka Vas",
+        "id": 236562,
+        "team": "SDW",
+        "country": "hu",
+        "totalPoints": 336,
+        "results": [
+          {
+            "name": "Milano-Sanremo Donne",
+            "date": "22 Mar 2025",
+            "points": 16,
+            "rank": 27
+          },
+          {
+            "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
+            "date": "16 Mar 2025",
+            "points": 320,
+            "rank": 2
+          }
+        ]
       }
     ]
   }

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 Mar 2025, 23:21 GMT",
+  "fetchedDate": "22 Mar 2025, 19:55 GMT",
   "momentId": 189398,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 2571,
+    "totalPoints": 3301,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -34,8 +34,14 @@
         "id": 1707195,
         "team": "IWA",
         "country": "er",
-        "totalPoints": 173,
+        "totalPoints": 238,
         "results": [
+          {
+            "name": "Milano-Sanremo",
+            "date": "22 Mar 2025",
+            "points": 65,
+            "rank": 14
+          },
           {
             "name": "Volta ao Algarve em Bicicleta - Stage 4",
             "date": "22 Feb 2025",
@@ -71,10 +77,17 @@
       {
         "name": "Maxim van Gils",
         "id": 154218,
+        "sanctions": 25,
         "team": "LOT",
         "country": "be",
-        "totalPoints": 135,
+        "totalPoints": 160,
         "results": [
+          {
+            "name": "Milano-Sanremo",
+            "date": "22 Mar 2025",
+            "points": 50,
+            "rank": 19
+          },
           {
             "name": "Vuelta a Andalucia Ruta Ciclista Del Sol - General classification",
             "date": "23 Feb 2025",
@@ -144,8 +157,14 @@
         "id": 91640,
         "team": "IGD",
         "country": "it",
-        "totalPoints": 537,
+        "totalPoints": 1177,
         "results": [
+          {
+            "name": "Milano-Sanremo",
+            "date": "22 Mar 2025",
+            "points": 640,
+            "rank": 2
+          },
           {
             "name": "Tirreno-Adriatico - General classification",
             "date": "16 Mar 2025",

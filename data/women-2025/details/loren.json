@@ -1,28 +1,41 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 Mar 2025, 23:21 GMT",
+  "fetchedDate": "22 Mar 2025, 19:55 GMT",
   "momentId": 189416,
   "team": {
     "owner": "Loren Rowney",
     "name": "(TBD)",
-    "totalPoints": 2491,
+    "totalPoints": 2759,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
         "team": "SDW",
         "country": "be",
-        "totalPoints": 0,
-        "results": []
+        "totalPoints": 80,
+        "results": [
+          {
+            "name": "Milano-Sanremo Donne",
+            "date": "22 Mar 2025",
+            "points": 80,
+            "rank": 9
+          }
+        ]
       },
       {
         "name": "Cecilie Uttrup Ludwig",
         "id": 86838,
         "team": "CSZ",
         "country": "dk",
-        "totalPoints": 29,
+        "totalPoints": 37,
         "results": [
+          {
+            "name": "Milano-Sanremo Donne",
+            "date": "22 Mar 2025",
+            "points": 8,
+            "rank": 36
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "16 Mar 2025",
@@ -48,8 +61,14 @@
         "id": 88660,
         "team": "AGS",
         "country": "mu",
-        "totalPoints": 402,
+        "totalPoints": 582,
         "results": [
+          {
+            "name": "Milano-Sanremo Donne",
+            "date": "22 Mar 2025",
+            "points": 180,
+            "rank": 5
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "16 Mar 2025",
