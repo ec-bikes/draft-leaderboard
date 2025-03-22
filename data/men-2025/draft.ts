@@ -5,6 +5,7 @@ export const draft: Draft = {
   year: 2025,
   podcast: 'Spin Cycle',
   link: 'https://escapecollective.com/its-back-our-mens-worldtour-draft-2025/',
+  extraNote: 'Also includes the Discord members’ “best of the rest” team to see how they stack up!',
   teams: [
     {
       owner: 'Kit Nicholson',
@@ -132,6 +133,22 @@ export const draft: Draft = {
         'Felix Gall',
         'Pablo Castrillo',
         'Marc Soler',
+      ],
+    },
+    {
+      owner: 'Discord Undrafted',
+      name: 'Team Movistar easyJet',
+      riders: [
+        'Dylan Groenewegen',
+        'Matej Mohorič',
+        'Ben Healy',
+        'Javier Romo',
+        'António Morgado',
+        'Guillaume Martin',
+        'Paul Magnier',
+        'Mauro Schmid',
+        'Jai Hindley',
+        'Roger Adrià',
       ],
     },
   ],

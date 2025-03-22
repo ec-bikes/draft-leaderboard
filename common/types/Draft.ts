@@ -8,5 +8,7 @@ export interface Draft {
   link?: string;
   /** Date of trades, YYYY-MM-DD */
   tradeDate?: string;
+  /** Extra note shown below the main description */
+  extraNote?: string;
   teams: BaseTeam[];
 }

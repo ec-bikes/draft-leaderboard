@@ -10,7 +10,7 @@ import { spacing } from '../theme.js';
 
 export function Competition() {
   const data = useData<DraftData>();
-  const { source, group, year, podcast, link, tradeDate } = data;
+  const { source, group, year, podcast, link, tradeDate, extraNote } = data;
 
   const linkText = (
     <>
@@ -38,6 +38,12 @@ export function Competition() {
           <>UCI points (via PCS)</>
         )}{' '}
         as of <strong>{source === 'uci' ? data.uciRankingDate : data.fetchedDate}</strong>.
+        {extraNote && (
+          <>
+            <br />
+            {extraNote}
+          </>
+        )}
         {tradeDate && (
           <>
             <br />

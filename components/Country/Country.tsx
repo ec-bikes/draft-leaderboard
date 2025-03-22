@@ -58,6 +58,7 @@ const countries: Record<string, string | undefined> = {
   FR: 'France',
   GB: 'United Kingdom',
   HU: 'Hungary',
+  IE: 'Ireland',
   IT: 'Italy',
   LV: 'Latvia',
   MU: 'Mauritius',

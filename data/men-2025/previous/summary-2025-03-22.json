@@ -316,7 +316,7 @@
           "totalPoints": -10
         }
       ],
-      "movement": 1
+      "movement": 2
     },
     {
       "owner": "Abby Mickey",
@@ -395,7 +395,7 @@
           "totalPoints": 192
         }
       ],
-      "movement": 3
+      "movement": 4
     },
     {
       "owner": "Joe Lindsey",
@@ -633,6 +633,85 @@
         }
       ],
       "movement": 0
+    },
+    {
+      "owner": "Discord Undrafted",
+      "name": "Team Movistar easyJet",
+      "totalPoints": 3178.38,
+      "riders": [
+        {
+          "name": "Dylan Groenewegen",
+          "id": 72932,
+          "team": "JAY",
+          "country": "nl",
+          "totalPoints": 16
+        },
+        {
+          "name": "Matej Mohorič",
+          "id": 86863,
+          "team": "TBV",
+          "country": "si",
+          "totalPoints": 90
+        },
+        {
+          "name": "Ben Healy",
+          "id": 235075,
+          "team": "EFE",
+          "country": "ie",
+          "totalPoints": 253
+        },
+        {
+          "name": "Javier Romo",
+          "id": 2178033,
+          "sanctions": 10,
+          "team": "MOV",
+          "country": "es",
+          "totalPoints": 725
+        },
+        {
+          "name": "António Morgado",
+          "id": 442797,
+          "team": "UAD",
+          "country": "pt",
+          "totalPoints": 551
+        },
+        {
+          "name": "Guillaume Martin",
+          "id": 75170,
+          "team": "GFC",
+          "country": "fr",
+          "totalPoints": 135
+        },
+        {
+          "name": "Paul Magnier",
+          "id": 1759987,
+          "team": "SOQ",
+          "country": "fr",
+          "totalPoints": 533
+        },
+        {
+          "name": "Mauro Schmid",
+          "id": 109483,
+          "team": "JAY",
+          "country": "ch",
+          "totalPoints": 381.67
+        },
+        {
+          "name": "Jai Hindley",
+          "id": 109829,
+          "team": "RBH",
+          "country": "au",
+          "totalPoints": 300.71
+        },
+        {
+          "name": "Roger Adrià",
+          "id": 407508,
+          "team": "RBH",
+          "country": "es",
+          "totalPoints": 193
+        }
+      ],
+      "movement": -2
     }
   ]
 }
