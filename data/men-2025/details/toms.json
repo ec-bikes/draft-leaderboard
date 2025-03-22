@@ -6,7 +6,7 @@
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 2685,
+    "totalPoints": 2675,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -431,7 +431,7 @@
         "sanctions": 10,
         "team": "RBH",
         "country": "nz",
-        "totalPoints": 225,
+        "totalPoints": 215,
         "results": [
           {
             "name": "National Championships New Zealand ME - ITT",

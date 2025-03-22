@@ -6,7 +6,7 @@
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 3438,
+    "totalPoints": 3413,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -327,7 +327,7 @@
         "sanctions": 25,
         "team": "GFC",
         "country": "ch",
-        "totalPoints": 15,
+        "totalPoints": -10,
         "results": [
           {
             "name": "Paris-Nice - General classification",

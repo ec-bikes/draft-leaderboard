@@ -6,7 +6,7 @@
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 2628,
+    "totalPoints": 2578,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -14,7 +14,7 @@
         "sanctions": 25,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 644,
+        "totalPoints": 619,
         "results": [
           {
             "name": "Paris-Nice - General classification",
@@ -208,7 +208,7 @@
         "sanctions": 25,
         "team": "UAD",
         "country": "mx",
-        "totalPoints": 379,
+        "totalPoints": 354,
         "results": [
           {
             "name": "Milano - Torino",
