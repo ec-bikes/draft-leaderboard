@@ -35,12 +35,12 @@ for (const group of groups) {
     const teamDetails: TeamDetailsJson = readJson(teamDetailsPath);
 
     // Get each rider's total points up to the summary date
-    const riders = teamDetails.team.riders.map<Rider>(({ name, id, results }) => ({
+    const riders = teamDetails.team.riders.map<Rider>(({ name, id, results, sanctions = 0 }) => ({
       name,
       id,
       totalPoints: results.reduce(
         (total, result) => (new Date(result.date) < summaryDate ? total + result.points : total),
-        0,
+        -sanctions,
       ),
     }));
 

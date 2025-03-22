@@ -1,5 +1,4 @@
 import type {
-  BaseRider,
   BaseTeam,
   Draft,
   RiderDetails,
@@ -11,6 +10,10 @@ import { getRiderId } from '../../data/getRiderId.js';
 import { getPcsRiderData } from '../pcs/getPcsRiderData.js';
 import { getUciRiderData } from '../uci/index.js';
 
+/**
+ * Get data including results for each rider on a team (accounting for trades and sanctions)
+ * and add the totals.
+ */
 export async function getTeamData(params: {
   source: Source;
   team: BaseTeam;
@@ -42,17 +45,13 @@ export async function getTeamData(params: {
 
     // Currently it's necessary to fill in sanctions in UCI data from PCS data,
     // so get that regardless
-    const rawRider: BaseRider = { name: riderName, id: riderId };
-    let data = await getPcsRiderData({ rider: rawRider, year });
-    if (source === 'uci') {
-      data = await getUciRiderData({
-        rider: rawRider,
-        momentId,
-        year,
-        group,
-        sanctions: data.sanctions,
-      });
-    }
+    const riderParams = { rider: { name: riderName, id: riderId }, year };
+    const pcsData = await getPcsRiderData(riderParams);
+
+    const data =
+      source === 'uci'
+        ? await getUciRiderData({ ...riderParams, momentId, group, sanctions: pcsData.sanctions })
+        : pcsData;
 
     const { results, ...riderData } = data;
     const rider: RiderDetails = {
@@ -94,9 +93,11 @@ export async function getTeamData(params: {
       }
     }
 
-    // It appears that in a TTT, points are split evenly between riders, which can lead to
-    // fractional points that JS might add in a silly way...
-    rider.totalPoints = Math.round(rider.results.reduce((acc, res) => acc + res.points, 0));
+    // Add the total from results, minus sanctions. Round it because it appears that in a TTT,
+    // points are split evenly between riders, which can lead to silly JS handling of floats.
+    rider.totalPoints = Math.round(
+      rider.results.reduce((acc, res) => acc + res.points, -(rider.sanctions || 0)),
+    );
 
     team.riders.push(rider);
     team.totalPoints += rider.totalPoints;

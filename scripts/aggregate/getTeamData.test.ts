@@ -1,7 +1,8 @@
-import { describe, it, expect, vi, beforeAll, afterAll } from 'vitest';
+import { describe, it, expect, vi, beforeAll, afterAll, afterEach } from 'vitest';
 import * as getPcsRiderDataModule from '../pcs/getPcsRiderData.js';
 import { getTeamData } from './getTeamData.js';
 import { getRiderId } from '../../data/getRiderId.js';
+import type { RiderDetails } from '../../common/types/Rider.js';
 
 const name = 'Demi Vollering';
 const id = getRiderId(name, 'women')!;
@@ -31,8 +32,9 @@ function getParams(
   };
 }
 
-// test handling of edge cases for traded riders
 describe('getTeamData', () => {
+  let extraRiderData: Partial<RiderDetails> | undefined;
+
   beforeAll(() => {
     vi.spyOn(getPcsRiderDataModule, 'getPcsRiderData').mockImplementation(async ({ rider }) => ({
       ...rider,
@@ -44,11 +46,23 @@ describe('getTeamData', () => {
         { name: 'race', date: '2021-01-04', points: 10 },
         { name: 'race', date: '2021-01-05', points: 10 },
       ],
+      ...extraRiderData,
     }));
+  });
+
+  afterEach(() => {
+    extraRiderData = undefined;
   });
 
   afterAll(() => {
     vi.restoreAllMocks();
+  });
+
+  it('includes sanctions in total points', async () => {
+    extraRiderData = { sanctions: 10 };
+    const team = await getTeamData(getParams());
+    expect(team.riders[0].totalPoints).toEqual(40);
+    expect(team.totalPoints).toEqual(40);
   });
 
   // it('trims results for traded in rider', async () => {
