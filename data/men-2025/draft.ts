@@ -3,7 +3,7 @@ import type { Draft } from '../../common/types/index.js';
 export const draft: Draft = {
   group: 'men',
   year: 2025,
-  podcast: 'Placeholders',
+  podcast: 'Spin Cycle',
   link: 'https://escapecollective.com/its-back-our-mens-worldtour-draft-2025/',
   teams: [
     {

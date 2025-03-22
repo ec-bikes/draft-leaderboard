@@ -2,6 +2,7 @@ const nameMappings: Record<string, string> = {
   'Alexey Lutsenko': 'aleksey-lutsenko',
   "Ben O'Connor": 'ben-o-connor',
   'Carlos Rodriguez': 'carlos-rodriguez-cano',
+  'Daniel Martínez': 'daniel-felipe-martinez',
   'Esteban Chaves': 'johan-esteban-chaves',
   'Fred Wright': 'alfred-wright',
   'Josh Tarling': 'joshua-tarling',

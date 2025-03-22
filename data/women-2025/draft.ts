@@ -66,7 +66,7 @@ export const draft: Draft = {
         'Sofie van Rooijen',
         'Marta Lach',
         'Mavi Garcia',
-        'Arlenis Sierra',
+        'Blanka Vas',
       ],
     },
     {
