@@ -163,7 +163,7 @@
     {
       "owner": "Toms Skujiņš",
       "name": "Lidl-Trek-Bauer",
-      "totalPoints": 2685,
+      "totalPoints": 2675,
       "riders": [
         {
           "name": "Remco Evenepoel",
@@ -234,7 +234,7 @@
           "sanctions": 10,
           "team": "RBH",
           "country": "nz",
-          "totalPoints": 225
+          "totalPoints": 215
         }
       ],
       "movement": 0
@@ -242,7 +242,7 @@
     {
       "owner": "Dane Cash",
       "name": "Visma-Lease a Bike-Monster Energy",
-      "totalPoints": 3438,
+      "totalPoints": 3413,
       "riders": [
         {
           "name": "Jasper Philipsen",
@@ -313,7 +313,7 @@
           "sanctions": 25,
           "team": "GFC",
           "country": "ch",
-          "totalPoints": 15
+          "totalPoints": -10
         }
       ],
       "movement": 1
@@ -399,7 +399,7 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 1449,
+      "totalPoints": 1424,
       "riders": [
         {
           "name": "Mathieu van der Poel",
@@ -442,7 +442,7 @@
           "sanctions": 25,
           "team": "TVL",
           "country": "fr",
-          "totalPoints": 77
+          "totalPoints": 52
         },
         {
           "name": "Tobias Andresen",
@@ -478,7 +478,7 @@
     {
       "owner": "Caley Fretz",
       "name": "US Postal Service Bald Eagles",
-      "totalPoints": 2628,
+      "totalPoints": 2578,
       "riders": [
         {
           "name": "Matteo Jorgenson",
@@ -486,7 +486,7 @@
           "sanctions": 25,
           "team": "TVL",
           "country": "us",
-          "totalPoints": 644
+          "totalPoints": 619
         },
         {
           "name": "Jonathan Milan",
@@ -515,7 +515,7 @@
           "sanctions": 25,
           "team": "UAD",
           "country": "mx",
-          "totalPoints": 379
+          "totalPoints": 354
         },
         {
           "name": "Daniel Martínez",
