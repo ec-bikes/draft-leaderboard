@@ -20,7 +20,7 @@ import type {
 import { readJson } from './utils/readJson.js';
 import { updateMovement } from './aggregate/updateHistory.js';
 import { writeJson } from './utils/writeJson.js';
-import { round2 } from './utils/round2.js';
+import { getRiderTotal, getTeamTotal } from './aggregate/getTotals.js';
 
 const year = 2025;
 // This date should be a Tuesday, or the file will be removed by the cleanup script
@@ -36,21 +36,16 @@ for (const group of groups) {
     const teamDetails: TeamDetailsJson = readJson(teamDetailsPath);
 
     // Get each rider's total points up to the summary date
-    const riders = teamDetails.team.riders.map<Rider>(({ name, id, results, sanctions = 0 }) => ({
-      name,
-      id,
-      totalPoints: round2(
-        results.reduce(
-          (total, result) => (new Date(result.date) <= summaryDate ? total + result.points : total),
-          0,
-        ) - sanctions,
-      ),
+    const riders = teamDetails.team.riders.map<Rider>((rider) => ({
+      name: rider.name,
+      id: rider.id,
+      totalPoints: getRiderTotal(rider, summaryDate),
     }));
 
     return {
       owner: team.owner,
       name: team.name,
-      totalPoints: round2(riders.reduce((total, rider) => total + rider.totalPoints, 0)),
+      totalPoints: getTeamTotal(riders),
       riders,
     };
   });
