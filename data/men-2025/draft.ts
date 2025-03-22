@@ -119,7 +119,7 @@ export const draft: Draft = {
       ],
     },
     {
-      owner: 'Andrew (Discord)',
+      owner: 'Andrew (member)',
       name: 'Groupama-FDJ-Tourtel Twist',
       riders: [
         'Adam Yates',
