@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "22 Mar 2025, 19:55 GMT",
+  "fetchedDate": "22 Mar 2025, 20:17 GMT",
   "momentId": 189398,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 2469,
+    "totalPoints": 2467.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -52,7 +52,7 @@
         "id": 86895,
         "team": "LTK",
         "country": "dk",
-        "totalPoints": 498,
+        "totalPoints": 497.57,
         "results": [
           {
             "name": "Milano-Sanremo",
@@ -114,7 +114,7 @@
         "id": 150923,
         "team": "UAD",
         "country": "us",
-        "totalPoints": 168,
+        "totalPoints": 167.57,
         "results": [
           {
             "name": "Paris-Nice - Stage 5",
@@ -165,7 +165,7 @@
         "id": 97280,
         "team": "RBH",
         "country": "ru",
-        "totalPoints": 29,
+        "totalPoints": 28.71,
         "results": [
           {
             "name": "Paris-Nice - General classification",
@@ -259,7 +259,7 @@
         "sanctions": 25,
         "team": "TVL",
         "country": "fr",
-        "totalPoints": 52,
+        "totalPoints": 51.57,
         "results": [
           {
             "name": "Paris-Nice - General classification",

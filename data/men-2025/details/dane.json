@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "22 Mar 2025, 19:55 GMT",
+  "fetchedDate": "22 Mar 2025, 20:17 GMT",
   "momentId": 189398,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 3443,
+    "totalPoints": 3443.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -61,7 +61,7 @@
         "id": 428096,
         "team": "IGD",
         "country": "es",
-        "totalPoints": 70,
+        "totalPoints": 70.43,
         "results": [
           {
             "name": "Volta a la Comunitat Valenciana - General classification",
@@ -147,7 +147,7 @@
         "id": 96372,
         "team": "UAD",
         "country": "ec",
-        "totalPoints": 756,
+        "totalPoints": 756.14,
         "results": [
           {
             "name": "Paris-Nice - General classification",

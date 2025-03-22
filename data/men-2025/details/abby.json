@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "22 Mar 2025, 19:55 GMT",
+  "fetchedDate": "22 Mar 2025, 20:17 GMT",
   "momentId": 189398,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 3301,
+    "totalPoints": 3301.29,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -372,7 +372,7 @@
         "id": 109481,
         "team": "IGD",
         "country": "nl",
-        "totalPoints": 456,
+        "totalPoints": 456.29,
         "results": [
           {
             "name": "Paris-Nice - General classification",

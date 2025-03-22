@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "22 Mar 2025, 19:55 GMT",
+  "fetchedDate": "22 Mar 2025, 20:17 GMT",
   "momentId": 189398,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 2845,
+    "totalPoints": 2844.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -58,7 +58,7 @@
         "id": 107840,
         "team": "UAD",
         "country": "pt",
-        "totalPoints": 598,
+        "totalPoints": 597.57,
         "results": [
           {
             "name": "Paris-Nice - General classification",
@@ -262,7 +262,7 @@
         "id": 111343,
         "team": "UAD",
         "country": "fr",
-        "totalPoints": 248,
+        "totalPoints": 247.57,
         "results": [
           {
             "name": "Paris-Nice - Stage 3 (TTT)",
@@ -375,7 +375,7 @@
         "id": 150925,
         "team": "DAT",
         "country": "at",
-        "totalPoints": 116,
+        "totalPoints": 116.43,
         "results": [
           {
             "name": "Paris-Nice - General classification",
@@ -420,7 +420,7 @@
         "id": 373832,
         "team": "MOV",
         "country": "es",
-        "totalPoints": 210,
+        "totalPoints": 209.71,
         "results": [
           {
             "name": "Paris-Nice - General classification",

@@ -20,6 +20,7 @@ import type {
 import { readJson } from './utils/readJson.js';
 import { updateMovement } from './aggregate/updateHistory.js';
 import { writeJson } from './utils/writeJson.js';
+import { round2 } from './utils/round2.js';
 
 const year = 2025;
 // This date should be a Tuesday, or the file will be removed by the cleanup script
@@ -38,17 +39,18 @@ for (const group of groups) {
     const riders = teamDetails.team.riders.map<Rider>(({ name, id, results, sanctions = 0 }) => ({
       name,
       id,
-      totalPoints:
+      totalPoints: round2(
         results.reduce(
-          (total, result) => (new Date(result.date) < summaryDate ? total + result.points : total),
+          (total, result) => (new Date(result.date) <= summaryDate ? total + result.points : total),
           0,
         ) - sanctions,
+      ),
     }));
 
     return {
       owner: team.owner,
       name: team.name,
-      totalPoints: Math.round(riders.reduce((total, rider) => total + rider.totalPoints, 0)),
+      totalPoints: round2(riders.reduce((total, rider) => total + rider.totalPoints, 0)),
       riders,
     };
   });

@@ -9,6 +9,7 @@ import type {
 import { getRiderId } from '../../data/getRiderId.js';
 import { getPcsRiderData } from '../pcs/getPcsRiderData.js';
 import { getUciRiderData } from '../uci/index.js';
+import { round2 } from '../utils/round2.js';
 
 /**
  * Get data including results for each rider on a team (accounting for trades and sanctions)
@@ -94,12 +95,18 @@ export async function getTeamData(params: {
     }
 
     // Add the total from results, minus sanctions. Round it because it appears that in a TTT,
-    // points are split evenly between riders, which can lead to silly JS handling of floats.
-    rider.totalPoints =
-      Math.round(rider.results.reduce((acc, res) => acc + res.points, 0)) - (rider.sanctions || 0);
+    // points are split evenly between riders, which can activate silly JS handling of floats.
+    // (The rounding must happen last because silly float math also applies to subtraction!)
+    rider.totalPoints = round2(
+      rider.results.reduce((acc, res) => acc + res.points, 0) - (rider.sanctions || 0),
+    );
 
     team.riders.push(rider);
     team.totalPoints += rider.totalPoints;
   }
+
+  // Round this again in case of silly JS float math
+  team.totalPoints = round2(team.totalPoints);
+
   return team;
 }

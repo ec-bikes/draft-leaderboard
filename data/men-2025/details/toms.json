@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "22 Mar 2025, 19:55 GMT",
+  "fetchedDate": "22 Mar 2025, 20:17 GMT",
   "momentId": 189398,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 2720,
+    "totalPoints": 2720.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -21,7 +21,7 @@
         "id": 70962,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 286,
+        "totalPoints": 286.29,
         "results": [
           {
             "name": "Paris-Nice - Stage 3 (TTT)",
@@ -99,7 +99,7 @@
         "id": 97805,
         "team": "JAY",
         "country": "au",
-        "totalPoints": 84,
+        "totalPoints": 83.81,
         "results": [
           {
             "name": "Paris-Nice - General classification",
@@ -297,7 +297,7 @@
         "id": 472995,
         "team": "LTK",
         "country": "cz",
-        "totalPoints": 183,
+        "totalPoints": 182.86,
         "results": [
           {
             "name": "Omloop Nieuwsblad ME",
@@ -397,7 +397,7 @@
         "id": 86938,
         "team": "SOQ",
         "country": "de",
-        "totalPoints": 138,
+        "totalPoints": 138.29,
         "results": [
           {
             "name": "Milano-Sanremo",

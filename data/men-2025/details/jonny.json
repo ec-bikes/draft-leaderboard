@@ -1,19 +1,19 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "22 Mar 2025, 19:55 GMT",
+  "fetchedDate": "22 Mar 2025, 20:17 GMT",
   "momentId": 189398,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 2812,
+    "totalPoints": 2811.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "team": "TVL",
         "country": "dk",
-        "totalPoints": 279,
+        "totalPoints": 278.57,
         "results": [
           {
             "name": "Paris-Nice - Stage 4",
@@ -51,7 +51,7 @@
         "id": 365033,
         "team": "LTK",
         "country": "dk",
-        "totalPoints": 264,
+        "totalPoints": 263.57,
         "results": [
           {
             "name": "Paris-Nice - Stage 6",
