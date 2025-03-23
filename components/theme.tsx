@@ -193,7 +193,6 @@ export const theme = createTheme({
     },
     // team and rider tables
     MuiTable: {
-      defaultProps: { size: 'small' },
       styleOverrides: {
         root: { width: '100%' },
       },
@@ -278,13 +277,15 @@ typography.tiny = {
   fontSize: '0.7rem',
 };
 
+export const fontFamily = 'Inter, system-ui, Avenir, Helvetica Neue, Helvetica, Arial, sans-serif';
+
 // docs recommend creating this JSX element only once
 export const globalStyles = (
   <GlobalStyles
     styles={{
       ':root': {
         // Not sure if MUI provides a proper way of defining a custom variable, so do this
-        [fontVarName]: 'Inter, system-ui, Avenir, Helvetica Neue, Helvetica, Arial, sans-serif',
+        [fontVarName]: fontFamily,
       },
     }}
   />

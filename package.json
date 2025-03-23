@@ -20,6 +20,9 @@
     "@emotion/styled": "^11.14.0",
     "@mui/lab": "6.0.0-beta.29",
     "@mui/material": "^6.4.6",
+    "chart.js": "^4.4.8",
+    "chartjs-plugin-zoom": "^2.2.0",
+    "dayjs": "^1.11.13",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },

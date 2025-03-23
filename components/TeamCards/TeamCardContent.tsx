@@ -116,21 +116,19 @@ function RiderRow(
         {rider.tradedIn && <Typography variant="tiny"> (trade)</Typography>}
       </TableCell>
       <TableCell>
-        <Link component="button" onClick={onOpenDialog}>
+        <Link component="button" type="button" onClick={onOpenDialog}>
           {Math.round(rider.totalPoints)}
         </Link>
       </TableCell>
-      <TableCell>
-        <Typography variant="tiny">
-          <Link target="_blank" href={rider.uciUrl}>
-            UCI
-          </Link>
-          {', '}
-          <Link target="_blank" href={rider.pcsUrl}>
-            PCS
-          </Link>
-        </Typography>
-      </TableCell>
+      <Typography variant="tiny" component={TableCell as any /*props don't line up, but it works*/}>
+        <Link target="_blank" href={rider.uciUrl}>
+          UCI
+        </Link>
+        {', '}
+        <Link target="_blank" href={rider.pcsUrl}>
+          PCS
+        </Link>
+      </Typography>
     </RiderTableRow>
   );
 }

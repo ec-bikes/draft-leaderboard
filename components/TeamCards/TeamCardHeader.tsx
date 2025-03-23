@@ -1,9 +1,11 @@
-import { Stack, styled, Typography } from '@mui/material';
-import type React from 'react';
+import { ButtonBase, Stack, styled, Typography } from '@mui/material';
+import React from 'react';
 import type { Team } from '../../common/types/index';
 import { ArrowUpIcon } from '../icons/ArrowUp.js';
 import { CircleSmallIcon } from '../icons/CircleSmall.js';
 import { rankingNumberSize, spacing } from '../theme.js';
+
+const LazyHistoryDialog = React.lazy(() => import('../HistoryDialog/HistoryDialog.js'));
 
 const arrowSize = 0.9;
 const iconStyle: React.CSSProperties = {
@@ -26,9 +28,18 @@ const CircleSmall = styled(CircleSmallIcon)(({ theme }) => ({
   marginRight: '6px',
 }));
 
+const RankingButton = styled(ButtonBase)({
+  fontFamily: 'inherit',
+  lineHeight: '1.0',
+  cursor: 'pointer',
+  alignItems: 'flex-end',
+  whiteSpace: 'nowrap',
+});
+
 export function TeamCardHeader(props: { team: Team; rank: number }) {
   const { team, rank } = props;
   const { movement = 0 } = team;
+  const [showHistory, setShowHistory] = React.useState(false);
 
   return (
     <Stack
@@ -38,10 +49,10 @@ export function TeamCardHeader(props: { team: Team; rank: number }) {
       spacing={spacing.teamCard.headerHorizontal}
     >
       <Stack
-        textAlign="right"
+        component={RankingButton}
+        onClick={() => setShowHistory(true)}
+        title="View rankings history"
         spacing={spacing.teamCard.rankingVertical}
-        lineHeight="1.0"
-        whiteSpace="nowrap"
         // Extra padding (1 spacing unit) to match the table content
         // (the row divider lines extend beyond the content)
         paddingLeft={1}
@@ -68,6 +79,7 @@ export function TeamCardHeader(props: { team: Team; rank: number }) {
         <br />
         <em>{team.name}</em>
       </Typography>
+      {showHistory && <LazyHistoryDialog onClose={() => setShowHistory(false)} />}
     </Stack>
   );
 }
