@@ -15,6 +15,7 @@ import { readJson } from './utils/readJson.js';
 import { updateHistory } from './aggregate/updateHistory.js';
 import { writeJson } from './utils/writeJson.js';
 import { utcDateFromString } from '../common/formatDate.js';
+import { round2 } from './aggregate/getTotals.js';
 
 const group: Group = 'men';
 const year = 2024;
@@ -25,7 +26,8 @@ const history: PointsHistory = {
 };
 
 // Read the previous summary files
-const summaryDir = path.dirname(getSummaryFilePath({ group, year }));
+// (summaryDate needs to be a real date, but the value doesn't matter)
+const summaryDir = path.dirname(getSummaryFilePath({ group, year, summaryDate: new Date() }));
 const previousFiles = fs
   .readdirSync(summaryDir)
   .sort()
@@ -42,7 +44,7 @@ for (const file of previousFiles) {
   history.dates.push(summaryDate);
   // add the points
   for (const team of summary.teams) {
-    history.teams[team.owner].push(team.totalPoints);
+    history.teams[team.owner].push(round2(team.totalPoints));
   }
 }
 

@@ -30,6 +30,6 @@ export function getTeamTotal(riders: Pick<RiderDetails, 'totalPoints'>[]): numbe
 }
 
 /** Round a number to max 2 decimal places */
-function round2(x: number): number {
+export function round2(x: number): number {
   return Number(`${Math.round(Number(`${x}e2`))}e-2`);
 }
