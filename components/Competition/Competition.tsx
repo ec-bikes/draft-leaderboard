@@ -1,7 +1,7 @@
 import { Link, Stack, Typography } from '@mui/material';
 import { useData } from 'vike-react/useData';
 import { years } from '../../common/constants.js';
-import { formatDate } from '../../common/formatDate.js';
+import { formatDate, utcDateFromString } from '../../common/formatDate.js';
 import { getPageUrl } from '../../common/pageUrls.js';
 import type { DraftData, Group } from '../../common/types/index';
 import { getUciSeasonRankingUrl } from '../../common/uciUrls.js';
@@ -47,7 +47,7 @@ export function Competition() {
         {tradeDate && (
           <>
             <br />
-            Includes trades from {formatDate(new Date(tradeDate), 'short')}.
+            Includes trades from {formatDate(utcDateFromString(tradeDate))}.
           </>
         )}
         <br />

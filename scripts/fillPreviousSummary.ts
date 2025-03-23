@@ -9,7 +9,7 @@ import {
   getSummaryFilePath,
   getTeamDetailsFilePath,
 } from '../common/filenames.js';
-import { formatNumericDate } from '../common/formatDate.js';
+import { formatNumericDate, utcDateFromString } from '../common/formatDate.js';
 import type {
   PointsHistory,
   Rider,
@@ -24,7 +24,7 @@ import { getRiderTotal, getTeamTotal } from './aggregate/getTotals.js';
 
 const year = 2025;
 // This date should be a Tuesday, or the file will be removed by the cleanup script
-const summaryDate = new Date('2025-02-25');
+const summaryDate = utcDateFromString('2025-02-25');
 
 for (const group of groups) {
   const currentSummaryPath = getSummaryFilePath({ group, year });

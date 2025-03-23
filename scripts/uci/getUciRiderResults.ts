@@ -1,3 +1,4 @@
+import { utcDateFromString } from '../../common/formatDate.js';
 import type { BaseRider, Group, RaceResult } from '../../common/types/index.js';
 import { logWarning } from '../log.js';
 import { fetchUciRiderResults } from './uciApis.js';
@@ -30,7 +31,7 @@ export async function getUciRiderResults(params: {
     }
 
     // UCI APIs return 12 month rolling results
-    if (new Date(result.Date).getFullYear() !== year) {
+    if (utcDateFromString(result.Date).getUTCFullYear() !== year) {
       continue;
     }
 

@@ -36,7 +36,7 @@ export interface RiderDetails extends Rider {
 export interface RaceResult {
   /** Race or sub-result name */
   name: string;
-  /** Display date e.g. "22 March 2024" */
+  /** Display date e.g. "22 Mar 2024" */
   date: string;
   points: number;
   rank?: number;

@@ -1,3 +1,4 @@
+import { utcDateFromString } from '../../common/formatDate.js';
 import type { RiderDetails } from '../../common/types/Rider.js';
 
 /**
@@ -13,7 +14,7 @@ export function getRiderTotal(
   const { results, sanctions = 0 } = rider;
   const totalPoints = results.reduce(
     (total, result) =>
-      !endDate || new Date(result.date) <= endDate ? total + result.points : total,
+      !endDate || utcDateFromString(result.date) <= endDate ? total + result.points : total,
     0,
   );
 

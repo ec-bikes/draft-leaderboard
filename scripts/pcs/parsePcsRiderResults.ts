@@ -68,7 +68,7 @@ export function parsePcsRiderResults(params: {
       ? makeUtcDate(year, Number(dateMatch[2]), Number(dateMatch[1]))
       : undefined;
     // format to match date strings from UCI
-    const date = dateObj ? formatDate(dateObj, 'short') : pendingStageRace!.date;
+    const date = dateObj ? formatDate(dateObj) : pendingStageRace!.date;
 
     // Race name:
     //   <td class="name"><span class="flag be"></span><a href="race/liege-bastogne-liege-femmes/2024/result">

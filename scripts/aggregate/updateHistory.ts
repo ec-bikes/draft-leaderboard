@@ -1,6 +1,6 @@
 import fs from 'fs';
 import { getHistoryFilePath } from '../../common/filenames.js';
-import { formatNumericDate } from '../../common/formatDate.js';
+import { formatNumericDate, utcDateFromString } from '../../common/formatDate.js';
 import type { Group, PointsHistory, Team } from '../../common/types/index.js';
 import { readJson } from '../utils/readJson.js';
 import { writeJson } from '../utils/writeJson.js';
@@ -11,7 +11,7 @@ import { writeJson } from '../utils/writeJson.js';
 export function updateHistory(params: { fileDate: Date; group: Group; teams: Team[] }): void {
   const { group, teams, fileDate } = params;
 
-  const historyPath = getHistoryFilePath({ group, year: fileDate.getFullYear() });
+  const historyPath = getHistoryFilePath({ group, year: fileDate.getUTCFullYear() });
   let history: PointsHistory;
   if (fs.existsSync(historyPath)) {
     history = readJson(historyPath);
@@ -44,11 +44,11 @@ export function updateHistory(params: { fileDate: Date; group: Group; teams: Tea
 
   // Find the index of the date closest to a week ago
   // (use a verison of the date with time set to 0 for clean comparison)
-  const weekAgo = new Date(newDateStr);
-  weekAgo.setDate(weekAgo.getDate() - 7);
+  const weekAgo = utcDateFromString(newDateStr);
+  weekAgo.setUTCDate(weekAgo.getUTCDate() - 7);
   let comparisonIndex = 0; // use first date if less than a week of data
   for (let i = history.dates.length - 1; i >= 0; i--) {
-    const date = new Date(history.dates[i]);
+    const date = utcDateFromString(history.dates[i]);
     if (date <= weekAgo) {
       comparisonIndex = i;
       break;
