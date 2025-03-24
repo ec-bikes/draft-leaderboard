@@ -179,10 +179,10 @@ index b0b1f829b4e3f660137e512ae8dff9438d064e1c..f376a02188ee4f8ccf553f7971a3c395
  
    /** output formatted string using unix formatting code (yyyy.MM.dd h:mm a) */
 diff --git a/zonefile/unpack.js b/zonefile/unpack.js
-index 4e2575371a06ee583ce11b0e779cc5fcbae0fbce..127900041a9df43e87e19113e52fd5a0aefefa25 100644
+index 4e2575371a06ee583ce11b0e779cc5fcbae0fbce..89df96cbd75be262a013900d4e79366195d07c11 100644
 --- a/zonefile/unpack.js
 +++ b/zonefile/unpack.js
-@@ -1,29 +1,12 @@
+@@ -1,47 +1,23 @@
 -import data from './_build.js'
 -import prefixes from './_prefixes.js'
 -
@@ -215,8 +215,26 @@ index 4e2575371a06ee583ce11b0e779cc5fcbae0fbce..127900041a9df43e87e19113e52fd5a0
 +const all = {
 +  utc,
 +  gmt: utc,
-+  'etc/utc': utc,
-+  'etc/gmt': utc,
  }
  
- //add etc/gmt+n
+-//add etc/gmt+n
++//add gmt+n
+ for (let i = -14; i <= 14; i += 0.5) {
+   let num = i
+   if (num > 0) {
+     num = '+' + num
+   }
+-  let name = 'etc/gmt' + num
++  let name = 'gmt' + num
+   all[name] = {
+     offset: i * -1, //they're negative!
+     hem: 'n' //(sorry)
+   }
+-  name = 'utc/gmt' + num //this one too, why not.
+-  all[name] = {
+-    offset: i * -1,
+-    hem: 'n'
+-  }
+ }
+ 
+ export default all
