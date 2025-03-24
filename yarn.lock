@@ -5069,8 +5069,8 @@ __metadata:
 
 "spacetime@patch:spacetime@npm%3A7.8.0#~/.yarn/patches/spacetime-npm-7.8.0-66d0a99fe8.patch":
   version: 7.8.0
-  resolution: "spacetime@patch:spacetime@npm%3A7.8.0#~/.yarn/patches/spacetime-npm-7.8.0-66d0a99fe8.patch::version=7.8.0&hash=906dd7"
-  checksum: 10c0/b8c8f7437e1805f048f881ba0c19d9a557e4faa6a85195ad2e2cdf942f1421db0145575f3827b6d400afbb3e241c9790b16bf190129db8f303e22677c2f80134
+  resolution: "spacetime@patch:spacetime@npm%3A7.8.0#~/.yarn/patches/spacetime-npm-7.8.0-66d0a99fe8.patch::version=7.8.0&hash=716ef7"
+  checksum: 10c0/9db5a122b72d3f0b81f60d5fafbbc34ed1334f2f6787ef6f9b4c4841a33d7cc14a1452c611668f2e2aea43a81139c98459ad2a2becee00efdb64fc5ff7dfa601
   languageName: node
   linkType: hard
 

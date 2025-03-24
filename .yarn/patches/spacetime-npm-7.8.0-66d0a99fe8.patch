@@ -11,6 +11,407 @@ index c7e9b4f75929ace9d09a00dd08096047a11ceca4..16d95016cc6bcfe78b01174784d61600
        },
        "require": {
          "types": "./types/index.d.cts",
+diff --git a/src/data/ampm.js b/src/data/ampm.js
+index 12588462dc7de4541268bb7a8a66061e22bc2109..3c9a7c1a38721b57fa2f78cd05c0cfd0acc264a4 100644
+--- a/src/data/ampm.js
++++ b/src/data/ampm.js
+@@ -3,7 +3,3 @@ let evening = 'pm'
+ 
+ export function am() { return morning }
+ export function pm() { return evening }
+\ No newline at end of file
+-export function set(i18n) {
+-    morning = i18n.am || morning
+-    evening = i18n.pm || evening
+-}
+\ No newline at end of file
+diff --git a/src/data/days.js b/src/data/days.js
+index 2b48d4c39416b8e3fec15c37a31944fe2a704f92..a6dc8cb418b2b341a9eb57b86dec7b5f9a37c483 100644
+--- a/src/data/days.js
++++ b/src/data/days.js
+@@ -3,10 +3,6 @@ let longDays = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday'
+ 
+ export function short() { return shortDays }
+ export function long() { return longDays }
+-export function set(i18n) {
+-  shortDays = i18n.short || shortDays
+-  longDays = i18n.long || longDays
+-}
+ export const aliases = {
+   mo: 1,
+   tu: 2,
+diff --git a/src/data/distance.js b/src/data/distance.js
+index 6c1fe5cc47229930254972a090970e6cc4ec3a11..6091b897568c2b9313106efc34e3fe72db53586e 100644
+--- a/src/data/distance.js
++++ b/src/data/distance.js
+@@ -15,14 +15,3 @@ export function presentString() { return present }
+ export function nowString() { return now }
+ export function almostString() { return almost }
+ export function overString() { return over }
+\ No newline at end of file
+-
+-export function set(i18n) {
+-    pastDistance = i18n.pastDistance || pastDistance
+-    futureDistance = i18n.futureDistance || futureDistance
+-    past = i18n.past || past
+-    future = i18n.future || future
+-    present = i18n.present || present
+-    now = i18n.now || now
+-    almost = i18n.almost || almost
+-    over = i18n.over || over
+-}
+\ No newline at end of file
+diff --git a/src/data/milliseconds.js b/src/data/milliseconds.js
+index caab6533b898035ea80e7e62ef79e2039939815e..0b52671399b5257e205ac23a6496d514ea5e2447 100644
+--- a/src/data/milliseconds.js
++++ b/src/data/milliseconds.js
+@@ -1,14 +1,15 @@
++const day = 8.64e7
+ let o = {
+-  millisecond: 1
++  millisecond: 1,
++  second: 1000,
++  minute: 60000,
++  hour: 3.6e6, // dst is supported post-hoc
++  day,
++  date: day,
++  month: day * 29.5, //(average)
++  week: 6.048e8,
++  year: 3.154e10 // leap-years are supported post-hoc
+ }
+-o.second = 1000
+-o.minute = 60000
+-o.hour = 3.6e6 // dst is supported post-hoc
+-o.day = 8.64e7 //
+-o.date = o.day
+-o.month = 8.64e7 * 29.5 //(average)
+-o.week = 6.048e8
+-o.year = 3.154e10 // leap-years are supported post-hoc
+ //add plurals
+ Object.keys(o).forEach(k => {
+   o[k + 's'] = o[k]
+diff --git a/src/data/months.js b/src/data/months.js
+index 5caf758fa964c789c8b2a8cc358c235d9e8dafe9..43fa2b1d5292484dbc0c1a61d0a917d68e6bcb21 100644
+--- a/src/data/months.js
++++ b/src/data/months.js
+@@ -43,7 +43,3 @@ function buildMapping() {
+ export function short() { return shortMonths }
+ export function long() { return longMonths }
+ export function mapping() { return buildMapping() }
+\ No newline at end of file
+-export function set(i18n) {
+-  shortMonths = i18n.short || shortMonths
+-  longMonths = i18n.long || longMonths
+-}
+diff --git a/src/data/quarters.js b/src/data/quarters.js
+deleted file mode 100644
+index 7f00f83a852ea9f6e4bf0079025714cfdb057b59..0000000000000000000000000000000000000000
+--- a/src/data/quarters.js
++++ /dev/null
+@@ -1,7 +0,0 @@
+-export default [
+-  null,
+-  [0, 1], //jan 1
+-  [3, 1], //apr 1
+-  [6, 1], //july 1
+-  [9, 1] //oct 1
+-]
+diff --git a/src/data/seasons.js b/src/data/seasons.js
+deleted file mode 100644
+index 6cc2511ae7d224a18eebeebeeb9be2781c66192d..0000000000000000000000000000000000000000
+--- a/src/data/seasons.js
++++ /dev/null
+@@ -1,21 +0,0 @@
+-//https://www.timeanddate.com/calendar/aboutseasons.html
+-// Spring - from March 1 to May 31;
+-// Summer - from June 1 to August 31;
+-// Fall (autumn) - from September 1 to November 30; and,
+-// Winter - from December 1 to February 28 (February 29 in a leap year).
+-const north = [
+-  ['spring', 2, 1],
+-  ['summer', 5, 1],
+-  ['fall', 8, 1],
+-  ['autumn', 8, 1],
+-  ['winter', 11, 1] //dec 1
+-];
+-const south = [
+-  ['fall', 2, 1],
+-  ['autumn', 2, 1],
+-  ['winter', 5, 1],
+-  ['spring', 8, 1],
+-  ['summer', 11, 1] //dec 1
+-];
+-
+-export default { north, south }
+\ No newline at end of file
+diff --git a/src/data/units.js b/src/data/units.js
+index adf96816043c11e8acab51daad7c84f8364c7bdc..fdbda0956e7146f8cdd5c70ac07ae2e240b94c72 100644
+--- a/src/data/units.js
++++ b/src/data/units.js
+@@ -16,20 +16,3 @@ let units = {
+ export function unitsString(unit) {
+     return units[unit] || '';
+ }
+\ No newline at end of file
+-
+-export function set(i18n = {}) {
+-    units = {
+-        second: i18n.second || units.second,
+-        seconds: i18n.seconds || units.seconds,
+-        minute: i18n.minute || units.minute,
+-        minutes: i18n.minutes || units.minutes,
+-        hour: i18n.hour || units.hour,
+-        hours: i18n.hours || units.hours,
+-        day: i18n.day || units.day,
+-        days: i18n.days || units.days,
+-        month: i18n.month || units.month,
+-        months: i18n.months || units.months,
+-        year: i18n.year || units.year,
+-        years: i18n.years || units.years,
+-    };
+-}
+\ No newline at end of file
+diff --git a/src/fns.js b/src/fns.js
+index c4b4cdfa1d8b326bed30231353d451d61f4abee2..c78d8d9326c46831827ad22cc57f4a7428cce299 100644
+--- a/src/fns.js
++++ b/src/fns.js
+@@ -2,9 +2,9 @@
+ export function isLeapYear(year) { return (year % 4 === 0 && year % 100 !== 0) || year % 400 === 0 }
+ // unsurprisingly-nasty `typeof date` call
+ export function isDate(d) { return Object.prototype.toString.call(d) === '[object Date]' && !isNaN(d.valueOf()) }
+-export function isArray(input) { return Object.prototype.toString.call(input) === '[object Array]' }
++export function isArray(input) { return Array.isArray(input) }
+ export function isObject(input) { return Object.prototype.toString.call(input) === '[object Object]' }
+-export function isBoolean(input) { return Object.prototype.toString.call(input) === '[object Boolean]' }
++export function isBoolean(input) { return typeof input === 'boolean' }
+ 
+ export function zeroPad(str, len = 2) {
+   let pad = '0'
+@@ -19,21 +19,6 @@ export function titleCase(str) {
+   return str[0].toUpperCase() + str.substr(1)
+ }
+ 
+-export function ordinal(i) {
+-  let j = i % 10
+-  let k = i % 100
+-  if (j === 1 && k !== 11) {
+-    return i + 'st'
+-  }
+-  if (j === 2 && k !== 12) {
+-    return i + 'nd'
+-  }
+-  if (j === 3 && k !== 13) {
+-    return i + 'rd'
+-  }
+-  return i + 'th'
+-}
+-
+ //strip 'st' off '1st'..
+ export function toCardinal(str) {
+   str = String(str)
+@@ -44,7 +29,6 @@ export function toCardinal(str) {
+ //used mostly for cleanup of unit names, like 'months'
+ export function normalize(str = '') {
+   str = str.toLowerCase().trim()
+-  str = str.replace(/ies$/, 'y') //'centuries'
+   str = str.replace(/s$/, '')
+   str = str.replace(/-/g, '')
+   if (str === 'day' || str === 'days') {
+diff --git a/src/index.js b/src/index.js
+index a6566438d4a36589b2b30b13c0202ae2cb485e45..fa84068d6879f0028a823f3036b1b1764267cd7a 100644
+--- a/src/index.js
++++ b/src/index.js
+@@ -1,5 +1,4 @@
+ import Spacetime from './spacetime.js'
+-import whereIts from './whereIts.js'
+ import version from './_version.js'
+ 
+ const main = (input, tz, options) => new Spacetime(input, tz, options)
+@@ -34,12 +33,6 @@ main.yesterday = (tz, options) => {
+   s = setToday(s)
+   return s.subtract(1, 'day').startOf('day')
+ }
+-main.extend = function (obj = {}) {
+-  Object.keys(obj).forEach((k) => {
+-    Spacetime.prototype[k] = obj[k]
+-  })
+-  return this
+-}
+ main.timezones = function () {
+   let s = new Spacetime()
+   return s.timezones
+@@ -55,10 +48,7 @@ main.min = function (tz, options) {
+   return s
+ }
+ 
+-//find tz by time
+-main.whereIts = whereIts
+ main.version = version
+ 
+ //aliases:
+-main.plugin = main.extend
+ export default main
+diff --git a/src/input/formats/04-misc.js b/src/input/formats/04-misc.js
+deleted file mode 100644
+index d14ba57c967d0a54761b5041cbab6b963141f643..0000000000000000000000000000000000000000
+--- a/src/input/formats/04-misc.js
++++ /dev/null
+@@ -1,143 +0,0 @@
+-import walkTo from '../../methods/set/walk.js'
+-import { validate, parseTime, parseYear, parseMonth } from './_parsers.js'
+-
+-export default [
+-  // =====
+-  // no dates
+-  // =====
+-
+-  // '2012-06' month-only
+-  {
+-    reg: /^([0-9]{4})[\-/]([0-9]{2})$/,
+-    parse: (s, m) => {
+-      let obj = {
+-        year: m[1],
+-        month: parseInt(m[2], 10) - 1,
+-        date: 1
+-      }
+-      if (validate(obj) === false) {
+-        s.epoch = null
+-        return s
+-      }
+-      walkTo(s, obj)
+-      s = parseTime(s, m[4])
+-      return s
+-    }
+-  },
+-
+-  //February 2017 (implied date)
+-  {
+-    reg: /^([a-z]+) ([0-9]{4})$/i,
+-    parse: (s, arr) => {
+-      let obj = {
+-        year: parseYear(arr[2], s._today),
+-        month: parseMonth(arr[1]),
+-        date: s._today.date || 1
+-      }
+-      if (validate(obj) === false) {
+-        s.epoch = null
+-        return s
+-      }
+-      walkTo(s, obj)
+-      s = parseTime(s, arr[4])
+-      return s
+-    }
+-  },
+-
+-  {
+-    // 'q2 2002'
+-    reg: /^(q[0-9])( of)?( [0-9]{4})?/i,
+-    parse: (s, arr) => {
+-      let quarter = arr[1] || ''
+-      s = s.quarter(quarter)
+-      let year = arr[3] || ''
+-      if (year) {
+-        year = year.trim()
+-        s = s.year(year)
+-      }
+-      return s
+-    }
+-  },
+-  {
+-    // 'summer 2002'
+-    reg: /^(spring|summer|winter|fall|autumn)( of)?( [0-9]{4})?/i,
+-    parse: (s, arr) => {
+-      let season = arr[1] || ''
+-      s = s.season(season)
+-      let year = arr[3] || ''
+-      if (year) {
+-        year = year.trim()
+-        s = s.year(year)
+-      }
+-      return s
+-    }
+-  },
+-  {
+-    // '200bc'
+-    reg: /^[0-9,]+ ?b\.?c\.?$/i,
+-    parse: (s, arr) => {
+-      let str = arr[0] || ''
+-      //make year-negative
+-      str = str.replace(/^([0-9,]+) ?b\.?c\.?$/i, '-$1')
+-      let d = new Date()
+-      let obj = {
+-        year: parseInt(str.trim(), 10),
+-        month: d.getMonth(),
+-        date: d.getDate()
+-      }
+-      if (validate(obj) === false) {
+-        s.epoch = null
+-        return s
+-      }
+-      walkTo(s, obj)
+-      s = parseTime(s)
+-      return s
+-    }
+-  },
+-  {
+-    // '200ad'
+-    reg: /^[0-9,]+ ?(a\.?d\.?|c\.?e\.?)$/i,
+-    parse: (s, arr) => {
+-      let str = arr[0] || ''
+-      //remove commas
+-      str = str.replace(/,/g, '')
+-      let d = new Date()
+-      let obj = {
+-        year: parseInt(str.trim(), 10),
+-        month: d.getMonth(),
+-        date: d.getDate()
+-      }
+-      if (validate(obj) === false) {
+-        s.epoch = null
+-        return s
+-      }
+-      walkTo(s, obj)
+-      s = parseTime(s)
+-      return s
+-    }
+-  },
+-  {
+-    // '1992'
+-    reg: /^[0-9]{4}( ?a\.?d\.?)?$/i,
+-    parse: (s, arr) => {
+-      let today = s._today
+-      // using today's date, but a new month is awkward.
+-      if (today.month && !today.date) {
+-        today.date = 1
+-      }
+-      let d = new Date()
+-      let obj = {
+-        year: parseYear(arr[0], today),
+-        month: today.month || d.getMonth(),
+-        date: today.date || d.getDate()
+-      }
+-      if (validate(obj) === false) {
+-        s.epoch = null
+-        return s
+-      }
+-      walkTo(s, obj)
+-      s = parseTime(s)
+-      return s
+-    }
+-  }
+-]
+diff --git a/src/input/formats/index.js b/src/input/formats/index.js
+index 5bc7a8f7df580b43aac320944840bd20e9187673..d9bf9bf306bed860cc270114f8e3744417ac7ac8 100644
+--- a/src/input/formats/index.js
++++ b/src/input/formats/index.js
+@@ -1,6 +1,5 @@
+ import ymd from './01-ymd.js'
+ import mdy from './02-mdy.js'
+ import dmy from './03-dmy.js'
+-import misc from './04-misc.js'
+ 
+-export default [].concat(ymd, mdy, dmy, misc)
++export default [].concat(ymd, mdy, dmy)
 diff --git a/src/input/formats/parseOffset.js b/src/input/formats/parseOffset.js
 index 5b017c70913b5e861ba46daf08ba2cb97ee3e1e0..d9dbedd1a838b17d332118162937fb641d7689ce 100644
 --- a/src/input/formats/parseOffset.js
@@ -37,8 +438,1554 @@ index 5b017c70913b5e861ba46daf08ba2cb97ee3e1e0..d9dbedd1a838b17d332118162937fb64
    let zones = s.timezones
  
    if (zones[tz]) {
+diff --git a/src/input/parse.js b/src/input/parse.js
+index 5ab6a5a97d134f5533e32f9485f7cd5825166e44..52b6936ed5769c6a03d47e6ba0134ddc6559e44d 100644
+--- a/src/input/parse.js
++++ b/src/input/parse.js
+@@ -2,7 +2,6 @@
+ import parsers from './formats/index.js'
+ 
+ const parseString = function (s, input, givenTz) {
+-  // let parsers = s.parsers || []
+   //try each text-parse template, use the first good result
+   for (let i = 0; i < parsers.length; i++) {
+     let m = input.match(parsers[i].reg)
+diff --git a/src/methods/add.js b/src/methods/add.js
+index aa98272688a074c26eab30555d7f31167284c103..08010c3c1307d45306e4af61ae8260cdc8fa1ada 100644
+--- a/src/methods/add.js
++++ b/src/methods/add.js
+@@ -13,34 +13,15 @@ const order = ['millisecond', 'second', 'minute', 'hour', 'date', 'month']
+ let keep = {
+   second: order.slice(0, 1),
+   minute: order.slice(0, 2),
+-  quarterhour: order.slice(0, 2),
+   hour: order.slice(0, 3),
+   date: order.slice(0, 4),
+   month: order.slice(0, 4),
+-  quarter: order.slice(0, 4),
+-  season: order.slice(0, 4),
+   year: order,
+-  decade: order,
+-  century: order
+ }
+ keep.week = keep.hour
+-keep.season = keep.date
+-keep.quarter = keep.date
+-
+-// Units need to be dst adjuested
+-const dstAwareUnits = {
+-  year: true,
+-  quarter: true,
+-  season: true,
+-  month: true,
+-  week: true,
+-  date: true
+-}
+ 
+ const keepDate = {
+   month: true,
+-  quarter: true,
+-  season: true,
+   year: true
+ }
+ 
+@@ -57,20 +38,11 @@ const addMethods = (SpaceTime) => {
+       s.epoch += num
+       return s
+     }
+-    // support 'fortnight' alias
+-    if (unit === 'fortnight') {
+-      num *= 2
+-      unit = 'week'
+-    }
+     //move forward by the estimated milliseconds (rough)
+     if (ms[unit]) {
+       s.epoch += ms[unit] * num
+-    } else if (unit === 'week' || unit === 'weekend') {
++    } else if (unit === 'week') {
+       s.epoch += ms.day * (num * 7)
+-    } else if (unit === 'quarter' || unit === 'season') {
+-      s.epoch += ms.month * (num * 3)
+-    } else if (unit === 'quarterhour') {
+-      s.epoch += ms.minute * 15 * num
+     }
+     //now ensure our milliseconds/etc are in-line
+     let want = {}
+@@ -80,11 +52,6 @@ const addMethods = (SpaceTime) => {
+       })
+     }
+ 
+-    if (dstAwareUnits[unit]) {
+-      const diff = old.timezone().current.offset - s.timezone().current.offset
+-      s.epoch += diff * 3600 * 1000
+-    }
+-
+     //ensure month/year has ticked-over
+     if (unit === 'month') {
+       want.month = old.month() + num
+@@ -98,9 +65,6 @@ const addMethods = (SpaceTime) => {
+         want.date = sum
+       }
+     }
+-    if (unit === 'weekend' && s.dayName() !== 'saturday') {
+-      s = s.day('saturday', true) //ensure it's saturday
+-    }
+     //support 25-hour day-changes on dst-changes
+     else if (unit === 'date') {
+       if (num < 0) {
+@@ -116,23 +80,6 @@ const addMethods = (SpaceTime) => {
+         want.date = old.date() + num
+       }
+     }
+-    // ensure a quarter is 3 months over
+-    else if (unit === 'quarter') {
+-      want.month = old.month() + (num * 3)
+-      want.year = old.year()
+-      // handle rollover
+-      if (want.month < 0) {
+-        let years = Math.floor(want.month / 12)
+-        let remainder = want.month + (Math.abs(years) * 12)
+-        want.month = remainder
+-        want.year += years
+-      } else if (want.month >= 12) {
+-        let years = Math.floor(want.month / 12)
+-        want.month = want.month % 12
+-        want.year += years
+-      }
+-      want.date = old.date()
+-    }
+     //ensure year has changed (leap-years)
+     else if (unit === 'year') {
+       let wantYear = old.year() + num
+@@ -145,12 +92,6 @@ const addMethods = (SpaceTime) => {
+         s.epoch += ms.day * toAdd
+       }
+     }
+-    //these are easier
+-    else if (unit === 'decade') {
+-      want.year = s.year() + 10
+-    } else if (unit === 'century') {
+-      want.year = s.year() + 100
+-    }
+     //keep current date, unless the month doesn't have it.
+     if (keepDate[unit]) {
+       let max = monthLength[want.month]
+diff --git a/src/methods/compare.js b/src/methods/compare.js
+index 2f52afa928df25ffac8f52a33e4811e31d40be44..5c992fcf4529a16241436b1aab5da6589f99d52d 100644
+--- a/src/methods/compare.js
++++ b/src/methods/compare.js
+@@ -2,21 +2,21 @@ import { beADate, getEpoch } from '../fns.js'
+ 
+ const addMethods = SpaceTime => {
+   const methods = {
+-    isAfter: function (d) {
++    isAfter: function (d, isInclusive = false) {
+       d = beADate(d, this)
+       let epoch = getEpoch(d)
+       if (epoch === null) {
+         return null
+       }
+-      return this.epoch > epoch
++      return this.epoch > epoch || (isInclusive && this.epoch === epoch)
+     },
+-    isBefore: function (d) {
++    isBefore: function (d, isInclusive = false) {
+       d = beADate(d, this)
+       let epoch = getEpoch(d)
+       if (epoch === null) {
+         return null
+       }
+-      return this.epoch < epoch
++      return this.epoch < epoch || (isInclusive && this.epoch === epoch)
+     },
+     isEqual: function (d) {
+       d = beADate(d, this)
+diff --git a/src/methods/diff/waterfall.js b/src/methods/diff/waterfall.js
+index 31f7b1898da0294fbf0aaf7ca470544664deb61e..222b63c2299477d280d9508b46eaa3adaf5115e2 100644
+--- a/src/methods/diff/waterfall.js
++++ b/src/methods/diff/waterfall.js
+@@ -37,10 +37,6 @@ const diff = function (a, b) {
+   tmp = a.add(obj.months, 'month')
+   obj.months += diffOne(tmp, b, 'month')
+ 
+-  // there's always 4 quarters in a year...
+-  obj.quarters = obj.years * 4
+-  obj.quarters += parseInt((obj.months % 12) / 3, 10)
+-
+   // there's always atleast 52 weeks in a year..
+   // (month * 4) isn't as close
+   obj.weeks = obj.years * 52
+diff --git a/src/methods/every.js b/src/methods/every.js
+deleted file mode 100644
+index 18e4f2248f041680bd7d4ea77d1360d199c500b1..0000000000000000000000000000000000000000
+--- a/src/methods/every.js
++++ /dev/null
+@@ -1,54 +0,0 @@
+-import { normalize } from '../fns.js'
+-import { short, long } from '../data/days.js'
+-
+-//is it 'wednesday'?
+-const isDay = function (unit) {
+-  if (short().find((s) => s === unit)) {
+-    return true
+-  }
+-  if (long().find((s) => s === unit)) {
+-    return true
+-  }
+-  return false
+-}
+-
+-// return a list of the weeks/months/days between a -> b
+-// returns spacetime objects in the timezone of the input
+-const every = function (start, unit, end, stepCount = 1) {
+-  if (!unit || !end) {
+-    return []
+-  }
+-  //cleanup unit param
+-  unit = normalize(unit)
+-  //cleanup to param
+-  end = start.clone().set(end)
+-  //swap them, if they're backwards
+-  if (start.isAfter(end)) {
+-    let tmp = start
+-    start = end
+-    end = tmp
+-  }
+-  //prevent going beyond end if unit/stepCount > than the range
+-  if (start.diff(end, unit) < stepCount) {
+-    return []
+-  }
+-  //support 'every wednesday'
+-  let d = start.clone()
+-  if (isDay(unit)) {
+-    d = d.next(unit)
+-    unit = 'week'
+-  } else {
+-    let first = d.startOf(unit)
+-    if (first.isBefore(start)) {
+-      d = d.next(unit)
+-    }
+-  }
+-  //okay, actually start doing it
+-  let result = []
+-  while (d.isBefore(end)) {
+-    result.push(d)
+-    d = d.add(stepCount, unit)
+-  }
+-  return result
+-}
+-export default every
+diff --git a/src/methods/format/_offset.js b/src/methods/format/_offset.js
+index 375ab2de4b003e537d198ff76459c0b62b88ae39..28a64afc7d1b00d852bec69990ab04bfc0986cb2 100644
+--- a/src/methods/format/_offset.js
++++ b/src/methods/format/_offset.js
+@@ -4,7 +4,7 @@ import { formatTimezone } from '../../fns.js'
+ // it's kind of nuts how involved this is
+ // "+01:00", "+0100", or simply "+01"
+ const isoOffset = s => {
+-  let offset = s.timezone().current.offset
++  let offset = s.timezone().offset
+   return !offset ? 'Z' : formatTimezone(offset, ':')
+ }
+ 
+diff --git a/src/methods/format/index.js b/src/methods/format/index.js
+index 432571c6494b79c58e493024365b338faaaace27..1d4c312831aff77b8e71387c4036aabffd0866ba 100644
+--- a/src/methods/format/index.js
++++ b/src/methods/format/index.js
+@@ -1,4 +1,4 @@
+-import { titleCase, zeroPad, ordinal } from '../../fns.js'
++import { titleCase, zeroPad } from '../../fns.js'
+ import { short } from '../../data/months.js'
+ import { short as _short } from '../../data/days.js'
+ import { useTitleCase } from '../../data/caseFormat.js'
+@@ -25,17 +25,14 @@ const format = {
+   day: (s) => applyCaseFormat(s.dayName()),
+   'day-short': (s) => applyCaseFormat(_short()[s.day()]),
+   'day-number': (s) => s.day(),
+-  'day-ordinal': (s) => ordinal(s.day()),
+   'day-pad': (s) => zeroPad(s.day()),
+ 
+   date: (s) => s.date(),
+-  'date-ordinal': (s) => ordinal(s.date()),
+   'date-pad': (s) => zeroPad(s.date()),
+ 
+   month: (s) => applyCaseFormat(s.monthName()),
+   'month-short': (s) => applyCaseFormat(short()[s.month()]),
+   'month-number': (s) => s.month(),
+-  'month-ordinal': (s) => ordinal(s.month()),
+   'month-pad': (s) => zeroPad(s.month()),
+   'iso-month': (s) => zeroPad(s.month() + 1), //1-based months
+ 
+@@ -84,9 +81,6 @@ const format = {
+ 
+   ampm: (s) => s.ampm(),
+   AMPM: (s) => s.ampm().toUpperCase(),
+-  quarter: (s) => 'Q' + s.quarter(),
+-  season: (s) => s.season(),
+-  era: (s) => s.era(),
+   json: (s) => s.json(),
+   timezone: (s) => s.timezone().name,
+   offset: (s) => isoOffset(s),
+@@ -127,33 +121,26 @@ const format = {
+   },
+ 
+   //i made these up
+-  nice: (s) => `${short()[s.month()]} ${ordinal(s.date())}, ${s.time()}`,
++  nice: (s) => `${short()[s.month()]} ${s.date()}, ${s.time()}`,
+   'nice-24': (s) =>
+-    `${short()[s.month()]} ${ordinal(s.date())}, ${s.hour24()}:${zeroPad(
++    `${short()[s.month()]} ${s.date()}, ${s.hour24()}:${zeroPad(
+       s.minute()
+     )}`,
+-  'nice-year': (s) => `${short()[s.month()]} ${ordinal(s.date())}, ${s.year()}`,
++  'nice-year': (s) => `${short()[s.month()]} ${s.date()}, ${s.year()}`,
+   'nice-day': (s) =>
+-    `${_short()[s.day()]} ${applyCaseFormat(short()[s.month()])} ${ordinal(
+-      s.date()
+-    )}`,
++    `${_short()[s.day()]} ${applyCaseFormat(short()[s.month()])} ${s.date()}`,
+   'nice-full': (s) =>
+-    `${s.dayName()} ${applyCaseFormat(s.monthName())} ${ordinal(s.date())}, ${s.time()}`,
++    `${s.dayName()} ${applyCaseFormat(s.monthName())} ${s.date()}, ${s.time()}`,
+   'nice-full-24': (s) =>
+-    `${s.dayName()} ${applyCaseFormat(s.monthName())} ${ordinal(
+-      s.date()
+-    )}, ${s.hour24()}:${zeroPad(s.minute())}`
++    `${s.dayName()} ${applyCaseFormat(s.monthName())} ${s.date()}, ${s.hour24()}:${zeroPad(s.minute())}`
+ }
+ //aliases
+ const aliases = {
+   'day-name': 'day',
+   'month-name': 'month',
+   'iso 8601': 'iso',
+-  'time-h24': 'time-24',
+   'time-12': 'time',
+-  'time-h12': 'time',
+   tz: 'timezone',
+-  iana: 'timezone',
+   'day-num': 'day-number',
+   'month-num': 'month-number',
+   'month-iso': 'iso-month',
+@@ -166,8 +153,6 @@ const aliases = {
+   'yyyy/mm/dd': 'numeric',
+   'mm/dd/yyyy': 'numeric-us',
+   'dd/mm/yyyy': 'numeric-us',
+-  'little-endian': 'numeric-uk',
+-  'big-endian': 'numeric',
+   'day-nice': 'nice-day'
+ }
+ Object.keys(aliases).forEach((k) => (format[k] = format[aliases[k]]))
+diff --git a/src/methods/format/unixFmt.js b/src/methods/format/unixFmt.js
+index f52a29c9166f994efbcbffe715c27d77db8a2935..c111f1d5e2e32837b2a3641c2ad18aaa2a191b77 100644
+--- a/src/methods/format/unixFmt.js
++++ b/src/methods/format/unixFmt.js
+@@ -4,26 +4,13 @@ import { formatTimezone, zeroPad as pad } from '../../fns.js'
+ 
+ //time-symbols we support
+ const mapping = {
+-  G: (s) => s.era(),
+-  GG: (s) => s.era(),
+-  GGG: (s) => s.era(),
+-  GGGG: (s) => (s.era() === 'AD' ? 'Anno Domini' : 'Before Christ'),
+   //year
+   y: (s) => s.year(),
+-  yy: (s) => {
+-    //last two chars
+-    return pad(Number(String(s.year()).substr(2, 4)))
+-  },
++  //last two chars
++  yy: (s) => pad(Number(String(s.year()).slice(2, 4))),
+   yyy: (s) => s.year(),
+   yyyy: (s) => s.year(),
+   yyyyy: (s) => '0' + s.year(),
+-  // u: (s) => {},//extended non-gregorian years
+-
+-  //quarter
+-  Q: (s) => s.quarter(),
+-  QQ: (s) => s.quarter(),
+-  QQQ: (s) => s.quarter(),
+-  QQQQ: (s) => s.quarter(),
+ 
+   //month
+   M: (s) => s.month() + 1,
+@@ -34,44 +21,31 @@ const mapping = {
+   //week
+   w: (s) => s.week(),
+   ww: (s) => pad(s.week()),
+-  //week of month
+-  // W: (s) => s.week(),
+ 
+   //date of month
+   d: (s) => s.date(),
+   dd: (s) => pad(s.date()),
+-  //date of year
+-  D: (s) => s.dayOfYear(),
+-  DD: (s) => pad(s.dayOfYear()),
+-  DDD: (s) => pad(s.dayOfYear(), 3),
+-
+-  // F: (s) => {},//date of week in month
+-  // g: (s) => {},//modified julian day
+ 
+   //day
+   E: (s) => s.format('day-short'),
+-  EE: (s) => s.format('day-short'),
+-  EEE: (s) => s.format('day-short'),
++  EE: (s) => mapping.E(s),
++  EEE: (s) => mapping.E(s),
+   EEEE: (s) => s.format('day'),
+   EEEEE: (s) => s.format('day')[0],
+   e: (s) => s.day(),
+   ee: (s) => s.day(),
+-  eee: (s) => s.format('day-short'),
++  eee: (s) => mapping.E(s),
+   eeee: (s) => s.format('day'),
+   eeeee: (s) => s.format('day')[0],
+ 
+   //am/pm
+   a: (s) => s.ampm().toUpperCase(),
+-  aa: (s) => s.ampm().toUpperCase(),
+-  aaa: (s) => s.ampm().toUpperCase(),
+-  aaaa: (s) => s.ampm().toUpperCase(),
+ 
+   //hour
+   h: (s) => s.h12(),
+   hh: (s) => pad(s.h12()),
+   H: (s) => s.hour(),
+   HH: (s) => pad(s.hour()),
+-  // j: (s) => {},//weird hour format
+ 
+   m: (s) => s.minute(),
+   mm: (s) => pad(s.minute()),
+@@ -80,17 +54,10 @@ const mapping = {
+ 
+   //milliseconds
+   SSS: (s) => pad(s.millisecond(), 3),
+-  //milliseconds in the day
+-  A: (s) => s.epoch - s.startOf('day').epoch,
+   //timezone
+   z: (s) => s.timezone().name,
+-  zz: (s) => s.timezone().name,
+-  zzz: (s) => s.timezone().name,
+-  zzzz: (s) => s.timezone().name,
+-  Z: (s) => formatTimezone(s.timezone().current.offset),
+-  ZZ: (s) => formatTimezone(s.timezone().current.offset),
+-  ZZZ: (s) => formatTimezone(s.timezone().current.offset),
+-  ZZZZ: (s) => formatTimezone(s.timezone().current.offset, ':')
++  Z: (s) => formatTimezone(s.timezone().offset),
++  ZZZZ: (s) => formatTimezone(s.timezone().offset, ':')
+ }
+ 
+ const addAlias = (char, to, n) => {
+@@ -102,15 +69,8 @@ const addAlias = (char, to, n) => {
+     toName += to
+   }
+ }
+-addAlias('q', 'Q', 4)
+-addAlias('L', 'M', 4)
+ addAlias('Y', 'y', 4)
+-addAlias('c', 'e', 4)
+-addAlias('k', 'H', 2)
+-addAlias('K', 'h', 2)
+ addAlias('S', 's', 2)
+-addAlias('v', 'z', 4)
+-addAlias('V', 'Z', 4)
+ 
+ // support unix-style escaping with ' character
+ const escapeChars = function (arr) {
+diff --git a/src/methods/i18n.js b/src/methods/i18n.js
+deleted file mode 100644
+index ed3e8bdae72863ac3f9e10635b363beaf35c8231..0000000000000000000000000000000000000000
+--- a/src/methods/i18n.js
++++ /dev/null
+@@ -1,51 +0,0 @@
+-import { isObject, isBoolean } from '../fns.js'
+-import { set as setD } from '../data/days.js'
+-import { set as setM } from '../data/months.js'
+-import { set as setTcf } from '../data/caseFormat.js'
+-import { set as setAmpm } from '../data/ampm.js'
+-import { set as setDistance } from '../data/distance.js'
+-import { set as setUnits } from '../data/units.js'
+-
+-const addMethods = SpaceTime => {
+-  const methods = {
+-    i18n: function (data) {
+-      //change the day names
+-      if (isObject(data.days)) {
+-        setD(data.days)
+-      }
+-      //change the month names
+-      if (isObject(data.months)) {
+-        setM(data.months)
+-      }
+-
+-      //change the display style of the month / day names
+-      if (isBoolean(data.useTitleCase)) {
+-        setTcf(data.useTitleCase)
+-      }
+-
+-      //change am and pm strings
+-      if (isObject(data.ampm)) {
+-        setAmpm(data.ampm)
+-      }
+-
+-      //change distance strings
+-      if(isObject(data.distance)){
+-        setDistance(data.distance)
+-      }
+-
+-      //change units strings
+-      if(isObject(data.units)){
+-        setUnits(data.units)
+-      }
+-
+-      return this
+-    }
+-  }
+-
+-  //hook them into proto
+-  Object.keys(methods).forEach(k => {
+-    SpaceTime.prototype[k] = methods[k]
+-  })
+-}
+-
+-export default addMethods
+diff --git a/src/methods/nearest.js b/src/methods/nearest.js
+deleted file mode 100644
+index a353d3917bc05d9901d84dd30367b6df2958efec..0000000000000000000000000000000000000000
+--- a/src/methods/nearest.js
++++ /dev/null
+@@ -1,25 +0,0 @@
+-/* eslint-disable no-console */
+-import { normalize } from '../fns.js'
+-
+-//round to either current, or +1 of this unit
+-const nearest = (s, unit) => {
+-  //how far have we gone?
+-  let prog = s.progress()
+-  unit = normalize(unit)
+-  //fix camel-case for this one
+-  if (unit === 'quarterhour') {
+-    unit = 'quarterHour'
+-  }
+-  if (prog[unit] !== undefined) {
+-    // go forward one?
+-    if (prog[unit] > 0.5) {
+-      s = s.add(1, unit)
+-    }
+-    // go to start
+-    s = s.startOf(unit)
+-  } else if (s.silent === false) {
+-    console.warn("no known unit '" + unit + "'")
+-  }
+-  return s
+-}
+-export default nearest
+diff --git a/src/methods/progress.js b/src/methods/progress.js
+deleted file mode 100644
+index 9b9d67f94e610fd37f61beff79c5951adb8e4f6d..0000000000000000000000000000000000000000
+--- a/src/methods/progress.js
++++ /dev/null
+@@ -1,25 +0,0 @@
+-import { normalize } from '../fns.js'
+-const units = ['year', 'season', 'quarter', 'month', 'week', 'day', 'quarterHour', 'hour', 'minute']
+-
+-const doUnit = function (s, k) {
+-  let start = s.clone().startOf(k)
+-  let end = s.clone().endOf(k)
+-  let duration = end.epoch - start.epoch
+-  let percent = (s.epoch - start.epoch) / duration
+-  return parseFloat(percent.toFixed(2))
+-}
+-
+-//how far it is along, from 0-1
+-const progress = (s, unit) => {
+-  if (unit) {
+-    unit = normalize(unit)
+-    return doUnit(s, unit)
+-  }
+-  let obj = {}
+-  units.forEach(k => {
+-    obj[k] = doUnit(s, k)
+-  })
+-  return obj
+-}
+-
+-export default progress
+diff --git a/src/methods/query/01-time.js b/src/methods/query/01-time.js
+index 84889c5680f8f5395aa1b52fc77f6034dcc31fa6..2bcc0a69d297c130ddc2475ad2d2140a11ee43d5 100644
+--- a/src/methods/query/01-time.js
++++ b/src/methods/query/01-time.js
+@@ -37,24 +37,6 @@ const methods = {
+     return d.getHours()
+   },
+ 
+-  //'3:30' is 3.5
+-  hourFloat: function (num, goFwd) {
+-    if (num !== undefined) {
+-      let s = this.clone()
+-      let minute = num % 1
+-      minute = minute * 60
+-      let hour = parseInt(num, 10)
+-      s.epoch = hours(s, hour, goFwd)
+-      s.epoch = minutes(s, minute, goFwd)
+-      return s
+-    }
+-    let d = this.d
+-    let hour = d.getHours()
+-    let minute = d.getMinutes()
+-    minute = minute / 60
+-    return hour + minute
+-  },
+-
+   // hour in 12h format
+   hour12: function (str, goFwd) {
+     let d = this.d
+@@ -122,47 +104,6 @@ const methods = {
+     return s
+   },
+ 
+-  //some hard-coded times of day, like 'noon'
+-  dayTime: function (str, goFwd) {
+-    if (str !== undefined) {
+-      const times = {
+-        morning: '7:00',
+-        breakfast: '7:00',
+-        noon: '12:00',
+-        lunch: '12:00',
+-        afternoon: '14:00',
+-        evening: '18:00',
+-        dinner: '18:00',
+-        night: '23:00',
+-        midnight: '00:00'
+-      }
+-      let s = this.clone()
+-      str = str || ''
+-      str = str.toLowerCase()
+-      if (times.hasOwnProperty(str) === true) {
+-        s = s.time(times[str], goFwd)
+-      }
+-      return s
+-    }
+-    let h = this.hour()
+-    if (h < 6) {
+-      return 'night'
+-    }
+-    if (h < 12) {
+-      //until noon
+-      return 'morning'
+-    }
+-    if (h < 17) {
+-      //until 5pm
+-      return 'afternoon'
+-    }
+-    if (h < 22) {
+-      //until 10pm
+-      return 'evening'
+-    }
+-    return 'night'
+-  },
+-
+   //parse a proper iso string
+   iso: function (num) {
+     if (num !== undefined) {
+diff --git a/src/methods/query/03-year.js b/src/methods/query/03-year.js
+index 4f7c78aeab91943c9c6648ca04d7bf429f360633..3c68cd62488730f72af3b78777dbabc0c8f89e82 100644
+--- a/src/methods/query/03-year.js
++++ b/src/methods/query/03-year.js
+@@ -1,8 +1,6 @@
+ /* eslint-disable no-console */
+-import { dayOfYear as _dayOfYear, week as setWeek, month as _month, year as _year } from '../set/set.js'
++import { week as setWeek, month as _month, year as _year } from '../set/set.js'
+ import { long } from '../../data/months.js'
+-import quarters from '../../data/quarters.js'
+-import seasons from '../../data/seasons.js'
+ import ms from '../../data/milliseconds.js'
+ 
+ const clearMinutes = (s) => {
+@@ -13,30 +11,6 @@ const clearMinutes = (s) => {
+ }
+ 
+ const methods = {
+-  // day 0-366
+-  dayOfYear: function (num, goFwd) {
+-    if (num !== undefined) {
+-      let s = this.clone()
+-      s.epoch = _dayOfYear(s, num, goFwd)
+-      return s
+-    }
+-    //days since newyears - jan 1st is 1, jan 2nd is 2...
+-    let sum = 0
+-    let month = this.d.getMonth()
+-    let tmp
+-    //count the num days in each month
+-    for (let i = 1; i <= month; i++) {
+-      tmp = new Date()
+-      tmp.setDate(1)
+-      tmp.setFullYear(this.d.getFullYear()) //the year matters, because leap-years
+-      tmp.setHours(1)
+-      tmp.setMinutes(1)
+-      tmp.setMonth(i)
+-      tmp.setHours(-2) //the last day of the month
+-      sum += tmp.getDate()
+-    }
+-    return sum + this.d.getDate()
+-  },
+ 
+   //since the start of the year
+   week: function (num, goFwd) {
+@@ -105,57 +79,6 @@ const methods = {
+     return long()[this.month()]
+   },
+ 
+-  //q1, q2, q3, q4
+-  quarter: function (num, goFwd) {
+-    if (num !== undefined) {
+-      if (typeof num === 'string') {
+-        num = num.replace(/^q/i, '')
+-        num = parseInt(num, 10)
+-      }
+-      if (quarters[num]) {
+-        let s = this.clone()
+-        let month = quarters[num][0]
+-        s = s.month(month, goFwd)
+-        s = s.date(1, goFwd)
+-        s = s.startOf('day')
+-        return s
+-      }
+-    }
+-    let month = this.d.getMonth()
+-    for (let i = 1; i < quarters.length; i++) {
+-      if (month < quarters[i][0]) {
+-        return i - 1
+-      }
+-    }
+-    return 4
+-  },
+-
+-  //spring, summer, winter, fall
+-  season: function (input, goFwd) {
+-    let hem = 'north'
+-    if (this.hemisphere() === 'South') {
+-      hem = 'south'
+-    }
+-    if (input !== undefined) {    // setter
+-      let s = this.clone()
+-      for (let i = 0; i < seasons[hem].length; i++) {
+-        if (input === seasons[hem][i][0]) {
+-          s = s.month(seasons[hem][i][1], goFwd)
+-          s = s.date(1)
+-          s = s.startOf('day')
+-        }
+-      }
+-      return s
+-    }
+-    let month = this.d.getMonth()
+-    for (let i = 0; i < seasons[hem].length - 1; i++) {
+-      if (month >= seasons[hem][i][1] && month < seasons[hem][i + 1][1]) {
+-        return seasons[hem][i][0]
+-      }
+-    }
+-    return hem === 'north' ? 'winter' : 'summer'
+-  },
+-
+   //the year number
+   year: function (num) {
+     if (num !== undefined) {
+@@ -164,119 +87,6 @@ const methods = {
+       return s
+     }
+     return this.d.getFullYear()
+-  },
+-
+-  //bc/ad years
+-  era: function (str) {
+-    if (str !== undefined) {
+-      let s = this.clone()
+-      str = str.toLowerCase()
+-      //TODO: there is no year-0AD i think. may have off-by-1 error here
+-      let year = s.d.getFullYear()
+-      //make '1992' into 1992bc..
+-      if (str === 'bc' && year > 0) {
+-        s.epoch = _year(s, year * -1)
+-      }
+-      //make '1992bc' into '1992'
+-      if (str === 'ad' && year < 0) {
+-        s.epoch = _year(s, year * -1)
+-      }
+-      return s
+-    }
+-    if (this.d.getFullYear() < 0) {
+-      return 'BC'
+-    }
+-    return 'AD'
+-  },
+-
+-  // 2019 -> 2010
+-  decade: function (input) {
+-    if (input !== undefined) {
+-      input = String(input)
+-      input = input.replace(/([0-9])'?s$/, '$1') //1950's
+-      input = input.replace(/([0-9])(th|rd|st|nd)/, '$1') //fix ordinals
+-      if (!input) {
+-        console.warn('Spacetime: Invalid decade input')
+-        return this
+-      }
+-      // assume 20th century?? for '70s'.
+-      if (input.length === 2 && /[0-9][0-9]/.test(input)) {
+-        input = '19' + input
+-      }
+-      let year = Number(input)
+-      if (isNaN(year)) {
+-        return this
+-      }
+-      // round it down to the decade
+-      year = Math.floor(year / 10) * 10
+-      return this.year(year) //.startOf('decade')
+-    }
+-    return this.startOf('decade').year()
+-  },
+-  // 1950 -> 19+1
+-  century: function (input) {
+-    if (input !== undefined) {
+-      if (typeof input === 'string') {
+-        input = input.replace(/([0-9])(th|rd|st|nd)/, '$1') //fix ordinals
+-        input = input.replace(/([0-9]+) ?(b\.?c\.?|a\.?d\.?)/i, (a, b, c) => {
+-          if (c.match(/b\.?c\.?/i)) {
+-            b = '-' + b
+-          }
+-          return b
+-        })
+-        input = input.replace(/c$/, '') //20thC
+-      }
+-      let year = Number(input)
+-      if (isNaN(input)) {
+-        console.warn('Spacetime: Invalid century input')
+-        return this
+-      }
+-      // there is no century 0
+-      if (year === 0) {
+-        year = 1
+-      }
+-      if (year >= 0) {
+-        year = (year - 1) * 100
+-      } else {
+-        year = (year + 1) * 100
+-      }
+-      return this.year(year)
+-    }
+-    // century getter
+-    let num = this.startOf('century').year()
+-    num = Math.floor(num / 100)
+-    if (num < 0) {
+-      return num - 1
+-    }
+-    return num + 1
+-  },
+-  // 2019 -> 2+1
+-  millenium: function (input) {
+-    if (input !== undefined) {
+-      if (typeof input === 'string') {
+-        input = input.replace(/([0-9])(th|rd|st|nd)/, '$1') //fix ordinals
+-        input = Number(input)
+-        if (isNaN(input)) {
+-          console.warn('Spacetime: Invalid millenium input')
+-          return this
+-        }
+-      }
+-      if (input > 0) {
+-        input -= 1
+-      }
+-      let year = input * 1000
+-      // there is no year 0
+-      if (year === 0) {
+-        year = 1
+-      }
+-      return this.year(year)
+-    }
+-    // get the current millenium
+-    let num = Math.floor(this.year() / 1000)
+-    if (num >= 0) {
+-      num += 1
+-    }
+-    return num
+   }
+ }
+ export default methods
+diff --git a/src/methods/same.js b/src/methods/same.js
+index 7d352d339c5001183e3c787ac021823a07b82c43..e25b3b6f8e102b3a362ead41dd1d0a620038f352 100644
+--- a/src/methods/same.js
++++ b/src/methods/same.js
+@@ -21,9 +21,6 @@ const print = {
+   month: (s) => {
+     return [s.year(), s.month()].join('-')
+   },
+-  quarter: (s) => {
+-    return [s.year(), s.quarter()].join('-')
+-  },
+   year: (s) => {
+     return s.year()
+   }
+diff --git a/src/methods/set/set.js b/src/methods/set/set.js
+index f7bd954eaacb2687ac38697c2641330c6a21f863..57edac43c963b91807381b4db11d27d12f24f56e 100644
+--- a/src/methods/set/set.js
++++ b/src/methods/set/set.js
+@@ -246,26 +246,6 @@ const week = function (s, n, goFwd) {
+   return s
+ }
+ 
+-const dayOfYear = function (s, n, goFwd) {
+-  n = validate(n)
+-  let old = s.clone()
+-  n -= 1 //days are 1-based
+-  if (n <= 0) {
+-    n = 0
+-  } else if (n >= 365) {
+-    if (isLeapYear(s.year())) {
+-      n = 365
+-    } else {
+-      n = 364
+-    }
+-  }
+-  s = s.startOf('year')
+-  s = s.add(n, 'day')
+-  confirm(s, old, 'hour')
+-  s = fwdBkwd(s, old, goFwd, 'year') // specify direction
+-  return s.epoch
+-}
+-
+ export {
+   milliseconds,
+   seconds,
+@@ -276,5 +256,4 @@ export {
+   month,
+   year,
+   week,
+-  dayOfYear,
+ }
+diff --git a/src/methods/since/_iso.js b/src/methods/since/_iso.js
+deleted file mode 100644
+index 160bd50e7278182615bb24df0a3f6fc5abc21973..0000000000000000000000000000000000000000
+--- a/src/methods/since/_iso.js
++++ /dev/null
+@@ -1,28 +0,0 @@
+-/*
+-ISO 8601 duration format
+-// https://en.wikipedia.org/wiki/ISO_8601#Durations
+-"P3Y6M4DT12H30M5S"
+-P the start of the duration representation.
+-Y the number of years.
+-M the number of months.
+-W the number of weeks.
+-D the number of days.
+-T of the representation.
+-H the number of hours.
+-M the number of minutes.
+-S the number of seconds.
+-*/
+-
+-const fmt = (n) => Math.abs(n) || 0
+-
+-const toISO = function (diff) {
+-  let iso = 'P'
+-  iso += fmt(diff.years) + 'Y'
+-  iso += fmt(diff.months) + 'M'
+-  iso += fmt(diff.days) + 'DT'
+-  iso += fmt(diff.hours) + 'H'
+-  iso += fmt(diff.minutes) + 'M'
+-  iso += fmt(diff.seconds) + 'S'
+-  return iso
+-}
+-export default toISO
+\ No newline at end of file
+diff --git a/src/methods/since/getDiff.js b/src/methods/since/getDiff.js
+deleted file mode 100644
+index a08a451f8a63b00bcd9626d85d4e88d276393fd2..0000000000000000000000000000000000000000
+--- a/src/methods/since/getDiff.js
++++ /dev/null
+@@ -1,34 +0,0 @@
+-
+-//get number of hours/minutes... between the two dates
+-function getDiff(a, b) {
+-  const isBefore = a.isBefore(b)
+-  const later = isBefore ? b : a
+-  let earlier = isBefore ? a : b
+-  earlier = earlier.clone()
+-  const diff = {
+-    years: 0,
+-    months: 0,
+-    days: 0,
+-    hours: 0,
+-    minutes: 0,
+-    seconds: 0
+-  }
+-  Object.keys(diff).forEach((unit) => {
+-    if (earlier.isSame(later, unit)) {
+-      return
+-    }
+-    let max = earlier.diff(later, unit)
+-    earlier = earlier.add(max, unit)
+-    diff[unit] = max
+-  })
+-  //reverse it, if necessary
+-  if (isBefore) {
+-    Object.keys(diff).forEach((u) => {
+-      if (diff[u] !== 0) {
+-        diff[u] *= -1
+-      }
+-    })
+-  }
+-  return diff
+-}
+-export default getDiff
+\ No newline at end of file
+diff --git a/src/methods/since/index.js b/src/methods/since/index.js
+deleted file mode 100644
+index 886a014951559ac5b0903a67aa2e3b2955cddd04..0000000000000000000000000000000000000000
+--- a/src/methods/since/index.js
++++ /dev/null
+@@ -1,63 +0,0 @@
+-import { beADate } from '../../fns.js'
+-import toISO from './_iso.js'
+-import getDiff from './getDiff.js'
+-import soften from './soften.js'
+-import {
+-  pastString,
+-  futureString,
+-  nowString,
+-  presentString,
+-  pastDistanceString,
+-  futureDistanceString
+-} from "../../data/distance.js";
+-//by spencermountain + Shaun Grady
+-
+-//create the human-readable diff between the two dates
+-const since = (start, end) => {
+-  end = beADate(end, start)
+-  const diff = getDiff(start, end)
+-  const isNow = Object.keys(diff).every((u) => !diff[u])
+-  if (isNow === true) {
+-    return {
+-      diff,
+-      rounded: nowString(),
+-      qualified: nowString(),
+-      precise: nowString(),
+-      abbreviated: [],
+-      iso: 'P0Y0M0DT0H0M0S',
+-      direction: presentString(),
+-    }
+-  }
+-  let precise
+-  let direction = futureString()
+-
+-  let { rounded, qualified, englishValues, abbreviated } = soften(diff)
+-
+-  //make them into a string
+-  precise = englishValues.splice(0, 2).join(', ')
+-  //handle before/after logic
+-  if (start.isAfter(end) === true) {
+-    rounded = pastDistanceString(rounded)
+-    qualified = pastDistanceString(qualified)
+-    precise = pastDistanceString(precise)
+-    direction = pastString()
+-  } else {
+-    rounded = futureDistanceString(rounded)
+-    qualified = futureDistanceString(qualified)
+-    precise = futureDistanceString(precise)
+-  }
+-  // https://en.wikipedia.org/wiki/ISO_8601#Durations
+-  // P[n]Y[n]M[n]DT[n]H[n]M[n]S 
+-  let iso = toISO(diff)
+-  return {
+-    diff,
+-    rounded,
+-    qualified,
+-    precise,
+-    abbreviated,
+-    iso,
+-    direction,
+-  }
+-}
+-
+-export default since
+diff --git a/src/methods/since/soften.js b/src/methods/since/soften.js
+deleted file mode 100644
+index 6a8d27d0ad35c114c5ccb393bdd0fb252b4dfc99..0000000000000000000000000000000000000000
+--- a/src/methods/since/soften.js
++++ /dev/null
+@@ -1,70 +0,0 @@
+-//our conceptual 'break-points' for each unit
+-import { unitsString } from "../../data/units.js";
+-import { almostString, overString } from "../../data/distance.js";
+-
+-const qualifiers = {
+-  months: {
+-    almost: 10,
+-    over: 4
+-  },
+-  days: {
+-    almost: 25,
+-    over: 10
+-  },
+-  hours: {
+-    almost: 20,
+-    over: 8
+-  },
+-  minutes: {
+-    almost: 50,
+-    over: 20
+-  },
+-  seconds: {
+-    almost: 50,
+-    over: 20
+-  }
+-}
+-
+-// Expects a plural unit arg
+-function pluralize(value, unit) {
+-  if (value === 1) {
+-    return value + ' ' + unitsString(unit.slice(0, -1))
+-  }
+-  return value + ' ' + unitsString(unit)
+-}
+-
+-const toSoft = function (diff) {
+-  let rounded = null
+-  let qualified = null
+-  let abbreviated = []
+-  let englishValues = []
+-  //go through each value and create its text-representation
+-  Object.keys(diff).forEach((unit, i, units) => {
+-    const value = Math.abs(diff[unit])
+-    if (value === 0) {
+-      return
+-    }
+-    abbreviated.push(value + unit[0])
+-    const englishValue = pluralize(value, unit)
+-    englishValues.push(englishValue)
+-    if (!rounded) {
+-      rounded = englishValue
+-      qualified = englishValue
+-      if (i > 4) {
+-        return
+-      }
+-      //is it a 'almost' something, etc?
+-      const nextUnit = units[i + 1]
+-      const nextValue = Math.abs(diff[nextUnit])
+-      if (nextValue > qualifiers[nextUnit].almost) {
+-        rounded = pluralize(value + 1, unit)
+-        qualified = almostString() + ' ' + rounded
+-      } else if (nextValue > qualifiers[nextUnit].over) {
+-        qualified = overString() + ' ' + englishValue
+-      }
+-    }
+-  })
+-
+-  return { qualified, rounded, abbreviated, englishValues }
+-}
+-export default toSoft
+diff --git a/src/methods/startOf.js b/src/methods/startOf.js
+index f94b3a8201f58b10ebcb5d0baeaf247437593fc4..e6c7eea62e3108eb0c123fb666417db3125cde28 100644
+--- a/src/methods/startOf.js
++++ b/src/methods/startOf.js
+@@ -1,5 +1,3 @@
+-import seasons from '../data/seasons.js'
+-import quarters from '../data/quarters.js'
+ import walkTo from './set/walk.js'
+ import { normalize } from '../fns.js'
+ 
+@@ -17,23 +15,6 @@ const units = {
+     })
+     return s
+   },
+-  quarterhour: (s) => {
+-    let minute = s.minutes()
+-    if (minute >= 45) {
+-      s = s.minutes(45)
+-    } else if (minute >= 30) {
+-      s = s.minutes(30)
+-    } else if (minute >= 15) {
+-      s = s.minutes(15)
+-    } else {
+-      s = s.minutes(0)
+-    }
+-    walkTo(s, {
+-      second: 0,
+-      millisecond: 0
+-    })
+-    return s
+-  },
+   hour: (s) => {
+     walkTo(s, {
+       minute: 0,
+@@ -53,7 +34,7 @@ const units = {
+   },
+   week: (s) => {
+     let original = s.clone()
+-    s = s.day(s._weekStart) //monday
++    s = s.day(1) //monday
+     if (s.isAfter(original)) {
+       s = s.subtract(1, 'week')
+     }
+@@ -75,47 +56,6 @@ const units = {
+     })
+     return s
+   },
+-  quarter: (s) => {
+-    let q = s.quarter()
+-    if (quarters[q]) {
+-      walkTo(s, {
+-        month: quarters[q][0],
+-        date: quarters[q][1],
+-        hour: 0,
+-        minute: 0,
+-        second: 0,
+-        millisecond: 0
+-      })
+-    }
+-    return s
+-  },
+-  season: (s) => {
+-    let current = s.season()
+-    let hem = 'north'
+-    if (s.hemisphere() === 'South') {
+-      hem = 'south'
+-    }
+-    for (let i = 0; i < seasons[hem].length; i++) {
+-      if (seasons[hem][i][0] === current) {
+-        //winter goes between years
+-        let year = s.year()
+-        if (current === 'winter' && s.month() < 3) {
+-          year -= 1
+-        }
+-        walkTo(s, {
+-          year,
+-          month: seasons[hem][i][1],
+-          date: seasons[hem][i][2],
+-          hour: 0,
+-          minute: 0,
+-          second: 0,
+-          millisecond: 0
+-        })
+-        return s
+-      }
+-    }
+-    return s
+-  },
+   year: (s) => {
+     walkTo(s, {
+       month: 0,
+@@ -126,21 +66,6 @@ const units = {
+       millisecond: 0
+     })
+     return s
+-  },
+-  decade: (s) => {
+-    s = s.startOf('year')
+-    let year = s.year()
+-    let decade = parseInt(year / 10, 10) * 10
+-    s = s.year(decade)
+-    return s
+-  },
+-  century: (s) => {
+-    s = s.startOf('year')
+-    let year = s.year()
+-    // near 0AD goes '-1 | +1'
+-    let decade = parseInt(year / 100, 10) * 100
+-    s = s.year(decade)
+-    return s
+   }
+ }
+ units.date = units.day
+@@ -151,10 +76,6 @@ const startOf = (a, unit) => {
+   if (units[unit]) {
+     return units[unit](s)
+   }
+-  if (unit === 'summer' || unit === 'winter') {
+-    s = s.season(unit)
+-    return units.season(s)
+-  }
+   return s
+ }
+ 
+diff --git a/src/methods.js b/src/methods.js
+index 35938e8145089c82663dd0ae90b25e403344267e..5d479091ecdb7e0043f32da6439f4abefab0b5cb 100644
+--- a/src/methods.js
++++ b/src/methods.js
+@@ -1,20 +1,13 @@
+ /* eslint-disable no-console */
+ import format from './methods/format/index.js'
+ import unixFmt from './methods/format/unixFmt.js'
+-import progress from './methods/progress.js'
+-import nearest from './methods/nearest.js'
+ import diff from './methods/diff/index.js'
+-import since from './methods/since/index.js'
+ import { startOf as _startOf, endOf as _endOf } from './methods/startOf.js'
+-import every from './methods/every.js'
+ import timezone from './timezone/index.js'
+ import findTz from './timezone/find.js'
+ import handleInput from './input/index.js'
+ import { isLeapYear } from './fns.js'
+-import { short, long } from './data/days.js'
+ const units = [
+-  'century',
+-  'decade',
+   'year',
+   'month',
+   'date',
+@@ -36,7 +29,7 @@ const methods = {
+     return s
+   },
+   timezone: function (tz) {
+-    // hot-swap the timezone, to avoid time-change 
++    // hot-swap the timezone, to avoid time-change
+     if (tz !== undefined) {
+       let json = this.json()
+       json.timezone = tz
+@@ -44,17 +37,8 @@ const methods = {
+     }
+     return timezone(this)
+   },
+-  isDST: function () {
+-    return timezone(this).current.isDST
+-  },
+-  hasDST: function () {
+-    return timezone(this).hasDst
+-  },
+   offset: function () {
+-    return timezone(this).current.offset * 60
+-  },
+-  hemisphere: function () {
+-    return timezone(this).hemisphere
++    return timezone(this).offset * 60
+   },
+   format: function (fmt) {
+     return format(this, fmt)
+@@ -72,30 +56,9 @@ const methods = {
+     let year = this.year()
+     return isLeapYear(year)
+   },
+-  progress: function (unit) {
+-    return progress(this, unit)
+-  },
+-  nearest: function (unit) {
+-    return nearest(this, unit)
+-  },
+   diff: function (d, unit) {
+     return diff(this, d, unit)
+   },
+-  since: function (d) {
+-    if (!d) {
+-      d = this.clone().set()
+-    }
+-    return since(this, d)
+-  },
+-  next: function (unit) {
+-    let s = this.add(1, unit)
+-    return s.startOf(unit)
+-  },
+-  //the start of the previous year/week/century
+-  last: function (unit) {
+-    let s = this.subtract(1, unit)
+-    return s.startOf(unit)
+-  },
+   isValid: function () {
+     //null/undefined epochs
+     if (!this.epoch && this.epoch !== 0) {
+@@ -109,67 +72,15 @@ const methods = {
+     s.tz = findTz(tz, s.timezones) //science!
+     return s
+   },
+-  //get each week/month/day between a -> b
+-  every: function (unit, to, stepCount) {
+-    // allow swapping these params:
+-    if (typeof unit === 'object' && typeof to === 'string') {
+-      let tmp = to
+-      to = unit
+-      unit = tmp
+-    }
+-    return every(this, unit, to, stepCount)
+-  },
+-  isAwake: function () {
+-    let hour = this.hour()
+-    //10pm -> 8am
+-    if (hour < 8 || hour > 22) {
+-      return false
+-    }
+-    return true
+-  },
+-  isAsleep: function () {
+-    return !this.isAwake()
+-  },
+   daysInMonth: function () {
+-    switch (this.month()) {
+-      case 0:
+-        return 31
+-      case 1:
+-        return this.leapYear() ? 29 : 28
+-      case 2:
+-        return 31
+-      case 3:
+-        return 30
+-      case 4:
+-        return 31
+-      case 5:
+-        return 30
+-      case 6:
+-        return 31
+-      case 7:
+-        return 31
+-      case 8:
+-        return 30
+-      case 9:
+-        return 31
+-      case 10:
+-        return 30
+-      case 11:
+-        return 31
+-      default:
+-        throw new Error('Invalid Month state.')
++    const month = this.month() + 1
++    if (month === 2) {
++      return this.leapYear() ? 29 : 28
+     }
+-  },
+-  //pretty-printing
+-  log: function () {
+-    console.log('')
+-    console.log(format(this, 'nice-short'))
+-    return this
+-  },
+-  logYear: function () {
+-    console.log('')
+-    console.log(format(this, 'full-short'))
+-    return this
++    if (month === 4 || month === 6 || month === 9 || month === 11) {
++      return 30
++    }
++    return 31
+   },
+   json: function (input) {
+     // setter for json input
+@@ -191,51 +102,17 @@ const methods = {
+       h[unit] = this[unit]()
+       return h
+     }, {})
+-    obj.offset = this.timezone().current.offset
++    obj.offset = this.timezone().offset
+     obj.timezone = this.tz
+     return obj
+   },
+   debug: function () {
+     let tz = this.timezone()
+-    let date = this.format('MM') + ' ' + this.format('date-ordinal') + ' ' + this.year()
++    let date = this.format('MM') + ' ' + this.format('date') + ' ' + this.year()
+     date += '\n     - ' + this.format('time')
+-    console.log('\n\n', date + '\n     - ' + tz.name + ' (' + tz.current.offset + ')')
++    console.log('\n\n', date + '\n     - ' + tz.name + ' (' + tz.offset + ')')
+     return this
+   },
+-  //alias of 'since' but opposite - like moment.js
+-  from: function (d) {
+-    d = this.clone().set(d)
+-    return d.since(this)
+-  },
+-  fromNow: function () {
+-    let d = this.clone().set(Date.now())
+-    return d.since(this)
+-  },
+-  weekStart: function (input) {
+-    //accept a number directly
+-    if (typeof input === 'number') {
+-      this._weekStart = input
+-      return this
+-    }
+-    if (typeof input === 'string') {
+-      // accept 'wednesday'
+-      input = input.toLowerCase().trim()
+-      let num = short().indexOf(input)
+-      if (num === -1) {
+-        num = long().indexOf(input)
+-      }
+-      if (num === -1) {
+-        num = 1 //go back to default
+-      }
+-      this._weekStart = num
+-    } else {
+-      console.warn('Spacetime Error: Cannot understand .weekStart() input:', input)
+-    }
+-    return this
+-  }
+ }
+ // aliases
+-methods.inDST = methods.isDST
+-methods.round = methods.nearest
+-methods.each = methods.every
+ export default methods
+diff --git a/src/spacetime.js b/src/spacetime.js
+index 93156131a40bc41d6516d9cfa3cb79bbe31ec619..fd95ceb4a3161bf66aaef60e022856e801f886c8 100644
+--- a/src/spacetime.js
++++ b/src/spacetime.js
+@@ -7,7 +7,6 @@ import queryFns from './methods/query/index.js'
+ import addFns from './methods/add.js'
+ import sameFns from './methods/same.js'
+ import compareFns from './methods/compare.js'
+-import i18nFns from './methods/i18n.js'
+ 
+ let timezones = zones
+ // fake timezone-support, for fakers (es5 class)
+@@ -21,22 +20,11 @@ const SpaceTime = function (input, tz, options = {}) {
+   // favour british interpretation of 02/02/2018, etc
+   this.british = options.dmy || options.british
+ 
+-  // does the week start on sunday, or monday:
+-  this._weekStart = 1 // default to monday
+-  if (options.weekStart !== undefined) {
+-    this._weekStart = options.weekStart
+-  }
+   // the reference today date object, (for testing)
+   this._today = {}
+   if (options.today !== undefined) {
+     this._today = options.today
+   }
+-  // dunno if this is a good idea, or not
+-  // Object.defineProperty(this, 'parsers', {
+-  //   enumerable: false,
+-  //   writable: true,
+-  //   value: parsers
+-  // })
+   // add getter/setters
+   Object.defineProperty(this, 'd', {
+     // return a js date object
+@@ -78,20 +66,10 @@ Object.keys(methods).forEach((k) => {
+ SpaceTime.prototype.clone = function () {
+   return new SpaceTime(this.epoch, this.tz, {
+     silent: this.silent,
+-    weekStart: this._weekStart,
+     today: this._today,
+-    parsers: this.parsers
+   })
+ }
+ 
+-/**
+- * @deprecated use toNativeDate()
+- * @returns native date object at the same epoch
+- */
+-SpaceTime.prototype.toLocalDate = function () {
+-  return this.toNativeDate()
+-}
+-
+ /**
+  * @returns native date object at the same epoch
+  */
+@@ -104,6 +82,5 @@ queryFns(SpaceTime)
+ addFns(SpaceTime)
+ sameFns(SpaceTime)
+ compareFns(SpaceTime)
+-i18nFns(SpaceTime)
+ 
+ export default SpaceTime
 diff --git a/src/timezone/find.js b/src/timezone/find.js
-index ecc8567713c6a58a51e0b8ee739222572390eae1..7a2900f6ed22dde159904d84f619db7b106fc513 100644
+index ecc8567713c6a58a51e0b8ee739222572390eae1..5a9b0c164c41d1ff7d03a0041ced8c08e3ef1b2e 100644
 --- a/src/timezone/find.js
 +++ b/src/timezone/find.js
 @@ -1,64 +1,22 @@
@@ -115,15 +2062,29 @@ index ecc8567713c6a58a51e0b8ee739222572390eae1..7a2900f6ed22dde159904d84f619db7b
  
    throw new Error(
 -    "Spacetime: Cannot find timezone named: '" + str + "'. Please enter an IANA timezone id."
-+    "Spacetime (modified): only UTC timezones and offsets are supported"
++    "Spacetime (modified): only GMT/UTC timezones and offsets are supported"
    )
  }
  export default lookupTz
 diff --git a/src/timezone/index.js b/src/timezone/index.js
-index e52b040638ece74a916e2949b0679db78a0a1771..39c498f954b98adb2f67994b2081405b0c4434f3 100644
+index e52b040638ece74a916e2949b0679db78a0a1771..884108253bfabcf15c64ceadb70d1b13adf5613e 100644
 --- a/src/timezone/index.js
 +++ b/src/timezone/index.js
-@@ -15,11 +15,7 @@ const titleCase = str => {
+@@ -1,13 +1,5 @@
+ /* eslint-disable no-console */
+ import findTz from './find.js'
+-import inSummerTime from './summerTime.js'
+-
+-const parseDst = dst => {
+-  if (!dst) {
+-    return []
+-  }
+-  return dst.split('->')
+-}
+ 
+ //iana codes are case-sensitive, technically
+ const titleCase = str => {
+@@ -15,11 +7,7 @@ const titleCase = str => {
    str = str.replace(/[/_-]([a-z])/gi, s => {
      return s.toUpperCase()
    })
@@ -136,6 +2097,67 @@ index e52b040638ece74a916e2949b0679db78a0a1771..39c498f954b98adb2f67994b2081405b
    if (str === 'Utc') {
      str = 'UTC'
    }
+@@ -35,57 +23,16 @@ const timezone = s => {
+   }
+   if (tz === null) {
+     if (s.silent === false) {
+-      console.warn("Warn: could not find given or local timezone - '" + s.tz + "'")
+-    }
+-    return {
+-      current: {
+-        epochShift: 0
+-      }
++      console.warn(`Warn: could not find given or local timezone - '${s.tz}'`)
+     }
++    return { offset: 0 }
+   }
+   let found = zones[tz]
+   let result = {
+     name: titleCase(tz),
+-    hasDst: Boolean(found.dst),
+-    default_offset: found.offset,
+-    //do north-hemisphere version as default (sorry!)
+-    hemisphere: found.hem === 's' ? 'South' : 'North',
+-    current: {}
+-  }
+-
+-  if (result.hasDst) {
+-    let arr = parseDst(found.dst)
+-    result.change = {
+-      start: arr[0],
+-      back: arr[1]
+-    }
+-  }
+-  //find the offsets for summer/winter times
+-  //(these variable names are north-centric)
+-  let summer = found.offset // (july)
+-  let winter = summer // (january) assume it's the same for now
+-  if (result.hasDst === true) {
+-    if (result.hemisphere === 'North') {
+-      winter = summer - 1
+-    } else {
+-      //southern hemisphere
+-      winter = found.offset + 1
+-    }
++    offset: found.offset,
+   }
+ 
+-  //find out which offset to use right now
+-  //use 'summer' time july-time
+-  if (result.hasDst === false) {
+-    result.current.offset = summer
+-    result.current.isDST = false
+-  } else if (inSummerTime(s.epoch, result.change.start, result.change.back, summer, winter) === true) {
+-    result.current.offset = summer
+-    result.current.isDST = result.hemisphere === 'North' //dst 'on' in winter in north
+-  } else {
+-    //use 'winter' january-time
+-    result.current.offset = winter
+-    result.current.isDST = result.hemisphere === 'South' //dst 'on' in summer in south
+-  }
+   return result
+ }
+ export default timezone
 diff --git a/src/timezone/parseOffset.js b/src/timezone/parseOffset.js
 index 41717614da57e7515db3ec8cb3de6ee45010e846..de02c5aba33770784739b3ce19560ce179f47e10 100644
 --- a/src/timezone/parseOffset.js
@@ -150,23 +2172,282 @@ index 41717614da57e7515db3ec8cb3de6ee45010e846..de02c5aba33770784739b3ce19560ce1
    }
    return null
  }
+diff --git a/src/timezone/quick.js b/src/timezone/quick.js
+index 55ed69ce77162d579dcf43608f6887c8fb511c7d..27a7a6341b8ed3d1fb6d3a067d119b2bb07933d0 100644
+--- a/src/timezone/quick.js
++++ b/src/timezone/quick.js
+@@ -1,5 +1,4 @@
+ /* eslint-disable no-console */
+-import isSummer from './summerTime.js'
+ 
+ // this method avoids having to do a full dst-calculation on every operation
+ // it reproduces some things in ./index.js, but speeds up spacetime considerably
+@@ -10,21 +9,6 @@ const quickOffset = s => {
+     console.warn("Warning: couldn't find timezone " + s.tz)
+     return 0
+   }
+-  if (obj.dst === undefined) {
+-    return obj.offset
+-  }
+-
+-  //get our two possible offsets
+-  let jul = obj.offset
+-  let dec = obj.offset + 1 // assume it's the same for now
+-  if (obj.hem === 'n') {
+-    dec = jul - 1
+-  }
+-  let split = obj.dst.split('->')
+-  let inSummer = isSummer(s.epoch, split[0], split[1], jul, dec)
+-  if (inSummer === true) {
+-    return jul
+-  }
+-  return dec
++  return obj.offset
+ }
+ export default quickOffset
+diff --git a/src/timezone/summerTime.js b/src/timezone/summerTime.js
+deleted file mode 100644
+index 6484afea6ebc6ee7ce4b8dec87691081fbc02dc8..0000000000000000000000000000000000000000
+--- a/src/timezone/summerTime.js
++++ /dev/null
+@@ -1,19 +0,0 @@
+-const MSEC_IN_HOUR = 60 * 60 * 1000
+-
+-//convert our local date syntax a javascript UTC date
+-const toUtc = (dstChange, offset, year) => {
+-  const [month, rest] = dstChange.split('/')
+-  const [day, hour] = rest.split(':')
+-  return Date.UTC(year, month - 1, day, hour) - (offset * MSEC_IN_HOUR)
+-}
+-
+-// compare epoch with dst change events (in utc)
+-const inSummerTime = (epoch, start, end, summerOffset, winterOffset) => {
+-  const year = new Date(epoch).getUTCFullYear()
+-  const startUtc = toUtc(start, winterOffset, year)
+-  const endUtc = toUtc(end, summerOffset, year)
+-  // simple number comparison now
+-  return epoch >= startUtc && epoch < endUtc
+-}
+-
+-export default inSummerTime
+diff --git a/src/whereIts.js b/src/whereIts.js
+deleted file mode 100644
+index 26a334f0d9fcf8301daffb675d13d0f3c9a81799..0000000000000000000000000000000000000000
+--- a/src/whereIts.js
++++ /dev/null
+@@ -1,38 +0,0 @@
+-import Spacetime from './spacetime.js'
+-// const timezones = require('../data');
+-
+-const whereIts = (a, b) => {
+-  let start = new Spacetime(null)
+-  let end = new Spacetime(null)
+-  start = start.time(a)
+-  //if b is undefined, use as 'within one hour'
+-  if (b) {
+-    end = end.time(b)
+-  } else {
+-    end = start.add(59, 'minutes')
+-  }
+-
+-  let startHour = start.hour()
+-  let endHour = end.hour()
+-  let tzs = Object.keys(start.timezones).filter((tz) => {
+-    if (tz.indexOf('/') === -1) {
+-      return false
+-    }
+-    let m = new Spacetime(null, tz)
+-    let hour = m.hour()
+-    //do 'calendar-compare' not real-time-compare
+-    if (hour >= startHour && hour <= endHour) {
+-      //test minutes too, if applicable
+-      if (hour === startHour && m.minute() < start.minute()) {
+-        return false
+-      }
+-      if (hour === endHour && m.minute() > end.minute()) {
+-        return false
+-      }
+-      return true
+-    }
+-    return false
+-  })
+-  return tzs
+-}
+-export default whereIts
 diff --git a/types/constraints.d.ts b/types/constraints.d.ts
-index a5add15d0adee32badbac116b191c051595b8c12..eb6ac1f8e512693eaf883445f3eeb286602bf19e 100644
+index a5add15d0adee32badbac116b191c051595b8c12..3a8fad96791ab88a621b205d75546a49a35a63a2 100644
 --- a/types/constraints.d.ts
 +++ b/types/constraints.d.ts
-@@ -74,7 +74,6 @@ export type Format =
+@@ -2,45 +2,32 @@ export type TimeUnit =
+   | 'millisecond'
+   | 'second'
+   | 'minute'
+-  | 'quarterHour'
+   | 'hour'
+   | 'day'
+   | 'week'
+   | 'month'
+-  | 'quarter'
+-  | 'season'
+   | 'year'
+-  | 'decade'
+-  | 'century'
+   | 'date'
+   | 'milliseconds' //plural forms
+   | 'seconds'
+   | 'minutes'
+-  | 'quarterHours'
+   | 'hours'
+   | 'days'
+   | 'weeks'
+   | 'months'
+-  | 'quarters'
+-  | 'seasons'
+   | 'years'
+-  | 'decades'
+-  | 'centuries'
+   | 'dates'
+ 
+ export type Format =
+   | 'day'
+   | 'day-short'
+   | 'day-number'
+-  | 'day-ordinal'
+   | 'day-pad'
+   | 'date'
+-  | 'date-ordinal'
+   | 'date-pad'
+   | 'month'
+   | 'month-short'
+   | 'month-number'
+-  | 'month-ordinal'
+   | 'month-pad'
+   | 'year'
+   | 'year-short'
+@@ -56,9 +43,6 @@ export type Format =
+   | 'second-pad'
+   | 'millisecond'
+   | 'ampm'
+-  | 'quarter'
+-  | 'season'
+-  | 'era'
+   | 'timezone'
+   | 'offset'
+   | 'numeric'
+@@ -74,24 +58,3 @@ export type Format =
    | 'nice-year'
    | 'nice-day'
    | 'nice-full'
 -  | string
+-
+-export interface I18nOptions {
+-  /** Alternatives to Monday, Tuesday..*/
+-  days?: {
+-    short: string[]
+-    long: string[]
+-  }
+-  /** Alternatives to Jan, Feb..*/
+-  months?: {
+-    short: string[]
+-    long: string[]
+-  }
+-  /** Alternatives to am, pm*/
+-  ampm?: {
+-    am: string
+-    pm: string
+-  }
+-  /** Default dayname formatting */
+-  useTitleCase?: boolean
+-}
+diff --git a/types/constructors.d.ts b/types/constructors.d.ts
+index 6375cbb59d9d29a08d6c02492df42087a9014981..63e15ca5f0c924e2692bfb9b221a41bb220cf501 100644
+--- a/types/constructors.d.ts
++++ b/types/constructors.d.ts
+@@ -4,9 +4,6 @@ export interface SpacetimeConstructorOptions {
+   /** javascript dates use millisecond-epochs, instead of second-epochs, like some other languages. This is a common bug, and by default spacetime warns if you set an epoch within January 1970. to disable set to true */
+   silent?: boolean
  
- export interface I18nOptions {
-   /** Alternatives to Monday, Tuesday..*/
+-  /** the day number, between 0-6, that the week starts on. (Sunday is 0) */
+-  weekStart?: number
+-
+   /** pass true to change parsing behaviour to dd/mm/yyyy. By default American interpretation will be used. */
+   dmy?: boolean
+ }
+@@ -74,15 +71,9 @@ export interface SpacetimeStatic extends SpacetimeConstructor {
+   /** set as yesterday morning */
+   yesterday: (timezone?: string, options?: SpacetimeConstructorOptions) => Spacetime
+ 
+-  /** Extend Spacetime with a custom function/object.  */
+-  extend: (extension: { [key: string]: any } | {}) => SpacetimeStatic
+-
+   /** get a list of current timezones and their offsets  */
+   timezones: () => TimezoneSet
+ 
+-  /** list timezones by their time */
+-  whereIts: (a: string, b?: string) => string[]
+-
+   /** set as earliest-possible date */
+   min: (timezone?: string, options?: SpacetimeConstructorOptions) => Spacetime
+ 
+diff --git a/types/index.d.ts b/types/index.d.ts
+index 401a0b5af1fe6d772f68b93cd33cbe7c990b0a6f..888b464207233ebe6b195e27e7100710e29a5fec 100644
+--- a/types/index.d.ts
++++ b/types/index.d.ts
+@@ -7,5 +7,5 @@ export default spacetime
+ 
+ 
+ export { SpacetimeConstructor, SpacetimeConstructorOptions, SpacetimeStatic } from './constructors.js'
+-export { Format, I18nOptions, TimeUnit } from './constraints.js'
+-export { Spacetime, Diff, ParsableDate, Progress, Since, TimezoneMeta, TimezoneSet } from './types.js'
++export { Format, TimeUnit } from './constraints.js'
++export { Spacetime, Diff, ParsableDate, Since, TimezoneMeta, TimezoneSet } from './types.js'
 diff --git a/types/types.d.ts b/types/types.d.ts
-index b0b1f829b4e3f660137e512ae8dff9438d064e1c..f376a02188ee4f8ccf553f7971a3c395d203c0ac 100644
+index b0b1f829b4e3f660137e512ae8dff9438d064e1c..d1df690978a13b18bb956953af2a0e10f7a55e79 100644
 --- a/types/types.d.ts
 +++ b/types/types.d.ts
-@@ -40,7 +40,10 @@ export interface Spacetime {
+@@ -1,23 +1,17 @@
+-import type { TimeUnit, Format, I18nOptions } from './constraints.js'
++import type { TimeUnit, Format } from './constraints.js'
+ 
+ /** a date/timezone object */
+ export interface Spacetime {
+-  /**
+-   * @deprecated use toNativeDate. This is an implementation detail that was not intended for external use
+-   * @returns the date as a native date object
+-   */
+-  d: Date
+-
+-  /** @returns epoch in milliseconds */
++  /** epoch in milliseconds */
+   epoch: number
+ 
+-  /** @returns whether warnings are enabled */
++  /** whether warnings are enabled */
+   silent: boolean
+ 
+-  /** @returns the timezone tz database name, eg, 'america/denver'  */
++  /** the timezone tz database name, eg, 'america/denver'  */
+   tz: string
+ 
+-  /** @returns the tz database nameset  */
++  /** the tz database nameset  */
+   timezones: TimezoneSet
+ 
+   /** move to a new timezone, but at this same moment. Accepts an IANA code or abbreviation */
+@@ -26,12 +20,6 @@ export interface Spacetime {
+   /** @returns a copy of this object, with no references to the original */
+   clone: () => Spacetime
+ 
+-  /**
+-   * @deprecated use toNativeDate()
+-   * @returns the native Date object at the same epoch
+-   */
+-  toLocalDate(): Date
+-
+   /** @returns the native Date object at the same epoch */
+   toNativeDate(): Date
+ 
+@@ -40,7 +28,10 @@ export interface Spacetime {
    /** swap the timezone, but keep the same date-time (if possible) */
    timezone(tz: String): Spacetime
  
@@ -178,11 +2459,228 @@ index b0b1f829b4e3f660137e512ae8dff9438d064e1c..f376a02188ee4f8ccf553f7971a3c395
    format: (format: Format) => string
  
    /** output formatted string using unix formatting code (yyyy.MM.dd h:mm a) */
+@@ -58,29 +49,11 @@ export interface Spacetime {
+   /** decrease the time by a number and unit - like an hour, minute, day, or year */
+   subtract: (value: number, unit: TimeUnit) => Spacetime
+ 
+-  /** go to the beginning of the next unit */
+-  next: (unit: TimeUnit) => Spacetime
+-
+-  /** round to either current, or +1 of this unit */
+-  nearest: (unit: TimeUnit) => Spacetime
+-
+-  /** round to either current, or +1 of this unit */
+-  round: (unit: TimeUnit) => Spacetime
+-
+-  /** list all dates up to a certain time */
+-  every: (unit: Spacetime | string | TimeUnit, end: Spacetime | string | TimeUnit, stepCount: number) => Spacetime[]
+-
+-  /** list all dates up to a certain time */
+-  each: (unit: TimeUnit, end: Spacetime | string) => Spacetime[]
+-
+-  /** go to the beginning of the previous unit */
+-  last: (unit: TimeUnit) => Spacetime
+-
+   /** pass-in a spacetime object or date input and see if it takes-place after your spacetime date/time */
+-  isAfter: (date: Spacetime | Date) => boolean
++  isAfter: (date: Spacetime | Date, isInclusive?: boolean) => boolean
+ 
+   /** pass-in a spacetime object or date input and see if it takes-place before your spacetime date/time */
+-  isBefore: (date: Spacetime | Date) => boolean
++  isBefore: (date: Spacetime | Date, isInclusive?: boolean) => boolean
+ 
+   /** is this date on the exact same millisecond as another */
+   isEqual: (date: Spacetime | Date) => boolean
+@@ -101,74 +74,23 @@ export interface Spacetime {
+   /** given a date, count how many of various units to make the dates equal */
+   diff(value: Spacetime | ParsableDate): Diff
+ 
+-  /** create the human-readable diff between the two dates */
+-  since(value: Spacetime | ParsableDate): Since
+-
+-  /** create the human-readable diff between the two dates */
+-  from(value: Spacetime | ParsableDate): Since
+-
+-  /** create the human-readable diff between now and the given date */
+-  fromNow(value: Spacetime | ParsableDate): Since
+-
+   /** change to a new date */
+   set(date: ParsableDate): Spacetime
+ 
+   /** does this time exist on the gregorian/javascript calendar? */
+   isValid: () => boolean
+ 
+-  /** which decade is it? */
+-  decade(): number
+-  /** set the current decade */
+-  decade(decade: string | number): Spacetime
+-
+-  /** which century is it? */
+-  century(): number
+-  /** set the current century */
+-  century(century: string | number): Spacetime
+-
+-  /** which millenium is it? */
+-  millenium(): number
+-  /** set the current millenium */
+-  millenium(millenium: string | number): Spacetime
+-
+-  /** pretty-print the date to the console, for nicer debugging */
+-  log: () => Spacetime
+-
+-  /** pretty-print the full-date to the console, for nice debugging */
+-  logYear: () => Spacetime
+-
+   /** return all date units as a key-value map */
+-  json: () => object
++  json(): object
+   /** set the date via JSON object */
+   json(obj: object): Spacetime
+ 
+-  /** Between 0-1, how far the moment lands between the start and end of the day/week/month/year. */
+-  progress: (unit?: string) => Progress
+-
+   /** is the current year a leap year? */
+   leapYear: () => boolean
+ 
+-  /** is daylight-savings-time activated right now, for this timezone? */
+-  isDST: () => boolean
+-
+-  /** is daylight-savings-time activated right now, for this timezone? */
+-  inDST: () => boolean
+-
+-  /** does this timezone ever use daylight-savings */
+-  hasDST: () => boolean
+-
+-  /** the current, DST-aware time-difference from UTC, in hours */
++  /** the time-difference from UTC, in hours */
+   offset: () => number
+ 
+-  /** what hemisphere is it?  */
+-  hemisphere: () => string
+-
+-  /** checks if the current time is between 8am and 10pm */
+-  isAwake: () => boolean
+-
+-  /** checks if the current time is between 10pm and 8am */
+-  isAsleep: () => boolean
+-
+   /** get the current number of milliseconds (0-999) */
+   millisecond(): number
+   /** set the current number of milliseconds (0-999) */
+@@ -224,21 +146,6 @@ export interface Spacetime {
+   /** set the week-number of the year (1-52) */
+   week(value: number, goForward?: boolean): Spacetime
+ 
+-  /** get the fiscal-quarter (1-4) */
+-  quarter(): number
+-  /** set the fiscal-quarter (1-4) */
+-  quarter(value: number, goForward?: boolean): Spacetime
+-
+-  /** get the name of the season, spring/summer/fall/autumn/winter */
+-  season(): string
+-  /** set the name of the season, spring/summer/fall/autumn/winter */
+-  season(value: string, goForward?: boolean): Spacetime
+-
+-  /** get the hour + minute in decimal form, so '3:30am' is 3.5 */
+-  hourFloat(): number
+-  /** set the hour + minute in decimal form, so '3:30am' is 3.5 */
+-  hourFloat(value: number, goForward?: boolean): Spacetime
+-
+   /** get the day of the week as an integer, starting on sunday (day-0) */
+   day(): number
+   /** set the day of the week as an integer, starting on sunday (day-0). Also accepts names like 'wednesday', or 'thurs' */
+@@ -249,67 +156,26 @@ export interface Spacetime {
+   /** set the day of the week */
+   dayName(value: string, goForward?: boolean): Spacetime
+ 
+-  /** get the day as an integer 1-365 */
+-  dayOfYear(): string
+-  /** set the day of the year */
+-  dayOfYear(value: number, goForward?: boolean): Spacetime
+-
+   /** get whether the time is am or pm */
+   ampm(): string
+   /** set whether the time is am or pm */
+   ampm(value: string, goForward?: boolean): Spacetime
+ 
+-  /** get the general time-of-day, like 'afternoon' */
+-  dayTime(): string
+-  /** set the general time-of-day, like 'afternoon' */
+-  dayTime(value: string, goForward?: boolean): Spacetime
+-
+   /** get the current month as a string, like 'april' */
+   monthName(): string
+   /** set the current month as a string, like 'april' */
+   monthName(value: string, goForward?: boolean): Spacetime
+ 
+-  /** the day number, between 0-6, that the week starts on. (Sunday is 0).  Also accepts 'sunday' */
+-  weekStart(value: number | string): Spacetime
+-
+   /** returns the amount of days the current month has (December => 31, June => 30, ...) */
+   daysInMonth: () => number
+-
+-  /** format dates using non-english words */
+-  i18n: (newWords: I18nOptions) => Spacetime
+ }
+ 
+ export interface TimezoneMeta {
+-  change?: { start: string; back: string }
+-  current: { offset: number; isDST: boolean }
+-  default_offset: number
++  offset: number
+   display: string
+-  hasDst: boolean
+-  hemisphere: string
+   name: string
+ }
+ 
+-export interface Progress {
+-  /** Progress of value from 0-1 */
+-  day: number
+-  /** Progress of value from 0-1 */
+-  hour: number
+-  /** Progress of value from 0-1 */
+-  minute: number
+-  /** Progress of value from 0-1 */
+-  month: number
+-  /** Progress of value from 0-1 */
+-  quarter: number
+-  /** Progress of value from 0-1 */
+-  quarterHour: number
+-  /** Progress of value from 0-1 */
+-  season: number
+-  /** Progress of value from 0-1 */
+-  week: number
+-  /** Progress of value from 0-1 */
+-  year: number
+-}
+-
+ export interface Diff {
+   days: number
+   hours: number
+@@ -319,7 +185,6 @@ export interface Diff {
+   seconds: number
+   weeks: number
+   years: number
+-  quarters: number
+ }
+ 
+ export interface Since {
+@@ -336,8 +201,6 @@ export interface Since {
+ export interface TimezoneSet {
+   [key: string]: {
+     offset: number
+-    hem: string
+-    dst?: string
+   }
+ }
+ 
 diff --git a/zonefile/unpack.js b/zonefile/unpack.js
-index 4e2575371a06ee583ce11b0e779cc5fcbae0fbce..89df96cbd75be262a013900d4e79366195d07c11 100644
+index 4e2575371a06ee583ce11b0e779cc5fcbae0fbce..0253777275e7a3e14ddb000c8675cec70477ecf3 100644
 --- a/zonefile/unpack.js
 +++ b/zonefile/unpack.js
-@@ -1,47 +1,23 @@
+@@ -1,46 +1,20 @@
 -import data from './_build.js'
 -import prefixes from './_prefixes.js'
 -
@@ -210,7 +2708,6 @@ index 4e2575371a06ee583ce11b0e779cc5fcbae0fbce..89df96cbd75be262a013900d4e793661
 +const utc = {
    offset: 0,
 -  hem: 'n' //default to northern hemisphere - (sorry!)
-+  hem: 'n'
 +}
 +const all = {
 +  utc,
@@ -228,13 +2725,12 @@ index 4e2575371a06ee583ce11b0e779cc5fcbae0fbce..89df96cbd75be262a013900d4e793661
 +  let name = 'gmt' + num
    all[name] = {
      offset: i * -1, //they're negative!
-     hem: 'n' //(sorry)
-   }
+-    hem: 'n' //(sorry)
+-  }
 -  name = 'utc/gmt' + num //this one too, why not.
 -  all[name] = {
 -    offset: i * -1,
 -    hem: 'n'
--  }
+   }
  }
  
- export default all

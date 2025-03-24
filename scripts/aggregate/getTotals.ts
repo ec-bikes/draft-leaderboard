@@ -14,7 +14,7 @@ export function getRiderTotal(
   const { results, sanctions = 0 } = rider;
   const totalPoints = results.reduce(
     (total, result) =>
-      !endDate || parseDate(result.date).epoch <= endDate.epoch ? total + result.points : total,
+      !endDate || parseDate(result.date).isBefore(endDate, true) ? total + result.points : total,
     0,
   );
 

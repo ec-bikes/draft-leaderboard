@@ -1,9 +1,15 @@
 // based on https://github.com/Nfinished/chartjs-adapter-spacetime/blob/main/src/index.ts
 // with en-gb style formatting
 
-import { _adapters } from 'chart.js';
+import { _adapters, type TimeUnit } from 'chart.js';
 import type { Diff, ParsableDate } from 'spacetime';
 import { formatDate, FORMATS, parseDate, type KnownFormatNames } from '../../common/dates.js';
+
+function verifySupportedUnit(unit: string): asserts unit is Exclude<TimeUnit, 'quarter'> {
+  if (unit === 'isoWeek' || unit === 'quarter') {
+    throw new Error(`Unit "${unit}" is not supported`);
+  }
+}
 
 _adapters._date.override({
   formats: () => FORMATS,
@@ -28,6 +34,7 @@ _adapters._date.override({
   },
 
   add: (time, amount, unit) => {
+    verifySupportedUnit(unit);
     return parseDate(time).add(amount, unit).epoch;
   },
 
@@ -36,13 +43,12 @@ _adapters._date.override({
   },
 
   startOf: (time, unit) => {
-    if (unit === 'isoWeek') {
-      throw new Error('isoWeek is not supported');
-    }
+    verifySupportedUnit(unit);
     return parseDate(time).startOf(unit).epoch;
   },
 
   endOf: (time, unit) => {
+    verifySupportedUnit(unit);
     return parseDate(time).endOf(unit).epoch;
   },
 });

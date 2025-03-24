@@ -48,7 +48,7 @@ export function updateHistory(params: { fileDate: SafeDate; group: Group; teams:
   let comparisonIndex = 0; // use first date if less than a week of data
   for (let i = history.dates.length - 1; i >= 0; i--) {
     const date = parseDate(history.dates[i]);
-    if (date.epoch <= weekAgo.epoch) {
+    if (date.isBefore(weekAgo, true)) {
       comparisonIndex = i;
       break;
     }
