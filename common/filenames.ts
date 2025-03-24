@@ -1,4 +1,4 @@
-import { formatNumericDate } from './formatDate.js';
+import { formatDate, type SafeDate } from './dates.js';
 import type { Group } from './types/Group.js';
 
 /** Matches a dated summary file basename. Group 1 is the date YYYY-MM-DD. */
@@ -17,14 +17,14 @@ function getBasePath({ group, year }: FileParams) {
 export function getSummaryFilePath(
   params: FileParams & {
     /** If provided, returns a dated summary file path under `/previous/`. */
-    summaryDate?: Date;
+    summaryDate?: SafeDate;
   },
 ) {
   const { summaryDate } = params;
   const base = getBasePath(params);
   return summaryDate
     ? // Should match datedSummaryFileRegex
-      (`${base}/previous/summary-${formatNumericDate(summaryDate)}.json` as const)
+      (`${base}/previous/summary-${formatDate(summaryDate, 'isoDate')}.json` as const)
     : (`${base}/summary.json` as const);
 }
 

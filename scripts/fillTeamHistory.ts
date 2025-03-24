@@ -8,7 +8,7 @@ import type { Group, PointsHistory, TeamDetailsJson } from '../common/types/inde
 import { readJson } from './utils/readJson.js';
 import { writeJson } from './utils/writeJson.js';
 import { getRiderTotal, getTeamTotal } from './aggregate/getTotals.js';
-import { utcDateFromString } from '../common/formatDate.js';
+import { parseDate } from '../common/dates.js';
 
 const owner = 'Discord Undrafted';
 const group: Group = 'men';
@@ -28,7 +28,7 @@ const history: PointsHistory = readJson(historyFile);
 
 // Get the result totals as of each date (inefficient loops but small n)
 const totals = history.dates.map((dateStr) => {
-  const endDate = utcDateFromString(dateStr);
+  const endDate = parseDate(dateStr);
   const riderTotals = riders.map((rider) => ({ totalPoints: getRiderTotal(rider, endDate) }));
   return getTeamTotal(riderTotals);
 });

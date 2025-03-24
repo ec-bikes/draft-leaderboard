@@ -44,15 +44,19 @@ export default tseslint.config([
       'react-refresh/only-export-components': ['warn', { allowConstantExport: true }],
       '@typescript-eslint/no-explicit-any': 'off',
       '@typescript-eslint/no-unused-vars': 'off',
+      '@typescript-eslint/no-restricted-types': [
+        'error',
+        {
+          types: {
+            Date: { message: 'Use date utils from dates.ts', suggest: ['SafeDate'] },
+          },
+        },
+      ],
       'no-restricted-syntax': [
         'error',
         {
-          selector: 'NewExpression[callee.name="Date"][arguments.length>0]',
-          message: 'Use utcDateFromString()',
-        },
-        {
-          selector: 'CallExpression[callee.property.name=/^(get|set)(Date|Day|FullYear|Month)$/]',
-          message: 'Use UTC versions of Date methods',
+          selector: 'NewExpression[callee.name="Date"]',
+          message: 'Use parseDate() or other helpers from dates.ts',
         },
       ],
     },

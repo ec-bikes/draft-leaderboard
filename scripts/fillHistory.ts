@@ -14,7 +14,7 @@ import { importDraftFile } from '../data/importDraftFile.js';
 import { readJson } from './utils/readJson.js';
 import { updateHistory } from './aggregate/updateHistory.js';
 import { writeJson } from './utils/writeJson.js';
-import { utcDateFromString } from '../common/formatDate.js';
+import { parseDate, today } from '../common/dates.js';
 import { round2 } from './aggregate/getTotals.js';
 
 const group: Group = 'men';
@@ -27,7 +27,7 @@ const history: PointsHistory = {
 
 // Read the previous summary files
 // (summaryDate needs to be a real date, but the value doesn't matter)
-const summaryDir = path.dirname(getSummaryFilePath({ group, year, summaryDate: new Date() }));
+const summaryDir = path.dirname(getSummaryFilePath({ group, year, summaryDate: today() }));
 const previousFiles = fs
   .readdirSync(summaryDir)
   .sort()
@@ -54,7 +54,7 @@ writeJson(historyPath, history);
 
 // Call the update method to fill in "movement"
 // (will also rewrite the history file, but that's fine)
-updateHistory({ group, teams: summary.teams, fileDate: utcDateFromString(summaryDate) });
+updateHistory({ group, teams: summary.teams, fileDate: parseDate(summaryDate) });
 
 // Write the summary files
 writeJson(summaryPath, summary);

@@ -20,7 +20,7 @@ import { updateHistory } from './aggregate/updateHistory.js';
 import { writeJson } from './utils/writeJson.js';
 import { logError } from './log.js';
 import { getUciMoment } from './uci/index.js';
-import { formatDateTime } from '../common/formatDate.js';
+import { formatDate, now, type SafeDate } from '../common/dates.js';
 
 const year = years[0];
 const drafts = {
@@ -91,9 +91,9 @@ const source = 'pcs' satisfies Source as Source;
 
 async function getMetadata(group: Group): Promise<{
   metadata: TeamJsonMetadata;
-  fileDate: Date;
+  fileDate: SafeDate;
 }> {
-  const fetchedDate = new Date();
+  const fetchedDate = now();
 
   // Get the momentId value (which is slightly different between men and women) and ranking date.
   // The momentId needs to be saved even if we're not using UCI data to be able to make accurate
@@ -108,7 +108,7 @@ async function getMetadata(group: Group): Promise<{
     source,
     schemaVersion,
     // Get the fetch date with hour and minute in UTC time
-    fetchedDate: formatDateTime(fetchedDate),
+    fetchedDate: formatDate(fetchedDate, 'datetime'),
     momentId: uciMoment.momentId,
   };
 
@@ -116,7 +116,7 @@ async function getMetadata(group: Group): Promise<{
   let fileDate = fetchedDate;
   if (source === 'uci') {
     fileDate = uciMoment.rankingDate;
-    metadata.uciRankingDate = formatDateTime(uciMoment.rankingDate);
+    metadata.uciRankingDate = formatDate(uciMoment.rankingDate, 'datetime');
   }
 
   return { metadata, fileDate };

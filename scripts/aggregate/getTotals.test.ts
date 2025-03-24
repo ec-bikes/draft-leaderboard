@@ -1,7 +1,7 @@
 import { describe, it, expect } from 'vitest';
 import type { RaceResult } from '../../common/types/Rider.js';
 import { getRiderTotal, getTeamTotal } from './getTotals.js';
-import { utcDateFromString } from '../../common/formatDate.js';
+import { parseDate } from '../../common/dates.js';
 
 describe('getRiderTotal', () => {
   function makeResults(points: number[]) {
@@ -31,13 +31,13 @@ describe('getRiderTotal', () => {
   });
 
   it('includes results up to end date', () => {
-    const endDate = utcDateFromString('2 Jan 2025');
+    const endDate = parseDate('2 Jan 2025');
     const total = getRiderTotal({ results: makeResults([1, 2, 3]) }, endDate);
     expect(total).toBe(3);
   });
 
   it('includes results up to latest date as end date', () => {
-    const endDate = utcDateFromString('2025-01-03');
+    const endDate = parseDate('2025-01-03');
     const total = getRiderTotal({ results: makeResults([1, 2, 3]) }, endDate);
     expect(total).toBe(6);
   });

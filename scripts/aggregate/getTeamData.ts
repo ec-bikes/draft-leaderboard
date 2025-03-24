@@ -1,4 +1,4 @@
-import { utcDateFromString } from '../../common/formatDate.js';
+import { parseDate } from '../../common/dates.js';
 import type {
   BaseTeam,
   Draft,
@@ -25,7 +25,7 @@ export async function getTeamData(params: {
 }): Promise<TeamDetails> {
   const { team: rawTeam, momentId, draft, source, uciRiderInfo } = params;
   const { year, group, tradeDate: tradeDateStr } = draft;
-  const tradeDate = tradeDateStr ? utcDateFromString(tradeDateStr) : null;
+  const tradeDate = tradeDateStr ? parseDate(tradeDateStr) : null;
   const { owner, name, riders, tradedOut } = rawTeam;
   const team: TeamDetails = {
     owner,
@@ -65,9 +65,7 @@ export async function getTeamData(params: {
     };
 
     // Ensure the results are sorted by date descending
-    rider.results.sort(
-      (a, b) => utcDateFromString(b.date).getTime() - utcDateFromString(a.date).getTime(),
-    );
+    rider.results.sort((a, b) => parseDate(b.date).epoch - parseDate(a.date).epoch);
 
     if (rider.name === tradedOut) {
       rider.tradedOut = true;
@@ -80,7 +78,7 @@ export async function getTeamData(params: {
     // if (tradeDate && (rider.tradedIn || rider.tradedOut)) {
     if (tradeDate && rider.tradedOut) {
       // Find the first result before the trade date
-      let tradeIndex = rider.results.findIndex((res) => utcDateFromString(res.date) < tradeDate);
+      let tradeIndex = rider.results.findIndex((res) => parseDate(res.date).isBefore(tradeDate));
       tradeIndex = tradeIndex === -1 ? Infinity : tradeIndex;
 
       rider.results = rider.results.slice(tradeIndex);

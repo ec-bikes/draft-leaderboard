@@ -22,22 +22,18 @@ describe('formatDate', () => {
   const startStr = '2024-03-22T23:34:56Z';
 
   it('formats an isoDate', () => {
-    const date = parseDate(startStr);
-    expect(formatDate(date, 'isoDate')).toEqual('2024-03-22');
+    expect(formatDate(startStr, 'isoDate')).toEqual('2024-03-22');
   });
 
   it('formats a shortDate', () => {
-    const date = parseDate(startStr);
-    expect(formatDate(date, 'shortDate')).toEqual('22 Mar 2024');
+    expect(formatDate(startStr, 'shortDate')).toEqual('22 Mar 2024');
   });
 
   it('formats a longDate', () => {
-    const date = parseDate(startStr);
-    expect(formatDate(date, 'longDate')).toEqual('22 March 2024');
+    expect(formatDate(startStr, 'longDate')).toEqual('22 March 2024');
   });
 
   it('formats a datetime', () => {
-    const date = parseDate(startStr);
-    expect(formatDate(date, 'datetime')).toEqual('22 March 2024 23:34 GMT');
+    expect(formatDate(startStr, 'datetime')).toEqual('22 March 2024 23:34 GMT');
   });
 });

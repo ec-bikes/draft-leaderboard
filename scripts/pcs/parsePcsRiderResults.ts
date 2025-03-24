@@ -1,5 +1,5 @@
 import type { HTMLElement as BasicHTMLElement } from 'node-html-parser';
-import { formatDate, makeUtcDate } from '../../common/formatDate.js';
+import { formatDate, parseDate } from '../../common/dates.js';
 import type { RaceResult } from '../../common/types/index.js';
 
 const expectedHeaders = [
@@ -55,20 +55,19 @@ export function parsePcsRiderResults(params: {
 
     const cells = row.querySelectorAll('td');
 
+    const rank = Number(cells[1].textContent.trim()) || undefined;
+
     // Date: day.month (21.04), date range (08.02 » 11.02) for stage race header,
     // or empty for GC or jersey results
     const rawDateStr = cells[0].textContent.trim();
-    const rank = Number(cells[1].textContent.trim()) || undefined;
     const isStageRaceHeader = isRaceHeader && rawDateStr.includes('»');
     // Take the end date for stage races.
     const dateMatch = rawDateStr.match(/(\d\d)\.(\d\d)$/);
     // Parse the date.
     // If it's not set, this is a GC or jersey result from a stage race, so take that date.
-    const dateObj = dateMatch
-      ? makeUtcDate(year, Number(dateMatch[2]), Number(dateMatch[1]))
-      : undefined;
+    const dateObj = dateMatch ? parseDate(`${year}-${dateMatch[2]}-${dateMatch[1]}`) : undefined;
     // format to match date strings from UCI
-    const date = dateObj ? formatDate(dateObj) : pendingStageRace!.date;
+    const date = dateObj ? formatDate(dateObj, 'shortDate') : pendingStageRace!.date;
 
     // Race name:
     //   <td class="name"><span class="flag be"></span><a href="race/liege-bastogne-liege-femmes/2024/result">

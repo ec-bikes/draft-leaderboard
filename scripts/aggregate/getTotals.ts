@@ -1,4 +1,4 @@
-import { utcDateFromString } from '../../common/formatDate.js';
+import { parseDate, type SafeDate } from '../../common/dates.js';
 import type { RiderDetails } from '../../common/types/Rider.js';
 
 /**
@@ -9,12 +9,12 @@ import type { RiderDetails } from '../../common/types/Rider.js';
  */
 export function getRiderTotal(
   rider: Pick<RiderDetails, 'results' | 'sanctions'>,
-  endDate?: Date,
+  endDate?: SafeDate,
 ): number {
   const { results, sanctions = 0 } = rider;
   const totalPoints = results.reduce(
     (total, result) =>
-      !endDate || utcDateFromString(result.date) <= endDate ? total + result.points : total,
+      !endDate || parseDate(result.date).epoch <= endDate.epoch ? total + result.points : total,
     0,
   );
 

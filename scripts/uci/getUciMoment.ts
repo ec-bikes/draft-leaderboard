@@ -1,4 +1,4 @@
-import { makeUtcDate } from '../../common/formatDate.js';
+import { parseDate, type SafeDate } from '../../common/dates.js';
 import type { Group } from '../../common/types/index.js';
 import { fetchUciRankingMoments } from './uciApis.js';
 
@@ -12,7 +12,7 @@ export async function getUciMoment(params: { group: Group }): Promise<
   | {
       momentId: number;
       /** UTC date (time=0) corresponding to ranking date */
-      rankingDate: Date;
+      rankingDate: SafeDate;
     }
   | string
 > {
@@ -38,12 +38,7 @@ export async function getUciMoment(params: { group: Group }): Promise<
   }
 
   // This comes in DD/MM/YYYY format
-  const uciRankingDateParts = moment.Name.split('/').map(Number);
-  const rankingDate = makeUtcDate(
-    uciRankingDateParts[2],
-    uciRankingDateParts[1],
-    uciRankingDateParts[0],
-  );
+  const rankingDate = parseDate(moment.Name, { dmy: true });
 
   return { momentId: moment.Id, rankingDate };
 }

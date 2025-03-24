@@ -9,7 +9,7 @@ import {
   getSummaryFilePath,
   getTeamDetailsFilePath,
 } from '../common/filenames.js';
-import { formatNumericDate, utcDateFromString } from '../common/formatDate.js';
+import { formatDate, parseDate } from '../common/dates.js';
 import type {
   PointsHistory,
   Rider,
@@ -24,7 +24,7 @@ import { getRiderTotal, getTeamTotal } from './aggregate/getTotals.js';
 
 const year = 2025;
 // This date should be a Tuesday, or the file will be removed by the cleanup script
-const summaryDate = utcDateFromString('2025-02-25');
+const summaryDate = parseDate('2025-02-25');
 
 for (const group of groups) {
   const currentSummaryPath = getSummaryFilePath({ group, year });
@@ -63,7 +63,7 @@ for (const group of groups) {
   // Assumes the new date should be the first in the history file.
   const historyPath = getHistoryFilePath({ group, year });
   const history: PointsHistory = readJson(historyPath);
-  history.dates.unshift(formatNumericDate(summaryDate));
+  history.dates.unshift(formatDate(summaryDate, 'isoDate'));
   for (const team of teamData) {
     history.teams[team.owner].unshift(team.totalPoints);
   }
