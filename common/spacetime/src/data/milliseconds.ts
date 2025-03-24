@@ -1,5 +1,5 @@
-const day = 8.64e7
-let o = {
+const day = 8.64e7;
+const o = {
   millisecond: 1,
   second: 1000,
   minute: 60000,
@@ -8,10 +8,10 @@ let o = {
   date: day,
   month: day * 29.5, //(average)
   week: 6.048e8,
-  year: 3.154e10 // leap-years are supported post-hoc
-}
+  year: 3.154e10, // leap-years are supported post-hoc
+};
 //add plurals
-Object.keys(o).forEach(k => {
-  o[k + 's'] = o[k]
-})
-export default o
+Object.keys(o).forEach((k) => {
+  o[k + 's'] = o[k];
+});
+export default o;

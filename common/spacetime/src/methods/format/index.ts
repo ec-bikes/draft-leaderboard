@@ -1,25 +1,25 @@
-import { titleCase, zeroPad } from '../../fns.js'
-import { short } from '../../data/months.js'
-import { short as _short } from '../../data/days.js'
-import { useTitleCase } from '../../data/caseFormat.js'
-import isoOffset from './_offset.js'
+import { titleCase, zeroPad } from '../../helpers.js';
+import { short } from '../../data/months.js';
+import { short as _short } from '../../data/days.js';
+import { useTitleCase } from '../../data/caseFormat.js';
+import isoOffset from './_offset.js';
 
 const applyCaseFormat = (str) => {
   if (useTitleCase()) {
-    return titleCase(str)
+    return titleCase(str);
   }
-  return str
-}
+  return str;
+};
 
 // iso-year padding
 const padYear = (num) => {
   if (num >= 0) {
-    return zeroPad(num, 4)
+    return zeroPad(num, 4);
   } else {
-    num = Math.abs(num)
-    return '-' + zeroPad(num, 4)
+    num = Math.abs(num);
+    return '-' + zeroPad(num, 4);
   }
-}
+};
 
 const format = {
   day: (s) => applyCaseFormat(s.dayName()),
@@ -37,31 +37,31 @@ const format = {
   'iso-month': (s) => zeroPad(s.month() + 1), //1-based months
 
   year: (s) => {
-    let year = s.year()
+    let year = s.year();
     if (year > 0) {
-      return year
+      return year;
     }
-    year = Math.abs(year)
-    return year + ' BC'
+    year = Math.abs(year);
+    return year + ' BC';
   },
   'year-short': (s) => {
-    let year = s.year()
+    let year = s.year();
     if (year > 0) {
-      return `'${String(s.year()).substr(2, 4)}`
+      return `'${String(s.year()).substr(2, 4)}`;
     }
-    year = Math.abs(year)
-    return year + ' BC'
+    year = Math.abs(year);
+    return year + ' BC';
   },
   'iso-year': (s) => {
-    let year = s.year()
-    let isNegative = year < 0
-    let str = zeroPad(Math.abs(year), 4) //0-padded
+    const year = s.year();
+    const isNegative = year < 0;
+    let str = zeroPad(Math.abs(year), 4); //0-padded
     if (isNegative) {
       //negative years are for some reason 6-digits ('-00008')
-      str = zeroPad(str, 6)
-      str = '-' + str
+      str = zeroPad(str, 6);
+      str = '-' + str;
     }
-    return str
+    return str;
   },
 
   time: (s) => s.time(),
@@ -92,48 +92,43 @@ const format = {
 
   // ... https://en.wikipedia.org/wiki/ISO_8601 ;(((
   iso: (s) => {
-    let year = s.format('iso-year')
-    let month = zeroPad(s.month() + 1) //1-based months
-    let date = zeroPad(s.date())
-    let hour = zeroPad(s.h24())
-    let minute = zeroPad(s.minute())
-    let second = zeroPad(s.second())
-    let ms = zeroPad(s.millisecond(), 3)
-    let offset = isoOffset(s)
-    return `${year}-${month}-${date}T${hour}:${minute}:${second}.${ms}${offset}` //2018-03-09T08:50:00.000-05:00
+    const year = s.format('iso-year');
+    const month = zeroPad(s.month() + 1); //1-based months
+    const date = zeroPad(s.date());
+    const hour = zeroPad(s.h24());
+    const minute = zeroPad(s.minute());
+    const second = zeroPad(s.second());
+    const ms = zeroPad(s.millisecond(), 3);
+    const offset = isoOffset(s);
+    return `${year}-${month}-${date}T${hour}:${minute}:${second}.${ms}${offset}`; //2018-03-09T08:50:00.000-05:00
   },
   'iso-short': (s) => {
-    let month = zeroPad(s.month() + 1) //1-based months
-    let date = zeroPad(s.date())
-    let year = padYear(s.year())
-    return `${year}-${month}-${date}` //2017-02-15
+    const month = zeroPad(s.month() + 1); //1-based months
+    const date = zeroPad(s.date());
+    const year = padYear(s.year());
+    return `${year}-${month}-${date}`; //2017-02-15
   },
   'iso-utc': (s) => {
-    return new Date(s.epoch).toISOString() //2017-03-08T19:45:28.367Z
+    return new Date(s.epoch).toISOString(); //2017-03-08T19:45:28.367Z
   },
   'iso-full': (s) => {
-    let iso = s.format('iso')
-    let iana = s.timezone().name
+    let iso = s.format('iso');
+    const iana = s.timezone().name;
     if (iana) {
-      iso += `[${iana}]`
+      iso += `[${iana}]`;
     }
-    return iso
+    return iso;
   },
 
   //i made these up
   nice: (s) => `${short()[s.month()]} ${s.date()}, ${s.time()}`,
-  'nice-24': (s) =>
-    `${short()[s.month()]} ${s.date()}, ${s.hour24()}:${zeroPad(
-      s.minute()
-    )}`,
+  'nice-24': (s) => `${short()[s.month()]} ${s.date()}, ${s.hour24()}:${zeroPad(s.minute())}`,
   'nice-year': (s) => `${short()[s.month()]} ${s.date()}, ${s.year()}`,
-  'nice-day': (s) =>
-    `${_short()[s.day()]} ${applyCaseFormat(short()[s.month()])} ${s.date()}`,
-  'nice-full': (s) =>
-    `${s.dayName()} ${applyCaseFormat(s.monthName())} ${s.date()}, ${s.time()}`,
+  'nice-day': (s) => `${_short()[s.day()]} ${applyCaseFormat(short()[s.month()])} ${s.date()}`,
+  'nice-full': (s) => `${s.dayName()} ${applyCaseFormat(s.monthName())} ${s.date()}, ${s.time()}`,
   'nice-full-24': (s) =>
-    `${s.dayName()} ${applyCaseFormat(s.monthName())} ${s.date()}, ${s.hour24()}:${zeroPad(s.minute())}`
-}
+    `${s.dayName()} ${applyCaseFormat(s.monthName())} ${s.date()}, ${s.hour24()}:${zeroPad(s.minute())}`,
+};
 //aliases
 const aliases = {
   'day-name': 'day',
@@ -153,46 +148,46 @@ const aliases = {
   'yyyy/mm/dd': 'numeric',
   'mm/dd/yyyy': 'numeric-us',
   'dd/mm/yyyy': 'numeric-us',
-  'day-nice': 'nice-day'
-}
-Object.keys(aliases).forEach((k) => (format[k] = format[aliases[k]]))
+  'day-nice': 'nice-day',
+};
+Object.keys(aliases).forEach((k) => (format[k] = format[aliases[k]]));
 
 const printFormat = (s, str = '') => {
   //don't print anything if it's an invalid date
   if (s.isValid() !== true) {
-    return ''
+    return '';
   }
   //support .format('month')
   if (format.hasOwnProperty(str)) {
-    let out = format[str](s) || ''
+    let out = format[str](s) || '';
     if (str !== 'json') {
-      out = String(out)
+      out = String(out);
       if (str.toLowerCase() !== 'ampm') {
-        out = applyCaseFormat(out)
+        out = applyCaseFormat(out);
       }
     }
-    return out
+    return out;
   }
   //support '{hour}:{minute}' notation
   if (str.indexOf('{') !== -1) {
-    let sections = /\{(.+?)\}/g
+    const sections = /\{(.+?)\}/g;
     str = str.replace(sections, (_, fmt) => {
-      fmt = fmt.trim()
+      fmt = fmt.trim();
       if (fmt !== 'AMPM') {
-        fmt = fmt.toLowerCase()
+        fmt = fmt.toLowerCase();
       }
       if (format.hasOwnProperty(fmt)) {
-        let out = String(format[fmt](s))
+        const out = String(format[fmt](s));
         if (fmt.toLowerCase() !== 'ampm') {
-          return applyCaseFormat(out)
+          return applyCaseFormat(out);
         }
-        return out
+        return out;
       }
-      return ''
-    })
-    return str
+      return '';
+    });
+    return str;
   }
 
-  return s.format('iso-short')
-}
-export default printFormat
+  return s.format('iso-short');
+};
+export default printFormat;

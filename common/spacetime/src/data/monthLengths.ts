@@ -10,9 +10,9 @@ const monthLengths = [
   30, // September - 30 days
   31, // October - 31 days
   30, // November - 30 days
-  31 // December - 31 days
-]
-export default monthLengths
+  31, // December - 31 days
+];
+export default monthLengths;
 
 // 28 - feb
 // 30 - april, june, sept, nov

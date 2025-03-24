@@ -1,38 +1,37 @@
- 
-import findTz from './find.js'
+import findTz from './find.js';
 
 //iana codes are case-sensitive, technically
-const titleCase = str => {
-  str = str[0].toUpperCase() + str.substr(1)
-  str = str.replace(/[/_-]([a-z])/gi, s => {
-    return s.toUpperCase()
-  })
-  str = str.replace(/^gmt/i, 'GMT')
+const titleCase = (str) => {
+  str = str[0].toUpperCase() + str.substr(1);
+  str = str.replace(/[/_-]([a-z])/gi, (s) => {
+    return s.toUpperCase();
+  });
+  str = str.replace(/^gmt/i, 'GMT');
   if (str === 'Utc') {
-    str = 'UTC'
+    str = 'UTC';
   }
-  return str
-}
+  return str;
+};
 
 //get metadata about this timezone
-const timezone = s => {
-  let zones = s.timezones
-  let tz = s.tz
+const timezone = (s) => {
+  const zones = s.timezones;
+  let tz = s.tz;
   if (zones.hasOwnProperty(tz) === false) {
-    tz = findTz(s.tz, zones)
+    tz = findTz(s.tz, zones);
   }
   if (tz === null) {
     if (s.silent === false) {
-      console.warn(`Warn: could not find given or local timezone - '${s.tz}'`)
+      console.warn(`Warn: could not find given or local timezone - '${s.tz}'`);
     }
-    return { offset: 0 }
+    return { offset: 0 };
   }
-  let found = zones[tz]
-  let result = {
+  const found = zones[tz];
+  const result = {
     name: titleCase(tz),
     offset: found.offset,
-  }
+  };
 
-  return result
-}
-export default timezone
+  return result;
+};
+export default timezone;

@@ -2,12 +2,12 @@ import type { TimezoneSet } from '../../types/types.js';
 import { parseOffset } from './parseOffset.js';
 
 /** try our best to reconcile the timzone to this given string */
-export function findTz(str: string, zones: TimezoneSet) {
+export function findTz(str: string | undefined, zones: TimezoneSet) {
   if (!str) {
     return 'utc';
   }
   if (typeof str !== 'string') {
-    console.error("Timezone must be a string - recieved: '", str, "'\n");
+    console.error(`Timezone must be a string - recieved: '${str}'\n`);
   }
   let tz = str.trim();
   tz = tz.toLowerCase();

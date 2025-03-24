@@ -22,7 +22,7 @@ const methods = {
   timezone: function (tz) {
     // hot-swap the timezone, to avoid time-change
     if (tz !== undefined) {
-      let json = this.json();
+      const json = this.json();
       json.timezone = tz;
       return this.set(json, tz);
     }
@@ -44,7 +44,7 @@ const methods = {
     return _endOf(this, unit);
   },
   leapYear: function () {
-    let year = this.year();
+    const year = this.year();
     return isLeapYear(year);
   },
   diff: function (d, unit) {
@@ -52,7 +52,7 @@ const methods = {
   },
   //travel to this timezone
   goto: function (tz) {
-    let s = this.clone();
+    const s = this.clone();
     s.tz = findTz(tz, s.timezones); //science!
     return s;
   },
@@ -74,7 +74,7 @@ const methods = {
         s.tz = input.timezone;
       }
       for (let i = 0; i < units.length; i++) {
-        let unit = units[i];
+        const unit = units[i];
         if (input[unit] !== undefined) {
           s = s[unit](input[unit]);
         }
@@ -82,7 +82,7 @@ const methods = {
       return s;
     }
     // produce json output
-    let obj = units.reduce((h, unit) => {
+    const obj = units.reduce((h, unit) => {
       h[unit] = this[unit]();
       return h;
     }, {});
@@ -91,7 +91,7 @@ const methods = {
     return obj;
   },
   debug: function () {
-    let tz = this.timezone();
+    const tz = this.timezone();
     let date = this.format('MM') + ' ' + this.format('date') + ' ' + this.year();
     date += '\n     - ' + this.format('time');
     console.log('\n\n', date + '\n     - ' + tz.name + ' (' + tz.offset + ')');

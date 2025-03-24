@@ -1,4 +1,4 @@
-import { formatTimezone, zeroPad as pad } from '../../fns.js'
+import { formatTimezone, zeroPad as pad } from '../../helpers.js';
 //parse this insane unix-time-templating thing, from the 19th century
 //http://unicode.org/reports/tr35/tr35-25.html#Date_Format_Patterns
 
@@ -57,20 +57,20 @@ const mapping = {
   //timezone
   z: (s) => s.timezone().name,
   Z: (s) => formatTimezone(s.timezone().offset),
-  ZZZZ: (s) => formatTimezone(s.timezone().offset, ':')
-}
+  ZZZZ: (s) => formatTimezone(s.timezone().offset, ':'),
+};
 
 const addAlias = (char, to, n) => {
-  let name = char
-  let toName = to
+  let name = char;
+  let toName = to;
   for (let i = 0; i < n; i += 1) {
-    mapping[name] = mapping[toName]
-    name += char
-    toName += to
+    mapping[name] = mapping[toName];
+    name += char;
+    toName += to;
   }
-}
-addAlias('Y', 'y', 4)
-addAlias('S', 's', 2)
+};
+addAlias('Y', 'y', 4);
+addAlias('S', 's', 2);
 
 // support unix-style escaping with ' character
 const escapeChars = function (arr) {
@@ -79,61 +79,61 @@ const escapeChars = function (arr) {
       // greedy-search for next apostrophe
       for (let o = i + 1; o < arr.length; o += 1) {
         if (arr[o]) {
-          arr[i] += arr[o]
+          arr[i] += arr[o];
         }
         if (arr[o] === `'`) {
-          arr[o] = null
-          break
+          arr[o] = null;
+          break;
         }
-        arr[o] = null
+        arr[o] = null;
       }
     }
   }
-  return arr.filter((ch) => ch)
-}
+  return arr.filter((ch) => ch);
+};
 
 //combine consecutive chars, like 'yyyy' as one.
 const combineRepeated = function (arr) {
   for (let i = 0; i < arr.length; i += 1) {
-    let c = arr[i]
+    const c = arr[i];
     // greedy-forward
     for (let o = i + 1; o < arr.length; o += 1) {
       if (arr[o] === c) {
-        arr[i] += arr[o]
-        arr[o] = null
+        arr[i] += arr[o];
+        arr[o] = null;
       } else {
-        break
+        break;
       }
     }
   }
   // '' means one apostrophe
-  arr = arr.filter((ch) => ch)
+  arr = arr.filter((ch) => ch);
   arr = arr.map((str) => {
     if (str === `''`) {
-      str = `'`
+      str = `'`;
     }
-    return str
-  })
-  return arr
-}
+    return str;
+  });
+  return arr;
+};
 
 const unixFmt = (s, str) => {
-  let arr = str.split('')
+  let arr = str.split('');
   // support character escaping
-  arr = escapeChars(arr)
+  arr = escapeChars(arr);
   //combine 'yyyy' as string.
-  arr = combineRepeated(arr)
+  arr = combineRepeated(arr);
   return arr.reduce((txt, c) => {
     if (mapping[c] !== undefined) {
-      txt += mapping[c](s) || ''
+      txt += mapping[c](s) || '';
     } else {
       // 'unescape'
       if (/^'.+'$/.test(c)) {
-        c = c.replace(/'/g, '')
+        c = c.replace(/'/g, '');
       }
-      txt += c
+      txt += c;
     }
-    return txt
-  }, '')
-}
-export default unixFmt
+    return txt;
+  }, '');
+};
+export default unixFmt;

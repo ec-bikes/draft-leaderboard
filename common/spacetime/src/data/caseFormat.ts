@@ -1,9 +1,9 @@
-let titleCaseEnabled = true
+let titleCaseEnabled = true;
 
 export function useTitleCase() {
-  return titleCaseEnabled
+  return titleCaseEnabled;
 }
 
 export function set(val) {
-  titleCaseEnabled = val
+  titleCaseEnabled = val;
 }
