@@ -1,4 +1,4 @@
-import type Spacetime from './spacetime.js';
+import type { ParsableDate, Spacetime } from '../types/types.js';
 
 export function isLeapYear(year: number) {
   return (year % 4 === 0 && year % 100 !== 0) || year % 400 === 0;
@@ -63,12 +63,12 @@ export function getEpoch(tmp: Spacetime | number | Date) {
   return null;
 }
 
-//make sure this input is a spacetime obj
-export function beADate(d: unknown, s: Spacetime) {
+/** make sure this input is a spacetime obj */
+export function ensureDate(d: ParsableDate, s: Spacetime) {
   if (isObject(d) === false) {
     return s.clone().set(d);
   }
-  return d;
+  return d as Spacetime;
 }
 
 export function formatTimezone(offset: number, delimiter = '') {

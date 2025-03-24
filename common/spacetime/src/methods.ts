@@ -1,12 +1,11 @@
- 
 import format from './methods/format/index.js';
 import unixFmt from './methods/format/unixFmt.js';
-import diff from './methods/diff/index.js';
+import { diff } from './methods/diff/index.js';
 import { startOf as _startOf, endOf as _endOf } from './methods/startOf.js';
 import timezone from './timezone/index.js';
-import findTz from './timezone/find.js';
+import { findTz } from './timezone/find.js';
 import handleInput from './input/index.js';
-import { isLeapYear } from './fns.js';
+import { isLeapYear } from './helpers.js';
 const units = ['year', 'month', 'date', 'day', 'hour', 'minute', 'second', 'millisecond'];
 
 //the spacetime instance methods (also, the API)

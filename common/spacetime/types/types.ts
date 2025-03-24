@@ -18,7 +18,7 @@ export interface Spacetime {
   // goto: (target: string | null) => Spacetime;
 
   /** @returns a copy of this object, with no references to the original */
-  clone: () => Spacetime;
+  clone(): Spacetime;
 
   /** @returns the native Date object at the same epoch */
   toNativeDate(): Date;
@@ -32,31 +32,34 @@ export interface Spacetime {
    * output nicely-formatted strings
    * @deprecated Discouraged for this project (use `formatDate` helper)
    */
-  format: (format: Format) => string;
+  format(format: Format): string;
 
   /** output formatted string using unix formatting code (yyyy.MM.dd h:mm a) */
-  unixFmt: (format: string) => string;
+  unixFmt(format: string): string;
 
   /** move to the first millisecond of the day, week, month, year, etc. */
-  startOf: (unit: TimeUnit) => Spacetime;
+  startOf(unit: TimeUnit): Spacetime;
 
   /** move to the last millisecond of the day, week, month, year, etc. */
-  endOf: (unit: TimeUnit) => Spacetime;
+  endOf(unit: TimeUnit): Spacetime;
 
   /** increment the time by a number and unit - like an hour, minute, day, or year */
-  add: (value: number, unit: TimeUnit) => Spacetime;
+  add(value: number, unit: TimeUnit): Spacetime;
 
   /** decrease the time by a number and unit - like an hour, minute, day, or year */
-  subtract: (value: number, unit: TimeUnit) => Spacetime;
+  subtract(value: number, unit: TimeUnit): Spacetime;
 
   /** pass-in a spacetime object or date input and see if it takes-place after your spacetime date/time */
-  isAfter: (date: Spacetime | Date, isInclusive?: boolean) => boolean;
+  isAfter(date: Spacetime | Date, isInclusive?: boolean): boolean;
 
   /** pass-in a spacetime object or date input and see if it takes-place before your spacetime date/time */
-  isBefore: (date: Spacetime | Date, isInclusive?: boolean) => boolean;
+  isBefore(date: Spacetime | Date, isInclusive?: boolean): boolean;
 
   /** is this date on the exact same millisecond as another */
-  isEqual: (date: Spacetime | Date) => boolean;
+  isEqual(date: Spacetime | Date): boolean;
+
+  /** is this date between these start and end dates? */
+  isBetween: (start: Spacetime | Date, end: Spacetime | Date, isInclusive?: boolean) => boolean;
 
   /** detect if two date/times are the same day, week, or year, etc */
   isSame: (

@@ -1,11 +1,11 @@
-import type { Spacetime, ParsableDate, TimezoneSet } from './types.js'
+import type { Spacetime, ParsableDate } from './types.js';
 
 export interface SpacetimeConstructorOptions {
   /** javascript dates use millisecond-epochs, instead of second-epochs, like some other languages. This is a common bug, and by default spacetime warns if you set an epoch within January 1970. to disable set to true */
-  silent?: boolean
+  silent?: boolean;
 
   /** pass true to change parsing behaviour to dd/mm/yyyy. By default American interpretation will be used. */
-  dmy?: boolean
+  dmy?: boolean;
 }
 
 export interface SpacetimeConstructor {
@@ -14,7 +14,7 @@ export interface SpacetimeConstructor {
    * @param timezone Optional timezone. If omitted uses the browser timezone.
    * @param options Options for silencing warnings.
    */
-  (epoch: number, timezone?: string, options?: SpacetimeConstructorOptions): Spacetime
+  (epoch: number, timezone?: string, options?: SpacetimeConstructorOptions): Spacetime;
 
   /**
    * @param arr Date values in an array such as [yyyy, m, d].
@@ -26,7 +26,7 @@ export interface SpacetimeConstructor {
    * @param timezone Optional timezone. If omitted uses the browser timezone.
    * @param options Options for silencing warnings.
    */
-  (arr: Array<number>, timezone?: string, options?: SpacetimeConstructorOptions): Spacetime
+  (arr: Array<number>, timezone?: string, options?: SpacetimeConstructorOptions): Spacetime;
 
   /**
    * @param obj Date as a key-value object. ex {month:'june', year:2019}
@@ -36,15 +36,15 @@ export interface SpacetimeConstructor {
   (
     obj: { [unit: string]: string | number },
     timezone?: string,
-    options?: SpacetimeConstructorOptions
-  ): Spacetime
+    options?: SpacetimeConstructorOptions,
+  ): Spacetime;
 
   /**
    * @param iso Date as an iso string. ex '2017-04-03T08:00:00'
    * @param timezone Optional timezone. If omitted uses the browser timezone.
    * @param options Options for silencing warnings.
    */
-  (iso: string, timezone?: string, options?: SpacetimeConstructorOptions): Spacetime
+  (iso: string, timezone?: string, options?: SpacetimeConstructorOptions): Spacetime;
 
   /**
    * @param parsableDate a parsable date like object
@@ -54,29 +54,6 @@ export interface SpacetimeConstructor {
   (
     parsableDate?: ParsableDate | null,
     timezone?: string,
-    options?: SpacetimeConstructorOptions
-  ): Spacetime
-}
-
-export interface SpacetimeStatic extends SpacetimeConstructor {
-  /** set as the current time */
-  now: (timezone?: string, options?: SpacetimeConstructorOptions) => Spacetime
-
-  /** set as this morning */
-  today: (timezone?: string, options?: SpacetimeConstructorOptions) => Spacetime
-
-  /** set as tomorrow morning */
-  tomorrow: (timezone?: string, options?: SpacetimeConstructorOptions) => Spacetime
-
-  /** set as yesterday morning */
-  yesterday: (timezone?: string, options?: SpacetimeConstructorOptions) => Spacetime
-
-  /** get a list of current timezones and their offsets  */
-  timezones: () => TimezoneSet
-
-  /** set as earliest-possible date */
-  min: (timezone?: string, options?: SpacetimeConstructorOptions) => Spacetime
-
-  /** set as furthest-possible future date */
-  max: (timezone?: string, options?: SpacetimeConstructorOptions) => Spacetime
+    options?: SpacetimeConstructorOptions,
+  ): Spacetime;
 }
