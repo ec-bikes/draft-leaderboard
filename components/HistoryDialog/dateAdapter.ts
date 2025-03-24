@@ -1,66 +1,48 @@
-// based on https://github.com/bolstycjw/chartjs-adapter-dayjs-4/blob/master/src/index.ts
-// with support for quarters and ISO weekdays removed
+// based on https://github.com/Nfinished/chartjs-adapter-spacetime/blob/main/src/index.ts
+// with en-gb style formatting
 
 import { _adapters } from 'chart.js';
-import dayjs from 'dayjs/esm/index.js';
-import type { TimeUnit } from 'chart.js';
-import customParseFormat from 'dayjs/esm/plugin/customParseFormat/index.js';
-import utc from 'dayjs/esm/plugin/utc/index.js';
-import enGb from 'dayjs/esm/locale/en-gb.js';
-
-dayjs.extend(customParseFormat);
-dayjs.extend(utc);
-dayjs.locale('en-gb');
-
-const utcDate = dayjs.utc;
-
-const FORMATS: Record<TimeUnit | 'datetime', string> = {
-  datetime: enGb.formats.LLL!,
-  millisecond: `${enGb.formats.LTS!}.SSS`,
-  second: enGb.formats.LTS!,
-  minute: enGb.formats.LT!,
-  hour: 'HH',
-  day: 'D MMM',
-  week: 'll',
-  month: 'MMM YYYY',
-  quarter: '',
-  year: 'YYYY',
-};
-
-function verifyUnit(unit: TimeUnit | 'isoWeek'): asserts unit is Exclude<TimeUnit, 'quarter'> {
-  if (unit === 'quarter' || unit === 'isoWeek') {
-    throw new Error(`${unit} is not supported`);
-  }
-}
+import type { Diff, ParsableDate } from 'spacetime';
+import { formatDate, FORMATS, parseDate, type KnownFormatNames } from '../../common/dates.js';
 
 _adapters._date.override({
   formats: () => FORMATS,
-  parse: function (value, format) {
-    if (value === null || typeof value === 'undefined') {
+
+  init: () => undefined,
+
+  parse: (value) => {
+    try {
+      const date = parseDate(value as ParsableDate);
+      return date.epoch;
+    } catch {
       return null;
     }
-    if (!(value instanceof dayjs)) {
-      const date = utcDate(value as any, format);
-      return date.isValid() ? date.valueOf() : null;
+  },
+
+  format: (time, format) => {
+    const date = parseDate(time);
+    if (format in FORMATS) {
+      return formatDate(date, format as KnownFormatNames);
     }
-    return null;
+    return date.unixFmt(format);
   },
-  format: function (time, format) {
-    return utcDate(time).format(format);
+
+  add: (time, amount, unit) => {
+    return parseDate(time).add(amount, unit).epoch;
   },
-  add: function (time, amount, unit) {
-    verifyUnit(unit);
-    return utcDate(time).add(amount, unit).valueOf();
+
+  diff: (max, min, unit) => {
+    return parseDate(min).diff(parseDate(max))[`${unit}s` as keyof Diff];
   },
-  diff: function (max, min, unit) {
-    return utcDate(max).diff(utcDate(min), unit);
+
+  startOf: (time, unit) => {
+    if (unit === 'isoWeek') {
+      throw new Error('isoWeek is not supported');
+    }
+    return parseDate(time).startOf(unit).epoch;
   },
-  startOf: function (time, unit) {
-    verifyUnit(unit);
-    return utcDate(time).startOf(unit).valueOf();
-  },
-  endOf: function (time, unit) {
-    verifyUnit(unit);
-    return utcDate(time).endOf(unit).valueOf();
+
+  endOf: (time, unit) => {
+    return parseDate(time).endOf(unit).epoch;
   },
 });

@@ -1,6 +1,6 @@
 import React from 'react';
 import { useData } from 'vike-react/useData';
-import { utcDateFromString } from '../../common/formatDate.js';
+import { parseDate, type KnownFormatNames } from '../../common/dates.js';
 import { DraftData } from '../../common/types/DraftData.js';
 import type { Group } from '../../common/types/Group.js';
 import type { PointsHistory } from '../../common/types/PointsHistory.js';
@@ -48,7 +48,7 @@ async function getPropsOrError(params: {
     return 'Failed to load history data';
   }
 
-  const dates = history.dates.map((date) => utcDateFromString(date).getTime());
+  const dates = history.dates.map((date) => parseDate(date).epoch);
 
   let yMax = 0;
   // Make a series (dataset) for each team
@@ -79,7 +79,7 @@ async function getPropsOrError(params: {
       scales: {
         x: {
           type: 'time',
-          time: { minUnit: 'day', tooltipFormat: 'D MMMM YYYY' },
+          time: { minUnit: 'day', tooltipFormat: 'longDate' satisfies KnownFormatNames },
           // keep rotation consistent while zooming
           ticks: { maxRotation: 45, minRotation: 45 },
         },

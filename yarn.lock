@@ -2269,13 +2269,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"dayjs@npm:^1.11.13":
-  version: 1.11.13
-  resolution: "dayjs@npm:1.11.13"
-  checksum: 10c0/a3caf6ac8363c7dade9d1ee797848ddcf25c1ace68d9fe8678ecf8ba0675825430de5d793672ec87b24a69bf04a1544b176547b2539982275d5542a7955f35b7
-  languageName: node
-  linkType: hard
-
 "debug@npm:4, debug@npm:^4.1.0, debug@npm:^4.3.1, debug@npm:^4.3.2, debug@npm:^4.3.4, debug@npm:^4.4.0":
   version: 4.4.0
   resolution: "debug@npm:4.4.0"
@@ -2398,7 +2391,6 @@ __metadata:
     "@vitejs/plugin-react": "npm:^4.3.4"
     chart.js: "npm:^4.4.8"
     chartjs-plugin-zoom: "npm:^2.2.0"
-    dayjs: "npm:^1.11.13"
     eslint: "npm:^9.21.0"
     eslint-plugin-react: "npm:^7.37.4"
     eslint-plugin-react-hooks: "npm:^5.2.0"
@@ -2409,6 +2401,7 @@ __metadata:
     prettier: "npm:^3.5.2"
     react: "npm:^19.0.0"
     react-dom: "npm:^19.0.0"
+    spacetime: "patch:spacetime@npm%3A7.8.0#~/.yarn/patches/spacetime-npm-7.8.0-66d0a99fe8.patch"
     tsx: "npm:^4.19.3"
     typescript: "npm:^5.7.3"
     typescript-eslint: "npm:^8.0.0"
@@ -5064,6 +5057,20 @@ __metadata:
   version: 0.6.1
   resolution: "source-map@npm:0.6.1"
   checksum: 10c0/ab55398007c5e5532957cb0beee2368529618ac0ab372d789806f5718123cc4367d57de3904b4e6a4170eb5a0b0f41373066d02ca0735a0c4d75c7d328d3e011
+  languageName: node
+  linkType: hard
+
+"spacetime@npm:7.8.0":
+  version: 7.8.0
+  resolution: "spacetime@npm:7.8.0"
+  checksum: 10c0/76ea13d48509b5d6b128d70b37e8487d5bbdc4d33ae415a27120695c6a70514df097438b8bce7f14512f2db8f2e1b0f4abd865c723652e6c3850bb3f3462181c
+  languageName: node
+  linkType: hard
+
+"spacetime@patch:spacetime@npm%3A7.8.0#~/.yarn/patches/spacetime-npm-7.8.0-66d0a99fe8.patch":
+  version: 7.8.0
+  resolution: "spacetime@patch:spacetime@npm%3A7.8.0#~/.yarn/patches/spacetime-npm-7.8.0-66d0a99fe8.patch::version=7.8.0&hash=e58c74"
+  checksum: 10c0/95939fdd66f5e3f2e888c5815b524577260f42866e72b8508929260a84e0f4e6d9d13bd0a88936458177c593256fe47c078daf984bc06b35117732fb9c509dba
   languageName: node
   linkType: hard
 

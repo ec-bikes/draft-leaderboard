@@ -1,0 +1,222 @@
+diff --git a/package.json b/package.json
+index c7e9b4f75929ace9d09a00dd08096047a11ceca4..16d95016cc6bcfe78b01174784d616003fc8b4c8 100644
+--- a/package.json
++++ b/package.json
+@@ -11,7 +11,7 @@
+     ".": {
+       "import": {
+         "types": "./types/index.d.ts",
+-        "default": "./builds/spacetime.mjs"
++        "default": "./src/index.js"
+       },
+       "require": {
+         "types": "./types/index.d.cts",
+diff --git a/src/input/formats/parseOffset.js b/src/input/formats/parseOffset.js
+index 5b017c70913b5e861ba46daf08ba2cb97ee3e1e0..d9dbedd1a838b17d332118162937fb641d7689ce 100644
+--- a/src/input/formats/parseOffset.js
++++ b/src/input/formats/parseOffset.js
+@@ -32,18 +32,18 @@ const parseOffset = (s, offset) => {
+   }
+   //this is a fancy-move
+   if (num === 0 || offset === 'Z' || offset === 'z') {
+-    s.tz = 'etc/gmt'
++    s.tz = 'gmt'
+     return s
+   }
+   //okay, try to match it to a utc timezone
+-  //remember - this is opposite! a -5 offset maps to Etc/GMT+5  ¯\_(:/)_/¯
++  //remember - this is opposite! a -5 offset maps to GMT+5  ¯\_(:/)_/¯
+   //https://askubuntu.com/questions/519550/why-is-the-8-timezone-called-gmt-8-in-the-filesystem
+   num *= -1
+ 
+   if (num >= 0) {
+     num = '+' + num
+   }
+-  let tz = 'etc/gmt' + num
++  let tz = 'gmt' + num
+   let zones = s.timezones
+ 
+   if (zones[tz]) {
+diff --git a/src/timezone/find.js b/src/timezone/find.js
+index ecc8567713c6a58a51e0b8ee739222572390eae1..7a2900f6ed22dde159904d84f619db7b106fc513 100644
+--- a/src/timezone/find.js
++++ b/src/timezone/find.js
+@@ -1,64 +1,22 @@
+ /* eslint-disable no-console */
+ 
+-import tzs from '../../zonefile/unpack.js'
+-import guessTz from './guessTz.js'
+ import parseOffset from './parseOffset.js'
+ 
+-let local = guessTz()
+-
+-//add all the city names by themselves
+-const cities = Object.keys(tzs).reduce((h, k) => {
+-  let city = k.split('/')[1] || ''
+-  city = city.replace(/_/g, ' ')
+-  h[city] = k
+-  return h
+-}, {})
+-
+-//try to match these against iana form
+-const normalize = (tz) => {
+-  tz = tz.replace(/ time/g, '')
+-  tz = tz.replace(/ (standard|daylight|summer)/g, '')
+-  tz = tz.replace(/\b(east|west|north|south)ern/g, '$1')
+-  tz = tz.replace(/\b(africa|america|australia)n/g, '$1')
+-  tz = tz.replace(/\beuropean/g, 'europe')
+-  tz = tz.replace(/islands/g, 'island')
+-  return tz
+-}
+-
+ // try our best to reconcile the timzone to this given string
+ const lookupTz = (str, zones) => {
+   if (!str) {
+-    // guard if Intl response is unsupported (#397)
+-    if (!zones.hasOwnProperty(local)) {
+-      console.warn(`Unrecognized IANA id '${local}'. Setting fallback tz to UTC.`)
+-      local = 'utc'
+-    }
+-    return local
++    return 'utc'
+   }
+   if (typeof str !== 'string') {
+     console.error("Timezone must be a string - recieved: '", str, "'\n")
+   }
+   let tz = str.trim()
+-  // let split = str.split('/')
+-  //support long timezones like 'America/Argentina/Rio_Gallegos'
+-  // if (split.length > 2 && zones.hasOwnProperty(tz) === false) {
+-  //   tz = split[0] + '/' + split[1]
+-  // }
+   tz = tz.toLowerCase()
+-  if (zones.hasOwnProperty(tz) === true) {
+-    return tz
+-  }
+-  //lookup more loosely..
+-  tz = normalize(tz)
+-  if (zones.hasOwnProperty(tz) === true) {
++  if (zones[tz]) {
+     return tz
+   }
+-  //try city-names
+-  if (cities.hasOwnProperty(tz) === true) {
+-    return cities[tz]
+-  }
+-  // //try to parse '-5h'
+-  if (/[0-9]/.test(tz) === true) {
++  //try to parse '-5h'
++  if (/[0-9]/.test(tz)) {
+     let id = parseOffset(tz)
+     if (id) {
+       return id
+@@ -66,7 +24,7 @@ const lookupTz = (str, zones) => {
+   }
+ 
+   throw new Error(
+-    "Spacetime: Cannot find timezone named: '" + str + "'. Please enter an IANA timezone id."
++    "Spacetime (modified): only UTC timezones and offsets are supported"
+   )
+ }
+ export default lookupTz
+diff --git a/src/timezone/index.js b/src/timezone/index.js
+index e52b040638ece74a916e2949b0679db78a0a1771..39c498f954b98adb2f67994b2081405b0c4434f3 100644
+--- a/src/timezone/index.js
++++ b/src/timezone/index.js
+@@ -15,11 +15,7 @@ const titleCase = str => {
+   str = str.replace(/[/_-]([a-z])/gi, s => {
+     return s.toUpperCase()
+   })
+-  str = str.replace(/_(of|es)_/i, (s) => s.toLowerCase())
+-  str = str.replace(/\/gmt/i, '/GMT')
+-  str = str.replace(/\/Dumontdurville$/i, '/DumontDUrville')
+-  str = str.replace(/\/Mcmurdo$/i, '/McMurdo')
+-  str = str.replace(/\/Port-au-prince$/i, '/Port-au-Prince')
++  str = str.replace(/^gmt/i, 'GMT')
+   if (str === 'Utc') {
+     str = 'UTC'
+   }
+diff --git a/src/timezone/parseOffset.js b/src/timezone/parseOffset.js
+index 41717614da57e7515db3ec8cb3de6ee45010e846..de02c5aba33770784739b3ce19560ce179f47e10 100644
+--- a/src/timezone/parseOffset.js
++++ b/src/timezone/parseOffset.js
+@@ -7,8 +7,7 @@ const toIana = function (num) {
+   num = Number(num)
+   if (num >= -13 && num <= 13) {
+     num = num * -1 //it's opposite!
+-    num = (num > 0 ? '+' : '') + num //add plus sign
+-    return 'etc/gmt' + num
++    return `gmt${num > 0 ? '+' : ''}${num}`
+   }
+   return null
+ }
+diff --git a/types/constraints.d.ts b/types/constraints.d.ts
+index a5add15d0adee32badbac116b191c051595b8c12..eb6ac1f8e512693eaf883445f3eeb286602bf19e 100644
+--- a/types/constraints.d.ts
++++ b/types/constraints.d.ts
+@@ -74,7 +74,6 @@ export type Format =
+   | 'nice-year'
+   | 'nice-day'
+   | 'nice-full'
+-  | string
+ 
+ export interface I18nOptions {
+   /** Alternatives to Monday, Tuesday..*/
+diff --git a/types/types.d.ts b/types/types.d.ts
+index b0b1f829b4e3f660137e512ae8dff9438d064e1c..f376a02188ee4f8ccf553f7971a3c395d203c0ac 100644
+--- a/types/types.d.ts
++++ b/types/types.d.ts
+@@ -40,7 +40,10 @@ export interface Spacetime {
+   /** swap the timezone, but keep the same date-time (if possible) */
+   timezone(tz: String): Spacetime
+ 
+-  /** output nicely-formatted strings */
++  /**
++   * output nicely-formatted strings
++   * @deprecated Discouraged for this project (use `formatDate` helper)
++   */
+   format: (format: Format) => string
+ 
+   /** output formatted string using unix formatting code (yyyy.MM.dd h:mm a) */
+diff --git a/zonefile/unpack.js b/zonefile/unpack.js
+index 4e2575371a06ee583ce11b0e779cc5fcbae0fbce..127900041a9df43e87e19113e52fd5a0aefefa25 100644
+--- a/zonefile/unpack.js
++++ b/zonefile/unpack.js
+@@ -1,29 +1,12 @@
+-import data from './_build.js'
+-import prefixes from './_prefixes.js'
+-
+-let all = {}
+-Object.keys(data).forEach((k) => {
+-  let split = k.split('|')
+-  let obj = {
+-    offset: Number(split[0]),
+-    hem: split[1]
+-  }
+-  if (split[2]) {
+-    obj.dst = split[2]
+-  }
+-  let names = data[k].split(',')
+-  names.forEach((str) => {
+-    str = str.replace(/(^[0-9]+)\//, (before, num) => {
+-      num = Number(num)
+-      return prefixes[num] + '/'
+-    })
+-    all[str] = obj
+-  })
+-})
+-
+-all.utc = {
++const utc = {
+   offset: 0,
+-  hem: 'n' //default to northern hemisphere - (sorry!)
++  hem: 'n'
++}
++const all = {
++  utc,
++  gmt: utc,
++  'etc/utc': utc,
++  'etc/gmt': utc,
+ }
+ 
+ //add etc/gmt+n

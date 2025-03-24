@@ -31,7 +31,8 @@
       "name": "Debug current test file",
       "autoAttachChildProcesses": true,
       "program": "${workspaceRoot}/node_modules/vitest/vitest.mjs",
-      "args": ["watch", "${relativeFile}"],
+      "cwd": "${workspaceFolder}",
+      "args": ["--testTimeout", "0", "${relativeFile}"],
       "smartStep": true,
       "console": "integratedTerminal"
     }
