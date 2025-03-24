@@ -61,4 +61,11 @@ export default tseslint.config([
       ],
     },
   },
+  {
+    files: ['**/spacetime/**/*'],
+    rules: {
+      'no-restricted-syntax': 'off',
+      '@typescript-eslint/no-restricted-types': 'off',
+    },
+  },
 ]);
