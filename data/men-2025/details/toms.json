@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 Mar 2025, 23:20 GMT",
+  "fetchedDate": "24 March 2025 23:23 GMT",
   "momentId": 189398,
   "team": {
     "owner": "Toms Skujiņš",
@@ -42,18 +42,18 @@
           },
           {
             "name": "Paris-Nice - Stage 1",
-            "date": "09 Mar 2025",
+            "date": "9 Mar 2025",
             "points": 60,
             "rank": 1
           },
           {
             "name": "Paris-Nice - Stage 1 - Bonus",
-            "date": "09 Mar 2025",
+            "date": "9 Mar 2025",
             "points": 10
           },
           {
             "name": "Kuurne - Brussel - Kuurne",
-            "date": "02 Mar 2025",
+            "date": "2 Mar 2025",
             "points": 10,
             "rank": 15
           },
@@ -115,13 +115,13 @@
           },
           {
             "name": "Volta a la Comunitat Valenciana - General classification",
-            "date": "09 Feb 2025",
+            "date": "9 Feb 2025",
             "points": 35,
             "rank": 10
           },
           {
             "name": "Volta a la Comunitat Valenciana - Stage 1 (TTT)",
-            "date": "05 Feb 2025",
+            "date": "5 Feb 2025",
             "points": 2.14,
             "rank": 2
           }
@@ -148,7 +148,7 @@
           },
           {
             "name": "Strade Bianche",
-            "date": "08 Mar 2025",
+            "date": "8 Mar 2025",
             "points": 180,
             "rank": 5
           },
@@ -172,19 +172,19 @@
           },
           {
             "name": "Volta a la Comunitat Valenciana - General classification",
-            "date": "09 Feb 2025",
+            "date": "9 Feb 2025",
             "points": 125,
             "rank": 3
           },
           {
             "name": "Volta a la Comunitat Valenciana - Stage 3",
-            "date": "07 Feb 2025",
+            "date": "7 Feb 2025",
             "points": 5,
             "rank": 4
           },
           {
             "name": "Volta a la Comunitat Valenciana - Stage 2",
-            "date": "06 Feb 2025",
+            "date": "6 Feb 2025",
             "points": 15,
             "rank": 2
           }
@@ -286,7 +286,7 @@
           },
           {
             "name": "Volta a la Comunitat Valenciana - General classification",
-            "date": "09 Feb 2025",
+            "date": "9 Feb 2025",
             "points": 30,
             "rank": 11
           }
@@ -301,7 +301,7 @@
         "results": [
           {
             "name": "Omloop Nieuwsblad ME",
-            "date": "01 Mar 2025",
+            "date": "1 Mar 2025",
             "points": 20,
             "rank": 16
           },
@@ -319,18 +319,18 @@
           },
           {
             "name": "Volta a la Comunitat Valenciana - Stage 2 - Bonus",
-            "date": "06 Feb 2025",
+            "date": "6 Feb 2025",
             "points": 5
           },
           {
             "name": "Volta a la Comunitat Valenciana - Stage 1 (TTT)",
-            "date": "05 Feb 2025",
+            "date": "5 Feb 2025",
             "points": 2.86,
             "rank": 1
           },
           {
             "name": "Volta a la Comunitat Valenciana - Stage 1 (TTT) - Bonus",
-            "date": "05 Feb 2025",
+            "date": "5 Feb 2025",
             "points": 5
           }
         ]
@@ -356,19 +356,19 @@
           },
           {
             "name": "Grote prijs Jean - Pierre Monseré",
-            "date": "09 Mar 2025",
+            "date": "9 Mar 2025",
             "points": 50,
             "rank": 5
           },
           {
             "name": "Grand Prix Criquielion",
-            "date": "08 Mar 2025",
+            "date": "8 Mar 2025",
             "points": 60,
             "rank": 4
           },
           {
             "name": "Kuurne - Brussel - Kuurne",
-            "date": "02 Mar 2025",
+            "date": "2 Mar 2025",
             "points": 35,
             "rank": 10
           },
@@ -453,13 +453,13 @@
           },
           {
             "name": "National Championships New Zealand ME - ITT",
-            "date": "06 Feb 2025",
+            "date": "6 Feb 2025",
             "points": 10,
             "rank": 5
           },
           {
             "name": "Cadel Evans Great Ocean Road Race - Men",
-            "date": "02 Feb 2025",
+            "date": "2 Feb 2025",
             "points": 215,
             "rank": 3
           }

@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 Mar 2025, 23:20 GMT",
+  "fetchedDate": "24 March 2025 23:23 GMT",
   "momentId": 189416,
   "team": {
     "owner": "Abby Mickey",
@@ -29,24 +29,24 @@
           },
           {
             "name": "UAE Tour Women - General classification",
-            "date": "09 Feb 2025",
+            "date": "9 Feb 2025",
             "points": 400,
             "rank": 1
           },
           {
             "name": "UAE Tour Women - Stage 3",
-            "date": "08 Feb 2025",
+            "date": "8 Feb 2025",
             "points": 50,
             "rank": 1
           },
           {
             "name": "UAE Tour Women - Stage 3 - Bonus",
-            "date": "08 Feb 2025",
+            "date": "8 Feb 2025",
             "points": 8
           },
           {
             "name": "UAE Tour Women - Stage 2",
-            "date": "07 Feb 2025",
+            "date": "7 Feb 2025",
             "points": 25,
             "rank": 4
           }
@@ -94,13 +94,13 @@
           },
           {
             "name": "Omloop Nieuwsblad WE",
-            "date": "01 Mar 2025",
+            "date": "1 Mar 2025",
             "points": 120,
             "rank": 7
           },
           {
             "name": "UAE Tour Women - General classification",
-            "date": "09 Feb 2025",
+            "date": "9 Feb 2025",
             "points": 68,
             "rank": 10
           }
@@ -121,25 +121,25 @@
           },
           {
             "name": "Trofeo Oro in Euro - Women's Bike Race",
-            "date": "09 Mar 2025",
+            "date": "9 Mar 2025",
             "points": 125,
             "rank": 1
           },
           {
             "name": "UAE Tour Women - General classification",
-            "date": "09 Feb 2025",
+            "date": "9 Feb 2025",
             "points": 180,
             "rank": 5
           },
           {
             "name": "UAE Tour Women - Stage 2",
-            "date": "07 Feb 2025",
+            "date": "7 Feb 2025",
             "points": 20,
             "rank": 5
           },
           {
             "name": "Cadel Evans Great Ocean Road Race - Women",
-            "date": "01 Feb 2025",
+            "date": "1 Feb 2025",
             "points": 320,
             "rank": 2
           },
@@ -172,19 +172,19 @@
         "results": [
           {
             "name": "Le Samyn des Dames",
-            "date": "04 Mar 2025",
+            "date": "4 Mar 2025",
             "points": 10,
             "rank": 12
           },
           {
             "name": "Fenix Omloop van het Hageland",
-            "date": "02 Mar 2025",
+            "date": "2 Mar 2025",
             "points": 30,
             "rank": 8
           },
           {
             "name": "UAE Tour Women - Stage 1",
-            "date": "06 Feb 2025",
+            "date": "6 Feb 2025",
             "points": 40,
             "rank": 2
           }
@@ -211,7 +211,7 @@
           },
           {
             "name": "Strade Bianche Donne",
-            "date": "08 Mar 2025",
+            "date": "8 Mar 2025",
             "points": 8,
             "rank": 35
           },
@@ -238,7 +238,7 @@
           },
           {
             "name": "UAE Tour Women - Stage 2",
-            "date": "07 Feb 2025",
+            "date": "7 Feb 2025",
             "points": 15,
             "rank": 7
           },
@@ -267,7 +267,7 @@
         "results": [
           {
             "name": "Omloop Nieuwsblad WE",
-            "date": "01 Mar 2025",
+            "date": "1 Mar 2025",
             "points": 24,
             "rank": 20
           },
@@ -291,7 +291,7 @@
           },
           {
             "name": "Vuelta CV Feminas",
-            "date": "09 Feb 2025",
+            "date": "9 Feb 2025",
             "points": 15,
             "rank": 14
           }
@@ -312,7 +312,7 @@
           },
           {
             "name": "Fenix Omloop van het Hageland",
-            "date": "02 Mar 2025",
+            "date": "2 Mar 2025",
             "points": 3,
             "rank": 25
           }

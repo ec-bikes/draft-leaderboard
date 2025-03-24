@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 Mar 2025, 23:20 GMT",
+  "fetchedDate": "24 March 2025 23:23 GMT",
   "momentId": 189416,
   "team": {
     "owner": "Gracie Elvin",
@@ -29,13 +29,13 @@
           },
           {
             "name": "Strade Bianche Donne",
-            "date": "08 Mar 2025",
+            "date": "8 Mar 2025",
             "points": 400,
             "rank": 1
           },
           {
             "name": "Omloop Nieuwsblad WE",
-            "date": "01 Mar 2025",
+            "date": "1 Mar 2025",
             "points": 260,
             "rank": 3
           },
@@ -95,7 +95,7 @@
           },
           {
             "name": "Omloop Nieuwsblad WE",
-            "date": "01 Mar 2025",
+            "date": "1 Mar 2025",
             "points": 8,
             "rank": 31
           },
@@ -146,7 +146,7 @@
           },
           {
             "name": "Cadel Evans Great Ocean Road Race - Women",
-            "date": "01 Feb 2025",
+            "date": "1 Feb 2025",
             "points": 220,
             "rank": 4
           },
@@ -185,13 +185,13 @@
         "results": [
           {
             "name": "Strade Bianche Donne",
-            "date": "08 Mar 2025",
+            "date": "8 Mar 2025",
             "points": 28,
             "rank": 15
           },
           {
             "name": "Omloop Nieuwsblad WE",
-            "date": "01 Mar 2025",
+            "date": "1 Mar 2025",
             "points": 8,
             "rank": 39
           },
@@ -242,13 +242,13 @@
           },
           {
             "name": "Fenix Omloop van het Hageland",
-            "date": "02 Mar 2025",
+            "date": "2 Mar 2025",
             "points": 40,
             "rank": 6
           },
           {
             "name": "Omloop Nieuwsblad WE",
-            "date": "01 Mar 2025",
+            "date": "1 Mar 2025",
             "points": 56,
             "rank": 11
           },
@@ -282,13 +282,13 @@
           },
           {
             "name": "Strade Bianche Donne",
-            "date": "08 Mar 2025",
+            "date": "8 Mar 2025",
             "points": 8,
             "rank": 33
           },
           {
             "name": "UAE Tour Women - General classification",
-            "date": "09 Feb 2025",
+            "date": "9 Feb 2025",
             "points": 24,
             "rank": 16
           },
@@ -327,25 +327,25 @@
           },
           {
             "name": "Strade Bianche Donne",
-            "date": "08 Mar 2025",
+            "date": "8 Mar 2025",
             "points": 100,
             "rank": 8
           },
           {
             "name": "National Championships New Zealand WE - Road Race",
-            "date": "07 Feb 2025",
+            "date": "7 Feb 2025",
             "points": 75,
             "rank": 2
           },
           {
             "name": "National Championships New Zealand WE - ITT",
-            "date": "06 Feb 2025",
+            "date": "6 Feb 2025",
             "points": 10,
             "rank": 5
           },
           {
             "name": "Cadel Evans Great Ocean Road Race - Women",
-            "date": "01 Feb 2025",
+            "date": "1 Feb 2025",
             "points": 120,
             "rank": 7
           },
@@ -372,13 +372,13 @@
         "results": [
           {
             "name": "National Championships New Zealand WE - Road Race",
-            "date": "07 Feb 2025",
+            "date": "7 Feb 2025",
             "points": 100,
             "rank": 1
           },
           {
             "name": "National Championships New Zealand WE - ITT",
-            "date": "06 Feb 2025",
+            "date": "6 Feb 2025",
             "points": 50,
             "rank": 1
           }
@@ -393,7 +393,7 @@
         "results": [
           {
             "name": "Omloop Nieuwsblad WE",
-            "date": "01 Mar 2025",
+            "date": "1 Mar 2025",
             "points": 16,
             "rank": 29
           },
@@ -405,7 +405,7 @@
           },
           {
             "name": "Cadel Evans Great Ocean Road Race - Women",
-            "date": "01 Feb 2025",
+            "date": "1 Feb 2025",
             "points": 56,
             "rank": 11
           },
@@ -438,13 +438,13 @@
         "results": [
           {
             "name": "UAE Tour Women - Stage 1",
-            "date": "06 Feb 2025",
+            "date": "6 Feb 2025",
             "points": 6,
             "rank": 10
           },
           {
             "name": "Cadel Evans Great Ocean Road Race - Women",
-            "date": "01 Feb 2025",
+            "date": "1 Feb 2025",
             "points": 16,
             "rank": 26
           },

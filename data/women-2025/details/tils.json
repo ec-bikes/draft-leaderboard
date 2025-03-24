@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 Mar 2025, 23:20 GMT",
+  "fetchedDate": "24 March 2025 23:23 GMT",
   "momentId": 189416,
   "team": {
     "owner": "Tils Raynolds",
@@ -23,13 +23,13 @@
           },
           {
             "name": "Strade Bianche Donne",
-            "date": "08 Mar 2025",
+            "date": "8 Mar 2025",
             "points": 24,
             "rank": 19
           },
           {
             "name": "Omloop Nieuwsblad WE",
-            "date": "01 Mar 2025",
+            "date": "1 Mar 2025",
             "points": 8,
             "rank": 36
           },
@@ -80,13 +80,13 @@
           },
           {
             "name": "Strade Bianche Donne",
-            "date": "08 Mar 2025",
+            "date": "8 Mar 2025",
             "points": 320,
             "rank": 2
           },
           {
             "name": "Fenix Omloop van het Hageland",
-            "date": "02 Mar 2025",
+            "date": "2 Mar 2025",
             "points": 35,
             "rank": 7
           },
@@ -113,7 +113,7 @@
         "results": [
           {
             "name": "Omloop Nieuwsblad WE",
-            "date": "01 Mar 2025",
+            "date": "1 Mar 2025",
             "points": 8,
             "rank": 40
           },
@@ -164,19 +164,19 @@
           },
           {
             "name": "National Championships New Zealand WE - Road Race",
-            "date": "07 Feb 2025",
+            "date": "7 Feb 2025",
             "points": 10,
             "rank": 8
           },
           {
             "name": "National Championships New Zealand WE - ITT",
-            "date": "06 Feb 2025",
+            "date": "6 Feb 2025",
             "points": 15,
             "rank": 4
           },
           {
             "name": "Cadel Evans Great Ocean Road Race - Women",
-            "date": "01 Feb 2025",
+            "date": "1 Feb 2025",
             "points": 400,
             "rank": 1
           },
@@ -273,7 +273,7 @@
           },
           {
             "name": "Le Samyn des Dames",
-            "date": "04 Mar 2025",
+            "date": "4 Mar 2025",
             "points": 25,
             "rank": 9
           }
@@ -300,19 +300,19 @@
           },
           {
             "name": "Strade Bianche Donne",
-            "date": "08 Mar 2025",
+            "date": "8 Mar 2025",
             "points": 260,
             "rank": 3
           },
           {
             "name": "UAE Tour Women - General classification",
-            "date": "09 Feb 2025",
+            "date": "9 Feb 2025",
             "points": 24,
             "rank": 17
           },
           {
             "name": "UAE Tour Women - Stage 2",
-            "date": "07 Feb 2025",
+            "date": "7 Feb 2025",
             "points": 6,
             "rank": 10
           }

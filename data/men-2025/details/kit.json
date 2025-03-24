@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 Mar 2025, 23:20 GMT",
+  "fetchedDate": "24 March 2025 23:23 GMT",
   "momentId": 189398,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 2393,
+    "totalPoints": 2429,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -23,7 +23,7 @@
           },
           {
             "name": "Strade Bianche",
-            "date": "08 Mar 2025",
+            "date": "8 Mar 2025",
             "points": 400,
             "rank": 1
           },
@@ -96,13 +96,13 @@
         "results": [
           {
             "name": "Strade Bianche",
-            "date": "08 Mar 2025",
+            "date": "8 Mar 2025",
             "points": 48,
             "rank": 12
           },
           {
             "name": "Omloop Nieuwsblad ME",
-            "date": "01 Mar 2025",
+            "date": "1 Mar 2025",
             "points": 5,
             "rank": 31
           },
@@ -119,8 +119,14 @@
         "id": 68367,
         "team": "SOQ",
         "country": "es",
-        "totalPoints": 231,
+        "totalPoints": 237,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 1",
+            "date": "24 Mar 2025",
+            "points": 6,
+            "rank": 8
+          },
           {
             "name": "Tirreno-Adriatico - General classification",
             "date": "16 Mar 2025",
@@ -135,7 +141,7 @@
           },
           {
             "name": "Strade Bianche",
-            "date": "08 Mar 2025",
+            "date": "8 Mar 2025",
             "points": 56,
             "rank": 11
           }
@@ -150,7 +156,7 @@
         "results": [
           {
             "name": "Kuurne - Brussel - Kuurne",
-            "date": "02 Mar 2025",
+            "date": "2 Mar 2025",
             "points": 30,
             "rank": 11
           },
@@ -168,7 +174,7 @@
           },
           {
             "name": "Etoile de Bessèges - Tour du Gard - Stage 1",
-            "date": "05 Feb 2025",
+            "date": "5 Feb 2025",
             "points": 5,
             "rank": 2
           }
@@ -179,8 +185,14 @@
         "id": 111683,
         "team": "ADC",
         "country": "au",
-        "totalPoints": 360,
+        "totalPoints": 390,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 1",
+            "date": "24 Mar 2025",
+            "points": 30,
+            "rank": 2
+          },
           {
             "name": "Milano-Sanremo",
             "date": "22 Mar 2025",
@@ -263,13 +275,13 @@
           },
           {
             "name": "Faun Drome Classic",
-            "date": "02 Mar 2025",
+            "date": "2 Mar 2025",
             "points": 25,
             "rank": 12
           },
           {
             "name": "Faun-Ardèche Classic",
-            "date": "01 Mar 2025",
+            "date": "1 Mar 2025",
             "points": 5,
             "rank": 16
           },

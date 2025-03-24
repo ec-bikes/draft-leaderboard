@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 Mar 2025, 23:20 GMT",
+  "fetchedDate": "24 March 2025 23:23 GMT",
   "momentId": 189398,
   "team": {
     "owner": "Andrew (member)",
@@ -47,7 +47,7 @@
           },
           {
             "name": "Muscat Classic",
-            "date": "07 Feb 2025",
+            "date": "7 Feb 2025",
             "points": 3,
             "rank": 25
           }
@@ -104,30 +104,30 @@
           },
           {
             "name": "Volta a la Comunitat Valenciana - General classification",
-            "date": "09 Feb 2025",
+            "date": "9 Feb 2025",
             "points": 150,
             "rank": 2
           },
           {
             "name": "Volta a la Comunitat Valenciana - Stage 3",
-            "date": "07 Feb 2025",
+            "date": "7 Feb 2025",
             "points": 10,
             "rank": 3
           },
           {
             "name": "Volta a la Comunitat Valenciana - Stage 3 - Bonus",
-            "date": "07 Feb 2025",
+            "date": "7 Feb 2025",
             "points": 5
           },
           {
             "name": "Volta a la Comunitat Valenciana - Stage 2",
-            "date": "06 Feb 2025",
+            "date": "6 Feb 2025",
             "points": 10,
             "rank": 3
           },
           {
             "name": "Volta a la Comunitat Valenciana - Stage 1 (TTT)",
-            "date": "05 Feb 2025",
+            "date": "5 Feb 2025",
             "points": 1.43,
             "rank": 3
           }
@@ -166,7 +166,7 @@
           },
           {
             "name": "Kuurne - Brussel - Kuurne",
-            "date": "02 Mar 2025",
+            "date": "2 Mar 2025",
             "points": 150,
             "rank": 2
           },
@@ -178,13 +178,13 @@
           },
           {
             "name": "Tour of Oman - Stage 1",
-            "date": "08 Feb 2025",
+            "date": "8 Feb 2025",
             "points": 20,
             "rank": 1
           },
           {
             "name": "Tour of Oman - Stage 1 - Bonus",
-            "date": "08 Feb 2025",
+            "date": "8 Feb 2025",
             "points": 5
           }
         ]
@@ -216,7 +216,7 @@
           },
           {
             "name": "Strade Bianche",
-            "date": "08 Mar 2025",
+            "date": "8 Mar 2025",
             "points": 24,
             "rank": 20
           },
@@ -228,30 +228,30 @@
           },
           {
             "name": "Etoile de Bessèges - Tour du Gard - General classification",
-            "date": "09 Feb 2025",
+            "date": "9 Feb 2025",
             "points": 125,
             "rank": 1
           },
           {
             "name": "Etoile de Bessèges - Tour du Gard - Stage 5 (ITT)",
-            "date": "09 Feb 2025",
+            "date": "9 Feb 2025",
             "points": 14,
             "rank": 1
           },
           {
             "name": "Etoile de Bessèges - Tour du Gard - Stage 4",
-            "date": "08 Feb 2025",
+            "date": "8 Feb 2025",
             "points": 14,
             "rank": 1
           },
           {
             "name": "Etoile de Bessèges - Tour du Gard - Stage 4 - Bonus",
-            "date": "08 Feb 2025",
+            "date": "8 Feb 2025",
             "points": 3
           },
           {
             "name": "Grand Prix Cycliste de Marseille La Marseillaise",
-            "date": "02 Feb 2025",
+            "date": "2 Feb 2025",
             "points": 3,
             "rank": 20
           }
@@ -305,13 +305,13 @@
           },
           {
             "name": "Volta a la Comunitat Valenciana - General classification",
-            "date": "09 Feb 2025",
+            "date": "9 Feb 2025",
             "points": 10,
             "rank": 15
           },
           {
             "name": "Volta a la Comunitat Valenciana - Stage 1 (TTT)",
-            "date": "05 Feb 2025",
+            "date": "5 Feb 2025",
             "points": 1.43,
             "rank": 3
           }
@@ -326,13 +326,13 @@
         "results": [
           {
             "name": "Strade Bianche",
-            "date": "08 Mar 2025",
+            "date": "8 Mar 2025",
             "points": 260,
             "rank": 3
           },
           {
             "name": "Omloop Nieuwsblad ME",
-            "date": "01 Mar 2025",
+            "date": "1 Mar 2025",
             "points": 5,
             "rank": 46
           },
@@ -460,7 +460,7 @@
           },
           {
             "name": "Volta a la Comunitat Valenciana - General classification",
-            "date": "09 Feb 2025",
+            "date": "9 Feb 2025",
             "points": 25,
             "rank": 12
           }

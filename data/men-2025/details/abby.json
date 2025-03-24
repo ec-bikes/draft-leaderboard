@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 Mar 2025, 23:20 GMT",
+  "fetchedDate": "24 March 2025 23:23 GMT",
   "momentId": 189398,
   "team": {
     "owner": "Abby Mickey",
@@ -17,7 +17,7 @@
         "results": [
           {
             "name": "Omloop Nieuwsblad ME",
-            "date": "01 Mar 2025",
+            "date": "1 Mar 2025",
             "points": 40,
             "rank": 11
           },
@@ -62,7 +62,7 @@
           },
           {
             "name": "Trofeo Palma",
-            "date": "02 Feb 2025",
+            "date": "2 Feb 2025",
             "points": 25,
             "rank": 9
           },
@@ -122,7 +122,7 @@
         "results": [
           {
             "name": "Trofeo Laigueglia",
-            "date": "05 Mar 2025",
+            "date": "5 Mar 2025",
             "points": 20,
             "rank": 13
           },
@@ -134,7 +134,7 @@
           },
           {
             "name": "Cadel Evans Great Ocean Road Race - Men",
-            "date": "02 Feb 2025",
+            "date": "2 Feb 2025",
             "points": 12,
             "rank": 25
           },
@@ -237,7 +237,7 @@
         "results": [
           {
             "name": "Faun Drome Classic",
-            "date": "02 Mar 2025",
+            "date": "2 Mar 2025",
             "points": 3,
             "rank": 39
           },
@@ -292,7 +292,7 @@
           },
           {
             "name": "Muscat Classic",
-            "date": "07 Feb 2025",
+            "date": "7 Feb 2025",
             "points": 5,
             "rank": 13
           }
@@ -337,13 +337,13 @@
           },
           {
             "name": "National Championships New Zealand ME - ITT",
-            "date": "06 Feb 2025",
+            "date": "6 Feb 2025",
             "points": 50,
             "rank": 1
           },
           {
             "name": "Cadel Evans Great Ocean Road Race - Men",
-            "date": "02 Feb 2025",
+            "date": "2 Feb 2025",
             "points": 50,
             "rank": 10
           },
@@ -412,25 +412,25 @@
           },
           {
             "name": "Volta a la Comunitat Valenciana - General classification",
-            "date": "09 Feb 2025",
+            "date": "9 Feb 2025",
             "points": 100,
             "rank": 4
           },
           {
             "name": "Volta a la Comunitat Valenciana - Stage 4",
-            "date": "08 Feb 2025",
+            "date": "8 Feb 2025",
             "points": 3,
             "rank": 5
           },
           {
             "name": "Volta a la Comunitat Valenciana - Stage 2",
-            "date": "06 Feb 2025",
+            "date": "6 Feb 2025",
             "points": 3,
             "rank": 5
           },
           {
             "name": "Volta a la Comunitat Valenciana - Stage 1 (TTT)",
-            "date": "05 Feb 2025",
+            "date": "5 Feb 2025",
             "points": 0.43,
             "rank": 5
           }
@@ -457,7 +457,7 @@
           },
           {
             "name": "Cadel Evans Great Ocean Road Race - Men",
-            "date": "02 Feb 2025",
+            "date": "2 Feb 2025",
             "points": 20,
             "rank": 18
           },

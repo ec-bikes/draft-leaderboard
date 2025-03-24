@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 Mar 2025, 23:20 GMT",
+  "fetchedDate": "24 March 2025 23:23 GMT",
   "momentId": 189416,
   "team": {
     "owner": "Georgie Howe",
@@ -23,7 +23,7 @@
           },
           {
             "name": "Omloop Nieuwsblad WE",
-            "date": "01 Mar 2025",
+            "date": "1 Mar 2025",
             "points": 8,
             "rank": 37
           },
@@ -44,31 +44,31 @@
         "results": [
           {
             "name": "Trofeo Oro in Euro - Women's Bike Race",
-            "date": "09 Mar 2025",
+            "date": "9 Mar 2025",
             "points": 30,
             "rank": 8
           },
           {
             "name": "Strade Bianche Donne",
-            "date": "08 Mar 2025",
+            "date": "8 Mar 2025",
             "points": 24,
             "rank": 16
           },
           {
             "name": "Omloop Nieuwsblad WE",
-            "date": "01 Mar 2025",
+            "date": "1 Mar 2025",
             "points": 32,
             "rank": 14
           },
           {
             "name": "UAE Tour Women - General classification",
-            "date": "09 Feb 2025",
+            "date": "9 Feb 2025",
             "points": 320,
             "rank": 2
           },
           {
             "name": "UAE Tour Women - Stage 3",
-            "date": "08 Feb 2025",
+            "date": "8 Feb 2025",
             "points": 40,
             "rank": 2
           },
@@ -101,19 +101,19 @@
           },
           {
             "name": "Trofeo Oro in Euro - Women's Bike Race",
-            "date": "09 Mar 2025",
+            "date": "9 Mar 2025",
             "points": 3,
             "rank": 24
           },
           {
             "name": "UAE Tour Women - General classification",
-            "date": "09 Feb 2025",
+            "date": "9 Feb 2025",
             "points": 120,
             "rank": 7
           },
           {
             "name": "UAE Tour Women - Stage 3",
-            "date": "08 Feb 2025",
+            "date": "8 Feb 2025",
             "points": 18,
             "rank": 6
           }
@@ -128,7 +128,7 @@
         "results": [
           {
             "name": "Omloop Nieuwsblad WE",
-            "date": "01 Mar 2025",
+            "date": "1 Mar 2025",
             "points": 48,
             "rank": 12
           },
@@ -173,7 +173,7 @@
         "results": [
           {
             "name": "Strade Bianche Donne",
-            "date": "08 Mar 2025",
+            "date": "8 Mar 2025",
             "points": 8,
             "rank": 37
           },
@@ -185,7 +185,7 @@
           },
           {
             "name": "National Championships Australia WE - ITT",
-            "date": "09 Jan 2025",
+            "date": "9 Jan 2025",
             "points": 50,
             "rank": 1
           }
@@ -212,19 +212,19 @@
           },
           {
             "name": "Omloop Nieuwsblad WE",
-            "date": "01 Mar 2025",
+            "date": "1 Mar 2025",
             "points": 16,
             "rank": 24
           },
           {
             "name": "UAE Tour Women - General classification",
-            "date": "09 Feb 2025",
+            "date": "9 Feb 2025",
             "points": 16,
             "rank": 23
           },
           {
             "name": "UAE Tour Women - Stage 2",
-            "date": "07 Feb 2025",
+            "date": "7 Feb 2025",
             "points": 40,
             "rank": 2
           },
@@ -251,19 +251,19 @@
           },
           {
             "name": "Strade Bianche Donne",
-            "date": "08 Mar 2025",
+            "date": "8 Mar 2025",
             "points": 220,
             "rank": 4
           },
           {
             "name": "Omloop Nieuwsblad WE",
-            "date": "01 Mar 2025",
+            "date": "1 Mar 2025",
             "points": 16,
             "rank": 21
           },
           {
             "name": "UAE Tour Women - General classification",
-            "date": "09 Feb 2025",
+            "date": "9 Feb 2025",
             "points": 56,
             "rank": 11
           }
@@ -326,7 +326,7 @@
         "results": [
           {
             "name": "UAE Tour Women - General classification",
-            "date": "09 Feb 2025",
+            "date": "9 Feb 2025",
             "points": 16,
             "rank": 21
           }

@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 Mar 2025, 23:20 GMT",
+  "fetchedDate": "24 March 2025 23:23 GMT",
   "momentId": 189398,
   "team": {
     "owner": "Dane Cash",
@@ -17,13 +17,13 @@
         "results": [
           {
             "name": "Kuurne - Brussel - Kuurne",
-            "date": "02 Mar 2025",
+            "date": "2 Mar 2025",
             "points": 200,
             "rank": 1
           },
           {
             "name": "Omloop Nieuwsblad ME",
-            "date": "01 Mar 2025",
+            "date": "1 Mar 2025",
             "points": 215,
             "rank": 3
           },
@@ -65,13 +65,13 @@
         "results": [
           {
             "name": "Volta a la Comunitat Valenciana - General classification",
-            "date": "09 Feb 2025",
+            "date": "9 Feb 2025",
             "points": 70,
             "rank": 6
           },
           {
             "name": "Volta a la Comunitat Valenciana - Stage 1 (TTT)",
-            "date": "05 Feb 2025",
+            "date": "5 Feb 2025",
             "points": 0.43,
             "rank": 5
           }
@@ -109,19 +109,19 @@
           },
           {
             "name": "Trofeo Laigueglia",
-            "date": "05 Mar 2025",
+            "date": "5 Mar 2025",
             "points": 200,
             "rank": 1
           },
           {
             "name": "Faun Drome Classic",
-            "date": "02 Mar 2025",
+            "date": "2 Mar 2025",
             "points": 200,
             "rank": 1
           },
           {
             "name": "Faun-Ardèche Classic",
-            "date": "01 Mar 2025",
+            "date": "1 Mar 2025",
             "points": 35,
             "rank": 10
           }
@@ -163,13 +163,13 @@
           },
           {
             "name": "Omloop Nieuwsblad ME",
-            "date": "01 Mar 2025",
+            "date": "1 Mar 2025",
             "points": 5,
             "rank": 43
           },
           {
             "name": "National Championships Ecuador ME - Road Race",
-            "date": "02 Feb 2025",
+            "date": "2 Feb 2025",
             "points": 100,
             "rank": 1
           },
@@ -213,13 +213,13 @@
         "results": [
           {
             "name": "National Championships Colombia ME - Road Race",
-            "date": "09 Feb 2025",
+            "date": "9 Feb 2025",
             "points": 100,
             "rank": 1
           },
           {
             "name": "National Championships Colombia ME - ITT",
-            "date": "06 Feb 2025",
+            "date": "6 Feb 2025",
             "points": 50,
             "rank": 1
           }
@@ -303,13 +303,13 @@
           },
           {
             "name": "Strade Bianche",
-            "date": "08 Mar 2025",
+            "date": "8 Mar 2025",
             "points": 4,
             "rank": 52
           },
           {
             "name": "Faun-Ardèche Classic",
-            "date": "01 Mar 2025",
+            "date": "1 Mar 2025",
             "points": 200,
             "rank": 1
           },
@@ -343,7 +343,7 @@
           },
           {
             "name": "Omloop Nieuwsblad ME",
-            "date": "01 Mar 2025",
+            "date": "1 Mar 2025",
             "points": 5,
             "rank": 32
           }
