@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "24 March 2025 23:23 GMT",
-  "momentId": 189398,
+  "fetchedDate": "25 March 2025 23:21 GMT",
+  "momentId": 189557,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 2429,
+    "totalPoints": 2434,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -183,10 +183,17 @@
       {
         "name": "Kaden Groves",
         "id": 111683,
+        "sanctions": 20,
         "team": "ADC",
         "country": "au",
-        "totalPoints": 390,
+        "totalPoints": 395,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 2",
+            "date": "25 Mar 2025",
+            "points": 25,
+            "rank": 3
+          },
           {
             "name": "Volta Ciclista a Catalunya - Stage 1",
             "date": "24 Mar 2025",
