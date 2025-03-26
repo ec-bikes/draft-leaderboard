@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "25 March 2025 23:21 GMT",
+  "fetchedDate": "26 March 2025 23:22 GMT",
   "momentId": 189557,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 2434,
+    "totalPoints": 2462,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -119,8 +119,14 @@
         "id": 68367,
         "team": "SOQ",
         "country": "es",
-        "totalPoints": 237,
+        "totalPoints": 262,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 3",
+            "date": "26 Mar 2025",
+            "points": 25,
+            "rank": 3
+          },
           {
             "name": "Volta Ciclista a Catalunya - Stage 1",
             "date": "24 Mar 2025",
@@ -213,8 +219,14 @@
         "id": 91656,
         "team": "EFE",
         "country": "ec",
-        "totalPoints": 63,
+        "totalPoints": 66,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 3",
+            "date": "26 Mar 2025",
+            "points": 3,
+            "rank": 9
+          },
           {
             "name": "Milano - Torino",
             "date": "19 Mar 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "25 March 2025 23:21 GMT",
+  "fetchedDate": "26 March 2025 23:22 GMT",
   "momentId": 189557,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 3116.46,
+    "totalPoints": 3366.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -85,8 +85,14 @@
         "id": 301151,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 373.86,
+        "totalPoints": 623.86,
         "results": [
+          {
+            "name": "Classic Brugge-De Panne ME",
+            "date": "26 Mar 2025",
+            "points": 250,
+            "rank": 2
+          },
           {
             "name": "Tirreno-Adriatico - Stage 7",
             "date": "16 Mar 2025",

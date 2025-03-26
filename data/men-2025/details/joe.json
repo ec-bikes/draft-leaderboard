@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "25 March 2025 23:21 GMT",
+  "fetchedDate": "26 March 2025 23:22 GMT",
   "momentId": 189557,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 2467.42,
+    "totalPoints": 2482.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -304,8 +304,14 @@
         "id": 482927,
         "team": "TPP",
         "country": "dk",
-        "totalPoints": 216,
+        "totalPoints": 228,
         "results": [
+          {
+            "name": "Classic Brugge-De Panne ME",
+            "date": "26 Mar 2025",
+            "points": 12,
+            "rank": 21
+          },
           {
             "name": "Bredene Koksijde Classic",
             "date": "21 Mar 2025",
@@ -361,8 +367,14 @@
         "id": 54679,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 123,
+        "totalPoints": 126,
         "results": [
+          {
+            "name": "Settimana Internazionale Coppi e Bartali - Stage 2",
+            "date": "26 Mar 2025",
+            "points": 3,
+            "rank": 3
+          },
           {
             "name": "Milano - Torino",
             "date": "19 Mar 2025",

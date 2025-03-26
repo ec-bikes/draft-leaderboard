@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "25 March 2025 23:21 GMT",
+  "fetchedDate": "26 March 2025 23:22 GMT",
   "momentId": 189557,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 3443.57,
+    "totalPoints": 3544.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
         "id": 148275,
         "team": "ADC",
         "country": "be",
-        "totalPoints": 460,
+        "totalPoints": 465,
         "results": [
+          {
+            "name": "Classic Brugge-De Panne ME",
+            "date": "26 Mar 2025",
+            "points": 5,
+            "rank": 47
+          },
           {
             "name": "Kuurne - Brussel - Kuurne",
             "date": "2 Mar 2025",
@@ -46,8 +52,14 @@
         "id": 88889,
         "team": "RBH",
         "country": "si",
-        "totalPoints": 50,
+        "totalPoints": 80,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 3",
+            "date": "26 Mar 2025",
+            "points": 30,
+            "rank": 2
+          },
           {
             "name": "Volta ao Algarve em Bicicleta - General classification",
             "date": "23 Feb 2025",
@@ -82,8 +94,19 @@
         "id": 415141,
         "team": "UAD",
         "country": "es",
-        "totalPoints": 1045,
+        "totalPoints": 1103,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 3",
+            "date": "26 Mar 2025",
+            "points": 50,
+            "rank": 1
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 3 - Bonus",
+            "date": "26 Mar 2025",
+            "points": 8
+          },
           {
             "name": "Tirreno-Adriatico - General classification",
             "date": "16 Mar 2025",
@@ -209,8 +232,14 @@
         "id": 95844,
         "team": "IGD",
         "country": "co",
-        "totalPoints": 150,
+        "totalPoints": 158,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 3",
+            "date": "26 Mar 2025",
+            "points": 8,
+            "rank": 7
+          },
           {
             "name": "National Championships Colombia ME - Road Race",
             "date": "9 Feb 2025",
