@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 March 2025 23:22 GMT",
+  "fetchedDate": "27 March 2025 23:23 GMT",
   "momentId": 189575,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 1811,
+    "totalPoints": 1827,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -196,8 +196,14 @@
         "id": 459694,
         "team": "HPH",
         "country": "us",
-        "totalPoints": 95,
+        "totalPoints": 111,
         "results": [
+          {
+            "name": "Classic Brugge-De Panne WE",
+            "date": "27 Mar 2025",
+            "points": 16,
+            "rank": 22
+          },
           {
             "name": "Danilith Nokere Koerse WE",
             "date": "19 Mar 2025",

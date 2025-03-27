@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 March 2025 23:22 GMT",
+  "fetchedDate": "27 March 2025 23:23 GMT",
   "momentId": 189575,
   "team": {
     "owner": "Loren Rowney",
     "name": "(TBD)",
-    "totalPoints": 2759,
+    "totalPoints": 3003,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -265,8 +265,14 @@
         "id": 153287,
         "team": "LTK",
         "country": "fr",
-        "totalPoints": 381,
+        "totalPoints": 405,
         "results": [
+          {
+            "name": "Classic Brugge-De Panne WE",
+            "date": "27 Mar 2025",
+            "points": 24,
+            "rank": 16
+          },
           {
             "name": "Danilith Nokere Koerse WE",
             "date": "19 Mar 2025",
@@ -310,8 +316,14 @@
         "id": 78086,
         "team": "LIV",
         "country": "au",
-        "totalPoints": 270,
+        "totalPoints": 490,
         "results": [
+          {
+            "name": "Classic Brugge-De Panne WE",
+            "date": "27 Mar 2025",
+            "points": 220,
+            "rank": 4
+          },
           {
             "name": "Le Samyn des Dames",
             "date": "4 Mar 2025",

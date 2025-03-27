@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 March 2025 23:22 GMT",
+  "fetchedDate": "27 March 2025 23:23 GMT",
   "momentId": 189575,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 2592,
+    "totalPoints": 2940,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -168,8 +168,14 @@
         "id": 157612,
         "team": "TPP",
         "country": "nl",
-        "totalPoints": 80,
+        "totalPoints": 108,
         "results": [
+          {
+            "name": "Classic Brugge-De Panne WE",
+            "date": "27 Mar 2025",
+            "points": 28,
+            "rank": 15
+          },
           {
             "name": "Le Samyn des Dames",
             "date": "4 Mar 2025",
@@ -228,8 +234,14 @@
         "id": 156600,
         "team": "CSZ",
         "country": "it",
-        "totalPoints": 225,
+        "totalPoints": 545,
         "results": [
+          {
+            "name": "Classic Brugge-De Panne WE",
+            "date": "27 Mar 2025",
+            "points": 320,
+            "rank": 2
+          },
           {
             "name": "Ixina GP Oetingen p/b Lotto",
             "date": "12 Mar 2025",

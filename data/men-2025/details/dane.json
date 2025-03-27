@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 March 2025 23:22 GMT",
+  "fetchedDate": "27 March 2025 23:23 GMT",
   "momentId": 189557,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 3544.57,
+    "totalPoints": 3632.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -52,8 +52,19 @@
         "id": 88889,
         "team": "RBH",
         "country": "si",
-        "totalPoints": 80,
+        "totalPoints": 138,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 4",
+            "date": "27 Mar 2025",
+            "points": 50,
+            "rank": 1
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 4 - Bonus",
+            "date": "27 Mar 2025",
+            "points": 8
+          },
           {
             "name": "Volta Ciclista a Catalunya - Stage 3",
             "date": "26 Mar 2025",
@@ -94,8 +105,14 @@
         "id": 415141,
         "team": "UAD",
         "country": "es",
-        "totalPoints": 1103,
+        "totalPoints": 1133,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 4",
+            "date": "27 Mar 2025",
+            "points": 30,
+            "rank": 2
+          },
           {
             "name": "Volta Ciclista a Catalunya - Stage 3",
             "date": "26 Mar 2025",

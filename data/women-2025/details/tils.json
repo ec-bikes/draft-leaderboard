@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 March 2025 23:22 GMT",
+  "fetchedDate": "27 March 2025 23:23 GMT",
   "momentId": 189575,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 2775,
+    "totalPoints": 2831,
     "riders": [
       {
         "name": "Liane Lippert",
@@ -154,8 +154,14 @@
         "id": 220562,
         "team": "TFS",
         "country": "nz",
-        "totalPoints": 775,
+        "totalPoints": 831,
         "results": [
+          {
+            "name": "Classic Brugge-De Panne WE",
+            "date": "27 Mar 2025",
+            "points": 56,
+            "rank": 11
+          },
           {
             "name": "Clasica de Almeria WE",
             "date": "23 Feb 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 March 2025 23:22 GMT",
+  "fetchedDate": "27 March 2025 23:23 GMT",
   "momentId": 189557,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 2740.25,
+    "totalPoints": 2760.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -240,8 +240,14 @@
         "id": 1843476,
         "team": "TBV",
         "country": "fr",
-        "totalPoints": 268,
+        "totalPoints": 288,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 4",
+            "date": "27 Mar 2025",
+            "points": 20,
+            "rank": 4
+          },
           {
             "name": "Volta Ciclista a Catalunya - Stage 3",
             "date": "26 Mar 2025",

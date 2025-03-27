@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 March 2025 23:22 GMT",
+  "fetchedDate": "27 March 2025 23:23 GMT",
   "momentId": 189557,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 2845.28,
+    "totalPoints": 2855.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -381,8 +381,14 @@
         "id": 150925,
         "team": "DAT",
         "country": "at",
-        "totalPoints": 116.43,
+        "totalPoints": 126.43,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 4",
+            "date": "27 Mar 2025",
+            "points": 10,
+            "rank": 6
+          },
           {
             "name": "Paris-Nice - General classification",
             "date": "16 Mar 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 March 2025 23:22 GMT",
+  "fetchedDate": "27 March 2025 23:23 GMT",
   "momentId": 189575,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 3844,
+    "totalPoints": 4172,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -79,8 +79,14 @@
         "id": 101826,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 710,
+        "totalPoints": 970,
         "results": [
+          {
+            "name": "Classic Brugge-De Panne WE",
+            "date": "27 Mar 2025",
+            "points": 260,
+            "rank": 3
+          },
           {
             "name": "Milano-Sanremo Donne",
             "date": "22 Mar 2025",
@@ -434,8 +440,14 @@
         "id": 98622,
         "team": "HPH",
         "country": "at",
-        "totalPoints": 147,
+        "totalPoints": 215,
         "results": [
+          {
+            "name": "Classic Brugge-De Panne WE",
+            "date": "27 Mar 2025",
+            "points": 68,
+            "rank": 10
+          },
           {
             "name": "UAE Tour Women - Stage 1",
             "date": "6 Feb 2025",
