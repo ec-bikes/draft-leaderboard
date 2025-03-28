@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "27 March 2025 23:23 GMT",
+  "fetchedDate": "28 March 2025 23:22 GMT",
   "momentId": 189557,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 2846.14,
+    "totalPoints": 2870.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -256,8 +256,14 @@
         "id": 91637,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 38,
+        "totalPoints": 62,
         "results": [
+          {
+            "name": "E3 Saxo Classic ME",
+            "date": "28 Mar 2025",
+            "points": 24,
+            "rank": 17
+          },
           {
             "name": "Tirreno-Adriatico - General classification",
             "date": "16 Mar 2025",

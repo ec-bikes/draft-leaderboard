@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "27 March 2025 23:23 GMT",
+  "fetchedDate": "28 March 2025 23:22 GMT",
   "momentId": 189557,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 2482.42,
+    "totalPoints": 3202.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
         "id": 79462,
         "team": "ADC",
         "country": "nl",
-        "totalPoints": 1005,
+        "totalPoints": 1405,
         "results": [
+          {
+            "name": "E3 Saxo Classic ME",
+            "date": "28 Mar 2025",
+            "points": 400,
+            "rank": 1
+          },
           {
             "name": "Milano-Sanremo",
             "date": "22 Mar 2025",
@@ -52,8 +58,14 @@
         "id": 86895,
         "team": "LTK",
         "country": "dk",
-        "totalPoints": 497.57,
+        "totalPoints": 817.57,
         "results": [
+          {
+            "name": "E3 Saxo Classic ME",
+            "date": "28 Mar 2025",
+            "points": 320,
+            "rank": 2
+          },
           {
             "name": "Milano-Sanremo",
             "date": "22 Mar 2025",

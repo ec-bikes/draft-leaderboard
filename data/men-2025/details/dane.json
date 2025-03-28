@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "27 March 2025 23:23 GMT",
+  "fetchedDate": "28 March 2025 23:22 GMT",
   "momentId": 189557,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 3632.57,
+    "totalPoints": 3781.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -105,8 +105,19 @@
         "id": 415141,
         "team": "UAD",
         "country": "es",
-        "totalPoints": 1133,
+        "totalPoints": 1142,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 5",
+            "date": "28 Mar 2025",
+            "points": 1,
+            "rank": 10
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 5 - Bonus",
+            "date": "28 Mar 2025",
+            "points": 8
+          },
           {
             "name": "Volta Ciclista a Catalunya - Stage 4",
             "date": "27 Mar 2025",
@@ -379,8 +390,14 @@
         "sanctions": 25,
         "team": "GFC",
         "country": "ch",
-        "totalPoints": -10,
+        "totalPoints": 130,
         "results": [
+          {
+            "name": "E3 Saxo Classic ME",
+            "date": "28 Mar 2025",
+            "points": 140,
+            "rank": 6
+          },
           {
             "name": "Paris-Nice - General classification",
             "date": "16 Mar 2025",

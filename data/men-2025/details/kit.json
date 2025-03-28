@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "27 March 2025 23:23 GMT",
+  "fetchedDate": "28 March 2025 23:22 GMT",
   "momentId": 189557,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 2477,
+    "totalPoints": 2533,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -92,8 +92,14 @@
         "id": 68892,
         "team": "LTK",
         "country": "lv",
-        "totalPoints": 58,
+        "totalPoints": 114,
         "results": [
+          {
+            "name": "E3 Saxo Classic ME",
+            "date": "28 Mar 2025",
+            "points": 56,
+            "rank": 11
+          },
           {
             "name": "Strade Bianche",
             "date": "8 Mar 2025",

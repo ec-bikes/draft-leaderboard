@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "27 March 2025 23:23 GMT",
+  "fetchedDate": "28 March 2025 23:22 GMT",
   "momentId": 189557,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 3301.29,
+    "totalPoints": 3605.29,
     "riders": [
       {
         "name": "Wout van Aert",
         "id": 75859,
         "team": "TVL",
         "country": "be",
-        "totalPoints": 55,
+        "totalPoints": 83,
         "results": [
+          {
+            "name": "E3 Saxo Classic ME",
+            "date": "28 Mar 2025",
+            "points": 28,
+            "rank": 15
+          },
           {
             "name": "Omloop Nieuwsblad ME",
             "date": "1 Mar 2025",
@@ -34,8 +40,14 @@
         "id": 1707195,
         "team": "IWA",
         "country": "er",
-        "totalPoints": 238,
+        "totalPoints": 254,
         "results": [
+          {
+            "name": "E3 Saxo Classic ME",
+            "date": "28 Mar 2025",
+            "points": 16,
+            "rank": 22
+          },
           {
             "name": "Milano-Sanremo",
             "date": "22 Mar 2025",
@@ -157,8 +169,14 @@
         "id": 91640,
         "team": "IGD",
         "country": "it",
-        "totalPoints": 1177,
+        "totalPoints": 1437,
         "results": [
+          {
+            "name": "E3 Saxo Classic ME",
+            "date": "28 Mar 2025",
+            "points": 260,
+            "rank": 3
+          },
           {
             "name": "Milano-Sanremo",
             "date": "22 Mar 2025",

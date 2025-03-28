@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "27 March 2025 23:23 GMT",
+  "fetchedDate": "28 March 2025 23:22 GMT",
   "momentId": 189557,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 2855.28,
+    "totalPoints": 2955.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -328,8 +328,14 @@
         "id": 64531,
         "team": "UAD",
         "country": "be",
-        "totalPoints": 415,
+        "totalPoints": 515,
         "results": [
+          {
+            "name": "E3 Saxo Classic ME",
+            "date": "28 Mar 2025",
+            "points": 100,
+            "rank": 8
+          },
           {
             "name": "Strade Bianche",
             "date": "8 Mar 2025",

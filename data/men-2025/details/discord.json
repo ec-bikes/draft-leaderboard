@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "27 March 2025 23:23 GMT",
+  "fetchedDate": "28 March 2025 23:22 GMT",
   "momentId": 189557,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 3238.38,
+    "totalPoints": 3246.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -150,8 +150,14 @@
         "id": 442797,
         "team": "UAD",
         "country": "pt",
-        "totalPoints": 551,
+        "totalPoints": 559,
         "results": [
+          {
+            "name": "E3 Saxo Classic ME",
+            "date": "28 Mar 2025",
+            "points": 8,
+            "rank": 33
+          },
           {
             "name": "Grand Prix de Denain - Porte du Hainaut",
             "date": "20 Mar 2025",
