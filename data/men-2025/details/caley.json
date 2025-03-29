@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "28 March 2025 23:22 GMT",
+  "fetchedDate": "29 March 2025 23:21 GMT",
   "momentId": 189557,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 3470.46,
+    "totalPoints": 3490.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -354,8 +354,14 @@
         "id": 361433,
         "team": "IGD",
         "country": "us",
-        "totalPoints": 690.86,
+        "totalPoints": 710.86,
         "results": [
+          {
+            "name": "Settimana Internazionale Coppi e Bartali - General classification",
+            "date": "29 Mar 2025",
+            "points": 20,
+            "rank": 10
+          },
           {
             "name": "Settimana Internazionale Coppi e Bartali - Stage 3",
             "date": "27 Mar 2025",

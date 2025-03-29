@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "28 March 2025 23:22 GMT",
+  "fetchedDate": "29 March 2025 23:21 GMT",
   "momentId": 189557,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 3781.57,
+    "totalPoints": 3789.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -105,8 +105,13 @@
         "id": 415141,
         "team": "UAD",
         "country": "es",
-        "totalPoints": 1142,
+        "totalPoints": 1150,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 6 - Bonus",
+            "date": "29 Mar 2025",
+            "points": 8
+          },
           {
             "name": "Volta Ciclista a Catalunya - Stage 5",
             "date": "28 Mar 2025",
