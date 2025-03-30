@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "29 March 2025 23:21 GMT",
+  "fetchedDate": "30 March 2025 23:22 GMT",
   "momentId": 189557,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 2955.28,
+    "totalPoints": 2989.28,
     "riders": [
       {
         "name": "Adam Yates",
         "id": 70590,
         "team": "UAD",
         "country": "gb",
-        "totalPoints": 364,
+        "totalPoints": 372,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - General classification",
+            "date": "30 Mar 2025",
+            "points": 8,
+            "rank": 32
+          },
           {
             "name": "Volta Ciclista a Catalunya - Stage 3",
             "date": "26 Mar 2025",
@@ -328,8 +334,14 @@
         "id": 64531,
         "team": "UAD",
         "country": "be",
-        "totalPoints": 515,
+        "totalPoints": 525,
         "results": [
+          {
+            "name": "Gent-Wevelgem in Flanders Fields ME",
+            "date": "30 Mar 2025",
+            "points": 10,
+            "rank": 37
+          },
           {
             "name": "E3 Saxo Classic ME",
             "date": "28 Mar 2025",
@@ -489,8 +501,14 @@
         "id": 89223,
         "team": "UAD",
         "country": "es",
-        "totalPoints": 65,
+        "totalPoints": 81,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - General classification",
+            "date": "30 Mar 2025",
+            "points": 16,
+            "rank": 26
+          },
           {
             "name": "Vuelta a Andalucia Ruta Ciclista Del Sol - General classification",
             "date": "23 Feb 2025",

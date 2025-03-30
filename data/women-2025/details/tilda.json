@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "29 March 2025 23:21 GMT",
+  "fetchedDate": "30 March 2025 23:22 GMT",
   "momentId": 189575,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 4436,
+    "totalPoints": 4836,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 1311,
+        "totalPoints": 1711,
         "results": [
+          {
+            "name": "Gent-Wevelgem In Flanders Fields WE",
+            "date": "30 Mar 2025",
+            "points": 400,
+            "rank": 1
+          },
           {
             "name": "Classic Brugge-De Panne WE",
             "date": "27 Mar 2025",

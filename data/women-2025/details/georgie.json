@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "29 March 2025 23:21 GMT",
+  "fetchedDate": "30 March 2025 23:22 GMT",
   "momentId": 189575,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 1827,
+    "totalPoints": 1947,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -196,8 +196,14 @@
         "id": 459694,
         "team": "HPH",
         "country": "us",
-        "totalPoints": 111,
+        "totalPoints": 231,
         "results": [
+          {
+            "name": "Gent-Wevelgem In Flanders Fields WE",
+            "date": "30 Mar 2025",
+            "points": 120,
+            "rank": 7
+          },
           {
             "name": "Classic Brugge-De Panne WE",
             "date": "27 Mar 2025",

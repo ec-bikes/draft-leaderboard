@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "29 March 2025 23:21 GMT",
+  "fetchedDate": "30 March 2025 23:22 GMT",
   "momentId": 189557,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 2760.25,
+    "totalPoints": 3408.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -21,8 +21,14 @@
         "id": 70962,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 286.29,
+        "totalPoints": 686.29,
         "results": [
+          {
+            "name": "Gent-Wevelgem in Flanders Fields ME",
+            "date": "30 Mar 2025",
+            "points": 400,
+            "rank": 2
+          },
           {
             "name": "Paris-Nice - Stage 3 (TTT)",
             "date": "11 Mar 2025",
@@ -99,8 +105,14 @@
         "id": 97805,
         "team": "JAY",
         "country": "au",
-        "totalPoints": 83.81,
+        "totalPoints": 131.81,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - General classification",
+            "date": "30 Mar 2025",
+            "points": 48,
+            "rank": 12
+          },
           {
             "name": "Paris-Nice - General classification",
             "date": "16 Mar 2025",
@@ -240,8 +252,14 @@
         "id": 1843476,
         "team": "TBV",
         "country": "fr",
-        "totalPoints": 288,
+        "totalPoints": 468,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - General classification",
+            "date": "30 Mar 2025",
+            "points": 180,
+            "rank": 5
+          },
           {
             "name": "Volta Ciclista a Catalunya - Stage 4",
             "date": "27 Mar 2025",
@@ -455,8 +473,14 @@
         "sanctions": 10,
         "team": "RBH",
         "country": "nz",
-        "totalPoints": 230,
+        "totalPoints": 250,
         "results": [
+          {
+            "name": "Gent-Wevelgem in Flanders Fields ME",
+            "date": "30 Mar 2025",
+            "points": 20,
+            "rank": 27
+          },
           {
             "name": "Milano-Sanremo",
             "date": "22 Mar 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "29 March 2025 23:21 GMT",
+  "fetchedDate": "30 March 2025 23:22 GMT",
   "momentId": 189557,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 2870.14,
+    "totalPoints": 3148.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -90,8 +90,14 @@
         "id": 109803,
         "team": "MOV",
         "country": "es",
-        "totalPoints": 86,
+        "totalPoints": 346,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - General classification",
+            "date": "30 Mar 2025",
+            "points": 260,
+            "rank": 3
+          },
           {
             "name": "Volta Ciclista a Catalunya - Stage 4",
             "date": "27 Mar 2025",
@@ -256,8 +262,14 @@
         "id": 91637,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 62,
+        "totalPoints": 72,
         "results": [
+          {
+            "name": "Gent-Wevelgem in Flanders Fields ME",
+            "date": "30 Mar 2025",
+            "points": 10,
+            "rank": 32
+          },
           {
             "name": "E3 Saxo Classic ME",
             "date": "28 Mar 2025",
@@ -295,8 +307,15 @@
         "id": 32532,
         "team": "IGD",
         "country": "gb",
-        "totalPoints": 0,
-        "results": []
+        "totalPoints": 8,
+        "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - General classification",
+            "date": "30 Mar 2025",
+            "points": 8,
+            "rank": 45
+          }
+        ]
       },
       {
         "name": "Christian Scaroni",

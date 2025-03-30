@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "29 March 2025 23:21 GMT",
+  "fetchedDate": "30 March 2025 23:22 GMT",
   "momentId": 189557,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 3246.38,
+    "totalPoints": 3256.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -264,8 +264,14 @@
         "id": 1759987,
         "team": "SOQ",
         "country": "fr",
-        "totalPoints": 533,
+        "totalPoints": 543,
         "results": [
+          {
+            "name": "Gent-Wevelgem in Flanders Fields ME",
+            "date": "30 Mar 2025",
+            "points": 10,
+            "rank": 38
+          },
           {
             "name": "Tirreno-Adriatico - Stage 4",
             "date": "13 Mar 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "29 March 2025 23:21 GMT",
+  "fetchedDate": "30 March 2025 23:22 GMT",
   "momentId": 189575,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 4172,
+    "totalPoints": 4500,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -79,8 +79,14 @@
         "id": 101826,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 970,
+        "totalPoints": 1290,
         "results": [
+          {
+            "name": "Gent-Wevelgem In Flanders Fields WE",
+            "date": "30 Mar 2025",
+            "points": 320,
+            "rank": 2
+          },
           {
             "name": "Classic Brugge-De Panne WE",
             "date": "27 Mar 2025",
@@ -142,8 +148,14 @@
         "id": 109716,
         "team": "CSZ",
         "country": "us",
-        "totalPoints": 611,
+        "totalPoints": 619,
         "results": [
+          {
+            "name": "Gent-Wevelgem In Flanders Fields WE",
+            "date": "30 Mar 2025",
+            "points": 8,
+            "rank": 36
+          },
           {
             "name": "Milano-Sanremo Donne",
             "date": "22 Mar 2025",

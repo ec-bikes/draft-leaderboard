@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "29 March 2025 23:21 GMT",
+  "fetchedDate": "30 March 2025 23:22 GMT",
   "momentId": 189575,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 2831,
+    "totalPoints": 2971,
     "riders": [
       {
         "name": "Liane Lippert",
@@ -154,8 +154,14 @@
         "id": 220562,
         "team": "TFS",
         "country": "nz",
-        "totalPoints": 831,
+        "totalPoints": 931,
         "results": [
+          {
+            "name": "Gent-Wevelgem In Flanders Fields WE",
+            "date": "30 Mar 2025",
+            "points": 100,
+            "rank": 8
+          },
           {
             "name": "Classic Brugge-De Panne WE",
             "date": "27 Mar 2025",
@@ -269,8 +275,14 @@
         "id": 153363,
         "team": "LIV",
         "country": "it",
-        "totalPoints": 205,
+        "totalPoints": 245,
         "results": [
+          {
+            "name": "Gent-Wevelgem In Flanders Fields WE",
+            "date": "30 Mar 2025",
+            "points": 40,
+            "rank": 13
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "16 Mar 2025",

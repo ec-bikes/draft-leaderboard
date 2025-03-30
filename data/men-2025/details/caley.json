@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "29 March 2025 23:21 GMT",
+  "fetchedDate": "30 March 2025 23:22 GMT",
   "momentId": 189557,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 3490.46,
+    "totalPoints": 3861.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -14,8 +14,14 @@
         "sanctions": 25,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 698.57,
+        "totalPoints": 718.57,
         "results": [
+          {
+            "name": "Gent-Wevelgem in Flanders Fields ME",
+            "date": "30 Mar 2025",
+            "points": 20,
+            "rank": 30
+          },
           {
             "name": "E3 Saxo Classic ME",
             "date": "28 Mar 2025",
@@ -91,8 +97,14 @@
         "id": 301151,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 623.86,
+        "totalPoints": 948.86,
         "results": [
+          {
+            "name": "Gent-Wevelgem in Flanders Fields ME",
+            "date": "30 Mar 2025",
+            "points": 325,
+            "rank": 3
+          },
           {
             "name": "Classic Brugge-De Panne ME",
             "date": "26 Mar 2025",
@@ -177,8 +189,14 @@
         "id": 88346,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 3,
+        "totalPoints": 19,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - General classification",
+            "date": "30 Mar 2025",
+            "points": 16,
+            "rank": 23
+          },
           {
             "name": "Volta ao Algarve em Bicicleta - General classification",
             "date": "23 Feb 2025",
@@ -192,8 +210,14 @@
         "id": 62919,
         "team": "JAY",
         "country": "au",
-        "totalPoints": 477.67,
+        "totalPoints": 487.67,
         "results": [
+          {
+            "name": "Gent-Wevelgem in Flanders Fields ME",
+            "date": "30 Mar 2025",
+            "points": 10,
+            "rank": 39
+          },
           {
             "name": "E3 Saxo Classic ME",
             "date": "28 Mar 2025",

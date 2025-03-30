@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "29 March 2025 23:21 GMT",
+  "fetchedDate": "30 March 2025 23:22 GMT",
   "momentId": 189557,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 3789.57,
+    "totalPoints": 4775.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
         "id": 148275,
         "team": "ADC",
         "country": "be",
-        "totalPoints": 465,
+        "totalPoints": 475,
         "results": [
+          {
+            "name": "Gent-Wevelgem in Flanders Fields ME",
+            "date": "30 Mar 2025",
+            "points": 10,
+            "rank": 44
+          },
           {
             "name": "Classic Brugge-De Panne ME",
             "date": "26 Mar 2025",
@@ -52,8 +58,20 @@
         "id": 88889,
         "team": "RBH",
         "country": "si",
-        "totalPoints": 138,
+        "totalPoints": 588,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - General classification",
+            "date": "30 Mar 2025",
+            "points": 400,
+            "rank": 1
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 7",
+            "date": "30 Mar 2025",
+            "points": 50,
+            "rank": 1
+          },
           {
             "name": "Volta Ciclista a Catalunya - Stage 4",
             "date": "27 Mar 2025",
@@ -105,8 +123,14 @@
         "id": 415141,
         "team": "UAD",
         "country": "es",
-        "totalPoints": 1150,
+        "totalPoints": 1470,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - General classification",
+            "date": "30 Mar 2025",
+            "points": 320,
+            "rank": 2
+          },
           {
             "name": "Volta Ciclista a Catalunya - Stage 6 - Bonus",
             "date": "29 Mar 2025",
@@ -188,8 +212,20 @@
         "id": 1558112,
         "team": "TVL",
         "country": "gb",
-        "totalPoints": 40,
+        "totalPoints": 126,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - General classification",
+            "date": "30 Mar 2025",
+            "points": 80,
+            "rank": 9
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - Stage 7",
+            "date": "30 Mar 2025",
+            "points": 6,
+            "rank": 8
+          },
           {
             "name": "Tirreno-Adriatico - General classification",
             "date": "16 Mar 2025",
@@ -265,8 +301,14 @@
         "id": 95844,
         "team": "IGD",
         "country": "co",
-        "totalPoints": 158,
+        "totalPoints": 278,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya - General classification",
+            "date": "30 Mar 2025",
+            "points": 120,
+            "rank": 7
+          },
           {
             "name": "Volta Ciclista a Catalunya - Stage 3",
             "date": "26 Mar 2025",
