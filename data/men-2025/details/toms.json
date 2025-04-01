@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "31 March 2025 23:22 GMT",
-  "momentId": 189557,
+  "fetchedDate": "1 April 2025 23:23 GMT",
+  "momentId": 189727,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 3408.25,
+    "totalPoints": 3383.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -19,9 +19,10 @@
       {
         "name": "Tim Merlier",
         "id": 70962,
+        "sanctions": 25,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 686.29,
+        "totalPoints": 661.29,
         "results": [
           {
             "name": "Gent-Wevelgem in Flanders Fields ME",
