@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 April 2025 23:23 GMT",
+  "fetchedDate": "2 April 2025 23:21 GMT",
   "momentId": 189745,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 1932,
+    "totalPoints": 1955,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
         "id": 86824,
         "team": "CSZ",
         "country": "pl",
-        "totalPoints": 41,
+        "totalPoints": 61,
         "results": [
+          {
+            "name": "Dwars door Vlaanderen - A travers la Flandre WE",
+            "date": "2 Apr 2025",
+            "points": 20,
+            "rank": 13
+          },
           {
             "name": "Milano-Sanremo Donne",
             "date": "22 Mar 2025",
@@ -287,8 +293,14 @@
         "id": 66056,
         "team": "LTK",
         "country": "nl",
-        "totalPoints": 8,
+        "totalPoints": 11,
         "results": [
+          {
+            "name": "Dwars door Vlaanderen - A travers la Flandre WE",
+            "date": "2 Apr 2025",
+            "points": 3,
+            "rank": 29
+          },
           {
             "name": "Milano-Sanremo Donne",
             "date": "22 Mar 2025",

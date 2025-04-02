@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 April 2025 23:23 GMT",
+  "fetchedDate": "2 April 2025 23:22 GMT",
   "momentId": 189727,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 3710.42,
+    "totalPoints": 3830.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -58,8 +58,14 @@
         "id": 86895,
         "team": "LTK",
         "country": "dk",
-        "totalPoints": 1317.57,
+        "totalPoints": 1437.57,
         "results": [
+          {
+            "name": "Dwars door Vlaanderen - A travers la Flandre ME",
+            "date": "2 Apr 2025",
+            "points": 120,
+            "rank": 5
+          },
           {
             "name": "Gent-Wevelgem in Flanders Fields ME",
             "date": "30 Mar 2025",

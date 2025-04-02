@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 April 2025 23:23 GMT",
+  "fetchedDate": "2 April 2025 23:22 GMT",
   "momentId": 189727,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 3383.25,
+    "totalPoints": 3385.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -22,8 +22,14 @@
         "sanctions": 25,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 661.29,
+        "totalPoints": 663.29,
         "results": [
+          {
+            "name": "Dwars door Vlaanderen - A travers la Flandre ME",
+            "date": "2 Apr 2025",
+            "points": 2,
+            "rank": 53
+          },
           {
             "name": "Gent-Wevelgem in Flanders Fields ME",
             "date": "30 Mar 2025",

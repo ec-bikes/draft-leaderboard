@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 April 2025 23:23 GMT",
+  "fetchedDate": "2 April 2025 23:21 GMT",
   "momentId": 189745,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 4836,
+    "totalPoints": 4936,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -113,8 +113,14 @@
         "id": 234336,
         "team": "FDC",
         "country": "nl",
-        "totalPoints": 673,
+        "totalPoints": 773,
         "results": [
+          {
+            "name": "Dwars door Vlaanderen - A travers la Flandre WE",
+            "date": "2 Apr 2025",
+            "points": 100,
+            "rank": 4
+          },
           {
             "name": "Milano-Sanremo Donne",
             "date": "22 Mar 2025",

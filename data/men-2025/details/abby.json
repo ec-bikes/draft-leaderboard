@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 April 2025 23:23 GMT",
+  "fetchedDate": "2 April 2025 23:22 GMT",
   "momentId": 189727,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 3755.29,
+    "totalPoints": 4025.29,
     "riders": [
       {
         "name": "Wout van Aert",
         "id": 75859,
         "team": "TVL",
         "country": "be",
-        "totalPoints": 83,
+        "totalPoints": 333,
         "results": [
+          {
+            "name": "Dwars door Vlaanderen - A travers la Flandre ME",
+            "date": "2 Apr 2025",
+            "points": 250,
+            "rank": 2
+          },
           {
             "name": "E3 Saxo Classic ME",
             "date": "28 Mar 2025",
@@ -40,8 +46,14 @@
         "id": 1707195,
         "team": "IWA",
         "country": "er",
-        "totalPoints": 404,
+        "totalPoints": 424,
         "results": [
+          {
+            "name": "Dwars door Vlaanderen - A travers la Flandre ME",
+            "date": "2 Apr 2025",
+            "points": 20,
+            "rank": 17
+          },
           {
             "name": "Gent-Wevelgem in Flanders Fields ME",
             "date": "30 Mar 2025",

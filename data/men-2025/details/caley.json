@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 April 2025 23:23 GMT",
+  "fetchedDate": "2 April 2025 23:22 GMT",
   "momentId": 189727,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 3861.46,
+    "totalPoints": 4348.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -14,8 +14,14 @@
         "sanctions": 25,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 718.57,
+        "totalPoints": 893.57,
         "results": [
+          {
+            "name": "Dwars door Vlaanderen - A travers la Flandre ME",
+            "date": "2 Apr 2025",
+            "points": 175,
+            "rank": 4
+          },
           {
             "name": "Gent-Wevelgem in Flanders Fields ME",
             "date": "30 Mar 2025",
@@ -333,8 +339,14 @@
         "id": 88143,
         "team": "EFE",
         "country": "us",
-        "totalPoints": 202.5,
+        "totalPoints": 502.5,
         "results": [
+          {
+            "name": "Dwars door Vlaanderen - A travers la Flandre ME",
+            "date": "2 Apr 2025",
+            "points": 300,
+            "rank": 1
+          },
           {
             "name": "Milano-Sanremo",
             "date": "22 Mar 2025",
@@ -378,8 +390,14 @@
         "id": 361433,
         "team": "IGD",
         "country": "us",
-        "totalPoints": 710.86,
+        "totalPoints": 722.86,
         "results": [
+          {
+            "name": "Dwars door Vlaanderen - A travers la Flandre ME",
+            "date": "2 Apr 2025",
+            "points": 12,
+            "rank": 25
+          },
           {
             "name": "Settimana Internazionale Coppi e Bartali - General classification",
             "date": "29 Mar 2025",

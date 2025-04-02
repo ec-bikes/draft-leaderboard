@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 April 2025 23:23 GMT",
+  "fetchedDate": "2 April 2025 23:21 GMT",
   "momentId": 189745,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 3396,
+    "totalPoints": 3601,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
         "id": 76149,
         "team": "UAD",
         "country": "it",
-        "totalPoints": 607,
+        "totalPoints": 807,
         "results": [
+          {
+            "name": "Dwars door Vlaanderen - A travers la Flandre WE",
+            "date": "2 Apr 2025",
+            "points": 200,
+            "rank": 1
+          },
           {
             "name": "Milano-Sanremo Donne",
             "date": "22 Mar 2025",
@@ -213,8 +219,14 @@
         "id": 237690,
         "team": "LTK",
         "country": "gb",
-        "totalPoints": 29,
+        "totalPoints": 34,
         "results": [
+          {
+            "name": "Dwars door Vlaanderen - A travers la Flandre WE",
+            "date": "2 Apr 2025",
+            "points": 5,
+            "rank": 21
+          },
           {
             "name": "Danilith Nokere Koerse WE",
             "date": "19 Mar 2025",

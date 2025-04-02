@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 April 2025 23:23 GMT",
+  "fetchedDate": "2 April 2025 23:21 GMT",
   "momentId": 189745,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 2971,
+    "totalPoints": 3049,
     "riders": [
       {
         "name": "Liane Lippert",
         "id": 140495,
         "team": "MOV",
         "country": "de",
-        "totalPoints": 199,
+        "totalPoints": 269,
         "results": [
+          {
+            "name": "Dwars door Vlaanderen - A travers la Flandre WE",
+            "date": "2 Apr 2025",
+            "points": 70,
+            "rank": 6
+          },
           {
             "name": "Milano-Sanremo Donne",
             "date": "22 Mar 2025",
@@ -109,8 +115,14 @@
         "id": 1589305,
         "team": "MOV",
         "country": "ch",
-        "totalPoints": 314,
+        "totalPoints": 319,
         "results": [
+          {
+            "name": "Dwars door Vlaanderen - A travers la Flandre WE",
+            "date": "2 Apr 2025",
+            "points": 5,
+            "rank": 17
+          },
           {
             "name": "Omloop Nieuwsblad WE",
             "date": "1 Mar 2025",
@@ -275,8 +287,14 @@
         "id": 153363,
         "team": "LIV",
         "country": "it",
-        "totalPoints": 245,
+        "totalPoints": 248,
         "results": [
+          {
+            "name": "Dwars door Vlaanderen - A travers la Flandre WE",
+            "date": "2 Apr 2025",
+            "points": 3,
+            "rank": 27
+          },
           {
             "name": "Gent-Wevelgem In Flanders Fields WE",
             "date": "30 Mar 2025",

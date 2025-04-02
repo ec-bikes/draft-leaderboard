@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 April 2025 23:23 GMT",
+  "fetchedDate": "2 April 2025 23:21 GMT",
   "momentId": 189745,
   "team": {
     "owner": "Loren Rowney",
     "name": "(TBD)",
-    "totalPoints": 3003,
+    "totalPoints": 3153,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
         "team": "SDW",
         "country": "be",
-        "totalPoints": 80,
+        "totalPoints": 230,
         "results": [
+          {
+            "name": "Dwars door Vlaanderen - A travers la Flandre WE",
+            "date": "2 Apr 2025",
+            "points": 150,
+            "rank": 2
+          },
           {
             "name": "Milano-Sanremo Donne",
             "date": "22 Mar 2025",

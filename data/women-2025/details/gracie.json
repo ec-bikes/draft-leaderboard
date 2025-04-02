@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 April 2025 23:23 GMT",
+  "fetchedDate": "2 April 2025 23:21 GMT",
   "momentId": 189745,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 4500,
+    "totalPoints": 4750,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -79,8 +79,14 @@
         "id": 101826,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 1290,
+        "totalPoints": 1415,
         "results": [
+          {
+            "name": "Dwars door Vlaanderen - A travers la Flandre WE",
+            "date": "2 Apr 2025",
+            "points": 125,
+            "rank": 3
+          },
           {
             "name": "Gent-Wevelgem In Flanders Fields WE",
             "date": "30 Mar 2025",
@@ -199,8 +205,14 @@
         "id": 227721,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 82,
+        "totalPoints": 167,
         "results": [
+          {
+            "name": "Dwars door Vlaanderen - A travers la Flandre WE",
+            "date": "2 Apr 2025",
+            "points": 85,
+            "rank": 5
+          },
           {
             "name": "Strade Bianche Donne",
             "date": "8 Mar 2025",
@@ -407,8 +419,14 @@
         "id": 1638135,
         "team": "TFS",
         "country": "ch",
-        "totalPoints": 305,
+        "totalPoints": 345,
         "results": [
+          {
+            "name": "Dwars door Vlaanderen - A travers la Flandre WE",
+            "date": "2 Apr 2025",
+            "points": 40,
+            "rank": 9
+          },
           {
             "name": "Omloop Nieuwsblad WE",
             "date": "1 Mar 2025",
