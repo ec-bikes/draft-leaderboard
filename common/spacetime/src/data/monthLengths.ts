@@ -1,4 +1,5 @@
-const monthLengths = [
+/** Array of lengths of each month */
+export const monthLengths = [
   31, // January - 31 days
   28, // February - 28 days in a common year and 29 days in leap years
   31, // March - 31 days
@@ -12,7 +13,6 @@ const monthLengths = [
   30, // November - 30 days
   31, // December - 31 days
 ];
-export default monthLengths;
 
 // 28 - feb
 // 30 - april, june, sept, nov

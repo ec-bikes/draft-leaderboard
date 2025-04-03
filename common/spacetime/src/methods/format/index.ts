@@ -3,29 +3,23 @@ import { short } from '../../data/months.js';
 import { short as _short } from '../../data/days.js';
 import { useTitleCase } from '../../data/caseFormat.js';
 import isoOffset from './_offset.js';
+import type { Spacetime } from '../../../types/types.js';
+import type { Format } from '../../../types/constraints.js';
 
-const applyCaseFormat = (str) => {
+const shortDays = _short();
+
+const applyCaseFormat = (str: string) => {
   if (useTitleCase()) {
     return titleCase(str);
   }
   return str;
 };
 
-// iso-year padding
-const padYear = (num) => {
-  if (num >= 0) {
-    return zeroPad(num, 4);
-  } else {
-    num = Math.abs(num);
-    return '-' + zeroPad(num, 4);
-  }
-};
-
-const format = {
+const formats: Record<string, ((s: Spacetime) => string | number) | undefined> = {
   day: (s) => applyCaseFormat(s.dayName()),
-  'day-short': (s) => applyCaseFormat(_short()[s.day()]),
-  'day-number': (s) => s.day(),
-  'day-pad': (s) => zeroPad(s.day()),
+  'day-short': (s) => applyCaseFormat(shortDays[s.dayOfWeek()]),
+  'day-number': (s) => s.dayOfWeek(),
+  'day-pad': (s) => zeroPad(s.dayOfWeek()),
 
   date: (s) => s.date(),
   'date-pad': (s) => zeroPad(s.date()),
@@ -36,41 +30,20 @@ const format = {
   'month-pad': (s) => zeroPad(s.month()),
   'iso-month': (s) => zeroPad(s.month() + 1), //1-based months
 
-  year: (s) => {
-    let year = s.year();
-    if (year > 0) {
-      return year;
-    }
-    year = Math.abs(year);
-    return year + ' BC';
-  },
+  year: (s) => s.year(),
   'year-short': (s) => {
-    let year = s.year();
-    if (year > 0) {
-      return `'${String(s.year()).substr(2, 4)}`;
-    }
-    year = Math.abs(year);
-    return year + ' BC';
-  },
-  'iso-year': (s) => {
     const year = s.year();
-    const isNegative = year < 0;
-    let str = zeroPad(Math.abs(year), 4); //0-padded
-    if (isNegative) {
-      //negative years are for some reason 6-digits ('-00008')
-      str = zeroPad(str, 6);
-      str = '-' + str;
-    }
-    return str;
+    return `'${String(year).slice(2, 4)}`;
   },
+  'iso-year': (s) => zeroPad(s.year(), 4),
 
   time: (s) => s.time(),
-  'time-24': (s) => `${s.hour24()}:${zeroPad(s.minute())}`,
+  'time-24': (s) => `${s.hour()}:${zeroPad(s.minute())}`,
 
   hour: (s) => s.hour12(),
   'hour-pad': (s) => zeroPad(s.hour12()),
-  'hour-24': (s) => s.hour24(),
-  'hour-24-pad': (s) => zeroPad(s.hour24()),
+  'hour-24': (s) => s.hour(),
+  'hour-24-pad': (s) => zeroPad(s.hour()),
 
   minute: (s) => s.minute(),
   'minute-pad': (s) => zeroPad(s.minute()),
@@ -81,8 +54,6 @@ const format = {
 
   ampm: (s) => s.ampm(),
   AMPM: (s) => s.ampm().toUpperCase(),
-  json: (s) => s.json(),
-  timezone: (s) => s.timezone().name,
   offset: (s) => isoOffset(s),
 
   numeric: (s) => `${s.year()}/${zeroPad(s.month() + 1)}/${zeroPad(s.date())}`, // yyyy/mm/dd
@@ -92,45 +63,39 @@ const format = {
 
   // ... https://en.wikipedia.org/wiki/ISO_8601 ;(((
   iso: (s) => {
-    const year = s.format('iso-year');
-    const month = zeroPad(s.month() + 1); //1-based months
-    const date = zeroPad(s.date());
-    const hour = zeroPad(s.h24());
-    const minute = zeroPad(s.minute());
-    const second = zeroPad(s.second());
-    const ms = zeroPad(s.millisecond(), 3);
+    const d = s.d;
+    const year = zeroPad(d.getFullYear(), 4);
+    const month = zeroPad(d.getMonth() + 1); //1-based months
+    const date = zeroPad(d.getDate());
+    const hour = zeroPad(d.getHours());
+    const minute = zeroPad(d.getMinutes());
+    const second = zeroPad(d.getSeconds());
+    const ms = zeroPad(d.getMilliseconds(), 3);
     const offset = isoOffset(s);
-    return `${year}-${month}-${date}T${hour}:${minute}:${second}.${ms}${offset}`; //2018-03-09T08:50:00.000-05:00
+    //2018-03-09T08:50:00.000-05:00
+    return `${year}-${month}-${date}T${hour}:${minute}:${second}.${ms}${offset}`;
   },
   'iso-short': (s) => {
     const month = zeroPad(s.month() + 1); //1-based months
     const date = zeroPad(s.date());
-    const year = padYear(s.year());
+    const year = zeroPad(s.year(), 4);
     return `${year}-${month}-${date}`; //2017-02-15
   },
   'iso-utc': (s) => {
-    return new Date(s.epoch).toISOString(); //2017-03-08T19:45:28.367Z
-  },
-  'iso-full': (s) => {
-    let iso = s.format('iso');
-    const iana = s.timezone().name;
-    if (iana) {
-      iso += `[${iana}]`;
-    }
-    return iso;
+    return s.toNativeDate().toISOString(); //2017-03-08T19:45:28.367Z
   },
 
   //i made these up
   nice: (s) => `${short()[s.month()]} ${s.date()}, ${s.time()}`,
-  'nice-24': (s) => `${short()[s.month()]} ${s.date()}, ${s.hour24()}:${zeroPad(s.minute())}`,
+  'nice-24': (s) => `${short()[s.month()]} ${s.date()}, ${s.hour()}:${zeroPad(s.minute())}`,
   'nice-year': (s) => `${short()[s.month()]} ${s.date()}, ${s.year()}`,
-  'nice-day': (s) => `${_short()[s.day()]} ${applyCaseFormat(short()[s.month()])} ${s.date()}`,
+  'nice-day': (s) =>
+    `${_short()[s.dayOfWeek()]} ${applyCaseFormat(short()[s.month()])} ${s.date()}`,
   'nice-full': (s) => `${s.dayName()} ${applyCaseFormat(s.monthName())} ${s.date()}, ${s.time()}`,
   'nice-full-24': (s) =>
-    `${s.dayName()} ${applyCaseFormat(s.monthName())} ${s.date()}, ${s.hour24()}:${zeroPad(s.minute())}`,
+    `${s.dayName()} ${applyCaseFormat(s.monthName())} ${s.date()}, ${s.hour()}:${zeroPad(s.minute())}`,
 };
-//aliases
-const aliases = {
+const aliases: Record<string, string> = {
   'day-name': 'day',
   'month-name': 'month',
   'iso 8601': 'iso',
@@ -150,44 +115,35 @@ const aliases = {
   'dd/mm/yyyy': 'numeric-us',
   'day-nice': 'nice-day',
 };
-Object.keys(aliases).forEach((k) => (format[k] = format[aliases[k]]));
+Object.keys(aliases).forEach((k) => (formats[k] = formats[aliases[k]]));
 
-const printFormat = (s, str = '') => {
+/**
+ * Output nicely-formatted strings.
+ * @param fmt Must be a valid format name, or a string with `{format}` tokens inside it
+ * (where the tokens are valid format names)
+ */
+export function format(s: Spacetime, fmt: Format | string) {
   //don't print anything if it's an invalid date
-  if (s.isValid() !== true) {
+  if (!s.isValid()) {
     return '';
   }
   //support .format('month')
-  if (format.hasOwnProperty(str)) {
-    let out = format[str](s) || '';
-    if (str !== 'json') {
-      out = String(out);
-      if (str.toLowerCase() !== 'ampm') {
-        out = applyCaseFormat(out);
-      }
-    }
-    return out;
+  if (fmt in formats) {
+    const out = String(formats[fmt]!(s) ?? '');
+    return fmt.toLowerCase() !== 'ampm' ? applyCaseFormat(out) : out;
   }
   //support '{hour}:{minute}' notation
-  if (str.indexOf('{') !== -1) {
+  if (fmt.includes('{')) {
     const sections = /\{(.+?)\}/g;
-    str = str.replace(sections, (_, fmt) => {
-      fmt = fmt.trim();
-      if (fmt !== 'AMPM') {
-        fmt = fmt.toLowerCase();
+    fmt = fmt.replace(sections, (_, fmtPart) => {
+      fmtPart = fmtPart.trim();
+      if (fmtPart !== 'AMPM') {
+        fmtPart = fmtPart.toLowerCase();
       }
-      if (format.hasOwnProperty(fmt)) {
-        const out = String(format[fmt](s));
-        if (fmt.toLowerCase() !== 'ampm') {
-          return applyCaseFormat(out);
-        }
-        return out;
-      }
-      return '';
+      return fmtPart in formats ? format(s, fmtPart) : '';
     });
-    return str;
+    return fmt;
   }
 
-  return s.format('iso-short');
-};
-export default printFormat;
+  return format(s, 'iso-short');
+}

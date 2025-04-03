@@ -1,44 +1,46 @@
-import { beADate, normalize } from '../../fns.js'
-import waterfall from './waterfall.js'
+import type { TimeUnit } from '../../../types/constraints.js';
+import type { Diff, ParsableDate, Spacetime } from '../../../types/types.js';
+import { ensureDate, normalizeUnit } from '../../helpers.js';
+import { waterfall } from './waterfall.js';
 
-const reverseDiff = function (obj) {
-  Object.keys(obj).forEach((k) => {
-    obj[k] *= -1
-  })
-  return obj
-}
+/**
+ * Given two dates, count how many of a unit you'd need to make them equal.
+ *
+ * '1 month' means 28 days in february.
+ * '1 year' means 366 days in a leap year.
+ */
+export function diff(a: Spacetime, b: ParsableDate, unit: TimeUnit): number;
+export function diff(a: Spacetime, b: ParsableDate): Diff;
+export function diff(a: Spacetime, b: ParsableDate, unit?: TimeUnit) {
+  b = ensureDate(b, a);
 
-// this method counts a total # of each unit, between a, b.
-// '1 month' means 28 days in february
-// '1 year' means 366 days in a leap year
-const main = function (a, b, unit) {
-  b = beADate(b, a)
   //reverse values, if necessary
-  let reversed = false
+  let reversed = false;
   if (a.isAfter(b)) {
-    let tmp = a
-    a = b
-    b = tmp
-    reversed = true
+    [a, b] = [b, a];
+    reversed = true;
   }
-  //compute them all (i know!)
-  let obj = waterfall(a, b)
-  if (reversed) {
-    obj = reverseDiff(obj)
-  }
+
   //return just the requested unit
   if (unit) {
     //make sure it's plural-form
-    unit = normalize(unit)
-    if (/s$/.test(unit) !== true) {
-      unit += 's'
+    unit = normalizeUnit(unit) as TimeUnit;
+    if (!unit.endsWith('s')) {
+      unit += 's';
     }
     if (unit === 'dates') {
-      unit = 'days'
+      unit = 'days';
     }
-    return obj[unit]
+    const result = waterfall(a, b, unit as keyof Diff);
+    return reversed ? -result : result;
   }
-  return obj
-}
 
-export default main
+  const obj = waterfall(a, b);
+
+  if (reversed) {
+    Object.keys(obj).forEach((k) => {
+      obj[k as keyof Diff] *= -1;
+    });
+  }
+  return obj;
+}

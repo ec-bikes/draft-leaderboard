@@ -1,34 +1,24 @@
-import monthLengths from '../../data/monthLengths.js';
-import { isLeapYear } from '../../helpers.js';
+import { monthLengths } from '../../data/monthLengths.js';
+import { daysInMonth } from '../../helpers.js';
 import { mapping } from '../../data/months.js';
+import type { SpacetimeJson } from '../../../types/types.js';
+
 const months = mapping();
 
-import parseOffset from './parseOffset.js';
-import parseTime from './parseTime.js';
+export { parseOffset } from './parseOffset.js';
+export { parseTime } from './parseTime.js';
 
-//given a month, return whether day number exists in it
-const validate = (obj) => {
-  //invalid values
-  if (monthLengths.hasOwnProperty(obj.month) !== true) {
+/** Validate the month and day */
+export function validate(obj: Pick<SpacetimeJson, 'date' | 'month' | 'year'>) {
+  if (!(obj.month in monthLengths)) {
     return false;
   }
-  //support leap-year in february
-  if (obj.month === 1) {
-    if (isLeapYear(obj.year) && obj.date <= 29) {
-      return true;
-    } else {
-      return obj.date <= 28;
-    }
-  }
-  //is this date too-big for this month?
-  const max = monthLengths[obj.month] || 0;
-  if (obj.date <= max) {
-    return true;
-  }
-  return false;
-};
+  const maxValid = daysInMonth(obj);
+  return obj.date >= 1 && obj.date <= maxValid;
+}
 
-const parseYear = (str = '', today) => {
+// const parseYear = (str = '', today) => {
+export function parseYear(str = '') {
   str = str.trim();
   // parse '86 shorthand
   if (/^'[0-9][0-9]$/.test(str) === true) {
@@ -38,28 +28,25 @@ const parseYear = (str = '', today) => {
     }
     return 2000 + num;
   }
-  let year = parseInt(str, 10);
+  const year = parseInt(str, 10);
   // use a given year from options.today
-  if (!year && today) {
-    year = today.year;
-  }
+  // if (!year && today) {
+  //   year = today.year;
+  // }
   // fallback to this year
-  year = year || new Date().getFullYear();
-  return year;
-};
+  return year || new Date().getFullYear();
+}
 
-const parseMonth = function (str) {
+export function parseMonth(str: string): number | undefined {
   str = str.toLowerCase().trim();
   if (str === 'sept') {
     return months.sep;
   }
-  return months[str];
-};
+  return months[str as keyof typeof months];
+}
 
-const parseTz = function (str) {
+export function parseTz(str: string) {
   str = str.trim();
   str = str.replace(/[[\]]/g, '');
   return str;
-};
-
-export { parseOffset, parseTime, parseYear, parseMonth, validate, parseTz };
+}

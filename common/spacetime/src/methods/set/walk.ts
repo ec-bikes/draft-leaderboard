@@ -1,23 +1,24 @@
-import ms from '../../data/milliseconds.js';
+import type { Spacetime } from '../../../types/types.js';
+import { ms } from '../../data/milliseconds.js';
 
-//basically, step-forward/backward until js Date object says we're there.
-const walk = (s, n, fn, unit, previous) => {
+/** basically, step-forward/backward until js Date object says we're there. */
+function walk(s: Spacetime, n: number, fn, unit, previous) {
   const current = s.d[fn]();
   if (current === n) {
     return; //already there
   }
   const startUnit = previous === null ? null : s.d[previous]();
-  const original = s.epoch;
+  const original = s.epoch!;
   //try to get it as close as we can
   const diff = n - current;
-  s.epoch += ms[unit] * diff;
+  s.epoch! += ms[unit] * diff;
   //DST edge-case: if we are going many days, be a little conservative
   // console.log(unit, diff)
   if (unit === 'day') {
     // s.epoch -= ms.minute
     //but don't push it over a month
     if (Math.abs(diff) > 28 && n < 28) {
-      s.epoch += ms.hour;
+      s.epoch! += ms.hour;
     }
   }
   // 1st time: oops, did we change previous unit? revert it.
@@ -30,18 +31,19 @@ const walk = (s, n, fn, unit, previous) => {
   //(go by half-steps, just in case)
   const halfStep = ms[unit] / 2;
   while (s.d[fn]() < n) {
-    s.epoch += halfStep;
+    s.epoch! += halfStep;
   }
 
   while (s.d[fn]() > n) {
-    s.epoch -= halfStep;
+    s.epoch! -= halfStep;
   }
   // 2nd time: did we change previous unit? revert it.
   if (previous !== null && startUnit !== s.d[previous]()) {
     // console.warn('spacetime warning: missed setting ' + unit)
     s.epoch = original;
   }
-};
+}
+
 //find the desired date by a increment/check while loop
 const units = {
   year: {
@@ -102,7 +104,7 @@ const units = {
   },
 };
 
-const walkTo = (s, wants) => {
+export function walkTo(s: Spacetime, wants) {
   const keys = Object.keys(units);
   const old = s.clone();
   for (let i = 0; i < keys.length; i++) {
@@ -125,6 +127,4 @@ const walkTo = (s, wants) => {
     units[k].walkTo(s, n);
   }
   return;
-};
-
-export default walkTo;
+}

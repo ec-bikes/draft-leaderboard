@@ -1,12 +1,4 @@
-import monthLength from '../../data/monthLengths.js';
-import { isLeapYear } from '../../helpers.js';
-
-const getMonthLength = function (month, year) {
-  if (month === 1 && isLeapYear(year)) {
-    return 29;
-  }
-  return monthLength[month];
-};
+import { daysInMonth } from '../../helpers.js';
 
 //month is the one thing we 'model/compute'
 //- because ms-shifting can be off by enough
@@ -45,7 +37,7 @@ const rollDaysDown = (want, old, sum) => {
       want.month = 11;
       want.year -= 1;
     }
-    const max = getMonthLength(want.month, want.year);
+    const max = daysInMonth(want);
     want.date += max;
   }
   return want;
@@ -55,7 +47,7 @@ const rollDaysDown = (want, old, sum) => {
 const rollDaysUp = (want, old, sum) => {
   let year = old.year();
   let month = old.month();
-  let max = getMonthLength(month, year);
+  let max = daysInMonth({ month, year });
   while (sum > max) {
     sum -= max;
     month += 1;
@@ -63,7 +55,7 @@ const rollDaysUp = (want, old, sum) => {
       month -= 12;
       year += 1;
     }
-    max = getMonthLength(month, year);
+    max = daysInMonth({ month, year });
   }
   want.month = month;
   want.date = sum;

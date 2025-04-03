@@ -1,20 +1,20 @@
-import parsers from './formats/index.js';
+import type { Spacetime } from '../../types/types.js';
+import { parsers } from './formats/index.js';
 
-const parseString = function (s, input, givenTz) {
+/** Parse the input string and update the spacetime object */
+export function setFromString(s: Spacetime, input: string) {
   //try each text-parse template, use the first good result
-  for (let i = 0; i < parsers.length; i++) {
-    const m = input.match(parsers[i].reg);
+  for (const parser of parsers) {
+    const m = input.match(parser.reg);
     if (m) {
-      const res = parsers[i].parse(s, m, givenTz);
-      if (res !== null && res.isValid()) {
+      const res = parser.parse(s, m);
+      if (res?.isValid()) {
         return res;
       }
     }
   }
-  if (s.silent === false) {
-    console.warn("Warning: couldn't parse date-string: '" + input + "'");
+  if (!s.silent) {
+    console.warn(`Warning: couldn't parse date-string: '${input}'`);
   }
   s.epoch = null;
-  return s;
-};
-export default parseString;
+}

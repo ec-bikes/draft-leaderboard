@@ -1,3 +1,5 @@
+import type { Spacetime } from '../../../types/types.js';
+
 // truncate any sub-millisecond values
 const parseMs = function (str = '') {
   str = String(str);
@@ -16,12 +18,12 @@ const parseMs = function (str = '') {
   return Number(str) || 0;
 };
 
-const parseTime = (s, str = '') => {
+export function parseTime(s: Spacetime, str = '') {
   // remove all whitespace
   str = str.replace(/^\s+/, '').toLowerCase();
   //formal time format - 04:30.23
   let arr = str.match(/([0-9]{1,2}):([0-9]{1,2}):?([0-9]{1,2})?[:.]?([0-9]{1,4})?/);
-  if (arr !== null) {
+  if (arr) {
     let [, h, m, sec, ms] = arr;
     //validate it a little
     h = Number(h);
@@ -34,11 +36,11 @@ const parseTime = (s, str = '') => {
     }
     s = s.hour(h);
     s = s.minute(m);
-    s = s.seconds(sec || 0);
+    s = s.second(sec || 0);
     s = s.millisecond(parseMs(ms));
     //parse-out am/pm
     const ampm = str.match(/[0-9] ?(am|pm)\b/);
-    if (ampm !== null && ampm[1]) {
+    if (ampm?.[1]) {
       s = s.ampm(ampm[1]);
     }
     return s;
@@ -46,7 +48,7 @@ const parseTime = (s, str = '') => {
 
   //try an informal form - 5pm (no minutes)
   arr = str.match(/([0-9]+) ?(am|pm)/);
-  if (arr !== null && arr[1]) {
+  if (arr?.[1]) {
     const h = Number(arr[1]);
     //validate it a little..
     if (h > 12 || h < 1) {
@@ -61,5 +63,4 @@ const parseTime = (s, str = '') => {
   //no time info found, use start-of-day
   s = s.startOf('day');
   return s;
-};
-export default parseTime;
+}

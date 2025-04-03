@@ -1,8 +1,8 @@
 import walkTo from './set/walk.js';
 import ms from '../data/milliseconds.js';
-import monthLength from '../data/monthLengths.js';
+import { monthLengths } from '../data/monthLengths.js';
 import { months, daysBack, days } from './set/_model.js';
-import { normalize } from '../helpers.js';
+import { normalizeUnit } from '../helpers.js';
 // this logic is a bit of a mess,
 // but briefly:
 // millisecond-math, and some post-processing covers most-things
@@ -33,7 +33,7 @@ const addMethods = (SpaceTime) => {
       return s; //don't bother
     }
     const old = this.clone();
-    unit = normalize(unit);
+    unit = normalizeUnit(unit);
     if (unit === 'millisecond') {
       s.epoch += num;
       return s;
@@ -94,7 +94,8 @@ const addMethods = (SpaceTime) => {
     }
     //keep current date, unless the month doesn't have it.
     if (keepDate[unit]) {
-      const max = monthLength[want.month];
+      // TODO USE HELPER HERE
+      const max = monthLengths[want.month];
       want.date = old.date();
       if (want.date > max) {
         want.date = max;

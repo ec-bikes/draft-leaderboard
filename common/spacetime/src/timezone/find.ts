@@ -1,7 +1,10 @@
 import type { TimezoneSet } from '../../types/types.js';
 import { parseOffset } from './parseOffset.js';
 
-/** try our best to reconcile the timzone to this given string */
+/**
+ * Try to find a timezone for this string.
+ * Throws on unsupported timezones to be obvious (since support was removed in the fork).
+ */
 export function findTz(str: string | undefined, zones: TimezoneSet) {
   if (!str) {
     return 'utc';

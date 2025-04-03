@@ -1,11 +1,10 @@
 import walkTo from '../../methods/set/walk.js';
 import { toCardinal } from '../../helpers.js';
 import { validate, parseTime, parseYear, parseMonth, parseOffset } from './_parsers.js';
+import type { Parser } from '../../../types/types.js';
 
-export default [
-  // =====
-  //  m-d-y
-  // =====
+/** m-d-y */
+export const parsers: Parser[] = [
   //mm/dd/yyyy - uk/canada "6/28/2019, 12:26:14 PM"
   {
     reg: /^([0-9]{1,2})[-/.]([0-9]{1,2})[-/.]?([0-9]{4})?( [0-9]{1,2}:[0-9]{2}:?[0-9]{0,2} ?(am|pm|gmt))?$/i,
@@ -20,9 +19,10 @@ export default [
       const obj = {
         date,
         month,
-        year: parseYear(arr[3], s._today) || new Date().getFullYear(),
+        // year: parseYear(arr[3], s._today) || new Date().getFullYear(),
+        year: parseYear(arr[3]) || new Date().getFullYear(),
       };
-      if (validate(obj) === false) {
+      if (!validate(obj)) {
         s.epoch = null;
         return s;
       }
@@ -36,11 +36,12 @@ export default [
     reg: /^([a-z]+)[-/. ]([0-9]{1,2})[-/. ]?([0-9]{4}|'[0-9]{2})?( [0-9]{1,2}(:[0-9]{0,2})?(:[0-9]{0,3})? ?(am|pm)?)?$/i,
     parse: (s, arr) => {
       const obj = {
-        year: parseYear(arr[3], s._today),
+        // year: parseYear(arr[3], s._today),
+        year: parseYear(arr[3]),
         month: parseMonth(arr[1]),
         date: toCardinal(arr[2] || ''),
       };
-      if (validate(obj) === false) {
+      if (!validate(obj)) {
         s.epoch = null;
         return s;
       }
@@ -56,11 +57,12 @@ export default [
     reg: /^([a-z]+) ([0-9]{1,2})( [0-9]{4})?( ([0-9:]+( ?am| ?pm| ?gmt)?))?$/i,
     parse: (s, arr) => {
       const obj = {
-        year: parseYear(arr[3], s._today),
+        // year: parseYear(arr[3], s._today),
+        year: parseYear(arr[3]),
         month: parseMonth(arr[1]),
         date: toCardinal(arr[2] || ''),
       };
-      if (validate(obj) === false) {
+      if (!validate(obj)) {
         s.epoch = null;
         return s;
       }
@@ -75,11 +77,12 @@ export default [
     parse: (s, arr) => {
       const [, month, date, time, tz, year] = arr;
       const obj = {
-        year: parseYear(year, s._today),
+        // year: parseYear(year, s._today),
+        year: parseYear(year),
         month: parseMonth(month),
         date: toCardinal(date || ''),
       };
-      if (validate(obj) === false) {
+      if (!validate(obj)) {
         s.epoch = null;
         return s;
       }

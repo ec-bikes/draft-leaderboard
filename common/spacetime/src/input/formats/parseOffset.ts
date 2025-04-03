@@ -1,5 +1,7 @@
-//pull-apart ISO offsets, like "+0100"
-const parseOffset = (s, offset) => {
+import type { Spacetime } from '../../../types/types.js';
+
+/** pull-apart ISO offsets, like "+0100" */
+export function parseOffset(s: Spacetime, offset: string | undefined) {
   if (!offset) {
     return s;
   }
@@ -40,10 +42,7 @@ const parseOffset = (s, offset) => {
   //https://askubuntu.com/questions/519550/why-is-the-8-timezone-called-gmt-8-in-the-filesystem
   num *= -1;
 
-  if (num >= 0) {
-    num = '+' + num;
-  }
-  const tz = 'gmt' + num;
+  const tz = `gmt${num > 0 ? '+' : ''}${num}`;
   const zones = s.timezones;
 
   if (zones[tz]) {
@@ -52,5 +51,5 @@ const parseOffset = (s, offset) => {
     s.tz = tz;
   }
   return s;
-};
+}
 export default parseOffset;

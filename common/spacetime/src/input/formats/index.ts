@@ -1,5 +1,5 @@
-import ymd from './01-ymd.js';
-import mdy from './02-mdy.js';
-import dmy from './03-dmy.js';
+import { parsers as ymd } from './01-ymd.js';
+import { parsers as mdy } from './02-mdy.js';
+import { parsers as dmy } from './03-dmy.js';
 
-export default [].concat(ymd, mdy, dmy);
+export const parsers = [...ymd, ...mdy, ...dmy];

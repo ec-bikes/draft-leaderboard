@@ -66,6 +66,7 @@ export default tseslint.config([
     rules: {
       'no-restricted-syntax': 'off',
       '@typescript-eslint/no-restricted-types': 'off',
+      'react-hooks/rules-of-hooks': 'off',
     },
   },
 ]);

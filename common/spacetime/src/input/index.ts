@@ -1,9 +1,8 @@
-import { isObject, isDate, isArray } from '../helpers.js';
-import fns from './helpers.js';
-const { parseArray, parseObject, parseNumber } = fns;
-import namedDates from './named-dates.js';
-import normalize from './normalize.js';
-import parseString from './parse.js';
+import type { ParsableDate, Spacetime, SpacetimeJson } from '../../types/types.js';
+import { isObject, isDate } from '../helpers.js';
+import { setFromArray, setFromObject, setFromNumber } from './helpers.js';
+import { setFromString } from './parse.js';
+
 //we have to actually parse these inputs ourselves
 //  -  can't use built-in js parser ;(
 //=========================================
@@ -13,66 +12,61 @@ import parseString from './parse.js';
 // Full Date	"Wednesday March 25 2015"
 //=========================================
 
-const defaults = {
-  year: new Date().getFullYear(),
-  month: 0,
-  date: 1,
-};
-
-//find the epoch from different input styles
-const parseInput = (s, input) => {
-  const today = s._today || defaults;
+/** update the epoch from different input styles */
+export function setFromInput(
+  s: Spacetime,
+  input: ParsableDate | Partial<SpacetimeJson> | null,
+): void {
+  // const today = s._today || defaults;
   //if we've been given a epoch number, it's easy
   if (typeof input === 'number') {
-    return parseNumber(s, input);
+    setFromNumber(s, input);
+    return;
   }
+
   //set tmp time
   s.epoch = Date.now();
-  // overwrite tmp time with 'today' value, if exists
-  if (s._today && isObject(s._today) && Object.keys(s._today).length > 0) {
-    const res = parseObject(s, today);
-    if (res.isValid()) {
-      s.epoch = res.epoch;
-    }
-  }
-  // null input means 'now'
-  if (input === null || input === undefined || input === '') {
-    return s; //k, we're good.
-  }
-  //support input of Date() object
-  if (isDate(input) === true) {
+  // // overwrite tmp time with 'today' value, if exists
+  // if (s._today && isObject(s._today) && Object.keys(s._today).length > 0) {
+  //   const res = parseObject(s, today);
+  //   if (res.isValid()) {
+  //     s.epoch = res.epoch;
+  //   }
+  // }
+
+  if (!input) {
+    // null input means 'now'
+  } else if (isDate(input)) {
+    //support input of Date() object
     s.epoch = input.getTime();
-    return s;
-  }
-  //support [2016, 03, 01] format
-  if (isArray(input) === true) {
-    s = parseArray(s, input, today);
-    return s;
-  }
-  //support {year:2016, month:3} format
-  if (isObject(input) === true) {
-    //support spacetime object as input
-    if (input.epoch) {
-      s.epoch = input.epoch;
-      s.tz = input.tz;
-      return s;
+  } else if (Array.isArray(input)) {
+    //support [2016, 03, 01] format
+    // s = parseArray(s, input, today);
+    setFromArray(s, input);
+  } else if (isObject(input)) {
+    if ((input as Spacetime).epoch) {
+      //support spacetime object as input
+      s.epoch = (input as Spacetime).epoch;
+      s.tz = (input as Spacetime).tz;
+    } else {
+      //support {year:2016, month:3} format
+      // const obj = Object.assign({}, input, today);
+      setFromObject(s, input as Partial<SpacetimeJson>);
     }
-    const obj = Object.assign({}, input, today);
-    s = parseObject(s, obj);
-    return s;
+  } else if (typeof input === 'string') {
+    //little cleanup..
+    input = normalizeDateInput(input);
+    //try each text-parse template, use the first good result
+    setFromString(s, input);
   }
-  //input as a string..
-  if (typeof input !== 'string') {
-    return s;
-  }
-  //little cleanup..
-  input = normalize(input);
-  //try some known-words, like 'now'
-  if (namedDates.hasOwnProperty(input) === true) {
-    s = namedDates[input](s);
-    return s;
-  }
-  //try each text-parse template, use the first good result
-  return parseString(s, input);
-};
-export default parseInput;
+}
+
+function normalizeDateInput(str: string): string {
+  // remove all day-names
+  str = str.replace(/\b(mon|tues?|wed|wednes|thur?s?|fri|sat|satur|sun)(day)?\b/i, '');
+  //remove ordinal ending
+  str = str.replace(/([0-9])(th|rd|st|nd)/, '$1');
+  str = str.replace(/,/g, '');
+  str = str.replace(/ +/g, ' ').trim();
+  return str;
+}

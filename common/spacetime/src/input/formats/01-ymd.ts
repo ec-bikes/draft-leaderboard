@@ -1,22 +1,21 @@
 import walkTo from '../../methods/set/walk.js';
 import { toCardinal } from '../../helpers.js';
 import { validate, parseTime, parseYear, parseMonth, parseOffset, parseTz } from './_parsers.js';
+import type { Parser } from '../../../types/types.js';
 
-export default [
-  // =====
-  //  y-m-d
-  // =====
+/** y-m-d */
+export const parsers: Parser[] = [
   //iso-this 1998-05-30T22:00:00:000Z, iso-that 2017-04-03T08:00:00-0700
   // optionally supports Temporal fmt w/ [IANA]
   {
     reg: /^(-?0{0,2}[0-9]{3,4})-([0-9]{1,2})-([0-9]{1,2})[T| ]([0-9.:]+)(Z|[0-9-+:]+)?(\[.*?\])?(\[.*?\])?$/i,
     parse: (s, m) => {
       const obj = {
-        year: m[1],
-        month: parseInt(m[2], 10) - 1,
-        date: m[3],
+        year: Number(m[1]),
+        month: Number(m[2]) - 1,
+        date: Number(m[3]),
       };
-      if (validate(obj) === false) {
+      if (!validate(obj)) {
         s.epoch = null;
         return s;
       }
@@ -49,7 +48,7 @@ export default [
         obj.date = parseInt(m[2], 10);
         obj.month = parseInt(m[3], 10) - 1;
       }
-      if (validate(obj) === false) {
+      if (!validate(obj)) {
         s.epoch = null;
         return s;
       }
@@ -64,11 +63,12 @@ export default [
     reg: /^([0-9]{4})[-/. ]([a-z]+)[-/. ]([0-9]{1,2})( [0-9]{1,2}(:[0-9]{0,2})?(:[0-9]{0,3})? ?(am|pm)?)?$/i,
     parse: (s, m) => {
       const obj = {
-        year: parseYear(m[1], s._today),
+        // year: parseYear(m[1], s._today),
+        year: parseYear(m[1]),
         month: parseMonth(m[2]),
         date: toCardinal(m[3] || ''),
       };
-      if (validate(obj) === false) {
+      if (obj.month === undefined || !validate(obj)) {
         s.epoch = null;
         return s;
       }

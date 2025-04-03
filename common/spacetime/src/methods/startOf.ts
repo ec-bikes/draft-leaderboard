@@ -1,7 +1,11 @@
-import walkTo from './set/walk.js';
-import { normalize } from '../helpers.js';
+import { walkTo } from './set/walk.js';
+import { normalizeUnit } from '../helpers.js';
+import type { SetValueUnit } from './set/set.js';
+import type { Spacetime } from '../../types/types.js';
 
-const units = {
+type StartOfUnit = Exclude<SetValueUnit, 'millisecond'>;
+
+const units: Record<StartOfUnit, (s: Spacetime) => Spacetime> = {
   second: (s) => {
     walkTo(s, {
       millisecond: 0,
@@ -23,21 +27,7 @@ const units = {
     });
     return s;
   },
-  day: (s) => {
-    walkTo(s, {
-      hour: 0,
-      minute: 0,
-      second: 0,
-      millisecond: 0,
-    });
-    return s;
-  },
-  week: (s) => {
-    const original = s.clone();
-    s = s.day(1); //monday
-    if (s.isAfter(original)) {
-      s = s.subtract(1, 'week');
-    }
+  date: (s) => {
     walkTo(s, {
       hour: 0,
       minute: 0,
@@ -68,11 +58,10 @@ const units = {
     return s;
   },
 };
-units.date = units.day;
 
 const startOf = (a, unit) => {
   const s = a.clone();
-  unit = normalize(unit);
+  unit = normalizeUnit(unit);
   if (units[unit]) {
     return units[unit](s);
   }
@@ -82,7 +71,7 @@ const startOf = (a, unit) => {
 //piggy-backs off startOf
 const endOf = (a, unit) => {
   let s = a.clone();
-  unit = normalize(unit);
+  unit = normalizeUnit(unit);
   if (units[unit]) {
     // go to beginning, go to next one, step back 1ms
     s = units[unit](s); // startof
