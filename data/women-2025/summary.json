@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 April 2025 23:21 GMT",
+  "fetchedDate": "3 April 2025 23:23 GMT",
   "momentId": 189745,
   "teams": [
     {
@@ -80,7 +80,7 @@
           "totalPoints": 490
         }
       ],
-      "movement": 0
+      "movement": -1
     },
     {
       "owner": "Abby Mickey",
@@ -158,7 +158,7 @@
           "totalPoints": 43
         }
       ],
-      "movement": 2
+      "movement": 1
     },
     {
       "owner": "Gracie Elvin",
@@ -472,7 +472,7 @@
           "totalPoints": 362
         }
       ],
-      "movement": -2
+      "movement": 0
     }
   ]
 }

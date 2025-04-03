@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 April 2025 23:22 GMT",
+  "fetchedDate": "3 April 2025 23:23 GMT",
   "momentId": 189727,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 3385.25,
+    "totalPoints": 3360.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -19,10 +19,10 @@
       {
         "name": "Tim Merlier",
         "id": 70962,
-        "sanctions": 25,
+        "sanctions": 50,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 663.29,
+        "totalPoints": 638.29,
         "results": [
           {
             "name": "Dwars door Vlaanderen - A travers la Flandre ME",

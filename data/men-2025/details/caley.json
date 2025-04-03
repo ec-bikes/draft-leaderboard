@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 April 2025 23:22 GMT",
+  "fetchedDate": "3 April 2025 23:23 GMT",
   "momentId": 189727,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 4348.46,
+    "totalPoints": 4362.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -482,8 +482,14 @@
         "id": 1557079,
         "team": "JAY",
         "country": "au",
-        "totalPoints": 325,
+        "totalPoints": 339,
         "results": [
+          {
+            "name": "ΔΕΗ Tour of Hellas - Stage 2",
+            "date": "3 Apr 2025",
+            "points": 14,
+            "rank": 1
+          },
           {
             "name": "Santos Tour Down Under - General classification",
             "date": "26 Jan 2025",
