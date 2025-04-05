@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "4 April 2025 23:22 GMT",
+  "fetchedDate": "5 April 2025 23:23 GMT",
   "momentId": 189727,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 3148.14,
+    "totalPoints": 3153.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -141,8 +141,14 @@
         "id": 1710249,
         "team": "TPP",
         "country": "gb",
-        "totalPoints": 540,
+        "totalPoints": 545,
         "results": [
+          {
+            "name": "Gran Premio Miguel Indurain",
+            "date": "5 Apr 2025",
+            "points": 5,
+            "rank": 16
+          },
           {
             "name": "UAE Tour - General classification",
             "date": "23 Feb 2025",

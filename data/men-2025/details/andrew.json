@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "4 April 2025 23:22 GMT",
+  "fetchedDate": "5 April 2025 23:23 GMT",
   "momentId": 189727,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 3001.28,
+    "totalPoints": 3011.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -206,8 +206,14 @@
         "id": 1745291,
         "team": "ARK",
         "country": "fr",
-        "totalPoints": 320,
+        "totalPoints": 325,
         "results": [
+          {
+            "name": "Gran Premio Miguel Indurain",
+            "date": "5 Apr 2025",
+            "points": 5,
+            "rank": 29
+          },
           {
             "name": "Milano-Sanremo",
             "date": "22 Mar 2025",
@@ -508,8 +514,14 @@
         "id": 89223,
         "team": "UAD",
         "country": "es",
-        "totalPoints": 81,
+        "totalPoints": 86,
         "results": [
+          {
+            "name": "Gran Premio Miguel Indurain",
+            "date": "5 Apr 2025",
+            "points": 5,
+            "rank": 23
+          },
           {
             "name": "Volta Ciclista a Catalunya - General classification",
             "date": "30 Mar 2025",

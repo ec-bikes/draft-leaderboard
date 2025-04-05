@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "4 April 2025 23:22 GMT",
+  "fetchedDate": "5 April 2025 23:23 GMT",
   "momentId": 189727,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 3266.38,
+    "totalPoints": 3286.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -337,8 +337,14 @@
         "id": 109483,
         "team": "JAY",
         "country": "ch",
-        "totalPoints": 381.67,
+        "totalPoints": 401.67,
         "results": [
+          {
+            "name": "Gran Premio Miguel Indurain",
+            "date": "5 Apr 2025",
+            "points": 20,
+            "rank": 13
+          },
           {
             "name": "Milano-Sanremo",
             "date": "22 Mar 2025",

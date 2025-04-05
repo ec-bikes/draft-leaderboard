@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "4 April 2025 23:22 GMT",
+  "fetchedDate": "5 April 2025 23:23 GMT",
   "momentId": 189727,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 2936,
+    "totalPoints": 3221,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -84,8 +84,15 @@
         "id": 1721034,
         "team": "LTK",
         "country": "be",
-        "totalPoints": 0,
-        "results": []
+        "totalPoints": 200,
+        "results": [
+          {
+            "name": "Gran Premio Miguel Indurain",
+            "date": "5 Apr 2025",
+            "points": 200,
+            "rank": 1
+          }
+        ]
       },
       {
         "name": "Toms Skujiņš",
@@ -308,8 +315,14 @@
         "id": 422863,
         "team": "COF",
         "country": "es",
-        "totalPoints": 171,
+        "totalPoints": 256,
         "results": [
+          {
+            "name": "Gran Premio Miguel Indurain",
+            "date": "5 Apr 2025",
+            "points": 85,
+            "rank": 5
+          },
           {
             "name": "Milano-Sanremo",
             "date": "22 Mar 2025",

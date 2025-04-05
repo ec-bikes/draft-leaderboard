@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "4 April 2025 23:22 GMT",
+  "fetchedDate": "5 April 2025 23:23 GMT",
   "momentId": 189727,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 3830.42,
+    "totalPoints": 3840.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -138,8 +138,14 @@
         "id": 150923,
         "team": "UAD",
         "country": "us",
-        "totalPoints": 167.57,
+        "totalPoints": 172.57,
         "results": [
+          {
+            "name": "Gran Premio Miguel Indurain",
+            "date": "5 Apr 2025",
+            "points": 5,
+            "rank": 24
+          },
           {
             "name": "Paris-Nice - Stage 5",
             "date": "13 Mar 2025",
@@ -391,8 +397,14 @@
         "id": 54679,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 131,
+        "totalPoints": 136,
         "results": [
+          {
+            "name": "ΔΕΗ Tour of Hellas - Stage 4",
+            "date": "5 Apr 2025",
+            "points": 5,
+            "rank": 2
+          },
           {
             "name": "Settimana Internazionale Coppi e Bartali - General classification",
             "date": "29 Mar 2025",

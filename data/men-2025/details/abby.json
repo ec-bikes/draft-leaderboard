@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "4 April 2025 23:22 GMT",
+  "fetchedDate": "5 April 2025 23:23 GMT",
   "momentId": 189727,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 4025.29,
+    "totalPoints": 4030.29,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -339,8 +339,14 @@
         "id": 217083,
         "team": "RBH",
         "country": "nz",
-        "totalPoints": 640,
+        "totalPoints": 645,
         "results": [
+          {
+            "name": "Gran Premio Miguel Indurain",
+            "date": "5 Apr 2025",
+            "points": 5,
+            "rank": 17
+          },
           {
             "name": "UAE Tour - General classification",
             "date": "23 Feb 2025",
