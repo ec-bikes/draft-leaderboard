@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 April 2025 23:22 GMT",
+  "fetchedDate": "6 April 2025 23:20 GMT",
   "momentId": 189745,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 3601,
+    "totalPoints": 3681,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -63,8 +63,14 @@
         "id": 31144,
         "team": "TVL",
         "country": "nl",
-        "totalPoints": 540,
+        "totalPoints": 548,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen WE",
+            "date": "6 Apr 2025",
+            "points": 8,
+            "rank": 40
+          },
           {
             "name": "Milano-Sanremo Donne",
             "date": "22 Mar 2025",
@@ -84,8 +90,14 @@
         "id": 153350,
         "team": "TPP",
         "country": "gb",
-        "totalPoints": 236,
+        "totalPoints": 252,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen WE",
+            "date": "6 Apr 2025",
+            "points": 16,
+            "rank": 23
+          },
           {
             "name": "Milano-Sanremo Donne",
             "date": "22 Mar 2025",
@@ -219,8 +231,14 @@
         "id": 237690,
         "team": "LTK",
         "country": "gb",
-        "totalPoints": 34,
+        "totalPoints": 82,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen WE",
+            "date": "6 Apr 2025",
+            "points": 48,
+            "rank": 12
+          },
           {
             "name": "Dwars door Vlaanderen - A travers la Flandre WE",
             "date": "2 Apr 2025",
@@ -297,8 +315,15 @@
         "id": 228375,
         "team": "LTK",
         "country": "nl",
-        "totalPoints": 0,
-        "results": []
+        "totalPoints": 8,
+        "results": [
+          {
+            "name": "Ronde van Vlaanderen WE",
+            "date": "6 Apr 2025",
+            "points": 8,
+            "rank": 37
+          }
+        ]
       },
       {
         "name": "Ingvild Gåskjenn",

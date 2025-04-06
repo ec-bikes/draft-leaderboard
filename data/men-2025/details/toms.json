@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 April 2025 23:23 GMT",
+  "fetchedDate": "6 April 2025 23:21 GMT",
   "momentId": 189727,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 3360.25,
+    "totalPoints": 3470.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -480,8 +480,14 @@
         "sanctions": 10,
         "team": "RBH",
         "country": "nz",
-        "totalPoints": 250,
+        "totalPoints": 360,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen ME",
+            "date": "6 Apr 2025",
+            "points": 110,
+            "rank": 11
+          },
           {
             "name": "Gent-Wevelgem in Flanders Fields ME",
             "date": "30 Mar 2025",

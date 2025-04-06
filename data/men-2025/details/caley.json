@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 April 2025 23:23 GMT",
+  "fetchedDate": "6 April 2025 23:21 GMT",
   "momentId": 189727,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 4362.46,
+    "totalPoints": 4530.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -14,8 +14,14 @@
         "sanctions": 25,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 893.57,
+        "totalPoints": 908.57,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen ME",
+            "date": "6 Apr 2025",
+            "points": 15,
+            "rank": 47
+          },
           {
             "name": "Dwars door Vlaanderen - A travers la Flandre ME",
             "date": "2 Apr 2025",
@@ -216,8 +222,14 @@
         "id": 62919,
         "team": "JAY",
         "country": "au",
-        "totalPoints": 487.67,
+        "totalPoints": 572.67,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen ME",
+            "date": "6 Apr 2025",
+            "points": 85,
+            "rank": 13
+          },
           {
             "name": "Gent-Wevelgem in Flanders Fields ME",
             "date": "30 Mar 2025",
@@ -339,8 +351,14 @@
         "id": 88143,
         "team": "EFE",
         "country": "us",
-        "totalPoints": 502.5,
+        "totalPoints": 517.5,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen ME",
+            "date": "6 Apr 2025",
+            "points": 15,
+            "rank": 42
+          },
           {
             "name": "Dwars door Vlaanderen - A travers la Flandre ME",
             "date": "2 Apr 2025",
@@ -390,8 +408,14 @@
         "id": 361433,
         "team": "IGD",
         "country": "us",
-        "totalPoints": 722.86,
+        "totalPoints": 772.86,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen ME",
+            "date": "6 Apr 2025",
+            "points": 50,
+            "rank": 20
+          },
           {
             "name": "Dwars door Vlaanderen - A travers la Flandre ME",
             "date": "2 Apr 2025",
@@ -482,8 +506,14 @@
         "id": 1557079,
         "team": "JAY",
         "country": "au",
-        "totalPoints": 339,
+        "totalPoints": 342,
         "results": [
+          {
+            "name": "ΔΕΗ Tour of Hellas - General classification",
+            "date": "6 Apr 2025",
+            "points": 3,
+            "rank": 25
+          },
           {
             "name": "ΔΕΗ Tour of Hellas - Stage 2",
             "date": "3 Apr 2025",

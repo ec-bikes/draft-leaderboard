@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 April 2025 23:23 GMT",
+  "fetchedDate": "6 April 2025 23:21 GMT",
   "momentId": 189727,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 4835.57,
+    "totalPoints": 5075.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -437,8 +437,14 @@
         "sanctions": 25,
         "team": "GFC",
         "country": "ch",
-        "totalPoints": 190,
+        "totalPoints": 430,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen ME",
+            "date": "6 Apr 2025",
+            "points": 240,
+            "rank": 7
+          },
           {
             "name": "Dwars door Vlaanderen - A travers la Flandre ME",
             "date": "2 Apr 2025",

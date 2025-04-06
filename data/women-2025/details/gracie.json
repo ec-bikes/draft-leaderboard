@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 April 2025 23:22 GMT",
+  "fetchedDate": "6 April 2025 23:20 GMT",
   "momentId": 189745,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 4750,
+    "totalPoints": 4910,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -205,8 +205,14 @@
         "id": 227721,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 167,
+        "totalPoints": 207,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen WE",
+            "date": "6 Apr 2025",
+            "points": 40,
+            "rank": 13
+          },
           {
             "name": "Dwars door Vlaanderen - A travers la Flandre WE",
             "date": "2 Apr 2025",
@@ -419,8 +425,14 @@
         "id": 1638135,
         "team": "TFS",
         "country": "ch",
-        "totalPoints": 345,
+        "totalPoints": 465,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen WE",
+            "date": "6 Apr 2025",
+            "points": 120,
+            "rank": 7
+          },
           {
             "name": "Dwars door Vlaanderen - A travers la Flandre WE",
             "date": "2 Apr 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 April 2025 23:23 GMT",
+  "fetchedDate": "6 April 2025 23:21 GMT",
   "momentId": 189727,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 3011.28,
+    "totalPoints": 3026.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -397,8 +397,14 @@
         "id": 68844,
         "team": "TVL",
         "country": "nl",
-        "totalPoints": 12,
+        "totalPoints": 27,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen ME",
+            "date": "6 Apr 2025",
+            "points": 15,
+            "rank": 46
+          },
           {
             "name": "Dwars door Vlaanderen - A travers la Flandre ME",
             "date": "2 Apr 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 April 2025 23:23 GMT",
+  "fetchedDate": "6 April 2025 23:21 GMT",
   "momentId": 189727,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 3153.14,
+    "totalPoints": 3203.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -268,8 +268,14 @@
         "id": 91637,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 72,
+        "totalPoints": 122,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen ME",
+            "date": "6 Apr 2025",
+            "points": 50,
+            "rank": 17
+          },
           {
             "name": "Gent-Wevelgem in Flanders Fields ME",
             "date": "30 Mar 2025",

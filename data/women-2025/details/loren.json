@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 April 2025 23:22 GMT",
+  "fetchedDate": "6 April 2025 23:20 GMT",
   "momentId": 189745,
   "team": {
     "owner": "Loren Rowney",
     "name": "(TBD)",
-    "totalPoints": 3153,
+    "totalPoints": 3757,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
         "team": "SDW",
         "country": "be",
-        "totalPoints": 230,
+        "totalPoints": 630,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen WE",
+            "date": "6 Apr 2025",
+            "points": 400,
+            "rank": 1
+          },
           {
             "name": "Dwars door Vlaanderen - A travers la Flandre WE",
             "date": "2 Apr 2025",
@@ -34,8 +40,14 @@
         "id": 86838,
         "team": "CSZ",
         "country": "dk",
-        "totalPoints": 37,
+        "totalPoints": 45,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen WE",
+            "date": "6 Apr 2025",
+            "points": 8,
+            "rank": 36
+          },
           {
             "name": "Milano-Sanremo Donne",
             "date": "22 Mar 2025",
@@ -67,8 +79,14 @@
         "id": 88660,
         "team": "AGS",
         "country": "mu",
-        "totalPoints": 582,
+        "totalPoints": 762,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen WE",
+            "date": "6 Apr 2025",
+            "points": 180,
+            "rank": 5
+          },
           {
             "name": "Milano-Sanremo Donne",
             "date": "22 Mar 2025",
@@ -106,8 +124,14 @@
         "id": 2202121,
         "team": "AGS",
         "country": "be",
-        "totalPoints": 195,
+        "totalPoints": 211,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen WE",
+            "date": "6 Apr 2025",
+            "points": 16,
+            "rank": 24
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "16 Mar 2025",

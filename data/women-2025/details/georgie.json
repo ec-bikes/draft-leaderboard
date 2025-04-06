@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 April 2025 23:22 GMT",
+  "fetchedDate": "6 April 2025 23:20 GMT",
   "momentId": 189745,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 1955,
+    "totalPoints": 2199,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
         "id": 86824,
         "team": "CSZ",
         "country": "pl",
-        "totalPoints": 61,
+        "totalPoints": 281,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen WE",
+            "date": "6 Apr 2025",
+            "points": 220,
+            "rank": 4
+          },
           {
             "name": "Dwars door Vlaanderen - A travers la Flandre WE",
             "date": "2 Apr 2025",
@@ -203,8 +209,14 @@
         "sanctions": 15,
         "team": "HPH",
         "country": "us",
-        "totalPoints": 216,
+        "totalPoints": 232,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen WE",
+            "date": "6 Apr 2025",
+            "points": 16,
+            "rank": 21
+          },
           {
             "name": "Gent-Wevelgem In Flanders Fields WE",
             "date": "30 Mar 2025",
@@ -293,8 +305,14 @@
         "id": 66056,
         "team": "LTK",
         "country": "nl",
-        "totalPoints": 11,
+        "totalPoints": 19,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen WE",
+            "date": "6 Apr 2025",
+            "points": 8,
+            "rank": 34
+          },
           {
             "name": "Dwars door Vlaanderen - A travers la Flandre WE",
             "date": "2 Apr 2025",

@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 April 2025 23:22 GMT",
+  "fetchedDate": "6 April 2025 23:20 GMT",
   "momentId": 189745,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 3049,
+    "totalPoints": 3809,
     "riders": [
       {
         "name": "Liane Lippert",
         "id": 140495,
         "team": "MOV",
         "country": "de",
-        "totalPoints": 269,
+        "totalPoints": 529,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen WE",
+            "date": "6 Apr 2025",
+            "points": 260,
+            "rank": 3
+          },
           {
             "name": "Dwars door Vlaanderen - A travers la Flandre WE",
             "date": "2 Apr 2025",
@@ -76,8 +82,14 @@
         "id": 59726,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 511,
+        "totalPoints": 567,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen WE",
+            "date": "6 Apr 2025",
+            "points": 56,
+            "rank": 11
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "16 Mar 2025",
@@ -115,8 +127,14 @@
         "id": 1589305,
         "team": "MOV",
         "country": "ch",
-        "totalPoints": 319,
+        "totalPoints": 387,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen WE",
+            "date": "6 Apr 2025",
+            "points": 68,
+            "rank": 10
+          },
           {
             "name": "Dwars door Vlaanderen - A travers la Flandre WE",
             "date": "2 Apr 2025",
@@ -250,8 +268,14 @@
         "id": 2317617,
         "team": "MOV",
         "country": "gb",
-        "totalPoints": 284,
+        "totalPoints": 308,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen WE",
+            "date": "6 Apr 2025",
+            "points": 24,
+            "rank": 19
+          },
           {
             "name": "Milano-Sanremo Donne",
             "date": "22 Mar 2025",
@@ -287,8 +311,14 @@
         "id": 153363,
         "team": "LIV",
         "country": "it",
-        "totalPoints": 248,
+        "totalPoints": 280,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen WE",
+            "date": "6 Apr 2025",
+            "points": 32,
+            "rank": 14
+          },
           {
             "name": "Dwars door Vlaanderen - A travers la Flandre WE",
             "date": "2 Apr 2025",
@@ -320,8 +350,14 @@
         "id": 66298,
         "team": "TVL",
         "country": "fr",
-        "totalPoints": 362,
+        "totalPoints": 682,
         "results": [
+          {
+            "name": "Ronde van Vlaanderen WE",
+            "date": "6 Apr 2025",
+            "points": 320,
+            "rank": 2
+          },
           {
             "name": "Milano-Sanremo Donne",
             "date": "22 Mar 2025",
