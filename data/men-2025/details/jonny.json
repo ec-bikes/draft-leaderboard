@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 April 2025 23:21 GMT",
+  "fetchedDate": "7 April 2025 23:22 GMT",
   "momentId": 189727,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 3203.14,
+    "totalPoints": 3209.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -51,8 +51,14 @@
         "id": 365033,
         "team": "LTK",
         "country": "dk",
-        "totalPoints": 263.57,
+        "totalPoints": 269.57,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Stage 1 (ITT)",
+            "date": "7 Apr 2025",
+            "points": 6,
+            "rank": 8
+          },
           {
             "name": "Paris-Nice - Stage 6",
             "date": "14 Mar 2025",
@@ -271,7 +277,7 @@
         "totalPoints": 122,
         "results": [
           {
-            "name": "Ronde van Vlaanderen ME",
+            "name": "Ronde van Vlaanderen - Tour des Flandres ME",
             "date": "6 Apr 2025",
             "points": 50,
             "rank": 17

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 April 2025 23:21 GMT",
+  "fetchedDate": "7 April 2025 23:22 GMT",
   "momentId": 189727,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 3026.28,
+    "totalPoints": 3056.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -70,8 +70,14 @@
         "id": 107840,
         "team": "UAD",
         "country": "pt",
-        "totalPoints": 597.57,
+        "totalPoints": 627.57,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Stage 1 (ITT)",
+            "date": "7 Apr 2025",
+            "points": 30,
+            "rank": 2
+          },
           {
             "name": "Paris-Nice - General classification",
             "date": "16 Mar 2025",
@@ -400,7 +406,7 @@
         "totalPoints": 27,
         "results": [
           {
-            "name": "Ronde van Vlaanderen ME",
+            "name": "Ronde van Vlaanderen - Tour des Flandres ME",
             "date": "6 Apr 2025",
             "points": 15,
             "rank": 46

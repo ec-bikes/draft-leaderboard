@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 April 2025 23:21 GMT",
+  "fetchedDate": "7 April 2025 23:22 GMT",
   "momentId": 189727,
   "team": {
     "owner": "Discord Undrafted",
@@ -61,7 +61,7 @@
         "totalPoints": 125,
         "results": [
           {
-            "name": "Ronde van Vlaanderen ME",
+            "name": "Ronde van Vlaanderen - Tour des Flandres ME",
             "date": "6 Apr 2025",
             "points": 30,
             "rank": 21

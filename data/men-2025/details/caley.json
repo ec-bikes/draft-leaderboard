@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 April 2025 23:21 GMT",
+  "fetchedDate": "7 April 2025 23:22 GMT",
   "momentId": 189727,
   "team": {
     "owner": "Caley Fretz",
@@ -17,7 +17,7 @@
         "totalPoints": 908.57,
         "results": [
           {
-            "name": "Ronde van Vlaanderen ME",
+            "name": "Ronde van Vlaanderen - Tour des Flandres ME",
             "date": "6 Apr 2025",
             "points": 15,
             "rank": 47
@@ -225,7 +225,7 @@
         "totalPoints": 572.67,
         "results": [
           {
-            "name": "Ronde van Vlaanderen ME",
+            "name": "Ronde van Vlaanderen - Tour des Flandres ME",
             "date": "6 Apr 2025",
             "points": 85,
             "rank": 13
@@ -354,7 +354,7 @@
         "totalPoints": 517.5,
         "results": [
           {
-            "name": "Ronde van Vlaanderen ME",
+            "name": "Ronde van Vlaanderen - Tour des Flandres ME",
             "date": "6 Apr 2025",
             "points": 15,
             "rank": 42
@@ -411,7 +411,7 @@
         "totalPoints": 772.86,
         "results": [
           {
-            "name": "Ronde van Vlaanderen ME",
+            "name": "Ronde van Vlaanderen - Tour des Flandres ME",
             "date": "6 Apr 2025",
             "points": 50,
             "rank": 20

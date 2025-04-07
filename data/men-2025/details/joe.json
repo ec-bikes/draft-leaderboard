@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 April 2025 23:21 GMT",
+  "fetchedDate": "7 April 2025 23:22 GMT",
   "momentId": 189727,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 5045.42,
+    "totalPoints": 5060.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -16,7 +16,7 @@
         "totalPoints": 1925,
         "results": [
           {
-            "name": "Ronde van Vlaanderen ME",
+            "name": "Ronde van Vlaanderen - Tour des Flandres ME",
             "date": "6 Apr 2025",
             "points": 520,
             "rank": 3
@@ -67,7 +67,7 @@
         "totalPoints": 2077.57,
         "results": [
           {
-            "name": "Ronde van Vlaanderen ME",
+            "name": "Ronde van Vlaanderen - Tour des Flandres ME",
             "date": "6 Apr 2025",
             "points": 640,
             "rank": 2
@@ -207,8 +207,14 @@
         "id": 97280,
         "team": "RBH",
         "country": "ru",
-        "totalPoints": 28.71,
+        "totalPoints": 43.71,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Stage 1 (ITT)",
+            "date": "7 Apr 2025",
+            "points": 15,
+            "rank": 5
+          },
           {
             "name": "Paris-Nice - General classification",
             "date": "16 Mar 2025",

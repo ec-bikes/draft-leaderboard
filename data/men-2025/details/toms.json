@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 April 2025 23:21 GMT",
+  "fetchedDate": "7 April 2025 23:22 GMT",
   "momentId": 189727,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 3470.25,
+    "totalPoints": 3528.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -434,8 +434,19 @@
         "id": 86938,
         "team": "SOQ",
         "country": "de",
-        "totalPoints": 138.29,
+        "totalPoints": 196.29,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Stage 1 (ITT)",
+            "date": "7 Apr 2025",
+            "points": 50,
+            "rank": 1
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 1 (ITT) - Bonus",
+            "date": "7 Apr 2025",
+            "points": 8
+          },
           {
             "name": "Milano-Sanremo",
             "date": "22 Mar 2025",
@@ -483,7 +494,7 @@
         "totalPoints": 360,
         "results": [
           {
-            "name": "Ronde van Vlaanderen ME",
+            "name": "Ronde van Vlaanderen - Tour des Flandres ME",
             "date": "6 Apr 2025",
             "points": 110,
             "rank": 11

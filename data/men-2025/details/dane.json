@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 April 2025 23:21 GMT",
+  "fetchedDate": "7 April 2025 23:22 GMT",
   "momentId": 189727,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 5075.57,
+    "totalPoints": 5100.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -334,8 +334,14 @@
         "id": 2097255,
         "team": "RBH",
         "country": "de",
-        "totalPoints": 468,
+        "totalPoints": 493,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Stage 1 (ITT)",
+            "date": "7 Apr 2025",
+            "points": 25,
+            "rank": 3
+          },
           {
             "name": "Paris-Nice - General classification",
             "date": "16 Mar 2025",
@@ -440,7 +446,7 @@
         "totalPoints": 430,
         "results": [
           {
-            "name": "Ronde van Vlaanderen ME",
+            "name": "Ronde van Vlaanderen - Tour des Flandres ME",
             "date": "6 Apr 2025",
             "points": 240,
             "rank": 7
