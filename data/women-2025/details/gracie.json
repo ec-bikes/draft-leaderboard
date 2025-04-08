@@ -1,8 +1,8 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 April 2025 23:22 GMT",
-  "momentId": 189745,
+  "fetchedDate": "8 April 2025 23:22 GMT",
+  "momentId": 189905,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
@@ -208,7 +208,7 @@
         "totalPoints": 207,
         "results": [
           {
-            "name": "Ronde van Vlaanderen WE",
+            "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "6 Apr 2025",
             "points": 40,
             "rank": 13
@@ -428,7 +428,7 @@
         "totalPoints": 465,
         "results": [
           {
-            "name": "Ronde van Vlaanderen WE",
+            "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "6 Apr 2025",
             "points": 120,
             "rank": 7

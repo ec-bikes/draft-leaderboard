@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 April 2025 23:22 GMT",
-  "momentId": 189727,
+  "fetchedDate": "8 April 2025 23:22 GMT",
+  "momentId": 189887,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 4036,
+    "totalPoints": 4011,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -199,9 +199,10 @@
       {
         "name": "Jordi Meeus",
         "id": 148901,
+        "sanctions": 25,
         "team": "RBH",
         "country": "be",
-        "totalPoints": 175,
+        "totalPoints": 150,
         "results": [
           {
             "name": "Dwars door Vlaanderen - A travers la Flandre ME",

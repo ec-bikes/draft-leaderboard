@@ -1,8 +1,8 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 April 2025 23:22 GMT",
-  "momentId": 189745,
+  "fetchedDate": "8 April 2025 23:22 GMT",
+  "momentId": 189905,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
@@ -66,7 +66,7 @@
         "totalPoints": 548,
         "results": [
           {
-            "name": "Ronde van Vlaanderen WE",
+            "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "6 Apr 2025",
             "points": 8,
             "rank": 40
@@ -93,7 +93,7 @@
         "totalPoints": 252,
         "results": [
           {
-            "name": "Ronde van Vlaanderen WE",
+            "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "6 Apr 2025",
             "points": 16,
             "rank": 23
@@ -234,7 +234,7 @@
         "totalPoints": 82,
         "results": [
           {
-            "name": "Ronde van Vlaanderen WE",
+            "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "6 Apr 2025",
             "points": 48,
             "rank": 12
@@ -318,7 +318,7 @@
         "totalPoints": 8,
         "results": [
           {
-            "name": "Ronde van Vlaanderen WE",
+            "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "6 Apr 2025",
             "points": 8,
             "rank": 37

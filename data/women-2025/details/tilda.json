@@ -1,8 +1,8 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 April 2025 23:22 GMT",
-  "momentId": 189745,
+  "fetchedDate": "8 April 2025 23:22 GMT",
+  "momentId": 189905,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
@@ -16,7 +16,7 @@
         "totalPoints": 1735,
         "results": [
           {
-            "name": "Ronde van Vlaanderen WE",
+            "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "6 Apr 2025",
             "points": 24,
             "rank": 17
@@ -122,7 +122,7 @@
         "totalPoints": 853,
         "results": [
           {
-            "name": "Ronde van Vlaanderen WE",
+            "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "6 Apr 2025",
             "points": 80,
             "rank": 9
@@ -179,7 +179,7 @@
         "totalPoints": 1274,
         "results": [
           {
-            "name": "Ronde van Vlaanderen WE",
+            "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "6 Apr 2025",
             "points": 28,
             "rank": 15

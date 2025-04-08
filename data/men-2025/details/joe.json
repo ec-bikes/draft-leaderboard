@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 April 2025 23:22 GMT",
-  "momentId": 189727,
+  "fetchedDate": "8 April 2025 23:22 GMT",
+  "momentId": 189887,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 5060.42,
+    "totalPoints": 5070.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -307,8 +307,14 @@
         "sanctions": 25,
         "team": "TVL",
         "country": "fr",
-        "totalPoints": 51.57,
+        "totalPoints": 61.57,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Stage 2",
+            "date": "8 Apr 2025",
+            "points": 10,
+            "rank": 6
+          },
           {
             "name": "Paris-Nice - General classification",
             "date": "16 Mar 2025",

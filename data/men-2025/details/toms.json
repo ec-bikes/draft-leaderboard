@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 April 2025 23:22 GMT",
-  "momentId": 189727,
+  "fetchedDate": "8 April 2025 23:22 GMT",
+  "momentId": 189887,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 3528.25,
+    "totalPoints": 3561.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -19,10 +19,10 @@
       {
         "name": "Tim Merlier",
         "id": 70962,
-        "sanctions": 50,
+        "sanctions": 25,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 638.29,
+        "totalPoints": 663.29,
         "results": [
           {
             "name": "Dwars door Vlaanderen - A travers la Flandre ME",
@@ -434,8 +434,13 @@
         "id": 86938,
         "team": "SOQ",
         "country": "de",
-        "totalPoints": 196.29,
+        "totalPoints": 204.29,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Stage 2 - Bonus",
+            "date": "8 Apr 2025",
+            "points": 8
+          },
           {
             "name": "Itzulia Basque Country - Stage 1 (ITT)",
             "date": "7 Apr 2025",

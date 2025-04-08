@@ -1,8 +1,8 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 April 2025 23:22 GMT",
-  "momentId": 189745,
+  "fetchedDate": "8 April 2025 23:22 GMT",
+  "momentId": 189905,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
@@ -16,7 +16,7 @@
         "totalPoints": 529,
         "results": [
           {
-            "name": "Ronde van Vlaanderen WE",
+            "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "6 Apr 2025",
             "points": 260,
             "rank": 3
@@ -85,7 +85,7 @@
         "totalPoints": 567,
         "results": [
           {
-            "name": "Ronde van Vlaanderen WE",
+            "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "6 Apr 2025",
             "points": 56,
             "rank": 11
@@ -130,7 +130,7 @@
         "totalPoints": 387,
         "results": [
           {
-            "name": "Ronde van Vlaanderen WE",
+            "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "6 Apr 2025",
             "points": 68,
             "rank": 10
@@ -271,7 +271,7 @@
         "totalPoints": 308,
         "results": [
           {
-            "name": "Ronde van Vlaanderen WE",
+            "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "6 Apr 2025",
             "points": 24,
             "rank": 19
@@ -314,7 +314,7 @@
         "totalPoints": 280,
         "results": [
           {
-            "name": "Ronde van Vlaanderen WE",
+            "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "6 Apr 2025",
             "points": 32,
             "rank": 14
@@ -353,7 +353,7 @@
         "totalPoints": 682,
         "results": [
           {
-            "name": "Ronde van Vlaanderen WE",
+            "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "6 Apr 2025",
             "points": 320,
             "rank": 2

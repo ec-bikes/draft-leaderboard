@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 April 2025 23:22 GMT",
-  "momentId": 189727,
+  "fetchedDate": "8 April 2025 23:22 GMT",
+  "momentId": 189887,
   "teams": [
     {
       "owner": "Kit Nicholson",
       "name": "Picnic-Letterboxd",
-      "totalPoints": 4036,
+      "totalPoints": 4011,
       "riders": [
         {
           "name": "Tadej Pogačar",
@@ -40,9 +40,10 @@
         {
           "name": "Jordi Meeus",
           "id": 148901,
+          "sanctions": 25,
           "team": "RBH",
           "country": "be",
-          "totalPoints": 175
+          "totalPoints": 150
         },
         {
           "name": "Kaden Groves",
@@ -164,7 +165,7 @@
     {
       "owner": "Toms Skujiņš",
       "name": "Lidl-Trek-Bauer",
-      "totalPoints": 3528.25,
+      "totalPoints": 3561.25,
       "riders": [
         {
           "name": "Remco Evenepoel",
@@ -176,10 +177,10 @@
         {
           "name": "Tim Merlier",
           "id": 70962,
-          "sanctions": 50,
+          "sanctions": 25,
           "team": "SOQ",
           "country": "be",
-          "totalPoints": 638.29
+          "totalPoints": 663.29
         },
         {
           "name": "Ben O'Connor",
@@ -228,7 +229,7 @@
           "id": 86938,
           "team": "SOQ",
           "country": "de",
-          "totalPoints": 196.29
+          "totalPoints": 204.29
         },
         {
           "name": "Laurence Pithie",
@@ -402,7 +403,7 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 5060.42,
+      "totalPoints": 5070.42,
       "riders": [
         {
           "name": "Mathieu van der Poel",
@@ -445,7 +446,7 @@
           "sanctions": 25,
           "team": "TVL",
           "country": "fr",
-          "totalPoints": 51.57
+          "totalPoints": 61.57
         },
         {
           "name": "Tobias Andresen",
