@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 April 2025 23:22 GMT",
+  "fetchedDate": "9 April 2025 23:22 GMT",
   "momentId": 189887,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 5100.57,
+    "totalPoints": 5286.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
         "id": 148275,
         "team": "ADC",
         "country": "be",
-        "totalPoints": 475,
+        "totalPoints": 625,
         "results": [
+          {
+            "name": "Scheldeprijs ME",
+            "date": "9 Apr 2025",
+            "points": 150,
+            "rank": 2
+          },
           {
             "name": "Gent-Wevelgem in Flanders Fields ME",
             "date": "30 Mar 2025",
@@ -334,8 +340,14 @@
         "id": 2097255,
         "team": "RBH",
         "country": "de",
-        "totalPoints": 493,
+        "totalPoints": 499,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Stage 3",
+            "date": "9 Apr 2025",
+            "points": 6,
+            "rank": 8
+          },
           {
             "name": "Itzulia Basque Country - Stage 1 (ITT)",
             "date": "7 Apr 2025",
@@ -385,8 +397,14 @@
         "id": 1759422,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 414,
+        "totalPoints": 444,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Stage 3",
+            "date": "9 Apr 2025",
+            "points": 30,
+            "rank": 2
+          },
           {
             "name": "Milano-Sanremo",
             "date": "22 Mar 2025",

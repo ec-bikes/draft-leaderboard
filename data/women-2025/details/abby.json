@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 April 2025 23:22 GMT",
+  "fetchedDate": "9 April 2025 23:22 GMT",
   "momentId": 189905,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 3681,
+    "totalPoints": 3836,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -192,8 +192,14 @@
         "id": 157612,
         "team": "TPP",
         "country": "nl",
-        "totalPoints": 368,
+        "totalPoints": 453,
         "results": [
+          {
+            "name": "Scheldeprijs WE",
+            "date": "9 Apr 2025",
+            "points": 85,
+            "rank": 2
+          },
           {
             "name": "Gent-Wevelgem In Flanders Fields WE",
             "date": "30 Mar 2025",
@@ -276,8 +282,14 @@
         "id": 156600,
         "team": "CSZ",
         "country": "it",
-        "totalPoints": 725,
+        "totalPoints": 795,
         "results": [
+          {
+            "name": "Scheldeprijs WE",
+            "date": "9 Apr 2025",
+            "points": 70,
+            "rank": 3
+          },
           {
             "name": "Gent-Wevelgem In Flanders Fields WE",
             "date": "30 Mar 2025",

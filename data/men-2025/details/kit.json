@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 April 2025 23:22 GMT",
+  "fetchedDate": "9 April 2025 23:22 GMT",
   "momentId": 189887,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 4011,
+    "totalPoints": 4061,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -328,8 +328,14 @@
         "id": 422863,
         "team": "COF",
         "country": "es",
-        "totalPoints": 256,
+        "totalPoints": 306,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Stage 3",
+            "date": "9 Apr 2025",
+            "points": 50,
+            "rank": 1
+          },
           {
             "name": "Gran Premio Miguel Indurain",
             "date": "5 Apr 2025",

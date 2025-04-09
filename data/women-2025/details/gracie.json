@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 April 2025 23:22 GMT",
+  "fetchedDate": "9 April 2025 23:22 GMT",
   "momentId": 189905,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 4910,
+    "totalPoints": 5085,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -79,8 +79,14 @@
         "id": 101826,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 1415,
+        "totalPoints": 1540,
         "results": [
+          {
+            "name": "Scheldeprijs WE",
+            "date": "9 Apr 2025",
+            "points": 125,
+            "rank": 1
+          },
           {
             "name": "Dwars door Vlaanderen - A travers la Flandre WE",
             "date": "2 Apr 2025",
@@ -482,8 +488,14 @@
         "id": 98622,
         "team": "HPH",
         "country": "at",
-        "totalPoints": 215,
+        "totalPoints": 265,
         "results": [
+          {
+            "name": "Scheldeprijs WE",
+            "date": "9 Apr 2025",
+            "points": 50,
+            "rank": 5
+          },
           {
             "name": "Classic Brugge-De Panne WE",
             "date": "27 Mar 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 April 2025 23:22 GMT",
+  "fetchedDate": "9 April 2025 23:22 GMT",
   "momentId": 189887,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 3561.25,
+    "totalPoints": 3894.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -22,8 +22,14 @@
         "sanctions": 25,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 663.29,
+        "totalPoints": 863.29,
         "results": [
+          {
+            "name": "Scheldeprijs ME",
+            "date": "9 Apr 2025",
+            "points": 200,
+            "rank": 1
+          },
           {
             "name": "Dwars door Vlaanderen - A travers la Flandre ME",
             "date": "2 Apr 2025",
@@ -377,8 +383,14 @@
         "id": 1714193,
         "team": "COF",
         "country": "be",
-        "totalPoints": 508,
+        "totalPoints": 608,
         "results": [
+          {
+            "name": "Scheldeprijs ME",
+            "date": "9 Apr 2025",
+            "points": 100,
+            "rank": 4
+          },
           {
             "name": "Bredene Koksijde Classic",
             "date": "21 Mar 2025",
@@ -434,8 +446,19 @@
         "id": 86938,
         "team": "SOQ",
         "country": "de",
-        "totalPoints": 204.29,
+        "totalPoints": 237.29,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Stage 3",
+            "date": "9 Apr 2025",
+            "points": 25,
+            "rank": 3
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 3 - Bonus",
+            "date": "9 Apr 2025",
+            "points": 8
+          },
           {
             "name": "Itzulia Basque Country - Stage 2 - Bonus",
             "date": "8 Apr 2025",

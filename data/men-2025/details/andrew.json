@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 April 2025 23:22 GMT",
+  "fetchedDate": "9 April 2025 23:22 GMT",
   "momentId": 189887,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 3056.28,
+    "totalPoints": 3076.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -70,8 +70,14 @@
         "id": 107840,
         "team": "UAD",
         "country": "pt",
-        "totalPoints": 627.57,
+        "totalPoints": 647.57,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Stage 3",
+            "date": "9 Apr 2025",
+            "points": 20,
+            "rank": 4
+          },
           {
             "name": "Itzulia Basque Country - Stage 1 (ITT)",
             "date": "7 Apr 2025",

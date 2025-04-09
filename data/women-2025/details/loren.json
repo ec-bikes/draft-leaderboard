@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 April 2025 23:22 GMT",
+  "fetchedDate": "9 April 2025 23:22 GMT",
   "momentId": 189905,
   "team": {
     "owner": "Loren Rowney",
     "name": "(TBD)",
-    "totalPoints": 3757,
+    "totalPoints": 3795,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -295,8 +295,14 @@
         "id": 153287,
         "team": "LTK",
         "country": "fr",
-        "totalPoints": 405,
+        "totalPoints": 408,
         "results": [
+          {
+            "name": "Scheldeprijs WE",
+            "date": "9 Apr 2025",
+            "points": 3,
+            "rank": 19
+          },
           {
             "name": "Classic Brugge-De Panne WE",
             "date": "27 Mar 2025",
@@ -346,8 +352,14 @@
         "id": 78086,
         "team": "LIV",
         "country": "au",
-        "totalPoints": 490,
+        "totalPoints": 525,
         "results": [
+          {
+            "name": "Scheldeprijs WE",
+            "date": "9 Apr 2025",
+            "points": 35,
+            "rank": 7
+          },
           {
             "name": "Classic Brugge-De Panne WE",
             "date": "27 Mar 2025",

@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 April 2025 23:22 GMT",
+  "fetchedDate": "9 April 2025 23:22 GMT",
   "momentId": 189887,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 3321.38,
+    "totalPoints": 3346.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
         "id": 72932,
         "team": "JAY",
         "country": "nl",
-        "totalPoints": 86,
+        "totalPoints": 111,
         "results": [
+          {
+            "name": "Scheldeprijs ME",
+            "date": "9 Apr 2025",
+            "points": 25,
+            "rank": 12
+          },
           {
             "name": "ΔΕΗ Tour of Hellas - Stage 5",
             "date": "6 Apr 2025",
