@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 April 2025 23:22 GMT",
+  "fetchedDate": "10 April 2025 23:24 GMT",
   "momentId": 189887,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 3346.38,
+    "totalPoints": 3347.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -255,8 +255,14 @@
         "id": 75170,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 135,
+        "totalPoints": 136,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Stage 4",
+            "date": "10 Apr 2025",
+            "points": 1,
+            "rank": 10
+          },
           {
             "name": "Paris-Nice - General classification",
             "date": "16 Mar 2025",

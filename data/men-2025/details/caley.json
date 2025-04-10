@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 April 2025 23:22 GMT",
+  "fetchedDate": "10 April 2025 23:24 GMT",
   "momentId": 189887,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 4530.46,
+    "totalPoints": 4560.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -274,8 +274,14 @@
         "sanctions": 25,
         "team": "UAD",
         "country": "mx",
-        "totalPoints": 439,
+        "totalPoints": 469,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Stage 4",
+            "date": "10 Apr 2025",
+            "points": 30,
+            "rank": 2
+          },
           {
             "name": "Milano-Sanremo",
             "date": "22 Mar 2025",

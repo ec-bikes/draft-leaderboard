@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 April 2025 23:22 GMT",
+  "fetchedDate": "10 April 2025 23:24 GMT",
   "momentId": 189887,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 3234.14,
+    "totalPoints": 3240.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -159,8 +159,14 @@
         "id": 1710249,
         "team": "TPP",
         "country": "gb",
-        "totalPoints": 545,
+        "totalPoints": 551,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Stage 4",
+            "date": "10 Apr 2025",
+            "points": 6,
+            "rank": 8
+          },
           {
             "name": "Gran Premio Miguel Indurain",
             "date": "5 Apr 2025",

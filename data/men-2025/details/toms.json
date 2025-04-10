@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 April 2025 23:22 GMT",
+  "fetchedDate": "10 April 2025 23:24 GMT",
   "momentId": 189887,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 3894.25,
+    "totalPoints": 3919.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -446,8 +446,14 @@
         "id": 86938,
         "team": "SOQ",
         "country": "de",
-        "totalPoints": 237.29,
+        "totalPoints": 262.29,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Stage 4",
+            "date": "10 Apr 2025",
+            "points": 25,
+            "rank": 3
+          },
           {
             "name": "Itzulia Basque Country - Stage 3",
             "date": "9 Apr 2025",

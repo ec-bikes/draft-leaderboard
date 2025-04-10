@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 April 2025 23:22 GMT",
+  "fetchedDate": "10 April 2025 23:24 GMT",
   "momentId": 189887,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 4061,
+    "totalPoints": 4076,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -328,8 +328,14 @@
         "id": 422863,
         "team": "COF",
         "country": "es",
-        "totalPoints": 306,
+        "totalPoints": 321,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Stage 4",
+            "date": "10 Apr 2025",
+            "points": 15,
+            "rank": 5
+          },
           {
             "name": "Itzulia Basque Country - Stage 3",
             "date": "9 Apr 2025",
