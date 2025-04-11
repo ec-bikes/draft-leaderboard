@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 April 2025 23:24 GMT",
+  "fetchedDate": "11 April 2025 23:22 GMT",
   "momentId": 189887,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 4685.29,
+    "totalPoints": 4695.29,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -122,8 +122,14 @@
         "sanctions": 25,
         "team": "LOT",
         "country": "be",
-        "totalPoints": 160,
+        "totalPoints": 170,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Stage 5",
+            "date": "11 Apr 2025",
+            "points": 10,
+            "rank": 6
+          },
           {
             "name": "Milano-Sanremo",
             "date": "22 Mar 2025",

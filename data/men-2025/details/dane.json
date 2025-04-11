@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 April 2025 23:24 GMT",
+  "fetchedDate": "11 April 2025 23:22 GMT",
   "momentId": 189887,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 5286.57,
+    "totalPoints": 5301.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -397,8 +397,14 @@
         "id": 1759422,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 444,
+        "totalPoints": 459,
         "results": [
+          {
+            "name": "Itzulia Basque Country - Stage 5",
+            "date": "11 Apr 2025",
+            "points": 15,
+            "rank": 5
+          },
           {
             "name": "Itzulia Basque Country - Stage 3",
             "date": "9 Apr 2025",

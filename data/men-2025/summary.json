@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 April 2025 23:24 GMT",
+  "fetchedDate": "11 April 2025 23:22 GMT",
   "momentId": 189887,
   "teams": [
     {
       "owner": "Kit Nicholson",
       "name": "Picnic-Letterboxd",
-      "totalPoints": 4076,
+      "totalPoints": 4096,
       "riders": [
         {
           "name": "Tadej Pogačar",
@@ -72,7 +72,7 @@
           "id": 422863,
           "team": "COF",
           "country": "es",
-          "totalPoints": 321
+          "totalPoints": 341
         },
         {
           "name": "Paul Lapeira",
@@ -160,7 +160,7 @@
           "totalPoints": 385
         }
       ],
-      "movement": -1
+      "movement": -2
     },
     {
       "owner": "Toms Skujiņš",
@@ -245,7 +245,7 @@
     {
       "owner": "Dane Cash",
       "name": "Visma-Lease a Bike-Monster Energy",
-      "totalPoints": 5286.57,
+      "totalPoints": 5301.57,
       "riders": [
         {
           "name": "Jasper Philipsen",
@@ -308,7 +308,7 @@
           "id": 1759422,
           "team": "GFC",
           "country": "fr",
-          "totalPoints": 444
+          "totalPoints": 459
         },
         {
           "name": "Stefan Küng",
@@ -324,7 +324,7 @@
     {
       "owner": "Abby Mickey",
       "name": "EF Education-Swift Nation",
-      "totalPoints": 4685.29,
+      "totalPoints": 4695.29,
       "riders": [
         {
           "name": "Wout van Aert",
@@ -346,7 +346,7 @@
           "sanctions": 25,
           "team": "LOT",
           "country": "be",
-          "totalPoints": 160
+          "totalPoints": 170
         },
         {
           "name": "Michal Kwiatkowski",
@@ -563,7 +563,7 @@
     {
       "owner": "Andrew (member)",
       "name": "Groupama-FDJ-Tourtel Twist",
-      "totalPoints": 3126.28,
+      "totalPoints": 3281.28,
       "riders": [
         {
           "name": "Adam Yates",
@@ -577,7 +577,7 @@
           "id": 107840,
           "team": "UAD",
           "country": "pt",
-          "totalPoints": 697.57
+          "totalPoints": 713.57
         },
         {
           "name": "Olav Kooij",
@@ -591,7 +591,7 @@
           "id": 1745291,
           "team": "ARK",
           "country": "fr",
-          "totalPoints": 325
+          "totalPoints": 464
         },
         {
           "name": "Pavel Sivakov",
@@ -636,12 +636,12 @@
           "totalPoints": 86
         }
       ],
-      "movement": -1
+      "movement": 0
     },
     {
       "owner": "Discord Undrafted",
       "name": "Team Movistar easyJet",
-      "totalPoints": 3347.38,
+      "totalPoints": 3397.38,
       "riders": [
         {
           "name": "Dylan Groenewegen",
@@ -662,7 +662,7 @@
           "id": 235075,
           "team": "EFE",
           "country": "ie",
-          "totalPoints": 253
+          "totalPoints": 303
         },
         {
           "name": "Javier Romo",
