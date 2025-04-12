@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 April 2025 23:22 GMT",
+  "fetchedDate": "12 April 2025 23:24 GMT",
   "momentId": 189887,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 5070.42,
+    "totalPoints": 5082.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -150,8 +150,14 @@
         "id": 150923,
         "team": "UAD",
         "country": "us",
-        "totalPoints": 172.57,
+        "totalPoints": 176.57,
         "results": [
+          {
+            "name": "Itzulia Basque Country - General classification",
+            "date": "12 Apr 2025",
+            "points": 4,
+            "rank": 52
+          },
           {
             "name": "Gran Premio Miguel Indurain",
             "date": "5 Apr 2025",
@@ -207,8 +213,14 @@
         "id": 97280,
         "team": "RBH",
         "country": "ru",
-        "totalPoints": 43.71,
+        "totalPoints": 51.71,
         "results": [
+          {
+            "name": "Itzulia Basque Country - General classification",
+            "date": "12 Apr 2025",
+            "points": 8,
+            "rank": 47
+          },
           {
             "name": "Itzulia Basque Country - Stage 1 (ITT)",
             "date": "7 Apr 2025",

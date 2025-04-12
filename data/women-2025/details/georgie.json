@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 April 2025 23:22 GMT",
+  "fetchedDate": "12 April 2025 23:23 GMT",
   "momentId": 189905,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 2199,
+    "totalPoints": 2207,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -305,8 +305,14 @@
         "id": 66056,
         "team": "LTK",
         "country": "nl",
-        "totalPoints": 19,
+        "totalPoints": 27,
         "results": [
+          {
+            "name": "Paris-Roubaix Femmes avec Zwift",
+            "date": "12 Apr 2025",
+            "points": 8,
+            "rank": 38
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "6 Apr 2025",

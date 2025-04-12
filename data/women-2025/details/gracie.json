@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 April 2025 23:22 GMT",
+  "fetchedDate": "12 April 2025 23:23 GMT",
   "momentId": 189905,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 5085,
+    "totalPoints": 5385,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -79,8 +79,14 @@
         "id": 101826,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 1540,
+        "totalPoints": 1620,
         "results": [
+          {
+            "name": "Paris-Roubaix Femmes avec Zwift",
+            "date": "12 Apr 2025",
+            "points": 80,
+            "rank": 9
+          },
           {
             "name": "Scheldeprijs WE",
             "date": "9 Apr 2025",
@@ -160,8 +166,14 @@
         "id": 109716,
         "team": "CSZ",
         "country": "us",
-        "totalPoints": 619,
+        "totalPoints": 719,
         "results": [
+          {
+            "name": "Paris-Roubaix Femmes avec Zwift",
+            "date": "12 Apr 2025",
+            "points": 100,
+            "rank": 8
+          },
           {
             "name": "Gent-Wevelgem In Flanders Fields WE",
             "date": "30 Mar 2025",
@@ -431,8 +443,14 @@
         "id": 1638135,
         "team": "TFS",
         "country": "ch",
-        "totalPoints": 465,
+        "totalPoints": 585,
         "results": [
+          {
+            "name": "Paris-Roubaix Femmes avec Zwift",
+            "date": "12 Apr 2025",
+            "points": 120,
+            "rank": 7
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "6 Apr 2025",

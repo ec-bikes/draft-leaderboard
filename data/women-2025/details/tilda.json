@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 April 2025 23:22 GMT",
+  "fetchedDate": "12 April 2025 23:23 GMT",
   "momentId": 189905,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 5068,
+    "totalPoints": 5344,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 1735,
+        "totalPoints": 1995,
         "results": [
+          {
+            "name": "Paris-Roubaix Femmes avec Zwift",
+            "date": "12 Apr 2025",
+            "points": 260,
+            "rank": 3
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "6 Apr 2025",
@@ -294,8 +300,14 @@
         "id": 96399,
         "team": "SDW",
         "country": "pl",
-        "totalPoints": 358,
+        "totalPoints": 374,
         "results": [
+          {
+            "name": "Paris-Roubaix Femmes avec Zwift",
+            "date": "12 Apr 2025",
+            "points": 16,
+            "rank": 25
+          },
           {
             "name": "Classic Brugge-De Panne WE",
             "date": "27 Mar 2025",

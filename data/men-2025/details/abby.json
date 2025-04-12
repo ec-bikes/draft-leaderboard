@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 April 2025 23:22 GMT",
+  "fetchedDate": "12 April 2025 23:24 GMT",
   "momentId": 189887,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 4695.29,
+    "totalPoints": 4715.29,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -122,8 +122,14 @@
         "sanctions": 25,
         "team": "LOT",
         "country": "be",
-        "totalPoints": 170,
+        "totalPoints": 174,
         "results": [
+          {
+            "name": "Itzulia Basque Country - General classification",
+            "date": "12 Apr 2025",
+            "points": 4,
+            "rank": 55
+          },
           {
             "name": "Itzulia Basque Country - Stage 5",
             "date": "11 Apr 2025",
@@ -363,8 +369,14 @@
         "id": 217083,
         "team": "RBH",
         "country": "nz",
-        "totalPoints": 645,
+        "totalPoints": 653,
         "results": [
+          {
+            "name": "Itzulia Basque Country - General classification",
+            "date": "12 Apr 2025",
+            "points": 8,
+            "rank": 40
+          },
           {
             "name": "Gran Premio Miguel Indurain",
             "date": "5 Apr 2025",
@@ -507,8 +519,14 @@
         "id": 71677,
         "team": "LTK",
         "country": "at",
-        "totalPoints": 192,
+        "totalPoints": 200,
         "results": [
+          {
+            "name": "Itzulia Basque Country - General classification",
+            "date": "12 Apr 2025",
+            "points": 8,
+            "rank": 42
+          },
           {
             "name": "UAE Tour - General classification",
             "date": "23 Feb 2025",

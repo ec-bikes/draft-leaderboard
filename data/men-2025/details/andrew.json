@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 April 2025 23:22 GMT",
+  "fetchedDate": "12 April 2025 23:24 GMT",
   "momentId": 189887,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 3281.28,
+    "totalPoints": 3739.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -70,8 +70,20 @@
         "id": 107840,
         "team": "UAD",
         "country": "pt",
-        "totalPoints": 713.57,
+        "totalPoints": 1163.57,
         "results": [
+          {
+            "name": "Itzulia Basque Country - General classification",
+            "date": "12 Apr 2025",
+            "points": 400,
+            "rank": 1
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 6",
+            "date": "12 Apr 2025",
+            "points": 50,
+            "rank": 1
+          },
           {
             "name": "Itzulia Basque Country - Stage 5 - Bonus",
             "date": "11 Apr 2025",
@@ -560,8 +572,14 @@
         "id": 89223,
         "team": "UAD",
         "country": "es",
-        "totalPoints": 86,
+        "totalPoints": 94,
         "results": [
+          {
+            "name": "Itzulia Basque Country - General classification",
+            "date": "12 Apr 2025",
+            "points": 8,
+            "rank": 50
+          },
           {
             "name": "Gran Premio Miguel Indurain",
             "date": "5 Apr 2025",

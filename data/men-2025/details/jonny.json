@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 April 2025 23:22 GMT",
+  "fetchedDate": "12 April 2025 23:24 GMT",
   "momentId": 189887,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 3240.14,
+    "totalPoints": 3884.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -51,8 +51,14 @@
         "id": 365033,
         "team": "LTK",
         "country": "dk",
-        "totalPoints": 279.57,
+        "totalPoints": 459.57,
         "results": [
+          {
+            "name": "Itzulia Basque Country - General classification",
+            "date": "12 Apr 2025",
+            "points": 180,
+            "rank": 5
+          },
           {
             "name": "Itzulia Basque Country - Stage 3",
             "date": "9 Apr 2025",
@@ -102,8 +108,20 @@
         "id": 109803,
         "team": "MOV",
         "country": "es",
-        "totalPoints": 361,
+        "totalPoints": 711,
         "results": [
+          {
+            "name": "Itzulia Basque Country - General classification",
+            "date": "12 Apr 2025",
+            "points": 320,
+            "rank": 2
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 6",
+            "date": "12 Apr 2025",
+            "points": 30,
+            "rank": 2
+          },
           {
             "name": "Itzulia Basque Country - Stage 3",
             "date": "9 Apr 2025",
@@ -159,8 +177,20 @@
         "id": 1710249,
         "team": "TPP",
         "country": "gb",
-        "totalPoints": 551,
+        "totalPoints": 625,
         "results": [
+          {
+            "name": "Itzulia Basque Country - General classification",
+            "date": "12 Apr 2025",
+            "points": 68,
+            "rank": 10
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 6",
+            "date": "12 Apr 2025",
+            "points": 6,
+            "rank": 8
+          },
           {
             "name": "Itzulia Basque Country - Stage 4",
             "date": "10 Apr 2025",
@@ -222,8 +252,14 @@
         "id": 353375,
         "team": "TBV",
         "country": "co",
-        "totalPoints": 460,
+        "totalPoints": 500,
         "results": [
+          {
+            "name": "Itzulia Basque Country - General classification",
+            "date": "12 Apr 2025",
+            "points": 40,
+            "rank": 13
+          },
           {
             "name": "Tour des Alpes-Maritimes - General classification",
             "date": "23 Feb 2025",

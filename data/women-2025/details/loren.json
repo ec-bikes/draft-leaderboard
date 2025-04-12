@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 April 2025 23:22 GMT",
+  "fetchedDate": "12 April 2025 23:23 GMT",
   "momentId": 189905,
   "team": {
     "owner": "Loren Rowney",
     "name": "(TBD)",
-    "totalPoints": 3795,
+    "totalPoints": 3843,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
         "team": "SDW",
         "country": "be",
-        "totalPoints": 630,
+        "totalPoints": 678,
         "results": [
+          {
+            "name": "Paris-Roubaix Femmes avec Zwift",
+            "date": "12 Apr 2025",
+            "points": 48,
+            "rank": 12
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "6 Apr 2025",

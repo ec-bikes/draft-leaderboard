@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 April 2025 23:22 GMT",
+  "fetchedDate": "12 April 2025 23:24 GMT",
   "momentId": 189887,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 4560.46,
+    "totalPoints": 4608.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -274,8 +274,20 @@
         "sanctions": 25,
         "team": "UAD",
         "country": "mx",
-        "totalPoints": 469,
+        "totalPoints": 517,
         "results": [
+          {
+            "name": "Itzulia Basque Country - General classification",
+            "date": "12 Apr 2025",
+            "points": 28,
+            "rank": 15
+          },
+          {
+            "name": "Itzulia Basque Country - Stage 6",
+            "date": "12 Apr 2025",
+            "points": 20,
+            "rank": 4
+          },
           {
             "name": "Itzulia Basque Country - Stage 4",
             "date": "10 Apr 2025",

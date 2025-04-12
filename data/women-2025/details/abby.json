@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 April 2025 23:22 GMT",
+  "fetchedDate": "12 April 2025 23:23 GMT",
   "momentId": 189905,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 3836,
+    "totalPoints": 4164,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -63,8 +63,14 @@
         "id": 31144,
         "team": "TVL",
         "country": "nl",
-        "totalPoints": 548,
+        "totalPoints": 768,
         "results": [
+          {
+            "name": "Paris-Roubaix Femmes avec Zwift",
+            "date": "12 Apr 2025",
+            "points": 220,
+            "rank": 4
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "6 Apr 2025",
@@ -90,8 +96,14 @@
         "id": 153350,
         "team": "TPP",
         "country": "gb",
-        "totalPoints": 252,
+        "totalPoints": 292,
         "results": [
+          {
+            "name": "Paris-Roubaix Femmes avec Zwift",
+            "date": "12 Apr 2025",
+            "points": 40,
+            "rank": 13
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "6 Apr 2025",
@@ -282,8 +294,14 @@
         "id": 156600,
         "team": "CSZ",
         "country": "it",
-        "totalPoints": 795,
+        "totalPoints": 863,
         "results": [
+          {
+            "name": "Paris-Roubaix Femmes avec Zwift",
+            "date": "12 Apr 2025",
+            "points": 68,
+            "rank": 10
+          },
           {
             "name": "Scheldeprijs WE",
             "date": "9 Apr 2025",
