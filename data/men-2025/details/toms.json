@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 April 2025 23:24 GMT",
+  "fetchedDate": "13 April 2025 23:23 GMT",
   "momentId": 189887,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 4179.25,
+    "totalPoints": 4194.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -22,8 +22,14 @@
         "sanctions": 25,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 863.29,
+        "totalPoints": 878.29,
         "results": [
+          {
+            "name": "Paris-Roubaix",
+            "date": "13 Apr 2025",
+            "points": 15,
+            "rank": 36
+          },
           {
             "name": "Scheldeprijs ME",
             "date": "9 Apr 2025",

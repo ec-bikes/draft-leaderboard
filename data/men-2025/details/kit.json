@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 April 2025 23:24 GMT",
+  "fetchedDate": "13 April 2025 23:23 GMT",
   "momentId": 189887,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 4239,
+    "totalPoints": 4889,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "team": "UAD",
         "country": "si",
-        "totalPoints": 2145,
+        "totalPoints": 2785,
         "results": [
+          {
+            "name": "Paris-Roubaix",
+            "date": "13 Apr 2025",
+            "points": 640,
+            "rank": 2
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres ME",
             "date": "6 Apr 2025",
@@ -208,8 +214,14 @@
         "sanctions": 25,
         "team": "RBH",
         "country": "be",
-        "totalPoints": 150,
+        "totalPoints": 160,
         "results": [
+          {
+            "name": "Paris-Roubaix",
+            "date": "13 Apr 2025",
+            "points": 10,
+            "rank": 53
+          },
           {
             "name": "Dwars door Vlaanderen - A travers la Flandre ME",
             "date": "2 Apr 2025",

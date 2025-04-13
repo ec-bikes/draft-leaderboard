@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 April 2025 23:24 GMT",
+  "fetchedDate": "13 April 2025 23:23 GMT",
   "momentId": 189887,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 4715.29,
+    "totalPoints": 5295.29,
     "riders": [
       {
         "name": "Wout van Aert",
         "id": 75859,
         "team": "TVL",
         "country": "be",
-        "totalPoints": 773,
+        "totalPoints": 1213,
         "results": [
+          {
+            "name": "Paris-Roubaix",
+            "date": "13 Apr 2025",
+            "points": 440,
+            "rank": 4
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres ME",
             "date": "6 Apr 2025",
@@ -52,8 +58,14 @@
         "id": 1707195,
         "team": "IWA",
         "country": "er",
-        "totalPoints": 439,
+        "totalPoints": 494,
         "results": [
+          {
+            "name": "Paris-Roubaix",
+            "date": "13 Apr 2025",
+            "points": 55,
+            "rank": 15
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres ME",
             "date": "6 Apr 2025",
@@ -211,8 +223,14 @@
         "id": 91640,
         "team": "IGD",
         "country": "it",
-        "totalPoints": 1637,
+        "totalPoints": 1722,
         "results": [
+          {
+            "name": "Paris-Roubaix",
+            "date": "13 Apr 2025",
+            "points": 85,
+            "rank": 13
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres ME",
             "date": "6 Apr 2025",

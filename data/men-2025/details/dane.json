@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 April 2025 23:24 GMT",
+  "fetchedDate": "13 April 2025 23:23 GMT",
   "momentId": 189887,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 5537.57,
+    "totalPoints": 5662.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
         "id": 148275,
         "team": "ADC",
         "country": "be",
-        "totalPoints": 625,
+        "totalPoints": 735,
         "results": [
+          {
+            "name": "Paris-Roubaix",
+            "date": "13 Apr 2025",
+            "points": 110,
+            "rank": 11
+          },
           {
             "name": "Scheldeprijs ME",
             "date": "9 Apr 2025",
@@ -479,8 +485,14 @@
         "sanctions": 25,
         "team": "GFC",
         "country": "ch",
-        "totalPoints": 430,
+        "totalPoints": 445,
         "results": [
+          {
+            "name": "Paris-Roubaix",
+            "date": "13 Apr 2025",
+            "points": 15,
+            "rank": 43
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres ME",
             "date": "6 Apr 2025",

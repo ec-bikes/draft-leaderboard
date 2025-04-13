@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 April 2025 23:24 GMT",
+  "fetchedDate": "13 April 2025 23:23 GMT",
   "momentId": 189887,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 3884.14,
+    "totalPoints": 3896.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -177,13 +177,13 @@
         "id": 1710249,
         "team": "TPP",
         "country": "gb",
-        "totalPoints": 625,
+        "totalPoints": 637,
         "results": [
           {
             "name": "Itzulia Basque Country - General classification",
             "date": "12 Apr 2025",
-            "points": 68,
-            "rank": 10
+            "points": 80,
+            "rank": 9
           },
           {
             "name": "Itzulia Basque Country - Stage 6",

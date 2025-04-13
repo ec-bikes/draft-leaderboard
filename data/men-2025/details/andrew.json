@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 April 2025 23:24 GMT",
+  "fetchedDate": "13 April 2025 23:23 GMT",
   "momentId": 189887,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 3739.28,
+    "totalPoints": 3754.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -449,8 +449,14 @@
         "id": 68844,
         "team": "TVL",
         "country": "nl",
-        "totalPoints": 27,
+        "totalPoints": 42,
         "results": [
+          {
+            "name": "Paris-Roubaix",
+            "date": "13 Apr 2025",
+            "points": 15,
+            "rank": 35
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres ME",
             "date": "6 Apr 2025",
