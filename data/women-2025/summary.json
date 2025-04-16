@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 April 2025 23:22 GMT",
+  "fetchedDate": "16 April 2025 23:22 GMT",
   "momentId": 190070,
   "teams": [
     {
@@ -80,7 +80,7 @@
           "totalPoints": 525
         }
       ],
-      "movement": -1
+      "movement": 0
     },
     {
       "owner": "Abby Mickey",
@@ -158,7 +158,7 @@
           "totalPoints": 43
         }
       ],
-      "movement": 1
+      "movement": -1
     },
     {
       "owner": "Gracie Elvin",
@@ -237,7 +237,7 @@
           "totalPoints": 265
         }
       ],
-      "movement": 1
+      "movement": 0
     },
     {
       "owner": "Tilda Price",
@@ -315,7 +315,7 @@
           "totalPoints": 336
         }
       ],
-      "movement": -1
+      "movement": 0
     },
     {
       "owner": "Georgie Howe",
@@ -472,7 +472,7 @@
           "totalPoints": 1082
         }
       ],
-      "movement": 0
+      "movement": 1
     }
   ]
 }

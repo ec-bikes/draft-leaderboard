@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 April 2025 23:22 GMT",
+  "fetchedDate": "16 April 2025 23:22 GMT",
   "momentId": 190052,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 4194.25,
+    "totalPoints": 4319.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -389,8 +389,14 @@
         "id": 1714193,
         "team": "COF",
         "country": "be",
-        "totalPoints": 608,
+        "totalPoints": 733,
         "results": [
+          {
+            "name": "Ronde van Limburg",
+            "date": "16 Apr 2025",
+            "points": 125,
+            "rank": 1
+          },
           {
             "name": "Scheldeprijs ME",
             "date": "9 Apr 2025",
