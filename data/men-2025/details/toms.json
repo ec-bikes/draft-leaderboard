@@ -1,20 +1,27 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "17 April 2025 23:22 GMT",
+  "fetchedDate": "18 April 2025 23:22 GMT",
   "momentId": 190052,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 4319.25,
+    "totalPoints": 4519.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 0,
-        "results": []
+        "totalPoints": 200,
+        "results": [
+          {
+            "name": "De Brabantse Pijl - La Flèche Brabançonne ME",
+            "date": "18 Apr 2025",
+            "points": 200,
+            "rank": 1
+          }
+        ]
       },
       {
         "name": "Tim Merlier",

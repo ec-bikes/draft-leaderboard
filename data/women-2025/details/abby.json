@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "17 April 2025 23:22 GMT",
+  "fetchedDate": "18 April 2025 23:21 GMT",
   "momentId": 190070,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 4164,
+    "totalPoints": 4602,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
         "id": 76149,
         "team": "UAD",
         "country": "it",
-        "totalPoints": 807,
+        "totalPoints": 1007,
         "results": [
+          {
+            "name": "De Brabantse Pijl - La Flèche Brabançonne WE",
+            "date": "18 Apr 2025",
+            "points": 200,
+            "rank": 1
+          },
           {
             "name": "Dwars door Vlaanderen - A travers la Flandre WE",
             "date": "2 Apr 2025",
@@ -63,8 +69,14 @@
         "id": 31144,
         "team": "TVL",
         "country": "nl",
-        "totalPoints": 768,
+        "totalPoints": 918,
         "results": [
+          {
+            "name": "De Brabantse Pijl - La Flèche Brabançonne WE",
+            "date": "18 Apr 2025",
+            "points": 150,
+            "rank": 2
+          },
           {
             "name": "Paris-Roubaix Femmes avec Zwift",
             "date": "12 Apr 2025",
@@ -249,8 +261,14 @@
         "id": 237690,
         "team": "LTK",
         "country": "gb",
-        "totalPoints": 82,
+        "totalPoints": 167,
         "results": [
+          {
+            "name": "De Brabantse Pijl - La Flèche Brabançonne WE",
+            "date": "18 Apr 2025",
+            "points": 85,
+            "rank": 5
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "6 Apr 2025",
@@ -360,8 +378,14 @@
         "id": 101715,
         "team": "UXM",
         "country": "no",
-        "totalPoints": 68,
+        "totalPoints": 71,
         "results": [
+          {
+            "name": "De Brabantse Pijl - La Flèche Brabançonne WE",
+            "date": "18 Apr 2025",
+            "points": 3,
+            "rank": 29
+          },
           {
             "name": "Omloop Nieuwsblad WE",
             "date": "1 Mar 2025",

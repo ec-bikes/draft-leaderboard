@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "17 April 2025 23:22 GMT",
+  "fetchedDate": "18 April 2025 23:22 GMT",
   "momentId": 190052,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 4608.46,
+    "totalPoints": 4668.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -369,8 +369,14 @@
         "id": 88143,
         "team": "EFE",
         "country": "us",
-        "totalPoints": 517.5,
+        "totalPoints": 577.5,
         "results": [
+          {
+            "name": "De Brabantse Pijl - La Flèche Brabançonne ME",
+            "date": "18 Apr 2025",
+            "points": 60,
+            "rank": 7
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres ME",
             "date": "6 Apr 2025",

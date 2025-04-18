@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "17 April 2025 23:22 GMT",
+  "fetchedDate": "18 April 2025 23:22 GMT",
   "momentId": 190052,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 4892,
+    "totalPoints": 4992,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -352,8 +352,14 @@
         "id": 422863,
         "team": "COF",
         "country": "es",
-        "totalPoints": 476,
+        "totalPoints": 576,
         "results": [
+          {
+            "name": "De Brabantse Pijl - La Flèche Brabançonne ME",
+            "date": "18 Apr 2025",
+            "points": 100,
+            "rank": 4
+          },
           {
             "name": "Itzulia Basque Country - General classification",
             "date": "12 Apr 2025",

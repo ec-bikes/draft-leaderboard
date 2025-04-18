@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "17 April 2025 23:22 GMT",
+  "fetchedDate": "18 April 2025 23:21 GMT",
   "momentId": 190070,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 5344,
+    "totalPoints": 5419,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -98,8 +98,14 @@
         "id": 109412,
         "team": "TFS",
         "country": "fr",
-        "totalPoints": 69,
+        "totalPoints": 139,
         "results": [
+          {
+            "name": "De Brabantse Pijl - La Flèche Brabançonne WE",
+            "date": "18 Apr 2025",
+            "points": 70,
+            "rank": 6
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "16 Mar 2025",
@@ -250,8 +256,15 @@
         "id": 79690,
         "team": "FDC",
         "country": "nl",
-        "totalPoints": 0,
-        "results": []
+        "totalPoints": 5,
+        "results": [
+          {
+            "name": "De Brabantse Pijl - La Flèche Brabançonne WE",
+            "date": "18 Apr 2025",
+            "points": 5,
+            "rank": 18
+          }
+        ]
       },
       {
         "name": "Marion Bunel",

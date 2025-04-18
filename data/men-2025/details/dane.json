@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "17 April 2025 23:22 GMT",
+  "fetchedDate": "18 April 2025 23:22 GMT",
   "momentId": 190052,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 5662.57,
+    "totalPoints": 5667.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -251,8 +251,14 @@
         "id": 96372,
         "team": "UAD",
         "country": "ec",
-        "totalPoints": 756.14,
+        "totalPoints": 761.14,
         "results": [
+          {
+            "name": "De Brabantse Pijl - La Flèche Brabançonne ME",
+            "date": "18 Apr 2025",
+            "points": 5,
+            "rank": 25
+          },
           {
             "name": "Paris-Nice - General classification",
             "date": "16 Mar 2025",

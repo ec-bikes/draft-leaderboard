@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "17 April 2025 23:22 GMT",
+  "fetchedDate": "18 April 2025 23:22 GMT",
   "momentId": 190052,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 5298.29,
+    "totalPoints": 5448.29,
     "riders": [
       {
         "name": "Wout van Aert",
         "id": 75859,
         "team": "TVL",
         "country": "be",
-        "totalPoints": 1213,
+        "totalPoints": 1363,
         "results": [
+          {
+            "name": "De Brabantse Pijl - La Flèche Brabançonne ME",
+            "date": "18 Apr 2025",
+            "points": 150,
+            "rank": 2
+          },
           {
             "name": "Paris-Roubaix",
             "date": "13 Apr 2025",

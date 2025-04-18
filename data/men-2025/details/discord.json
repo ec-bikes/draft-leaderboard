@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "17 April 2025 23:22 GMT",
+  "fetchedDate": "18 April 2025 23:22 GMT",
   "momentId": 190052,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 3516.38,
+    "totalPoints": 3766.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -198,8 +198,14 @@
         "id": 442797,
         "team": "UAD",
         "country": "pt",
-        "totalPoints": 589,
+        "totalPoints": 714,
         "results": [
+          {
+            "name": "De Brabantse Pijl - La Flèche Brabançonne ME",
+            "date": "18 Apr 2025",
+            "points": 125,
+            "rank": 3
+          },
           {
             "name": "Paris-Roubaix",
             "date": "13 Apr 2025",
@@ -279,8 +285,14 @@
         "id": 75170,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 184,
+        "totalPoints": 309,
         "results": [
+          {
+            "name": "Classic Grand Besançon Doubs",
+            "date": "18 Apr 2025",
+            "points": 125,
+            "rank": 1
+          },
           {
             "name": "Itzulia Basque Country - General classification",
             "date": "12 Apr 2025",
