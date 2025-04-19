@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 April 2025 23:22 GMT",
+  "fetchedDate": "19 April 2025 23:24 GMT",
   "momentId": 190052,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 3766.38,
+    "totalPoints": 3891.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -285,8 +285,14 @@
         "id": 75170,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 309,
+        "totalPoints": 434,
         "results": [
+          {
+            "name": "Tour du Jura Cycliste",
+            "date": "19 Apr 2025",
+            "points": 125,
+            "rank": 1
+          },
           {
             "name": "Classic Grand Besançon Doubs",
             "date": "18 Apr 2025",

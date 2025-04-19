@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 April 2025 23:21 GMT",
+  "fetchedDate": "19 April 2025 23:23 GMT",
   "momentId": 190070,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 4259,
+    "totalPoints": 4244,
     "riders": [
       {
         "name": "Liane Lippert",
@@ -299,9 +299,10 @@
       {
         "name": "Gaia Realini",
         "id": 303036,
+        "sanctions": 15,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 0,
+        "totalPoints": -15,
         "results": []
       },
       {
