@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 April 2025 23:23 GMT",
+  "fetchedDate": "20 April 2025 23:21 GMT",
   "momentId": 190070,
   "team": {
     "owner": "Loren Rowney",
     "name": "(TBD)",
-    "totalPoints": 3873,
+    "totalPoints": 3905,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
         "team": "SDW",
         "country": "be",
-        "totalPoints": 678,
+        "totalPoints": 686,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "20 Apr 2025",
+            "points": 8,
+            "rank": 34
+          },
           {
             "name": "Paris-Roubaix Femmes avec Zwift",
             "date": "12 Apr 2025",
@@ -85,8 +91,14 @@
         "id": 88660,
         "team": "AGS",
         "country": "mu",
-        "totalPoints": 762,
+        "totalPoints": 770,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "20 Apr 2025",
+            "points": 8,
+            "rank": 31
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "6 Apr 2025",
@@ -175,8 +187,14 @@
         "id": 231378,
         "team": "LIV",
         "country": "nl",
-        "totalPoints": 669,
+        "totalPoints": 685,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "20 Apr 2025",
+            "points": 16,
+            "rank": 26
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "16 Mar 2025",

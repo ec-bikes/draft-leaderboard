@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 April 2025 23:23 GMT",
+  "fetchedDate": "20 April 2025 23:21 GMT",
   "momentId": 190070,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 4244,
+    "totalPoints": 4316,
     "riders": [
       {
         "name": "Liane Lippert",
         "id": 140495,
         "team": "MOV",
         "country": "de",
-        "totalPoints": 529,
+        "totalPoints": 545,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "20 Apr 2025",
+            "points": 16,
+            "rank": 21
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "6 Apr 2025",
@@ -247,8 +253,14 @@
         "id": 1987823,
         "team": "CSZ",
         "country": "au",
-        "totalPoints": 125,
+        "totalPoints": 157,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "20 Apr 2025",
+            "points": 32,
+            "rank": 14
+          },
           {
             "name": "Santos Tour Down Under - General classification",
             "date": "19 Jan 2025",
@@ -325,8 +337,14 @@
         "id": 153363,
         "team": "LIV",
         "country": "it",
-        "totalPoints": 285,
+        "totalPoints": 301,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "20 Apr 2025",
+            "points": 16,
+            "rank": 25
+          },
           {
             "name": "De Brabantse Pijl - La Flèche Brabançonne WE",
             "date": "18 Apr 2025",
@@ -370,8 +388,14 @@
         "id": 66298,
         "team": "TVL",
         "country": "fr",
-        "totalPoints": 1082,
+        "totalPoints": 1090,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "20 Apr 2025",
+            "points": 8,
+            "rank": 36
+          },
           {
             "name": "Paris-Roubaix Femmes avec Zwift",
             "date": "12 Apr 2025",

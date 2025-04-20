@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 April 2025 23:24 GMT",
+  "fetchedDate": "20 April 2025 23:21 GMT",
   "momentId": 190052,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 4668.46,
+    "totalPoints": 4948.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -222,8 +222,14 @@
         "id": 62919,
         "team": "JAY",
         "country": "au",
-        "totalPoints": 572.67,
+        "totalPoints": 797.67,
         "results": [
+          {
+            "name": "Amstel Gold Race",
+            "date": "20 Apr 2025",
+            "points": 225,
+            "rank": 5
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres ME",
             "date": "6 Apr 2025",
@@ -369,8 +375,14 @@
         "id": 88143,
         "team": "EFE",
         "country": "us",
-        "totalPoints": 577.5,
+        "totalPoints": 627.5,
         "results": [
+          {
+            "name": "Amstel Gold Race",
+            "date": "20 Apr 2025",
+            "points": 50,
+            "rank": 13
+          },
           {
             "name": "De Brabantse Pijl - La Flèche Brabançonne ME",
             "date": "18 Apr 2025",
@@ -432,8 +444,14 @@
         "id": 361433,
         "team": "IGD",
         "country": "us",
-        "totalPoints": 772.86,
+        "totalPoints": 777.86,
         "results": [
+          {
+            "name": "Amstel Gold Race",
+            "date": "20 Apr 2025",
+            "points": 5,
+            "rank": 51
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres ME",
             "date": "6 Apr 2025",

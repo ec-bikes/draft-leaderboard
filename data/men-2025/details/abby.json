@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 April 2025 23:24 GMT",
+  "fetchedDate": "20 April 2025 23:21 GMT",
   "momentId": 190052,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 5448.29,
+    "totalPoints": 5733.29,
     "riders": [
       {
         "name": "Wout van Aert",
         "id": 75859,
         "team": "TVL",
         "country": "be",
-        "totalPoints": 1363,
+        "totalPoints": 1638,
         "results": [
+          {
+            "name": "Amstel Gold Race",
+            "date": "20 Apr 2025",
+            "points": 275,
+            "rank": 4
+          },
           {
             "name": "De Brabantse Pijl - La Flèche Brabançonne ME",
             "date": "18 Apr 2025",
@@ -549,8 +555,14 @@
         "id": 71677,
         "team": "LTK",
         "country": "at",
-        "totalPoints": 200,
+        "totalPoints": 210,
         "results": [
+          {
+            "name": "Amstel Gold Race",
+            "date": "20 Apr 2025",
+            "points": 10,
+            "rank": 41
+          },
           {
             "name": "Itzulia Basque Country - General classification",
             "date": "12 Apr 2025",

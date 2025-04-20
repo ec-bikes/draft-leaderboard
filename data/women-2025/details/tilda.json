@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 April 2025 23:23 GMT",
+  "fetchedDate": "20 April 2025 23:21 GMT",
   "momentId": 190070,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 5419,
+    "totalPoints": 5891,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 1995,
+        "totalPoints": 2135,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "20 Apr 2025",
+            "points": 140,
+            "rank": 6
+          },
           {
             "name": "Paris-Roubaix Femmes avec Zwift",
             "date": "12 Apr 2025",
@@ -98,8 +104,14 @@
         "id": 109412,
         "team": "TFS",
         "country": "fr",
-        "totalPoints": 139,
+        "totalPoints": 155,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "20 Apr 2025",
+            "points": 16,
+            "rank": 29
+          },
           {
             "name": "De Brabantse Pijl - La Flèche Brabançonne WE",
             "date": "18 Apr 2025",
@@ -131,8 +143,14 @@
         "id": 234336,
         "team": "FDC",
         "country": "nl",
-        "totalPoints": 853,
+        "totalPoints": 1113,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "20 Apr 2025",
+            "points": 260,
+            "rank": 3
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "6 Apr 2025",
@@ -188,8 +206,14 @@
         "id": 347941,
         "team": "EFO",
         "country": "ch",
-        "totalPoints": 1274,
+        "totalPoints": 1290,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "20 Apr 2025",
+            "points": 16,
+            "rank": 24
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "6 Apr 2025",
@@ -256,8 +280,14 @@
         "id": 79690,
         "team": "FDC",
         "country": "nl",
-        "totalPoints": 5,
+        "totalPoints": 21,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "20 Apr 2025",
+            "points": 16,
+            "rank": 30
+          },
           {
             "name": "De Brabantse Pijl - La Flèche Brabançonne WE",
             "date": "18 Apr 2025",
@@ -271,8 +301,14 @@
         "id": 1742562,
         "team": "TVL",
         "country": "fr",
-        "totalPoints": 3,
+        "totalPoints": 27,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "20 Apr 2025",
+            "points": 24,
+            "rank": 18
+          },
           {
             "name": "Vuelta a Extremadura Femenina - General classification",
             "date": "8 Mar 2025",

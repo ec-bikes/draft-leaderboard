@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 April 2025 23:24 GMT",
+  "fetchedDate": "20 April 2025 23:21 GMT",
   "momentId": 190052,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 4992,
+    "totalPoints": 5462,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "team": "UAD",
         "country": "si",
-        "totalPoints": 2785,
+        "totalPoints": 3185,
         "results": [
+          {
+            "name": "Amstel Gold Race",
+            "date": "20 Apr 2025",
+            "points": 400,
+            "rank": 2
+          },
           {
             "name": "Paris-Roubaix",
             "date": "13 Apr 2025",
@@ -96,8 +102,14 @@
         "id": 1721034,
         "team": "LTK",
         "country": "be",
-        "totalPoints": 208,
+        "totalPoints": 268,
         "results": [
+          {
+            "name": "Amstel Gold Race",
+            "date": "20 Apr 2025",
+            "points": 60,
+            "rank": 12
+          },
           {
             "name": "Itzulia Basque Country - General classification",
             "date": "12 Apr 2025",
@@ -117,8 +129,14 @@
         "id": 68892,
         "team": "LTK",
         "country": "lv",
-        "totalPoints": 142,
+        "totalPoints": 152,
         "results": [
+          {
+            "name": "Amstel Gold Race",
+            "date": "20 Apr 2025",
+            "points": 10,
+            "rank": 39
+          },
           {
             "name": "Ronde van Limburg",
             "date": "16 Apr 2025",

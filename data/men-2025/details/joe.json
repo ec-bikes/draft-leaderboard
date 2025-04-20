@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 April 2025 23:24 GMT",
+  "fetchedDate": "20 April 2025 23:21 GMT",
   "momentId": 190052,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 6402.42,
+    "totalPoints": 6482.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -162,8 +162,14 @@
         "id": 150923,
         "team": "UAD",
         "country": "us",
-        "totalPoints": 176.57,
+        "totalPoints": 246.57,
         "results": [
+          {
+            "name": "Amstel Gold Race",
+            "date": "20 Apr 2025",
+            "points": 70,
+            "rank": 11
+          },
           {
             "name": "Itzulia Basque Country - General classification",
             "date": "12 Apr 2025",
@@ -503,8 +509,14 @@
         "id": 154227,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 56,
+        "totalPoints": 66,
         "results": [
+          {
+            "name": "Amstel Gold Race",
+            "date": "20 Apr 2025",
+            "points": 10,
+            "rank": 42
+          },
           {
             "name": "Settimana Internazionale Coppi e Bartali - General classification",
             "date": "29 Mar 2025",

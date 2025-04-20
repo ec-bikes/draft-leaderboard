@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 April 2025 23:24 GMT",
+  "fetchedDate": "20 April 2025 23:21 GMT",
   "momentId": 190052,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 3891.38,
+    "totalPoints": 4051.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -97,8 +97,14 @@
         "id": 235075,
         "team": "EFE",
         "country": "ie",
-        "totalPoints": 344,
+        "totalPoints": 429,
         "results": [
+          {
+            "name": "Amstel Gold Race",
+            "date": "20 Apr 2025",
+            "points": 85,
+            "rank": 10
+          },
           {
             "name": "Itzulia Basque Country - General classification",
             "date": "12 Apr 2025",
@@ -285,8 +291,14 @@
         "id": 75170,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 434,
+        "totalPoints": 474,
         "results": [
+          {
+            "name": "Tour du Doubs",
+            "date": "20 Apr 2025",
+            "points": 40,
+            "rank": 6
+          },
           {
             "name": "Tour du Jura Cycliste",
             "date": "19 Apr 2025",
@@ -409,8 +421,14 @@
         "id": 109483,
         "team": "JAY",
         "country": "ch",
-        "totalPoints": 401.67,
+        "totalPoints": 436.67,
         "results": [
+          {
+            "name": "Amstel Gold Race",
+            "date": "20 Apr 2025",
+            "points": 35,
+            "rank": 15
+          },
           {
             "name": "Gran Premio Miguel Indurain",
             "date": "5 Apr 2025",

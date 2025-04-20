@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 April 2025 23:23 GMT",
+  "fetchedDate": "20 April 2025 23:21 GMT",
   "momentId": 190070,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 2212,
+    "totalPoints": 2676,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
         "id": 86824,
         "team": "CSZ",
         "country": "pl",
-        "totalPoints": 281,
+        "totalPoints": 289,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "20 Apr 2025",
+            "points": 8,
+            "rank": 33
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "6 Apr 2025",
@@ -52,8 +58,14 @@
         "id": 107539,
         "team": "UAD",
         "country": "it",
-        "totalPoints": 606,
+        "totalPoints": 786,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "20 Apr 2025",
+            "points": 180,
+            "rank": 5
+          },
           {
             "name": "De Brabantse Pijl - La Flèche Brabançonne WE",
             "date": "18 Apr 2025",
@@ -187,8 +199,14 @@
         "id": 106168,
         "team": "UAD",
         "country": "au",
-        "totalPoints": 108,
+        "totalPoints": 148,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "20 Apr 2025",
+            "points": 40,
+            "rank": 13
+          },
           {
             "name": "Strade Bianche Donne",
             "date": "8 Mar 2025",
@@ -278,8 +296,14 @@
         "id": 97498,
         "team": "TFS",
         "country": "fr",
-        "totalPoints": 392,
+        "totalPoints": 612,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "20 Apr 2025",
+            "points": 220,
+            "rank": 4
+          },
           {
             "name": "Milano-Sanremo Donne",
             "date": "22 Mar 2025",
@@ -377,8 +401,14 @@
         "id": 86854,
         "team": "LTK",
         "country": "nl",
-        "totalPoints": 16,
+        "totalPoints": 32,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "20 Apr 2025",
+            "points": 16,
+            "rank": 28
+          },
           {
             "name": "UAE Tour Women - General classification",
             "date": "9 Feb 2025",

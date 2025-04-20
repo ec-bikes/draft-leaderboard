@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 April 2025 23:23 GMT",
+  "fetchedDate": "20 April 2025 23:21 GMT",
   "momentId": 190070,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 4602,
+    "totalPoints": 4766,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
         "id": 76149,
         "team": "UAD",
         "country": "it",
-        "totalPoints": 1007,
+        "totalPoints": 1015,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "20 Apr 2025",
+            "points": 8,
+            "rank": 35
+          },
           {
             "name": "De Brabantse Pijl - La Flèche Brabançonne WE",
             "date": "18 Apr 2025",
@@ -69,8 +75,14 @@
         "id": 31144,
         "team": "TVL",
         "country": "nl",
-        "totalPoints": 918,
+        "totalPoints": 934,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "20 Apr 2025",
+            "points": 16,
+            "rank": 22
+          },
           {
             "name": "De Brabantse Pijl - La Flèche Brabançonne WE",
             "date": "18 Apr 2025",
@@ -108,8 +120,14 @@
         "id": 153350,
         "team": "TPP",
         "country": "gb",
-        "totalPoints": 292,
+        "totalPoints": 300,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "20 Apr 2025",
+            "points": 8,
+            "rank": 32
+          },
           {
             "name": "Paris-Roubaix Femmes avec Zwift",
             "date": "12 Apr 2025",
@@ -261,8 +279,14 @@
         "id": 237690,
         "team": "LTK",
         "country": "gb",
-        "totalPoints": 167,
+        "totalPoints": 267,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "20 Apr 2025",
+            "points": 100,
+            "rank": 8
+          },
           {
             "name": "De Brabantse Pijl - La Flèche Brabançonne WE",
             "date": "18 Apr 2025",
@@ -363,8 +387,14 @@
         "id": 228375,
         "team": "LTK",
         "country": "nl",
-        "totalPoints": 8,
+        "totalPoints": 24,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "20 Apr 2025",
+            "points": 16,
+            "rank": 27
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres WE",
             "date": "6 Apr 2025",
@@ -378,8 +408,14 @@
         "id": 101715,
         "team": "UXM",
         "country": "no",
-        "totalPoints": 71,
+        "totalPoints": 87,
         "results": [
+          {
+            "name": "Amstel Gold Race Ladies Edition",
+            "date": "20 Apr 2025",
+            "points": 16,
+            "rank": 23
+          },
           {
             "name": "De Brabantse Pijl - La Flèche Brabançonne WE",
             "date": "18 Apr 2025",
