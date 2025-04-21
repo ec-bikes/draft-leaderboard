@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 April 2025 23:21 GMT",
+  "fetchedDate": "21 April 2025 23:22 GMT",
   "momentId": 190070,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 5891,
+    "totalPoints": 5911,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -322,8 +322,14 @@
         "id": 228141,
         "team": "UAD",
         "country": "nl",
-        "totalPoints": 58,
+        "totalPoints": 78,
         "results": [
+          {
+            "name": "Ronde de Mouscron",
+            "date": "21 Apr 2025",
+            "points": 20,
+            "rank": 10
+          },
           {
             "name": "Ixina GP Oetingen p/b Lotto",
             "date": "12 Mar 2025",

@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 April 2025 23:21 GMT",
+  "fetchedDate": "21 April 2025 23:22 GMT",
   "momentId": 190070,
   "teams": [
     {
@@ -85,7 +85,7 @@
     {
       "owner": "Abby Mickey",
       "name": "The Tortured Breakaway Department",
-      "totalPoints": 4766,
+      "totalPoints": 4781,
       "riders": [
         {
           "name": "Elisa Longo Borghini",
@@ -155,7 +155,7 @@
           "id": 233425,
           "team": "VWT",
           "country": "nl",
-          "totalPoints": 43
+          "totalPoints": 58
         }
       ],
       "movement": 1
@@ -242,7 +242,7 @@
     {
       "owner": "Tilda Price",
       "name": "Santa Cruz-Shimano",
-      "totalPoints": 5891,
+      "totalPoints": 5911,
       "riders": [
         {
           "name": "Lorena Wiebes",
@@ -291,7 +291,7 @@
           "id": 228141,
           "team": "UAD",
           "country": "nl",
-          "totalPoints": 58
+          "totalPoints": 78
         },
         {
           "name": "Marta Lach",
@@ -320,7 +320,7 @@
     {
       "owner": "Georgie Howe",
       "name": "Specialized-Win-Collective Racing",
-      "totalPoints": 2676,
+      "totalPoints": 2746,
       "riders": [
         {
           "name": "Kasia Niewiadoma",
@@ -384,7 +384,7 @@
           "id": 488553,
           "team": "CTC",
           "country": "ca",
-          "totalPoints": 117
+          "totalPoints": 187
         },
         {
           "name": "Riejanne Markus",

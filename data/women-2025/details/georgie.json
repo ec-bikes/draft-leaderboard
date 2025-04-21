@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 April 2025 23:21 GMT",
+  "fetchedDate": "21 April 2025 23:22 GMT",
   "momentId": 190070,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 2676,
+    "totalPoints": 2746,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -368,8 +368,14 @@
         "id": 488553,
         "team": "CTC",
         "country": "ca",
-        "totalPoints": 117,
+        "totalPoints": 187,
         "results": [
+          {
+            "name": "Ronde de Mouscron",
+            "date": "21 Apr 2025",
+            "points": 70,
+            "rank": 3
+          },
           {
             "name": "Milano-Sanremo Donne",
             "date": "22 Mar 2025",

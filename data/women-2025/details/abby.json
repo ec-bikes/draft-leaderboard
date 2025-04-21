@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 April 2025 23:21 GMT",
+  "fetchedDate": "21 April 2025 23:22 GMT",
   "momentId": 190070,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 4766,
+    "totalPoints": 4781,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -459,8 +459,14 @@
         "id": 233425,
         "team": "VWT",
         "country": "nl",
-        "totalPoints": 43,
+        "totalPoints": 58,
         "results": [
+          {
+            "name": "Ronde de Mouscron",
+            "date": "21 Apr 2025",
+            "points": 15,
+            "rank": 11
+          },
           {
             "name": "Midwest Cycling Classic",
             "date": "23 Mar 2025",

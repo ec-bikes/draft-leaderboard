@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 April 2025 23:21 GMT",
+  "fetchedDate": "21 April 2025 23:22 GMT",
   "momentId": 190052,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 3759.28,
+    "totalPoints": 3774.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -482,8 +482,14 @@
         "id": 150925,
         "team": "DAT",
         "country": "at",
-        "totalPoints": 126.43,
+        "totalPoints": 141.43,
         "results": [
+          {
+            "name": "Tour of the Alps - Stage 1",
+            "date": "21 Apr 2025",
+            "points": 15,
+            "rank": 2
+          },
           {
             "name": "Volta Ciclista a Catalunya - Stage 4",
             "date": "27 Mar 2025",

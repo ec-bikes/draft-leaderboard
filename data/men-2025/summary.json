@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 April 2025 23:21 GMT",
+  "fetchedDate": "21 April 2025 23:22 GMT",
   "momentId": 190052,
   "teams": [
     {
@@ -165,7 +165,7 @@
     {
       "owner": "Toms Skujiņš",
       "name": "Lidl-Trek-Bauer",
-      "totalPoints": 4869.25,
+      "totalPoints": 4879.25,
       "riders": [
         {
           "name": "Remco Evenepoel",
@@ -199,9 +199,10 @@
         {
           "name": "Giulio Ciccone",
           "id": 97091,
+          "sanctions": 15,
           "team": "LTK",
           "country": "it",
-          "totalPoints": 375
+          "totalPoints": 385
         },
         {
           "name": "Lenny Martinez",
@@ -563,7 +564,7 @@
     {
       "owner": "Andrew (member)",
       "name": "Groupama-FDJ-Tourtel Twist",
-      "totalPoints": 3759.28,
+      "totalPoints": 3774.28,
       "riders": [
         {
           "name": "Adam Yates",
@@ -619,7 +620,7 @@
           "id": 150925,
           "team": "DAT",
           "country": "at",
-          "totalPoints": 126.43
+          "totalPoints": 141.43
         },
         {
           "name": "Pablo Castrillo",
