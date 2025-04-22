@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 April 2025 23:22 GMT",
-  "momentId": 190052,
+  "fetchedDate": "22 April 2025 23:22 GMT",
+  "momentId": 190211,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 4879.25,
+    "totalPoints": 4882.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -246,8 +246,14 @@
         "sanctions": 15,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 385,
+        "totalPoints": 388,
         "results": [
+          {
+            "name": "Tour of the Alps - Stage 2",
+            "date": "22 Apr 2025",
+            "points": 3,
+            "rank": 5
+          },
           {
             "name": "Tour of the Alps - Stage 1",
             "date": "21 Apr 2025",

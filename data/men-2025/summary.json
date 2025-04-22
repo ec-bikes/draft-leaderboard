@@ -1,8 +1,8 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 April 2025 23:22 GMT",
-  "momentId": 190052,
+  "fetchedDate": "22 April 2025 23:22 GMT",
+  "momentId": 190211,
   "teams": [
     {
       "owner": "Kit Nicholson",
@@ -165,7 +165,7 @@
     {
       "owner": "Toms Skujiņš",
       "name": "Lidl-Trek-Bauer",
-      "totalPoints": 4879.25,
+      "totalPoints": 4882.25,
       "riders": [
         {
           "name": "Remco Evenepoel",
@@ -202,7 +202,7 @@
           "sanctions": 15,
           "team": "LTK",
           "country": "it",
-          "totalPoints": 385
+          "totalPoints": 388
         },
         {
           "name": "Lenny Martinez",
