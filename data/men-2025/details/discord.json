@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "22 April 2025 23:22 GMT",
+  "fetchedDate": "23 April 2025 23:23 GMT",
   "momentId": 190211,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 4051.38,
+    "totalPoints": 4374.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -97,8 +97,14 @@
         "id": 235075,
         "team": "EFE",
         "country": "ie",
-        "totalPoints": 429,
+        "totalPoints": 609,
         "results": [
+          {
+            "name": "La Flèche Wallonne",
+            "date": "23 Apr 2025",
+            "points": 180,
+            "rank": 5
+          },
           {
             "name": "Amstel Gold Race",
             "date": "20 Apr 2025",
@@ -291,8 +297,14 @@
         "id": 75170,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 474,
+        "totalPoints": 530,
         "results": [
+          {
+            "name": "La Flèche Wallonne",
+            "date": "23 Apr 2025",
+            "points": 56,
+            "rank": 11
+          },
           {
             "name": "Tour du Doubs",
             "date": "20 Apr 2025",
@@ -421,8 +433,14 @@
         "id": 109483,
         "team": "JAY",
         "country": "ch",
-        "totalPoints": 436.67,
+        "totalPoints": 504.67,
         "results": [
+          {
+            "name": "La Flèche Wallonne",
+            "date": "23 Apr 2025",
+            "points": 68,
+            "rank": 10
+          },
           {
             "name": "Amstel Gold Race",
             "date": "20 Apr 2025",
@@ -478,8 +496,14 @@
         "id": 109829,
         "team": "RBH",
         "country": "au",
-        "totalPoints": 300.71,
+        "totalPoints": 315.71,
         "results": [
+          {
+            "name": "Tour of the Alps - Stage 3",
+            "date": "23 Apr 2025",
+            "points": 15,
+            "rank": 2
+          },
           {
             "name": "Tirreno-Adriatico - General classification",
             "date": "16 Mar 2025",
@@ -517,8 +541,14 @@
         "id": 407508,
         "team": "RBH",
         "country": "es",
-        "totalPoints": 193,
+        "totalPoints": 197,
         "results": [
+          {
+            "name": "La Flèche Wallonne",
+            "date": "23 Apr 2025",
+            "points": 4,
+            "rank": 55
+          },
           {
             "name": "Milano-Sanremo",
             "date": "22 Mar 2025",

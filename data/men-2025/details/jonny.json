@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "22 April 2025 23:22 GMT",
+  "fetchedDate": "23 April 2025 23:23 GMT",
   "momentId": 190211,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 4446.14,
+    "totalPoints": 4618.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -258,8 +258,14 @@
         "id": 353375,
         "team": "TBV",
         "country": "co",
-        "totalPoints": 520,
+        "totalPoints": 660,
         "results": [
+          {
+            "name": "La Flèche Wallonne",
+            "date": "23 Apr 2025",
+            "points": 140,
+            "rank": 6
+          },
           {
             "name": "Amstel Gold Race",
             "date": "20 Apr 2025",
@@ -340,8 +346,14 @@
         "id": 91637,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 152,
+        "totalPoints": 168,
         "results": [
+          {
+            "name": "La Flèche Wallonne",
+            "date": "23 Apr 2025",
+            "points": 16,
+            "rank": 26
+          },
           {
             "name": "Amstel Gold Race",
             "date": "20 Apr 2025",
@@ -412,8 +424,14 @@
         "id": 144019,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 795,
+        "totalPoints": 811,
         "results": [
+          {
+            "name": "La Flèche Wallonne",
+            "date": "23 Apr 2025",
+            "points": 16,
+            "rank": 23
+          },
           {
             "name": "Trofeo Laigueglia",
             "date": "5 Mar 2025",

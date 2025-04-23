@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "22 April 2025 23:22 GMT",
+  "fetchedDate": "23 April 2025 23:23 GMT",
   "momentId": 190211,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 5462,
+    "totalPoints": 5970,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "team": "UAD",
         "country": "si",
-        "totalPoints": 3185,
+        "totalPoints": 3585,
         "results": [
+          {
+            "name": "La Flèche Wallonne",
+            "date": "23 Apr 2025",
+            "points": 400,
+            "rank": 1
+          },
           {
             "name": "Amstel Gold Race",
             "date": "20 Apr 2025",
@@ -102,8 +108,14 @@
         "id": 1721034,
         "team": "LTK",
         "country": "be",
-        "totalPoints": 268,
+        "totalPoints": 368,
         "results": [
+          {
+            "name": "La Flèche Wallonne",
+            "date": "23 Apr 2025",
+            "points": 100,
+            "rank": 8
+          },
           {
             "name": "Amstel Gold Race",
             "date": "20 Apr 2025",
@@ -370,8 +382,14 @@
         "id": 422863,
         "team": "COF",
         "country": "es",
-        "totalPoints": 576,
+        "totalPoints": 584,
         "results": [
+          {
+            "name": "La Flèche Wallonne",
+            "date": "23 Apr 2025",
+            "points": 8,
+            "rank": 46
+          },
           {
             "name": "De Brabantse Pijl - La Flèche Brabançonne ME",
             "date": "18 Apr 2025",

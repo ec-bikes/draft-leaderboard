@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "22 April 2025 23:22 GMT",
+  "fetchedDate": "23 April 2025 23:22 GMT",
   "momentId": 190229,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 5877,
+    "totalPoints": 6293,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
         "team": "TFS",
         "country": "nl",
-        "totalPoints": 1212,
+        "totalPoints": 1532,
         "results": [
+          {
+            "name": "La Flèche Wallonne Féminine",
+            "date": "23 Apr 2025",
+            "points": 320,
+            "rank": 2
+          },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "20 Apr 2025",
@@ -338,8 +344,14 @@
         "sanctions": 5,
         "team": "EFO",
         "country": "fr",
-        "totalPoints": 148,
+        "totalPoints": 164,
         "results": [
+          {
+            "name": "La Flèche Wallonne Féminine",
+            "date": "23 Apr 2025",
+            "points": 16,
+            "rank": 28
+          },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "20 Apr 2025",
@@ -389,8 +401,14 @@
         "id": 217072,
         "team": "LTK",
         "country": "nz",
-        "totalPoints": 390,
+        "totalPoints": 470,
         "results": [
+          {
+            "name": "La Flèche Wallonne Féminine",
+            "date": "23 Apr 2025",
+            "points": 80,
+            "rank": 9
+          },
           {
             "name": "De Brabantse Pijl - La Flèche Brabançonne WE",
             "date": "18 Apr 2025",

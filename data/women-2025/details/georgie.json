@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "22 April 2025 23:22 GMT",
+  "fetchedDate": "23 April 2025 23:22 GMT",
   "momentId": 190229,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 2746,
+    "totalPoints": 3110,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
         "id": 86824,
         "team": "CSZ",
         "country": "pl",
-        "totalPoints": 289,
+        "totalPoints": 509,
         "results": [
+          {
+            "name": "La Flèche Wallonne Féminine",
+            "date": "23 Apr 2025",
+            "points": 220,
+            "rank": 4
+          },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "20 Apr 2025",
@@ -121,8 +127,14 @@
         "id": 2188959,
         "team": "CSZ",
         "country": "de",
-        "totalPoints": 149,
+        "totalPoints": 165,
         "results": [
+          {
+            "name": "La Flèche Wallonne Féminine",
+            "date": "23 Apr 2025",
+            "points": 16,
+            "rank": 26
+          },
           {
             "name": "Trofeo Alfredo Binda - Comune di Cittiglio",
             "date": "16 Mar 2025",
@@ -296,8 +308,14 @@
         "id": 97498,
         "team": "TFS",
         "country": "fr",
-        "totalPoints": 612,
+        "totalPoints": 732,
         "results": [
+          {
+            "name": "La Flèche Wallonne Féminine",
+            "date": "23 Apr 2025",
+            "points": 120,
+            "rank": 7
+          },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "20 Apr 2025",
@@ -407,8 +425,14 @@
         "id": 86854,
         "team": "LTK",
         "country": "nl",
-        "totalPoints": 32,
+        "totalPoints": 40,
         "results": [
+          {
+            "name": "La Flèche Wallonne Féminine",
+            "date": "23 Apr 2025",
+            "points": 8,
+            "rank": 39
+          },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "20 Apr 2025",

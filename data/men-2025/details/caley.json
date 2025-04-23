@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "22 April 2025 23:22 GMT",
+  "fetchedDate": "23 April 2025 23:23 GMT",
   "momentId": 190211,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 4948.46,
+    "totalPoints": 4996.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -222,8 +222,14 @@
         "id": 62919,
         "team": "JAY",
         "country": "au",
-        "totalPoints": 797.67,
+        "totalPoints": 805.67,
         "results": [
+          {
+            "name": "La Flèche Wallonne",
+            "date": "23 Apr 2025",
+            "points": 8,
+            "rank": 32
+          },
           {
             "name": "Amstel Gold Race",
             "date": "20 Apr 2025",
@@ -367,16 +373,29 @@
         "id": 92264,
         "team": "RBH",
         "country": "co",
-        "totalPoints": 0,
-        "results": []
+        "totalPoints": 8,
+        "results": [
+          {
+            "name": "La Flèche Wallonne",
+            "date": "23 Apr 2025",
+            "points": 8,
+            "rank": 47
+          }
+        ]
       },
       {
         "name": "Neilson Powless",
         "id": 88143,
         "team": "EFE",
         "country": "us",
-        "totalPoints": 627.5,
+        "totalPoints": 635.5,
         "results": [
+          {
+            "name": "La Flèche Wallonne",
+            "date": "23 Apr 2025",
+            "points": 8,
+            "rank": 45
+          },
           {
             "name": "Amstel Gold Race",
             "date": "20 Apr 2025",
@@ -444,8 +463,14 @@
         "id": 361433,
         "team": "IGD",
         "country": "us",
-        "totalPoints": 777.86,
+        "totalPoints": 801.86,
         "results": [
+          {
+            "name": "La Flèche Wallonne",
+            "date": "23 Apr 2025",
+            "points": 24,
+            "rank": 17
+          },
           {
             "name": "Amstel Gold Race",
             "date": "20 Apr 2025",

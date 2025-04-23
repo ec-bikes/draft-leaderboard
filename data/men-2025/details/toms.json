@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "22 April 2025 23:22 GMT",
+  "fetchedDate": "23 April 2025 23:23 GMT",
   "momentId": 190211,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 4882.25,
+    "totalPoints": 5197.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 525,
+        "totalPoints": 605,
         "results": [
+          {
+            "name": "La Flèche Wallonne",
+            "date": "23 Apr 2025",
+            "points": 80,
+            "rank": 9
+          },
           {
             "name": "Amstel Gold Race",
             "date": "20 Apr 2025",
@@ -137,8 +143,14 @@
         "id": 97805,
         "team": "JAY",
         "country": "au",
-        "totalPoints": 131.81,
+        "totalPoints": 139.81,
         "results": [
+          {
+            "name": "La Flèche Wallonne",
+            "date": "23 Apr 2025",
+            "points": 8,
+            "rank": 37
+          },
           {
             "name": "Volta Ciclista a Catalunya - General classification",
             "date": "30 Mar 2025",
@@ -176,8 +188,14 @@
         "id": 76092,
         "team": "TBV",
         "country": "es",
-        "totalPoints": 688,
+        "totalPoints": 690,
         "results": [
+          {
+            "name": "La Flèche Wallonne",
+            "date": "23 Apr 2025",
+            "points": 2,
+            "rank": 57
+          },
           {
             "name": "Amstel Gold Race",
             "date": "20 Apr 2025",
@@ -246,8 +264,14 @@
         "sanctions": 15,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 388,
+        "totalPoints": 393,
         "results": [
+          {
+            "name": "Tour of the Alps - Stage 3",
+            "date": "23 Apr 2025",
+            "points": 5,
+            "rank": 4
+          },
           {
             "name": "Tour of the Alps - Stage 2",
             "date": "22 Apr 2025",
@@ -308,8 +332,14 @@
         "id": 1843476,
         "team": "TBV",
         "country": "fr",
-        "totalPoints": 468,
+        "totalPoints": 688,
         "results": [
+          {
+            "name": "La Flèche Wallonne",
+            "date": "23 Apr 2025",
+            "points": 220,
+            "rank": 4
+          },
           {
             "name": "Volta Ciclista a Catalunya - General classification",
             "date": "30 Mar 2025",

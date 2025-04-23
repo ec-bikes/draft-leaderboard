@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "22 April 2025 23:22 GMT",
+  "fetchedDate": "23 April 2025 23:22 GMT",
   "momentId": 190229,
   "team": {
     "owner": "Loren Rowney",
     "name": "(TBD)",
-    "totalPoints": 3905,
+    "totalPoints": 4125,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
         "team": "SDW",
         "country": "be",
-        "totalPoints": 686,
+        "totalPoints": 734,
         "results": [
+          {
+            "name": "La Flèche Wallonne Féminine",
+            "date": "23 Apr 2025",
+            "points": 48,
+            "rank": 12
+          },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "20 Apr 2025",
@@ -91,8 +97,14 @@
         "id": 88660,
         "team": "AGS",
         "country": "mu",
-        "totalPoints": 770,
+        "totalPoints": 910,
         "results": [
+          {
+            "name": "La Flèche Wallonne Féminine",
+            "date": "23 Apr 2025",
+            "points": 140,
+            "rank": 6
+          },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "20 Apr 2025",
@@ -187,8 +199,14 @@
         "id": 231378,
         "team": "LIV",
         "country": "nl",
-        "totalPoints": 685,
+        "totalPoints": 701,
         "results": [
+          {
+            "name": "La Flèche Wallonne Féminine",
+            "date": "23 Apr 2025",
+            "points": 16,
+            "rank": 24
+          },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "20 Apr 2025",
@@ -274,8 +292,14 @@
         "id": 1897613,
         "team": "LIV",
         "country": "it",
-        "totalPoints": 445,
+        "totalPoints": 461,
         "results": [
+          {
+            "name": "La Flèche Wallonne Féminine",
+            "date": "23 Apr 2025",
+            "points": 16,
+            "rank": 22
+          },
           {
             "name": "De Brabantse Pijl - La Flèche Brabançonne WE",
             "date": "18 Apr 2025",

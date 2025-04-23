@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "22 April 2025 23:22 GMT",
+  "fetchedDate": "23 April 2025 23:23 GMT",
   "momentId": 190211,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 6482.42,
+    "totalPoints": 6566.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -162,8 +162,14 @@
         "id": 150923,
         "team": "UAD",
         "country": "us",
-        "totalPoints": 246.57,
+        "totalPoints": 274.57,
         "results": [
+          {
+            "name": "La Flèche Wallonne",
+            "date": "23 Apr 2025",
+            "points": 28,
+            "rank": 15
+          },
           {
             "name": "Amstel Gold Race",
             "date": "20 Apr 2025",
@@ -282,8 +288,14 @@
         "id": 462394,
         "team": "UAD",
         "country": "ch",
-        "totalPoints": 260,
+        "totalPoints": 300,
         "results": [
+          {
+            "name": "La Flèche Wallonne",
+            "date": "23 Apr 2025",
+            "points": 40,
+            "rank": 13
+          },
           {
             "name": "Volta ao Algarve em Bicicleta - General classification",
             "date": "23 Feb 2025",
@@ -509,8 +521,14 @@
         "id": 154227,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 66,
+        "totalPoints": 82,
         "results": [
+          {
+            "name": "La Flèche Wallonne",
+            "date": "23 Apr 2025",
+            "points": 16,
+            "rank": 29
+          },
           {
             "name": "Amstel Gold Race",
             "date": "20 Apr 2025",

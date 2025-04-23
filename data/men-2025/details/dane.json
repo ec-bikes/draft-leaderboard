@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "22 April 2025 23:22 GMT",
+  "fetchedDate": "23 April 2025 23:23 GMT",
   "momentId": 190211,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 5817.57,
+    "totalPoints": 5937.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -415,8 +415,14 @@
         "id": 1759422,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 625,
+        "totalPoints": 745,
         "results": [
+          {
+            "name": "La Flèche Wallonne",
+            "date": "23 Apr 2025",
+            "points": 120,
+            "rank": 7
+          },
           {
             "name": "Amstel Gold Race",
             "date": "20 Apr 2025",

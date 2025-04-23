@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "22 April 2025 23:22 GMT",
+  "fetchedDate": "23 April 2025 23:22 GMT",
   "momentId": 190229,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 4316,
+    "totalPoints": 4496,
     "riders": [
       {
         "name": "Liane Lippert",
         "id": 140495,
         "team": "MOV",
         "country": "de",
-        "totalPoints": 545,
+        "totalPoints": 725,
         "results": [
+          {
+            "name": "La Flèche Wallonne Féminine",
+            "date": "23 Apr 2025",
+            "points": 180,
+            "rank": 5
+          },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "20 Apr 2025",

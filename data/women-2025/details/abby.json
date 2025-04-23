@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "22 April 2025 23:22 GMT",
+  "fetchedDate": "23 April 2025 23:22 GMT",
   "momentId": 190229,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 4781,
+    "totalPoints": 5057,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
         "id": 76149,
         "team": "UAD",
         "country": "it",
-        "totalPoints": 1015,
+        "totalPoints": 1275,
         "results": [
+          {
+            "name": "La Flèche Wallonne Féminine",
+            "date": "23 Apr 2025",
+            "points": 260,
+            "rank": 3
+          },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "20 Apr 2025",
@@ -387,8 +393,14 @@
         "id": 228375,
         "team": "LTK",
         "country": "nl",
-        "totalPoints": 24,
+        "totalPoints": 40,
         "results": [
+          {
+            "name": "La Flèche Wallonne Féminine",
+            "date": "23 Apr 2025",
+            "points": 16,
+            "rank": 27
+          },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "20 Apr 2025",

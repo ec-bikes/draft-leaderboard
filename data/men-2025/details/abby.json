@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "22 April 2025 23:22 GMT",
+  "fetchedDate": "23 April 2025 23:23 GMT",
   "momentId": 190211,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 5733.29,
+    "totalPoints": 5741.29,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -152,8 +152,14 @@
         "sanctions": 25,
         "team": "LOT",
         "country": "be",
-        "totalPoints": 174,
+        "totalPoints": 182,
         "results": [
+          {
+            "name": "La Flèche Wallonne",
+            "date": "23 Apr 2025",
+            "points": 8,
+            "rank": 43
+          },
           {
             "name": "Itzulia Basque Country - General classification",
             "date": "12 Apr 2025",

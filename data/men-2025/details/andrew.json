@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "22 April 2025 23:22 GMT",
+  "fetchedDate": "23 April 2025 23:23 GMT",
   "momentId": 190211,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 3774.28,
+    "totalPoints": 4094.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -246,8 +246,14 @@
         "id": 1745291,
         "team": "ARK",
         "country": "fr",
-        "totalPoints": 464,
+        "totalPoints": 784,
         "results": [
+          {
+            "name": "La Flèche Wallonne",
+            "date": "23 Apr 2025",
+            "points": 320,
+            "rank": 2
+          },
           {
             "name": "Région Pays de la Loire Tour - General classification",
             "date": "11 Apr 2025",
