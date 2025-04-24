@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 April 2025 23:23 GMT",
+  "fetchedDate": "24 April 2025 23:22 GMT",
   "momentId": 190211,
   "teams": [
     {
@@ -165,7 +165,7 @@
     {
       "owner": "Toms Skujiņš",
       "name": "Lidl-Trek-Bauer",
-      "totalPoints": 5197.25,
+      "totalPoints": 5200.25,
       "riders": [
         {
           "name": "Remco Evenepoel",
@@ -202,7 +202,7 @@
           "sanctions": 15,
           "team": "LTK",
           "country": "it",
-          "totalPoints": 393
+          "totalPoints": 396
         },
         {
           "name": "Lenny Martinez",
@@ -325,7 +325,7 @@
     {
       "owner": "Abby Mickey",
       "name": "EF Education-Swift Nation",
-      "totalPoints": 5741.29,
+      "totalPoints": 5766.29,
       "riders": [
         {
           "name": "Wout van Aert",
@@ -389,7 +389,7 @@
           "id": 109481,
           "team": "IGD",
           "country": "nl",
-          "totalPoints": 456.29
+          "totalPoints": 481.29
         },
         {
           "name": "Patrick Konrad",
@@ -564,7 +564,7 @@
     {
       "owner": "Andrew (member)",
       "name": "Groupama-FDJ-Tourtel Twist",
-      "totalPoints": 4094.28,
+      "totalPoints": 4104.28,
       "riders": [
         {
           "name": "Adam Yates",
@@ -620,7 +620,7 @@
           "id": 150925,
           "team": "DAT",
           "country": "at",
-          "totalPoints": 141.43
+          "totalPoints": 146.43
         },
         {
           "name": "Pablo Castrillo",
@@ -634,7 +634,7 @@
           "id": 89223,
           "team": "UAD",
           "country": "es",
-          "totalPoints": 94
+          "totalPoints": 99
         }
       ],
       "movement": -1

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 April 2025 23:23 GMT",
+  "fetchedDate": "24 April 2025 23:22 GMT",
   "momentId": 190211,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 5741.29,
+    "totalPoints": 5766.29,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -492,8 +492,19 @@
         "id": 109481,
         "team": "IGD",
         "country": "nl",
-        "totalPoints": 456.29,
+        "totalPoints": 481.29,
         "results": [
+          {
+            "name": "Tour of the Alps - Stage 4",
+            "date": "24 Apr 2025",
+            "points": 20,
+            "rank": 1
+          },
+          {
+            "name": "Tour of the Alps - Stage 4 - Bonus",
+            "date": "24 Apr 2025",
+            "points": 5
+          },
           {
             "name": "Paris-Nice - General classification",
             "date": "16 Mar 2025",

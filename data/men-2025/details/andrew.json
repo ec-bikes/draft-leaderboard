@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 April 2025 23:23 GMT",
+  "fetchedDate": "24 April 2025 23:22 GMT",
   "momentId": 190211,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 4094.28,
+    "totalPoints": 4104.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -488,8 +488,14 @@
         "id": 150925,
         "team": "DAT",
         "country": "at",
-        "totalPoints": 141.43,
+        "totalPoints": 146.43,
         "results": [
+          {
+            "name": "Tour of the Alps - Stage 4",
+            "date": "24 Apr 2025",
+            "points": 5,
+            "rank": 4
+          },
           {
             "name": "Tour of the Alps - Stage 1",
             "date": "21 Apr 2025",
@@ -596,8 +602,14 @@
         "id": 89223,
         "team": "UAD",
         "country": "es",
-        "totalPoints": 94,
+        "totalPoints": 99,
         "results": [
+          {
+            "name": "Vuelta Asturias Julio Alvarez Mendo - Stage 1",
+            "date": "24 Apr 2025",
+            "points": 5,
+            "rank": 2
+          },
           {
             "name": "Itzulia Basque Country - General classification",
             "date": "12 Apr 2025",
