@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "24 April 2025 23:22 GMT",
+  "fetchedDate": "25 April 2025 23:22 GMT",
   "momentId": 190211,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 5766.29,
+    "totalPoints": 5919.29,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -341,8 +341,14 @@
         "id": 86735,
         "team": "LTK",
         "country": "gb",
-        "totalPoints": 48,
+        "totalPoints": 51,
         "results": [
+          {
+            "name": "Tour of the Alps - General classification",
+            "date": "25 Apr 2025",
+            "points": 3,
+            "rank": 32
+          },
           {
             "name": "Faun Drome Classic",
             "date": "2 Mar 2025",
@@ -492,8 +498,14 @@
         "id": 109481,
         "team": "IGD",
         "country": "nl",
-        "totalPoints": 481.29,
+        "totalPoints": 631.29,
         "results": [
+          {
+            "name": "Tour of the Alps - General classification",
+            "date": "25 Apr 2025",
+            "points": 150,
+            "rank": 2
+          },
           {
             "name": "Tour of the Alps - Stage 4",
             "date": "24 Apr 2025",

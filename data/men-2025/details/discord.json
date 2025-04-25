@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "24 April 2025 23:22 GMT",
+  "fetchedDate": "25 April 2025 23:22 GMT",
   "momentId": 190211,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 4374.38,
+    "totalPoints": 4424.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -496,8 +496,14 @@
         "id": 109829,
         "team": "RBH",
         "country": "au",
-        "totalPoints": 315.71,
+        "totalPoints": 365.71,
         "results": [
+          {
+            "name": "Tour of the Alps - General classification",
+            "date": "25 Apr 2025",
+            "points": 50,
+            "rank": 8
+          },
           {
             "name": "Tour of the Alps - Stage 3",
             "date": "23 Apr 2025",

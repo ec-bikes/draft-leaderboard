@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "24 April 2025 23:22 GMT",
+  "fetchedDate": "25 April 2025 23:22 GMT",
   "momentId": 190211,
   "teams": [
     {
@@ -165,7 +165,7 @@
     {
       "owner": "Toms Skujiņš",
       "name": "Lidl-Trek-Bauer",
-      "totalPoints": 5200.25,
+      "totalPoints": 5300.25,
       "riders": [
         {
           "name": "Remco Evenepoel",
@@ -202,7 +202,7 @@
           "sanctions": 15,
           "team": "LTK",
           "country": "it",
-          "totalPoints": 396
+          "totalPoints": 496
         },
         {
           "name": "Lenny Martinez",
@@ -325,7 +325,7 @@
     {
       "owner": "Abby Mickey",
       "name": "EF Education-Swift Nation",
-      "totalPoints": 5766.29,
+      "totalPoints": 5919.29,
       "riders": [
         {
           "name": "Wout van Aert",
@@ -368,7 +368,7 @@
           "id": 86735,
           "team": "LTK",
           "country": "gb",
-          "totalPoints": 48
+          "totalPoints": 51
         },
         {
           "name": "David Gaudu",
@@ -389,7 +389,7 @@
           "id": 109481,
           "team": "IGD",
           "country": "nl",
-          "totalPoints": 481.29
+          "totalPoints": 631.29
         },
         {
           "name": "Patrick Konrad",
@@ -564,7 +564,7 @@
     {
       "owner": "Andrew (member)",
       "name": "Groupama-FDJ-Tourtel Twist",
-      "totalPoints": 4104.28,
+      "totalPoints": 4195.28,
       "riders": [
         {
           "name": "Adam Yates",
@@ -620,7 +620,7 @@
           "id": 150925,
           "team": "DAT",
           "country": "at",
-          "totalPoints": 146.43
+          "totalPoints": 231.43
         },
         {
           "name": "Pablo Castrillo",
@@ -634,15 +634,15 @@
           "id": 89223,
           "team": "UAD",
           "country": "es",
-          "totalPoints": 99
+          "totalPoints": 105
         }
       ],
-      "movement": -1
+      "movement": 0
     },
     {
       "owner": "Discord Undrafted",
       "name": "Team Movistar easyJet",
-      "totalPoints": 4374.38,
+      "totalPoints": 4424.38,
       "riders": [
         {
           "name": "Dylan Groenewegen",
@@ -706,7 +706,7 @@
           "id": 109829,
           "team": "RBH",
           "country": "au",
-          "totalPoints": 315.71
+          "totalPoints": 365.71
         },
         {
           "name": "Roger Adrià",
@@ -716,7 +716,7 @@
           "totalPoints": 197
         }
       ],
-      "movement": 1
+      "movement": 0
     }
   ]
 }
