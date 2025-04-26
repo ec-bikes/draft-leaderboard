@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "25 April 2025 23:22 GMT",
+  "fetchedDate": "26 April 2025 23:22 GMT",
   "momentId": 190211,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 4195.28,
+    "totalPoints": 4198.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -608,8 +608,13 @@
         "id": 89223,
         "team": "UAD",
         "country": "es",
-        "totalPoints": 105,
+        "totalPoints": 108,
         "results": [
+          {
+            "name": "Vuelta Asturias Julio Alvarez Mendo - Stage 3 - Bonus",
+            "date": "26 Apr 2025",
+            "points": 3
+          },
           {
             "name": "Vuelta Asturias Julio Alvarez Mendo - Stage 2",
             "date": "25 Apr 2025",
