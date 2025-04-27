@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 April 2025 23:22 GMT",
+  "fetchedDate": "27 April 2025 23:25 GMT",
   "momentId": 190211,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 4424.38,
+    "totalPoints": 5037.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -97,8 +97,14 @@
         "id": 235075,
         "team": "EFE",
         "country": "ie",
-        "totalPoints": 609,
+        "totalPoints": 1129,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "27 Apr 2025",
+            "points": 520,
+            "rank": 3
+          },
           {
             "name": "La Flèche Wallonne",
             "date": "23 Apr 2025",
@@ -210,8 +216,14 @@
         "id": 442797,
         "team": "UAD",
         "country": "pt",
-        "totalPoints": 714,
+        "totalPoints": 717,
         "results": [
+          {
+            "name": "Vuelta Asturias Julio Alvarez Mendo - General classification",
+            "date": "27 Apr 2025",
+            "points": 3,
+            "rank": 19
+          },
           {
             "name": "De Brabantse Pijl - La Flèche Brabançonne ME",
             "date": "18 Apr 2025",
@@ -297,8 +309,14 @@
         "id": 75170,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 530,
+        "totalPoints": 560,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "27 Apr 2025",
+            "points": 30,
+            "rank": 21
+          },
           {
             "name": "La Flèche Wallonne",
             "date": "23 Apr 2025",
@@ -433,8 +451,14 @@
         "id": 109483,
         "team": "JAY",
         "country": "ch",
-        "totalPoints": 504.67,
+        "totalPoints": 534.67,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "27 Apr 2025",
+            "points": 30,
+            "rank": 22
+          },
           {
             "name": "La Flèche Wallonne",
             "date": "23 Apr 2025",
@@ -547,8 +571,14 @@
         "id": 407508,
         "team": "RBH",
         "country": "es",
-        "totalPoints": 197,
+        "totalPoints": 227,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "27 Apr 2025",
+            "points": 30,
+            "rank": 27
+          },
           {
             "name": "La Flèche Wallonne",
             "date": "23 Apr 2025",

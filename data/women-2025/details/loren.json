@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 April 2025 23:22 GMT",
+  "fetchedDate": "27 April 2025 23:24 GMT",
   "momentId": 190229,
   "team": {
     "owner": "Loren Rowney",
     "name": "(TBD)",
-    "totalPoints": 4125,
+    "totalPoints": 4829,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
         "team": "SDW",
         "country": "be",
-        "totalPoints": 734,
+        "totalPoints": 914,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège Femmes",
+            "date": "27 Apr 2025",
+            "points": 180,
+            "rank": 5
+          },
           {
             "name": "La Flèche Wallonne Féminine",
             "date": "23 Apr 2025",
@@ -97,8 +103,14 @@
         "id": 88660,
         "team": "AGS",
         "country": "mu",
-        "totalPoints": 910,
+        "totalPoints": 1310,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège Femmes",
+            "date": "27 Apr 2025",
+            "points": 400,
+            "rank": 1
+          },
           {
             "name": "La Flèche Wallonne Féminine",
             "date": "23 Apr 2025",
@@ -277,8 +289,14 @@
         "id": 2096868,
         "team": "AGS",
         "country": "be",
-        "totalPoints": 5,
+        "totalPoints": 29,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège Femmes",
+            "date": "27 Apr 2025",
+            "points": 24,
+            "rank": 20
+          },
           {
             "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classification",
             "date": "16 Feb 2025",
@@ -292,8 +310,14 @@
         "id": 1897613,
         "team": "LIV",
         "country": "it",
-        "totalPoints": 461,
+        "totalPoints": 561,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège Femmes",
+            "date": "27 Apr 2025",
+            "points": 100,
+            "rank": 8
+          },
           {
             "name": "La Flèche Wallonne Féminine",
             "date": "23 Apr 2025",

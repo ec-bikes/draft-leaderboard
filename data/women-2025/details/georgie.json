@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 April 2025 23:22 GMT",
+  "fetchedDate": "27 April 2025 23:24 GMT",
   "momentId": 190229,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 3110,
+    "totalPoints": 3254,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
         "id": 86824,
         "team": "CSZ",
         "country": "pl",
-        "totalPoints": 509,
+        "totalPoints": 589,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège Femmes",
+            "date": "27 Apr 2025",
+            "points": 80,
+            "rank": 9
+          },
           {
             "name": "La Flèche Wallonne Féminine",
             "date": "23 Apr 2025",
@@ -127,8 +133,14 @@
         "id": 2188959,
         "team": "CSZ",
         "country": "de",
-        "totalPoints": 165,
+        "totalPoints": 197,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège Femmes",
+            "date": "27 Apr 2025",
+            "points": 32,
+            "rank": 14
+          },
           {
             "name": "La Flèche Wallonne Féminine",
             "date": "23 Apr 2025",
@@ -308,8 +320,14 @@
         "id": 97498,
         "team": "TFS",
         "country": "fr",
-        "totalPoints": 732,
+        "totalPoints": 756,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège Femmes",
+            "date": "27 Apr 2025",
+            "points": 24,
+            "rank": 19
+          },
           {
             "name": "La Flèche Wallonne Féminine",
             "date": "23 Apr 2025",
@@ -425,8 +443,14 @@
         "id": 86854,
         "team": "LTK",
         "country": "nl",
-        "totalPoints": 40,
+        "totalPoints": 48,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège Femmes",
+            "date": "27 Apr 2025",
+            "points": 8,
+            "rank": 36
+          },
           {
             "name": "La Flèche Wallonne Féminine",
             "date": "23 Apr 2025",

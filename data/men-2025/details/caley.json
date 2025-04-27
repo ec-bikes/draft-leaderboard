@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 April 2025 23:22 GMT",
+  "fetchedDate": "27 April 2025 23:25 GMT",
   "momentId": 190211,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 4996.46,
+    "totalPoints": 5496.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -222,8 +222,14 @@
         "id": 62919,
         "team": "JAY",
         "country": "au",
-        "totalPoints": 805.67,
+        "totalPoints": 915.67,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "27 Apr 2025",
+            "points": 110,
+            "rank": 11
+          },
           {
             "name": "La Flèche Wallonne",
             "date": "23 Apr 2025",
@@ -373,8 +379,14 @@
         "id": 92264,
         "team": "RBH",
         "country": "co",
-        "totalPoints": 8,
+        "totalPoints": 248,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "27 Apr 2025",
+            "points": 240,
+            "rank": 7
+          },
           {
             "name": "La Flèche Wallonne",
             "date": "23 Apr 2025",
@@ -388,8 +400,14 @@
         "id": 88143,
         "team": "EFE",
         "country": "us",
-        "totalPoints": 635.5,
+        "totalPoints": 770.5,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "27 Apr 2025",
+            "points": 135,
+            "rank": 10
+          },
           {
             "name": "La Flèche Wallonne",
             "date": "23 Apr 2025",
@@ -463,8 +481,14 @@
         "id": 361433,
         "team": "IGD",
         "country": "us",
-        "totalPoints": 801.86,
+        "totalPoints": 816.86,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "27 Apr 2025",
+            "points": 15,
+            "rank": 41
+          },
           {
             "name": "La Flèche Wallonne",
             "date": "23 Apr 2025",

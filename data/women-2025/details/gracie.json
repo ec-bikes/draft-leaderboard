@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 April 2025 23:22 GMT",
+  "fetchedDate": "27 April 2025 23:24 GMT",
   "momentId": 190229,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 6293,
+    "totalPoints": 6921,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
         "team": "TFS",
         "country": "nl",
-        "totalPoints": 1532,
+        "totalPoints": 1792,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège Femmes",
+            "date": "27 Apr 2025",
+            "points": 260,
+            "rank": 3
+          },
           {
             "name": "La Flèche Wallonne Féminine",
             "date": "23 Apr 2025",
@@ -344,8 +350,14 @@
         "sanctions": 5,
         "team": "EFO",
         "country": "fr",
-        "totalPoints": 164,
+        "totalPoints": 384,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège Femmes",
+            "date": "27 Apr 2025",
+            "points": 220,
+            "rank": 4
+          },
           {
             "name": "La Flèche Wallonne Féminine",
             "date": "23 Apr 2025",
@@ -401,8 +413,14 @@
         "id": 217072,
         "team": "LTK",
         "country": "nz",
-        "totalPoints": 470,
+        "totalPoints": 590,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège Femmes",
+            "date": "27 Apr 2025",
+            "points": 120,
+            "rank": 7
+          },
           {
             "name": "La Flèche Wallonne Féminine",
             "date": "23 Apr 2025",
@@ -491,8 +509,14 @@
         "id": 1638135,
         "team": "TFS",
         "country": "ch",
-        "totalPoints": 635,
+        "totalPoints": 663,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège Femmes",
+            "date": "27 Apr 2025",
+            "points": 28,
+            "rank": 15
+          },
           {
             "name": "De Brabantse Pijl - La Flèche Brabançonne WE",
             "date": "18 Apr 2025",

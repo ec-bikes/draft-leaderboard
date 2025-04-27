@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 April 2025 23:22 GMT",
+  "fetchedDate": "27 April 2025 23:25 GMT",
   "momentId": 190211,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 5937.57,
+    "totalPoints": 6002.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -114,8 +114,14 @@
         "id": 428096,
         "team": "IGD",
         "country": "es",
-        "totalPoints": 70.43,
+        "totalPoints": 85.43,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "27 Apr 2025",
+            "points": 15,
+            "rank": 33
+          },
           {
             "name": "Volta a la Comunitat Valenciana - General classification",
             "date": "9 Feb 2025",
@@ -415,8 +421,14 @@
         "id": 1759422,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 745,
+        "totalPoints": 795,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "27 Apr 2025",
+            "points": 50,
+            "rank": 19
+          },
           {
             "name": "La Flèche Wallonne",
             "date": "23 Apr 2025",

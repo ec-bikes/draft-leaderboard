@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 April 2025 23:22 GMT",
+  "fetchedDate": "27 April 2025 23:25 GMT",
   "momentId": 190211,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 5970,
+    "totalPoints": 7185,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "team": "UAD",
         "country": "si",
-        "totalPoints": 3585,
+        "totalPoints": 4385,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "27 Apr 2025",
+            "points": 800,
+            "rank": 1
+          },
           {
             "name": "La Flèche Wallonne",
             "date": "23 Apr 2025",
@@ -108,8 +114,14 @@
         "id": 1721034,
         "team": "LTK",
         "country": "be",
-        "totalPoints": 368,
+        "totalPoints": 728,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "27 Apr 2025",
+            "points": 360,
+            "rank": 5
+          },
           {
             "name": "La Flèche Wallonne",
             "date": "23 Apr 2025",
@@ -382,8 +394,14 @@
         "id": 422863,
         "team": "COF",
         "country": "es",
-        "totalPoints": 584,
+        "totalPoints": 639,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "27 Apr 2025",
+            "points": 55,
+            "rank": 15
+          },
           {
             "name": "La Flèche Wallonne",
             "date": "23 Apr 2025",

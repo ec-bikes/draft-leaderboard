@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 April 2025 23:22 GMT",
+  "fetchedDate": "27 April 2025 23:24 GMT",
   "momentId": 190229,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 5057,
+    "totalPoints": 5073,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -420,8 +420,14 @@
         "id": 101715,
         "team": "UXM",
         "country": "no",
-        "totalPoints": 87,
+        "totalPoints": 103,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège Femmes",
+            "date": "27 Apr 2025",
+            "points": 16,
+            "rank": 28
+          },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "20 Apr 2025",

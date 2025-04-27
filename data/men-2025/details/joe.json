@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 April 2025 23:22 GMT",
+  "fetchedDate": "27 April 2025 23:25 GMT",
   "momentId": 190211,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 6566.42,
+    "totalPoints": 6626.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -162,8 +162,14 @@
         "id": 150923,
         "team": "UAD",
         "country": "us",
-        "totalPoints": 274.57,
+        "totalPoints": 304.57,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "27 Apr 2025",
+            "points": 30,
+            "rank": 26
+          },
           {
             "name": "La Flèche Wallonne",
             "date": "23 Apr 2025",
@@ -464,8 +470,14 @@
         "sanctions": 15,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 181,
+        "totalPoints": 196,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "27 Apr 2025",
+            "points": 15,
+            "rank": 36
+          },
           {
             "name": "ΔΕΗ Tour of Hellas - General classification",
             "date": "6 Apr 2025",
@@ -521,8 +533,14 @@
         "id": 154227,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 82,
+        "totalPoints": 97,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "27 Apr 2025",
+            "points": 15,
+            "rank": 35
+          },
           {
             "name": "La Flèche Wallonne",
             "date": "23 Apr 2025",

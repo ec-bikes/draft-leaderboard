@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 April 2025 23:22 GMT",
+  "fetchedDate": "27 April 2025 23:25 GMT",
   "momentId": 190211,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 5300.25,
+    "totalPoints": 5990.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 605,
+        "totalPoints": 610,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "27 Apr 2025",
+            "points": 5,
+            "rank": 59
+          },
           {
             "name": "La Flèche Wallonne",
             "date": "23 Apr 2025",
@@ -143,8 +149,14 @@
         "id": 97805,
         "team": "JAY",
         "country": "au",
-        "totalPoints": 139.81,
+        "totalPoints": 154.81,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "27 Apr 2025",
+            "points": 15,
+            "rank": 44
+          },
           {
             "name": "La Flèche Wallonne",
             "date": "23 Apr 2025",
@@ -188,8 +200,14 @@
         "id": 76092,
         "team": "TBV",
         "country": "es",
-        "totalPoints": 690,
+        "totalPoints": 720,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "27 Apr 2025",
+            "points": 30,
+            "rank": 29
+          },
           {
             "name": "La Flèche Wallonne",
             "date": "23 Apr 2025",
@@ -264,8 +282,14 @@
         "sanctions": 15,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 496,
+        "totalPoints": 1136,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "27 Apr 2025",
+            "points": 640,
+            "rank": 2
+          },
           {
             "name": "Tour of the Alps - General classification",
             "date": "25 Apr 2025",

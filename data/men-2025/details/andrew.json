@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 April 2025 23:22 GMT",
+  "fetchedDate": "27 April 2025 23:25 GMT",
   "momentId": 190211,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 4198.28,
+    "totalPoints": 4367.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -246,8 +246,14 @@
         "id": 1745291,
         "team": "ARK",
         "country": "fr",
-        "totalPoints": 784,
+        "totalPoints": 799,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "27 Apr 2025",
+            "points": 15,
+            "rank": 50
+          },
           {
             "name": "La Flèche Wallonne",
             "date": "23 Apr 2025",
@@ -338,8 +344,14 @@
         "id": 111343,
         "team": "UAD",
         "country": "fr",
-        "totalPoints": 252.57,
+        "totalPoints": 267.57,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "27 Apr 2025",
+            "points": 15,
+            "rank": 38
+          },
           {
             "name": "Amstel Gold Race",
             "date": "20 Apr 2025",
@@ -608,8 +620,20 @@
         "id": 89223,
         "team": "UAD",
         "country": "es",
-        "totalPoints": 108,
+        "totalPoints": 247,
         "results": [
+          {
+            "name": "Vuelta Asturias Julio Alvarez Mendo - General classification",
+            "date": "27 Apr 2025",
+            "points": 125,
+            "rank": 1
+          },
+          {
+            "name": "Vuelta Asturias Julio Alvarez Mendo - Stage 4",
+            "date": "27 Apr 2025",
+            "points": 14,
+            "rank": 1
+          },
           {
             "name": "Vuelta Asturias Julio Alvarez Mendo - Stage 3 - Bonus",
             "date": "26 Apr 2025",

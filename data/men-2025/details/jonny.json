@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 April 2025 23:22 GMT",
+  "fetchedDate": "27 April 2025 23:25 GMT",
   "momentId": 190211,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 4618.14,
+    "totalPoints": 4773.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -51,8 +51,14 @@
         "id": 365033,
         "team": "LTK",
         "country": "dk",
-        "totalPoints": 959.57,
+        "totalPoints": 974.57,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "27 Apr 2025",
+            "points": 15,
+            "rank": 39
+          },
           {
             "name": "Amstel Gold Race",
             "date": "20 Apr 2025",
@@ -183,8 +189,14 @@
         "id": 1710249,
         "team": "TPP",
         "country": "gb",
-        "totalPoints": 637,
+        "totalPoints": 732,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "27 Apr 2025",
+            "points": 95,
+            "rank": 12
+          },
           {
             "name": "Itzulia Basque Country - General classification",
             "date": "12 Apr 2025",
@@ -258,8 +270,14 @@
         "id": 353375,
         "team": "TBV",
         "country": "co",
-        "totalPoints": 660,
+        "totalPoints": 675,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "27 Apr 2025",
+            "points": 15,
+            "rank": 37
+          },
           {
             "name": "La Flèche Wallonne",
             "date": "23 Apr 2025",
@@ -424,8 +442,14 @@
         "id": 144019,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 811,
+        "totalPoints": 841,
         "results": [
+          {
+            "name": "Liège-Bastogne-Liège",
+            "date": "27 Apr 2025",
+            "points": 30,
+            "rank": 23
+          },
           {
             "name": "La Flèche Wallonne",
             "date": "23 Apr 2025",
