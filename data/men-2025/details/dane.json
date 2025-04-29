@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "28 April 2025 23:22 GMT",
-  "momentId": 190211,
+  "fetchedDate": "29 April 2025 23:22 GMT",
+  "momentId": 190370,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 6002.57,
+    "totalPoints": 6017.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -515,8 +515,14 @@
         "sanctions": 25,
         "team": "GFC",
         "country": "ch",
-        "totalPoints": 445,
+        "totalPoints": 460,
         "results": [
+          {
+            "name": "Tour de Romandie - Prologue",
+            "date": "29 Apr 2025",
+            "points": 15,
+            "rank": 6
+          },
           {
             "name": "Paris-Roubaix",
             "date": "13 Apr 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "28 April 2025 23:22 GMT",
-  "momentId": 190211,
+  "fetchedDate": "29 April 2025 23:22 GMT",
+  "momentId": 190370,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 6626.42,
+    "totalPoints": 6628.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -294,8 +294,14 @@
         "id": 462394,
         "team": "UAD",
         "country": "ch",
-        "totalPoints": 300,
+        "totalPoints": 302,
         "results": [
+          {
+            "name": "Tour de Romandie - Prologue",
+            "date": "29 Apr 2025",
+            "points": 2,
+            "rank": 10
+          },
           {
             "name": "La Flèche Wallonne",
             "date": "23 Apr 2025",

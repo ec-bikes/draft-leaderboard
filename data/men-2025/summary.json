@@ -1,8 +1,8 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "28 April 2025 23:22 GMT",
-  "momentId": 190211,
+  "fetchedDate": "29 April 2025 23:22 GMT",
+  "momentId": 190370,
   "teams": [
     {
       "owner": "Kit Nicholson",
@@ -165,14 +165,14 @@
     {
       "owner": "Toms Skujiņš",
       "name": "Lidl-Trek-Bauer",
-      "totalPoints": 5990.25,
+      "totalPoints": 5998.25,
       "riders": [
         {
           "name": "Remco Evenepoel",
           "id": 1596046,
           "team": "SOQ",
           "country": "be",
-          "totalPoints": 610
+          "totalPoints": 618
         },
         {
           "name": "Tim Merlier",
@@ -246,7 +246,7 @@
     {
       "owner": "Dane Cash",
       "name": "Visma-Lease a Bike-Monster Energy",
-      "totalPoints": 6002.57,
+      "totalPoints": 6017.57,
       "riders": [
         {
           "name": "Jasper Philipsen",
@@ -317,7 +317,7 @@
           "sanctions": 25,
           "team": "GFC",
           "country": "ch",
-          "totalPoints": 445
+          "totalPoints": 460
         }
       ],
       "movement": -1
@@ -404,7 +404,7 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 6626.42,
+      "totalPoints": 6628.42,
       "riders": [
         {
           "name": "Mathieu van der Poel",
@@ -439,7 +439,7 @@
           "id": 462394,
           "team": "UAD",
           "country": "ch",
-          "totalPoints": 300
+          "totalPoints": 302
         },
         {
           "name": "Axel Zingle",

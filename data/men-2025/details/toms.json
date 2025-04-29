@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "28 April 2025 23:22 GMT",
-  "momentId": 190211,
+  "fetchedDate": "29 April 2025 23:22 GMT",
+  "momentId": 190370,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 5990.25,
+    "totalPoints": 5998.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 610,
+        "totalPoints": 618,
         "results": [
+          {
+            "name": "Tour de Romandie - Prologue",
+            "date": "29 Apr 2025",
+            "points": 8,
+            "rank": 8
+          },
           {
             "name": "Liège-Bastogne-Liège",
             "date": "27 Apr 2025",
