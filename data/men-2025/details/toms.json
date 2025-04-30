@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "29 April 2025 23:22 GMT",
+  "fetchedDate": "30 April 2025 23:23 GMT",
   "momentId": 190370,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 5998.25,
+    "totalPoints": 5973.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -372,9 +372,10 @@
       {
         "name": "Lenny Martinez",
         "id": 1843476,
+        "sanctions": 25,
         "team": "TBV",
         "country": "fr",
-        "totalPoints": 688,
+        "totalPoints": 663,
         "results": [
           {
             "name": "La Flèche Wallonne",

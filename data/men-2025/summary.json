@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "29 April 2025 23:22 GMT",
+  "fetchedDate": "30 April 2025 23:23 GMT",
   "momentId": 190370,
   "teams": [
     {
@@ -82,12 +82,12 @@
           "totalPoints": 95
         }
       ],
-      "movement": 3
+      "movement": 1
     },
     {
       "owner": "Jonny Long",
       "name": "Ineos Grenadiers-Greenpeace-Poundland",
-      "totalPoints": 4773.14,
+      "totalPoints": 4788.14,
       "riders": [
         {
           "name": "Jonas Vingegaard",
@@ -115,7 +115,7 @@
           "id": 1710249,
           "team": "TPP",
           "country": "gb",
-          "totalPoints": 732
+          "totalPoints": 747
         },
         {
           "name": "Santiago Buitrago",
@@ -165,7 +165,7 @@
     {
       "owner": "Toms Skujiņš",
       "name": "Lidl-Trek-Bauer",
-      "totalPoints": 5998.25,
+      "totalPoints": 5973.25,
       "riders": [
         {
           "name": "Remco Evenepoel",
@@ -207,9 +207,10 @@
         {
           "name": "Lenny Martinez",
           "id": 1843476,
+          "sanctions": 25,
           "team": "TBV",
           "country": "fr",
-          "totalPoints": 688
+          "totalPoints": 663
         },
         {
           "name": "Mathias Vacek",
@@ -241,7 +242,7 @@
           "totalPoints": 360
         }
       ],
-      "movement": 2
+      "movement": 1
     },
     {
       "owner": "Dane Cash",
@@ -320,7 +321,7 @@
           "totalPoints": 460
         }
       ],
-      "movement": -1
+      "movement": 0
     },
     {
       "owner": "Abby Mickey",
@@ -399,7 +400,7 @@
           "totalPoints": 210
         }
       ],
-      "movement": -2
+      "movement": -1
     },
     {
       "owner": "Joe Lindsey",
@@ -559,7 +560,7 @@
           "totalPoints": 10
         }
       ],
-      "movement": -1
+      "movement": 0
     },
     {
       "owner": "Andrew (member)",

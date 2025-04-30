@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "29 April 2025 23:22 GMT",
+  "fetchedDate": "30 April 2025 23:23 GMT",
   "momentId": 190370,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 4773.14,
+    "totalPoints": 4788.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -189,8 +189,14 @@
         "id": 1710249,
         "team": "TPP",
         "country": "gb",
-        "totalPoints": 732,
+        "totalPoints": 747,
         "results": [
+          {
+            "name": "Tour de Romandie - Stage 1",
+            "date": "30 Apr 2025",
+            "points": 15,
+            "rank": 6
+          },
           {
             "name": "Liège-Bastogne-Liège",
             "date": "27 Apr 2025",
