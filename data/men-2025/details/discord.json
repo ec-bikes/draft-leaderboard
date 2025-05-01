@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "30 April 2025 23:23 GMT",
+  "fetchedDate": "1 May 2025 23:23 GMT",
   "momentId": 190370,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 5037.38,
+    "totalPoints": 5055.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -167,8 +167,14 @@
         "sanctions": 10,
         "team": "MOV",
         "country": "es",
-        "totalPoints": 725,
+        "totalPoints": 733,
         "results": [
+          {
+            "name": "Tour de Romandie - Stage 2",
+            "date": "1 May 2025",
+            "points": 8,
+            "rank": 8
+          },
           {
             "name": "Faun-Ardèche Classic",
             "date": "1 Mar 2025",
@@ -216,8 +222,14 @@
         "id": 442797,
         "team": "UAD",
         "country": "pt",
-        "totalPoints": 717,
+        "totalPoints": 722,
         "results": [
+          {
+            "name": "Eschborn-Frankfurt",
+            "date": "1 May 2025",
+            "points": 5,
+            "rank": 37
+          },
           {
             "name": "Vuelta Asturias Julio Alvarez Mendo - General classification",
             "date": "27 Apr 2025",
@@ -571,8 +583,14 @@
         "id": 407508,
         "team": "RBH",
         "country": "es",
-        "totalPoints": 227,
+        "totalPoints": 232,
         "results": [
+          {
+            "name": "Eschborn-Frankfurt",
+            "date": "1 May 2025",
+            "points": 5,
+            "rank": 42
+          },
           {
             "name": "Liège-Bastogne-Liège",
             "date": "27 Apr 2025",

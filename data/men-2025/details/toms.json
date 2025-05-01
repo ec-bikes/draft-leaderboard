@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "30 April 2025 23:23 GMT",
+  "fetchedDate": "1 May 2025 23:23 GMT",
   "momentId": 190370,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 5973.25,
+    "totalPoints": 6000.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 618,
+        "totalPoints": 633,
         "results": [
+          {
+            "name": "Tour de Romandie - Stage 2",
+            "date": "1 May 2025",
+            "points": 15,
+            "rank": 6
+          },
           {
             "name": "Tour de Romandie - Prologue",
             "date": "29 Apr 2025",
@@ -568,8 +574,14 @@
         "id": 86938,
         "team": "SOQ",
         "country": "de",
-        "totalPoints": 527.29,
+        "totalPoints": 539.29,
         "results": [
+          {
+            "name": "Eschborn-Frankfurt",
+            "date": "1 May 2025",
+            "points": 12,
+            "rank": 29
+          },
           {
             "name": "Amstel Gold Race",
             "date": "20 Apr 2025",

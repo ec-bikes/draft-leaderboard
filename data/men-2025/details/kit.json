@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "30 April 2025 23:23 GMT",
+  "fetchedDate": "1 May 2025 23:23 GMT",
   "momentId": 190370,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 7185,
+    "totalPoints": 7210,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -114,8 +114,14 @@
         "id": 1721034,
         "team": "LTK",
         "country": "be",
-        "totalPoints": 728,
+        "totalPoints": 733,
         "results": [
+          {
+            "name": "Eschborn-Frankfurt",
+            "date": "1 May 2025",
+            "points": 5,
+            "rank": 35
+          },
           {
             "name": "Liège-Bastogne-Liège",
             "date": "27 Apr 2025",
@@ -394,8 +400,14 @@
         "id": 422863,
         "team": "COF",
         "country": "es",
-        "totalPoints": 639,
+        "totalPoints": 659,
         "results": [
+          {
+            "name": "Eschborn-Frankfurt",
+            "date": "1 May 2025",
+            "points": 20,
+            "rank": 18
+          },
           {
             "name": "Liège-Bastogne-Liège",
             "date": "27 Apr 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "30 April 2025 23:23 GMT",
+  "fetchedDate": "1 May 2025 23:23 GMT",
   "momentId": 190370,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 6628.42,
+    "totalPoints": 6633.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -412,8 +412,14 @@
         "id": 482927,
         "team": "TPP",
         "country": "dk",
-        "totalPoints": 228,
+        "totalPoints": 233,
         "results": [
+          {
+            "name": "Eschborn-Frankfurt",
+            "date": "1 May 2025",
+            "points": 5,
+            "rank": 41
+          },
           {
             "name": "Classic Brugge-De Panne ME",
             "date": "26 Mar 2025",
