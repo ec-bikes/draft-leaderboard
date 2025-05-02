@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 May 2025 23:23 GMT",
+  "fetchedDate": "2 May 2025 23:22 GMT",
   "momentId": 190370,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 6633.42,
+    "totalPoints": 6653.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -596,8 +596,14 @@
         "id": 86630,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 65,
+        "totalPoints": 85,
         "results": [
+          {
+            "name": "Tour de Romandie - Stage 3",
+            "date": "2 May 2025",
+            "points": 20,
+            "rank": 5
+          },
           {
             "name": "Milano-Sanremo",
             "date": "22 Mar 2025",
