@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 May 2025 23:22 GMT",
+  "fetchedDate": "3 May 2025 23:22 GMT",
   "momentId": 190370,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 6050.25,
+    "totalPoints": 6120.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -387,8 +387,19 @@
         "sanctions": 25,
         "team": "TBV",
         "country": "fr",
-        "totalPoints": 703,
+        "totalPoints": 773,
         "results": [
+          {
+            "name": "Tour de Romandie - Stage 4",
+            "date": "3 May 2025",
+            "points": 60,
+            "rank": 1
+          },
+          {
+            "name": "Tour de Romandie - Stage 4 - Bonus",
+            "date": "3 May 2025",
+            "points": 10
+          },
           {
             "name": "Tour de Romandie - Stage 3",
             "date": "2 May 2025",

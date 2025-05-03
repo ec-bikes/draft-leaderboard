@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 May 2025 23:22 GMT",
+  "fetchedDate": "3 May 2025 23:22 GMT",
   "momentId": 190370,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 6017.57,
+    "totalPoints": 6037.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -114,8 +114,14 @@
         "id": 428096,
         "team": "IGD",
         "country": "es",
-        "totalPoints": 85.43,
+        "totalPoints": 105.43,
         "results": [
+          {
+            "name": "Tour de Romandie - Stage 4",
+            "date": "3 May 2025",
+            "points": 20,
+            "rank": 5
+          },
           {
             "name": "Liège-Bastogne-Liège",
             "date": "27 Apr 2025",

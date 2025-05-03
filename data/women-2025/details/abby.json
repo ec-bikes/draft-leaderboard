@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 May 2025 23:22 GMT",
+  "fetchedDate": "3 May 2025 23:22 GMT",
   "momentId": 190388,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 5073,
+    "totalPoints": 5123,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -477,8 +477,14 @@
         "id": 233425,
         "team": "VWT",
         "country": "nl",
-        "totalPoints": 58,
+        "totalPoints": 108,
         "results": [
+          {
+            "name": "GP Immo Zone/Vloer-en chapewerken Smetryns",
+            "date": "3 May 2025",
+            "points": 50,
+            "rank": 5
+          },
           {
             "name": "Ronde de Mouscron",
             "date": "21 Apr 2025",

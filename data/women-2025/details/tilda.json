@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 May 2025 23:22 GMT",
+  "fetchedDate": "3 May 2025 23:22 GMT",
   "momentId": 190388,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 6831,
+    "totalPoints": 6956,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -403,8 +403,14 @@
         "id": 96399,
         "team": "SDW",
         "country": "pl",
-        "totalPoints": 374,
+        "totalPoints": 499,
         "results": [
+          {
+            "name": "Festival Elsy Jacobs à Garnich",
+            "date": "3 May 2025",
+            "points": 125,
+            "rank": 1
+          },
           {
             "name": "Paris-Roubaix Femmes avec Zwift",
             "date": "12 Apr 2025",

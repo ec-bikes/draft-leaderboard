@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 May 2025 23:22 GMT",
+  "fetchedDate": "3 May 2025 23:22 GMT",
   "momentId": 190388,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 3254,
+    "totalPoints": 3324,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -404,8 +404,14 @@
         "id": 488553,
         "team": "CTC",
         "country": "ca",
-        "totalPoints": 187,
+        "totalPoints": 257,
         "results": [
+          {
+            "name": "Festival Elsy Jacobs à Garnich",
+            "date": "3 May 2025",
+            "points": 70,
+            "rank": 3
+          },
           {
             "name": "Ronde de Mouscron",
             "date": "21 Apr 2025",

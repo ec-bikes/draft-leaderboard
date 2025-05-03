@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 May 2025 23:22 GMT",
+  "fetchedDate": "3 May 2025 23:22 GMT",
   "momentId": 190370,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 4397.28,
+    "totalPoints": 4437.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -70,8 +70,14 @@
         "id": 107840,
         "team": "UAD",
         "country": "pt",
-        "totalPoints": 1193.57,
+        "totalPoints": 1233.57,
         "results": [
+          {
+            "name": "Tour de Romandie - Stage 4",
+            "date": "3 May 2025",
+            "points": 40,
+            "rank": 2
+          },
           {
             "name": "Tour de Romandie - Stage 3",
             "date": "2 May 2025",

@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 May 2025 23:22 GMT",
+  "fetchedDate": "3 May 2025 23:22 GMT",
   "momentId": 190370,
   "teams": [
     {
@@ -165,7 +165,7 @@
     {
       "owner": "Toms Skujiņš",
       "name": "Lidl-Trek-Bauer",
-      "totalPoints": 6050.25,
+      "totalPoints": 6120.25,
       "riders": [
         {
           "name": "Remco Evenepoel",
@@ -210,7 +210,7 @@
           "sanctions": 25,
           "team": "TBV",
           "country": "fr",
-          "totalPoints": 703
+          "totalPoints": 773
         },
         {
           "name": "Mathias Vacek",
@@ -247,7 +247,7 @@
     {
       "owner": "Dane Cash",
       "name": "Visma-Lease a Bike-Monster Energy",
-      "totalPoints": 6017.57,
+      "totalPoints": 6037.57,
       "riders": [
         {
           "name": "Jasper Philipsen",
@@ -268,7 +268,7 @@
           "id": 428096,
           "team": "IGD",
           "country": "es",
-          "totalPoints": 85.43
+          "totalPoints": 105.43
         },
         {
           "name": "Juan Ayuso",
@@ -565,7 +565,7 @@
     {
       "owner": "Andrew (member)",
       "name": "Groupama-FDJ-Tourtel Twist",
-      "totalPoints": 4397.28,
+      "totalPoints": 4437.28,
       "riders": [
         {
           "name": "Adam Yates",
@@ -579,7 +579,7 @@
           "id": 107840,
           "team": "UAD",
           "country": "pt",
-          "totalPoints": 1193.57
+          "totalPoints": 1233.57
         },
         {
           "name": "Olav Kooij",
