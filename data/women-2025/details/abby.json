@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 May 2025 23:22 GMT",
+  "fetchedDate": "4 May 2025 23:22 GMT",
   "momentId": 190388,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 5123,
+    "totalPoints": 5140.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -81,8 +81,14 @@
         "id": 31144,
         "team": "TVL",
         "country": "nl",
-        "totalPoints": 934,
+        "totalPoints": 934.86,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
+            "date": "4 May 2025",
+            "points": 0.86,
+            "rank": 10
+          },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "20 Apr 2025",
@@ -126,8 +132,14 @@
         "id": 153350,
         "team": "TPP",
         "country": "gb",
-        "totalPoints": 300,
+        "totalPoints": 302.57,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
+            "date": "4 May 2025",
+            "points": 2.57,
+            "rank": 6
+          },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "20 Apr 2025",
@@ -285,8 +297,14 @@
         "id": 237690,
         "team": "LTK",
         "country": "gb",
-        "totalPoints": 267,
+        "totalPoints": 274.14,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
+            "date": "4 May 2025",
+            "points": 7.14,
+            "rank": 1
+          },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "20 Apr 2025",
@@ -393,8 +411,14 @@
         "id": 228375,
         "team": "LTK",
         "country": "nl",
-        "totalPoints": 40,
+        "totalPoints": 47.14,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
+            "date": "4 May 2025",
+            "points": 7.14,
+            "rank": 1
+          },
           {
             "name": "La Flèche Wallonne Féminine",
             "date": "23 Apr 2025",

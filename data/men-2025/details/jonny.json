@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 May 2025 23:22 GMT",
+  "fetchedDate": "4 May 2025 23:22 GMT",
   "momentId": 190370,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 4793.14,
+    "totalPoints": 4843.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -189,8 +189,14 @@
         "id": 1710249,
         "team": "TPP",
         "country": "gb",
-        "totalPoints": 752,
+        "totalPoints": 782,
         "results": [
+          {
+            "name": "Tour de Romandie - General classification",
+            "date": "4 May 2025",
+            "points": 30,
+            "rank": 16
+          },
           {
             "name": "Tour de Romandie - Stage 3",
             "date": "2 May 2025",
@@ -439,8 +445,14 @@
         "id": 32532,
         "team": "IGD",
         "country": "gb",
-        "totalPoints": 8,
+        "totalPoints": 28,
         "results": [
+          {
+            "name": "Tour de Romandie - General classification",
+            "date": "4 May 2025",
+            "points": 20,
+            "rank": 28
+          },
           {
             "name": "Volta Ciclista a Catalunya - General classification",
             "date": "30 Mar 2025",

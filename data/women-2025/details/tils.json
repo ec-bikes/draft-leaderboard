@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 May 2025 23:22 GMT",
+  "fetchedDate": "4 May 2025 23:22 GMT",
   "momentId": 190388,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 4772,
+    "totalPoints": 4797.14,
     "riders": [
       {
         "name": "Liane Lippert",
         "id": 140495,
         "team": "MOV",
         "country": "de",
-        "totalPoints": 741,
+        "totalPoints": 743.14,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
+            "date": "4 May 2025",
+            "points": 2.14,
+            "rank": 7
+          },
           {
             "name": "Liège-Bastogne-Liège Femmes",
             "date": "27 Apr 2025",
@@ -100,8 +106,14 @@
         "id": 59726,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 623,
+        "totalPoints": 628.71,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
+            "date": "4 May 2025",
+            "points": 5.71,
+            "rank": 2
+          },
           {
             "name": "Liège-Bastogne-Liège Femmes",
             "date": "27 Apr 2025",
@@ -151,8 +163,14 @@
         "id": 1589305,
         "team": "MOV",
         "country": "ch",
-        "totalPoints": 527,
+        "totalPoints": 529.14,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
+            "date": "4 May 2025",
+            "points": 2.14,
+            "rank": 7
+          },
           {
             "name": "Liège-Bastogne-Liège Femmes",
             "date": "27 Apr 2025",
@@ -214,8 +232,14 @@
         "id": 220562,
         "team": "TFS",
         "country": "nz",
-        "totalPoints": 931,
+        "totalPoints": 934.57,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
+            "date": "4 May 2025",
+            "points": 3.57,
+            "rank": 4
+          },
           {
             "name": "Gent-Wevelgem In Flanders Fields WE",
             "date": "30 Mar 2025",
@@ -277,8 +301,14 @@
         "id": 1987823,
         "team": "CSZ",
         "country": "au",
-        "totalPoints": 157,
+        "totalPoints": 159.86,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
+            "date": "4 May 2025",
+            "points": 2.86,
+            "rank": 5
+          },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "20 Apr 2025",
@@ -304,8 +334,14 @@
         "id": 2317617,
         "team": "MOV",
         "country": "gb",
-        "totalPoints": 348,
+        "totalPoints": 350.14,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
+            "date": "4 May 2025",
+            "points": 2.14,
+            "rank": 7
+          },
           {
             "name": "De Brabantse Pijl - La Flèche Brabançonne WE",
             "date": "18 Apr 2025",
@@ -346,8 +382,14 @@
         "id": 1688341,
         "team": "EFO",
         "country": "us",
-        "totalPoints": 21,
+        "totalPoints": 22.43,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
+            "date": "4 May 2025",
+            "points": 1.43,
+            "rank": 8
+          },
           {
             "name": "Liège-Bastogne-Liège Femmes",
             "date": "27 Apr 2025",
@@ -367,8 +409,14 @@
         "id": 153363,
         "team": "LIV",
         "country": "it",
-        "totalPoints": 301,
+        "totalPoints": 305.29,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
+            "date": "4 May 2025",
+            "points": 4.29,
+            "rank": 3
+          },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "20 Apr 2025",
@@ -418,8 +466,14 @@
         "id": 66298,
         "team": "TVL",
         "country": "fr",
-        "totalPoints": 1138,
+        "totalPoints": 1138.86,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
+            "date": "4 May 2025",
+            "points": 0.86,
+            "rank": 10
+          },
           {
             "name": "Liège-Bastogne-Liège Femmes",
             "date": "27 Apr 2025",

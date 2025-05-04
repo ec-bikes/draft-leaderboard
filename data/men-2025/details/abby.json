@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 May 2025 23:22 GMT",
+  "fetchedDate": "4 May 2025 23:22 GMT",
   "momentId": 190370,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 5919.29,
+    "totalPoints": 5939.29,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -374,8 +374,14 @@
         "id": 112351,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 170,
+        "totalPoints": 190,
         "results": [
+          {
+            "name": "Tour de Romandie - General classification",
+            "date": "4 May 2025",
+            "points": 20,
+            "rank": 30
+          },
           {
             "name": "Tour of Oman - General classification",
             "date": "12 Feb 2025",

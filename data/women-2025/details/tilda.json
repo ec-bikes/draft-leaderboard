@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 May 2025 23:22 GMT",
+  "fetchedDate": "4 May 2025 23:22 GMT",
   "momentId": 190388,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 6956,
+    "totalPoints": 6989.72,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -104,8 +104,14 @@
         "id": 109412,
         "team": "TFS",
         "country": "fr",
-        "totalPoints": 235,
+        "totalPoints": 238.57,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
+            "date": "4 May 2025",
+            "points": 3.57,
+            "rank": 4
+          },
           {
             "name": "Liège-Bastogne-Liège Femmes",
             "date": "27 Apr 2025",
@@ -337,8 +343,14 @@
         "id": 1742562,
         "team": "TVL",
         "country": "fr",
-        "totalPoints": 67,
+        "totalPoints": 67.86,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
+            "date": "4 May 2025",
+            "points": 0.86,
+            "rank": 10
+          },
           {
             "name": "Liège-Bastogne-Liège Femmes",
             "date": "27 Apr 2025",
@@ -403,8 +415,14 @@
         "id": 96399,
         "team": "SDW",
         "country": "pl",
-        "totalPoints": 499,
+        "totalPoints": 524,
         "results": [
+          {
+            "name": "Festival Elsy Jacobs à Luxembourg",
+            "date": "4 May 2025",
+            "points": 25,
+            "rank": 9
+          },
           {
             "name": "Festival Elsy Jacobs à Garnich",
             "date": "3 May 2025",
@@ -454,8 +472,14 @@
         "id": 398547,
         "team": "LIV",
         "country": "es",
-        "totalPoints": 382,
+        "totalPoints": 386.29,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
+            "date": "4 May 2025",
+            "points": 4.29,
+            "rank": 3
+          },
           {
             "name": "Milano-Sanremo Donne",
             "date": "22 Mar 2025",

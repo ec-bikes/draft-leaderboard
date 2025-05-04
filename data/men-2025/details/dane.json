@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 May 2025 23:22 GMT",
+  "fetchedDate": "4 May 2025 23:22 GMT",
   "momentId": 190370,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 6037.57,
+    "totalPoints": 6214.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -114,8 +114,14 @@
         "id": 428096,
         "team": "IGD",
         "country": "es",
-        "totalPoints": 105.43,
+        "totalPoints": 280.43,
         "results": [
+          {
+            "name": "Tour de Romandie - General classification",
+            "date": "4 May 2025",
+            "points": 175,
+            "rank": 6
+          },
           {
             "name": "Tour de Romandie - Stage 4",
             "date": "3 May 2025",
@@ -521,8 +527,14 @@
         "sanctions": 25,
         "team": "GFC",
         "country": "ch",
-        "totalPoints": 460,
+        "totalPoints": 462,
         "results": [
+          {
+            "name": "Tour de Romandie - Stage 5 (ITT)",
+            "date": "4 May 2025",
+            "points": 2,
+            "rank": 10
+          },
           {
             "name": "Tour de Romandie - Prologue",
             "date": "29 Apr 2025",

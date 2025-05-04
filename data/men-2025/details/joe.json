@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 May 2025 23:22 GMT",
+  "fetchedDate": "4 May 2025 23:22 GMT",
   "momentId": 190370,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 6653.42,
+    "totalPoints": 6731.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -243,8 +243,20 @@
         "id": 97280,
         "team": "RBH",
         "country": "ru",
-        "totalPoints": 51.71,
+        "totalPoints": 91.71,
         "results": [
+          {
+            "name": "Tour de Romandie - General classification",
+            "date": "4 May 2025",
+            "points": 20,
+            "rank": 24
+          },
+          {
+            "name": "Tour de Romandie - Stage 5 (ITT)",
+            "date": "4 May 2025",
+            "points": 20,
+            "rank": 5
+          },
           {
             "name": "Itzulia Basque Country - General classification",
             "date": "12 Apr 2025",
@@ -545,8 +557,14 @@
         "id": 154227,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 97,
+        "totalPoints": 102,
         "results": [
+          {
+            "name": "Tour de Romandie - General classification",
+            "date": "4 May 2025",
+            "points": 5,
+            "rank": 52
+          },
           {
             "name": "Liège-Bastogne-Liège",
             "date": "27 Apr 2025",
@@ -596,8 +614,20 @@
         "id": 86630,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 85,
+        "totalPoints": 118,
         "results": [
+          {
+            "name": "Tour de Romandie - General classification",
+            "date": "4 May 2025",
+            "points": 3,
+            "rank": 56
+          },
+          {
+            "name": "Tour de Romandie - Stage 5 (ITT)",
+            "date": "4 May 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Tour de Romandie - Stage 3",
             "date": "2 May 2025",
