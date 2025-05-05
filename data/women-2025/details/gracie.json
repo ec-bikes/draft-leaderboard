@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "4 May 2025 23:22 GMT",
+  "fetchedDate": "5 May 2025 23:22 GMT",
   "momentId": 190388,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 6944.57,
+    "totalPoints": 6952.57,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -374,8 +374,14 @@
         "sanctions": 5,
         "team": "EFO",
         "country": "fr",
-        "totalPoints": 385.43,
+        "totalPoints": 393.43,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 2",
+            "date": "5 May 2025",
+            "points": 8,
+            "rank": 9
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
             "date": "4 May 2025",

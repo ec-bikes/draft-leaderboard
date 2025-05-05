@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "4 May 2025 23:22 GMT",
+  "fetchedDate": "5 May 2025 23:22 GMT",
   "momentId": 190388,
   "team": {
     "owner": "Loren Rowney",
     "name": "(TBD)",
-    "totalPoints": 4837.58,
+    "totalPoints": 4857.58,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -310,8 +310,14 @@
         "id": 1897613,
         "team": "LIV",
         "country": "it",
-        "totalPoints": 565.29,
+        "totalPoints": 585.29,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 2",
+            "date": "5 May 2025",
+            "points": 20,
+            "rank": 5
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
             "date": "4 May 2025",
