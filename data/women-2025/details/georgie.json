@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 May 2025 23:22 GMT",
-  "momentId": 190388,
+  "fetchedDate": "6 May 2025 23:22 GMT",
+  "momentId": 190547,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 3399.85,
+    "totalPoints": 3409.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
         "id": 86824,
         "team": "CSZ",
         "country": "pl",
-        "totalPoints": 601.86,
+        "totalPoints": 611.86,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 3",
+            "date": "6 May 2025",
+            "points": 10,
+            "rank": 8
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 2",
             "date": "5 May 2025",
