@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 May 2025 23:22 GMT",
+  "fetchedDate": "7 May 2025 23:23 GMT",
   "momentId": 190547,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 5255.71,
+    "totalPoints": 5280.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -81,8 +81,14 @@
         "id": 31144,
         "team": "TVL",
         "country": "nl",
-        "totalPoints": 1024.86,
+        "totalPoints": 1064.86,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 4",
+            "date": "7 May 2025",
+            "points": 40,
+            "rank": 2
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 3",
             "date": "6 May 2025",
@@ -427,9 +433,10 @@
       {
         "name": "Shirin van Anrooij",
         "id": 228375,
+        "sanctions": 15,
         "team": "LTK",
         "country": "nl",
-        "totalPoints": 47.14,
+        "totalPoints": 32.14,
         "results": [
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",

@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 May 2025 23:22 GMT",
+  "fetchedDate": "7 May 2025 23:23 GMT",
   "momentId": 190547,
   "teams": [
     {
       "owner": "Loren Rowney",
       "name": "(TBD)",
-      "totalPoints": 4857.58,
+      "totalPoints": 4882.58,
       "riders": [
         {
           "name": "Lotte Kopecky",
@@ -63,7 +63,7 @@
           "id": 1897613,
           "team": "LIV",
           "country": "it",
-          "totalPoints": 585.29
+          "totalPoints": 610.29
         },
         {
           "name": "Clara Copponi",
@@ -85,7 +85,7 @@
     {
       "owner": "Abby Mickey",
       "name": "The Tortured Breakaway Department",
-      "totalPoints": 5255.71,
+      "totalPoints": 5280.71,
       "riders": [
         {
           "name": "Elisa Longo Borghini",
@@ -99,7 +99,7 @@
           "id": 31144,
           "team": "TVL",
           "country": "nl",
-          "totalPoints": 1024.86
+          "totalPoints": 1064.86
         },
         {
           "name": "Pfeiffer Georgi",
@@ -139,9 +139,10 @@
         {
           "name": "Shirin van Anrooij",
           "id": 228375,
+          "sanctions": 15,
           "team": "LTK",
           "country": "nl",
-          "totalPoints": 47.14
+          "totalPoints": 32.14
         },
         {
           "name": "Ingvild Gåskjenn",
@@ -163,14 +164,14 @@
     {
       "owner": "Gracie Elvin",
       "name": "Lamborghini p/b Tony's Chocolonely",
-      "totalPoints": 6977.57,
+      "totalPoints": 7027.57,
       "riders": [
         {
           "name": "Demi Vollering",
           "id": 151466,
           "team": "TFS",
           "country": "nl",
-          "totalPoints": 1795.57
+          "totalPoints": 1825.57
         },
         {
           "name": "Elisa Balsamo",
@@ -206,7 +207,7 @@
           "sanctions": 5,
           "team": "EFO",
           "country": "fr",
-          "totalPoints": 393.43
+          "totalPoints": 413.43
         },
         {
           "name": "Niamh Fisher-Black",
@@ -237,7 +238,7 @@
           "totalPoints": 265
         }
       ],
-      "movement": -1
+      "movement": 0
     },
     {
       "owner": "Tilda Price",
@@ -315,19 +316,19 @@
           "totalPoints": 336
         }
       ],
-      "movement": 1
+      "movement": 0
     },
     {
       "owner": "Georgie Howe",
       "name": "Specialized-Win-Collective Racing",
-      "totalPoints": 3409.85,
+      "totalPoints": 3423.85,
       "riders": [
         {
           "name": "Kasia Niewiadoma",
           "id": 86824,
           "team": "CSZ",
           "country": "pl",
-          "totalPoints": 611.86
+          "totalPoints": 619.86
         },
         {
           "name": "Silvia Persico",
@@ -391,7 +392,7 @@
           "id": 86854,
           "team": "LTK",
           "country": "nl",
-          "totalPoints": 55.14
+          "totalPoints": 61.14
         }
       ],
       "movement": 0
@@ -399,28 +400,28 @@
     {
       "owner": "Tils Raynolds",
       "name": "The Suffragettes Collective",
-      "totalPoints": 4886.14,
+      "totalPoints": 4964.14,
       "riders": [
         {
           "name": "Liane Lippert",
           "id": 140495,
           "team": "MOV",
           "country": "de",
-          "totalPoints": 743.14
+          "totalPoints": 761.14
         },
         {
           "name": "Anna van der Breggen",
           "id": 59726,
           "team": "SDW",
           "country": "nl",
-          "totalPoints": 628.71
+          "totalPoints": 678.71
         },
         {
           "name": "Marlen Reusser",
           "id": 1589305,
           "team": "MOV",
           "country": "ch",
-          "totalPoints": 529.14
+          "totalPoints": 539.14
         },
         {
           "name": "Ally Wollaston",
