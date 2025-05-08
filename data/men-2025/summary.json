@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 May 2025 23:23 GMT",
+  "fetchedDate": "8 May 2025 23:23 GMT",
   "momentId": 190529,
   "teams": [
     {
       "owner": "Kit Nicholson",
       "name": "Picnic-Letterboxd",
-      "totalPoints": 7210,
+      "totalPoints": 7310,
       "riders": [
         {
           "name": "Tadej Pogačar",
@@ -65,14 +65,14 @@
           "id": 79522,
           "team": "DAT",
           "country": "fr",
-          "totalPoints": 0
+          "totalPoints": 85
         },
         {
           "name": "Alex Aranburu",
           "id": 422863,
           "team": "COF",
           "country": "es",
-          "totalPoints": 659
+          "totalPoints": 674
         },
         {
           "name": "Paul Lapeira",
@@ -87,7 +87,7 @@
     {
       "owner": "Jonny Long",
       "name": "Ineos Grenadiers-Greenpeace-Poundland",
-      "totalPoints": 4843.14,
+      "totalPoints": 4846.14,
       "riders": [
         {
           "name": "Jonas Vingegaard",
@@ -136,7 +136,7 @@
           "id": 91637,
           "team": "GFC",
           "country": "fr",
-          "totalPoints": 168
+          "totalPoints": 171
         },
         {
           "name": "Geraint Thomas",
@@ -400,7 +400,7 @@
           "totalPoints": 210
         }
       ],
-      "movement": -1
+      "movement": 0
     },
     {
       "owner": "Joe Lindsey",
@@ -560,7 +560,7 @@
           "totalPoints": 10
         }
       ],
-      "movement": 1
+      "movement": 0
     },
     {
       "owner": "Andrew (member)",

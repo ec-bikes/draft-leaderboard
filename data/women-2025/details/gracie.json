@@ -1,20 +1,31 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 May 2025 23:23 GMT",
+  "fetchedDate": "8 May 2025 23:23 GMT",
   "momentId": 190547,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 7027.57,
+    "totalPoints": 7108.57,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
         "team": "TFS",
         "country": "nl",
-        "totalPoints": 1825.57,
+        "totalPoints": 1883.57,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 5",
+            "date": "8 May 2025",
+            "points": 50,
+            "rank": 1
+          },
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 5 - Bonus",
+            "date": "8 May 2025",
+            "points": 8
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 4",
             "date": "7 May 2025",
@@ -386,8 +397,14 @@
         "sanctions": 5,
         "team": "EFO",
         "country": "fr",
-        "totalPoints": 413.43,
+        "totalPoints": 431.43,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 5",
+            "date": "8 May 2025",
+            "points": 18,
+            "rank": 6
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 4",
             "date": "7 May 2025",
@@ -644,8 +661,14 @@
         "id": 98622,
         "team": "HPH",
         "country": "at",
-        "totalPoints": 265,
+        "totalPoints": 270,
         "results": [
+          {
+            "name": "Pointe du Raz Ladies Classic",
+            "date": "8 May 2025",
+            "points": 5,
+            "rank": 15
+          },
           {
             "name": "Scheldeprijs WE",
             "date": "9 Apr 2025",

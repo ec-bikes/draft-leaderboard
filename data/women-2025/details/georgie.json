@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 May 2025 23:23 GMT",
+  "fetchedDate": "8 May 2025 23:23 GMT",
   "momentId": 190547,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 3423.85,
+    "totalPoints": 3491.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -356,8 +356,14 @@
         "id": 97498,
         "team": "TFS",
         "country": "fr",
-        "totalPoints": 759.57,
+        "totalPoints": 769.57,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 5",
+            "date": "8 May 2025",
+            "points": 10,
+            "rank": 8
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
             "date": "4 May 2025",
@@ -446,8 +452,14 @@
         "id": 488553,
         "team": "CTC",
         "country": "ca",
-        "totalPoints": 307,
+        "totalPoints": 357,
         "results": [
+          {
+            "name": "Pointe du Raz Ladies Classic",
+            "date": "8 May 2025",
+            "points": 50,
+            "rank": 5
+          },
           {
             "name": "Festival Elsy Jacobs à Luxembourg",
             "date": "4 May 2025",
@@ -497,8 +509,14 @@
         "id": 86854,
         "team": "LTK",
         "country": "nl",
-        "totalPoints": 61.14,
+        "totalPoints": 69.14,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 5",
+            "date": "8 May 2025",
+            "points": 8,
+            "rank": 9
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 4",
             "date": "7 May 2025",

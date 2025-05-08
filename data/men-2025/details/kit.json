@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 May 2025 23:23 GMT",
+  "fetchedDate": "8 May 2025 23:23 GMT",
   "momentId": 190529,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 7210,
+    "totalPoints": 7310,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -392,16 +392,29 @@
         "id": 79522,
         "team": "DAT",
         "country": "fr",
-        "totalPoints": 0,
-        "results": []
+        "totalPoints": 85,
+        "results": [
+          {
+            "name": "Boucles de l'Aulne - Châteaulin",
+            "date": "8 May 2025",
+            "points": 85,
+            "rank": 2
+          }
+        ]
       },
       {
         "name": "Alex Aranburu",
         "id": 422863,
         "team": "COF",
         "country": "es",
-        "totalPoints": 659,
+        "totalPoints": 674,
         "results": [
+          {
+            "name": "Boucles de l'Aulne - Châteaulin",
+            "date": "8 May 2025",
+            "points": 15,
+            "rank": 11
+          },
           {
             "name": "Eschborn-Frankfurt",
             "date": "1 May 2025",
