@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 May 2025 23:23 GMT",
+  "fetchedDate": "9 May 2025 23:22 GMT",
   "momentId": 190529,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 6214.57,
+    "totalPoints": 6216.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -70,8 +70,14 @@
         "id": 88889,
         "team": "RBH",
         "country": "si",
-        "totalPoints": 588,
+        "totalPoints": 590,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 1",
+            "date": "9 May 2025",
+            "points": 2,
+            "rank": 15
+          },
           {
             "name": "Volta Ciclista a Catalunya - General classification",
             "date": "30 Mar 2025",

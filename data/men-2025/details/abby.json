@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 May 2025 23:23 GMT",
+  "fetchedDate": "9 May 2025 23:22 GMT",
   "momentId": 190529,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 5939.29,
+    "totalPoints": 6069.29,
     "riders": [
       {
         "name": "Wout van Aert",
         "id": 75859,
         "team": "TVL",
         "country": "be",
-        "totalPoints": 1638,
+        "totalPoints": 1768,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 1",
+            "date": "9 May 2025",
+            "points": 130,
+            "rank": 2
+          },
           {
             "name": "Amstel Gold Race",
             "date": "20 Apr 2025",

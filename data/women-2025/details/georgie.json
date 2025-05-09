@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 May 2025 23:23 GMT",
+  "fetchedDate": "9 May 2025 23:22 GMT",
   "momentId": 190547,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 3491.85,
+    "totalPoints": 3541.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -452,8 +452,14 @@
         "id": 488553,
         "team": "CTC",
         "country": "ca",
-        "totalPoints": 357,
+        "totalPoints": 407,
         "results": [
+          {
+            "name": "La Classique Morbihan",
+            "date": "9 May 2025",
+            "points": 50,
+            "rank": 5
+          },
           {
             "name": "Pointe du Raz Ladies Classic",
             "date": "8 May 2025",
