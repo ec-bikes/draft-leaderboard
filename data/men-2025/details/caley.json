@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 May 2025 23:22 GMT",
+  "fetchedDate": "10 May 2025 23:21 GMT",
   "momentId": 190529,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 5971.46,
+    "totalPoints": 5991.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -298,8 +298,14 @@
         "sanctions": 25,
         "team": "UAD",
         "country": "mx",
-        "totalPoints": 517,
+        "totalPoints": 532,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 2 (ITT)",
+            "date": "10 May 2025",
+            "points": 15,
+            "rank": 12
+          },
           {
             "name": "Itzulia Basque Country - General classification",
             "date": "12 Apr 2025",
@@ -385,8 +391,14 @@
         "id": 92264,
         "team": "RBH",
         "country": "co",
-        "totalPoints": 248,
+        "totalPoints": 253,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 2 (ITT)",
+            "date": "10 May 2025",
+            "points": 5,
+            "rank": 14
+          },
           {
             "name": "Liège-Bastogne-Liège",
             "date": "27 Apr 2025",

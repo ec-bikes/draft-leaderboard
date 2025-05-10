@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 May 2025 23:22 GMT",
+  "fetchedDate": "10 May 2025 23:21 GMT",
   "momentId": 190529,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 6976.42,
+    "totalPoints": 7051.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -70,8 +70,14 @@
         "id": 86895,
         "team": "LTK",
         "country": "dk",
-        "totalPoints": 2797.57,
+        "totalPoints": 2837.57,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 2 (ITT)",
+            "date": "10 May 2025",
+            "points": 40,
+            "rank": 7
+          },
           {
             "name": "Giro d'Italia - Stage 1",
             "date": "9 May 2025",
@@ -173,8 +179,14 @@
         "id": 150923,
         "team": "UAD",
         "country": "us",
-        "totalPoints": 304.57,
+        "totalPoints": 339.57,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 2 (ITT)",
+            "date": "10 May 2025",
+            "points": 35,
+            "rank": 8
+          },
           {
             "name": "Liège-Bastogne-Liège",
             "date": "27 Apr 2025",

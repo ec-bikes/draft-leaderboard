@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 May 2025 23:22 GMT",
+  "fetchedDate": "10 May 2025 23:21 GMT",
   "momentId": 190529,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 7385,
+    "totalPoints": 7585,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -398,8 +398,14 @@
         "id": 79522,
         "team": "DAT",
         "country": "fr",
-        "totalPoints": 85,
+        "totalPoints": 285,
         "results": [
+          {
+            "name": "Grand Prix du Morbihan",
+            "date": "10 May 2025",
+            "points": 200,
+            "rank": 1
+          },
           {
             "name": "Boucles de l'Aulne - Châteaulin",
             "date": "8 May 2025",

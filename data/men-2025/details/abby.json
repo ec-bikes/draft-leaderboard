@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 May 2025 23:22 GMT",
+  "fetchedDate": "10 May 2025 23:21 GMT",
   "momentId": 190529,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 6069.29,
+    "totalPoints": 6071.29,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -510,8 +510,14 @@
         "id": 109481,
         "team": "IGD",
         "country": "nl",
-        "totalPoints": 631.29,
+        "totalPoints": 633.29,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 2 (ITT)",
+            "date": "10 May 2025",
+            "points": 2,
+            "rank": 15
+          },
           {
             "name": "Tour of the Alps - General classification",
             "date": "25 Apr 2025",

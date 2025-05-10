@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 May 2025 23:22 GMT",
+  "fetchedDate": "10 May 2025 23:21 GMT",
   "momentId": 190529,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 6825.25,
+    "totalPoints": 6885.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -509,8 +509,14 @@
         "id": 472995,
         "team": "LTK",
         "country": "cz",
-        "totalPoints": 182.86,
+        "totalPoints": 242.86,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 2 (ITT)",
+            "date": "10 May 2025",
+            "points": 60,
+            "rank": 5
+          },
           {
             "name": "Omloop Nieuwsblad ME",
             "date": "1 Mar 2025",

@@ -1,20 +1,32 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 May 2025 23:22 GMT",
+  "fetchedDate": "10 May 2025 23:21 GMT",
   "momentId": 190547,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 7156.57,
+    "totalPoints": 8104.57,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
         "team": "TFS",
         "country": "nl",
-        "totalPoints": 1891.57,
+        "totalPoints": 2341.57,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - General classification",
+            "date": "10 May 2025",
+            "points": 400,
+            "rank": 1
+          },
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 7",
+            "date": "10 May 2025",
+            "points": 50,
+            "rank": 1
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 6 - Bonus",
             "date": "9 May 2025",
@@ -275,8 +287,14 @@
         "id": 227721,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 682.71,
+        "totalPoints": 690.71,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - General classification",
+            "date": "10 May 2025",
+            "points": 8,
+            "rank": 33
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 6",
             "date": "9 May 2025",
@@ -408,8 +426,20 @@
         "sanctions": 5,
         "team": "EFO",
         "country": "fr",
-        "totalPoints": 431.43,
+        "totalPoints": 676.43,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - General classification",
+            "date": "10 May 2025",
+            "points": 220,
+            "rank": 4
+          },
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 7",
+            "date": "10 May 2025",
+            "points": 25,
+            "rank": 4
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 5",
             "date": "8 May 2025",
@@ -495,8 +525,20 @@
         "id": 217072,
         "team": "LTK",
         "country": "nz",
-        "totalPoints": 597.14,
+        "totalPoints": 757.14,
         "results": [
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - General classification",
+            "date": "10 May 2025",
+            "points": 140,
+            "rank": 6
+          },
+          {
+            "name": "Vuelta España Femenina by Carrefour.es - Stage 7",
+            "date": "10 May 2025",
+            "points": 20,
+            "rank": 5
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
             "date": "4 May 2025",
@@ -597,8 +639,14 @@
         "id": 1638135,
         "team": "TFS",
         "country": "ch",
-        "totalPoints": 663,
+        "totalPoints": 748,
         "results": [
+          {
+            "name": "Grand Prix du Morbihan Femmes",
+            "date": "10 May 2025",
+            "points": 85,
+            "rank": 2
+          },
           {
             "name": "Liège-Bastogne-Liège Femmes",
             "date": "27 Apr 2025",
