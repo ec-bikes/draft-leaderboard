@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 May 2025 23:21 GMT",
+  "fetchedDate": "11 May 2025 23:22 GMT",
   "momentId": 190547,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 5370.71,
+    "totalPoints": 5373.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -550,8 +550,14 @@
         "id": 233425,
         "team": "VWT",
         "country": "nl",
-        "totalPoints": 108,
+        "totalPoints": 111,
         "results": [
+          {
+            "name": "Trofee Maarten Wynants",
+            "date": "11 May 2025",
+            "points": 3,
+            "rank": 16
+          },
           {
             "name": "GP Immo Zone/Vloer-en chapewerken Smetryns",
             "date": "3 May 2025",

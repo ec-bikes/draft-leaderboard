@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 May 2025 23:21 GMT",
+  "fetchedDate": "11 May 2025 23:22 GMT",
   "momentId": 190529,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 4861.14,
+    "totalPoints": 5016.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -382,8 +382,14 @@
         "id": 91637,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 171,
+        "totalPoints": 296,
         "results": [
+          {
+            "name": "Tro-Bro Léon",
+            "date": "11 May 2025",
+            "points": 125,
+            "rank": 3
+          },
           {
             "name": "Boucles de l'Aulne - Châteaulin",
             "date": "8 May 2025",
@@ -472,8 +478,14 @@
         "id": 144019,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 841,
+        "totalPoints": 871,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 3",
+            "date": "11 May 2025",
+            "points": 30,
+            "rank": 9
+          },
           {
             "name": "Liège-Bastogne-Liège",
             "date": "27 Apr 2025",

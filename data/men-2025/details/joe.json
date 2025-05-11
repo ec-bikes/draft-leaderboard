@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 May 2025 23:21 GMT",
+  "fetchedDate": "11 May 2025 23:22 GMT",
   "momentId": 190529,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 7051.42,
+    "totalPoints": 7269.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -70,8 +70,19 @@
         "id": 86895,
         "team": "LTK",
         "country": "dk",
-        "totalPoints": 2837.57,
+        "totalPoints": 3037.57,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 3",
+            "date": "11 May 2025",
+            "points": 180,
+            "rank": 1
+          },
+          {
+            "name": "Giro d'Italia - Stage 3 - Bonus",
+            "date": "11 May 2025",
+            "points": 20
+          },
           {
             "name": "Giro d'Italia - Stage 2 (ITT)",
             "date": "10 May 2025",
@@ -517,8 +528,14 @@
         "sanctions": 15,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 241,
+        "totalPoints": 256,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 3",
+            "date": "11 May 2025",
+            "points": 15,
+            "rank": 12
+          },
           {
             "name": "Giro d'Italia - Stage 1",
             "date": "9 May 2025",
@@ -643,8 +660,14 @@
         "id": 86630,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 118,
+        "totalPoints": 121,
         "results": [
+          {
+            "name": "Tro-Bro Léon",
+            "date": "11 May 2025",
+            "points": 3,
+            "rank": 38
+          },
           {
             "name": "Tour de Romandie - General classification",
             "date": "4 May 2025",

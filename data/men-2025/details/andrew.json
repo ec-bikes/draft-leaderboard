@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 May 2025 23:21 GMT",
+  "fetchedDate": "11 May 2025 23:22 GMT",
   "momentId": 190529,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 5132.28,
+    "totalPoints": 5167.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -270,8 +270,14 @@
         "id": 1745291,
         "team": "ARK",
         "country": "fr",
-        "totalPoints": 949,
+        "totalPoints": 984,
         "results": [
+          {
+            "name": "Tro-Bro Léon",
+            "date": "11 May 2025",
+            "points": 35,
+            "rank": 10
+          },
           {
             "name": "Grand Prix du Morbihan",
             "date": "10 May 2025",
