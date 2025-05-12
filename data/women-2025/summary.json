@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 May 2025 23:22 GMT",
+  "fetchedDate": "12 May 2025 23:22 GMT",
   "momentId": 190547,
   "teams": [
     {
@@ -80,7 +80,7 @@
           "totalPoints": 529.29
         }
       ],
-      "movement": -1
+      "movement": 0
     },
     {
       "owner": "Abby Mickey",
@@ -475,7 +475,7 @@
           "totalPoints": 1138.86
         }
       ],
-      "movement": 2
+      "movement": 1
     }
   ]
 }
