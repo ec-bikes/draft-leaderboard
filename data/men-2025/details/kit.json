@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 May 2025 23:23 GMT",
-  "momentId": 190529,
+  "fetchedDate": "13 May 2025 23:23 GMT",
+  "momentId": 190691,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 7585,
+    "totalPoints": 7645,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -320,8 +320,14 @@
         "sanctions": 20,
         "team": "ADC",
         "country": "au",
-        "totalPoints": 395,
+        "totalPoints": 455,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 4",
+            "date": "13 May 2025",
+            "points": 60,
+            "rank": 5
+          },
           {
             "name": "Volta Ciclista a Catalunya - Stage 2",
             "date": "25 Mar 2025",

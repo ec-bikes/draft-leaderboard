@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 May 2025 23:23 GMT",
-  "momentId": 190529,
+  "fetchedDate": "13 May 2025 23:23 GMT",
+  "momentId": 190691,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 6885.25,
+    "totalPoints": 6905.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -558,8 +558,14 @@
         "id": 1714193,
         "team": "COF",
         "country": "be",
-        "totalPoints": 733,
+        "totalPoints": 753,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 4",
+            "date": "13 May 2025",
+            "points": 20,
+            "rank": 11
+          },
           {
             "name": "Ronde van Limburg",
             "date": "16 Apr 2025",

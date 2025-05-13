@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 May 2025 23:23 GMT",
-  "momentId": 190529,
+  "fetchedDate": "13 May 2025 23:23 GMT",
+  "momentId": 190691,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 5155.38,
+    "totalPoints": 5195.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -414,8 +414,14 @@
         "id": 1759987,
         "team": "SOQ",
         "country": "fr",
-        "totalPoints": 543,
+        "totalPoints": 583,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 4",
+            "date": "13 May 2025",
+            "points": 40,
+            "rank": 7
+          },
           {
             "name": "Gent-Wevelgem in Flanders Fields ME",
             "date": "30 Mar 2025",

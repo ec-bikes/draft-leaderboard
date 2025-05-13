@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 May 2025 23:23 GMT",
-  "momentId": 190529,
+  "fetchedDate": "13 May 2025 23:23 GMT",
+  "momentId": 190691,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 6071.29,
+    "totalPoints": 6221.29,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -76,8 +76,14 @@
         "id": 1707195,
         "team": "IWA",
         "country": "er",
-        "totalPoints": 497,
+        "totalPoints": 647,
         "results": [
+          {
+            "name": "Classique Dunkerque / Grand prix des Hauts de France",
+            "date": "13 May 2025",
+            "points": 150,
+            "rank": 2
+          },
           {
             "name": "Ronde van Limburg",
             "date": "16 Apr 2025",
