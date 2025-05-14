@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "13 May 2025 23:23 GMT",
+  "fetchedDate": "14 May 2025 23:22 GMT",
   "momentId": 190691,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 5195.38,
+    "totalPoints": 5205.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
         "id": 72932,
         "team": "JAY",
         "country": "nl",
-        "totalPoints": 111,
+        "totalPoints": 121,
         "results": [
+          {
+            "name": "Tour de Hongrie - Stage 1",
+            "date": "14 May 2025",
+            "points": 10,
+            "rank": 3
+          },
           {
             "name": "Scheldeprijs ME",
             "date": "9 Apr 2025",

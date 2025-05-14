@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "13 May 2025 23:23 GMT",
+  "fetchedDate": "14 May 2025 23:22 GMT",
   "momentId": 190691,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 6391.57,
+    "totalPoints": 6406.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -70,8 +70,14 @@
         "id": 88889,
         "team": "RBH",
         "country": "si",
-        "totalPoints": 740,
+        "totalPoints": 755,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 5",
+            "date": "14 May 2025",
+            "points": 15,
+            "rank": 12
+          },
           {
             "name": "Giro d'Italia - Stage 2 (ITT)",
             "date": "10 May 2025",

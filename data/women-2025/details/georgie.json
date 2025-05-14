@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "13 May 2025 23:23 GMT",
+  "fetchedDate": "14 May 2025 23:22 GMT",
   "momentId": 190709,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 3889.85,
+    "totalPoints": 3904.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -163,8 +163,14 @@
         "id": 2188959,
         "team": "CSZ",
         "country": "de",
-        "totalPoints": 197,
+        "totalPoints": 202,
         "results": [
+          {
+            "name": "Navarra Women's Elite Classic",
+            "date": "14 May 2025",
+            "points": 5,
+            "rank": 23
+          },
           {
             "name": "Liège-Bastogne-Liège Femmes",
             "date": "27 Apr 2025",
@@ -265,8 +271,14 @@
         "id": 106168,
         "team": "UAD",
         "country": "au",
-        "totalPoints": 148,
+        "totalPoints": 158,
         "results": [
+          {
+            "name": "Navarra Women's Elite Classic",
+            "date": "14 May 2025",
+            "points": 10,
+            "rank": 15
+          },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "20 Apr 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "13 May 2025 23:23 GMT",
+  "fetchedDate": "14 May 2025 23:22 GMT",
   "momentId": 190709,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 5724.14,
+    "totalPoints": 5924.14,
     "riders": [
       {
         "name": "Liane Lippert",
@@ -400,8 +400,14 @@
         "id": 2317617,
         "team": "MOV",
         "country": "gb",
-        "totalPoints": 373.14,
+        "totalPoints": 573.14,
         "results": [
+          {
+            "name": "Navarra Women's Elite Classic",
+            "date": "14 May 2025",
+            "points": 200,
+            "rank": 1
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 6",
             "date": "9 May 2025",

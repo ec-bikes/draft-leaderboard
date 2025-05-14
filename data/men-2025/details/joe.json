@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "13 May 2025 23:23 GMT",
+  "fetchedDate": "14 May 2025 23:22 GMT",
   "momentId": 190691,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 7429.42,
+    "totalPoints": 7671.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -70,8 +70,19 @@
         "id": 86895,
         "team": "LTK",
         "country": "dk",
-        "totalPoints": 3137.57,
+        "totalPoints": 3337.57,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 5",
+            "date": "14 May 2025",
+            "points": 180,
+            "rank": 1
+          },
+          {
+            "name": "Giro d'Italia - Stage 5 - Bonus",
+            "date": "14 May 2025",
+            "points": 20
+          },
           {
             "name": "Giro d'Italia - Stage 4",
             "date": "13 May 2025",
@@ -418,8 +429,19 @@
         "sanctions": 25,
         "team": "TVL",
         "country": "fr",
-        "totalPoints": 61.57,
+        "totalPoints": 86.57,
         "results": [
+          {
+            "name": "4 Jours de Dunkerque / Grand Prix des Hauts de France - Stage 1",
+            "date": "14 May 2025",
+            "points": 20,
+            "rank": 1
+          },
+          {
+            "name": "4 Jours de Dunkerque / Grand Prix des Hauts de France - Stage 1 - Bonus",
+            "date": "14 May 2025",
+            "points": 5
+          },
           {
             "name": "Itzulia Basque Country - Stage 2",
             "date": "8 Apr 2025",
@@ -469,8 +491,14 @@
         "id": 482927,
         "team": "TPP",
         "country": "dk",
-        "totalPoints": 293,
+        "totalPoints": 308,
         "results": [
+          {
+            "name": "4 Jours de Dunkerque / Grand Prix des Hauts de France - Stage 1",
+            "date": "14 May 2025",
+            "points": 15,
+            "rank": 2
+          },
           {
             "name": "Classique Dunkerque / Grand prix des Hauts de France",
             "date": "13 May 2025",
@@ -545,8 +573,14 @@
         "sanctions": 15,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 256,
+        "totalPoints": 258,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 5",
+            "date": "14 May 2025",
+            "points": 2,
+            "rank": 15
+          },
           {
             "name": "Giro d'Italia - Stage 3",
             "date": "11 May 2025",

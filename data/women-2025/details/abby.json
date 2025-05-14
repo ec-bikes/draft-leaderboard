@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "13 May 2025 23:23 GMT",
+  "fetchedDate": "14 May 2025 23:22 GMT",
   "momentId": 190709,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 5373.71,
+    "totalPoints": 5403.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -219,8 +219,14 @@
         "id": 98571,
         "team": "UAD",
         "country": "nl",
-        "totalPoints": 780,
+        "totalPoints": 810,
         "results": [
+          {
+            "name": "Navarra Women's Elite Classic",
+            "date": "14 May 2025",
+            "points": 30,
+            "rank": 11
+          },
           {
             "name": "Gent-Wevelgem In Flanders Fields WE",
             "date": "30 Mar 2025",

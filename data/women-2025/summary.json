@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "13 May 2025 23:23 GMT",
+  "fetchedDate": "14 May 2025 23:22 GMT",
   "momentId": 190709,
   "teams": [
     {
       "owner": "Loren Rowney",
       "name": "(TBD)",
-      "totalPoints": 5025.58,
+      "totalPoints": 5100.58,
       "riders": [
         {
           "name": "Lotte Kopecky",
@@ -21,7 +21,7 @@
           "id": 86838,
           "team": "CSZ",
           "country": "dk",
-          "totalPoints": 45
+          "totalPoints": 50
         },
         {
           "name": "Kim le Court",
@@ -63,7 +63,7 @@
           "id": 1897613,
           "team": "LIV",
           "country": "it",
-          "totalPoints": 745.29
+          "totalPoints": 815.29
         },
         {
           "name": "Clara Copponi",
@@ -85,7 +85,7 @@
     {
       "owner": "Abby Mickey",
       "name": "The Tortured Breakaway Department",
-      "totalPoints": 5373.71,
+      "totalPoints": 5403.71,
       "riders": [
         {
           "name": "Elisa Longo Borghini",
@@ -113,7 +113,7 @@
           "id": 98571,
           "team": "UAD",
           "country": "nl",
-          "totalPoints": 780
+          "totalPoints": 810
         },
         {
           "name": "Charlotte Kool",
@@ -238,7 +238,7 @@
           "totalPoints": 270
         }
       ],
-      "movement": 1
+      "movement": 0
     },
     {
       "owner": "Tilda Price",
@@ -316,12 +316,12 @@
           "totalPoints": 336
         }
       ],
-      "movement": -1
+      "movement": 0
     },
     {
       "owner": "Georgie Howe",
       "name": "Specialized-Win-Collective Racing",
-      "totalPoints": 3889.85,
+      "totalPoints": 3904.85,
       "riders": [
         {
           "name": "Kasia Niewiadoma",
@@ -342,7 +342,7 @@
           "id": 2188959,
           "team": "CSZ",
           "country": "de",
-          "totalPoints": 197
+          "totalPoints": 202
         },
         {
           "name": "Thalita de Jong",
@@ -356,7 +356,7 @@
           "id": 106168,
           "team": "UAD",
           "country": "au",
-          "totalPoints": 148
+          "totalPoints": 158
         },
         {
           "name": "Lily Williams",
@@ -400,7 +400,7 @@
     {
       "owner": "Tils Raynolds",
       "name": "The Suffragettes Collective",
-      "totalPoints": 5724.14,
+      "totalPoints": 5924.14,
       "riders": [
         {
           "name": "Liane Lippert",
@@ -442,7 +442,7 @@
           "id": 2317617,
           "team": "MOV",
           "country": "gb",
-          "totalPoints": 373.14
+          "totalPoints": 573.14
         },
         {
           "name": "Gaia Realini",
