@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 May 2025 23:22 GMT",
+  "fetchedDate": "15 May 2025 23:23 GMT",
   "momentId": 190691,
   "teams": [
     {
       "owner": "Kit Nicholson",
       "name": "Picnic-Letterboxd",
-      "totalPoints": 7665,
+      "totalPoints": 7845,
       "riders": [
         {
           "name": "Tadej Pogačar",
@@ -51,7 +51,7 @@
           "sanctions": 20,
           "team": "ADC",
           "country": "au",
-          "totalPoints": 455
+          "totalPoints": 635
         },
         {
           "name": "Richard Carapaz",
@@ -82,7 +82,7 @@
           "totalPoints": 100
         }
       ],
-      "movement": -1
+      "movement": 0
     },
     {
       "owner": "Jonny Long",
@@ -165,7 +165,7 @@
     {
       "owner": "Toms Skujiņš",
       "name": "Lidl-Trek-Bauer",
-      "totalPoints": 6905.25,
+      "totalPoints": 7035.25,
       "riders": [
         {
           "name": "Remco Evenepoel",
@@ -224,7 +224,7 @@
           "id": 1714193,
           "team": "COF",
           "country": "be",
-          "totalPoints": 753
+          "totalPoints": 883
         },
         {
           "name": "Max Schachmann",
@@ -405,7 +405,7 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 7671.42,
+      "totalPoints": 7701.42,
       "riders": [
         {
           "name": "Mathieu van der Poel",
@@ -419,7 +419,7 @@
           "id": 86895,
           "team": "LTK",
           "country": "dk",
-          "totalPoints": 3337.57
+          "totalPoints": 3357.57
         },
         {
           "name": "Brandon McNulty",
@@ -448,7 +448,7 @@
           "sanctions": 25,
           "team": "TVL",
           "country": "fr",
-          "totalPoints": 86.57
+          "totalPoints": 96.57
         },
         {
           "name": "Tobias Andresen",
@@ -480,7 +480,7 @@
           "totalPoints": 121
         }
       ],
-      "movement": 2
+      "movement": 1
     },
     {
       "owner": "Caley Fretz",
@@ -565,7 +565,7 @@
     {
       "owner": "Andrew (member)",
       "name": "Groupama-FDJ-Tourtel Twist",
-      "totalPoints": 5297.28,
+      "totalPoints": 5322.28,
       "riders": [
         {
           "name": "Adam Yates",
@@ -586,7 +586,7 @@
           "id": 227110,
           "team": "TVL",
           "country": "nl",
-          "totalPoints": 640
+          "totalPoints": 665
         },
         {
           "name": "Kévin Vauquelin",
@@ -643,14 +643,14 @@
     {
       "owner": "Discord Undrafted",
       "name": "Team Movistar easyJet",
-      "totalPoints": 5205.38,
+      "totalPoints": 5315.38,
       "riders": [
         {
           "name": "Dylan Groenewegen",
           "id": 72932,
           "team": "JAY",
           "country": "nl",
-          "totalPoints": 121
+          "totalPoints": 136
         },
         {
           "name": "Matej Mohorič",
@@ -693,7 +693,7 @@
           "id": 1759987,
           "team": "SOQ",
           "country": "fr",
-          "totalPoints": 583
+          "totalPoints": 678
         },
         {
           "name": "Mauro Schmid",
