@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 May 2025 23:23 GMT",
+  "fetchedDate": "16 May 2025 23:22 GMT",
   "momentId": 190691,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 7701.42,
+    "totalPoints": 7721.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -434,8 +434,19 @@
         "sanctions": 25,
         "team": "TVL",
         "country": "fr",
-        "totalPoints": 96.57,
+        "totalPoints": 111.57,
         "results": [
+          {
+            "name": "4 Jours de Dunkerque / Grand Prix des Hauts de France - Stage 3",
+            "date": "16 May 2025",
+            "points": 10,
+            "rank": 3
+          },
+          {
+            "name": "4 Jours de Dunkerque / Grand Prix des Hauts de France - Stage 3 - Bonus",
+            "date": "16 May 2025",
+            "points": 5
+          },
           {
             "name": "4 Jours de Dunkerque / Grand Prix des Hauts de France - Stage 2",
             "date": "15 May 2025",
@@ -507,8 +518,14 @@
         "id": 482927,
         "team": "TPP",
         "country": "dk",
-        "totalPoints": 308,
+        "totalPoints": 313,
         "results": [
+          {
+            "name": "4 Jours de Dunkerque / Grand Prix des Hauts de France - Stage 3",
+            "date": "16 May 2025",
+            "points": 5,
+            "rank": 4
+          },
           {
             "name": "4 Jours de Dunkerque / Grand Prix des Hauts de France - Stage 1",
             "date": "14 May 2025",

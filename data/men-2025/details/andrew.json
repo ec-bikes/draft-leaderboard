@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 May 2025 23:23 GMT",
+  "fetchedDate": "16 May 2025 23:22 GMT",
   "momentId": 190691,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 5322.28,
+    "totalPoints": 5327.28,
     "riders": [
       {
         "name": "Adam Yates",
         "id": 70590,
         "team": "UAD",
         "country": "gb",
-        "totalPoints": 372,
+        "totalPoints": 377,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 7",
+            "date": "16 May 2025",
+            "points": 5,
+            "rank": 14
+          },
           {
             "name": "Volta Ciclista a Catalunya - General classification",
             "date": "30 Mar 2025",

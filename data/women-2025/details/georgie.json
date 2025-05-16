@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 May 2025 23:23 GMT",
+  "fetchedDate": "16 May 2025 23:22 GMT",
   "momentId": 190709,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 3904.85,
+    "totalPoints": 3934.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -214,8 +214,14 @@
         "id": 79176,
         "team": "HPH",
         "country": "nl",
-        "totalPoints": 309.14,
+        "totalPoints": 319.14,
         "results": [
+          {
+            "name": "Itzulia Women - Stage 1",
+            "date": "16 May 2025",
+            "points": 10,
+            "rank": 8
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
             "date": "10 May 2025",
@@ -488,8 +494,14 @@
         "id": 488553,
         "team": "CTC",
         "country": "ca",
-        "totalPoints": 437,
+        "totalPoints": 457,
         "results": [
+          {
+            "name": "Itzulia Women - Stage 1",
+            "date": "16 May 2025",
+            "points": 20,
+            "rank": 5
+          },
           {
             "name": "Grand Prix du Morbihan Femmes",
             "date": "10 May 2025",

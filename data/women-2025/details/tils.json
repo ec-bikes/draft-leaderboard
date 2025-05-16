@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 May 2025 23:23 GMT",
+  "fetchedDate": "16 May 2025 23:22 GMT",
   "momentId": 190709,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 5924.14,
+    "totalPoints": 5919.14,
     "riders": [
       {
         "name": "Liane Lippert",
@@ -110,9 +110,10 @@
       {
         "name": "Anna van der Breggen",
         "id": 59726,
+        "sanctions": 5,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 998.71,
+        "totalPoints": 993.71,
         "results": [
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",

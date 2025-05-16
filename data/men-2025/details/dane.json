@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 May 2025 23:23 GMT",
+  "fetchedDate": "16 May 2025 23:22 GMT",
   "momentId": 190691,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 6406.57,
+    "totalPoints": 6801.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -70,8 +70,19 @@
         "id": 88889,
         "team": "RBH",
         "country": "si",
-        "totalPoints": 755,
+        "totalPoints": 855,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 7",
+            "date": "16 May 2025",
+            "points": 80,
+            "rank": 4
+          },
+          {
+            "name": "Giro d'Italia - Stage 7 - Bonus",
+            "date": "16 May 2025",
+            "points": 20
+          },
           {
             "name": "Giro d'Italia - Stage 5",
             "date": "14 May 2025",
@@ -176,8 +187,14 @@
         "id": 415141,
         "team": "UAD",
         "country": "es",
-        "totalPoints": 1495,
+        "totalPoints": 1675,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 7",
+            "date": "16 May 2025",
+            "points": 180,
+            "rank": 1
+          },
           {
             "name": "Giro d'Italia - Stage 2 (ITT)",
             "date": "10 May 2025",
@@ -271,8 +288,14 @@
         "id": 1558112,
         "team": "TVL",
         "country": "gb",
-        "totalPoints": 126,
+        "totalPoints": 146,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 7",
+            "date": "16 May 2025",
+            "points": 20,
+            "rank": 11
+          },
           {
             "name": "Volta Ciclista a Catalunya - General classification",
             "date": "30 Mar 2025",
@@ -366,8 +389,14 @@
         "id": 95844,
         "team": "IGD",
         "country": "co",
-        "totalPoints": 278,
+        "totalPoints": 373,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 7",
+            "date": "16 May 2025",
+            "points": 95,
+            "rank": 3
+          },
           {
             "name": "Volta Ciclista a Catalunya - General classification",
             "date": "30 Mar 2025",

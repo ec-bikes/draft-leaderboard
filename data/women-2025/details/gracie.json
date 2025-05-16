@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 May 2025 23:23 GMT",
+  "fetchedDate": "16 May 2025 23:22 GMT",
   "momentId": 190709,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 8104.57,
+    "totalPoints": 8162.57,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -287,8 +287,19 @@
         "id": 227721,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 690.71,
+        "totalPoints": 748.71,
         "results": [
+          {
+            "name": "Itzulia Women - Stage 1",
+            "date": "16 May 2025",
+            "points": 50,
+            "rank": 1
+          },
+          {
+            "name": "Itzulia Women - Stage 1 - Bonus",
+            "date": "16 May 2025",
+            "points": 8
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
             "date": "10 May 2025",
