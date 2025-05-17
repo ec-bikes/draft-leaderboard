@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 May 2025 23:22 GMT",
+  "fetchedDate": "17 May 2025 23:22 GMT",
   "momentId": 190709,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 7171.72,
+    "totalPoints": 7174.72,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -424,8 +424,14 @@
         "id": 228141,
         "team": "UAD",
         "country": "nl",
-        "totalPoints": 78,
+        "totalPoints": 81,
         "results": [
+          {
+            "name": "Simac Omloop der Kempen Ladies",
+            "date": "17 May 2025",
+            "points": 3,
+            "rank": 16
+          },
           {
             "name": "Ronde de Mouscron",
             "date": "21 Apr 2025",

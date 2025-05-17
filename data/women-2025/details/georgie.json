@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 May 2025 23:22 GMT",
+  "fetchedDate": "17 May 2025 23:22 GMT",
   "momentId": 190709,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 3934.85,
+    "totalPoints": 3959.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -494,8 +494,14 @@
         "id": 488553,
         "team": "CTC",
         "country": "ca",
-        "totalPoints": 457,
+        "totalPoints": 482,
         "results": [
+          {
+            "name": "Itzulia Women - Stage 2",
+            "date": "17 May 2025",
+            "points": 25,
+            "rank": 4
+          },
           {
             "name": "Itzulia Women - Stage 1",
             "date": "16 May 2025",

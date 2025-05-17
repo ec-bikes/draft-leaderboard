@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 May 2025 23:22 GMT",
+  "fetchedDate": "17 May 2025 23:22 GMT",
   "momentId": 190691,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 6801.57,
+    "totalPoints": 6836.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -70,8 +70,14 @@
         "id": 88889,
         "team": "RBH",
         "country": "si",
-        "totalPoints": 855,
+        "totalPoints": 870,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 8",
+            "date": "17 May 2025",
+            "points": 15,
+            "rank": 12
+          },
           {
             "name": "Giro d'Italia - Stage 7",
             "date": "16 May 2025",
@@ -187,8 +193,14 @@
         "id": 415141,
         "team": "UAD",
         "country": "es",
-        "totalPoints": 1675,
+        "totalPoints": 1695,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 8",
+            "date": "17 May 2025",
+            "points": 20,
+            "rank": 11
+          },
           {
             "name": "Giro d'Italia - Stage 7",
             "date": "16 May 2025",

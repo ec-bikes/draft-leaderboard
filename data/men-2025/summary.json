@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 May 2025 23:22 GMT",
+  "fetchedDate": "17 May 2025 23:22 GMT",
   "momentId": 190691,
   "teams": [
     {
@@ -165,7 +165,7 @@
     {
       "owner": "Toms Skujiņš",
       "name": "Lidl-Trek-Bauer",
-      "totalPoints": 7095.25,
+      "totalPoints": 7100.25,
       "riders": [
         {
           "name": "Remco Evenepoel",
@@ -202,7 +202,7 @@
           "sanctions": 15,
           "team": "LTK",
           "country": "it",
-          "totalPoints": 1216
+          "totalPoints": 1221
         },
         {
           "name": "Lenny Martinez",
@@ -247,7 +247,7 @@
     {
       "owner": "Dane Cash",
       "name": "Visma-Lease a Bike-Monster Energy",
-      "totalPoints": 6801.57,
+      "totalPoints": 6836.57,
       "riders": [
         {
           "name": "Jasper Philipsen",
@@ -261,7 +261,7 @@
           "id": 88889,
           "team": "RBH",
           "country": "si",
-          "totalPoints": 855
+          "totalPoints": 870
         },
         {
           "name": "Carlos Rodriguez",
@@ -275,7 +275,7 @@
           "id": 415141,
           "team": "UAD",
           "country": "es",
-          "totalPoints": 1675
+          "totalPoints": 1695
         },
         {
           "name": "Simon Yates",
@@ -400,12 +400,12 @@
           "totalPoints": 210
         }
       ],
-      "movement": 0
+      "movement": -1
     },
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 7721.42,
+      "totalPoints": 7839.42,
       "riders": [
         {
           "name": "Mathieu van der Poel",
@@ -455,7 +455,7 @@
           "id": 482927,
           "team": "TPP",
           "country": "dk",
-          "totalPoints": 313
+          "totalPoints": 316
         },
         {
           "name": "Diego Ulissi",
@@ -463,7 +463,7 @@
           "sanctions": 15,
           "team": "XAT",
           "country": "it",
-          "totalPoints": 258
+          "totalPoints": 373
         },
         {
           "name": "Mauri Vansevenant",
@@ -485,7 +485,7 @@
     {
       "owner": "Caley Fretz",
       "name": "US Postal Service Bald Eagles",
-      "totalPoints": 6146.46,
+      "totalPoints": 6336.46,
       "riders": [
         {
           "name": "Matteo Jorgenson",
@@ -522,7 +522,7 @@
           "sanctions": 25,
           "team": "UAD",
           "country": "mx",
-          "totalPoints": 687
+          "totalPoints": 697
         },
         {
           "name": "Daniel Martínez",
@@ -550,7 +550,7 @@
           "id": 1557079,
           "team": "JAY",
           "country": "au",
-          "totalPoints": 342
+          "totalPoints": 522
         },
         {
           "name": "Kevin Vermaerke",
@@ -560,7 +560,7 @@
           "totalPoints": 10
         }
       ],
-      "movement": 0
+      "movement": 1
     },
     {
       "owner": "Andrew (member)",
@@ -638,19 +638,19 @@
           "totalPoints": 247
         }
       ],
-      "movement": 1
+      "movement": 0
     },
     {
       "owner": "Discord Undrafted",
       "name": "Team Movistar easyJet",
-      "totalPoints": 5315.38,
+      "totalPoints": 5335.38,
       "riders": [
         {
           "name": "Dylan Groenewegen",
           "id": 72932,
           "team": "JAY",
           "country": "nl",
-          "totalPoints": 136
+          "totalPoints": 156
         },
         {
           "name": "Matej Mohorič",
@@ -717,7 +717,7 @@
           "totalPoints": 232
         }
       ],
-      "movement": -1
+      "movement": 0
     }
   ]
 }

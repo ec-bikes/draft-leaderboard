@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 May 2025 23:22 GMT",
+  "fetchedDate": "17 May 2025 23:22 GMT",
   "momentId": 190709,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 5919.14,
+    "totalPoints": 5959.14,
     "riders": [
       {
         "name": "Liane Lippert",
         "id": 140495,
         "team": "MOV",
         "country": "de",
-        "totalPoints": 761.14,
+        "totalPoints": 801.14,
         "results": [
+          {
+            "name": "Itzulia Women - Stage 2",
+            "date": "17 May 2025",
+            "points": 40,
+            "rank": 2
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 4",
             "date": "7 May 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 May 2025 23:22 GMT",
+  "fetchedDate": "17 May 2025 23:22 GMT",
   "momentId": 190709,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 8162.57,
+    "totalPoints": 8258.57,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -287,8 +287,19 @@
         "id": 227721,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 748.71,
+        "totalPoints": 806.71,
         "results": [
+          {
+            "name": "Itzulia Women - Stage 2",
+            "date": "17 May 2025",
+            "points": 50,
+            "rank": 1
+          },
+          {
+            "name": "Itzulia Women - Stage 2 - Bonus",
+            "date": "17 May 2025",
+            "points": 8
+          },
           {
             "name": "Itzulia Women - Stage 1",
             "date": "16 May 2025",
@@ -391,8 +402,14 @@
         "id": 226974,
         "team": "CSZ",
         "country": "nl",
-        "totalPoints": 128.86,
+        "totalPoints": 131.86,
         "results": [
+          {
+            "name": "Simac Omloop der Kempen Ladies",
+            "date": "17 May 2025",
+            "points": 3,
+            "rank": 25
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
             "date": "4 May 2025",
@@ -731,8 +748,14 @@
         "id": 98622,
         "team": "HPH",
         "country": "at",
-        "totalPoints": 270,
+        "totalPoints": 305,
         "results": [
+          {
+            "name": "Simac Omloop der Kempen Ladies",
+            "date": "17 May 2025",
+            "points": 35,
+            "rank": 7
+          },
           {
             "name": "Pointe du Raz Ladies Classic",
             "date": "8 May 2025",

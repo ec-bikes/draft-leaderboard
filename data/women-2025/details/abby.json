@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 May 2025 23:22 GMT",
+  "fetchedDate": "17 May 2025 23:22 GMT",
   "momentId": 190709,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 5421.71,
+    "totalPoints": 5446.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -219,8 +219,14 @@
         "id": 98571,
         "team": "UAD",
         "country": "nl",
-        "totalPoints": 828,
+        "totalPoints": 838,
         "results": [
+          {
+            "name": "Itzulia Women - Stage 2",
+            "date": "17 May 2025",
+            "points": 10,
+            "rank": 8
+          },
           {
             "name": "Itzulia Women - Stage 1",
             "date": "16 May 2025",
@@ -466,8 +472,14 @@
         "sanctions": 15,
         "team": "LTK",
         "country": "nl",
-        "totalPoints": 56.14,
+        "totalPoints": 71.14,
         "results": [
+          {
+            "name": "Itzulia Women - Stage 2",
+            "date": "17 May 2025",
+            "points": 15,
+            "rank": 7
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
             "date": "10 May 2025",
