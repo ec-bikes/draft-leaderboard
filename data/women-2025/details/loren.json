@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "17 May 2025 23:22 GMT",
+  "fetchedDate": "18 May 2025 23:22 GMT",
   "momentId": 190709,
   "team": {
     "owner": "Loren Rowney",
     "name": "(TBD)",
-    "totalPoints": 5100.58,
+    "totalPoints": 5374.58,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -64,8 +64,14 @@
         "id": 86838,
         "team": "CSZ",
         "country": "dk",
-        "totalPoints": 50,
+        "totalPoints": 66,
         "results": [
+          {
+            "name": "Itzulia Women - General classification",
+            "date": "18 May 2025",
+            "points": 16,
+            "rank": 28
+          },
           {
             "name": "Navarra Women's Elite Classic",
             "date": "14 May 2025",
@@ -172,8 +178,20 @@
         "id": 2202121,
         "team": "AGS",
         "country": "be",
-        "totalPoints": 219,
+        "totalPoints": 469,
         "results": [
+          {
+            "name": "Itzulia Women - General classification",
+            "date": "18 May 2025",
+            "points": 220,
+            "rank": 4
+          },
+          {
+            "name": "Itzulia Women - Stage 3",
+            "date": "18 May 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
             "date": "10 May 2025",
@@ -223,8 +241,14 @@
         "id": 231378,
         "team": "LIV",
         "country": "nl",
-        "totalPoints": 701,
+        "totalPoints": 709,
         "results": [
+          {
+            "name": "Itzulia Women - General classification",
+            "date": "18 May 2025",
+            "points": 8,
+            "rank": 38
+          },
           {
             "name": "La Flèche Wallonne Féminine",
             "date": "23 Apr 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "17 May 2025 23:22 GMT",
+  "fetchedDate": "18 May 2025 23:22 GMT",
   "momentId": 190709,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 7174.72,
+    "totalPoints": 7447.72,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -104,8 +104,20 @@
         "id": 109412,
         "team": "TFS",
         "country": "fr",
-        "totalPoints": 316.57,
+        "totalPoints": 421.57,
         "results": [
+          {
+            "name": "Itzulia Women - General classification",
+            "date": "18 May 2025",
+            "points": 80,
+            "rank": 9
+          },
+          {
+            "name": "Itzulia Women - Stage 3",
+            "date": "18 May 2025",
+            "points": 25,
+            "rank": 4
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
             "date": "10 May 2025",
@@ -322,8 +334,14 @@
         "id": 79690,
         "team": "FDC",
         "country": "nl",
-        "totalPoints": 142,
+        "totalPoints": 182,
         "results": [
+          {
+            "name": "Itzulia Women - General classification",
+            "date": "18 May 2025",
+            "points": 40,
+            "rank": 13
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
             "date": "10 May 2025",
@@ -520,8 +538,20 @@
         "id": 398547,
         "team": "LIV",
         "country": "es",
-        "totalPoints": 410.29,
+        "totalPoints": 538.29,
         "results": [
+          {
+            "name": "Itzulia Women - General classification",
+            "date": "18 May 2025",
+            "points": 120,
+            "rank": 7
+          },
+          {
+            "name": "Itzulia Women - Stage 3",
+            "date": "18 May 2025",
+            "points": 8,
+            "rank": 9
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
             "date": "10 May 2025",

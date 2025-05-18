@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "17 May 2025 23:22 GMT",
+  "fetchedDate": "18 May 2025 23:22 GMT",
   "momentId": 190709,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 5446.71,
+    "totalPoints": 5454.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -472,8 +472,14 @@
         "sanctions": 15,
         "team": "LTK",
         "country": "nl",
-        "totalPoints": 71.14,
+        "totalPoints": 79.14,
         "results": [
+          {
+            "name": "Itzulia Women - General classification",
+            "date": "18 May 2025",
+            "points": 8,
+            "rank": 40
+          },
           {
             "name": "Itzulia Women - Stage 2",
             "date": "17 May 2025",

@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "17 May 2025 23:22 GMT",
+  "fetchedDate": "18 May 2025 23:22 GMT",
   "momentId": 190691,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 5327.28,
+    "totalPoints": 5352.28,
     "riders": [
       {
         "name": "Adam Yates",
         "id": 70590,
         "team": "UAD",
         "country": "gb",
-        "totalPoints": 377,
+        "totalPoints": 402,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 9",
+            "date": "18 May 2025",
+            "points": 25,
+            "rank": 10
+          },
           {
             "name": "Giro d'Italia - Stage 7",
             "date": "16 May 2025",

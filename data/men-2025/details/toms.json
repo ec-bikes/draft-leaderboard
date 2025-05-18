@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "17 May 2025 23:22 GMT",
+  "fetchedDate": "18 May 2025 23:22 GMT",
   "momentId": 190691,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 7100.25,
+    "totalPoints": 7200.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -312,8 +312,14 @@
         "sanctions": 15,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 1221,
+        "totalPoints": 1316,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 9",
+            "date": "18 May 2025",
+            "points": 95,
+            "rank": 3
+          },
           {
             "name": "Giro d'Italia - Stage 8",
             "date": "17 May 2025",
@@ -521,8 +527,14 @@
         "id": 472995,
         "team": "LTK",
         "country": "cz",
-        "totalPoints": 242.86,
+        "totalPoints": 247.86,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 9",
+            "date": "18 May 2025",
+            "points": 5,
+            "rank": 14
+          },
           {
             "name": "Giro d'Italia - Stage 2 (ITT)",
             "date": "10 May 2025",

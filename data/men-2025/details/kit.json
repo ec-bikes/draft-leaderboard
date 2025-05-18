@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "17 May 2025 23:22 GMT",
+  "fetchedDate": "18 May 2025 23:22 GMT",
   "momentId": 190691,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 7880,
+    "totalPoints": 7985,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -268,8 +268,14 @@
         "sanctions": 25,
         "team": "RBH",
         "country": "be",
-        "totalPoints": 160,
+        "totalPoints": 185,
         "results": [
+          {
+            "name": "Rund um Köln",
+            "date": "18 May 2025",
+            "points": 25,
+            "rank": 9
+          },
           {
             "name": "Paris-Roubaix",
             "date": "13 Apr 2025",
@@ -359,8 +365,14 @@
         "id": 91656,
         "team": "EFE",
         "country": "ec",
-        "totalPoints": 229,
+        "totalPoints": 309,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 9",
+            "date": "18 May 2025",
+            "points": 80,
+            "rank": 4
+          },
           {
             "name": "Giro d'Italia - Stage 7",
             "date": "16 May 2025",
