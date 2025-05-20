@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 May 2025 23:23 GMT",
-  "momentId": 190709,
+  "fetchedDate": "20 May 2025 23:22 GMT",
+  "momentId": 190871,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 7447.72,
+    "totalPoints": 7532.72,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -104,8 +104,14 @@
         "id": 109412,
         "team": "TFS",
         "country": "fr",
-        "totalPoints": 421.57,
+        "totalPoints": 506.57,
         "results": [
+          {
+            "name": "Durango Durango Emakumeen Saria",
+            "date": "20 May 2025",
+            "points": 85,
+            "rank": 2
+          },
           {
             "name": "Itzulia Women - General classification",
             "date": "18 May 2025",

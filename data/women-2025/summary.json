@@ -1,8 +1,8 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 May 2025 23:23 GMT",
-  "momentId": 190709,
+  "fetchedDate": "20 May 2025 23:22 GMT",
+  "momentId": 190871,
   "teams": [
     {
       "owner": "Loren Rowney",
@@ -85,14 +85,14 @@
     {
       "owner": "Abby Mickey",
       "name": "The Tortured Breakaway Department",
-      "totalPoints": 5454.71,
+      "totalPoints": 5479.71,
       "riders": [
         {
           "name": "Elisa Longo Borghini",
           "id": 76149,
           "team": "UAD",
           "country": "it",
-          "totalPoints": 1275
+          "totalPoints": 1300
         },
         {
           "name": "Marianne Vos",
@@ -164,7 +164,7 @@
     {
       "owner": "Gracie Elvin",
       "name": "Lamborghini p/b Tony's Chocolonely",
-      "totalPoints": 9046.57,
+      "totalPoints": 9056.57,
       "riders": [
         {
           "name": "Demi Vollering",
@@ -221,7 +221,7 @@
           "id": 2246047,
           "team": "EFO",
           "country": "nz",
-          "totalPoints": 150
+          "totalPoints": 160
         },
         {
           "name": "Elise Chabbey",
@@ -243,7 +243,7 @@
     {
       "owner": "Tilda Price",
       "name": "Santa Cruz-Shimano",
-      "totalPoints": 7447.72,
+      "totalPoints": 7532.72,
       "riders": [
         {
           "name": "Lorena Wiebes",
@@ -257,7 +257,7 @@
           "id": 109412,
           "team": "TFS",
           "country": "fr",
-          "totalPoints": 421.57
+          "totalPoints": 506.57
         },
         {
           "name": "Puck Pieterse",
@@ -321,7 +321,7 @@
     {
       "owner": "Georgie Howe",
       "name": "Specialized-Win-Collective Racing",
-      "totalPoints": 4569.85,
+      "totalPoints": 4642.85,
       "riders": [
         {
           "name": "Kasia Niewiadoma",
@@ -349,7 +349,7 @@
           "id": 79176,
           "team": "HPH",
           "country": "nl",
-          "totalPoints": 519.14
+          "totalPoints": 589.14
         },
         {
           "name": "Brodie Chapman",
@@ -385,7 +385,7 @@
           "id": 488553,
           "team": "CTC",
           "country": "ca",
-          "totalPoints": 782
+          "totalPoints": 785
         },
         {
           "name": "Riejanne Markus",

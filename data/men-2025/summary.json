@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 May 2025 23:23 GMT",
-  "momentId": 190691,
+  "fetchedDate": "20 May 2025 23:22 GMT",
+  "momentId": 190853,
   "teams": [
     {
       "owner": "Kit Nicholson",
       "name": "Picnic-Letterboxd",
-      "totalPoints": 7985,
+      "totalPoints": 7980,
       "riders": [
         {
           "name": "Tadej Pogačar",
@@ -48,10 +48,10 @@
         {
           "name": "Kaden Groves",
           "id": 111683,
-          "sanctions": 20,
+          "sanctions": 25,
           "team": "ADC",
           "country": "au",
-          "totalPoints": 635
+          "totalPoints": 630
         },
         {
           "name": "Richard Carapaz",
@@ -400,7 +400,7 @@
           "totalPoints": 210
         }
       ],
-      "movement": 0
+      "movement": -1
     },
     {
       "owner": "Joe Lindsey",
@@ -485,7 +485,7 @@
     {
       "owner": "Caley Fretz",
       "name": "US Postal Service Bald Eagles",
-      "totalPoints": 6486.46,
+      "totalPoints": 6546.46,
       "riders": [
         {
           "name": "Matteo Jorgenson",
@@ -522,7 +522,7 @@
           "sanctions": 25,
           "team": "UAD",
           "country": "mx",
-          "totalPoints": 847
+          "totalPoints": 867
         },
         {
           "name": "Daniel Martínez",
@@ -550,7 +550,7 @@
           "id": 1557079,
           "team": "JAY",
           "country": "au",
-          "totalPoints": 522
+          "totalPoints": 562
         },
         {
           "name": "Kevin Vermaerke",
@@ -560,7 +560,7 @@
           "totalPoints": 10
         }
       ],
-      "movement": 0
+      "movement": 1
     },
     {
       "owner": "Andrew (member)",

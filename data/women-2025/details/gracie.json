@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 May 2025 23:23 GMT",
-  "momentId": 190709,
+  "fetchedDate": "20 May 2025 23:22 GMT",
+  "momentId": 190871,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 9046.57,
+    "totalPoints": 9056.57,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -670,8 +670,14 @@
         "id": 2246047,
         "team": "EFO",
         "country": "nz",
-        "totalPoints": 150,
+        "totalPoints": 160,
         "results": [
+          {
+            "name": "Durango Durango Emakumeen Saria",
+            "date": "20 May 2025",
+            "points": 10,
+            "rank": 12
+          },
           {
             "name": "National Championships New Zealand WE - Road Race",
             "date": "7 Feb 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 May 2025 23:23 GMT",
-  "momentId": 190709,
+  "fetchedDate": "20 May 2025 23:22 GMT",
+  "momentId": 190871,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 4569.85,
+    "totalPoints": 4642.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -226,8 +226,14 @@
         "id": 79176,
         "team": "HPH",
         "country": "nl",
-        "totalPoints": 519.14,
+        "totalPoints": 589.14,
         "results": [
+          {
+            "name": "Durango Durango Emakumeen Saria",
+            "date": "20 May 2025",
+            "points": 70,
+            "rank": 3
+          },
           {
             "name": "Itzulia Women - General classification",
             "date": "18 May 2025",
@@ -518,8 +524,14 @@
         "id": 488553,
         "team": "CTC",
         "country": "ca",
-        "totalPoints": 782,
+        "totalPoints": 785,
         "results": [
+          {
+            "name": "Durango Durango Emakumeen Saria",
+            "date": "20 May 2025",
+            "points": 3,
+            "rank": 22
+          },
           {
             "name": "Itzulia Women - General classification",
             "date": "18 May 2025",
