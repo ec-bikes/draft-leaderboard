@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 May 2025 23:22 GMT",
+  "fetchedDate": "21 May 2025 23:23 GMT",
   "momentId": 190853,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 7959.42,
+    "totalPoints": 7984.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -630,8 +630,14 @@
         "sanctions": 15,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 373,
+        "totalPoints": 398,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 11",
+            "date": "21 May 2025",
+            "points": 25,
+            "rank": 10
+          },
           {
             "name": "Giro d'Italia - Stage 8",
             "date": "17 May 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 May 2025 23:22 GMT",
+  "fetchedDate": "21 May 2025 23:23 GMT",
   "momentId": 190853,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 6966.57,
+    "totalPoints": 7083.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -70,8 +70,14 @@
         "id": 88889,
         "team": "RBH",
         "country": "si",
-        "totalPoints": 870,
+        "totalPoints": 885,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 11",
+            "date": "21 May 2025",
+            "points": 15,
+            "rank": 12
+          },
           {
             "name": "Giro d'Italia - Stage 8",
             "date": "17 May 2025",
@@ -193,8 +199,14 @@
         "id": 415141,
         "team": "UAD",
         "country": "es",
-        "totalPoints": 1735,
+        "totalPoints": 1775,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 11",
+            "date": "21 May 2025",
+            "points": 40,
+            "rank": 7
+          },
           {
             "name": "Giro d'Italia - Stage 9",
             "date": "18 May 2025",
@@ -306,8 +318,14 @@
         "id": 1558112,
         "team": "TVL",
         "country": "gb",
-        "totalPoints": 206,
+        "totalPoints": 208,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 11",
+            "date": "21 May 2025",
+            "points": 2,
+            "rank": 15
+          },
           {
             "name": "Giro d'Italia - Stage 9",
             "date": "18 May 2025",
@@ -413,8 +431,14 @@
         "id": 95844,
         "team": "IGD",
         "country": "co",
-        "totalPoints": 403,
+        "totalPoints": 463,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 11",
+            "date": "21 May 2025",
+            "points": 60,
+            "rank": 5
+          },
           {
             "name": "Giro d'Italia - Stage 9",
             "date": "18 May 2025",

@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 May 2025 23:22 GMT",
+  "fetchedDate": "21 May 2025 23:23 GMT",
   "momentId": 190853,
   "teams": [
     {
       "owner": "Kit Nicholson",
       "name": "Picnic-Letterboxd",
-      "totalPoints": 7980,
+      "totalPoints": 8160,
       "riders": [
         {
           "name": "Tadej Pogačar",
@@ -58,7 +58,7 @@
           "id": 91656,
           "team": "EFE",
           "country": "ec",
-          "totalPoints": 309
+          "totalPoints": 489
         },
         {
           "name": "Benoît Cosnefroy",
@@ -82,12 +82,12 @@
           "totalPoints": 100
         }
       ],
-      "movement": 0
+      "movement": 1
     },
     {
       "owner": "Jonny Long",
       "name": "Ineos Grenadiers-Greenpeace-Poundland",
-      "totalPoints": 5106.14,
+      "totalPoints": 5151.14,
       "riders": [
         {
           "name": "Jonas Vingegaard",
@@ -157,7 +157,7 @@
           "id": 308040,
           "team": "TBV",
           "country": "it",
-          "totalPoints": 490
+          "totalPoints": 535
         }
       ],
       "movement": 0
@@ -165,7 +165,7 @@
     {
       "owner": "Toms Skujiņš",
       "name": "Lidl-Trek-Bauer",
-      "totalPoints": 7200.25,
+      "totalPoints": 7295.25,
       "riders": [
         {
           "name": "Remco Evenepoel",
@@ -202,7 +202,7 @@
           "sanctions": 15,
           "team": "LTK",
           "country": "it",
-          "totalPoints": 1316
+          "totalPoints": 1411
         },
         {
           "name": "Lenny Martinez",
@@ -247,7 +247,7 @@
     {
       "owner": "Dane Cash",
       "name": "Visma-Lease a Bike-Monster Energy",
-      "totalPoints": 6966.57,
+      "totalPoints": 7083.57,
       "riders": [
         {
           "name": "Jasper Philipsen",
@@ -261,7 +261,7 @@
           "id": 88889,
           "team": "RBH",
           "country": "si",
-          "totalPoints": 870
+          "totalPoints": 885
         },
         {
           "name": "Carlos Rodriguez",
@@ -275,14 +275,14 @@
           "id": 415141,
           "team": "UAD",
           "country": "es",
-          "totalPoints": 1735
+          "totalPoints": 1775
         },
         {
           "name": "Simon Yates",
           "id": 1558112,
           "team": "TVL",
           "country": "gb",
-          "totalPoints": 206
+          "totalPoints": 208
         },
         {
           "name": "Jhonatan Narváez",
@@ -296,7 +296,7 @@
           "id": 95844,
           "team": "IGD",
           "country": "co",
-          "totalPoints": 403
+          "totalPoints": 463
         },
         {
           "name": "Florian Lipowitz",
@@ -326,7 +326,7 @@
     {
       "owner": "Abby Mickey",
       "name": "EF Education-Swift Nation",
-      "totalPoints": 6521.29,
+      "totalPoints": 6526.29,
       "riders": [
         {
           "name": "Wout van Aert",
@@ -390,7 +390,7 @@
           "id": 109481,
           "team": "IGD",
           "country": "nl",
-          "totalPoints": 668.29
+          "totalPoints": 673.29
         },
         {
           "name": "Patrick Konrad",
@@ -405,7 +405,7 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 7959.42,
+      "totalPoints": 7984.42,
       "riders": [
         {
           "name": "Mathieu van der Poel",
@@ -463,7 +463,7 @@
           "sanctions": 15,
           "team": "XAT",
           "country": "it",
-          "totalPoints": 373
+          "totalPoints": 398
         },
         {
           "name": "Mauri Vansevenant",
@@ -480,12 +480,12 @@
           "totalPoints": 121
         }
       ],
-      "movement": 0
+      "movement": -1
     },
     {
       "owner": "Caley Fretz",
       "name": "US Postal Service Bald Eagles",
-      "totalPoints": 6546.46,
+      "totalPoints": 6696.46,
       "riders": [
         {
           "name": "Matteo Jorgenson",
@@ -522,7 +522,7 @@
           "sanctions": 25,
           "team": "UAD",
           "country": "mx",
-          "totalPoints": 867
+          "totalPoints": 1017
         },
         {
           "name": "Daniel Martínez",

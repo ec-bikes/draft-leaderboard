@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 May 2025 23:22 GMT",
+  "fetchedDate": "21 May 2025 23:23 GMT",
   "momentId": 190871,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 5959.14,
+    "totalPoints": 5989.14,
     "riders": [
       {
         "name": "Liane Lippert",
@@ -474,8 +474,14 @@
         "sanctions": 5,
         "team": "EFO",
         "country": "us",
-        "totalPoints": 17.43,
+        "totalPoints": 47.43,
         "results": [
+          {
+            "name": "National Championships United States WE - ITT",
+            "date": "21 May 2025",
+            "points": 30,
+            "rank": 2
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
             "date": "4 May 2025",
