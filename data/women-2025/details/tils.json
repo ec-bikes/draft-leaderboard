@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 May 2025 23:23 GMT",
+  "fetchedDate": "22 May 2025 23:23 GMT",
   "momentId": 190871,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 5989.14,
+    "totalPoints": 6007.14,
     "riders": [
       {
         "name": "Liane Lippert",
@@ -200,8 +200,14 @@
         "id": 1589305,
         "team": "MOV",
         "country": "ch",
-        "totalPoints": 939.14,
+        "totalPoints": 947.14,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - Stage 1",
+            "date": "22 May 2025",
+            "points": 8,
+            "rank": 9
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
             "date": "10 May 2025",
@@ -293,8 +299,14 @@
         "id": 220562,
         "team": "TFS",
         "country": "nz",
-        "totalPoints": 982.57,
+        "totalPoints": 992.57,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - Stage 1",
+            "date": "22 May 2025",
+            "points": 10,
+            "rank": 8
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 6",
             "date": "9 May 2025",

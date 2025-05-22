@@ -1,20 +1,20 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 May 2025 23:23 GMT",
+  "fetchedDate": "22 May 2025 23:23 GMT",
   "momentId": 190871,
   "teams": [
     {
       "owner": "Loren Rowney",
       "name": "(TBD)",
-      "totalPoints": 5374.58,
+      "totalPoints": 5404.58,
       "riders": [
         {
           "name": "Lotte Kopecky",
           "id": 73504,
           "team": "SDW",
           "country": "be",
-          "totalPoints": 914
+          "totalPoints": 944
         },
         {
           "name": "Cecilie Uttrup Ludwig",
@@ -85,14 +85,14 @@
     {
       "owner": "Abby Mickey",
       "name": "The Tortured Breakaway Department",
-      "totalPoints": 5479.71,
+      "totalPoints": 5504.71,
       "riders": [
         {
           "name": "Elisa Longo Borghini",
           "id": 76149,
           "team": "UAD",
           "country": "it",
-          "totalPoints": 1300
+          "totalPoints": 1325
         },
         {
           "name": "Marianne Vos",
@@ -164,7 +164,7 @@
     {
       "owner": "Gracie Elvin",
       "name": "Lamborghini p/b Tony's Chocolonely",
-      "totalPoints": 9056.57,
+      "totalPoints": 9111.57,
       "riders": [
         {
           "name": "Demi Vollering",
@@ -178,7 +178,7 @@
           "id": 101826,
           "team": "LTK",
           "country": "it",
-          "totalPoints": 1620
+          "totalPoints": 1660
         },
         {
           "name": "Chloe Dygert",
@@ -228,7 +228,7 @@
           "id": 1638135,
           "team": "TFS",
           "country": "ch",
-          "totalPoints": 748
+          "totalPoints": 763
         },
         {
           "name": "Kathrin Schweinberger",
@@ -243,14 +243,14 @@
     {
       "owner": "Tilda Price",
       "name": "Santa Cruz-Shimano",
-      "totalPoints": 7532.72,
+      "totalPoints": 7590.72,
       "riders": [
         {
           "name": "Lorena Wiebes",
           "id": 141733,
           "team": "SDW",
           "country": "nl",
-          "totalPoints": 2135
+          "totalPoints": 2193
         },
         {
           "name": "Evita Muzic",
@@ -400,7 +400,7 @@
     {
       "owner": "Tils Raynolds",
       "name": "The Suffragettes Collective",
-      "totalPoints": 5989.14,
+      "totalPoints": 6007.14,
       "riders": [
         {
           "name": "Liane Lippert",
@@ -422,14 +422,14 @@
           "id": 1589305,
           "team": "MOV",
           "country": "ch",
-          "totalPoints": 939.14
+          "totalPoints": 947.14
         },
         {
           "name": "Ally Wollaston",
           "id": 220562,
           "team": "TFS",
           "country": "nz",
-          "totalPoints": 982.57
+          "totalPoints": 992.57
         },
         {
           "name": "Neve Bradbury",

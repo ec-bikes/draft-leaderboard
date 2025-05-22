@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 May 2025 23:23 GMT",
+  "fetchedDate": "22 May 2025 23:23 GMT",
   "momentId": 190853,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 8160,
+    "totalPoints": 8220,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -326,8 +326,14 @@
         "sanctions": 25,
         "team": "ADC",
         "country": "au",
-        "totalPoints": 630,
+        "totalPoints": 690,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 12",
+            "date": "22 May 2025",
+            "points": 60,
+            "rank": 5
+          },
           {
             "name": "Giro d'Italia - Stage 6",
             "date": "15 May 2025",

@@ -1,20 +1,31 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 May 2025 23:23 GMT",
+  "fetchedDate": "22 May 2025 23:23 GMT",
   "momentId": 190871,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 7532.72,
+    "totalPoints": 7590.72,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 2135,
+        "totalPoints": 2193,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - Stage 1",
+            "date": "22 May 2025",
+            "points": 50,
+            "rank": 1
+          },
+          {
+            "name": "Vuelta a Burgos Feminas - Stage 1 - Bonus",
+            "date": "22 May 2025",
+            "points": 8
+          },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "20 Apr 2025",
