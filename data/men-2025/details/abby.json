@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "22 May 2025 23:23 GMT",
+  "fetchedDate": "23 May 2025 23:23 GMT",
   "momentId": 190853,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 6526.29,
+    "totalPoints": 6656.29,
     "riders": [
       {
         "name": "Wout van Aert",
         "id": 75859,
         "team": "TVL",
         "country": "be",
-        "totalPoints": 1948,
+        "totalPoints": 2078,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 13",
+            "date": "23 May 2025",
+            "points": 130,
+            "rank": 2
+          },
           {
             "name": "Giro d'Italia - Stage 9",
             "date": "18 May 2025",

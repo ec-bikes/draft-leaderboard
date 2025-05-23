@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "22 May 2025 23:23 GMT",
+  "fetchedDate": "23 May 2025 23:23 GMT",
   "momentId": 190853,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 7083.57,
+    "totalPoints": 7155.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -70,8 +70,14 @@
         "id": 88889,
         "team": "RBH",
         "country": "si",
-        "totalPoints": 885,
+        "totalPoints": 930,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 13",
+            "date": "23 May 2025",
+            "points": 45,
+            "rank": 6
+          },
           {
             "name": "Giro d'Italia - Stage 11",
             "date": "21 May 2025",
@@ -199,8 +205,14 @@
         "id": 415141,
         "team": "UAD",
         "country": "es",
-        "totalPoints": 1775,
+        "totalPoints": 1777,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 13",
+            "date": "23 May 2025",
+            "points": 2,
+            "rank": 15
+          },
           {
             "name": "Giro d'Italia - Stage 11",
             "date": "21 May 2025",
@@ -431,8 +443,14 @@
         "id": 95844,
         "team": "IGD",
         "country": "co",
-        "totalPoints": 463,
+        "totalPoints": 488,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 13",
+            "date": "23 May 2025",
+            "points": 25,
+            "rank": 10
+          },
           {
             "name": "Giro d'Italia - Stage 11",
             "date": "21 May 2025",

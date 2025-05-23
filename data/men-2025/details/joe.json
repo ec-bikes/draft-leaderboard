@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "22 May 2025 23:23 GMT",
+  "fetchedDate": "23 May 2025 23:23 GMT",
   "momentId": 190853,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 8064.42,
+    "totalPoints": 8244.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -70,8 +70,14 @@
         "id": 86895,
         "team": "LTK",
         "country": "dk",
-        "totalPoints": 3437.57,
+        "totalPoints": 3617.57,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 13",
+            "date": "23 May 2025",
+            "points": 180,
+            "rank": 1
+          },
           {
             "name": "Giro d'Italia - Stage 12",
             "date": "22 May 2025",
