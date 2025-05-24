@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 May 2025 23:23 GMT",
+  "fetchedDate": "24 May 2025 23:22 GMT",
   "momentId": 190853,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 5532.28,
+    "totalPoints": 5627.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -226,8 +226,14 @@
         "id": 227110,
         "team": "TVL",
         "country": "nl",
-        "totalPoints": 845,
+        "totalPoints": 940,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 14",
+            "date": "24 May 2025",
+            "points": 95,
+            "rank": 3
+          },
           {
             "name": "Giro d'Italia - Stage 12",
             "date": "22 May 2025",

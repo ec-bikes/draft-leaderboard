@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 May 2025 23:23 GMT",
+  "fetchedDate": "24 May 2025 23:22 GMT",
   "momentId": 190871,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 4668.85,
+    "totalPoints": 4674.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -422,8 +422,14 @@
         "id": 97498,
         "team": "TFS",
         "country": "fr",
-        "totalPoints": 975.57,
+        "totalPoints": 981.57,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - Stage 3",
+            "date": "24 May 2025",
+            "points": 6,
+            "rank": 10
+          },
           {
             "name": "Vuelta a Burgos Feminas - Stage 2",
             "date": "23 May 2025",

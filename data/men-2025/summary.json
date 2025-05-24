@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 May 2025 23:23 GMT",
+  "fetchedDate": "24 May 2025 23:22 GMT",
   "momentId": 190853,
   "teams": [
     {
       "owner": "Kit Nicholson",
       "name": "Picnic-Letterboxd",
-      "totalPoints": 8220,
+      "totalPoints": 8380,
       "riders": [
         {
           "name": "Tadej Pogačar",
@@ -51,14 +51,14 @@
           "sanctions": 25,
           "team": "ADC",
           "country": "au",
-          "totalPoints": 690
+          "totalPoints": 820
         },
         {
           "name": "Richard Carapaz",
           "id": 91656,
           "team": "EFE",
           "country": "ec",
-          "totalPoints": 489
+          "totalPoints": 519
         },
         {
           "name": "Benoît Cosnefroy",
@@ -82,7 +82,7 @@
           "totalPoints": 100
         }
       ],
-      "movement": -1
+      "movement": 0
     },
     {
       "owner": "Jonny Long",
@@ -400,7 +400,7 @@
           "totalPoints": 210
         }
       ],
-      "movement": -1
+      "movement": 0
     },
     {
       "owner": "Joe Lindsey",
@@ -480,12 +480,12 @@
           "totalPoints": 121
         }
       ],
-      "movement": 1
+      "movement": 0
     },
     {
       "owner": "Caley Fretz",
       "name": "US Postal Service Bald Eagles",
-      "totalPoints": 6831.46,
+      "totalPoints": 6853.46,
       "riders": [
         {
           "name": "Matteo Jorgenson",
@@ -522,7 +522,7 @@
           "sanctions": 25,
           "team": "UAD",
           "country": "mx",
-          "totalPoints": 1152
+          "totalPoints": 1174
         },
         {
           "name": "Daniel Martínez",
@@ -560,12 +560,12 @@
           "totalPoints": 10
         }
       ],
-      "movement": 1
+      "movement": 0
     },
     {
       "owner": "Andrew (member)",
       "name": "Groupama-FDJ-Tourtel Twist",
-      "totalPoints": 5532.28,
+      "totalPoints": 5627.28,
       "riders": [
         {
           "name": "Adam Yates",
@@ -586,7 +586,7 @@
           "id": 227110,
           "team": "TVL",
           "country": "nl",
-          "totalPoints": 845
+          "totalPoints": 940
         },
         {
           "name": "Kévin Vauquelin",
@@ -638,7 +638,7 @@
           "totalPoints": 247
         }
       ],
-      "movement": 0
+      "movement": 1
     },
     {
       "owner": "Discord Undrafted",
@@ -717,7 +717,7 @@
           "totalPoints": 232
         }
       ],
-      "movement": 0
+      "movement": -1
     }
   ]
 }

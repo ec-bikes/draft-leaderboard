@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 May 2025 23:23 GMT",
+  "fetchedDate": "24 May 2025 23:22 GMT",
   "momentId": 190871,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 9136.57,
+    "totalPoints": 9154.57,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -709,8 +709,14 @@
         "id": 1638135,
         "team": "TFS",
         "country": "ch",
-        "totalPoints": 763,
+        "totalPoints": 781,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - Stage 3",
+            "date": "24 May 2025",
+            "points": 18,
+            "rank": 6
+          },
           {
             "name": "Vuelta a Burgos Feminas - Stage 1",
             "date": "22 May 2025",
