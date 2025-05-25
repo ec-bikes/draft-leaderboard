@@ -1,20 +1,32 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "24 May 2025 23:22 GMT",
+  "fetchedDate": "25 May 2025 23:22 GMT",
   "momentId": 190871,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 5534.71,
+    "totalPoints": 5884.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
         "id": 76149,
         "team": "UAD",
         "country": "it",
-        "totalPoints": 1355,
+        "totalPoints": 1705,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - General classification",
+            "date": "25 May 2025",
+            "points": 320,
+            "rank": 2
+          },
+          {
+            "name": "Vuelta a Burgos Feminas - Stage 4 (ITT)",
+            "date": "25 May 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Vuelta a Burgos Feminas - Stage 3",
             "date": "24 May 2025",

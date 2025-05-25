@@ -1,20 +1,32 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "24 May 2025 23:22 GMT",
+  "fetchedDate": "25 May 2025 23:22 GMT",
   "momentId": 190871,
   "team": {
     "owner": "Loren Rowney",
     "name": "(TBD)",
-    "totalPoints": 5404.58,
+    "totalPoints": 5504.58,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
         "team": "SDW",
         "country": "be",
-        "totalPoints": 944,
+        "totalPoints": 1020,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - General classification",
+            "date": "25 May 2025",
+            "points": 56,
+            "rank": 11
+          },
+          {
+            "name": "Vuelta a Burgos Feminas - Stage 4 (ITT)",
+            "date": "25 May 2025",
+            "points": 20,
+            "rank": 5
+          },
           {
             "name": "Vuelta a Burgos Feminas - Stage 1",
             "date": "22 May 2025",
@@ -247,8 +259,14 @@
         "id": 231378,
         "team": "LIV",
         "country": "nl",
-        "totalPoints": 709,
+        "totalPoints": 733,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - General classification",
+            "date": "25 May 2025",
+            "points": 24,
+            "rank": 17
+          },
           {
             "name": "Itzulia Women - General classification",
             "date": "18 May 2025",

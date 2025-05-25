@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "24 May 2025 23:22 GMT",
+  "fetchedDate": "25 May 2025 23:22 GMT",
   "momentId": 190853,
   "teams": [
     {
       "owner": "Kit Nicholson",
       "name": "Picnic-Letterboxd",
-      "totalPoints": 8380,
+      "totalPoints": 8390,
       "riders": [
         {
           "name": "Tadej Pogačar",
@@ -58,7 +58,7 @@
           "id": 91656,
           "team": "EFE",
           "country": "ec",
-          "totalPoints": 519
+          "totalPoints": 529
         },
         {
           "name": "Benoît Cosnefroy",
@@ -87,7 +87,7 @@
     {
       "owner": "Jonny Long",
       "name": "Ineos Grenadiers-Greenpeace-Poundland",
-      "totalPoints": 5191.14,
+      "totalPoints": 5286.14,
       "riders": [
         {
           "name": "Jonas Vingegaard",
@@ -150,7 +150,7 @@
           "id": 144019,
           "team": "XAT",
           "country": "it",
-          "totalPoints": 871
+          "totalPoints": 966
         },
         {
           "name": "Antonio Tiberi",
@@ -247,7 +247,7 @@
     {
       "owner": "Dane Cash",
       "name": "Visma-Lease a Bike-Monster Energy",
-      "totalPoints": 7155.57,
+      "totalPoints": 7160.57,
       "riders": [
         {
           "name": "Jasper Philipsen",
@@ -282,7 +282,7 @@
           "id": 1558112,
           "team": "TVL",
           "country": "gb",
-          "totalPoints": 208
+          "totalPoints": 213
         },
         {
           "name": "Jhonatan Narváez",
@@ -400,7 +400,7 @@
           "totalPoints": 210
         }
       ],
-      "movement": 0
+      "movement": -1
     },
     {
       "owner": "Joe Lindsey",
@@ -560,7 +560,7 @@
           "totalPoints": 10
         }
       ],
-      "movement": 0
+      "movement": 1
     },
     {
       "owner": "Andrew (member)",
@@ -638,7 +638,7 @@
           "totalPoints": 247
         }
       ],
-      "movement": 1
+      "movement": 0
     },
     {
       "owner": "Discord Undrafted",
@@ -717,7 +717,7 @@
           "totalPoints": 232
         }
       ],
-      "movement": -1
+      "movement": 0
     }
   ]
 }

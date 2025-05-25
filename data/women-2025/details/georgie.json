@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "24 May 2025 23:22 GMT",
+  "fetchedDate": "25 May 2025 23:22 GMT",
   "momentId": 190871,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 4674.85,
+    "totalPoints": 4918.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -100,8 +100,14 @@
         "id": 107539,
         "team": "UAD",
         "country": "it",
-        "totalPoints": 786,
+        "totalPoints": 802,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - General classification",
+            "date": "25 May 2025",
+            "points": 16,
+            "rank": 21
+          },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "20 Apr 2025",
@@ -307,8 +313,14 @@
         "id": 106168,
         "team": "UAD",
         "country": "au",
-        "totalPoints": 158,
+        "totalPoints": 166,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - General classification",
+            "date": "25 May 2025",
+            "points": 8,
+            "rank": 32
+          },
           {
             "name": "Navarra Women's Elite Classic",
             "date": "14 May 2025",
@@ -422,8 +434,20 @@
         "id": 97498,
         "team": "TFS",
         "country": "fr",
-        "totalPoints": 981.57,
+        "totalPoints": 1201.57,
         "results": [
+          {
+            "name": "Vuelta a Burgos Feminas - General classification",
+            "date": "25 May 2025",
+            "points": 180,
+            "rank": 5
+          },
+          {
+            "name": "Vuelta a Burgos Feminas - Stage 4 (ITT)",
+            "date": "25 May 2025",
+            "points": 40,
+            "rank": 2
+          },
           {
             "name": "Vuelta a Burgos Feminas - Stage 3",
             "date": "24 May 2025",
