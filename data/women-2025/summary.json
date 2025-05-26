@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "25 May 2025 23:22 GMT",
+  "fetchedDate": "26 May 2025 23:22 GMT",
   "momentId": 190871,
   "teams": [
     {
@@ -400,7 +400,7 @@
     {
       "owner": "Tils Raynolds",
       "name": "The Suffragettes Collective",
-      "totalPoints": 6569.14,
+      "totalPoints": 6669.14,
       "riders": [
         {
           "name": "Liane Lippert",
@@ -459,7 +459,7 @@
           "sanctions": 5,
           "team": "EFO",
           "country": "us",
-          "totalPoints": 47.43
+          "totalPoints": 147.43
         },
         {
           "name": "Letizia Paternoster",
