@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 May 2025 23:22 GMT",
-  "momentId": 190853,
+  "fetchedDate": "27 May 2025 23:22 GMT",
+  "momentId": 191015,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 6873.46,
+    "totalPoints": 6903.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -298,8 +298,19 @@
         "sanctions": 25,
         "team": "UAD",
         "country": "mx",
-        "totalPoints": 1194,
+        "totalPoints": 1224,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 16",
+            "date": "27 May 2025",
+            "points": 10,
+            "rank": 13
+          },
+          {
+            "name": "Giro d'Italia - Stage 16 - Bonus",
+            "date": "27 May 2025",
+            "points": 20
+          },
           {
             "name": "Giro d'Italia - Stage 15 - Bonus",
             "date": "25 May 2025",

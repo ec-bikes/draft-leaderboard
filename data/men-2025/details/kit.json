@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 May 2025 23:22 GMT",
-  "momentId": 190853,
+  "fetchedDate": "27 May 2025 23:22 GMT",
+  "momentId": 191015,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 8390,
+    "totalPoints": 8470,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -377,8 +377,14 @@
         "id": 91656,
         "team": "EFE",
         "country": "ec",
-        "totalPoints": 529,
+        "totalPoints": 609,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 16",
+            "date": "27 May 2025",
+            "points": 80,
+            "rank": 4
+          },
           {
             "name": "Giro d'Italia - Stage 15",
             "date": "25 May 2025",
