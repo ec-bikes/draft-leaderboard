@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "27 May 2025 23:22 GMT",
+  "fetchedDate": "28 May 2025 23:23 GMT",
   "momentId": 191015,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 7345.25,
+    "totalPoints": 7320.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -537,9 +537,10 @@
       {
         "name": "Mathias Vacek",
         "id": 472995,
+        "sanctions": 25,
         "team": "LTK",
         "country": "cz",
-        "totalPoints": 247.86,
+        "totalPoints": 222.86,
         "results": [
           {
             "name": "Giro d'Italia - Stage 9",

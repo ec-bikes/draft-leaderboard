@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "27 May 2025 23:22 GMT",
+  "fetchedDate": "28 May 2025 23:23 GMT",
   "momentId": 191015,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 7215.57,
+    "totalPoints": 7310.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -330,8 +330,14 @@
         "id": 1558112,
         "team": "TVL",
         "country": "gb",
-        "totalPoints": 248,
+        "totalPoints": 328,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 17",
+            "date": "28 May 2025",
+            "points": 80,
+            "rank": 4
+          },
           {
             "name": "Giro d'Italia - Stage 16",
             "date": "27 May 2025",
@@ -455,8 +461,14 @@
         "id": 95844,
         "team": "IGD",
         "country": "co",
-        "totalPoints": 508,
+        "totalPoints": 523,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 17",
+            "date": "28 May 2025",
+            "points": 15,
+            "rank": 12
+          },
           {
             "name": "Giro d'Italia - Stage 16",
             "date": "27 May 2025",

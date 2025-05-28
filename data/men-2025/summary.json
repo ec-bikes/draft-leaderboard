@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "27 May 2025 23:22 GMT",
+  "fetchedDate": "28 May 2025 23:23 GMT",
   "momentId": 191015,
   "teams": [
     {
       "owner": "Kit Nicholson",
       "name": "Picnic-Letterboxd",
-      "totalPoints": 8470,
+      "totalPoints": 8565,
       "riders": [
         {
           "name": "Tadej Pogačar",
@@ -58,7 +58,7 @@
           "id": 91656,
           "team": "EFE",
           "country": "ec",
-          "totalPoints": 609
+          "totalPoints": 704
         },
         {
           "name": "Benoît Cosnefroy",
@@ -165,7 +165,7 @@
     {
       "owner": "Toms Skujiņš",
       "name": "Lidl-Trek-Bauer",
-      "totalPoints": 7345.25,
+      "totalPoints": 7320.25,
       "riders": [
         {
           "name": "Remco Evenepoel",
@@ -215,9 +215,10 @@
         {
           "name": "Mathias Vacek",
           "id": 472995,
+          "sanctions": 25,
           "team": "LTK",
           "country": "cz",
-          "totalPoints": 247.86
+          "totalPoints": 222.86
         },
         {
           "name": "Milan Fretin",
@@ -247,7 +248,7 @@
     {
       "owner": "Dane Cash",
       "name": "Visma-Lease a Bike-Monster Energy",
-      "totalPoints": 7215.57,
+      "totalPoints": 7310.57,
       "riders": [
         {
           "name": "Jasper Philipsen",
@@ -282,7 +283,7 @@
           "id": 1558112,
           "team": "TVL",
           "country": "gb",
-          "totalPoints": 248
+          "totalPoints": 328
         },
         {
           "name": "Jhonatan Narváez",
@@ -296,7 +297,7 @@
           "id": 95844,
           "team": "IGD",
           "country": "co",
-          "totalPoints": 508
+          "totalPoints": 523
         },
         {
           "name": "Florian Lipowitz",
@@ -405,7 +406,7 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 8244.42,
+      "totalPoints": 8254.42,
       "riders": [
         {
           "name": "Mathieu van der Poel",
@@ -426,7 +427,7 @@
           "id": 150923,
           "team": "UAD",
           "country": "us",
-          "totalPoints": 354.57
+          "totalPoints": 364.57
         },
         {
           "name": "Aleksandr Vlasov",
@@ -485,7 +486,7 @@
     {
       "owner": "Caley Fretz",
       "name": "US Postal Service Bald Eagles",
-      "totalPoints": 6903.46,
+      "totalPoints": 7103.46,
       "riders": [
         {
           "name": "Matteo Jorgenson",
@@ -522,7 +523,7 @@
           "sanctions": 25,
           "team": "UAD",
           "country": "mx",
-          "totalPoints": 1224
+          "totalPoints": 1424
         },
         {
           "name": "Daniel Martínez",

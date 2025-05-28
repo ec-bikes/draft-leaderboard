@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "27 May 2025 23:22 GMT",
+  "fetchedDate": "28 May 2025 23:23 GMT",
   "momentId": 191015,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 8244.42,
+    "totalPoints": 8254.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -229,8 +229,14 @@
         "id": 150923,
         "team": "UAD",
         "country": "us",
-        "totalPoints": 354.57,
+        "totalPoints": 364.57,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 17",
+            "date": "28 May 2025",
+            "points": 10,
+            "rank": 13
+          },
           {
             "name": "Giro d'Italia - Stage 9",
             "date": "18 May 2025",
