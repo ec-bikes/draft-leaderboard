@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "28 May 2025 23:23 GMT",
+  "fetchedDate": "29 May 2025 23:22 GMT",
   "momentId": 191015,
   "teams": [
     {
       "owner": "Kit Nicholson",
       "name": "Picnic-Letterboxd",
-      "totalPoints": 8565,
+      "totalPoints": 8580,
       "riders": [
         {
           "name": "Tadej Pogačar",
@@ -65,7 +65,7 @@
           "id": 79522,
           "team": "DAT",
           "country": "fr",
-          "totalPoints": 285
+          "totalPoints": 300
         },
         {
           "name": "Alex Aranburu",
@@ -87,7 +87,7 @@
     {
       "owner": "Jonny Long",
       "name": "Ineos Grenadiers-Greenpeace-Poundland",
-      "totalPoints": 5468.14,
+      "totalPoints": 5473.14,
       "riders": [
         {
           "name": "Jonas Vingegaard",
@@ -150,7 +150,7 @@
           "id": 144019,
           "team": "XAT",
           "country": "it",
-          "totalPoints": 1146
+          "totalPoints": 1151
         },
         {
           "name": "Antonio Tiberi",
@@ -327,14 +327,14 @@
     {
       "owner": "Abby Mickey",
       "name": "EF Education-Swift Nation",
-      "totalPoints": 6656.29,
+      "totalPoints": 6658.29,
       "riders": [
         {
           "name": "Wout van Aert",
           "id": 75859,
           "team": "TVL",
           "country": "be",
-          "totalPoints": 2078
+          "totalPoints": 2080
         },
         {
           "name": "Biniam Girmay",
@@ -486,7 +486,7 @@
     {
       "owner": "Caley Fretz",
       "name": "US Postal Service Bald Eagles",
-      "totalPoints": 7103.46,
+      "totalPoints": 7123.46,
       "riders": [
         {
           "name": "Matteo Jorgenson",
@@ -523,7 +523,7 @@
           "sanctions": 25,
           "team": "UAD",
           "country": "mx",
-          "totalPoints": 1424
+          "totalPoints": 1444
         },
         {
           "name": "Daniel Martínez",
@@ -566,7 +566,7 @@
     {
       "owner": "Andrew (member)",
       "name": "Groupama-FDJ-Tourtel Twist",
-      "totalPoints": 5632.28,
+      "totalPoints": 5652.28,
       "riders": [
         {
           "name": "Adam Yates",
@@ -615,7 +615,7 @@
           "id": 68844,
           "team": "TVL",
           "country": "nl",
-          "totalPoints": 42
+          "totalPoints": 62
         },
         {
           "name": "Felix Gall",

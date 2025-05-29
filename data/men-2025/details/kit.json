@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "28 May 2025 23:23 GMT",
+  "fetchedDate": "29 May 2025 23:22 GMT",
   "momentId": 191015,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 8565,
+    "totalPoints": 8580,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -476,8 +476,14 @@
         "id": 79522,
         "team": "DAT",
         "country": "fr",
-        "totalPoints": 285,
+        "totalPoints": 300,
         "results": [
+          {
+            "name": "Boucles de la Mayenne - Crédit Mutuel - Prologue",
+            "date": "29 May 2025",
+            "points": 15,
+            "rank": 2
+          },
           {
             "name": "Grand Prix du Morbihan",
             "date": "10 May 2025",
