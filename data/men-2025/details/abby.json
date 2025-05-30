@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "29 May 2025 23:22 GMT",
+  "fetchedDate": "30 May 2025 23:23 GMT",
   "momentId": 191015,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 6658.29,
+    "totalPoints": 6688.29,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -94,8 +94,14 @@
         "id": 1707195,
         "team": "IWA",
         "country": "er",
-        "totalPoints": 732,
+        "totalPoints": 747,
         "results": [
+          {
+            "name": "Boucles de la Mayenne - Crédit Mutuel - Stage 1",
+            "date": "30 May 2025",
+            "points": 15,
+            "rank": 2
+          },
           {
             "name": "Rund um Köln",
             "date": "18 May 2025",
@@ -188,8 +194,14 @@
         "sanctions": 25,
         "team": "LOT",
         "country": "be",
-        "totalPoints": 182,
+        "totalPoints": 197,
         "results": [
+          {
+            "name": "Tour of Norway - Stage 2",
+            "date": "30 May 2025",
+            "points": 15,
+            "rank": 2
+          },
           {
             "name": "La Flèche Wallonne",
             "date": "23 Apr 2025",

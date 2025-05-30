@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "29 May 2025 23:22 GMT",
+  "fetchedDate": "30 May 2025 23:23 GMT",
   "momentId": 191015,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 5473.14,
+    "totalPoints": 5503.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -588,8 +588,14 @@
         "id": 308040,
         "team": "TBV",
         "country": "it",
-        "totalPoints": 577,
+        "totalPoints": 607,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 19",
+            "date": "30 May 2025",
+            "points": 30,
+            "rank": 9
+          },
           {
             "name": "Giro d'Italia - Stage 16",
             "date": "27 May 2025",
