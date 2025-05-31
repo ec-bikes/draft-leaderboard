@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "30 May 2025 23:23 GMT",
+  "fetchedDate": "31 May 2025 23:23 GMT",
   "momentId": 191015,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 7395.57,
+    "totalPoints": 7510.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -330,8 +330,19 @@
         "id": 1558112,
         "team": "TVL",
         "country": "gb",
-        "totalPoints": 368,
+        "totalPoints": 483,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 20",
+            "date": "31 May 2025",
+            "points": 95,
+            "rank": 3
+          },
+          {
+            "name": "Giro d'Italia - Stage 20 - Bonus",
+            "date": "31 May 2025",
+            "points": 20
+          },
           {
             "name": "Giro d'Italia - Stage 19",
             "date": "30 May 2025",

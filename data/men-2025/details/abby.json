@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "30 May 2025 23:23 GMT",
+  "fetchedDate": "31 May 2025 23:23 GMT",
   "momentId": 191015,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 6688.29,
+    "totalPoints": 6710.29,
     "riders": [
       {
         "name": "Wout van Aert",
         "id": 75859,
         "team": "TVL",
         "country": "be",
-        "totalPoints": 2080,
+        "totalPoints": 2082,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 20",
+            "date": "31 May 2025",
+            "points": 2,
+            "rank": 15
+          },
           {
             "name": "Giro d'Italia - Stage 18",
             "date": "29 May 2025",
@@ -194,8 +200,14 @@
         "sanctions": 25,
         "team": "LOT",
         "country": "be",
-        "totalPoints": 197,
+        "totalPoints": 217,
         "results": [
+          {
+            "name": "Tour of Norway - Stage 3",
+            "date": "31 May 2025",
+            "points": 20,
+            "rank": 1
+          },
           {
             "name": "Tour of Norway - Stage 2",
             "date": "30 May 2025",
