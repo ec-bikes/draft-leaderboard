@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "31 May 2025 23:23 GMT",
+  "fetchedDate": "1 June 2025 23:23 GMT",
   "momentId": 191033,
   "team": {
     "owner": "Loren Rowney",
     "name": "(TBD)",
-    "totalPoints": 5523.58,
+    "totalPoints": 5612.58,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -196,8 +196,20 @@
         "id": 2202121,
         "team": "AGS",
         "country": "be",
-        "totalPoints": 488,
+        "totalPoints": 577,
         "results": [
+          {
+            "name": "Tour of Norway Women - General classification",
+            "date": "1 Jun 2025",
+            "points": 85,
+            "rank": 2
+          },
+          {
+            "name": "Tour of Norway Women - Stage 2",
+            "date": "1 Jun 2025",
+            "points": 4,
+            "rank": 6
+          },
           {
             "name": "Tour of Norway Women - Stage 1",
             "date": "31 May 2025",

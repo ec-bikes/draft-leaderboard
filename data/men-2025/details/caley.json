@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "31 May 2025 23:23 GMT",
+  "fetchedDate": "1 June 2025 23:23 GMT",
   "momentId": 191015,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 7303.46,
+    "totalPoints": 8208.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -298,8 +298,14 @@
         "sanctions": 25,
         "team": "UAD",
         "country": "mx",
-        "totalPoints": 1624,
+        "totalPoints": 2509,
         "results": [
+          {
+            "name": "Giro d'Italia - General classification",
+            "date": "1 Jun 2025",
+            "points": 885,
+            "rank": 2
+          },
           {
             "name": "Giro d'Italia - Stage 20",
             "date": "31 May 2025",
@@ -512,8 +518,14 @@
         "id": 92264,
         "team": "RBH",
         "country": "co",
-        "totalPoints": 253,
+        "totalPoints": 268,
         "results": [
+          {
+            "name": "Giro d'Italia - General classification",
+            "date": "1 Jun 2025",
+            "points": 15,
+            "rank": 53
+          },
           {
             "name": "Giro d'Italia - Stage 2 (ITT)",
             "date": "10 May 2025",
@@ -799,8 +811,14 @@
         "id": 762315,
         "team": "TPP",
         "country": "us",
-        "totalPoints": 10,
+        "totalPoints": 15,
         "results": [
+          {
+            "name": "Tour of Norway - General classification",
+            "date": "1 Jun 2025",
+            "points": 5,
+            "rank": 20
+          },
           {
             "name": "Milano - Torino",
             "date": "19 Mar 2025",

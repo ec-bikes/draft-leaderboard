@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "31 May 2025 23:23 GMT",
+  "fetchedDate": "1 June 2025 23:23 GMT",
   "momentId": 191015,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 6710.29,
+    "totalPoints": 6860.29,
     "riders": [
       {
         "name": "Wout van Aert",
         "id": 75859,
         "team": "TVL",
         "country": "be",
-        "totalPoints": 2082,
+        "totalPoints": 2177,
         "results": [
+          {
+            "name": "Giro d'Italia - Points classification",
+            "date": "1 Jun 2025",
+            "points": 95,
+            "rank": 3
+          },
           {
             "name": "Giro d'Italia - Stage 20",
             "date": "31 May 2025",
@@ -100,8 +106,20 @@
         "id": 1707195,
         "team": "IWA",
         "country": "er",
-        "totalPoints": 747,
+        "totalPoints": 767,
         "results": [
+          {
+            "name": "Boucles de la Mayenne - Crédit Mutuel - General classification",
+            "date": "1 Jun 2025",
+            "points": 5,
+            "rank": 18
+          },
+          {
+            "name": "Boucles de la Mayenne - Crédit Mutuel - Stage 3",
+            "date": "1 Jun 2025",
+            "points": 15,
+            "rank": 2
+          },
           {
             "name": "Boucles de la Mayenne - Crédit Mutuel - Stage 1",
             "date": "30 May 2025",
@@ -200,8 +218,14 @@
         "sanctions": 25,
         "team": "LOT",
         "country": "be",
-        "totalPoints": 217,
+        "totalPoints": 222,
         "results": [
+          {
+            "name": "Tour of Norway - General classification",
+            "date": "1 Jun 2025",
+            "points": 5,
+            "rank": 18
+          },
           {
             "name": "Tour of Norway - Stage 3",
             "date": "31 May 2025",
@@ -564,8 +588,14 @@
         "id": 109481,
         "team": "IGD",
         "country": "nl",
-        "totalPoints": 673.29,
+        "totalPoints": 703.29,
         "results": [
+          {
+            "name": "Giro d'Italia - General classification",
+            "date": "1 Jun 2025",
+            "points": 30,
+            "rank": 29
+          },
           {
             "name": "Giro d'Italia - Stage 11",
             "date": "21 May 2025",

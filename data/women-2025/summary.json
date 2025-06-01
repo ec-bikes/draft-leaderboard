@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "31 May 2025 23:23 GMT",
+  "fetchedDate": "1 June 2025 23:23 GMT",
   "momentId": 191033,
   "teams": [
     {
       "owner": "Loren Rowney",
       "name": "(TBD)",
-      "totalPoints": 5523.58,
+      "totalPoints": 5612.58,
       "riders": [
         {
           "name": "Lotte Kopecky",
@@ -35,7 +35,7 @@
           "id": 2202121,
           "team": "AGS",
           "country": "be",
-          "totalPoints": 488
+          "totalPoints": 577
         },
         {
           "name": "Silke Smulders",

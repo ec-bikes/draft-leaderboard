@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "31 May 2025 23:23 GMT",
+  "fetchedDate": "1 June 2025 23:23 GMT",
   "momentId": 191015,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 8332.42,
+    "totalPoints": 9112.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -70,8 +70,20 @@
         "id": 86895,
         "team": "LTK",
         "country": "dk",
-        "totalPoints": 3617.57,
+        "totalPoints": 3877.57,
         "results": [
+          {
+            "name": "Giro d'Italia - Points classification",
+            "date": "1 Jun 2025",
+            "points": 180,
+            "rank": 1
+          },
+          {
+            "name": "Giro d'Italia - Stage 21",
+            "date": "1 Jun 2025",
+            "points": 80,
+            "rank": 4
+          },
           {
             "name": "Giro d'Italia - Stage 13",
             "date": "23 May 2025",
@@ -229,8 +241,14 @@
         "id": 150923,
         "team": "UAD",
         "country": "us",
-        "totalPoints": 429.57,
+        "totalPoints": 664.57,
         "results": [
+          {
+            "name": "Giro d'Italia - General classification",
+            "date": "1 Jun 2025",
+            "points": 235,
+            "rank": 9
+          },
           {
             "name": "Giro d'Italia - Stage 20",
             "date": "31 May 2025",
@@ -403,8 +421,14 @@
         "id": 462394,
         "team": "UAD",
         "country": "ch",
-        "totalPoints": 310,
+        "totalPoints": 435,
         "results": [
+          {
+            "name": "Tour of Norway - General classification",
+            "date": "1 Jun 2025",
+            "points": 125,
+            "rank": 3
+          },
           {
             "name": "Tour of Norway - Stage 3",
             "date": "31 May 2025",
@@ -566,8 +590,20 @@
         "id": 482927,
         "team": "TPP",
         "country": "dk",
-        "totalPoints": 426,
+        "totalPoints": 536,
         "results": [
+          {
+            "name": "Tour of Norway - General classification",
+            "date": "1 Jun 2025",
+            "points": 100,
+            "rank": 4
+          },
+          {
+            "name": "Tour of Norway - Stage 4",
+            "date": "1 Jun 2025",
+            "points": 10,
+            "rank": 3
+          },
           {
             "name": "Tour of Norway - Stage 2",
             "date": "30 May 2025",
@@ -678,8 +714,14 @@
         "sanctions": 15,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 398,
+        "totalPoints": 448,
         "results": [
+          {
+            "name": "Giro d'Italia - General classification",
+            "date": "1 Jun 2025",
+            "points": 50,
+            "rank": 21
+          },
           {
             "name": "Giro d'Italia - Stage 11",
             "date": "21 May 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "31 May 2025 23:23 GMT",
+  "fetchedDate": "1 June 2025 23:23 GMT",
   "momentId": 191015,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 8685,
+    "totalPoints": 9755,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -326,8 +326,14 @@
         "sanctions": 25,
         "team": "ADC",
         "country": "au",
-        "totalPoints": 820,
+        "totalPoints": 950,
         "results": [
+          {
+            "name": "Giro d'Italia - Stage 21",
+            "date": "1 Jun 2025",
+            "points": 130,
+            "rank": 2
+          },
           {
             "name": "Giro d'Italia - Stage 14",
             "date": "24 May 2025",
@@ -377,8 +383,14 @@
         "id": 91656,
         "team": "EFE",
         "country": "ec",
-        "totalPoints": 809,
+        "totalPoints": 1559,
         "results": [
+          {
+            "name": "Giro d'Italia - General classification",
+            "date": "1 Jun 2025",
+            "points": 750,
+            "rank": 3
+          },
           {
             "name": "Giro d'Italia - Stage 20",
             "date": "31 May 2025",
@@ -488,8 +500,14 @@
         "id": 79522,
         "team": "DAT",
         "country": "fr",
-        "totalPoints": 300,
+        "totalPoints": 385,
         "results": [
+          {
+            "name": "Boucles de la Mayenne - Crédit Mutuel - General classification",
+            "date": "1 Jun 2025",
+            "points": 85,
+            "rank": 5
+          },
           {
             "name": "Boucles de la Mayenne - Crédit Mutuel - Prologue",
             "date": "29 May 2025",
@@ -650,8 +668,20 @@
         "id": 257361,
         "team": "DAT",
         "country": "fr",
-        "totalPoints": 100,
+        "totalPoints": 205,
         "results": [
+          {
+            "name": "Boucles de la Mayenne - Crédit Mutuel - General classification",
+            "date": "1 Jun 2025",
+            "points": 100,
+            "rank": 4
+          },
+          {
+            "name": "Boucles de la Mayenne - Crédit Mutuel - Stage 3",
+            "date": "1 Jun 2025",
+            "points": 5,
+            "rank": 4
+          },
           {
             "name": "Tour du Finistère Pays de Quimper",
             "date": "9 May 2025",
