@@ -1,8 +1,8 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 June 2025 23:24 GMT",
-  "momentId": 191015,
+  "fetchedDate": "3 June 2025 23:23 GMT",
+  "momentId": 191347,
   "teams": [
     {
       "owner": "Kit Nicholson",
@@ -160,7 +160,7 @@
           "totalPoints": 677
         }
       ],
-      "movement": 1
+      "movement": 0
     },
     {
       "owner": "Toms Skujiņš",
@@ -718,7 +718,7 @@
           "totalPoints": 232
         }
       ],
-      "movement": -1
+      "movement": 0
     }
   ]
 }
