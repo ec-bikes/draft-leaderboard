@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "4 June 2025 23:23 GMT",
+  "fetchedDate": "5 June 2025 23:25 GMT",
   "momentId": 191353,
   "team": {
     "owner": "Loren Rowney",
     "name": "(TBD)",
-    "totalPoints": 5612.58,
+    "totalPoints": 5670.58,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -133,8 +133,19 @@
         "id": 88660,
         "team": "AGS",
         "country": "mu",
-        "totalPoints": 1310,
+        "totalPoints": 1368,
         "results": [
+          {
+            "name": "Tour of Britain Women - Stage 1",
+            "date": "5 Jun 2025",
+            "points": 50,
+            "rank": 1
+          },
+          {
+            "name": "Tour of Britain Women - Stage 1 - Bonus",
+            "date": "5 Jun 2025",
+            "points": 8
+          },
           {
             "name": "Liège-Bastogne-Liège Femmes",
             "date": "27 Apr 2025",

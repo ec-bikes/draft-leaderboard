@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "4 June 2025 23:24 GMT",
+  "fetchedDate": "5 June 2025 23:26 GMT",
   "momentId": 191347,
   "teams": [
     {
@@ -327,7 +327,7 @@
     {
       "owner": "Abby Mickey",
       "name": "EF Education-Swift Nation",
-      "totalPoints": 6860.29,
+      "totalPoints": 6870.29,
       "riders": [
         {
           "name": "Wout van Aert",
@@ -370,7 +370,7 @@
           "id": 86735,
           "team": "LTK",
           "country": "gb",
-          "totalPoints": 51
+          "totalPoints": 61
         },
         {
           "name": "David Gaudu",

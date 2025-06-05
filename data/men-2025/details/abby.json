@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "4 June 2025 23:24 GMT",
+  "fetchedDate": "5 June 2025 23:26 GMT",
   "momentId": 191347,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 6860.29,
+    "totalPoints": 6870.29,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -425,8 +425,14 @@
         "id": 86735,
         "team": "LTK",
         "country": "gb",
-        "totalPoints": 51,
+        "totalPoints": 61,
         "results": [
+          {
+            "name": "Tour of Slovenia - Stage 2",
+            "date": "5 Jun 2025",
+            "points": 10,
+            "rank": 3
+          },
           {
             "name": "Tour of the Alps - General classification",
             "date": "25 Apr 2025",

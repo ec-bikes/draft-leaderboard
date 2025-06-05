@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "4 June 2025 23:23 GMT",
+  "fetchedDate": "5 June 2025 23:25 GMT",
   "momentId": 191353,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 7630.72,
+    "totalPoints": 7660.72,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 2233,
+        "totalPoints": 2263,
         "results": [
+          {
+            "name": "Tour of Britain Women - Stage 1",
+            "date": "5 Jun 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Vuelta a Burgos Feminas - Stage 4 (ITT)",
             "date": "25 May 2025",

@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "4 June 2025 23:23 GMT",
+  "fetchedDate": "5 June 2025 23:25 GMT",
   "momentId": 191353,
   "teams": [
     {
       "owner": "Loren Rowney",
       "name": "(TBD)",
-      "totalPoints": 5612.58,
+      "totalPoints": 5670.58,
       "riders": [
         {
           "name": "Lotte Kopecky",
@@ -28,7 +28,7 @@
           "id": 88660,
           "team": "AGS",
           "country": "mu",
-          "totalPoints": 1310
+          "totalPoints": 1368
         },
         {
           "name": "Justine Ghekiere",
@@ -243,14 +243,14 @@
     {
       "owner": "Tilda Price",
       "name": "Santa Cruz-Shimano",
-      "totalPoints": 7630.72,
+      "totalPoints": 7660.72,
       "riders": [
         {
           "name": "Lorena Wiebes",
           "id": 141733,
           "team": "SDW",
           "country": "nl",
-          "totalPoints": 2233
+          "totalPoints": 2263
         },
         {
           "name": "Evita Muzic",
@@ -321,7 +321,7 @@
     {
       "owner": "Georgie Howe",
       "name": "Specialized-Win-Collective Racing",
-      "totalPoints": 4918.85,
+      "totalPoints": 4924.85,
       "riders": [
         {
           "name": "Kasia Niewiadoma",
@@ -385,7 +385,7 @@
           "id": 488553,
           "team": "CTC",
           "country": "ca",
-          "totalPoints": 785
+          "totalPoints": 791
         },
         {
           "name": "Riejanne Markus",
@@ -400,7 +400,7 @@
     {
       "owner": "Tils Raynolds",
       "name": "The Suffragettes Collective",
-      "totalPoints": 6669.14,
+      "totalPoints": 6739.14,
       "riders": [
         {
           "name": "Liane Lippert",
@@ -429,7 +429,7 @@
           "id": 220562,
           "team": "TFS",
           "country": "nz",
-          "totalPoints": 1006.57
+          "totalPoints": 1016.57
         },
         {
           "name": "Neve Bradbury",
@@ -443,7 +443,7 @@
           "id": 2317617,
           "team": "MOV",
           "country": "gb",
-          "totalPoints": 573.14
+          "totalPoints": 593.14
         },
         {
           "name": "Gaia Realini",
@@ -459,7 +459,7 @@
           "sanctions": 5,
           "team": "EFO",
           "country": "us",
-          "totalPoints": 147.43
+          "totalPoints": 187.43
         },
         {
           "name": "Letizia Paternoster",

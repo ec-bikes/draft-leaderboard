@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "4 June 2025 23:23 GMT",
+  "fetchedDate": "5 June 2025 23:25 GMT",
   "momentId": 191353,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 4918.85,
+    "totalPoints": 4924.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -566,8 +566,14 @@
         "id": 488553,
         "team": "CTC",
         "country": "ca",
-        "totalPoints": 785,
+        "totalPoints": 791,
         "results": [
+          {
+            "name": "Tour of Britain Women - Stage 1",
+            "date": "5 Jun 2025",
+            "points": 6,
+            "rank": 10
+          },
           {
             "name": "Durango Durango Emakumeen Saria",
             "date": "20 May 2025",

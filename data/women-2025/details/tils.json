@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "4 June 2025 23:23 GMT",
+  "fetchedDate": "5 June 2025 23:25 GMT",
   "momentId": 191353,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 6669.14,
+    "totalPoints": 6739.14,
     "riders": [
       {
         "name": "Liane Lippert",
@@ -328,8 +328,14 @@
         "id": 220562,
         "team": "TFS",
         "country": "nz",
-        "totalPoints": 1006.57,
+        "totalPoints": 1016.57,
         "results": [
+          {
+            "name": "Tour of Britain Women - Stage 1",
+            "date": "5 Jun 2025",
+            "points": 10,
+            "rank": 8
+          },
           {
             "name": "Vuelta a Burgos Feminas - General classification",
             "date": "25 May 2025",
@@ -460,8 +466,14 @@
         "id": 2317617,
         "team": "MOV",
         "country": "gb",
-        "totalPoints": 573.14,
+        "totalPoints": 593.14,
         "results": [
+          {
+            "name": "Tour of Britain Women - Stage 1",
+            "date": "5 Jun 2025",
+            "points": 20,
+            "rank": 5
+          },
           {
             "name": "Navarra Women's Elite Classic",
             "date": "14 May 2025",
@@ -527,8 +539,14 @@
         "sanctions": 5,
         "team": "EFO",
         "country": "us",
-        "totalPoints": 147.43,
+        "totalPoints": 187.43,
         "results": [
+          {
+            "name": "Tour of Britain Women - Stage 1",
+            "date": "5 Jun 2025",
+            "points": 40,
+            "rank": 2
+          },
           {
             "name": "National Championships United States WE - Road Race",
             "date": "26 May 2025",
