@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 June 2025 23:26 GMT",
+  "fetchedDate": "6 June 2025 23:26 GMT",
   "momentId": 191347,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 5395.38,
+    "totalPoints": 5415.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
         "id": 72932,
         "team": "JAY",
         "country": "nl",
-        "totalPoints": 181,
+        "totalPoints": 201,
         "results": [
+          {
+            "name": "Tour of Slovenia - Stage 3",
+            "date": "6 Jun 2025",
+            "points": 20,
+            "rank": 1
+          },
           {
             "name": "Tour of Slovenia - Stage 1",
             "date": "4 Jun 2025",

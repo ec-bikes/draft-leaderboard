@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 June 2025 23:25 GMT",
+  "fetchedDate": "6 June 2025 23:23 GMT",
   "momentId": 191353,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 6739.14,
+    "totalPoints": 6805.14,
     "riders": [
       {
         "name": "Liane Lippert",
@@ -328,8 +328,14 @@
         "id": 220562,
         "team": "TFS",
         "country": "nz",
-        "totalPoints": 1016.57,
+        "totalPoints": 1046.57,
         "results": [
+          {
+            "name": "Tour of Britain Women - Stage 2",
+            "date": "6 Jun 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Tour of Britain Women - Stage 1",
             "date": "5 Jun 2025",
@@ -466,8 +472,14 @@
         "id": 2317617,
         "team": "MOV",
         "country": "gb",
-        "totalPoints": 593.14,
+        "totalPoints": 613.14,
         "results": [
+          {
+            "name": "Tour of Britain Women - Stage 2",
+            "date": "6 Jun 2025",
+            "points": 20,
+            "rank": 5
+          },
           {
             "name": "Tour of Britain Women - Stage 1",
             "date": "5 Jun 2025",
@@ -539,8 +551,19 @@
         "sanctions": 5,
         "team": "EFO",
         "country": "us",
-        "totalPoints": 187.43,
+        "totalPoints": 203.43,
         "results": [
+          {
+            "name": "Tour of Britain Women - Stage 2",
+            "date": "6 Jun 2025",
+            "points": 8,
+            "rank": 9
+          },
+          {
+            "name": "Tour of Britain Women - Stage 2 - Bonus",
+            "date": "6 Jun 2025",
+            "points": 8
+          },
           {
             "name": "Tour of Britain Women - Stage 1",
             "date": "5 Jun 2025",

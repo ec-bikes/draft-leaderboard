@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 June 2025 23:25 GMT",
+  "fetchedDate": "6 June 2025 23:23 GMT",
   "momentId": 191353,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 4924.85,
+    "totalPoints": 4974.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -566,8 +566,14 @@
         "id": 488553,
         "team": "CTC",
         "country": "ca",
-        "totalPoints": 791,
+        "totalPoints": 801,
         "results": [
+          {
+            "name": "Tour of Britain Women - Stage 2",
+            "date": "6 Jun 2025",
+            "points": 10,
+            "rank": 8
+          },
           {
             "name": "Tour of Britain Women - Stage 1",
             "date": "5 Jun 2025",
@@ -671,8 +677,14 @@
         "id": 86854,
         "team": "LTK",
         "country": "nl",
-        "totalPoints": 109.14,
+        "totalPoints": 149.14,
         "results": [
+          {
+            "name": "Tour of Britain Women - Stage 2",
+            "date": "6 Jun 2025",
+            "points": 40,
+            "rank": 2
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
             "date": "10 May 2025",

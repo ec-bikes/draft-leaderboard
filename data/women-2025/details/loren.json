@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 June 2025 23:25 GMT",
+  "fetchedDate": "6 June 2025 23:23 GMT",
   "momentId": 191353,
   "team": {
     "owner": "Loren Rowney",
     "name": "(TBD)",
-    "totalPoints": 5670.58,
+    "totalPoints": 5685.58,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -82,8 +82,14 @@
         "id": 86838,
         "team": "CSZ",
         "country": "dk",
-        "totalPoints": 66,
+        "totalPoints": 81,
         "results": [
+          {
+            "name": "Tour of Britain Women - Stage 2",
+            "date": "6 Jun 2025",
+            "points": 15,
+            "rank": 7
+          },
           {
             "name": "Itzulia Women - General classification",
             "date": "18 May 2025",

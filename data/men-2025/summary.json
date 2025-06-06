@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 June 2025 23:26 GMT",
+  "fetchedDate": "6 June 2025 23:26 GMT",
   "momentId": 191347,
   "teams": [
     {
@@ -243,7 +243,7 @@
           "totalPoints": 360
         }
       ],
-      "movement": -2
+      "movement": -1
     },
     {
       "owner": "Dane Cash",
@@ -322,7 +322,7 @@
           "totalPoints": 462
         }
       ],
-      "movement": 1
+      "movement": 0
     },
     {
       "owner": "Abby Mickey",
@@ -644,14 +644,14 @@
     {
       "owner": "Discord Undrafted",
       "name": "Team Movistar easyJet",
-      "totalPoints": 5395.38,
+      "totalPoints": 5415.38,
       "riders": [
         {
           "name": "Dylan Groenewegen",
           "id": 72932,
           "team": "JAY",
           "country": "nl",
-          "totalPoints": 181
+          "totalPoints": 201
         },
         {
           "name": "Matej Mohorič",

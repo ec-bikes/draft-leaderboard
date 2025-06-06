@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 June 2025 23:25 GMT",
+  "fetchedDate": "6 June 2025 23:23 GMT",
   "momentId": 191353,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 5884.71,
+    "totalPoints": 5902.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -249,8 +249,14 @@
         "id": 98571,
         "team": "UAD",
         "country": "nl",
-        "totalPoints": 838,
+        "totalPoints": 856,
         "results": [
+          {
+            "name": "Tour of Britain Women - Stage 2",
+            "date": "6 Jun 2025",
+            "points": 18,
+            "rank": 6
+          },
           {
             "name": "Itzulia Women - Stage 2",
             "date": "17 May 2025",

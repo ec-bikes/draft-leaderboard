@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 June 2025 23:25 GMT",
+  "fetchedDate": "6 June 2025 23:23 GMT",
   "momentId": 191353,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 9302.57,
+    "totalPoints": 9333.57,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
         "team": "TFS",
         "country": "nl",
-        "totalPoints": 2791.57,
+        "totalPoints": 2803.57,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya Femenina - Stage 1",
+            "date": "6 Jun 2025",
+            "points": 12,
+            "rank": 2
+          },
           {
             "name": "Itzulia Women - General classification",
             "date": "18 May 2025",
@@ -715,8 +721,19 @@
         "id": 1638135,
         "team": "TFS",
         "country": "ch",
-        "totalPoints": 921,
+        "totalPoints": 940,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya Femenina - Stage 1",
+            "date": "6 Jun 2025",
+            "points": 16,
+            "rank": 1
+          },
+          {
+            "name": "Volta Ciclista a Catalunya Femenina - Stage 1 - Bonus",
+            "date": "6 Jun 2025",
+            "points": 3
+          },
           {
             "name": "Vuelta a Burgos Feminas - General classification",
             "date": "25 May 2025",
