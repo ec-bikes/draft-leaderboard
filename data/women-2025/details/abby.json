@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 June 2025 23:23 GMT",
+  "fetchedDate": "7 June 2025 23:24 GMT",
   "momentId": 191353,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 5902.71,
+    "totalPoints": 5938.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -249,8 +249,14 @@
         "id": 98571,
         "team": "UAD",
         "country": "nl",
-        "totalPoints": 856,
+        "totalPoints": 881,
         "results": [
+          {
+            "name": "Tour of Britain Women - Stage 3",
+            "date": "7 Jun 2025",
+            "points": 25,
+            "rank": 4
+          },
           {
             "name": "Tour of Britain Women - Stage 2",
             "date": "6 Jun 2025",
@@ -336,8 +342,14 @@
         "id": 157612,
         "team": "TPP",
         "country": "nl",
-        "totalPoints": 453,
+        "totalPoints": 459,
         "results": [
+          {
+            "name": "Tour of Britain Women - Stage 3",
+            "date": "7 Jun 2025",
+            "points": 6,
+            "rank": 10
+          },
           {
             "name": "Scheldeprijs WE",
             "date": "9 Apr 2025",
@@ -616,8 +628,14 @@
         "id": 233425,
         "team": "VWT",
         "country": "nl",
-        "totalPoints": 111,
+        "totalPoints": 116,
         "results": [
+          {
+            "name": "Antwerp Port Epic Ladies",
+            "date": "7 Jun 2025",
+            "points": 5,
+            "rank": 23
+          },
           {
             "name": "Trofee Maarten Wynants",
             "date": "11 May 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 June 2025 23:23 GMT",
+  "fetchedDate": "7 June 2025 23:24 GMT",
   "momentId": 191353,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 6805.14,
+    "totalPoints": 6897.14,
     "riders": [
       {
         "name": "Liane Lippert",
@@ -328,8 +328,14 @@
         "id": 220562,
         "team": "TFS",
         "country": "nz",
-        "totalPoints": 1046.57,
+        "totalPoints": 1076.57,
         "results": [
+          {
+            "name": "Tour of Britain Women - Stage 3",
+            "date": "7 Jun 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Tour of Britain Women - Stage 2",
             "date": "6 Jun 2025",
@@ -439,8 +445,14 @@
         "id": 1987823,
         "team": "CSZ",
         "country": "au",
-        "totalPoints": 159.86,
+        "totalPoints": 163.86,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya Femenina - Stage 2",
+            "date": "7 Jun 2025",
+            "points": 4,
+            "rank": 6
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
             "date": "4 May 2025",
@@ -472,8 +484,19 @@
         "id": 2317617,
         "team": "MOV",
         "country": "gb",
-        "totalPoints": 613.14,
+        "totalPoints": 671.14,
         "results": [
+          {
+            "name": "Tour of Britain Women - Stage 3",
+            "date": "7 Jun 2025",
+            "points": 50,
+            "rank": 1
+          },
+          {
+            "name": "Tour of Britain Women - Stage 3 - Bonus",
+            "date": "7 Jun 2025",
+            "points": 8
+          },
           {
             "name": "Tour of Britain Women - Stage 2",
             "date": "6 Jun 2025",

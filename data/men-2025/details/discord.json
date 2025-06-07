@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 June 2025 23:26 GMT",
+  "fetchedDate": "7 June 2025 23:24 GMT",
   "momentId": 191347,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 5415.38,
+    "totalPoints": 5540.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -449,8 +449,14 @@
         "id": 1759987,
         "team": "SOQ",
         "country": "fr",
-        "totalPoints": 713,
+        "totalPoints": 838,
         "results": [
+          {
+            "name": "Heylen Vastgoed Heistse Pijl",
+            "date": "7 Jun 2025",
+            "points": 125,
+            "rank": 1
+          },
           {
             "name": "Giro d'Italia - Stage 12",
             "date": "22 May 2025",

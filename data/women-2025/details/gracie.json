@@ -1,20 +1,31 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 June 2025 23:23 GMT",
+  "fetchedDate": "7 June 2025 23:24 GMT",
   "momentId": 191353,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 9333.57,
+    "totalPoints": 9358.57,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
         "team": "TFS",
         "country": "nl",
-        "totalPoints": 2803.57,
+        "totalPoints": 2822.57,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya Femenina - Stage 2",
+            "date": "7 Jun 2025",
+            "points": 16,
+            "rank": 1
+          },
+          {
+            "name": "Volta Ciclista a Catalunya Femenina - Stage 2 - Bonus",
+            "date": "7 Jun 2025",
+            "points": 3
+          },
           {
             "name": "Volta Ciclista a Catalunya Femenina - Stage 1",
             "date": "6 Jun 2025",
@@ -721,8 +732,14 @@
         "id": 1638135,
         "team": "TFS",
         "country": "ch",
-        "totalPoints": 940,
+        "totalPoints": 946,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya Femenina - Stage 2",
+            "date": "7 Jun 2025",
+            "points": 6,
+            "rank": 4
+          },
           {
             "name": "Volta Ciclista a Catalunya Femenina - Stage 1",
             "date": "6 Jun 2025",

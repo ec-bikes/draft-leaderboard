@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 June 2025 23:23 GMT",
+  "fetchedDate": "7 June 2025 23:24 GMT",
   "momentId": 191353,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 7660.72,
+    "totalPoints": 7672.72,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -420,8 +420,14 @@
         "id": 1742562,
         "team": "TVL",
         "country": "fr",
-        "totalPoints": 106.86,
+        "totalPoints": 118.86,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya Femenina - Stage 2",
+            "date": "7 Jun 2025",
+            "points": 12,
+            "rank": 2
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
             "date": "10 May 2025",

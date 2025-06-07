@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 June 2025 23:23 GMT",
+  "fetchedDate": "7 June 2025 23:24 GMT",
   "momentId": 191353,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 4974.85,
+    "totalPoints": 5032.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -359,8 +359,14 @@
         "sanctions": 15,
         "team": "HPH",
         "country": "us",
-        "totalPoints": 251.14,
+        "totalPoints": 301.14,
         "results": [
+          {
+            "name": "Antwerp Port Epic Ladies",
+            "date": "7 Jun 2025",
+            "points": 50,
+            "rank": 8
+          },
           {
             "name": "Vuelta a Burgos Feminas - Stage 2",
             "date": "23 May 2025",
@@ -566,8 +572,14 @@
         "id": 488553,
         "team": "CTC",
         "country": "ca",
-        "totalPoints": 801,
+        "totalPoints": 809,
         "results": [
+          {
+            "name": "Tour of Britain Women - Stage 3",
+            "date": "7 Jun 2025",
+            "points": 8,
+            "rank": 9
+          },
           {
             "name": "Tour of Britain Women - Stage 2",
             "date": "6 Jun 2025",
