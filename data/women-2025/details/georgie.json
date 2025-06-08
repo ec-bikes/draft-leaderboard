@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 June 2025 23:24 GMT",
+  "fetchedDate": "8 June 2025 23:22 GMT",
   "momentId": 191353,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 5032.85,
+    "totalPoints": 5492.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -359,8 +359,14 @@
         "sanctions": 15,
         "team": "HPH",
         "country": "us",
-        "totalPoints": 301.14,
+        "totalPoints": 361.14,
         "results": [
+          {
+            "name": "Dwars door de Westhoek",
+            "date": "8 Jun 2025",
+            "points": 60,
+            "rank": 4
+          },
           {
             "name": "Antwerp Port Epic Ladies",
             "date": "7 Jun 2025",
@@ -572,8 +578,14 @@
         "id": 488553,
         "team": "CTC",
         "country": "ca",
-        "totalPoints": 809,
+        "totalPoints": 989,
         "results": [
+          {
+            "name": "Tour of Britain Women - General classification",
+            "date": "8 Jun 2025",
+            "points": 180,
+            "rank": 5
+          },
           {
             "name": "Tour of Britain Women - Stage 3",
             "date": "7 Jun 2025",
@@ -689,8 +701,14 @@
         "id": 86854,
         "team": "LTK",
         "country": "nl",
-        "totalPoints": 149.14,
+        "totalPoints": 369.14,
         "results": [
+          {
+            "name": "Tour of Britain Women - General classification",
+            "date": "8 Jun 2025",
+            "points": 220,
+            "rank": 4
+          },
           {
             "name": "Tour of Britain Women - Stage 2",
             "date": "6 Jun 2025",

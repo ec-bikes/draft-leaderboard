@@ -1,20 +1,31 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 June 2025 23:24 GMT",
+  "fetchedDate": "8 June 2025 23:23 GMT",
   "momentId": 191347,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 9755,
+    "totalPoints": 9825,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "team": "UAD",
         "country": "si",
-        "totalPoints": 4385,
+        "totalPoints": 4455,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - Stage 1",
+            "date": "8 Jun 2025",
+            "points": 60,
+            "rank": 1
+          },
+          {
+            "name": "Critérium du Dauphiné - Stage 1 - Bonus",
+            "date": "8 Jun 2025",
+            "points": 10
+          },
           {
             "name": "Liège-Bastogne-Liège",
             "date": "27 Apr 2025",

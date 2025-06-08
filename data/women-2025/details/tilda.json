@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 June 2025 23:24 GMT",
+  "fetchedDate": "8 June 2025 23:22 GMT",
   "momentId": 191353,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 7672.72,
+    "totalPoints": 7838.72,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 2263,
+        "totalPoints": 2313,
         "results": [
+          {
+            "name": "Tour of Britain Women - Stage 4",
+            "date": "8 Jun 2025",
+            "points": 50,
+            "rank": 1
+          },
           {
             "name": "Tour of Britain Women - Stage 1",
             "date": "5 Jun 2025",
@@ -420,8 +426,14 @@
         "id": 1742562,
         "team": "TVL",
         "country": "fr",
-        "totalPoints": 118.86,
+        "totalPoints": 188.86,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya Femenina - General classification",
+            "date": "8 Jun 2025",
+            "points": 70,
+            "rank": 3
+          },
           {
             "name": "Volta Ciclista a Catalunya Femenina - Stage 2",
             "date": "7 Jun 2025",
@@ -483,8 +495,14 @@
         "id": 228141,
         "team": "UAD",
         "country": "nl",
-        "totalPoints": 81,
+        "totalPoints": 111,
         "results": [
+          {
+            "name": "Dwars door de Westhoek",
+            "date": "8 Jun 2025",
+            "points": 30,
+            "rank": 8
+          },
           {
             "name": "Simac Omloop der Kempen Ladies",
             "date": "17 May 2025",
@@ -522,8 +540,14 @@
         "id": 96399,
         "team": "SDW",
         "country": "pl",
-        "totalPoints": 524,
+        "totalPoints": 540,
         "results": [
+          {
+            "name": "Tour of Britain Women - General classification",
+            "date": "8 Jun 2025",
+            "points": 16,
+            "rank": 23
+          },
           {
             "name": "Festival Elsy Jacobs à Luxembourg",
             "date": "4 May 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 June 2025 23:24 GMT",
+  "fetchedDate": "8 June 2025 23:22 GMT",
   "momentId": 191353,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 5938.71,
+    "totalPoints": 6397.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -249,8 +249,14 @@
         "id": 98571,
         "team": "UAD",
         "country": "nl",
-        "totalPoints": 881,
+        "totalPoints": 1141,
         "results": [
+          {
+            "name": "Tour of Britain Women - General classification",
+            "date": "8 Jun 2025",
+            "points": 260,
+            "rank": 3
+          },
           {
             "name": "Tour of Britain Women - Stage 3",
             "date": "7 Jun 2025",
@@ -342,8 +348,20 @@
         "id": 157612,
         "team": "TPP",
         "country": "nl",
-        "totalPoints": 459,
+        "totalPoints": 515,
         "results": [
+          {
+            "name": "Tour of Britain Women - General classification",
+            "date": "8 Jun 2025",
+            "points": 16,
+            "rank": 25
+          },
+          {
+            "name": "Tour of Britain Women - Stage 4",
+            "date": "8 Jun 2025",
+            "points": 40,
+            "rank": 2
+          },
           {
             "name": "Tour of Britain Women - Stage 3",
             "date": "7 Jun 2025",
@@ -393,8 +411,20 @@
         "id": 237690,
         "team": "LTK",
         "country": "gb",
-        "totalPoints": 307.14,
+        "totalPoints": 425.14,
         "results": [
+          {
+            "name": "Tour of Britain Women - General classification",
+            "date": "8 Jun 2025",
+            "points": 100,
+            "rank": 8
+          },
+          {
+            "name": "Tour of Britain Women - Stage 4",
+            "date": "8 Jun 2025",
+            "points": 18,
+            "rank": 6
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
             "date": "10 May 2025",
@@ -468,8 +498,14 @@
         "id": 156600,
         "team": "CSZ",
         "country": "it",
-        "totalPoints": 863,
+        "totalPoints": 888,
         "results": [
+          {
+            "name": "Tour of Britain Women - Stage 4",
+            "date": "8 Jun 2025",
+            "points": 25,
+            "rank": 4
+          },
           {
             "name": "Paris-Roubaix Femmes avec Zwift",
             "date": "12 Apr 2025",

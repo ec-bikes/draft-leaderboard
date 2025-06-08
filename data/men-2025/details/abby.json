@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 June 2025 23:24 GMT",
+  "fetchedDate": "8 June 2025 23:23 GMT",
   "momentId": 191347,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 6870.29,
+    "totalPoints": 7000.29,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -106,8 +106,14 @@
         "id": 1707195,
         "team": "IWA",
         "country": "er",
-        "totalPoints": 767,
+        "totalPoints": 772,
         "results": [
+          {
+            "name": "Brussels Cycling Classic",
+            "date": "8 Jun 2025",
+            "points": 5,
+            "rank": 20
+          },
           {
             "name": "Boucles de la Mayenne - Crédit Mutuel - General classification",
             "date": "1 Jun 2025",
@@ -425,8 +431,14 @@
         "id": 86735,
         "team": "LTK",
         "country": "gb",
-        "totalPoints": 61,
+        "totalPoints": 186,
         "results": [
+          {
+            "name": "Tour of Slovenia - General classification",
+            "date": "8 Jun 2025",
+            "points": 125,
+            "rank": 3
+          },
           {
             "name": "Tour of Slovenia - Stage 2",
             "date": "5 Jun 2025",

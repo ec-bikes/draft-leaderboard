@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 June 2025 23:24 GMT",
+  "fetchedDate": "8 June 2025 23:22 GMT",
   "momentId": 191353,
   "team": {
     "owner": "Loren Rowney",
     "name": "(TBD)",
-    "totalPoints": 5835.58,
+    "totalPoints": 6000.58,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -82,8 +82,14 @@
         "id": 86838,
         "team": "CSZ",
         "country": "dk",
-        "totalPoints": 81,
+        "totalPoints": 221,
         "results": [
+          {
+            "name": "Tour of Britain Women - General classification",
+            "date": "8 Jun 2025",
+            "points": 140,
+            "rank": 6
+          },
           {
             "name": "Tour of Britain Women - Stage 2",
             "date": "6 Jun 2025",
@@ -509,8 +515,14 @@
         "id": 153287,
         "team": "LTK",
         "country": "fr",
-        "totalPoints": 558,
+        "totalPoints": 583,
         "results": [
+          {
+            "name": "Dwars door de Westhoek",
+            "date": "8 Jun 2025",
+            "points": 25,
+            "rank": 9
+          },
           {
             "name": "Antwerp Port Epic Ladies",
             "date": "7 Jun 2025",

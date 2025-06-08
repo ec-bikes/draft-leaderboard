@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 June 2025 23:24 GMT",
+  "fetchedDate": "8 June 2025 23:22 GMT",
   "momentId": 191353,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 9358.57,
+    "totalPoints": 9571.57,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
         "team": "TFS",
         "country": "nl",
-        "totalPoints": 2822.57,
+        "totalPoints": 2947.57,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya Femenina - General classification",
+            "date": "8 Jun 2025",
+            "points": 125,
+            "rank": 1
+          },
           {
             "name": "Volta Ciclista a Catalunya Femenina - Stage 2",
             "date": "7 Jun 2025",
@@ -732,8 +738,14 @@
         "id": 1638135,
         "team": "TFS",
         "country": "ch",
-        "totalPoints": 946,
+        "totalPoints": 1031,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya Femenina - General classification",
+            "date": "8 Jun 2025",
+            "points": 85,
+            "rank": 2
+          },
           {
             "name": "Volta Ciclista a Catalunya Femenina - Stage 2",
             "date": "7 Jun 2025",
@@ -848,8 +860,14 @@
         "id": 98622,
         "team": "HPH",
         "country": "at",
-        "totalPoints": 305,
+        "totalPoints": 308,
         "results": [
+          {
+            "name": "Dwars door de Westhoek",
+            "date": "8 Jun 2025",
+            "points": 3,
+            "rank": 19
+          },
           {
             "name": "Simac Omloop der Kempen Ladies",
             "date": "17 May 2025",

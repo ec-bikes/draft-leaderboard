@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 June 2025 23:24 GMT",
+  "fetchedDate": "8 June 2025 23:22 GMT",
   "momentId": 191353,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 6897.14,
+    "totalPoints": 7721.14,
     "riders": [
       {
         "name": "Liane Lippert",
@@ -328,8 +328,20 @@
         "id": 220562,
         "team": "TFS",
         "country": "nz",
-        "totalPoints": 1076.57,
+        "totalPoints": 1506.57,
         "results": [
+          {
+            "name": "Tour of Britain Women - General classification",
+            "date": "8 Jun 2025",
+            "points": 400,
+            "rank": 1
+          },
+          {
+            "name": "Tour of Britain Women - Stage 4",
+            "date": "8 Jun 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Tour of Britain Women - Stage 3",
             "date": "7 Jun 2025",
@@ -445,8 +457,14 @@
         "id": 1987823,
         "team": "CSZ",
         "country": "au",
-        "totalPoints": 163.86,
+        "totalPoints": 198.86,
         "results": [
+          {
+            "name": "Volta Ciclista a Catalunya Femenina - General classification",
+            "date": "8 Jun 2025",
+            "points": 35,
+            "rank": 7
+          },
           {
             "name": "Volta Ciclista a Catalunya Femenina - Stage 2",
             "date": "7 Jun 2025",
@@ -484,8 +502,20 @@
         "id": 2317617,
         "team": "MOV",
         "country": "gb",
-        "totalPoints": 671.14,
+        "totalPoints": 1006.14,
         "results": [
+          {
+            "name": "Tour of Britain Women - General classification",
+            "date": "8 Jun 2025",
+            "points": 320,
+            "rank": 2
+          },
+          {
+            "name": "Tour of Britain Women - Stage 4",
+            "date": "8 Jun 2025",
+            "points": 15,
+            "rank": 7
+          },
           {
             "name": "Tour of Britain Women - Stage 3",
             "date": "7 Jun 2025",
@@ -574,8 +604,14 @@
         "sanctions": 5,
         "team": "EFO",
         "country": "us",
-        "totalPoints": 203.43,
+        "totalPoints": 227.43,
         "results": [
+          {
+            "name": "Tour of Britain Women - General classification",
+            "date": "8 Jun 2025",
+            "points": 24,
+            "rank": 16
+          },
           {
             "name": "Tour of Britain Women - Stage 2",
             "date": "6 Jun 2025",

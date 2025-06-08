@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 June 2025 23:24 GMT",
+  "fetchedDate": "8 June 2025 23:23 GMT",
   "momentId": 191347,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 9197.42,
+    "totalPoints": 9232.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
         "id": 79462,
         "team": "ADC",
         "country": "nl",
-        "totalPoints": 2725,
+        "totalPoints": 2755,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - Stage 1",
+            "date": "8 Jun 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Paris-Roubaix",
             "date": "13 Apr 2025",
@@ -590,8 +596,14 @@
         "id": 482927,
         "team": "TPP",
         "country": "dk",
-        "totalPoints": 621,
+        "totalPoints": 626,
         "results": [
+          {
+            "name": "Brussels Cycling Classic",
+            "date": "8 Jun 2025",
+            "points": 5,
+            "rank": 25
+          },
           {
             "name": "Heylen Vastgoed Heistse Pijl",
             "date": "7 Jun 2025",

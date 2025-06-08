@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 June 2025 23:24 GMT",
+  "fetchedDate": "8 June 2025 23:23 GMT",
   "momentId": 191347,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 5540.38,
+    "totalPoints": 5545.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -449,8 +449,14 @@
         "id": 1759987,
         "team": "SOQ",
         "country": "fr",
-        "totalPoints": 838,
+        "totalPoints": 843,
         "results": [
+          {
+            "name": "Brussels Cycling Classic",
+            "date": "8 Jun 2025",
+            "points": 5,
+            "rank": 17
+          },
           {
             "name": "Heylen Vastgoed Heistse Pijl",
             "date": "7 Jun 2025",
