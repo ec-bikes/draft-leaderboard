@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 June 2025 23:23 GMT",
+  "fetchedDate": "9 June 2025 23:24 GMT",
   "momentId": 191347,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 7000.29,
+    "totalPoints": 7003.29,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -106,8 +106,14 @@
         "id": 1707195,
         "team": "IWA",
         "country": "er",
-        "totalPoints": 772,
+        "totalPoints": 775,
         "results": [
+          {
+            "name": "Antwerp Port Epic / Sels Trophy",
+            "date": "9 Jun 2025",
+            "points": 3,
+            "rank": 21
+          },
           {
             "name": "Brussels Cycling Classic",
             "date": "8 Jun 2025",

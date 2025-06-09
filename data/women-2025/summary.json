@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 June 2025 23:22 GMT",
+  "fetchedDate": "9 June 2025 23:24 GMT",
   "momentId": 191353,
   "teams": [
     {
       "owner": "Loren Rowney",
       "name": "(TBD)",
-      "totalPoints": 6000.58,
+      "totalPoints": 6185.58,
       "riders": [
         {
           "name": "Lotte Kopecky",
@@ -49,7 +49,7 @@
           "id": 99885,
           "team": "HPH",
           "country": "pl",
-          "totalPoints": 125
+          "totalPoints": 185
         },
         {
           "name": "Lore de Schepper",
@@ -70,7 +70,7 @@
           "id": 153287,
           "team": "LTK",
           "country": "fr",
-          "totalPoints": 583
+          "totalPoints": 708
         },
         {
           "name": "Georgia Baker",
@@ -85,7 +85,7 @@
     {
       "owner": "Abby Mickey",
       "name": "The Tortured Breakaway Department",
-      "totalPoints": 6397.71,
+      "totalPoints": 6427.71,
       "riders": [
         {
           "name": "Elisa Longo Borghini",
@@ -156,7 +156,7 @@
           "id": 233425,
           "team": "VWT",
           "country": "nl",
-          "totalPoints": 116
+          "totalPoints": 146
         }
       ],
       "movement": 0
@@ -164,7 +164,7 @@
     {
       "owner": "Gracie Elvin",
       "name": "Lamborghini p/b Tony's Chocolonely",
-      "totalPoints": 9571.57,
+      "totalPoints": 9641.57,
       "riders": [
         {
           "name": "Demi Vollering",
@@ -235,7 +235,7 @@
           "id": 98622,
           "team": "HPH",
           "country": "at",
-          "totalPoints": 308
+          "totalPoints": 378
         }
       ],
       "movement": 0
@@ -243,7 +243,7 @@
     {
       "owner": "Tilda Price",
       "name": "Santa Cruz-Shimano",
-      "totalPoints": 7838.72,
+      "totalPoints": 7841.72,
       "riders": [
         {
           "name": "Lorena Wiebes",
@@ -292,7 +292,7 @@
           "id": 228141,
           "team": "UAD",
           "country": "nl",
-          "totalPoints": 111
+          "totalPoints": 114
         },
         {
           "name": "Marta Lach",
@@ -321,7 +321,7 @@
     {
       "owner": "Georgie Howe",
       "name": "Specialized-Win-Collective Racing",
-      "totalPoints": 5492.85,
+      "totalPoints": 5495.85,
       "riders": [
         {
           "name": "Kasia Niewiadoma",
@@ -364,7 +364,7 @@
           "sanctions": 15,
           "team": "HPH",
           "country": "us",
-          "totalPoints": 361.14
+          "totalPoints": 364.14
         },
         {
           "name": "Juliette Labous",

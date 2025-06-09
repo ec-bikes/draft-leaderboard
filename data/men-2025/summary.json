@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 June 2025 23:23 GMT",
+  "fetchedDate": "9 June 2025 23:24 GMT",
   "momentId": 191347,
   "teams": [
     {
@@ -165,7 +165,7 @@
     {
       "owner": "Toms Skujiņš",
       "name": "Lidl-Trek-Bauer",
-      "totalPoints": 7590.25,
+      "totalPoints": 7660.25,
       "riders": [
         {
           "name": "Remco Evenepoel",
@@ -180,7 +180,7 @@
           "sanctions": 25,
           "team": "SOQ",
           "country": "be",
-          "totalPoints": 1078.29
+          "totalPoints": 1148.29
         },
         {
           "name": "Ben O'Connor",
@@ -327,7 +327,7 @@
     {
       "owner": "Abby Mickey",
       "name": "EF Education-Swift Nation",
-      "totalPoints": 7000.29,
+      "totalPoints": 7003.29,
       "riders": [
         {
           "name": "Wout van Aert",
@@ -341,7 +341,7 @@
           "id": 1707195,
           "team": "IWA",
           "country": "er",
-          "totalPoints": 772
+          "totalPoints": 775
         },
         {
           "name": "Maxim van Gils",
@@ -406,14 +406,14 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 9232.42,
+      "totalPoints": 9267.42,
       "riders": [
         {
           "name": "Mathieu van der Poel",
           "id": 79462,
           "team": "ADC",
           "country": "nl",
-          "totalPoints": 2755
+          "totalPoints": 2785
         },
         {
           "name": "Mads Pedersen",
@@ -456,7 +456,7 @@
           "id": 482927,
           "team": "TPP",
           "country": "dk",
-          "totalPoints": 626
+          "totalPoints": 631
         },
         {
           "name": "Diego Ulissi",
@@ -486,7 +486,7 @@
     {
       "owner": "Caley Fretz",
       "name": "US Postal Service Bald Eagles",
-      "totalPoints": 8208.46,
+      "totalPoints": 8278.46,
       "riders": [
         {
           "name": "Matteo Jorgenson",
@@ -501,7 +501,7 @@
           "id": 301151,
           "team": "LTK",
           "country": "it",
-          "totalPoints": 948.86
+          "totalPoints": 1018.86
         },
         {
           "name": "Sepp Kuss",

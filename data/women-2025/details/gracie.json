@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 June 2025 23:22 GMT",
+  "fetchedDate": "9 June 2025 23:24 GMT",
   "momentId": 191353,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 9571.57,
+    "totalPoints": 9641.57,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -860,8 +860,14 @@
         "id": 98622,
         "team": "HPH",
         "country": "at",
-        "totalPoints": 308,
+        "totalPoints": 378,
         "results": [
+          {
+            "name": "GP Mazda Schelkens",
+            "date": "9 Jun 2025",
+            "points": 70,
+            "rank": 3
+          },
           {
             "name": "Dwars door de Westhoek",
             "date": "8 Jun 2025",

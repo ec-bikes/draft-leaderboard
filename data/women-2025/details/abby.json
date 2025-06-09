@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 June 2025 23:22 GMT",
+  "fetchedDate": "9 June 2025 23:24 GMT",
   "momentId": 191353,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 6397.71,
+    "totalPoints": 6427.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -664,8 +664,14 @@
         "id": 233425,
         "team": "VWT",
         "country": "nl",
-        "totalPoints": 116,
+        "totalPoints": 146,
         "results": [
+          {
+            "name": "GP Mazda Schelkens",
+            "date": "9 Jun 2025",
+            "points": 30,
+            "rank": 8
+          },
           {
             "name": "Antwerp Port Epic Ladies",
             "date": "7 Jun 2025",

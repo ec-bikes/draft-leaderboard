@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 June 2025 23:23 GMT",
+  "fetchedDate": "9 June 2025 23:24 GMT",
   "momentId": 191347,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 7590.25,
+    "totalPoints": 7660.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -83,8 +83,14 @@
         "sanctions": 25,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 1078.29,
+        "totalPoints": 1148.29,
         "results": [
+          {
+            "name": "Antwerp Port Epic / Sels Trophy",
+            "date": "9 Jun 2025",
+            "points": 70,
+            "rank": 3
+          },
           {
             "name": "Brussels Cycling Classic",
             "date": "8 Jun 2025",
