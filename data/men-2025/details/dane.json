@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 June 2025 23:24 GMT",
-  "momentId": 191347,
+  "fetchedDate": "10 June 2025 23:23 GMT",
+  "momentId": 191408,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 8950.57,
+    "totalPoints": 8975.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -565,8 +565,14 @@
         "id": 2097255,
         "team": "RBH",
         "country": "de",
-        "totalPoints": 719,
+        "totalPoints": 744,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - Stage 3",
+            "date": "10 Jun 2025",
+            "points": 25,
+            "rank": 4
+          },
           {
             "name": "Itzulia Basque Country - General classification",
             "date": "12 Apr 2025",
