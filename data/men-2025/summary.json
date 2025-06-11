@@ -1,20 +1,20 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 June 2025 23:23 GMT",
+  "fetchedDate": "11 June 2025 23:25 GMT",
   "momentId": 191408,
   "teams": [
     {
       "owner": "Kit Nicholson",
       "name": "Picnic-Letterboxd",
-      "totalPoints": 9825,
+      "totalPoints": 9850,
       "riders": [
         {
           "name": "Tadej Pogačar",
           "id": 149727,
           "team": "UAD",
           "country": "si",
-          "totalPoints": 4455
+          "totalPoints": 4480
         },
         {
           "name": "Thibau Nys",
@@ -87,14 +87,14 @@
     {
       "owner": "Jonny Long",
       "name": "Ineos Grenadiers-Greenpeace-Poundland",
-      "totalPoints": 5768.14,
+      "totalPoints": 5808.14,
       "riders": [
         {
           "name": "Jonas Vingegaard",
           "id": 112082,
           "team": "TVL",
           "country": "dk",
-          "totalPoints": 318.57
+          "totalPoints": 358.57
         },
         {
           "name": "Mattias Skjelmose",
@@ -165,14 +165,14 @@
     {
       "owner": "Toms Skujiņš",
       "name": "Lidl-Trek-Bauer",
-      "totalPoints": 7660.25,
+      "totalPoints": 7730.25,
       "riders": [
         {
           "name": "Remco Evenepoel",
           "id": 1596046,
           "team": "SOQ",
           "country": "be",
-          "totalPoints": 953
+          "totalPoints": 1023
         },
         {
           "name": "Tim Merlier",
@@ -248,7 +248,7 @@
     {
       "owner": "Dane Cash",
       "name": "Visma-Lease a Bike-Monster Energy",
-      "totalPoints": 8975.57,
+      "totalPoints": 8995.57,
       "riders": [
         {
           "name": "Jasper Philipsen",
@@ -304,7 +304,7 @@
           "id": 2097255,
           "team": "RBH",
           "country": "de",
-          "totalPoints": 744
+          "totalPoints": 764
         },
         {
           "name": "Romain Grégoire",
@@ -406,14 +406,14 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 9287.42,
+      "totalPoints": 9302.42,
       "riders": [
         {
           "name": "Mathieu van der Poel",
           "id": 79462,
           "team": "ADC",
           "country": "nl",
-          "totalPoints": 2805
+          "totalPoints": 2820
         },
         {
           "name": "Mads Pedersen",
@@ -486,7 +486,7 @@
     {
       "owner": "Caley Fretz",
       "name": "US Postal Service Bald Eagles",
-      "totalPoints": 8278.46,
+      "totalPoints": 8308.46,
       "riders": [
         {
           "name": "Matteo Jorgenson",
@@ -494,7 +494,7 @@
           "sanctions": 25,
           "team": "TVL",
           "country": "us",
-          "totalPoints": 908.57
+          "totalPoints": 938.57
         },
         {
           "name": "Jonathan Milan",

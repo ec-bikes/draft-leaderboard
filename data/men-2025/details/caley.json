@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 June 2025 23:23 GMT",
+  "fetchedDate": "11 June 2025 23:25 GMT",
   "momentId": 191408,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 8278.46,
+    "totalPoints": 8308.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -14,8 +14,14 @@
         "sanctions": 25,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 908.57,
+        "totalPoints": 938.57,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - Stage 4 (ITT)",
+            "date": "11 Jun 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres ME",
             "date": "6 Apr 2025",
