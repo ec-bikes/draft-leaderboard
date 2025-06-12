@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 June 2025 23:25 GMT",
+  "fetchedDate": "12 June 2025 23:24 GMT",
   "momentId": 191426,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 7721.14,
+    "totalPoints": 7779.14,
     "riders": [
       {
         "name": "Liane Lippert",
@@ -200,8 +200,19 @@
         "id": 1589305,
         "team": "MOV",
         "country": "ch",
-        "totalPoints": 1495.14,
+        "totalPoints": 1553.14,
         "results": [
+          {
+            "name": "Tour de Suisse Women - Stage 1",
+            "date": "12 Jun 2025",
+            "points": 50,
+            "rank": 1
+          },
+          {
+            "name": "Tour de Suisse Women - Stage 1 - Bonus",
+            "date": "12 Jun 2025",
+            "points": 8
+          },
           {
             "name": "Vuelta a Burgos Feminas - General classification",
             "date": "25 May 2025",

@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 June 2025 23:25 GMT",
+  "fetchedDate": "12 June 2025 23:24 GMT",
   "momentId": 191408,
   "teams": [
     {
@@ -165,14 +165,14 @@
     {
       "owner": "Toms Skujiņš",
       "name": "Lidl-Trek-Bauer",
-      "totalPoints": 7730.25,
+      "totalPoints": 7765.25,
       "riders": [
         {
           "name": "Remco Evenepoel",
           "id": 1596046,
           "team": "SOQ",
           "country": "be",
-          "totalPoints": 1023
+          "totalPoints": 1033
         },
         {
           "name": "Tim Merlier",
@@ -240,7 +240,7 @@
           "sanctions": 10,
           "team": "RBH",
           "country": "nz",
-          "totalPoints": 360
+          "totalPoints": 385
         }
       ],
       "movement": 0
@@ -406,14 +406,14 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 9302.42,
+      "totalPoints": 9307.42,
       "riders": [
         {
           "name": "Mathieu van der Poel",
           "id": 79462,
           "team": "ADC",
           "country": "nl",
-          "totalPoints": 2820
+          "totalPoints": 2825
         },
         {
           "name": "Mads Pedersen",
@@ -486,7 +486,7 @@
     {
       "owner": "Caley Fretz",
       "name": "US Postal Service Bald Eagles",
-      "totalPoints": 8308.46,
+      "totalPoints": 8328.46,
       "riders": [
         {
           "name": "Matteo Jorgenson",
@@ -501,7 +501,7 @@
           "id": 301151,
           "team": "LTK",
           "country": "it",
-          "totalPoints": 1018.86
+          "totalPoints": 1038.86
         },
         {
           "name": "Sepp Kuss",

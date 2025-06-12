@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 June 2025 23:25 GMT",
+  "fetchedDate": "12 June 2025 23:24 GMT",
   "momentId": 191408,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 9302.42,
+    "totalPoints": 9307.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
         "id": 79462,
         "team": "ADC",
         "country": "nl",
-        "totalPoints": 2820,
+        "totalPoints": 2825,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - Stage 5",
+            "date": "12 Jun 2025",
+            "points": 5,
+            "rank": 9
+          },
           {
             "name": "Critérium du Dauphiné - Stage 4 (ITT)",
             "date": "11 Jun 2025",

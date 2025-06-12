@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 June 2025 23:25 GMT",
+  "fetchedDate": "12 June 2025 23:24 GMT",
   "momentId": 191426,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 7841.72,
+    "totalPoints": 7859.72,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -301,8 +301,14 @@
         "id": 347941,
         "team": "EFO",
         "country": "ch",
-        "totalPoints": 1290,
+        "totalPoints": 1308,
         "results": [
+          {
+            "name": "Tour de Suisse Women - Stage 1",
+            "date": "12 Jun 2025",
+            "points": 18,
+            "rank": 6
+          },
           {
             "name": "Amstel Gold Race Ladies Edition",
             "date": "20 Apr 2025",

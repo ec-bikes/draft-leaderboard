@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 June 2025 23:25 GMT",
+  "fetchedDate": "12 June 2025 23:24 GMT",
   "momentId": 191426,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 5495.85,
+    "totalPoints": 5525.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
         "id": 86824,
         "team": "CSZ",
         "country": "pl",
-        "totalPoints": 675.86,
+        "totalPoints": 705.86,
         "results": [
+          {
+            "name": "Tour de Suisse Women - Stage 1",
+            "date": "12 Jun 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
             "date": "10 May 2025",
