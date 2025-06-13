@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 June 2025 23:24 GMT",
+  "fetchedDate": "13 June 2025 23:25 GMT",
   "momentId": 191426,
   "teams": [
     {
@@ -164,14 +164,14 @@
     {
       "owner": "Gracie Elvin",
       "name": "Lamborghini p/b Tony's Chocolonely",
-      "totalPoints": 9721.57,
+      "totalPoints": 9766.57,
       "riders": [
         {
           "name": "Demi Vollering",
           "id": 151466,
           "team": "TFS",
           "country": "nl",
-          "totalPoints": 2987.57
+          "totalPoints": 3002.57
         },
         {
           "name": "Elisa Balsamo",
@@ -228,7 +228,7 @@
           "id": 1638135,
           "team": "TFS",
           "country": "ch",
-          "totalPoints": 1046
+          "totalPoints": 1076
         },
         {
           "name": "Kathrin Schweinberger",
@@ -243,7 +243,7 @@
     {
       "owner": "Tilda Price",
       "name": "Santa Cruz-Shimano",
-      "totalPoints": 7859.72,
+      "totalPoints": 7919.72,
       "riders": [
         {
           "name": "Lorena Wiebes",
@@ -271,7 +271,7 @@
           "id": 347941,
           "team": "EFO",
           "country": "ch",
-          "totalPoints": 1308
+          "totalPoints": 1318
         },
         {
           "name": "Pauliena Rooijakkers",
@@ -297,16 +297,17 @@
         {
           "name": "Marta Lach",
           "id": 96399,
+          "sanctions": 15,
           "team": "SDW",
           "country": "pl",
-          "totalPoints": 540
+          "totalPoints": 565
         },
         {
           "name": "Mavi Garcia",
           "id": 398547,
           "team": "LIV",
           "country": "es",
-          "totalPoints": 538.29
+          "totalPoints": 563.29
         },
         {
           "name": "Blanka Vas",
@@ -321,14 +322,14 @@
     {
       "owner": "Georgie Howe",
       "name": "Specialized-Win-Collective Racing",
-      "totalPoints": 5525.85,
+      "totalPoints": 5545.85,
       "riders": [
         {
           "name": "Kasia Niewiadoma",
           "id": 86824,
           "team": "CSZ",
           "country": "pl",
-          "totalPoints": 705.86
+          "totalPoints": 725.86
         },
         {
           "name": "Silvia Persico",
@@ -400,7 +401,7 @@
     {
       "owner": "Tils Raynolds",
       "name": "The Suffragettes Collective",
-      "totalPoints": 7779.14,
+      "totalPoints": 7824.14,
       "riders": [
         {
           "name": "Liane Lippert",
@@ -422,14 +423,14 @@
           "id": 1589305,
           "team": "MOV",
           "country": "ch",
-          "totalPoints": 1553.14
+          "totalPoints": 1579.14
         },
         {
           "name": "Ally Wollaston",
           "id": 220562,
           "team": "TFS",
           "country": "nz",
-          "totalPoints": 1506.57
+          "totalPoints": 1525.57
         },
         {
           "name": "Neve Bradbury",

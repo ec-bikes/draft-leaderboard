@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 June 2025 23:24 GMT",
+  "fetchedDate": "13 June 2025 23:25 GMT",
   "momentId": 191426,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 5525.85,
+    "totalPoints": 5545.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
         "id": 86824,
         "team": "CSZ",
         "country": "pl",
-        "totalPoints": 705.86,
+        "totalPoints": 725.86,
         "results": [
+          {
+            "name": "Tour de Suisse Women - Stage 2",
+            "date": "13 Jun 2025",
+            "points": 20,
+            "rank": 5
+          },
           {
             "name": "Tour de Suisse Women - Stage 1",
             "date": "12 Jun 2025",

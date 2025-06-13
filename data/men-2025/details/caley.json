@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 June 2025 23:24 GMT",
+  "fetchedDate": "13 June 2025 23:25 GMT",
   "momentId": 191408,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 8328.46,
+    "totalPoints": 8478.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -14,8 +14,14 @@
         "sanctions": 25,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 938.57,
+        "totalPoints": 963.57,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - Stage 6",
+            "date": "13 Jun 2025",
+            "points": 25,
+            "rank": 4
+          },
           {
             "name": "Critérium du Dauphiné - Stage 4 (ITT)",
             "date": "11 Jun 2025",
@@ -574,8 +580,14 @@
         "id": 88143,
         "team": "EFE",
         "country": "us",
-        "totalPoints": 945.5,
+        "totalPoints": 1070.5,
         "results": [
+          {
+            "name": "GP Gippingen",
+            "date": "13 Jun 2025",
+            "points": 125,
+            "rank": 1
+          },
           {
             "name": "Eschborn-Frankfurt",
             "date": "1 May 2025",

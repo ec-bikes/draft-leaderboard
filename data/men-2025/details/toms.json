@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 June 2025 23:24 GMT",
+  "fetchedDate": "13 June 2025 23:25 GMT",
   "momentId": 191408,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 7765.25,
+    "totalPoints": 7785.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 1033,
+        "totalPoints": 1053,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - Stage 6",
+            "date": "13 Jun 2025",
+            "points": 20,
+            "rank": 5
+          },
           {
             "name": "Critérium du Dauphiné - Stage 5 - Bonus",
             "date": "12 Jun 2025",

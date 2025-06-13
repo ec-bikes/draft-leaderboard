@@ -1,20 +1,31 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 June 2025 23:24 GMT",
+  "fetchedDate": "13 June 2025 23:25 GMT",
   "momentId": 191408,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 9850,
+    "totalPoints": 10005,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "team": "UAD",
         "country": "si",
-        "totalPoints": 4480,
+        "totalPoints": 4550,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - Stage 6",
+            "date": "13 Jun 2025",
+            "points": 60,
+            "rank": 1
+          },
+          {
+            "name": "Critérium du Dauphiné - Stage 6 - Bonus",
+            "date": "13 Jun 2025",
+            "points": 10
+          },
           {
             "name": "Critérium du Dauphiné - Stage 4 (ITT)",
             "date": "11 Jun 2025",
@@ -131,8 +142,14 @@
         "id": 1721034,
         "team": "LTK",
         "country": "be",
-        "totalPoints": 733,
+        "totalPoints": 818,
         "results": [
+          {
+            "name": "GP Gippingen",
+            "date": "13 Jun 2025",
+            "points": 85,
+            "rank": 2
+          },
           {
             "name": "Eschborn-Frankfurt",
             "date": "1 May 2025",

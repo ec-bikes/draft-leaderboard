@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 June 2025 23:24 GMT",
+  "fetchedDate": "13 June 2025 23:25 GMT",
   "momentId": 191408,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 5545.38,
+    "totalPoints": 5608.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -540,8 +540,14 @@
         "id": 109483,
         "team": "JAY",
         "country": "ch",
-        "totalPoints": 534.67,
+        "totalPoints": 594.67,
         "results": [
+          {
+            "name": "GP Gippingen",
+            "date": "13 Jun 2025",
+            "points": 60,
+            "rank": 4
+          },
           {
             "name": "Liège-Bastogne-Liège",
             "date": "27 Apr 2025",
@@ -660,8 +666,14 @@
         "id": 407508,
         "team": "RBH",
         "country": "es",
-        "totalPoints": 232,
+        "totalPoints": 235,
         "results": [
+          {
+            "name": "GP Gippingen",
+            "date": "13 Jun 2025",
+            "points": 3,
+            "rank": 16
+          },
           {
             "name": "Eschborn-Frankfurt",
             "date": "1 May 2025",

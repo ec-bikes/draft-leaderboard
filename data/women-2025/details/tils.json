@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 June 2025 23:24 GMT",
+  "fetchedDate": "13 June 2025 23:25 GMT",
   "momentId": 191426,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 7779.14,
+    "totalPoints": 7824.14,
     "riders": [
       {
         "name": "Liane Lippert",
@@ -200,8 +200,19 @@
         "id": 1589305,
         "team": "MOV",
         "country": "ch",
-        "totalPoints": 1553.14,
+        "totalPoints": 1579.14,
         "results": [
+          {
+            "name": "Tour de Suisse Women - Stage 2",
+            "date": "13 Jun 2025",
+            "points": 18,
+            "rank": 6
+          },
+          {
+            "name": "Tour de Suisse Women - Stage 2 - Bonus",
+            "date": "13 Jun 2025",
+            "points": 8
+          },
           {
             "name": "Tour de Suisse Women - Stage 1",
             "date": "12 Jun 2025",
@@ -339,8 +350,19 @@
         "id": 220562,
         "team": "TFS",
         "country": "nz",
-        "totalPoints": 1506.57,
+        "totalPoints": 1525.57,
         "results": [
+          {
+            "name": "Tour Féminin International des Pyrénées - Stage 1",
+            "date": "13 Jun 2025",
+            "points": 16,
+            "rank": 1
+          },
+          {
+            "name": "Tour Féminin International des Pyrénées - Stage 1 - Bonus",
+            "date": "13 Jun 2025",
+            "points": 3
+          },
           {
             "name": "Tour of Britain Women - General classification",
             "date": "8 Jun 2025",

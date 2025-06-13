@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 June 2025 23:24 GMT",
+  "fetchedDate": "13 June 2025 23:25 GMT",
   "momentId": 191426,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 9721.57,
+    "totalPoints": 9766.57,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
         "team": "TFS",
         "country": "nl",
-        "totalPoints": 2987.57,
+        "totalPoints": 3002.57,
         "results": [
+          {
+            "name": "Tour de Suisse Women - Stage 2",
+            "date": "13 Jun 2025",
+            "points": 15,
+            "rank": 7
+          },
           {
             "name": "Tour de Suisse Women - Stage 1",
             "date": "12 Jun 2025",
@@ -750,8 +756,14 @@
         "id": 1638135,
         "team": "TFS",
         "country": "ch",
-        "totalPoints": 1046,
+        "totalPoints": 1076,
         "results": [
+          {
+            "name": "Tour de Suisse Women - Stage 2",
+            "date": "13 Jun 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Tour de Suisse Women - Stage 1",
             "date": "12 Jun 2025",

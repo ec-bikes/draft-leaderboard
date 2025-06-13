@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 June 2025 23:24 GMT",
+  "fetchedDate": "13 June 2025 23:25 GMT",
   "momentId": 191408,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 9307.42,
+    "totalPoints": 9407.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -451,8 +451,14 @@
         "id": 462394,
         "team": "UAD",
         "country": "ch",
-        "totalPoints": 435,
+        "totalPoints": 505,
         "results": [
+          {
+            "name": "GP Gippingen",
+            "date": "13 Jun 2025",
+            "points": 70,
+            "rank": 3
+          },
           {
             "name": "Tour of Norway - General classification",
             "date": "1 Jun 2025",
@@ -762,8 +768,14 @@
         "sanctions": 15,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 448,
+        "totalPoints": 478,
         "results": [
+          {
+            "name": "GP Gippingen",
+            "date": "13 Jun 2025",
+            "points": 30,
+            "rank": 8
+          },
           {
             "name": "Giro d'Italia - General classification",
             "date": "1 Jun 2025",

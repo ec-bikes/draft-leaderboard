@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 June 2025 23:24 GMT",
+  "fetchedDate": "13 June 2025 23:25 GMT",
   "momentId": 191426,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 7859.72,
+    "totalPoints": 7919.72,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -301,8 +301,14 @@
         "id": 347941,
         "team": "EFO",
         "country": "ch",
-        "totalPoints": 1308,
+        "totalPoints": 1318,
         "results": [
+          {
+            "name": "Tour de Suisse Women - Stage 2",
+            "date": "13 Jun 2025",
+            "points": 10,
+            "rank": 8
+          },
           {
             "name": "Tour de Suisse Women - Stage 1",
             "date": "12 Jun 2025",
@@ -550,10 +556,17 @@
       {
         "name": "Marta Lach",
         "id": 96399,
+        "sanctions": 15,
         "team": "SDW",
         "country": "pl",
-        "totalPoints": 540,
+        "totalPoints": 565,
         "results": [
+          {
+            "name": "Tour de Suisse Women - Stage 2",
+            "date": "13 Jun 2025",
+            "points": 40,
+            "rank": 2
+          },
           {
             "name": "Tour of Britain Women - General classification",
             "date": "8 Jun 2025",
@@ -615,8 +628,14 @@
         "id": 398547,
         "team": "LIV",
         "country": "es",
-        "totalPoints": 538.29,
+        "totalPoints": 563.29,
         "results": [
+          {
+            "name": "Tour de Suisse Women - Stage 2",
+            "date": "13 Jun 2025",
+            "points": 25,
+            "rank": 4
+          },
           {
             "name": "Itzulia Women - General classification",
             "date": "18 May 2025",

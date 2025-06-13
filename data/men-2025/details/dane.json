@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 June 2025 23:24 GMT",
+  "fetchedDate": "13 June 2025 23:25 GMT",
   "momentId": 191408,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 8995.57,
+    "totalPoints": 9025.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -565,8 +565,14 @@
         "id": 2097255,
         "team": "RBH",
         "country": "de",
-        "totalPoints": 764,
+        "totalPoints": 794,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - Stage 6",
+            "date": "13 Jun 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Critérium du Dauphiné - Stage 4 (ITT)",
             "date": "11 Jun 2025",
