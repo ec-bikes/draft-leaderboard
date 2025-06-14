@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "13 June 2025 23:25 GMT",
+  "fetchedDate": "14 June 2025 23:25 GMT",
   "momentId": 191408,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 5608.38,
+    "totalPoints": 5810.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -368,8 +368,14 @@
         "id": 75170,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 560,
+        "totalPoints": 562,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - Stage 7",
+            "date": "14 Jun 2025",
+            "points": 2,
+            "rank": 10
+          },
           {
             "name": "Liège-Bastogne-Liège",
             "date": "27 Apr 2025",
@@ -449,8 +455,14 @@
         "id": 1759987,
         "team": "SOQ",
         "country": "fr",
-        "totalPoints": 843,
+        "totalPoints": 1043,
         "results": [
+          {
+            "name": "Duracell Dwars door het Hageland",
+            "date": "14 Jun 2025",
+            "points": 200,
+            "rank": 1
+          },
           {
             "name": "Brussels Cycling Classic",
             "date": "8 Jun 2025",

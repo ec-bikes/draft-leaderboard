@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "13 June 2025 23:25 GMT",
+  "fetchedDate": "14 June 2025 23:25 GMT",
   "momentId": 191426,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 7919.72,
+    "totalPoints": 8074.72,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 2313,
+        "totalPoints": 2438,
         "results": [
+          {
+            "name": "Elmos Dwars door het Hageland",
+            "date": "14 Jun 2025",
+            "points": 125,
+            "rank": 1
+          },
           {
             "name": "Tour of Britain Women - Stage 4",
             "date": "8 Jun 2025",
@@ -301,8 +307,14 @@
         "id": 347941,
         "team": "EFO",
         "country": "ch",
-        "totalPoints": 1318,
+        "totalPoints": 1348,
         "results": [
+          {
+            "name": "Tour de Suisse Women - Stage 3",
+            "date": "14 Jun 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Tour de Suisse Women - Stage 2",
             "date": "13 Jun 2025",

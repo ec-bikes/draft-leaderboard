@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "13 June 2025 23:25 GMT",
+  "fetchedDate": "14 June 2025 23:25 GMT",
   "momentId": 191408,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 5848.14,
+    "totalPoints": 5898.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "team": "TVL",
         "country": "dk",
-        "totalPoints": 398.57,
+        "totalPoints": 438.57,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - Stage 7",
+            "date": "14 Jun 2025",
+            "points": 40,
+            "rank": 2
+          },
           {
             "name": "Critérium du Dauphiné - Stage 6",
             "date": "13 Jun 2025",
@@ -138,8 +144,14 @@
         "id": 109803,
         "team": "MOV",
         "country": "es",
-        "totalPoints": 711,
+        "totalPoints": 721,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - Stage 7",
+            "date": "14 Jun 2025",
+            "points": 10,
+            "rank": 7
+          },
           {
             "name": "Itzulia Basque Country - General classification",
             "date": "12 Apr 2025",

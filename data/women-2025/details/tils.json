@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "13 June 2025 23:25 GMT",
+  "fetchedDate": "14 June 2025 23:25 GMT",
   "momentId": 191426,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 7824.14,
+    "totalPoints": 7850.14,
     "riders": [
       {
         "name": "Liane Lippert",
@@ -200,8 +200,19 @@
         "id": 1589305,
         "team": "MOV",
         "country": "ch",
-        "totalPoints": 1579.14,
+        "totalPoints": 1605.14,
         "results": [
+          {
+            "name": "Tour de Suisse Women - Stage 3",
+            "date": "14 Jun 2025",
+            "points": 18,
+            "rank": 6
+          },
+          {
+            "name": "Tour de Suisse Women - Stage 3 - Bonus",
+            "date": "14 Jun 2025",
+            "points": 8
+          },
           {
             "name": "Tour de Suisse Women - Stage 2",
             "date": "13 Jun 2025",

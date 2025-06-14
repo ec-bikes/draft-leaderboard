@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "13 June 2025 23:25 GMT",
+  "fetchedDate": "14 June 2025 23:25 GMT",
   "momentId": 191426,
   "team": {
     "owner": "Loren Rowney",
     "name": "(TBD)",
-    "totalPoints": 6185.58,
+    "totalPoints": 6188.58,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -521,8 +521,14 @@
         "id": 153287,
         "team": "LTK",
         "country": "fr",
-        "totalPoints": 708,
+        "totalPoints": 711,
         "results": [
+          {
+            "name": "Elmos Dwars door het Hageland",
+            "date": "14 Jun 2025",
+            "points": 3,
+            "rank": 18
+          },
           {
             "name": "GP Mazda Schelkens",
             "date": "9 Jun 2025",
