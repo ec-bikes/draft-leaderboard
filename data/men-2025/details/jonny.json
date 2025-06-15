@@ -1,20 +1,32 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 June 2025 23:25 GMT",
+  "fetchedDate": "15 June 2025 23:22 GMT",
   "momentId": 191408,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 5898.14,
+    "totalPoints": 6503.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "team": "TVL",
         "country": "dk",
-        "totalPoints": 438.57,
+        "totalPoints": 878.57,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - General classification",
+            "date": "15 Jun 2025",
+            "points": 400,
+            "rank": 2
+          },
+          {
+            "name": "Critérium du Dauphiné - Stage 8",
+            "date": "15 Jun 2025",
+            "points": 40,
+            "rank": 2
+          },
           {
             "name": "Critérium du Dauphiné - Stage 7",
             "date": "14 Jun 2025",
@@ -144,8 +156,20 @@
         "id": 109803,
         "team": "MOV",
         "country": "es",
-        "totalPoints": 721,
+        "totalPoints": 886,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - General classification",
+            "date": "15 Jun 2025",
+            "points": 150,
+            "rank": 7
+          },
+          {
+            "name": "Critérium du Dauphiné - Stage 8",
+            "date": "15 Jun 2025",
+            "points": 15,
+            "rank": 6
+          },
           {
             "name": "Critérium du Dauphiné - Stage 7",
             "date": "14 Jun 2025",

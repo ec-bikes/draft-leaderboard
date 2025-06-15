@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 June 2025 23:25 GMT",
+  "fetchedDate": "15 June 2025 23:22 GMT",
   "momentId": 191408,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 7003.29,
+    "totalPoints": 7033.29,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -230,8 +230,14 @@
         "sanctions": 25,
         "team": "LOT",
         "country": "be",
-        "totalPoints": 222,
+        "totalPoints": 242,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - General classification",
+            "date": "15 Jun 2025",
+            "points": 20,
+            "rank": 29
+          },
           {
             "name": "Tour of Norway - General classification",
             "date": "1 Jun 2025",
@@ -531,8 +537,14 @@
         "id": 217083,
         "team": "RBH",
         "country": "nz",
-        "totalPoints": 653,
+        "totalPoints": 663,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - General classification",
+            "date": "15 Jun 2025",
+            "points": 10,
+            "rank": 46
+          },
           {
             "name": "Itzulia Basque Country - General classification",
             "date": "12 Apr 2025",

@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 June 2025 23:25 GMT",
+  "fetchedDate": "15 June 2025 23:22 GMT",
   "momentId": 191426,
   "teams": [
     {
       "owner": "Loren Rowney",
       "name": "(TBD)",
-      "totalPoints": 6188.58,
+      "totalPoints": 6220.58,
       "riders": [
         {
           "name": "Lotte Kopecky",
@@ -56,14 +56,14 @@
           "id": 2096868,
           "team": "AGS",
           "country": "be",
-          "totalPoints": 29
+          "totalPoints": 37
         },
         {
           "name": "Monica Trinca Colonel",
           "id": 1897613,
           "team": "LIV",
           "country": "it",
-          "totalPoints": 815.29
+          "totalPoints": 839.29
         },
         {
           "name": "Clara Copponi",
@@ -164,14 +164,14 @@
     {
       "owner": "Gracie Elvin",
       "name": "Lamborghini p/b Tony's Chocolonely",
-      "totalPoints": 9922.57,
+      "totalPoints": 10731.57,
       "riders": [
         {
           "name": "Demi Vollering",
           "id": 151466,
           "team": "TFS",
           "country": "nl",
-          "totalPoints": 3022.57
+          "totalPoints": 3372.57
         },
         {
           "name": "Elisa Balsamo",
@@ -192,7 +192,7 @@
           "id": 227721,
           "team": "SDW",
           "country": "nl",
-          "totalPoints": 1184.71
+          "totalPoints": 1200.71
         },
         {
           "name": "Maike van der Duin",
@@ -207,14 +207,14 @@
           "sanctions": 5,
           "team": "EFO",
           "country": "fr",
-          "totalPoints": 676.43
+          "totalPoints": 841.43
         },
         {
           "name": "Niamh Fisher-Black",
           "id": 217072,
           "team": "LTK",
           "country": "nz",
-          "totalPoints": 782.14
+          "totalPoints": 1020.14
         },
         {
           "name": "Kim Cadzow",
@@ -228,7 +228,7 @@
           "id": 1638135,
           "team": "TFS",
           "country": "ch",
-          "totalPoints": 1082
+          "totalPoints": 1122
         },
         {
           "name": "Kathrin Schweinberger",
@@ -243,7 +243,7 @@
     {
       "owner": "Tilda Price",
       "name": "Santa Cruz-Shimano",
-      "totalPoints": 8074.72,
+      "totalPoints": 8276.72,
       "riders": [
         {
           "name": "Lorena Wiebes",
@@ -271,7 +271,7 @@
           "id": 347941,
           "team": "EFO",
           "country": "ch",
-          "totalPoints": 1348
+          "totalPoints": 1364
         },
         {
           "name": "Pauliena Rooijakkers",
@@ -285,7 +285,7 @@
           "id": 1742562,
           "team": "TVL",
           "country": "fr",
-          "totalPoints": 188.86
+          "totalPoints": 274.86
         },
         {
           "name": "Sofie van Rooijen",
@@ -307,7 +307,7 @@
           "id": 398547,
           "team": "LIV",
           "country": "es",
-          "totalPoints": 563.29
+          "totalPoints": 663.29
         },
         {
           "name": "Blanka Vas",
@@ -317,19 +317,19 @@
           "totalPoints": 336
         }
       ],
-      "movement": 0
+      "movement": -1
     },
     {
       "owner": "Georgie Howe",
       "name": "Specialized-Win-Collective Racing",
-      "totalPoints": 5555.85,
+      "totalPoints": 5881.85,
       "riders": [
         {
           "name": "Kasia Niewiadoma",
           "id": 86824,
           "team": "CSZ",
           "country": "pl",
-          "totalPoints": 725.86
+          "totalPoints": 1025.86
         },
         {
           "name": "Silvia Persico",
@@ -357,7 +357,7 @@
           "id": 106168,
           "team": "UAD",
           "country": "au",
-          "totalPoints": 171
+          "totalPoints": 197
         },
         {
           "name": "Lily Williams",
@@ -401,7 +401,7 @@
     {
       "owner": "Tils Raynolds",
       "name": "The Suffragettes Collective",
-      "totalPoints": 7850.14,
+      "totalPoints": 8308.14,
       "riders": [
         {
           "name": "Liane Lippert",
@@ -423,7 +423,7 @@
           "id": 1589305,
           "team": "MOV",
           "country": "ch",
-          "totalPoints": 1605.14
+          "totalPoints": 2055.14
         },
         {
           "name": "Ally Wollaston",
@@ -437,7 +437,7 @@
           "id": 1987823,
           "team": "CSZ",
           "country": "au",
-          "totalPoints": 198.86
+          "totalPoints": 206.86
         },
         {
           "name": "Cat Ferguson",
@@ -477,7 +477,7 @@
           "totalPoints": 1138.86
         }
       ],
-      "movement": 0
+      "movement": 1
     }
   ]
 }

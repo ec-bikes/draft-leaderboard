@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 June 2025 23:25 GMT",
+  "fetchedDate": "15 June 2025 23:22 GMT",
   "momentId": 191408,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 8478.46,
+    "totalPoints": 8730.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -14,8 +14,20 @@
         "sanctions": 25,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 963.57,
+        "totalPoints": 1163.57,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - General classification",
+            "date": "15 Jun 2025",
+            "points": 175,
+            "rank": 6
+          },
+          {
+            "name": "Critérium du Dauphiné - Stage 8",
+            "date": "15 Jun 2025",
+            "points": 25,
+            "rank": 4
+          },
           {
             "name": "Critérium du Dauphiné - Stage 6",
             "date": "13 Jun 2025",
@@ -230,8 +242,20 @@
         "id": 88346,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 19,
+        "totalPoints": 71,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - General classification",
+            "date": "15 Jun 2025",
+            "points": 50,
+            "rank": 13
+          },
+          {
+            "name": "Critérium du Dauphiné - Stage 8",
+            "date": "15 Jun 2025",
+            "points": 2,
+            "rank": 10
+          },
           {
             "name": "Volta Ciclista a Catalunya - General classification",
             "date": "30 Mar 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 June 2025 23:25 GMT",
+  "fetchedDate": "15 June 2025 23:22 GMT",
   "momentId": 191426,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 7850.14,
+    "totalPoints": 8308.14,
     "riders": [
       {
         "name": "Liane Lippert",
@@ -200,8 +200,20 @@
         "id": 1589305,
         "team": "MOV",
         "country": "ch",
-        "totalPoints": 1605.14,
+        "totalPoints": 2055.14,
         "results": [
+          {
+            "name": "Tour de Suisse Women - General classification",
+            "date": "15 Jun 2025",
+            "points": 400,
+            "rank": 1
+          },
+          {
+            "name": "Tour de Suisse Women - Stage 4",
+            "date": "15 Jun 2025",
+            "points": 50,
+            "rank": 1
+          },
           {
             "name": "Tour de Suisse Women - Stage 3",
             "date": "14 Jun 2025",
@@ -501,8 +513,14 @@
         "id": 1987823,
         "team": "CSZ",
         "country": "au",
-        "totalPoints": 198.86,
+        "totalPoints": 206.86,
         "results": [
+          {
+            "name": "Tour de Suisse Women - General classification",
+            "date": "15 Jun 2025",
+            "points": 8,
+            "rank": 39
+          },
           {
             "name": "Volta Ciclista a Catalunya Femenina - General classification",
             "date": "8 Jun 2025",

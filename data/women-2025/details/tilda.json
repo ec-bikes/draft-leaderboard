@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 June 2025 23:25 GMT",
+  "fetchedDate": "15 June 2025 23:22 GMT",
   "momentId": 191426,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 8074.72,
+    "totalPoints": 8276.72,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -307,8 +307,14 @@
         "id": 347941,
         "team": "EFO",
         "country": "ch",
-        "totalPoints": 1348,
+        "totalPoints": 1364,
         "results": [
+          {
+            "name": "Tour de Suisse Women - General classification",
+            "date": "15 Jun 2025",
+            "points": 16,
+            "rank": 24
+          },
           {
             "name": "Tour de Suisse Women - Stage 3",
             "date": "14 Jun 2025",
@@ -450,8 +456,20 @@
         "id": 1742562,
         "team": "TVL",
         "country": "fr",
-        "totalPoints": 188.86,
+        "totalPoints": 274.86,
         "results": [
+          {
+            "name": "Tour de Suisse Women - General classification",
+            "date": "15 Jun 2025",
+            "points": 80,
+            "rank": 9
+          },
+          {
+            "name": "Tour de Suisse Women - Stage 4",
+            "date": "15 Jun 2025",
+            "points": 6,
+            "rank": 10
+          },
           {
             "name": "Volta Ciclista a Catalunya Femenina - General classification",
             "date": "8 Jun 2025",
@@ -640,8 +658,14 @@
         "id": 398547,
         "team": "LIV",
         "country": "es",
-        "totalPoints": 563.29,
+        "totalPoints": 663.29,
         "results": [
+          {
+            "name": "Tour de Suisse Women - General classification",
+            "date": "15 Jun 2025",
+            "points": 100,
+            "rank": 8
+          },
           {
             "name": "Tour de Suisse Women - Stage 2",
             "date": "13 Jun 2025",

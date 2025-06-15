@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 June 2025 23:25 GMT",
+  "fetchedDate": "15 June 2025 23:22 GMT",
   "momentId": 191408,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 9100.57,
+    "totalPoints": 9700.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
         "id": 148275,
         "team": "ADC",
         "country": "be",
-        "totalPoints": 775,
+        "totalPoints": 860,
         "results": [
+          {
+            "name": "Elfstedenronde Brugge",
+            "date": "15 Jun 2025",
+            "points": 85,
+            "rank": 2
+          },
           {
             "name": "Duracell Dwars door het Hageland",
             "date": "14 Jun 2025",
@@ -172,8 +178,14 @@
         "id": 428096,
         "team": "IGD",
         "country": "es",
-        "totalPoints": 285.43,
+        "totalPoints": 385.43,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - General classification",
+            "date": "15 Jun 2025",
+            "points": 100,
+            "rank": 9
+          },
           {
             "name": "Critérium du Dauphiné - Stage 7",
             "date": "14 Jun 2025",
@@ -428,8 +440,14 @@
         "id": 96372,
         "team": "UAD",
         "country": "ec",
-        "totalPoints": 761.14,
+        "totalPoints": 771.14,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - General classification",
+            "date": "15 Jun 2025",
+            "points": 10,
+            "rank": 41
+          },
           {
             "name": "De Brabantse Pijl - La Flèche Brabançonne ME",
             "date": "18 Apr 2025",
@@ -577,8 +595,20 @@
         "id": 2097255,
         "team": "RBH",
         "country": "de",
-        "totalPoints": 824,
+        "totalPoints": 1159,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - General classification",
+            "date": "15 Jun 2025",
+            "points": 325,
+            "rank": 3
+          },
+          {
+            "name": "Critérium du Dauphiné - Stage 8",
+            "date": "15 Jun 2025",
+            "points": 10,
+            "rank": 7
+          },
           {
             "name": "Critérium du Dauphiné - Stage 7",
             "date": "14 Jun 2025",
@@ -664,8 +694,19 @@
         "id": 1759422,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 795,
+        "totalPoints": 865,
         "results": [
+          {
+            "name": "Tour de Suisse - Stage 1",
+            "date": "15 Jun 2025",
+            "points": 60,
+            "rank": 1
+          },
+          {
+            "name": "Tour de Suisse - Stage 1 - Bonus",
+            "date": "15 Jun 2025",
+            "points": 10
+          },
           {
             "name": "Liège-Bastogne-Liège",
             "date": "27 Apr 2025",

@@ -1,20 +1,32 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 June 2025 23:25 GMT",
+  "fetchedDate": "15 June 2025 23:22 GMT",
   "momentId": 191408,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 10075,
+    "totalPoints": 10615,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "team": "UAD",
         "country": "si",
-        "totalPoints": 4620,
+        "totalPoints": 5150,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - General classification",
+            "date": "15 Jun 2025",
+            "points": 500,
+            "rank": 1
+          },
+          {
+            "name": "Critérium du Dauphiné - Stage 8",
+            "date": "15 Jun 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Critérium du Dauphiné - Stage 7",
             "date": "14 Jun 2025",
@@ -204,8 +216,14 @@
         "id": 68892,
         "team": "LTK",
         "country": "lv",
-        "totalPoints": 152,
+        "totalPoints": 162,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - General classification",
+            "date": "15 Jun 2025",
+            "points": 10,
+            "rank": 35
+          },
           {
             "name": "Amstel Gold Race",
             "date": "20 Apr 2025",

@@ -1,20 +1,32 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 June 2025 23:25 GMT",
+  "fetchedDate": "15 June 2025 23:22 GMT",
   "momentId": 191408,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 7805.25,
+    "totalPoints": 8206.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 1073,
+        "totalPoints": 1368,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - General classification",
+            "date": "15 Jun 2025",
+            "points": 275,
+            "rank": 4
+          },
+          {
+            "name": "Critérium du Dauphiné - Stage 8",
+            "date": "15 Jun 2025",
+            "points": 20,
+            "rank": 5
+          },
           {
             "name": "Critérium du Dauphiné - Stage 7",
             "date": "14 Jun 2025",
@@ -225,8 +237,14 @@
         "id": 97805,
         "team": "JAY",
         "country": "au",
-        "totalPoints": 154.81,
+        "totalPoints": 174.81,
         "results": [
+          {
+            "name": "Tour de Suisse - Stage 1",
+            "date": "15 Jun 2025",
+            "points": 20,
+            "rank": 5
+          },
           {
             "name": "Liège-Bastogne-Liège",
             "date": "27 Apr 2025",
@@ -487,8 +505,20 @@
         "sanctions": 25,
         "team": "TBV",
         "country": "fr",
-        "totalPoints": 1173,
+        "totalPoints": 1253,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - General classification",
+            "date": "15 Jun 2025",
+            "points": 20,
+            "rank": 28
+          },
+          {
+            "name": "Critérium du Dauphiné - Stage 8",
+            "date": "15 Jun 2025",
+            "points": 60,
+            "rank": 1
+          },
           {
             "name": "Tour de Romandie - General classification",
             "date": "4 May 2025",
@@ -653,8 +683,14 @@
         "id": 1714193,
         "team": "COF",
         "country": "be",
-        "totalPoints": 933,
+        "totalPoints": 936,
         "results": [
+          {
+            "name": "Elfstedenronde Brugge",
+            "date": "15 Jun 2025",
+            "points": 3,
+            "rank": 22
+          },
           {
             "name": "Brussels Cycling Classic",
             "date": "8 Jun 2025",
@@ -843,8 +879,14 @@
         "sanctions": 10,
         "team": "RBH",
         "country": "nz",
-        "totalPoints": 385,
+        "totalPoints": 388,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - General classification",
+            "date": "15 Jun 2025",
+            "points": 3,
+            "rank": 57
+          },
           {
             "name": "Critérium du Dauphiné - Stage 5",
             "date": "12 Jun 2025",

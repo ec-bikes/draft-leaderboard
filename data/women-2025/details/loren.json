@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 June 2025 23:25 GMT",
+  "fetchedDate": "15 June 2025 23:22 GMT",
   "momentId": 191426,
   "team": {
     "owner": "Loren Rowney",
     "name": "(TBD)",
-    "totalPoints": 6188.58,
+    "totalPoints": 6220.58,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -401,8 +401,14 @@
         "id": 2096868,
         "team": "AGS",
         "country": "be",
-        "totalPoints": 29,
+        "totalPoints": 37,
         "results": [
+          {
+            "name": "Tour de Suisse Women - General classification",
+            "date": "15 Jun 2025",
+            "points": 8,
+            "rank": 34
+          },
           {
             "name": "Liège-Bastogne-Liège Femmes",
             "date": "27 Apr 2025",
@@ -422,8 +428,14 @@
         "id": 1897613,
         "team": "LIV",
         "country": "it",
-        "totalPoints": 815.29,
+        "totalPoints": 839.29,
         "results": [
+          {
+            "name": "Tour de Suisse Women - General classification",
+            "date": "15 Jun 2025",
+            "points": 24,
+            "rank": 17
+          },
           {
             "name": "Navarra Women's Elite Classic",
             "date": "14 May 2025",

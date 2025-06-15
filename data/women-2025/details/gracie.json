@@ -1,20 +1,32 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 June 2025 23:25 GMT",
+  "fetchedDate": "15 June 2025 23:22 GMT",
   "momentId": 191426,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 9922.57,
+    "totalPoints": 10731.57,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
         "team": "TFS",
         "country": "nl",
-        "totalPoints": 3022.57,
+        "totalPoints": 3372.57,
         "results": [
+          {
+            "name": "Tour de Suisse Women - General classification",
+            "date": "15 Jun 2025",
+            "points": 320,
+            "rank": 2
+          },
+          {
+            "name": "Tour de Suisse Women - Stage 4",
+            "date": "15 Jun 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Tour de Suisse Women - Stage 3",
             "date": "14 Jun 2025",
@@ -364,8 +376,14 @@
         "id": 227721,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 1184.71,
+        "totalPoints": 1200.71,
         "results": [
+          {
+            "name": "Tour de Suisse Women - General classification",
+            "date": "15 Jun 2025",
+            "points": 16,
+            "rank": 27
+          },
           {
             "name": "Tour de Suisse Women - Stage 3",
             "date": "14 Jun 2025",
@@ -549,8 +567,20 @@
         "sanctions": 5,
         "team": "EFO",
         "country": "fr",
-        "totalPoints": 676.43,
+        "totalPoints": 841.43,
         "results": [
+          {
+            "name": "Tour de Suisse Women - General classification",
+            "date": "15 Jun 2025",
+            "points": 140,
+            "rank": 6
+          },
+          {
+            "name": "Tour de Suisse Women - Stage 4",
+            "date": "15 Jun 2025",
+            "points": 25,
+            "rank": 4
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - General classification",
             "date": "10 May 2025",
@@ -648,8 +678,20 @@
         "id": 217072,
         "team": "LTK",
         "country": "nz",
-        "totalPoints": 782.14,
+        "totalPoints": 1020.14,
         "results": [
+          {
+            "name": "Tour de Suisse Women - General classification",
+            "date": "15 Jun 2025",
+            "points": 220,
+            "rank": 4
+          },
+          {
+            "name": "Tour de Suisse Women - Stage 4",
+            "date": "15 Jun 2025",
+            "points": 18,
+            "rank": 6
+          },
           {
             "name": "Tour de Suisse Women - Stage 1",
             "date": "12 Jun 2025",
@@ -774,8 +816,14 @@
         "id": 1638135,
         "team": "TFS",
         "country": "ch",
-        "totalPoints": 1082,
+        "totalPoints": 1122,
         "results": [
+          {
+            "name": "Tour de Suisse Women - General classification",
+            "date": "15 Jun 2025",
+            "points": 40,
+            "rank": 13
+          },
           {
             "name": "Tour de Suisse Women - Stage 3",
             "date": "14 Jun 2025",

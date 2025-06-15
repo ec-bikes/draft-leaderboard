@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 June 2025 23:25 GMT",
+  "fetchedDate": "15 June 2025 23:22 GMT",
   "momentId": 191408,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 5810.38,
+    "totalPoints": 6055.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
         "id": 72932,
         "team": "JAY",
         "country": "nl",
-        "totalPoints": 201,
+        "totalPoints": 221,
         "results": [
+          {
+            "name": "Elfstedenronde Brugge",
+            "date": "15 Jun 2025",
+            "points": 20,
+            "rank": 10
+          },
           {
             "name": "Tour of Slovenia - Stage 3",
             "date": "6 Jun 2025",
@@ -132,8 +138,20 @@
         "id": 235075,
         "team": "EFE",
         "country": "ie",
-        "totalPoints": 1129,
+        "totalPoints": 1144,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - General classification",
+            "date": "15 Jun 2025",
+            "points": 10,
+            "rank": 37
+          },
+          {
+            "name": "Critérium du Dauphiné - Stage 8",
+            "date": "15 Jun 2025",
+            "points": 5,
+            "rank": 9
+          },
           {
             "name": "Liège-Bastogne-Liège",
             "date": "27 Apr 2025",
@@ -368,8 +386,14 @@
         "id": 75170,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 562,
+        "totalPoints": 647,
         "results": [
+          {
+            "name": "Critérium du Dauphiné - General classification",
+            "date": "15 Jun 2025",
+            "points": 85,
+            "rank": 10
+          },
           {
             "name": "Critérium du Dauphiné - Stage 7",
             "date": "14 Jun 2025",
@@ -455,8 +479,14 @@
         "id": 1759987,
         "team": "SOQ",
         "country": "fr",
-        "totalPoints": 1043,
+        "totalPoints": 1168,
         "results": [
+          {
+            "name": "Elfstedenronde Brugge",
+            "date": "15 Jun 2025",
+            "points": 125,
+            "rank": 1
+          },
           {
             "name": "Duracell Dwars door het Hageland",
             "date": "14 Jun 2025",
