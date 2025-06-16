@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 June 2025 23:22 GMT",
+  "fetchedDate": "16 June 2025 23:24 GMT",
   "momentId": 191408,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 8206.25,
+    "totalPoints": 8216.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -294,8 +294,14 @@
         "id": 76092,
         "team": "TBV",
         "country": "es",
-        "totalPoints": 750,
+        "totalPoints": 760,
         "results": [
+          {
+            "name": "Tour de Suisse - Stage 2",
+            "date": "16 Jun 2025",
+            "points": 10,
+            "rank": 7
+          },
           {
             "name": "Giro d'Italia - General classification",
             "date": "1 Jun 2025",

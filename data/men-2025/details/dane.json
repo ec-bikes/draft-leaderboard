@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 June 2025 23:22 GMT",
+  "fetchedDate": "16 June 2025 23:24 GMT",
   "momentId": 191408,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 9700.57,
+    "totalPoints": 9710.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -694,8 +694,13 @@
         "id": 1759422,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 865,
+        "totalPoints": 875,
         "results": [
+          {
+            "name": "Tour de Suisse - Stage 2 - Bonus",
+            "date": "16 Jun 2025",
+            "points": 10
+          },
           {
             "name": "Tour de Suisse - Stage 1",
             "date": "15 Jun 2025",

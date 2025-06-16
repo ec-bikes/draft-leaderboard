@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 June 2025 23:22 GMT",
+  "fetchedDate": "16 June 2025 23:24 GMT",
   "momentId": 191408,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 10615,
+    "totalPoints": 10630,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -731,8 +731,14 @@
         "id": 257361,
         "team": "DAT",
         "country": "fr",
-        "totalPoints": 205,
+        "totalPoints": 220,
         "results": [
+          {
+            "name": "Tour de Suisse - Stage 2",
+            "date": "16 Jun 2025",
+            "points": 15,
+            "rank": 6
+          },
           {
             "name": "Boucles de la Mayenne - Crédit Mutuel - General classification",
             "date": "1 Jun 2025",
