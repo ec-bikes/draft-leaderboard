@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 June 2025 23:24 GMT",
-  "momentId": 191408,
+  "fetchedDate": "17 June 2025 23:23 GMT",
+  "momentId": 191577,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 6503.14,
+    "totalPoints": 6533.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -243,8 +243,14 @@
         "id": 1710249,
         "team": "TPP",
         "country": "gb",
-        "totalPoints": 782,
+        "totalPoints": 812,
         "results": [
+          {
+            "name": "Tour de Suisse - Stage 3",
+            "date": "17 Jun 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Tour de Romandie - General classification",
             "date": "4 May 2025",

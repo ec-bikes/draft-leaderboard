@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 June 2025 23:24 GMT",
-  "momentId": 191408,
+  "fetchedDate": "17 June 2025 23:23 GMT",
+  "momentId": 191577,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 9410.42,
+    "totalPoints": 9425.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -457,8 +457,14 @@
         "id": 462394,
         "team": "UAD",
         "country": "ch",
-        "totalPoints": 505,
+        "totalPoints": 520,
         "results": [
+          {
+            "name": "Tour de Suisse - Stage 3",
+            "date": "17 Jun 2025",
+            "points": 15,
+            "rank": 6
+          },
           {
             "name": "GP Gippingen",
             "date": "13 Jun 2025",

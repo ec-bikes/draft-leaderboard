@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 June 2025 23:24 GMT",
-  "momentId": 191408,
+  "fetchedDate": "17 June 2025 23:23 GMT",
+  "momentId": 191577,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 6172.28,
+    "totalPoints": 6237.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -94,8 +94,14 @@
         "id": 107840,
         "team": "UAD",
         "country": "pt",
-        "totalPoints": 1773.57,
+        "totalPoints": 1813.57,
         "results": [
+          {
+            "name": "Tour de Suisse - Stage 3",
+            "date": "17 Jun 2025",
+            "points": 40,
+            "rank": 2
+          },
           {
             "name": "Tour de Romandie - General classification",
             "date": "4 May 2025",
@@ -330,8 +336,14 @@
         "id": 1745291,
         "team": "ARK",
         "country": "fr",
-        "totalPoints": 1024,
+        "totalPoints": 1044,
         "results": [
+          {
+            "name": "Tour de Suisse - Stage 3",
+            "date": "17 Jun 2025",
+            "points": 20,
+            "rank": 5
+          },
           {
             "name": "Tour de Suisse - Stage 1",
             "date": "15 Jun 2025",
@@ -620,8 +632,14 @@
         "id": 150925,
         "team": "DAT",
         "country": "at",
-        "totalPoints": 231.43,
+        "totalPoints": 236.43,
         "results": [
+          {
+            "name": "Tour de Suisse - Stage 3",
+            "date": "17 Jun 2025",
+            "points": 5,
+            "rank": 9
+          },
           {
             "name": "Tour of the Alps - General classification",
             "date": "25 Apr 2025",

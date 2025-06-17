@@ -1,8 +1,8 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 June 2025 23:24 GMT",
-  "momentId": 191408,
+  "fetchedDate": "17 June 2025 23:23 GMT",
+  "momentId": 191577,
   "teams": [
     {
       "owner": "Kit Nicholson",
@@ -87,7 +87,7 @@
     {
       "owner": "Jonny Long",
       "name": "Ineos Grenadiers-Greenpeace-Poundland",
-      "totalPoints": 6503.14,
+      "totalPoints": 6533.14,
       "riders": [
         {
           "name": "Jonas Vingegaard",
@@ -115,7 +115,7 @@
           "id": 1710249,
           "team": "TPP",
           "country": "gb",
-          "totalPoints": 782
+          "totalPoints": 812
         },
         {
           "name": "Santiago Buitrago",
@@ -165,7 +165,7 @@
     {
       "owner": "Toms Skujiņš",
       "name": "Lidl-Trek-Bauer",
-      "totalPoints": 8216.25,
+      "totalPoints": 8224.25,
       "riders": [
         {
           "name": "Remco Evenepoel",
@@ -194,7 +194,7 @@
           "id": 76092,
           "team": "TBV",
           "country": "es",
-          "totalPoints": 760
+          "totalPoints": 768
         },
         {
           "name": "Giulio Ciccone",
@@ -248,7 +248,7 @@
     {
       "owner": "Dane Cash",
       "name": "Visma-Lease a Bike-Monster Energy",
-      "totalPoints": 9710.57,
+      "totalPoints": 9745.57,
       "riders": [
         {
           "name": "Jasper Philipsen",
@@ -311,7 +311,7 @@
           "id": 1759422,
           "team": "GFC",
           "country": "fr",
-          "totalPoints": 875
+          "totalPoints": 910
         },
         {
           "name": "Stefan Küng",
@@ -406,7 +406,7 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 9410.42,
+      "totalPoints": 9425.42,
       "riders": [
         {
           "name": "Mathieu van der Poel",
@@ -441,7 +441,7 @@
           "id": 462394,
           "team": "UAD",
           "country": "ch",
-          "totalPoints": 505
+          "totalPoints": 520
         },
         {
           "name": "Axel Zingle",
@@ -566,7 +566,7 @@
     {
       "owner": "Andrew (member)",
       "name": "Groupama-FDJ-Tourtel Twist",
-      "totalPoints": 6172.28,
+      "totalPoints": 6237.28,
       "riders": [
         {
           "name": "Adam Yates",
@@ -580,7 +580,7 @@
           "id": 107840,
           "team": "UAD",
           "country": "pt",
-          "totalPoints": 1773.57
+          "totalPoints": 1813.57
         },
         {
           "name": "Olav Kooij",
@@ -594,7 +594,7 @@
           "id": 1745291,
           "team": "ARK",
           "country": "fr",
-          "totalPoints": 1024
+          "totalPoints": 1044
         },
         {
           "name": "Pavel Sivakov",
@@ -622,7 +622,7 @@
           "id": 150925,
           "team": "DAT",
           "country": "at",
-          "totalPoints": 231.43
+          "totalPoints": 236.43
         },
         {
           "name": "Pablo Castrillo",
