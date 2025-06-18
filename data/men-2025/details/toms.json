@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "17 June 2025 23:23 GMT",
+  "fetchedDate": "18 June 2025 23:24 GMT",
   "momentId": 191577,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 8224.25,
+    "totalPoints": 8279.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -123,8 +123,19 @@
         "sanctions": 25,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 1148.29,
+        "totalPoints": 1173.29,
         "results": [
+          {
+            "name": "Baloise Belgium Tour - Stage 1",
+            "date": "18 Jun 2025",
+            "points": 20,
+            "rank": 1
+          },
+          {
+            "name": "Baloise Belgium Tour - Stage 1 - Bonus",
+            "date": "18 Jun 2025",
+            "points": 5
+          },
           {
             "name": "Antwerp Port Epic / Sels Trophy",
             "date": "9 Jun 2025",
@@ -237,8 +248,14 @@
         "id": 97805,
         "team": "JAY",
         "country": "au",
-        "totalPoints": 174.81,
+        "totalPoints": 204.81,
         "results": [
+          {
+            "name": "Tour de Suisse - Stage 4",
+            "date": "18 Jun 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Tour de Suisse - Stage 1",
             "date": "15 Jun 2025",

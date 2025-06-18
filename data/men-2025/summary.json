@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "17 June 2025 23:23 GMT",
+  "fetchedDate": "18 June 2025 23:24 GMT",
   "momentId": 191577,
   "teams": [
     {
@@ -87,7 +87,7 @@
     {
       "owner": "Jonny Long",
       "name": "Ineos Grenadiers-Greenpeace-Poundland",
-      "totalPoints": 6533.14,
+      "totalPoints": 6573.14,
       "riders": [
         {
           "name": "Jonas Vingegaard",
@@ -115,7 +115,7 @@
           "id": 1710249,
           "team": "TPP",
           "country": "gb",
-          "totalPoints": 812
+          "totalPoints": 852
         },
         {
           "name": "Santiago Buitrago",
@@ -165,7 +165,7 @@
     {
       "owner": "Toms Skujiņš",
       "name": "Lidl-Trek-Bauer",
-      "totalPoints": 8224.25,
+      "totalPoints": 8279.25,
       "riders": [
         {
           "name": "Remco Evenepoel",
@@ -180,14 +180,14 @@
           "sanctions": 25,
           "team": "SOQ",
           "country": "be",
-          "totalPoints": 1148.29
+          "totalPoints": 1173.29
         },
         {
           "name": "Ben O'Connor",
           "id": 97805,
           "team": "JAY",
           "country": "au",
-          "totalPoints": 174.81
+          "totalPoints": 204.81
         },
         {
           "name": "Pello Bilbao",
@@ -248,7 +248,7 @@
     {
       "owner": "Dane Cash",
       "name": "Visma-Lease a Bike-Monster Energy",
-      "totalPoints": 9745.57,
+      "totalPoints": 9775.57,
       "riders": [
         {
           "name": "Jasper Philipsen",
@@ -311,7 +311,7 @@
           "id": 1759422,
           "team": "GFC",
           "country": "fr",
-          "totalPoints": 910
+          "totalPoints": 940
         },
         {
           "name": "Stefan Küng",
@@ -566,7 +566,7 @@
     {
       "owner": "Andrew (member)",
       "name": "Groupama-FDJ-Tourtel Twist",
-      "totalPoints": 6237.28,
+      "totalPoints": 6337.28,
       "riders": [
         {
           "name": "Adam Yates",
@@ -580,7 +580,7 @@
           "id": 107840,
           "team": "UAD",
           "country": "pt",
-          "totalPoints": 1813.57
+          "totalPoints": 1873.57
         },
         {
           "name": "Olav Kooij",
@@ -594,7 +594,7 @@
           "id": 1745291,
           "team": "ARK",
           "country": "fr",
-          "totalPoints": 1044
+          "totalPoints": 1069
         },
         {
           "name": "Pavel Sivakov",
@@ -622,7 +622,7 @@
           "id": 150925,
           "team": "DAT",
           "country": "at",
-          "totalPoints": 236.43
+          "totalPoints": 251.43
         },
         {
           "name": "Pablo Castrillo",
