@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 June 2025 23:24 GMT",
+  "fetchedDate": "20 June 2025 23:24 GMT",
   "momentId": 191577,
   "teams": [
     {
       "owner": "Kit Nicholson",
       "name": "Picnic-Letterboxd",
-      "totalPoints": 10630,
+      "totalPoints": 10698,
       "riders": [
         {
           "name": "Tadej Pogačar",
@@ -43,7 +43,7 @@
           "sanctions": 25,
           "team": "RBH",
           "country": "be",
-          "totalPoints": 185
+          "totalPoints": 245
         },
         {
           "name": "Kaden Groves",
@@ -79,7 +79,7 @@
           "id": 257361,
           "team": "DAT",
           "country": "fr",
-          "totalPoints": 220
+          "totalPoints": 228
         }
       ],
       "movement": 0
@@ -327,7 +327,7 @@
     {
       "owner": "Abby Mickey",
       "name": "EF Education-Swift Nation",
-      "totalPoints": 7033.29,
+      "totalPoints": 7048.29,
       "riders": [
         {
           "name": "Wout van Aert",
@@ -363,7 +363,7 @@
           "id": 91640,
           "team": "IGD",
           "country": "it",
-          "totalPoints": 1722
+          "totalPoints": 1737
         },
         {
           "name": "Tao Geoghegan Hart",
@@ -566,7 +566,7 @@
     {
       "owner": "Andrew (member)",
       "name": "Groupama-FDJ-Tourtel Twist",
-      "totalPoints": 6442.28,
+      "totalPoints": 6452.28,
       "riders": [
         {
           "name": "Adam Yates",
@@ -594,7 +594,7 @@
           "id": 1745291,
           "team": "ARK",
           "country": "fr",
-          "totalPoints": 1104
+          "totalPoints": 1114
         },
         {
           "name": "Pavel Sivakov",
@@ -644,7 +644,7 @@
     {
       "owner": "Discord Undrafted",
       "name": "Team Movistar easyJet",
-      "totalPoints": 6055.38,
+      "totalPoints": 6030.38,
       "riders": [
         {
           "name": "Dylan Groenewegen",
@@ -713,9 +713,10 @@
         {
           "name": "Roger Adrià",
           "id": 407508,
+          "sanctions": 25,
           "team": "RBH",
           "country": "es",
-          "totalPoints": 235
+          "totalPoints": 210
         }
       ],
       "movement": 0

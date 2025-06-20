@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 June 2025 23:24 GMT",
+  "fetchedDate": "20 June 2025 23:24 GMT",
   "momentId": 191577,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 6055.38,
+    "totalPoints": 6030.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -706,9 +706,10 @@
       {
         "name": "Roger Adrià",
         "id": 407508,
+        "sanctions": 25,
         "team": "RBH",
         "country": "es",
-        "totalPoints": 235,
+        "totalPoints": 210,
         "results": [
           {
             "name": "GP Gippingen",

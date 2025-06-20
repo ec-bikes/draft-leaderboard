@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 June 2025 23:24 GMT",
+  "fetchedDate": "20 June 2025 23:24 GMT",
   "momentId": 191577,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 10630,
+    "totalPoints": 10698,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -331,8 +331,14 @@
         "sanctions": 25,
         "team": "RBH",
         "country": "be",
-        "totalPoints": 185,
+        "totalPoints": 245,
         "results": [
+          {
+            "name": "Tour de Suisse - Stage 6",
+            "date": "20 Jun 2025",
+            "points": 60,
+            "rank": 1
+          },
           {
             "name": "Rund um Köln",
             "date": "18 May 2025",
@@ -731,8 +737,14 @@
         "id": 257361,
         "team": "DAT",
         "country": "fr",
-        "totalPoints": 220,
+        "totalPoints": 228,
         "results": [
+          {
+            "name": "Tour de Suisse - Stage 6",
+            "date": "20 Jun 2025",
+            "points": 8,
+            "rank": 8
+          },
           {
             "name": "Tour de Suisse - Stage 2",
             "date": "16 Jun 2025",

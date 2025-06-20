@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 June 2025 23:24 GMT",
+  "fetchedDate": "20 June 2025 23:24 GMT",
   "momentId": 191577,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 7033.29,
+    "totalPoints": 7048.29,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -349,8 +349,14 @@
         "id": 91640,
         "team": "IGD",
         "country": "it",
-        "totalPoints": 1722,
+        "totalPoints": 1737,
         "results": [
+          {
+            "name": "Baloise Belgium Tour - Stage 3 (ITT)",
+            "date": "20 Jun 2025",
+            "points": 15,
+            "rank": 2
+          },
           {
             "name": "Paris-Roubaix",
             "date": "13 Apr 2025",
