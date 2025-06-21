@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 June 2025 23:24 GMT",
+  "fetchedDate": "21 June 2025 23:23 GMT",
   "momentId": 191595,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 8276.72,
+    "totalPoints": 8676.72,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 2438,
+        "totalPoints": 2838,
         "results": [
+          {
+            "name": "Copenhagen Sprint",
+            "date": "21 Jun 2025",
+            "points": 400,
+            "rank": 1
+          },
           {
             "name": "Elmos Dwars door het Hageland",
             "date": "14 Jun 2025",

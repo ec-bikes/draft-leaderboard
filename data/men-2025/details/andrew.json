@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 June 2025 23:24 GMT",
+  "fetchedDate": "21 June 2025 23:23 GMT",
   "momentId": 191577,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 6452.28,
+    "totalPoints": 6577.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -94,8 +94,14 @@
         "id": 107840,
         "team": "UAD",
         "country": "pt",
-        "totalPoints": 1913.57,
+        "totalPoints": 1973.57,
         "results": [
+          {
+            "name": "Tour de Suisse - Stage 7",
+            "date": "21 Jun 2025",
+            "points": 60,
+            "rank": 1
+          },
           {
             "name": "Tour de Suisse - Stage 5",
             "date": "19 Jun 2025",
@@ -348,8 +354,19 @@
         "id": 1745291,
         "team": "ARK",
         "country": "fr",
-        "totalPoints": 1114,
+        "totalPoints": 1154,
         "results": [
+          {
+            "name": "Tour de Suisse - Stage 7",
+            "date": "21 Jun 2025",
+            "points": 30,
+            "rank": 3
+          },
+          {
+            "name": "Tour de Suisse - Stage 7 - Bonus",
+            "date": "21 Jun 2025",
+            "points": 10
+          },
           {
             "name": "Tour de Suisse - Stage 6 - Bonus",
             "date": "20 Jun 2025",
@@ -666,8 +683,14 @@
         "id": 150925,
         "team": "DAT",
         "country": "at",
-        "totalPoints": 281.43,
+        "totalPoints": 306.43,
         "results": [
+          {
+            "name": "Tour de Suisse - Stage 7",
+            "date": "21 Jun 2025",
+            "points": 25,
+            "rank": 4
+          },
           {
             "name": "Tour de Suisse - Stage 5",
             "date": "19 Jun 2025",

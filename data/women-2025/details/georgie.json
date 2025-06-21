@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 June 2025 23:24 GMT",
+  "fetchedDate": "21 June 2025 23:23 GMT",
   "momentId": 191595,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 5881.85,
+    "totalPoints": 6021.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -401,8 +401,14 @@
         "sanctions": 15,
         "team": "HPH",
         "country": "us",
-        "totalPoints": 369.14,
+        "totalPoints": 509.14,
         "results": [
+          {
+            "name": "Copenhagen Sprint",
+            "date": "21 Jun 2025",
+            "points": 140,
+            "rank": 6
+          },
           {
             "name": "Elmos Dwars door het Hageland",
             "date": "14 Jun 2025",

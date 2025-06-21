@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 June 2025 23:24 GMT",
+  "fetchedDate": "21 June 2025 23:23 GMT",
   "momentId": 191595,
   "team": {
     "owner": "Loren Rowney",
     "name": "(TBD)",
-    "totalPoints": 6220.58,
+    "totalPoints": 6278.58,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -145,8 +145,14 @@
         "id": 88660,
         "team": "AGS",
         "country": "mu",
-        "totalPoints": 1368,
+        "totalPoints": 1418,
         "results": [
+          {
+            "name": "National Championships Mauritius WE - ITT",
+            "date": "21 Jun 2025",
+            "points": 50,
+            "rank": 1
+          },
           {
             "name": "Tour of Britain Women - Stage 1",
             "date": "5 Jun 2025",
@@ -533,8 +539,14 @@
         "id": 153287,
         "team": "LTK",
         "country": "fr",
-        "totalPoints": 711,
+        "totalPoints": 719,
         "results": [
+          {
+            "name": "Copenhagen Sprint",
+            "date": "21 Jun 2025",
+            "points": 8,
+            "rank": 36
+          },
           {
             "name": "Elmos Dwars door het Hageland",
             "date": "14 Jun 2025",

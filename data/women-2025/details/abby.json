@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 June 2025 23:24 GMT",
+  "fetchedDate": "21 June 2025 23:23 GMT",
   "momentId": 191595,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 6430.71,
+    "totalPoints": 6934.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -192,8 +192,14 @@
         "id": 153350,
         "team": "TPP",
         "country": "gb",
-        "totalPoints": 302.57,
+        "totalPoints": 326.57,
         "results": [
+          {
+            "name": "Copenhagen Sprint",
+            "date": "21 Jun 2025",
+            "points": 24,
+            "rank": 17
+          },
           {
             "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
             "date": "4 May 2025",
@@ -348,8 +354,14 @@
         "id": 157612,
         "team": "TPP",
         "country": "nl",
-        "totalPoints": 515,
+        "totalPoints": 735,
         "results": [
+          {
+            "name": "Copenhagen Sprint",
+            "date": "21 Jun 2025",
+            "points": 220,
+            "rank": 4
+          },
           {
             "name": "Tour of Britain Women - General classification",
             "date": "8 Jun 2025",
@@ -498,8 +510,14 @@
         "id": 156600,
         "team": "CSZ",
         "country": "it",
-        "totalPoints": 888,
+        "totalPoints": 1148,
         "results": [
+          {
+            "name": "Copenhagen Sprint",
+            "date": "21 Jun 2025",
+            "points": 260,
+            "rank": 3
+          },
           {
             "name": "Tour of Britain Women - Stage 4",
             "date": "8 Jun 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 June 2025 23:24 GMT",
+  "fetchedDate": "21 June 2025 23:23 GMT",
   "momentId": 191595,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 10731.57,
+    "totalPoints": 11083.57,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -202,8 +202,14 @@
         "id": 101826,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 1743,
+        "totalPoints": 2063,
         "results": [
+          {
+            "name": "Copenhagen Sprint",
+            "date": "21 Jun 2025",
+            "points": 320,
+            "rank": 2
+          },
           {
             "name": "Tour de Suisse Women - Stage 3",
             "date": "14 Jun 2025",
@@ -962,8 +968,14 @@
         "id": 98622,
         "team": "HPH",
         "country": "at",
-        "totalPoints": 418,
+        "totalPoints": 450,
         "results": [
+          {
+            "name": "Copenhagen Sprint",
+            "date": "21 Jun 2025",
+            "points": 32,
+            "rank": 14
+          },
           {
             "name": "Elmos Dwars door het Hageland",
             "date": "14 Jun 2025",
