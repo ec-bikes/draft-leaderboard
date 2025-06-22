@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 June 2025 23:23 GMT",
+  "fetchedDate": "22 June 2025 23:23 GMT",
   "momentId": 191595,
   "teams": [
     {
@@ -317,7 +317,7 @@
           "totalPoints": 336
         }
       ],
-      "movement": 0
+      "movement": 1
     },
     {
       "owner": "Georgie Howe",
@@ -477,7 +477,7 @@
           "totalPoints": 1138.86
         }
       ],
-      "movement": 0
+      "movement": -1
     }
   ]
 }

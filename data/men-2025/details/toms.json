@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 June 2025 23:23 GMT",
+  "fetchedDate": "22 June 2025 23:23 GMT",
   "momentId": 191577,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 8279.25,
+    "totalPoints": 8462.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -123,8 +123,14 @@
         "sanctions": 25,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 1173.29,
+        "totalPoints": 1193.29,
         "results": [
+          {
+            "name": "Baloise Belgium Tour - Stage 5",
+            "date": "22 Jun 2025",
+            "points": 20,
+            "rank": 1
+          },
           {
             "name": "Baloise Belgium Tour - Stage 1",
             "date": "18 Jun 2025",
@@ -248,8 +254,20 @@
         "id": 97805,
         "team": "JAY",
         "country": "au",
-        "totalPoints": 204.81,
+        "totalPoints": 364.81,
         "results": [
+          {
+            "name": "Tour de Suisse - General classification",
+            "date": "22 Jun 2025",
+            "points": 150,
+            "rank": 7
+          },
+          {
+            "name": "Tour de Suisse - Stage 8 (ITT)",
+            "date": "22 Jun 2025",
+            "points": 10,
+            "rank": 7
+          },
           {
             "name": "Tour de Suisse - Stage 4",
             "date": "18 Jun 2025",
@@ -311,8 +329,14 @@
         "id": 76092,
         "team": "TBV",
         "country": "es",
-        "totalPoints": 768,
+        "totalPoints": 771,
         "results": [
+          {
+            "name": "Tour de Suisse - General classification",
+            "date": "22 Jun 2025",
+            "points": 3,
+            "rank": 57
+          },
           {
             "name": "Tour de Suisse - Stage 3",
             "date": "17 Jun 2025",

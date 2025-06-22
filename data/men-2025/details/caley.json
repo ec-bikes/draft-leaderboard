@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 June 2025 23:23 GMT",
+  "fetchedDate": "22 June 2025 23:23 GMT",
   "momentId": 191577,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 8730.46,
+    "totalPoints": 8743.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -604,8 +604,14 @@
         "id": 88143,
         "team": "EFE",
         "country": "us",
-        "totalPoints": 1070.5,
+        "totalPoints": 1080.5,
         "results": [
+          {
+            "name": "Tour de Suisse - General classification",
+            "date": "22 Jun 2025",
+            "points": 10,
+            "rank": 38
+          },
           {
             "name": "GP Gippingen",
             "date": "13 Jun 2025",
@@ -870,8 +876,14 @@
         "id": 762315,
         "team": "TPP",
         "country": "us",
-        "totalPoints": 15,
+        "totalPoints": 18,
         "results": [
+          {
+            "name": "Baloise Belgium Tour - General classification",
+            "date": "22 Jun 2025",
+            "points": 3,
+            "rank": 39
+          },
           {
             "name": "Tour of Norway - General classification",
             "date": "1 Jun 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 June 2025 23:23 GMT",
+  "fetchedDate": "22 June 2025 23:23 GMT",
   "momentId": 191577,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 7048.29,
+    "totalPoints": 7168.29,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -349,8 +349,14 @@
         "id": 91640,
         "team": "IGD",
         "country": "it",
-        "totalPoints": 1737,
+        "totalPoints": 1837,
         "results": [
+          {
+            "name": "Baloise Belgium Tour - General classification",
+            "date": "22 Jun 2025",
+            "points": 100,
+            "rank": 4
+          },
           {
             "name": "Baloise Belgium Tour - Stage 3 (ITT)",
             "date": "20 Jun 2025",
@@ -449,8 +455,14 @@
         "id": 86735,
         "team": "LTK",
         "country": "gb",
-        "totalPoints": 186,
+        "totalPoints": 206,
         "results": [
+          {
+            "name": "Tour de Suisse - General classification",
+            "date": "22 Jun 2025",
+            "points": 20,
+            "rank": 25
+          },
           {
             "name": "Tour of Slovenia - General classification",
             "date": "8 Jun 2025",

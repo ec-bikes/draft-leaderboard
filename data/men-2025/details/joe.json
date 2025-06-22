@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 June 2025 23:23 GMT",
+  "fetchedDate": "22 June 2025 23:23 GMT",
   "momentId": 191577,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 9425.42,
+    "totalPoints": 9595.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -106,8 +106,14 @@
         "id": 86895,
         "team": "LTK",
         "country": "dk",
-        "totalPoints": 3877.57,
+        "totalPoints": 3882.57,
         "results": [
+          {
+            "name": "Copenhagen Sprint",
+            "date": "22 Jun 2025",
+            "points": 5,
+            "rank": 40
+          },
           {
             "name": "Giro d'Italia - Points classification",
             "date": "1 Jun 2025",
@@ -394,8 +400,20 @@
         "id": 97280,
         "team": "RBH",
         "country": "ru",
-        "totalPoints": 91.71,
+        "totalPoints": 126.71,
         "results": [
+          {
+            "name": "Tour de Suisse - General classification",
+            "date": "22 Jun 2025",
+            "points": 20,
+            "rank": 21
+          },
+          {
+            "name": "Tour de Suisse - Stage 8 (ITT)",
+            "date": "22 Jun 2025",
+            "points": 15,
+            "rank": 6
+          },
           {
             "name": "Tour de Romandie - General classification",
             "date": "4 May 2025",
@@ -638,8 +656,14 @@
         "id": 482927,
         "team": "TPP",
         "country": "dk",
-        "totalPoints": 631,
+        "totalPoints": 751,
         "results": [
+          {
+            "name": "Copenhagen Sprint",
+            "date": "22 Jun 2025",
+            "points": 120,
+            "rank": 5
+          },
           {
             "name": "Antwerp Port Epic / Sels Trophy",
             "date": "9 Jun 2025",
@@ -890,8 +914,14 @@
         "id": 154227,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 102,
+        "totalPoints": 112,
         "results": [
+          {
+            "name": "Tour de Suisse - General classification",
+            "date": "22 Jun 2025",
+            "points": 10,
+            "rank": 42
+          },
           {
             "name": "Tour de Romandie - General classification",
             "date": "4 May 2025",

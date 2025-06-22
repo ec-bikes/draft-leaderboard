@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 June 2025 23:23 GMT",
+  "fetchedDate": "22 June 2025 23:23 GMT",
   "momentId": 191577,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 10698,
+    "totalPoints": 11001,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -216,8 +216,14 @@
         "id": 68892,
         "team": "LTK",
         "country": "lv",
-        "totalPoints": 162,
+        "totalPoints": 165,
         "results": [
+          {
+            "name": "Andorra MoraBanc Clàssica",
+            "date": "22 Jun 2025",
+            "points": 3,
+            "rank": 19
+          },
           {
             "name": "Critérium du Dauphiné - General classification",
             "date": "15 Jun 2025",
@@ -331,8 +337,14 @@
         "sanctions": 25,
         "team": "RBH",
         "country": "be",
-        "totalPoints": 245,
+        "totalPoints": 545,
         "results": [
+          {
+            "name": "Copenhagen Sprint",
+            "date": "22 Jun 2025",
+            "points": 300,
+            "rank": 1
+          },
           {
             "name": "Tour de Suisse - Stage 6",
             "date": "20 Jun 2025",

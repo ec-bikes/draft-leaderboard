@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 June 2025 23:23 GMT",
+  "fetchedDate": "22 June 2025 23:23 GMT",
   "momentId": 191577,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 6030.38,
+    "totalPoints": 6145.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
         "id": 72932,
         "team": "JAY",
         "country": "nl",
-        "totalPoints": 221,
+        "totalPoints": 316,
         "results": [
+          {
+            "name": "Copenhagen Sprint",
+            "date": "22 Jun 2025",
+            "points": 95,
+            "rank": 7
+          },
           {
             "name": "Elfstedenronde Brugge",
             "date": "15 Jun 2025",
@@ -220,8 +226,14 @@
         "sanctions": 10,
         "team": "MOV",
         "country": "es",
-        "totalPoints": 833,
+        "totalPoints": 843,
         "results": [
+          {
+            "name": "Tour de Suisse - General classification",
+            "date": "22 Jun 2025",
+            "points": 10,
+            "rank": 39
+          },
           {
             "name": "Tour de Romandie - General classification",
             "date": "4 May 2025",
@@ -582,8 +594,14 @@
         "id": 109483,
         "team": "JAY",
         "country": "ch",
-        "totalPoints": 594.67,
+        "totalPoints": 604.67,
         "results": [
+          {
+            "name": "Tour de Suisse - General classification",
+            "date": "22 Jun 2025",
+            "points": 10,
+            "rank": 43
+          },
           {
             "name": "GP Gippingen",
             "date": "13 Jun 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 June 2025 23:23 GMT",
+  "fetchedDate": "22 June 2025 23:23 GMT",
   "momentId": 191577,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 6673.14,
+    "totalPoints": 7243.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -87,8 +87,14 @@
         "id": 365033,
         "team": "LTK",
         "country": "dk",
-        "totalPoints": 974.57,
+        "totalPoints": 1099.57,
         "results": [
+          {
+            "name": "Andorra MoraBanc Clàssica",
+            "date": "22 Jun 2025",
+            "points": 125,
+            "rank": 1
+          },
           {
             "name": "Liège-Bastogne-Liège",
             "date": "27 Apr 2025",
@@ -156,8 +162,14 @@
         "id": 109803,
         "team": "MOV",
         "country": "es",
-        "totalPoints": 886,
+        "totalPoints": 956,
         "results": [
+          {
+            "name": "Andorra MoraBanc Clàssica",
+            "date": "22 Jun 2025",
+            "points": 70,
+            "rank": 3
+          },
           {
             "name": "Critérium du Dauphiné - General classification",
             "date": "15 Jun 2025",
@@ -243,8 +255,20 @@
         "id": 1710249,
         "team": "TPP",
         "country": "gb",
-        "totalPoints": 952,
+        "totalPoints": 1307,
         "results": [
+          {
+            "name": "Tour de Suisse - General classification",
+            "date": "22 Jun 2025",
+            "points": 325,
+            "rank": 3
+          },
+          {
+            "name": "Tour de Suisse - Stage 8 (ITT)",
+            "date": "22 Jun 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Tour de Suisse - Stage 7",
             "date": "21 Jun 2025",
@@ -460,8 +484,14 @@
         "id": 91637,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 296,
+        "totalPoints": 316,
         "results": [
+          {
+            "name": "Tour de Suisse - General classification",
+            "date": "22 Jun 2025",
+            "points": 20,
+            "rank": 26
+          },
           {
             "name": "Tro-Bro Léon",
             "date": "11 May 2025",

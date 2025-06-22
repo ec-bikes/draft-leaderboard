@@ -1,20 +1,32 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 June 2025 23:23 GMT",
+  "fetchedDate": "22 June 2025 23:23 GMT",
   "momentId": 191577,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 9795.57,
+    "totalPoints": 9881.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
         "id": 148275,
         "team": "ADC",
         "country": "be",
-        "totalPoints": 880,
+        "totalPoints": 933,
         "results": [
+          {
+            "name": "Baloise Belgium Tour - General classification",
+            "date": "22 Jun 2025",
+            "points": 50,
+            "rank": 8
+          },
+          {
+            "name": "Baloise Belgium Tour - Stage 5",
+            "date": "22 Jun 2025",
+            "points": 3,
+            "rank": 5
+          },
           {
             "name": "Baloise Belgium Tour - Stage 2",
             "date": "19 Jun 2025",
@@ -700,8 +712,14 @@
         "id": 1759422,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 940,
+        "totalPoints": 970,
         "results": [
+          {
+            "name": "Tour de Suisse - General classification",
+            "date": "22 Jun 2025",
+            "points": 30,
+            "rank": 17
+          },
           {
             "name": "Tour de Suisse - Stage 4",
             "date": "18 Jun 2025",
@@ -832,8 +850,14 @@
         "sanctions": 25,
         "team": "GFC",
         "country": "ch",
-        "totalPoints": 462,
+        "totalPoints": 465,
         "results": [
+          {
+            "name": "Tour de Suisse - General classification",
+            "date": "22 Jun 2025",
+            "points": 3,
+            "rank": 58
+          },
           {
             "name": "Tour de Romandie - Stage 5 (ITT)",
             "date": "4 May 2025",
