@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 June 2025 23:21 GMT",
-  "momentId": 191595,
+  "fetchedDate": "24 June 2025 23:24 GMT",
+  "momentId": 191766,
   "teams": [
     {
       "owner": "Loren Rowney",
       "name": "(TBD)",
-      "totalPoints": 6278.58,
+      "totalPoints": 6378.58,
       "riders": [
         {
           "name": "Lotte Kopecky",
@@ -28,7 +28,7 @@
           "id": 88660,
           "team": "AGS",
           "country": "mu",
-          "totalPoints": 1418
+          "totalPoints": 1518
         },
         {
           "name": "Justine Ghekiere",
@@ -85,7 +85,7 @@
     {
       "owner": "Abby Mickey",
       "name": "The Tortured Breakaway Department",
-      "totalPoints": 6934.71,
+      "totalPoints": 6949.71,
       "riders": [
         {
           "name": "Elisa Longo Borghini",
@@ -142,7 +142,7 @@
           "sanctions": 15,
           "team": "LTK",
           "country": "nl",
-          "totalPoints": 79.14
+          "totalPoints": 94.14
         },
         {
           "name": "Ingvild Gåskjenn",
@@ -164,7 +164,7 @@
     {
       "owner": "Gracie Elvin",
       "name": "Lamborghini p/b Tony's Chocolonely",
-      "totalPoints": 11083.57,
+      "totalPoints": 11133.57,
       "riders": [
         {
           "name": "Demi Vollering",
@@ -192,7 +192,7 @@
           "id": 227721,
           "team": "SDW",
           "country": "nl",
-          "totalPoints": 1200.71
+          "totalPoints": 1250.71
         },
         {
           "name": "Maike van der Duin",
@@ -322,7 +322,7 @@
     {
       "owner": "Georgie Howe",
       "name": "Specialized-Win-Collective Racing",
-      "totalPoints": 6021.85,
+      "totalPoints": 6051.85,
       "riders": [
         {
           "name": "Kasia Niewiadoma",
@@ -393,7 +393,7 @@
           "id": 86854,
           "team": "LTK",
           "country": "nl",
-          "totalPoints": 369.14
+          "totalPoints": 399.14
         }
       ],
       "movement": 0
