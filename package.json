@@ -11,6 +11,7 @@
     "preview": "vike preview",
     "test": "vitest run",
     "clean-old": "tsx scripts/cleanOld.ts",
+    "fill-date": "tsx scripts/fillPreviousSummary.ts",
     "get-riders": "tsx scripts/getRiders.ts",
     "get-teams": "tsx scripts/getUciTeamData.ts",
     "update-data": "tsx scripts/updateData.ts"

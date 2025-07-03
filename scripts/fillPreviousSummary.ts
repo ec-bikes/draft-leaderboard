@@ -24,7 +24,12 @@ import { getRiderTotal, getTeamTotal } from './aggregate/getTotals.js';
 
 const year = 2025;
 // This date should be a Tuesday, or the file will be removed by the cleanup script
-const summaryDate = parseDate('2025-02-25');
+const dateArg = process.argv[2];
+if (!dateArg) {
+  console.error('Please provide a date in YYYY-MM-DD format as an argument.');
+  process.exit(1);
+}
+const summaryDate = parseDate(dateArg);
 
 for (const group of groups) {
   const currentSummaryPath = getSummaryFilePath({ group, year });
@@ -63,9 +68,11 @@ for (const group of groups) {
   // Assumes the new date should be the first in the history file.
   const historyPath = getHistoryFilePath({ group, year });
   const history: PointsHistory = readJson(historyPath);
-  history.dates.unshift(formatDate(summaryDate, 'isoDate'));
+  const formattedDate = formatDate(summaryDate, 'isoDate');
+  const dateIndex = history.dates.findIndex((d) => d.localeCompare(formattedDate) > 0);
+  history.dates.splice(dateIndex, 0, formattedDate);
   for (const team of teamData) {
-    history.teams[team.owner].unshift(team.totalPoints);
+    history.teams[team.owner].splice(dateIndex, 0, team.totalPoints);
   }
   writeJson(historyPath, history);
 

@@ -6,7 +6,7 @@ const expectedHeaders = [
   // 0. day.month (21.04) or date range (08.02 » 11.02) for stage race header
   'Date',
   // 1. ranking
-  'Result',
+  '#Result',
   // 2. GC ranking?
   '',
   // 3. jersey icon
@@ -38,7 +38,7 @@ export function parsePcsRiderResults(params: {
     headers.length !== expectedHeaders.length ||
     !headers.every((header, i) => header === expectedHeaders[i])
   ) {
-    const headerList = headers.map((h) => `"${h}"`).join(', ');
+    const headerList = headers.map((h) => `"${h.replace(/\n/g, '\\n')}"`).join(', ');
     throw new Error(`Unexpected table headers at ${pcsUrl}: ${headerList}`);
   }
 
@@ -48,26 +48,36 @@ export function parsePcsRiderResults(params: {
   let pendingStageRace: { name: string; date: string } | undefined;
 
   for (const row of resultRows) {
-    // data-main is 1 for one-day races or stage race headers, 0 for stage race sub-results.
-    const isRaceHeader = row.getAttribute('data-main') === '1';
+    // "main" class is for one-day races or stage race headers ("stage" is for stages or jerseys)
+    const isMainResult = row.classList.contains('main');
     // Clear any previous pending stage race.
-    if (isRaceHeader) pendingStageRace = undefined;
+    if (isMainResult) pendingStageRace = undefined;
 
     const cells = row.querySelectorAll('td');
 
     const rank = Number(cells[1].textContent.trim()) || undefined;
 
-    // Date: day.month (21.04), date range (08.02 » 11.02) for stage race header,
+    // Date: day.month (21.04), date range (08.02 › 11.02) for stage race header
+    // (under a .hideIfMobile span, with a different .showIfMobile variant),
     // or empty for GC or jersey results
-    const rawDateStr = cells[0].textContent.trim();
-    const isStageRaceHeader = isRaceHeader && rawDateStr.includes('»');
+    const dateCell = cells[0].querySelector('.hideIfMobile') || cells[0];
+    const rawDateStr = dateCell.textContent.trim();
+    const isStageRaceHeader = isMainResult && rawDateStr.includes('›');
     // Take the end date for stage races.
     const dateMatch = rawDateStr.match(/(\d\d)\.(\d\d)$/);
     // Parse the date.
     // If it's not set, this is a GC or jersey result from a stage race, so take that date.
     const dateObj = dateMatch ? parseDate(`${year}-${dateMatch[2]}-${dateMatch[1]}`) : undefined;
-    // format to match date strings from UCI
-    const date = dateObj ? formatDate(dateObj, 'shortDate') : pendingStageRace!.date;
+    let date: string;
+    if (dateObj) {
+      date = formatDate(dateObj, 'shortDate');
+    } else if (pendingStageRace) {
+      // format to match date strings from UCI
+      date = pendingStageRace.date;
+    } else {
+      console.log(resultsTable.outerHTML);
+      throw new Error(`No corresponding stage race header for row: ${row.outerHTML}`);
+    }
 
     // Race name:
     //   <td class="name"><span class="flag be"></span><a href="race/liege-bastogne-liege-femmes/2024/result">

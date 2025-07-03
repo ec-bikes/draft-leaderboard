@@ -49,16 +49,24 @@ export async function loadPcsPage(params: { rider: BaseRider; year: number }): P
     throw new Error(`Invalid PCS URL: ${pcsUrl}`);
   }
 
-  // Race results
-  const resultsTable = root.querySelector('.rdrResults');
-  // Totals row
-  const resultsSum = root.querySelector('.rdrResultsSum');
-  // List of teams for each year
-  const teamList = root.querySelector('.rdr-teams2');
+  return {
+    pcsUrl,
+    resultsTable: findElement({ pcsUrl, root, selector: '.rdrResults' }),
+    resultsSum: findElement({ pcsUrl, root, selector: '.rdrSeasonSum' }),
+    teamList: findElement({ pcsUrl, root, selector: '.rdr-teams2' }),
+  };
+}
 
-  if (!(resultsTable && resultsSum && teamList)) {
-    throw new Error(`PCS page format changed at ${pcsUrl}`);
+function findElement(params: {
+  pcsUrl: string;
+  root: BasicHTMLElement;
+  selector: string;
+}): BasicHTMLElement {
+  const { pcsUrl, root, selector } = params;
+  const element = root.querySelector(selector);
+  if (!element) {
+    console.log(root.querySelector('body')?.outerHTML);
+    throw new Error(`PCS page format changed at ${pcsUrl} (see above): missing ${selector}`);
   }
-
-  return { pcsUrl, resultsTable, resultsSum, teamList };
+  return element;
 }
