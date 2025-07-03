@@ -7,7 +7,7 @@ export const draft: Draft = {
   teams: [
     {
       owner: 'Loren Rowney',
-      name: '(TBD)',
+      name: 'Super Lekker Pro Potato Women’s Cycling Team',
       riders: [
         'Lotte Kopecky',
         'Cecilie Uttrup Ludwig',
