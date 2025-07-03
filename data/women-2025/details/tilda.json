@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "24 June 2025 23:24 GMT",
-  "momentId": 191766,
+  "fetchedDate": "3 July 2025 17:55 GMT",
+  "momentId": 191927,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 8676.72,
+    "totalPoints": 9012.72,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 2838,
+        "totalPoints": 2914,
         "results": [
+          {
+            "name": "National Championships Netherlands WE - Road Race",
+            "date": "28 Jun 2025",
+            "points": 100,
+            "rank": 1
+          },
           {
             "name": "Copenhagen Sprint",
             "date": "21 Jun 2025",
@@ -28,39 +34,34 @@
             "rank": 1
           },
           {
-            "name": "Tour of Britain Women - Stage 4",
+            "name": "Tour of Britain Women - S4Stage 4 - Glasgow › Glasgow",
             "date": "8 Jun 2025",
             "points": 50,
             "rank": 1
           },
           {
-            "name": "Tour of Britain Women - Stage 1",
+            "name": "Tour of Britain Women - S1Stage 1 - Dalby Forest › Redcar",
             "date": "5 Jun 2025",
             "points": 30,
             "rank": 3
           },
           {
-            "name": "Vuelta a Burgos Feminas - Stage 4 (ITT)",
+            "name": "Vuelta a Burgos Feminas - S4 (ITT)Stage 4 (ITT) - Villasana de Mena › Lezana de Mena",
             "date": "25 May 2025",
             "points": 10,
             "rank": 8
           },
           {
-            "name": "Vuelta a Burgos Feminas - Stage 2",
+            "name": "Vuelta a Burgos Feminas - S2Stage 2 - Villalba de Duero › Roa de Duero",
             "date": "23 May 2025",
             "points": 30,
             "rank": 3
           },
           {
-            "name": "Vuelta a Burgos Feminas - Stage 1",
+            "name": "Vuelta a Burgos Feminas - S1Stage 1 - Burgos › Poza de la Sal",
             "date": "22 May 2025",
             "points": 50,
             "rank": 1
-          },
-          {
-            "name": "Vuelta a Burgos Feminas - Stage 1 - Bonus",
-            "date": "22 May 2025",
-            "points": 8
           },
           {
             "name": "Amstel Gold Race Ladies Edition",
@@ -69,7 +70,7 @@
             "rank": 6
           },
           {
-            "name": "Paris-Roubaix Femmes avec Zwift",
+            "name": "Paris-Roubaix Femmes ",
             "date": "12 Apr 2025",
             "points": 260,
             "rank": 3
@@ -111,38 +112,28 @@
             "rank": 5
           },
           {
-            "name": "UAE Tour Women - General classification",
+            "name": "UAE Tour Women - General classificationGeneral classification",
             "date": "9 Feb 2025",
             "points": 40,
             "rank": 13
           },
           {
-            "name": "UAE Tour Women - Stage 4",
+            "name": "UAE Tour Women - S4Stage 4 - Abu Dhabi Fatima Bint Mubarak Ladies Academy › Abu Dhabi Breakwater",
             "date": "9 Feb 2025",
             "points": 50,
             "rank": 1
           },
           {
-            "name": "UAE Tour Women - Stage 2",
+            "name": "UAE Tour Women - S2Stage 2 - Al Dhafra Fort › Al Mirfa",
             "date": "7 Feb 2025",
             "points": 50,
             "rank": 1
           },
           {
-            "name": "UAE Tour Women - Stage 2 - Bonus",
-            "date": "7 Feb 2025",
-            "points": 8
-          },
-          {
-            "name": "UAE Tour Women - Stage 1",
+            "name": "UAE Tour Women - S1Stage 1 - Dubai Police Officer's Club › Dubai Harbour",
             "date": "6 Feb 2025",
             "points": 50,
             "rank": 1
-          },
-          {
-            "name": "UAE Tour Women - Stage 1 - Bonus",
-            "date": "6 Feb 2025",
-            "points": 8
           }
         ]
       },
@@ -160,31 +151,31 @@
             "rank": 2
           },
           {
-            "name": "Itzulia Women - General classification",
+            "name": "Itzulia Women - General classificationGeneral classification",
             "date": "18 May 2025",
             "points": 80,
             "rank": 9
           },
           {
-            "name": "Itzulia Women - Stage 3",
+            "name": "Itzulia Women - S3Stage 3 - Donostia › Donostia",
             "date": "18 May 2025",
             "points": 25,
             "rank": 4
           },
           {
-            "name": "Vuelta España Femenina by Carrefour.es - General classification",
+            "name": "Vuelta España Femenina  - general classificationgeneral classification",
             "date": "10 May 2025",
             "points": 68,
             "rank": 10
           },
           {
-            "name": "Vuelta España Femenina by Carrefour.es - Stage 7",
+            "name": "Vuelta España Femenina  - S7Stage 7 - La Robla › Alto de Cotobello",
             "date": "10 May 2025",
             "points": 10,
             "rank": 8
           },
           {
-            "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
+            "name": "Vuelta España Femenina  - S1 (TTT)Stage 1 (TTT) - Barcelona › Barcelona",
             "date": "4 May 2025",
             "points": 3.57,
             "rank": 4
@@ -226,7 +217,7 @@
             "rank": 12
           },
           {
-            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classification",
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classificationGeneral classification",
             "date": "16 Feb 2025",
             "points": 5,
             "rank": 21
@@ -313,28 +304,40 @@
         "id": 347941,
         "team": "EFO",
         "country": "ch",
-        "totalPoints": 1364,
+        "totalPoints": 1419,
         "results": [
           {
-            "name": "Tour de Suisse Women - General classification",
+            "name": "National Championships Switzerland WE - Road Race",
+            "date": "28 Jun 2025",
+            "points": 60,
+            "rank": 3
+          },
+          {
+            "name": "National Championships Switzerland WE - ITT",
+            "date": "26 Jun 2025",
+            "points": 3,
+            "rank": 7
+          },
+          {
+            "name": "Tour de Suisse Women - General classificationGeneral classification",
             "date": "15 Jun 2025",
             "points": 16,
             "rank": 24
           },
           {
-            "name": "Tour de Suisse Women - Stage 3",
+            "name": "Tour de Suisse Women - S3Stage 3 - Oberkirch › Küssnacht",
             "date": "14 Jun 2025",
             "points": 30,
             "rank": 3
           },
           {
-            "name": "Tour de Suisse Women - Stage 2",
+            "name": "Tour de Suisse Women - S2Stage 2 - Gstaad › Oberkirch",
             "date": "13 Jun 2025",
             "points": 10,
             "rank": 8
           },
           {
-            "name": "Tour de Suisse Women - Stage 1",
+            "name": "Tour de Suisse Women - S1Stage 1 - Gstaad › Gstaad",
             "date": "12 Jun 2025",
             "points": 18,
             "rank": 6
@@ -376,30 +379,25 @@
             "rank": 3
           },
           {
-            "name": "Santos Tour Down Under - General classification",
+            "name": "Santos Tour Down Under - General classificationGeneral classification",
             "date": "19 Jan 2025",
             "points": 400,
             "rank": 1
           },
           {
-            "name": "Santos Tour Down Under - Stage 3",
+            "name": "Santos Tour Down Under - S3Stage 3 - Stirling › Stirling",
             "date": "19 Jan 2025",
             "points": 30,
             "rank": 3
           },
           {
-            "name": "Santos Tour Down Under - Stage 2",
+            "name": "Santos Tour Down Under - S2Stage 2 - Unley › Willunga Hill",
             "date": "18 Jan 2025",
             "points": 50,
             "rank": 1
           },
           {
-            "name": "Santos Tour Down Under - Stage 2 - Bonus",
-            "date": "18 Jan 2025",
-            "points": 8
-          },
-          {
-            "name": "Santos Tour Down Under - Stage 1",
+            "name": "Santos Tour Down Under - S1Stage 1 - Brighton › Snapper Point",
             "date": "17 Jan 2025",
             "points": 18,
             "rank": 6
@@ -414,19 +412,19 @@
         "totalPoints": 182,
         "results": [
           {
-            "name": "Itzulia Women - General classification",
+            "name": "Itzulia Women - General classificationGeneral classification",
             "date": "18 May 2025",
             "points": 40,
             "rank": 13
           },
           {
-            "name": "Vuelta España Femenina by Carrefour.es - General classification",
+            "name": "Vuelta España Femenina  - general classificationgeneral classification",
             "date": "10 May 2025",
             "points": 16,
             "rank": 29
           },
           {
-            "name": "Vuelta España Femenina by Carrefour.es - Stage 5",
+            "name": "Vuelta España Femenina  - S5Stage 5 - Golmayo › Lagunas de Neila",
             "date": "8 May 2025",
             "points": 25,
             "rank": 4
@@ -465,49 +463,49 @@
         "totalPoints": 274.86,
         "results": [
           {
-            "name": "Tour de Suisse Women - General classification",
+            "name": "Tour de Suisse Women - General classificationGeneral classification",
             "date": "15 Jun 2025",
             "points": 80,
             "rank": 9
           },
           {
-            "name": "Tour de Suisse Women - Stage 4",
+            "name": "Tour de Suisse Women - S4Stage 4 - Küssnacht › Küssnacht",
             "date": "15 Jun 2025",
             "points": 6,
             "rank": 10
           },
           {
-            "name": "Volta Ciclista a Catalunya Femenina - General classification",
+            "name": "Volta Ciclista a Catalunya Femenina - General classificationGeneral classification",
             "date": "8 Jun 2025",
             "points": 70,
             "rank": 3
           },
           {
-            "name": "Volta Ciclista a Catalunya Femenina - Stage 2",
+            "name": "Volta Ciclista a Catalunya Femenina - S2Stage 2 - Bagà › Coll de Pal",
             "date": "7 Jun 2025",
             "points": 12,
             "rank": 2
           },
           {
-            "name": "Vuelta España Femenina by Carrefour.es - General classification",
+            "name": "Vuelta España Femenina  - general classificationgeneral classification",
             "date": "10 May 2025",
             "points": 16,
             "rank": 24
           },
           {
-            "name": "Vuelta España Femenina by Carrefour.es - Stage 7",
+            "name": "Vuelta España Femenina  - S7Stage 7 - La Robla › Alto de Cotobello",
             "date": "10 May 2025",
             "points": 8,
             "rank": 9
           },
           {
-            "name": "Vuelta España Femenina by Carrefour.es - Stage 5",
+            "name": "Vuelta España Femenina  - S5Stage 5 - Golmayo › Lagunas de Neila",
             "date": "8 May 2025",
             "points": 15,
             "rank": 7
           },
           {
-            "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
+            "name": "Vuelta España Femenina  - S1 (TTT)Stage 1 (TTT) - Barcelona › Barcelona",
             "date": "4 May 2025",
             "points": 0.86,
             "rank": 10
@@ -531,7 +529,7 @@
             "rank": 18
           },
           {
-            "name": "Vuelta a Extremadura Femenina - General classification",
+            "name": "Vuelta a Extremadura Femenina - General classificationGeneral classification",
             "date": "8 Mar 2025",
             "points": 3,
             "rank": 25
@@ -576,7 +574,7 @@
             "rank": 29
           },
           {
-            "name": "UAE Tour Women - Stage 1",
+            "name": "UAE Tour Women - S1Stage 1 - Dubai Police Officer's Club › Dubai Harbour",
             "date": "6 Feb 2025",
             "points": 15,
             "rank": 7
@@ -592,19 +590,24 @@
       {
         "name": "Marta Lach",
         "id": 96399,
-        "sanctions": 15,
         "team": "SDW",
         "country": "pl",
-        "totalPoints": 565,
+        "totalPoints": 585,
         "results": [
           {
-            "name": "Tour de Suisse Women - Stage 2",
+            "name": "National Championships Poland WE - ITT",
+            "date": "26 Jun 2025",
+            "points": 5,
+            "rank": 6
+          },
+          {
+            "name": "Tour de Suisse Women - S2Stage 2 - Gstaad › Oberkirch",
             "date": "13 Jun 2025",
             "points": 40,
             "rank": 2
           },
           {
-            "name": "Tour of Britain Women - General classification",
+            "name": "Tour of Britain Women - General classificationGeneral classification",
             "date": "8 Jun 2025",
             "points": 16,
             "rank": 23
@@ -622,7 +625,7 @@
             "rank": 1
           },
           {
-            "name": "Paris-Roubaix Femmes avec Zwift",
+            "name": "Paris-Roubaix Femmes ",
             "date": "12 Apr 2025",
             "points": 16,
             "rank": 25
@@ -646,13 +649,13 @@
             "rank": 4
           },
           {
-            "name": "UAE Tour Women - General classification",
+            "name": "UAE Tour Women - General classificationGeneral classification",
             "date": "9 Feb 2025",
             "points": 24,
             "rank": 20
           },
           {
-            "name": "UAE Tour Women - Stage 2",
+            "name": "UAE Tour Women - S2Stage 2 - Al Dhafra Fort › Al Mirfa",
             "date": "7 Feb 2025",
             "points": 18,
             "rank": 6
@@ -664,40 +667,52 @@
         "id": 398547,
         "team": "LIV",
         "country": "es",
-        "totalPoints": 663.29,
+        "totalPoints": 748.29,
         "results": [
           {
-            "name": "Tour de Suisse Women - General classification",
+            "name": "National Championships Spain WE - Road Race",
+            "date": "29 Jun 2025",
+            "points": 75,
+            "rank": 2
+          },
+          {
+            "name": "National Championships Spain WE - ITT",
+            "date": "27 Jun 2025",
+            "points": 10,
+            "rank": 5
+          },
+          {
+            "name": "Tour de Suisse Women - General classificationGeneral classification",
             "date": "15 Jun 2025",
             "points": 100,
             "rank": 8
           },
           {
-            "name": "Tour de Suisse Women - Stage 2",
+            "name": "Tour de Suisse Women - S2Stage 2 - Gstaad › Oberkirch",
             "date": "13 Jun 2025",
             "points": 25,
             "rank": 4
           },
           {
-            "name": "Itzulia Women - General classification",
+            "name": "Itzulia Women - General classificationGeneral classification",
             "date": "18 May 2025",
             "points": 120,
             "rank": 7
           },
           {
-            "name": "Itzulia Women - Stage 3",
+            "name": "Itzulia Women - S3Stage 3 - Donostia › Donostia",
             "date": "18 May 2025",
             "points": 8,
             "rank": 9
           },
           {
-            "name": "Vuelta España Femenina by Carrefour.es - General classification",
+            "name": "Vuelta España Femenina  - general classificationgeneral classification",
             "date": "10 May 2025",
             "points": 24,
             "rank": 18
           },
           {
-            "name": "Vuelta España Femenina by Carrefour.es - Stage 1 (TTT)",
+            "name": "Vuelta España Femenina  - S1 (TTT)Stage 1 (TTT) - Barcelona › Barcelona",
             "date": "4 May 2025",
             "points": 4.29,
             "rank": 3
@@ -721,19 +736,19 @@
             "rank": 5
           },
           {
-            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classification",
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - General classificationGeneral classification",
             "date": "16 Feb 2025",
             "points": 5,
             "rank": 19
           },
           {
-            "name": "UAE Tour Women - General classification",
+            "name": "UAE Tour Women - General classificationGeneral classification",
             "date": "9 Feb 2025",
             "points": 32,
             "rank": 14
           },
           {
-            "name": "UAE Tour Women - Stage 3",
+            "name": "UAE Tour Women - S3Stage 3 - Al Ain Qasr Al Muwaiji › Jebel Hafeet",
             "date": "8 Feb 2025",
             "points": 6,
             "rank": 10
@@ -757,8 +772,14 @@
         "id": 236562,
         "team": "SDW",
         "country": "hu",
-        "totalPoints": 336,
+        "totalPoints": 436,
         "results": [
+          {
+            "name": "National Championships Hungary WE - Road Race",
+            "date": "29 Jun 2025",
+            "points": 100,
+            "rank": 1
+          },
           {
             "name": "Milano-Sanremo Donne",
             "date": "22 Mar 2025",

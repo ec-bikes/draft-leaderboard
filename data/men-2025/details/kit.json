@@ -1,70 +1,55 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "24 June 2025 23:24 GMT",
-  "momentId": 191748,
+  "fetchedDate": "3 July 2025 17:55 GMT",
+  "momentId": 191909,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 11001,
+    "totalPoints": 11148,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "team": "UAD",
         "country": "si",
-        "totalPoints": 5150,
+        "totalPoints": 5096,
         "results": [
           {
-            "name": "Critérium du Dauphiné - General classification",
+            "name": "Critérium du Dauphiné - General classificationGeneral classification",
             "date": "15 Jun 2025",
             "points": 500,
             "rank": 1
           },
           {
-            "name": "Critérium du Dauphiné - Stage 8",
+            "name": "Critérium du Dauphiné - S8Stage 8 - Val-d'Arc › Plateau du Mont-Cenis",
             "date": "15 Jun 2025",
             "points": 30,
             "rank": 3
           },
           {
-            "name": "Critérium du Dauphiné - Stage 7",
+            "name": "Critérium du Dauphiné - S7Stage 7 - Grand-Algueblanche › Valmeinier 1800",
             "date": "14 Jun 2025",
             "points": 60,
             "rank": 1
           },
           {
-            "name": "Critérium du Dauphiné - Stage 7 - Bonus",
-            "date": "14 Jun 2025",
-            "points": 10
-          },
-          {
-            "name": "Critérium du Dauphiné - Stage 6",
+            "name": "Critérium du Dauphiné - S6Stage 6 - Valserhône › Combloux",
             "date": "13 Jun 2025",
             "points": 60,
             "rank": 1
           },
           {
-            "name": "Critérium du Dauphiné - Stage 6 - Bonus",
-            "date": "13 Jun 2025",
-            "points": 10
-          },
-          {
-            "name": "Critérium du Dauphiné - Stage 4 (ITT)",
+            "name": "Critérium du Dauphiné - S4 (ITT)Stage 4 (ITT) - Charmes-sur-Rhône › Saint-Péray",
             "date": "11 Jun 2025",
             "points": 25,
             "rank": 4
           },
           {
-            "name": "Critérium du Dauphiné - Stage 1",
+            "name": "Critérium du Dauphiné - S1Stage 1 - Domérat › Montluçon",
             "date": "8 Jun 2025",
             "points": 60,
             "rank": 1
-          },
-          {
-            "name": "Critérium du Dauphiné - Stage 1 - Bonus",
-            "date": "8 Jun 2025",
-            "points": 10
           },
           {
             "name": "Liège-Bastogne-Liège",
@@ -109,51 +94,31 @@
             "rank": 1
           },
           {
-            "name": "UAE Tour - General classification",
+            "name": "UAE Tour - General classificationGeneral classification",
             "date": "23 Feb 2025",
             "points": 300,
             "rank": 1
           },
           {
-            "name": "UAE Tour - Stage 7",
+            "name": "UAE Tour - S7Stage 7 - Al Ain Hazza Bin Zayed Stadium › Jebel Hafeet",
             "date": "23 Feb 2025",
             "points": 40,
             "rank": 1
           },
           {
-            "name": "UAE Tour - Stage 6 - Bonus",
-            "date": "22 Feb 2025",
-            "points": 6
-          },
-          {
-            "name": "UAE Tour - Stage 5 - Bonus",
-            "date": "21 Feb 2025",
-            "points": 6
-          },
-          {
-            "name": "UAE Tour - Stage 4 - Bonus",
-            "date": "20 Feb 2025",
-            "points": 6
-          },
-          {
-            "name": "UAE Tour - Stage 3",
+            "name": "UAE Tour - S3Stage 3 - Ras al Khaimah › Jebel Jais",
             "date": "19 Feb 2025",
             "points": 40,
             "rank": 1
           },
           {
-            "name": "UAE Tour - Stage 3 - Bonus",
-            "date": "19 Feb 2025",
-            "points": 6
-          },
-          {
-            "name": "UAE Tour - Stage 2 (ITT)",
+            "name": "UAE Tour - S2 (ITT)Stage 2 (ITT) - Al Hudayriyat Island › Al Hudayriyat Island",
             "date": "18 Feb 2025",
             "points": 20,
             "rank": 3
           },
           {
-            "name": "UAE Tour - Stage 1",
+            "name": "UAE Tour - S1Stage 1 - Madinat Zayed Shams Solar Park › Liwa Palace",
             "date": "17 Feb 2025",
             "points": 1,
             "rank": 10
@@ -198,7 +163,7 @@
             "rank": 12
           },
           {
-            "name": "Itzulia Basque Country - General classification",
+            "name": "Itzulia Basque Country - General classificationGeneral classification",
             "date": "12 Apr 2025",
             "points": 8,
             "rank": 37
@@ -216,8 +181,20 @@
         "id": 68892,
         "team": "LTK",
         "country": "lv",
-        "totalPoints": 165,
+        "totalPoints": 315,
         "results": [
+          {
+            "name": "National Championships Latvia ME - Road Race",
+            "date": "29 Jun 2025",
+            "points": 100,
+            "rank": 1
+          },
+          {
+            "name": "National Championships Latvia ME - ITT",
+            "date": "25 Jun 2025",
+            "points": 50,
+            "rank": 1
+          },
           {
             "name": "Andorra MoraBanc Clàssica",
             "date": "22 Jun 2025",
@@ -225,7 +202,7 @@
             "rank": 19
           },
           {
-            "name": "Critérium du Dauphiné - General classification",
+            "name": "Critérium du Dauphiné - General classificationGeneral classification",
             "date": "15 Jun 2025",
             "points": 10,
             "rank": 35
@@ -273,7 +250,7 @@
             "rank": 31
           },
           {
-            "name": "Tour de la Provence - General classification",
+            "name": "Tour de la Provence - General classificationGeneral classification",
             "date": "16 Feb 2025",
             "points": 5,
             "rank": 15
@@ -288,37 +265,37 @@
         "totalPoints": 497,
         "results": [
           {
-            "name": "Volta Ciclista a Catalunya - General classification",
+            "name": "Volta Ciclista a Catalunya - General classificationGeneral classification",
             "date": "30 Mar 2025",
             "points": 220,
             "rank": 4
           },
           {
-            "name": "Volta Ciclista a Catalunya - Stage 4",
+            "name": "Volta Ciclista a Catalunya - S4Stage 4 - Sant Vicenç de Castellet › Montserrat Mil·lenari",
             "date": "27 Mar 2025",
             "points": 15,
             "rank": 5
           },
           {
-            "name": "Volta Ciclista a Catalunya - Stage 3",
+            "name": "Volta Ciclista a Catalunya - S3Stage 3 - Viladecans The Style Outlets › La Molina",
             "date": "26 Mar 2025",
             "points": 25,
             "rank": 3
           },
           {
-            "name": "Volta Ciclista a Catalunya - Stage 1",
+            "name": "Volta Ciclista a Catalunya - S1Stage 1 - Sant Feliu de Guíxols › Sant Feliu de Guíxols",
             "date": "24 Mar 2025",
             "points": 6,
             "rank": 8
           },
           {
-            "name": "Tirreno-Adriatico - General classification",
+            "name": "Tirreno-Adriatico - General classificationGeneral classification",
             "date": "16 Mar 2025",
             "points": 150,
             "rank": 7
           },
           {
-            "name": "Tirreno-Adriatico - Stage 6",
+            "name": "Tirreno-Adriatico - S6Stage 6 - Cartoceto › Frontignano",
             "date": "15 Mar 2025",
             "points": 25,
             "rank": 4
@@ -334,10 +311,9 @@
       {
         "name": "Jordi Meeus",
         "id": 148901,
-        "sanctions": 25,
         "team": "RBH",
         "country": "be",
-        "totalPoints": 545,
+        "totalPoints": 570,
         "results": [
           {
             "name": "Copenhagen Sprint",
@@ -346,7 +322,7 @@
             "rank": 1
           },
           {
-            "name": "Tour de Suisse - Stage 6",
+            "name": "Tour de Suisse - S6Stage 6 - Chur › Neuhausen am Rheinfall",
             "date": "20 Jun 2025",
             "points": 60,
             "rank": 1
@@ -382,19 +358,19 @@
             "rank": 11
           },
           {
-            "name": "Volta ao Algarve em Bicicleta - Stage 4",
+            "name": "Volta ao Algarve em Bicicleta - S4Stage 4 - Albufeira › Faro",
             "date": "22 Feb 2025",
             "points": 15,
             "rank": 2
           },
           {
-            "name": "Volta ao Algarve em Bicicleta - Stage 3",
+            "name": "Volta ao Algarve em Bicicleta - S3Stage 3 - Vila Real Santo António › Tavira",
             "date": "21 Feb 2025",
             "points": 20,
             "rank": 1
           },
           {
-            "name": "Etoile de Bessèges - Tour du Gard - Stage 1",
+            "name": "Etoile de Bessèges - Tour du Gard - S1Stage 1 - Bellegarde › Bellegarde",
             "date": "5 Feb 2025",
             "points": 5,
             "rank": 2
@@ -404,49 +380,48 @@
       {
         "name": "Kaden Groves",
         "id": 111683,
-        "sanctions": 25,
         "team": "ADC",
         "country": "au",
-        "totalPoints": 950,
+        "totalPoints": 975,
         "results": [
           {
-            "name": "Giro d'Italia - Stage 21",
+            "name": "Giro d'Italia - S21Stage 21 - Roma › Roma",
             "date": "1 Jun 2025",
             "points": 130,
             "rank": 2
           },
           {
-            "name": "Giro d'Italia - Stage 14",
+            "name": "Giro d'Italia - S14Stage 14 - Treviso › Nova Gorica",
             "date": "24 May 2025",
             "points": 130,
             "rank": 2
           },
           {
-            "name": "Giro d'Italia - Stage 12",
+            "name": "Giro d'Italia - S12Stage 12 - Modena › Viadana",
             "date": "22 May 2025",
             "points": 60,
             "rank": 5
           },
           {
-            "name": "Giro d'Italia - Stage 6",
+            "name": "Giro d'Italia - S6Stage 6 - Potenza › Napoli",
             "date": "15 May 2025",
             "points": 180,
             "rank": 1
           },
           {
-            "name": "Giro d'Italia - Stage 4",
+            "name": "Giro d'Italia - S4Stage 4 - Alberobello (Pietramadre) › Lecce",
             "date": "13 May 2025",
             "points": 60,
             "rank": 5
           },
           {
-            "name": "Volta Ciclista a Catalunya - Stage 2",
+            "name": "Volta Ciclista a Catalunya - S2Stage 2 - Banyoles › Figueres",
             "date": "25 Mar 2025",
             "points": 25,
             "rank": 3
           },
           {
-            "name": "Volta Ciclista a Catalunya - Stage 1",
+            "name": "Volta Ciclista a Catalunya - S1Stage 1 - Sant Feliu de Guíxols › Sant Feliu de Guíxols",
             "date": "24 Mar 2025",
             "points": 30,
             "rank": 2
@@ -467,85 +442,85 @@
         "totalPoints": 1559,
         "results": [
           {
-            "name": "Giro d'Italia - General classification",
+            "name": "Giro d'Italia - General ClassificationGeneral Classification",
             "date": "1 Jun 2025",
             "points": 750,
             "rank": 3
           },
           {
-            "name": "Giro d'Italia - Stage 20",
+            "name": "Giro d'Italia - S20Stage 20 - Verrès › Sestrière",
             "date": "31 May 2025",
             "points": 10,
             "rank": 13
           },
           {
-            "name": "Giro d'Italia - Stage 19",
+            "name": "Giro d'Italia - S19Stage 19 - Biella › Champoluc",
             "date": "30 May 2025",
             "points": 95,
             "rank": 3
           },
           {
-            "name": "Giro d'Italia - Stage 17",
+            "name": "Giro d'Italia - S17Stage 17 - San Michele all’Adige (Fondazione Edmund Mach) › Bormio",
             "date": "28 May 2025",
             "points": 95,
             "rank": 3
           },
           {
-            "name": "Giro d'Italia - Stage 16",
+            "name": "Giro d'Italia - S16Stage 16 - Piazzola sul Brenta › San Valentino",
             "date": "27 May 2025",
             "points": 80,
             "rank": 4
           },
           {
-            "name": "Giro d'Italia - Stage 15",
+            "name": "Giro d'Italia - S15Stage 15 - Fiume Veneto › Asiago",
             "date": "25 May 2025",
             "points": 10,
             "rank": 13
           },
           {
-            "name": "Giro d'Italia - Stage 14",
+            "name": "Giro d'Italia - S14Stage 14 - Treviso › Nova Gorica",
             "date": "24 May 2025",
             "points": 30,
             "rank": 9
           },
           {
-            "name": "Giro d'Italia - Stage 11",
+            "name": "Giro d'Italia - S11Stage 11 - Viareggio › Castelnovo ne' Monti",
             "date": "21 May 2025",
             "points": 180,
             "rank": 1
           },
           {
-            "name": "Giro d'Italia - Stage 9",
+            "name": "Giro d'Italia - S9Stage 9 - Gubbio › Siena",
             "date": "18 May 2025",
             "points": 80,
             "rank": 4
           },
           {
-            "name": "Giro d'Italia - Stage 7",
+            "name": "Giro d'Italia - S7Stage 7 - Castel di Sangro › Tagliacozzo",
             "date": "16 May 2025",
             "points": 35,
             "rank": 8
           },
           {
-            "name": "Giro d'Italia - Stage 5",
+            "name": "Giro d'Italia - S5Stage 5 - Ceglie Messapica › Matera",
             "date": "14 May 2025",
             "points": 20,
             "rank": 11
           },
           {
-            "name": "Giro d'Italia - Stage 1",
+            "name": "Giro d'Italia - S1Stage 1 - Durrës › Tirana",
             "date": "9 May 2025",
             "points": 40,
             "rank": 7
           },
           {
-            "name": "Volta Ciclista a Catalunya - General classification",
+            "name": "Volta Ciclista a Catalunya - General classificationGeneral classification",
             "date": "30 Mar 2025",
             "points": 68,
             "rank": 10
           },
           {
-            "name": "Volta Ciclista a Catalunya - Stage 3",
+            "name": "Volta Ciclista a Catalunya - S3Stage 3 - Viladecans The Style Outlets › La Molina",
             "date": "26 Mar 2025",
             "points": 3,
             "rank": 9
@@ -557,13 +532,13 @@
             "rank": 16
           },
           {
-            "name": "Tirreno-Adriatico - General classification",
+            "name": "Tirreno-Adriatico - General classificationGeneral classification",
             "date": "16 Mar 2025",
             "points": 30,
             "rank": 18
           },
           {
-            "name": "Tour des Alpes-Maritimes - General classification",
+            "name": "Tour des Alpes-Maritimes - General classificationGeneral classification",
             "date": "23 Feb 2025",
             "points": 25,
             "rank": 9
@@ -584,7 +559,7 @@
         "totalPoints": 385,
         "results": [
           {
-            "name": "Boucles de la Mayenne - Crédit Mutuel - General classification",
+            "name": "Boucles de la Mayenne - Crédit Mutuel - General classificationGeneral classification",
             "date": "1 Jun 2025",
             "points": 85,
             "rank": 5
@@ -653,31 +628,31 @@
             "rank": 4
           },
           {
-            "name": "Itzulia Basque Country - General classification",
+            "name": "Itzulia Basque Country - General classificationGeneral classification",
             "date": "12 Apr 2025",
             "points": 120,
             "rank": 7
           },
           {
-            "name": "Itzulia Basque Country - Stage 6",
+            "name": "Itzulia Basque Country - S6Stage 6 - Eibar › Eibar",
             "date": "12 Apr 2025",
             "points": 15,
             "rank": 5
           },
           {
-            "name": "Itzulia Basque Country - Stage 5",
+            "name": "Itzulia Basque Country - S5Stage 5 - Urduña › Gernika-Lumo",
             "date": "11 Apr 2025",
             "points": 20,
             "rank": 4
           },
           {
-            "name": "Itzulia Basque Country - Stage 4",
+            "name": "Itzulia Basque Country - S4Stage 4 - Beasain › Markina-Xemein",
             "date": "10 Apr 2025",
             "points": 15,
             "rank": 5
           },
           {
-            "name": "Itzulia Basque Country - Stage 3",
+            "name": "Itzulia Basque Country - S3Stage 3 - Zarautz › Beasain",
             "date": "9 Apr 2025",
             "points": 50,
             "rank": 1
@@ -695,19 +670,19 @@
             "rank": 15
           },
           {
-            "name": "Tirreno-Adriatico - General classification",
+            "name": "Tirreno-Adriatico - General classificationGeneral classification",
             "date": "16 Mar 2025",
             "points": 20,
             "rank": 29
           },
           {
-            "name": "Tirreno-Adriatico - Stage 5",
+            "name": "Tirreno-Adriatico - S5Stage 5 - Ascoli Piceno › Pergola",
             "date": "14 Mar 2025",
             "points": 20,
             "rank": 5
           },
           {
-            "name": "Tirreno-Adriatico - Stage 3",
+            "name": "Tirreno-Adriatico - S3Stage 3 - Follonica › Colfiorito",
             "date": "12 Mar 2025",
             "points": 8,
             "rank": 8
@@ -749,28 +724,34 @@
         "id": 257361,
         "team": "DAT",
         "country": "fr",
-        "totalPoints": 228,
+        "totalPoints": 229,
         "results": [
           {
-            "name": "Tour de Suisse - Stage 6",
+            "name": "National Championships France ME - Road Race",
+            "date": "29 Jun 2025",
+            "points": 1,
+            "rank": 14
+          },
+          {
+            "name": "Tour de Suisse - S6Stage 6 - Chur › Neuhausen am Rheinfall",
             "date": "20 Jun 2025",
             "points": 8,
             "rank": 8
           },
           {
-            "name": "Tour de Suisse - Stage 2",
+            "name": "Tour de Suisse - S2Stage 2 - Aarau › Schwarzsee",
             "date": "16 Jun 2025",
             "points": 15,
             "rank": 6
           },
           {
-            "name": "Boucles de la Mayenne - Crédit Mutuel - General classification",
+            "name": "Boucles de la Mayenne - Crédit Mutuel - General classificationGeneral classification",
             "date": "1 Jun 2025",
             "points": 100,
             "rank": 4
           },
           {
-            "name": "Boucles de la Mayenne - Crédit Mutuel - Stage 3",
+            "name": "Boucles de la Mayenne - Crédit Mutuel - S3Stage 3 - Javron-les-Chapelles › Laval",
             "date": "1 Jun 2025",
             "points": 5,
             "rank": 4
@@ -788,7 +769,7 @@
             "rank": 2
           },
           {
-            "name": "Santos Tour Down Under - General classification",
+            "name": "Santos Tour Down Under - General ClassificationGeneral Classification",
             "date": "26 Jan 2025",
             "points": 10,
             "rank": 49
