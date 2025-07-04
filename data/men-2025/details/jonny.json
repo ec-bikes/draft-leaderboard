@@ -1,19 +1,19 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 July 2025 23:24 GMT",
+  "fetchedDate": "4 July 2025 23:23 GMT",
   "momentId": 191909,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 7228.14,
+    "totalPoints": 7246.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "team": "TVL",
         "country": "dk",
-        "totalPoints": 868.57,
+        "totalPoints": 878.57,
         "results": [
           {
             "name": "Critérium du Dauphiné - General classificationGeneral classification",
@@ -56,6 +56,11 @@
             "date": "12 Mar 2025",
             "points": 40,
             "rank": 2
+          },
+          {
+            "name": "Paris-Nice - S4Stage 4 - Vichy › La Loge des Gardes - Bonus",
+            "date": "12 Mar 2025",
+            "points": 10
           },
           {
             "name": "Paris-Nice - S3 (TTT)Stage 3 (TTT) - Circuit Nevers Magny-Cours › Nevers",
@@ -385,7 +390,7 @@
         "id": 353375,
         "team": "TBV",
         "country": "co",
-        "totalPoints": 670,
+        "totalPoints": 675,
         "results": [
           {
             "name": "Liège-Bastogne-Liège",
@@ -440,6 +445,11 @@
             "date": "8 Feb 2025",
             "points": 20,
             "rank": 1
+          },
+          {
+            "name": "Volta a la Comunitat Valenciana - S4Stage 4 - Oropesa del Mar › Portell de Morella - Bonus",
+            "date": "8 Feb 2025",
+            "points": 5
           },
           {
             "name": "Volta a la Comunitat Valenciana - S3Stage 3 - Algemesí › Alpuente",
@@ -582,7 +592,7 @@
         "id": 144019,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 1303,
+        "totalPoints": 1306,
         "results": [
           {
             "name": "Giro d'Italia - Mountains classificationMountains classification",
@@ -655,6 +665,11 @@
             "date": "22 Feb 2025",
             "points": 14,
             "rank": 1
+          },
+          {
+            "name": "Tour des Alpes-Maritimes - S1Stage 1 - Contes › Gourdon - Bonus",
+            "date": "22 Feb 2025",
+            "points": 3
           },
           {
             "name": "Classic Var",

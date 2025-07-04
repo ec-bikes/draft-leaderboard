@@ -1,19 +1,19 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 July 2025 23:24 GMT",
+  "fetchedDate": "4 July 2025 23:23 GMT",
   "momentId": 191909,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 11148,
+    "totalPoints": 11202,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "team": "UAD",
         "country": "si",
-        "totalPoints": 5096,
+        "totalPoints": 5150,
         "results": [
           {
             "name": "Critérium du Dauphiné - General classificationGeneral classification",
@@ -34,10 +34,20 @@
             "rank": 1
           },
           {
+            "name": "Critérium du Dauphiné - S7Stage 7 - Grand-Algueblanche › Valmeinier 1800 - Bonus",
+            "date": "14 Jun 2025",
+            "points": 10
+          },
+          {
             "name": "Critérium du Dauphiné - S6Stage 6 - Valserhône › Combloux",
             "date": "13 Jun 2025",
             "points": 60,
             "rank": 1
+          },
+          {
+            "name": "Critérium du Dauphiné - S6Stage 6 - Valserhône › Combloux - Bonus",
+            "date": "13 Jun 2025",
+            "points": 10
           },
           {
             "name": "Critérium du Dauphiné - S4 (ITT)Stage 4 (ITT) - Charmes-sur-Rhône › Saint-Péray",
@@ -50,6 +60,11 @@
             "date": "8 Jun 2025",
             "points": 60,
             "rank": 1
+          },
+          {
+            "name": "Critérium du Dauphiné - S1Stage 1 - Domérat › Montluçon - Bonus",
+            "date": "8 Jun 2025",
+            "points": 10
           },
           {
             "name": "Liège-Bastogne-Liège",
@@ -106,10 +121,30 @@
             "rank": 1
           },
           {
+            "name": "UAE Tour - S6Stage 6 - Abu Dhabi Cycling Club › Abu Dhabi Breakwater - Bonus",
+            "date": "22 Feb 2025",
+            "points": 6
+          },
+          {
+            "name": "UAE Tour - S5Stage 5 - American University Dubai › Hamdan Bin Mohammed Smart University - Bonus",
+            "date": "21 Feb 2025",
+            "points": 6
+          },
+          {
+            "name": "UAE Tour - S4Stage 4 - Fujairah Qidfa Beach › Umm al Quwain - Bonus",
+            "date": "20 Feb 2025",
+            "points": 6
+          },
+          {
             "name": "UAE Tour - S3Stage 3 - Ras al Khaimah › Jebel Jais",
             "date": "19 Feb 2025",
             "points": 40,
             "rank": 1
+          },
+          {
+            "name": "UAE Tour - S3Stage 3 - Ras al Khaimah › Jebel Jais - Bonus",
+            "date": "19 Feb 2025",
+            "points": 6
           },
           {
             "name": "UAE Tour - S2 (ITT)Stage 2 (ITT) - Al Hudayriyat Island › Al Hudayriyat Island",

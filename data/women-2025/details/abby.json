@@ -1,19 +1,19 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 July 2025 23:24 GMT",
+  "fetchedDate": "4 July 2025 23:23 GMT",
   "momentId": 191927,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 7386.71,
+    "totalPoints": 7394.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
         "id": 76149,
         "team": "UAD",
         "country": "it",
-        "totalPoints": 1827,
+        "totalPoints": 1835,
         "results": [
           {
             "name": "National Championships Italy WE - Road Race",
@@ -104,6 +104,11 @@
             "date": "8 Feb 2025",
             "points": 50,
             "rank": 1
+          },
+          {
+            "name": "UAE Tour Women - S3Stage 3 - Al Ain Qasr Al Muwaiji › Jebel Hafeet - Bonus",
+            "date": "8 Feb 2025",
+            "points": 8
           },
           {
             "name": "UAE Tour Women - S2Stage 2 - Al Dhafra Fort › Al Mirfa",

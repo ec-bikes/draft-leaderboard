@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 July 2025 23:24 GMT",
+  "fetchedDate": "4 July 2025 23:23 GMT",
   "momentId": 191909,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 9775.42,
+    "totalPoints": 9928.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -106,7 +106,7 @@
         "id": 86895,
         "team": "LTK",
         "country": "dk",
-        "totalPoints": 3904.57,
+        "totalPoints": 4007.57,
         "results": [
           {
             "name": "National Championships Denmark ME - Road Race",
@@ -151,10 +151,20 @@
             "rank": 4
           },
           {
+            "name": "Giro d'Italia - S6Stage 6 - Potenza › Napoli - Bonus",
+            "date": "15 May 2025",
+            "points": 20
+          },
+          {
             "name": "Giro d'Italia - S5Stage 5 - Ceglie Messapica › Matera",
             "date": "14 May 2025",
             "points": 180,
             "rank": 1
+          },
+          {
+            "name": "Giro d'Italia - S5Stage 5 - Ceglie Messapica › Matera - Bonus",
+            "date": "14 May 2025",
+            "points": 20
           },
           {
             "name": "Giro d'Italia - S4Stage 4 - Alberobello (Pietramadre) › Lecce",
@@ -163,10 +173,20 @@
             "rank": 4
           },
           {
+            "name": "Giro d'Italia - S4Stage 4 - Alberobello (Pietramadre) › Lecce - Bonus",
+            "date": "13 May 2025",
+            "points": 20
+          },
+          {
             "name": "Giro d'Italia - S3Stage 3 - Vlorë › Vlorë",
             "date": "11 May 2025",
             "points": 180,
             "rank": 1
+          },
+          {
+            "name": "Giro d'Italia - S3Stage 3 - Vlorë › Vlorë - Bonus",
+            "date": "11 May 2025",
+            "points": 20
           },
           {
             "name": "Giro d'Italia - S2 (ITT)Stage 2 (ITT) - Tirana › Tirana",
@@ -179,6 +199,11 @@
             "date": "9 May 2025",
             "points": 180,
             "rank": 1
+          },
+          {
+            "name": "Giro d'Italia - S1Stage 1 - Durrës › Tirana - Bonus",
+            "date": "9 May 2025",
+            "points": 20
           },
           {
             "name": "Paris-Roubaix",
@@ -257,6 +282,11 @@
             "date": "15 Feb 2025",
             "points": 14,
             "rank": 1
+          },
+          {
+            "name": "Tour de la Provence - S2Stage 2 - Forcalquier › Manosque - Bonus",
+            "date": "15 Feb 2025",
+            "points": 3
           }
         ]
       },
@@ -457,7 +487,7 @@
         "id": 462394,
         "team": "UAD",
         "country": "ch",
-        "totalPoints": 545,
+        "totalPoints": 560,
         "results": [
           {
             "name": "National Championships Switzerland ME - Road Race",
@@ -514,10 +544,25 @@
             "rank": 10
           },
           {
+            "name": "Volta ao Algarve em Bicicleta - S4Stage 4 - Albufeira › Faro - Bonus",
+            "date": "22 Feb 2025",
+            "points": 5
+          },
+          {
+            "name": "Volta ao Algarve em Bicicleta - S3Stage 3 - Vila Real Santo António › Tavira - Bonus",
+            "date": "21 Feb 2025",
+            "points": 5
+          },
+          {
             "name": "Volta ao Algarve em Bicicleta - S2Stage 2 - Lagoa › Alto da Foia",
             "date": "20 Feb 2025",
             "points": 20,
             "rank": 1
+          },
+          {
+            "name": "Volta ao Algarve em Bicicleta - S2Stage 2 - Lagoa › Alto da Foia - Bonus",
+            "date": "20 Feb 2025",
+            "points": 5
           },
           {
             "name": "Figueira Champions Classic",
@@ -544,7 +589,7 @@
         "id": 101278,
         "team": "TVL",
         "country": "fr",
-        "totalPoints": 121.57,
+        "totalPoints": 136.57,
         "results": [
           {
             "name": "4 Jours de Dunkerque / Grand Prix des Hauts de France - S3Stage 3 - Valenciennes › Famars",
@@ -553,16 +598,31 @@
             "rank": 3
           },
           {
+            "name": "4 Jours de Dunkerque / Grand Prix des Hauts de France - S3Stage 3 - Valenciennes › Famars - Bonus",
+            "date": "16 May 2025",
+            "points": 5
+          },
+          {
             "name": "4 Jours de Dunkerque / Grand Prix des Hauts de France - S2Stage 2 - Avesnes-sur-Helpe › Crépy-en-Valois",
             "date": "15 May 2025",
             "points": 5,
             "rank": 4
           },
           {
+            "name": "4 Jours de Dunkerque / Grand Prix des Hauts de France - S2Stage 2 - Avesnes-sur-Helpe › Crépy-en-Valois - Bonus",
+            "date": "15 May 2025",
+            "points": 5
+          },
+          {
             "name": "4 Jours de Dunkerque / Grand Prix des Hauts de France - S1Stage 1 - Sainte-Catherine › Amiens",
             "date": "14 May 2025",
             "points": 20,
             "rank": 1
+          },
+          {
+            "name": "4 Jours de Dunkerque / Grand Prix des Hauts de France - S1Stage 1 - Sainte-Catherine › Amiens - Bonus",
+            "date": "14 May 2025",
+            "points": 5
           },
           {
             "name": "Itzulia Basque Country - S2Stage 2 - Pamplona-Iruña › Lodosa",
@@ -760,7 +820,7 @@
         "id": 54679,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 598,
+        "totalPoints": 618,
         "results": [
           {
             "name": "Giro dell'Appennino",
@@ -791,6 +851,11 @@
             "date": "17 May 2025",
             "points": 95,
             "rank": 3
+          },
+          {
+            "name": "Giro d'Italia - S8Stage 8 - Giulianova › Castelraimondo - Bonus",
+            "date": "17 May 2025",
+            "points": 20
           },
           {
             "name": "Giro d'Italia - S5Stage 5 - Ceglie Messapica › Matera",

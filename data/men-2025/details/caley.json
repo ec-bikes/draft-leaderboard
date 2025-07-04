@@ -1,19 +1,19 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 July 2025 23:24 GMT",
+  "fetchedDate": "4 July 2025 23:23 GMT",
   "momentId": 191909,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 8534.46,
+    "totalPoints": 8813.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
         "id": 159567,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 1148.57,
+        "totalPoints": 1188.57,
         "results": [
           {
             "name": "Critérium du Dauphiné - General classificationGeneral classification",
@@ -76,16 +76,31 @@
             "rank": 2
           },
           {
+            "name": "Paris-Nice - S7Stage 7 - Nice › Auron - Bonus",
+            "date": "15 Mar 2025",
+            "points": 10
+          },
+          {
             "name": "Paris-Nice - S6Stage 6 - Saint-Julien-en-Saint-Alban › Berre l'Étang",
             "date": "14 Mar 2025",
             "points": 8,
             "rank": 8
           },
           {
+            "name": "Paris-Nice - S6Stage 6 - Saint-Julien-en-Saint-Alban › Berre l'Étang - Bonus",
+            "date": "14 Mar 2025",
+            "points": 10
+          },
+          {
             "name": "Paris-Nice - S5Stage 5 - Saint-Just-en-Chevalet › La Côte-Saint-André",
             "date": "13 Mar 2025",
             "points": 30,
             "rank": 3
+          },
+          {
+            "name": "Paris-Nice - S5Stage 5 - Saint-Just-en-Chevalet › La Côte-Saint-André - Bonus",
+            "date": "13 Mar 2025",
+            "points": 10
           },
           {
             "name": "Paris-Nice - S4Stage 4 - Vichy › La Loge des Gardes",
@@ -100,6 +115,11 @@
             "rank": 1
           },
           {
+            "name": "Paris-Nice - S3 (TTT)Stage 3 (TTT) - Circuit Nevers Magny-Cours › Nevers - Bonus",
+            "date": "11 Mar 2025",
+            "points": 10
+          },
+          {
             "name": "Omloop Nieuwsblad ME",
             "date": "1 Mar 2025",
             "points": 2,
@@ -112,7 +132,7 @@
         "id": 301151,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 1042.86,
+        "totalPoints": 1058.86,
         "results": [
           {
             "name": "National Championships Italy ME - Road Race",
@@ -131,6 +151,11 @@
             "date": "9 Jun 2025",
             "points": 60,
             "rank": 1
+          },
+          {
+            "name": "Critérium du Dauphiné - S2Stage 2 - Prémilhat › Issoire - Bonus",
+            "date": "9 Jun 2025",
+            "points": 10
           },
           {
             "name": "Gent-Wevelgem in Flanders Fields ME",
@@ -191,6 +216,11 @@
             "date": "17 Feb 2025",
             "points": 40,
             "rank": 1
+          },
+          {
+            "name": "UAE Tour - S1Stage 1 - Madinat Zayed Shams Solar Park › Liwa Palace - Bonus",
+            "date": "17 Feb 2025",
+            "points": 6
           },
           {
             "name": "Volta a la Comunitat Valenciana - S5Stage 5 - Alfafar › Valencia",
@@ -325,7 +355,7 @@
         "id": 2002910,
         "team": "UAD",
         "country": "mx",
-        "totalPoints": 2314,
+        "totalPoints": 2534,
         "results": [
           {
             "name": "Giro d'Italia - General ClassificationGeneral Classification",
@@ -346,10 +376,25 @@
             "rank": 2
           },
           {
+            "name": "Giro d'Italia - S19Stage 19 - Biella › Champoluc - Bonus",
+            "date": "30 May 2025",
+            "points": 20
+          },
+          {
+            "name": "Giro d'Italia - S18Stage 18 - Morbegno › Cesano Maderno - Bonus",
+            "date": "29 May 2025",
+            "points": 20
+          },
+          {
             "name": "Giro d'Italia - S17Stage 17 - San Michele all’Adige (Fondazione Edmund Mach) › Bormio",
             "date": "28 May 2025",
             "points": 180,
             "rank": 1
+          },
+          {
+            "name": "Giro d'Italia - S17Stage 17 - San Michele all’Adige (Fondazione Edmund Mach) › Bormio - Bonus",
+            "date": "28 May 2025",
+            "points": 20
           },
           {
             "name": "Giro d'Italia - S16Stage 16 - Piazzola sul Brenta › San Valentino",
@@ -358,10 +403,25 @@
             "rank": 13
           },
           {
+            "name": "Giro d'Italia - S16Stage 16 - Piazzola sul Brenta › San Valentino - Bonus",
+            "date": "27 May 2025",
+            "points": 20
+          },
+          {
+            "name": "Giro d'Italia - S15Stage 15 - Fiume Veneto › Asiago - Bonus",
+            "date": "25 May 2025",
+            "points": 20
+          },
+          {
             "name": "Giro d'Italia - S14Stage 14 - Treviso › Nova Gorica",
             "date": "24 May 2025",
             "points": 2,
             "rank": 15
+          },
+          {
+            "name": "Giro d'Italia - S14Stage 14 - Treviso › Nova Gorica - Bonus",
+            "date": "24 May 2025",
+            "points": 20
           },
           {
             "name": "Giro d'Italia - S13Stage 13 - Rovigo › Vicenza",
@@ -370,16 +430,41 @@
             "rank": 3
           },
           {
+            "name": "Giro d'Italia - S13Stage 13 - Rovigo › Vicenza - Bonus",
+            "date": "23 May 2025",
+            "points": 20
+          },
+          {
+            "name": "Giro d'Italia - S12Stage 12 - Modena › Viadana - Bonus",
+            "date": "22 May 2025",
+            "points": 20
+          },
+          {
             "name": "Giro d'Italia - S11Stage 11 - Viareggio › Castelnovo ne' Monti",
             "date": "21 May 2025",
             "points": 130,
             "rank": 2
           },
           {
+            "name": "Giro d'Italia - S11Stage 11 - Viareggio › Castelnovo ne' Monti - Bonus",
+            "date": "21 May 2025",
+            "points": 20
+          },
+          {
+            "name": "Giro d'Italia - S10 (ITT)Stage 10 (ITT) - Lucca › Pisa - Bonus",
+            "date": "20 May 2025",
+            "points": 20
+          },
+          {
             "name": "Giro d'Italia - S9Stage 9 - Gubbio › Siena",
             "date": "18 May 2025",
             "points": 130,
             "rank": 2
+          },
+          {
+            "name": "Giro d'Italia - S9Stage 9 - Gubbio › Siena - Bonus",
+            "date": "18 May 2025",
+            "points": 20
           },
           {
             "name": "Giro d'Italia - S8Stage 8 - Giulianova › Castelraimondo",
@@ -622,7 +707,7 @@
         "id": 361433,
         "team": "IGD",
         "country": "us",
-        "totalPoints": 813.86,
+        "totalPoints": 816.86,
         "results": [
           {
             "name": "Liège-Bastogne-Liège",
@@ -665,6 +750,11 @@
             "date": "27 Mar 2025",
             "points": 5,
             "rank": 2
+          },
+          {
+            "name": "Settimana Internazionale Coppi e Bartali - S3Stage 3 - Riccione › Cesena - Bonus",
+            "date": "27 Mar 2025",
+            "points": 3
           },
           {
             "name": "Paris-Nice - General classificationGeneral classification",

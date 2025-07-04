@@ -1,19 +1,19 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 July 2025 23:24 GMT",
+  "fetchedDate": "4 July 2025 23:23 GMT",
   "momentId": 191927,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 11310.57,
+    "totalPoints": 11363.57,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
         "team": "TFS",
         "country": "nl",
-        "totalPoints": 3338.57,
+        "totalPoints": 3372.57,
         "results": [
           {
             "name": "Tour de Suisse Women - General classificationGeneral classification",
@@ -58,6 +58,11 @@
             "rank": 1
           },
           {
+            "name": "Volta Ciclista a Catalunya Femenina - S2Stage 2 - Bagà › Coll de Pal - Bonus",
+            "date": "7 Jun 2025",
+            "points": 3
+          },
+          {
             "name": "Volta Ciclista a Catalunya Femenina - S1Stage 1 - El Perelló › Reus",
             "date": "6 Jun 2025",
             "points": 12,
@@ -88,10 +93,20 @@
             "rank": 1
           },
           {
+            "name": "Vuelta España Femenina  - S6Stage 6 - Becerril de Campos › Baltanás - Bonus",
+            "date": "9 May 2025",
+            "points": 8
+          },
+          {
             "name": "Vuelta España Femenina  - S5Stage 5 - Golmayo › Lagunas de Neila",
             "date": "8 May 2025",
             "points": 50,
             "rank": 1
+          },
+          {
+            "name": "Vuelta España Femenina  - S5Stage 5 - Golmayo › Lagunas de Neila - Bonus",
+            "date": "8 May 2025",
+            "points": 8
           },
           {
             "name": "Vuelta España Femenina  - S4Stage 4 - Pedrola › Borja",
@@ -154,16 +169,31 @@
             "rank": 1
           },
           {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - S3Stage 3 - Sagunt › València - Bonus",
+            "date": "15 Feb 2025",
+            "points": 5
+          },
+          {
             "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - S2Stage 2 - Benicàssim › Nules",
             "date": "14 Feb 2025",
             "points": 12,
             "rank": 4
           },
           {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - S2Stage 2 - Benicàssim › Nules - Bonus",
+            "date": "14 Feb 2025",
+            "points": 5
+          },
+          {
             "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - S1Stage 1 - Alzira › Gandia",
             "date": "13 Feb 2025",
             "points": 25,
             "rank": 1
+          },
+          {
+            "name": "Setmana Ciclista Volta Femenina de la Comunitat Valenciana - S1Stage 1 - Alzira › Gandia - Bonus",
+            "date": "13 Feb 2025",
+            "points": 5
           }
         ]
       },
@@ -352,7 +382,7 @@
         "id": 227721,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 1234.71,
+        "totalPoints": 1250.71,
         "results": [
           {
             "name": "National Championships Netherlands WE - ITT",
@@ -391,10 +421,20 @@
             "rank": 1
           },
           {
+            "name": "Itzulia Women - S2Stage 2 - Ugao-Miraballes › Igorre - Bonus",
+            "date": "17 May 2025",
+            "points": 8
+          },
+          {
             "name": "Itzulia Women - S1Stage 1 - Zumarraga › Agurain",
             "date": "16 May 2025",
             "points": 50,
             "rank": 1
+          },
+          {
+            "name": "Itzulia Women - S1Stage 1 - Zumarraga › Agurain - Bonus",
+            "date": "16 May 2025",
+            "points": 8
           },
           {
             "name": "Vuelta España Femenina  - general classificationgeneral classification",
@@ -793,7 +833,7 @@
         "id": 1638135,
         "team": "TFS",
         "country": "ch",
-        "totalPoints": 1194,
+        "totalPoints": 1197,
         "results": [
           {
             "name": "National Championships Switzerland WE - Road Race",
@@ -842,6 +882,11 @@
             "date": "6 Jun 2025",
             "points": 16,
             "rank": 1
+          },
+          {
+            "name": "Volta Ciclista a Catalunya Femenina - S1Stage 1 - El Perelló › Reus - Bonus",
+            "date": "6 Jun 2025",
+            "points": 3
           },
           {
             "name": "Vuelta a Burgos Feminas - General classificationGeneral classification",

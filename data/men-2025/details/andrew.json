@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 July 2025 23:24 GMT",
+  "fetchedDate": "4 July 2025 23:23 GMT",
   "momentId": 191909,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 8192.28,
+    "totalPoints": 8272.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -94,7 +94,7 @@
         "id": 107840,
         "team": "UAD",
         "country": "pt",
-        "totalPoints": 2512.57,
+        "totalPoints": 2533.57,
         "results": [
           {
             "name": "Tour de Suisse - General classificationGeneral classification",
@@ -169,10 +169,20 @@
             "rank": 1
           },
           {
+            "name": "Itzulia Basque Country - S5Stage 5 - Urduña › Gernika-Lumo - Bonus",
+            "date": "11 Apr 2025",
+            "points": 8
+          },
+          {
             "name": "Itzulia Basque Country - S4Stage 4 - Beasain › Markina-Xemein",
             "date": "10 Apr 2025",
             "points": 50,
             "rank": 1
+          },
+          {
+            "name": "Itzulia Basque Country - S4Stage 4 - Beasain › Markina-Xemein - Bonus",
+            "date": "10 Apr 2025",
+            "points": 8
           },
           {
             "name": "Itzulia Basque Country - S3Stage 3 - Zarautz › Beasain",
@@ -241,6 +251,11 @@
             "rank": 3
           },
           {
+            "name": "Volta a la Comunitat Valenciana - S3Stage 3 - Algemesí › Alpuente - Bonus",
+            "date": "7 Feb 2025",
+            "points": 5
+          },
+          {
             "name": "Volta a la Comunitat Valenciana - S2Stage 2 - La Nucía › Benifato",
             "date": "6 Feb 2025",
             "points": 10,
@@ -259,7 +274,7 @@
         "id": 227110,
         "team": "TVL",
         "country": "nl",
-        "totalPoints": 1320,
+        "totalPoints": 1325,
         "results": [
           {
             "name": "National Championships Netherlands ME - Road Race",
@@ -344,6 +359,11 @@
             "date": "8 Feb 2025",
             "points": 20,
             "rank": 1
+          },
+          {
+            "name": "Tour of Oman - S1Stage 1 - Bushar › Bimmah Sink Hole - Bonus",
+            "date": "8 Feb 2025",
+            "points": 5
           }
         ]
       },
@@ -352,7 +372,7 @@
         "id": 1745291,
         "team": "ARK",
         "country": "fr",
-        "totalPoints": 1636,
+        "totalPoints": 1669,
         "results": [
           {
             "name": "National Championships France ME - Road Race",
@@ -385,10 +405,25 @@
             "rank": 3
           },
           {
+            "name": "Tour de Suisse - S7Stage 7 - Neuhausen am Rheinfall › Emmetten - Bonus",
+            "date": "21 Jun 2025",
+            "points": 10
+          },
+          {
+            "name": "Tour de Suisse - S6Stage 6 - Chur › Neuhausen am Rheinfall - Bonus",
+            "date": "20 Jun 2025",
+            "points": 10
+          },
+          {
             "name": "Tour de Suisse - S5Stage 5 - La Punt › Santa Maria in Calanca",
             "date": "19 Jun 2025",
             "points": 25,
             "rank": 4
+          },
+          {
+            "name": "Tour de Suisse - S5Stage 5 - La Punt › Santa Maria in Calanca - Bonus",
+            "date": "19 Jun 2025",
+            "points": 10
           },
           {
             "name": "Tour de Suisse - S4Stage 4 - Heiden › Piuro",
@@ -499,6 +534,11 @@
             "rank": 1
           },
           {
+            "name": "Etoile de Bessèges - Tour du Gard - S4Stage 4 - Vauvert › Le Mont Bouquet - Bonus",
+            "date": "8 Feb 2025",
+            "points": 3
+          },
+          {
             "name": "Grand Prix Cycliste de Marseille La Marseillaise",
             "date": "2 Feb 2025",
             "points": 3,
@@ -511,7 +551,7 @@
         "id": 111343,
         "team": "UAD",
         "country": "fr",
-        "totalPoints": 272.57,
+        "totalPoints": 287.57,
         "results": [
           {
             "name": "Critérium du Dauphiné - General classificationGeneral classification",
@@ -544,10 +584,25 @@
             "rank": 1
           },
           {
+            "name": "Vuelta a Andalucia Ruta Ciclista Del Sol - S4Stage 4 - Córdoba › Alhaurín de la Torre - Bonus",
+            "date": "22 Feb 2025",
+            "points": 5
+          },
+          {
+            "name": "Vuelta a Andalucia Ruta Ciclista Del Sol - S3Stage 3 - Arjona › Pozoblanco - Bonus",
+            "date": "21 Feb 2025",
+            "points": 5
+          },
+          {
             "name": "Vuelta a Andalucia Ruta Ciclista Del Sol - S2Stage 2 - Alcaudete › Torredelcampo",
             "date": "20 Feb 2025",
             "points": 10,
             "rank": 3
+          },
+          {
+            "name": "Vuelta a Andalucia Ruta Ciclista Del Sol - S2Stage 2 - Alcaudete › Torredelcampo - Bonus",
+            "date": "20 Feb 2025",
+            "points": 5
           },
           {
             "name": "Vuelta a Andalucia Ruta Ciclista Del Sol - S1Stage 1 - Torrox › Cueva de Nerja",
@@ -856,7 +911,7 @@
         "id": 89223,
         "team": "UAD",
         "country": "es",
-        "totalPoints": 241,
+        "totalPoints": 247,
         "results": [
           {
             "name": "Vuelta Asturias Julio Alvarez Mendo - General classificationGeneral classification",
@@ -871,10 +926,20 @@
             "rank": 1
           },
           {
+            "name": "Vuelta Asturias Julio Alvarez Mendo - S3Stage 3 - Castropol › Vegadeo - Bonus",
+            "date": "26 Apr 2025",
+            "points": 3
+          },
+          {
             "name": "Vuelta Asturias Julio Alvarez Mendo - S2Stage 2 - Benia de Onís › Pola de Lena",
             "date": "25 Apr 2025",
             "points": 3,
             "rank": 3
+          },
+          {
+            "name": "Vuelta Asturias Julio Alvarez Mendo - S2Stage 2 - Benia de Onís › Pola de Lena - Bonus",
+            "date": "25 Apr 2025",
+            "points": 3
           },
           {
             "name": "Vuelta Asturias Julio Alvarez Mendo - S1Stage 1 - Oviedo › Llanes",

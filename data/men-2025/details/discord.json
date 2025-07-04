@@ -1,19 +1,19 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 July 2025 23:24 GMT",
+  "fetchedDate": "4 July 2025 23:23 GMT",
   "momentId": 191909,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 6472.38,
+    "totalPoints": 6503.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
         "id": 72932,
         "team": "JAY",
         "country": "nl",
-        "totalPoints": 371,
+        "totalPoints": 376,
         "results": [
           {
             "name": "National Championships Netherlands ME - Road Race",
@@ -44,6 +44,11 @@
             "date": "4 Jun 2025",
             "points": 20,
             "rank": 1
+          },
+          {
+            "name": "Tour of Slovenia - S1Stage 1 - Piran › Škofljica - Bonus",
+            "date": "4 Jun 2025",
+            "points": 5
           },
           {
             "name": "Tour de Hongrie - S4Stage 4 - Tata › Székesfehérvár",
@@ -226,7 +231,7 @@
         "id": 2178033,
         "team": "MOV",
         "country": "es",
-        "totalPoints": 833,
+        "totalPoints": 853,
         "results": [
           {
             "name": "Tour de Suisse - General classificationGeneral classification",
@@ -277,10 +282,20 @@
             "rank": 5
           },
           {
+            "name": "Santos Tour Down Under - S4Stage 4 - Glenelg › Victor Harbor - Bonus",
+            "date": "24 Jan 2025",
+            "points": 10
+          },
+          {
             "name": "Santos Tour Down Under - S3Stage 3 - Norwood › Uraidla",
             "date": "23 Jan 2025",
             "points": 60,
             "rank": 1
+          },
+          {
+            "name": "Santos Tour Down Under - S3Stage 3 - Norwood › Uraidla - Bonus",
+            "date": "23 Jan 2025",
+            "points": 10
           }
         ]
       },
@@ -487,7 +502,7 @@
         "id": 1759987,
         "team": "SOQ",
         "country": "fr",
-        "totalPoints": 1165,
+        "totalPoints": 1171,
         "results": [
           {
             "name": "National Championships France ME - Road Race",
@@ -574,10 +589,20 @@
             "rank": 3
           },
           {
+            "name": "Etoile de Bessèges - Tour du Gard - S2Stage 2 - Domessargues › Marguerittes - Bonus",
+            "date": "6 Feb 2025",
+            "points": 3
+          },
+          {
             "name": "Etoile de Bessèges - Tour du Gard - S1Stage 1 - Bellegarde › Bellegarde",
             "date": "5 Feb 2025",
             "points": 14,
             "rank": 1
+          },
+          {
+            "name": "Etoile de Bessèges - Tour du Gard - S1Stage 1 - Bellegarde › Bellegarde - Bonus",
+            "date": "5 Feb 2025",
+            "points": 3
           }
         ]
       },

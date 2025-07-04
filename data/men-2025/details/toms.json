@@ -1,19 +1,19 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 July 2025 23:24 GMT",
+  "fetchedDate": "4 July 2025 23:23 GMT",
   "momentId": 191909,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 8797.25,
+    "totalPoints": 8894.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 1473,
+        "totalPoints": 1493,
         "results": [
           {
             "name": "National Championships Belgium ME - Road Race",
@@ -52,10 +52,20 @@
             "rank": 5
           },
           {
+            "name": "Critérium du Dauphiné - S5Stage 5 - Saint-Priest › Mâcon - Bonus",
+            "date": "12 Jun 2025",
+            "points": 10
+          },
+          {
             "name": "Critérium du Dauphiné - S4 (ITT)Stage 4 (ITT) - Charmes-sur-Rhône › Saint-Péray",
             "date": "11 Jun 2025",
             "points": 60,
             "rank": 1
+          },
+          {
+            "name": "Critérium du Dauphiné - S4 (ITT)Stage 4 (ITT) - Charmes-sur-Rhône › Saint-Péray - Bonus",
+            "date": "11 Jun 2025",
+            "points": 10
           },
           {
             "name": "Critérium du Dauphiné - S1Stage 1 - Domérat › Montluçon",
@@ -124,7 +134,7 @@
         "id": 70962,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 1193.29,
+        "totalPoints": 1221.29,
         "results": [
           {
             "name": "National Championships Belgium ME - Road Race",
@@ -143,6 +153,11 @@
             "date": "18 Jun 2025",
             "points": 20,
             "rank": 1
+          },
+          {
+            "name": "Baloise Belgium Tour - S1Stage 1 - Merelbeke-Melle › Knokke-Heist - Bonus",
+            "date": "18 Jun 2025",
+            "points": 5
           },
           {
             "name": "Antwerp Port Epic / Sels Trophy",
@@ -193,10 +208,20 @@
             "rank": 1
           },
           {
+            "name": "Paris-Nice - S2Stage 2 - Montesson › Bellegarde - Bonus",
+            "date": "10 Mar 2025",
+            "points": 10
+          },
+          {
             "name": "Paris-Nice - S1Stage 1 - Le Perray-en-Yvelines › Le Perray-en-Yvelines",
             "date": "9 Mar 2025",
             "points": 60,
             "rank": 1
+          },
+          {
+            "name": "Paris-Nice - S1Stage 1 - Le Perray-en-Yvelines › Le Perray-en-Yvelines - Bonus",
+            "date": "9 Mar 2025",
+            "points": 10
           },
           {
             "name": "Kuurne - Brussel - Kuurne",
@@ -233,6 +258,11 @@
             "date": "28 Jan 2025",
             "points": 14,
             "rank": 1
+          },
+          {
+            "name": "AlUla Tour - S1Stage 1 - Al Manshiyah Train Station › Al Manshiyah Train Station - Bonus",
+            "date": "28 Jan 2025",
+            "points": 3
           }
         ]
       },
@@ -421,7 +451,7 @@
         "id": 97091,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 1426,
+        "totalPoints": 1431,
         "results": [
           {
             "name": "Giro d'Italia - S13Stage 13 - Rovigo › Vicenza",
@@ -496,6 +526,11 @@
             "rank": 1
           },
           {
+            "name": "Tour of the Alps - S1Stage 1 - San Lorenzo Dorsino › San Lorenzo Dorsino - Bonus",
+            "date": "21 Apr 2025",
+            "points": 5
+          },
+          {
             "name": "Milano-Sanremo",
             "date": "22 Mar 2025",
             "points": 15,
@@ -538,7 +573,7 @@
         "id": 1843476,
         "team": "TBV",
         "country": "fr",
-        "totalPoints": 1268,
+        "totalPoints": 1278,
         "results": [
           {
             "name": "Critérium du Dauphiné - General classificationGeneral classification",
@@ -563,6 +598,11 @@
             "date": "3 May 2025",
             "points": 60,
             "rank": 1
+          },
+          {
+            "name": "Tour de Romandie - S4Stage 4 - Sion › Thyon 2000 - Bonus",
+            "date": "3 May 2025",
+            "points": 10
           },
           {
             "name": "Tour de Romandie - S3Stage 3 - Cossonay › Cossonay",
@@ -649,7 +689,7 @@
         "id": 472995,
         "team": "LTK",
         "country": "cz",
-        "totalPoints": 397.86,
+        "totalPoints": 407.86,
         "results": [
           {
             "name": "National Championships Czech Republic ME - Road Race",
@@ -700,10 +740,20 @@
             "rank": 3
           },
           {
+            "name": "Volta a la Comunitat Valenciana - S2Stage 2 - La Nucía › Benifato - Bonus",
+            "date": "6 Feb 2025",
+            "points": 5
+          },
+          {
             "name": "Volta a la Comunitat Valenciana - S1 (TTT)Stage 1 (TTT) - Orihuela › Orihuela",
             "date": "5 Feb 2025",
             "points": 2.86,
             "rank": 1
+          },
+          {
+            "name": "Volta a la Comunitat Valenciana - S1 (TTT)Stage 1 (TTT) - Orihuela › Orihuela - Bonus",
+            "date": "5 Feb 2025",
+            "points": 5
           }
         ]
       },
@@ -817,7 +867,7 @@
         "id": 86938,
         "team": "SOQ",
         "country": "de",
-        "totalPoints": 568.29,
+        "totalPoints": 592.29,
         "results": [
           {
             "name": "National Championships Germany ME - Road Race",
@@ -862,10 +912,25 @@
             "rank": 3
           },
           {
+            "name": "Itzulia Basque Country - S3Stage 3 - Zarautz › Beasain - Bonus",
+            "date": "9 Apr 2025",
+            "points": 8
+          },
+          {
+            "name": "Itzulia Basque Country - S2Stage 2 - Pamplona-Iruña › Lodosa - Bonus",
+            "date": "8 Apr 2025",
+            "points": 8
+          },
+          {
             "name": "Itzulia Basque Country - S1 (ITT)Stage 1 (ITT) - Vitoria-Gasteiz › Vitoria-Gasteiz",
             "date": "7 Apr 2025",
             "points": 50,
             "rank": 1
+          },
+          {
+            "name": "Itzulia Basque Country - S1 (ITT)Stage 1 (ITT) - Vitoria-Gasteiz › Vitoria-Gasteiz - Bonus",
+            "date": "7 Apr 2025",
+            "points": 8
           },
           {
             "name": "Milano-Sanremo",

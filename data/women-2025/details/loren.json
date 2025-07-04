@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 July 2025 23:24 GMT",
+  "fetchedDate": "4 July 2025 23:23 GMT",
   "momentId": 191927,
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women’s Cycling Team",
-    "totalPoints": 6605.58,
+    "totalPoints": 6616.58,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -151,7 +151,7 @@
         "id": 88660,
         "team": "AGS",
         "country": "mu",
-        "totalPoints": 1510,
+        "totalPoints": 1518,
         "results": [
           {
             "name": "National Championships Mauritius WE - Road Race",
@@ -170,6 +170,11 @@
             "date": "5 Jun 2025",
             "points": 50,
             "rank": 1
+          },
+          {
+            "name": "Tour of Britain Women - S1Stage 1 - Dalby Forest › Redcar - Bonus",
+            "date": "5 Jun 2025",
+            "points": 8
           },
           {
             "name": "Liège-Bastogne-Liège Femmes",
@@ -232,7 +237,7 @@
         "id": 2202121,
         "team": "AGS",
         "country": "be",
-        "totalPoints": 674,
+        "totalPoints": 677,
         "results": [
           {
             "name": "National Championships Belgium WE - Road Race",
@@ -257,6 +262,11 @@
             "date": "31 May 2025",
             "points": 16,
             "rank": 1
+          },
+          {
+            "name": "Tour of Norway Women - S1Stage 1 - Jørpeland › Heja - Bonus",
+            "date": "31 May 2025",
+            "points": 3
           },
           {
             "name": "Itzulia Women - General classificationGeneral classification",

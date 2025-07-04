@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 July 2025 23:24 GMT",
+  "fetchedDate": "4 July 2025 23:23 GMT",
   "momentId": 191927,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 8407.14,
+    "totalPoints": 8466.14,
     "riders": [
       {
         "name": "Liane Lippert",
@@ -211,7 +211,7 @@
         "id": 1589305,
         "team": "MOV",
         "country": "ch",
-        "totalPoints": 2073.14,
+        "totalPoints": 2105.14,
         "results": [
           {
             "name": "National Championships Switzerland WE - ITT",
@@ -238,16 +238,31 @@
             "rank": 6
           },
           {
+            "name": "Tour de Suisse Women - S3Stage 3 - Oberkirch › Küssnacht - Bonus",
+            "date": "14 Jun 2025",
+            "points": 8
+          },
+          {
             "name": "Tour de Suisse Women - S2Stage 2 - Gstaad › Oberkirch",
             "date": "13 Jun 2025",
             "points": 18,
             "rank": 6
           },
           {
+            "name": "Tour de Suisse Women - S2Stage 2 - Gstaad › Oberkirch - Bonus",
+            "date": "13 Jun 2025",
+            "points": 8
+          },
+          {
             "name": "Tour de Suisse Women - S1Stage 1 - Gstaad › Gstaad",
             "date": "12 Jun 2025",
             "points": 50,
             "rank": 1
+          },
+          {
+            "name": "Tour de Suisse Women - S1Stage 1 - Gstaad › Gstaad - Bonus",
+            "date": "12 Jun 2025",
+            "points": 8
           },
           {
             "name": "Vuelta a Burgos Feminas - General classificationGeneral classification",
@@ -266,6 +281,11 @@
             "date": "24 May 2025",
             "points": 50,
             "rank": 1
+          },
+          {
+            "name": "Vuelta a Burgos Feminas - S3Stage 3 - Valle de Valdebezana (Soncillo) › Espinosa de los Monteros - Bonus",
+            "date": "24 May 2025",
+            "points": 8
           },
           {
             "name": "Vuelta a Burgos Feminas - S2Stage 2 - Villalba de Duero › Roa de Duero",
@@ -370,13 +390,18 @@
         "id": 220562,
         "team": "TFS",
         "country": "nz",
-        "totalPoints": 1522.57,
+        "totalPoints": 1525.57,
         "results": [
           {
             "name": "Tour Féminin International des Pyrénées - S1Stage 1 - Arzacq-Arraziguet › Barbazan-Debat",
             "date": "13 Jun 2025",
             "points": 16,
             "rank": 1
+          },
+          {
+            "name": "Tour Féminin International des Pyrénées - S1Stage 1 - Arzacq-Arraziguet › Barbazan-Debat - Bonus",
+            "date": "13 Jun 2025",
+            "points": 3
           },
           {
             "name": "Tour of Britain Women - General classificationGeneral classification",
@@ -556,7 +581,7 @@
         "id": 2317617,
         "team": "MOV",
         "country": "gb",
-        "totalPoints": 1021.14,
+        "totalPoints": 1029.14,
         "results": [
           {
             "name": "National Championships Great Britain WE - Road Race",
@@ -587,6 +612,11 @@
             "date": "7 Jun 2025",
             "points": 50,
             "rank": 1
+          },
+          {
+            "name": "Tour of Britain Women - S3Stage 3 - Kelso › Kelso - Bonus",
+            "date": "7 Jun 2025",
+            "points": 8
           },
           {
             "name": "Tour of Britain Women - S2Stage 2 - Hartlepool › Saltburn-by-the-Sea",
@@ -663,7 +693,7 @@
         "id": 1688341,
         "team": "EFO",
         "country": "us",
-        "totalPoints": 224.43,
+        "totalPoints": 232.43,
         "results": [
           {
             "name": "Tour of Britain Women - General classificationGeneral classification",
@@ -676,6 +706,11 @@
             "date": "6 Jun 2025",
             "points": 8,
             "rank": 9
+          },
+          {
+            "name": "Tour of Britain Women - S2Stage 2 - Hartlepool › Saltburn-by-the-Sea - Bonus",
+            "date": "6 Jun 2025",
+            "points": 8
           },
           {
             "name": "Tour of Britain Women - S1Stage 1 - Dalby Forest › Redcar",
@@ -720,7 +755,7 @@
         "id": 153363,
         "team": "LIV",
         "country": "it",
-        "totalPoints": 360.29,
+        "totalPoints": 368.29,
         "results": [
           {
             "name": "Vuelta España Femenina  - S3Stage 3 - Barbastro › Huesca",
@@ -733,6 +768,11 @@
             "date": "5 May 2025",
             "points": 40,
             "rank": 2
+          },
+          {
+            "name": "Vuelta España Femenina  - S2Stage 2 - Molins de Rei › Sant Boi de Llobregat - Bonus",
+            "date": "5 May 2025",
+            "points": 8
           },
           {
             "name": "Vuelta España Femenina  - S1 (TTT)Stage 1 (TTT) - Barcelona › Barcelona",

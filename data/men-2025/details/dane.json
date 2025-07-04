@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 July 2025 23:24 GMT",
+  "fetchedDate": "4 July 2025 23:23 GMT",
   "momentId": 191909,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 9889.57,
+    "totalPoints": 10041.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -106,7 +106,7 @@
         "id": 88889,
         "team": "RBH",
         "country": "si",
-        "totalPoints": 882,
+        "totalPoints": 930,
         "results": [
           {
             "name": "Giro d'Italia - S13Stage 13 - Rovigo › Vicenza",
@@ -133,6 +133,11 @@
             "rank": 4
           },
           {
+            "name": "Giro d'Italia - S7Stage 7 - Castel di Sangro › Tagliacozzo - Bonus",
+            "date": "16 May 2025",
+            "points": 20
+          },
+          {
             "name": "Giro d'Italia - S5Stage 5 - Ceglie Messapica › Matera",
             "date": "14 May 2025",
             "points": 15,
@@ -143,6 +148,11 @@
             "date": "10 May 2025",
             "points": 130,
             "rank": 2
+          },
+          {
+            "name": "Giro d'Italia - S2 (ITT)Stage 2 (ITT) - Tirana › Tirana - Bonus",
+            "date": "10 May 2025",
+            "points": 20
           },
           {
             "name": "Giro d'Italia - S1Stage 1 - Durrës › Tirana",
@@ -167,6 +177,11 @@
             "date": "27 Mar 2025",
             "points": 50,
             "rank": 1
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - S4Stage 4 - Sant Vicenç de Castellet › Montserrat Mil·lenari - Bonus",
+            "date": "27 Mar 2025",
+            "points": 8
           },
           {
             "name": "Volta Ciclista a Catalunya - S3Stage 3 - Viladecans The Style Outlets › La Molina",
@@ -238,7 +253,7 @@
         "id": 415141,
         "team": "UAD",
         "country": "es",
-        "totalPoints": 1743,
+        "totalPoints": 1777,
         "results": [
           {
             "name": "Giro d'Italia - S13Stage 13 - Rovigo › Vicenza",
@@ -283,10 +298,20 @@
             "rank": 2
           },
           {
+            "name": "Volta Ciclista a Catalunya - S6Stage 6 - Berga › Berga - Bonus",
+            "date": "29 Mar 2025",
+            "points": 8
+          },
+          {
             "name": "Volta Ciclista a Catalunya - S5Stage 5 - Paüls › Amposta",
             "date": "28 Mar 2025",
             "points": 1,
             "rank": 10
+          },
+          {
+            "name": "Volta Ciclista a Catalunya - S5Stage 5 - Paüls › Amposta - Bonus",
+            "date": "28 Mar 2025",
+            "points": 8
           },
           {
             "name": "Volta Ciclista a Catalunya - S4Stage 4 - Sant Vicenç de Castellet › Montserrat Mil·lenari",
@@ -301,6 +326,11 @@
             "rank": 1
           },
           {
+            "name": "Volta Ciclista a Catalunya - S3Stage 3 - Viladecans The Style Outlets › La Molina - Bonus",
+            "date": "26 Mar 2025",
+            "points": 8
+          },
+          {
             "name": "Tirreno-Adriatico - General classificationGeneral classification",
             "date": "16 Mar 2025",
             "points": 500,
@@ -311,6 +341,11 @@
             "date": "15 Mar 2025",
             "points": 60,
             "rank": 1
+          },
+          {
+            "name": "Tirreno-Adriatico - S6Stage 6 - Cartoceto › Frontignano - Bonus",
+            "date": "15 Mar 2025",
+            "points": 10
           },
           {
             "name": "Tirreno-Adriatico - S1 (ITT)Stage 1 (ITT) - Lido di Camaiore › Lido di Camaiore",
@@ -343,7 +378,7 @@
         "id": 1558112,
         "team": "TVL",
         "country": "gb",
-        "totalPoints": 1563,
+        "totalPoints": 1583,
         "results": [
           {
             "name": "Giro d'Italia - General ClassificationGeneral Classification",
@@ -356,6 +391,11 @@
             "date": "31 May 2025",
             "points": 95,
             "rank": 3
+          },
+          {
+            "name": "Giro d'Italia - S20Stage 20 - Verrès › Sestrière - Bonus",
+            "date": "31 May 2025",
+            "points": 20
           },
           {
             "name": "Giro d'Italia - S19Stage 19 - Biella › Champoluc",
@@ -424,7 +464,7 @@
         "id": 96372,
         "team": "UAD",
         "country": "ec",
-        "totalPoints": 761.14,
+        "totalPoints": 771.14,
         "results": [
           {
             "name": "Critérium du Dauphiné - General classificationGeneral classification",
@@ -473,6 +513,11 @@
             "date": "25 Jan 2025",
             "points": 60,
             "rank": 1
+          },
+          {
+            "name": "Santos Tour Down Under - S5Stage 5 - McLaren Vale › Willunga Hill - Bonus",
+            "date": "25 Jan 2025",
+            "points": 10
           },
           {
             "name": "Santos Tour Down Under - S4Stage 4 - Glenelg › Victor Harbor",
@@ -673,7 +718,7 @@
         "id": 1759422,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 1005,
+        "totalPoints": 1045,
         "results": [
           {
             "name": "National Championships France ME - Road Race",
@@ -694,16 +739,36 @@
             "rank": 5
           },
           {
+            "name": "Tour de Suisse - S4Stage 4 - Heiden › Piuro - Bonus",
+            "date": "18 Jun 2025",
+            "points": 10
+          },
+          {
             "name": "Tour de Suisse - S3Stage 3 - Aarau › Heiden",
             "date": "17 Jun 2025",
             "points": 25,
             "rank": 4
           },
           {
+            "name": "Tour de Suisse - S3Stage 3 - Aarau › Heiden - Bonus",
+            "date": "17 Jun 2025",
+            "points": 10
+          },
+          {
+            "name": "Tour de Suisse - S2Stage 2 - Aarau › Schwarzsee - Bonus",
+            "date": "16 Jun 2025",
+            "points": 10
+          },
+          {
             "name": "Tour de Suisse - S1Stage 1 - Küssnacht › Küssnacht",
             "date": "15 Jun 2025",
             "points": 60,
             "rank": 1
+          },
+          {
+            "name": "Tour de Suisse - S1Stage 1 - Küssnacht › Küssnacht - Bonus",
+            "date": "15 Jun 2025",
+            "points": 10
           },
           {
             "name": "Liège-Bastogne-Liège",

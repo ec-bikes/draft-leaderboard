@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 July 2025 23:24 GMT",
+  "fetchedDate": "4 July 2025 23:23 GMT",
   "momentId": 191909,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 7213.29,
+    "totalPoints": 7283.29,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -229,7 +229,7 @@
         "id": 154218,
         "team": "LOT",
         "country": "be",
-        "totalPoints": 262,
+        "totalPoints": 267,
         "results": [
           {
             "name": "Critérium du Dauphiné - General classificationGeneral classification",
@@ -296,6 +296,11 @@
             "date": "19 Feb 2025",
             "points": 20,
             "rank": 1
+          },
+          {
+            "name": "Vuelta a Andalucia Ruta Ciclista Del Sol - S1Stage 1 - Torrox › Cueva de Nerja - Bonus",
+            "date": "19 Feb 2025",
+            "points": 5
           }
         ]
       },
@@ -343,7 +348,7 @@
         "id": 91640,
         "team": "IGD",
         "country": "it",
-        "totalPoints": 1837,
+        "totalPoints": 1887,
         "results": [
           {
             "name": "National Championships Italy ME - ITT",
@@ -394,10 +399,20 @@
             "rank": 2
           },
           {
+            "name": "Tirreno-Adriatico - S5Stage 5 - Ascoli Piceno › Pergola - Bonus",
+            "date": "14 Mar 2025",
+            "points": 10
+          },
+          {
             "name": "Tirreno-Adriatico - S4Stage 4 - Norcia › Trasacco",
             "date": "13 Mar 2025",
             "points": 10,
             "rank": 7
+          },
+          {
+            "name": "Tirreno-Adriatico - S4Stage 4 - Norcia › Trasacco - Bonus",
+            "date": "13 Mar 2025",
+            "points": 10
           },
           {
             "name": "Tirreno-Adriatico - S3Stage 3 - Follonica › Colfiorito",
@@ -406,10 +421,25 @@
             "rank": 10
           },
           {
+            "name": "Tirreno-Adriatico - S3Stage 3 - Follonica › Colfiorito - Bonus",
+            "date": "12 Mar 2025",
+            "points": 10
+          },
+          {
+            "name": "Tirreno-Adriatico - S2Stage 2 - Camaiore › Follonica - Bonus",
+            "date": "11 Mar 2025",
+            "points": 10
+          },
+          {
             "name": "Tirreno-Adriatico - S1 (ITT)Stage 1 (ITT) - Lido di Camaiore › Lido di Camaiore",
             "date": "10 Mar 2025",
             "points": 60,
             "rank": 1
+          },
+          {
+            "name": "Tirreno-Adriatico - S1 (ITT)Stage 1 (ITT) - Lido di Camaiore › Lido di Camaiore - Bonus",
+            "date": "10 Mar 2025",
+            "points": 10
           },
           {
             "name": "Volta ao Algarve em Bicicleta - S4Stage 4 - Albufeira › Faro",
@@ -481,7 +511,7 @@
         "id": 112351,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 180,
+        "totalPoints": 190,
         "results": [
           {
             "name": "Tour de Romandie - General classificationGeneral classification",
@@ -502,10 +532,20 @@
             "rank": 3
           },
           {
+            "name": "Tour of Oman - S4Stage 4 - Oman Across Ages Museum › Oman Convention and Exhibition Center - Bonus",
+            "date": "11 Feb 2025",
+            "points": 5
+          },
+          {
             "name": "Tour of Oman - S3Stage 3 - Fanja › Eastern Mountain",
             "date": "10 Feb 2025",
             "points": 20,
             "rank": 1
+          },
+          {
+            "name": "Tour of Oman - S3Stage 3 - Fanja › Eastern Mountain - Bonus",
+            "date": "10 Feb 2025",
+            "points": 5
           },
           {
             "name": "Muscat Classic",
@@ -607,7 +647,7 @@
         "id": 109481,
         "team": "IGD",
         "country": "nl",
-        "totalPoints": 698.29,
+        "totalPoints": 703.29,
         "results": [
           {
             "name": "Giro d'Italia - General ClassificationGeneral Classification",
@@ -644,6 +684,11 @@
             "date": "24 Apr 2025",
             "points": 20,
             "rank": 1
+          },
+          {
+            "name": "Tour of the Alps - S4Stage 4 - Sillian › Obertilliach - Bonus",
+            "date": "24 Apr 2025",
+            "points": 5
           },
           {
             "name": "Paris-Nice - General classificationGeneral classification",

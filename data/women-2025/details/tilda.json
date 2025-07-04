@@ -1,19 +1,19 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 July 2025 23:24 GMT",
+  "fetchedDate": "4 July 2025 23:23 GMT",
   "momentId": 191927,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 9012.72,
+    "totalPoints": 9044.72,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 2914,
+        "totalPoints": 2938,
         "results": [
           {
             "name": "National Championships Netherlands WE - Road Race",
@@ -62,6 +62,11 @@
             "date": "22 May 2025",
             "points": 50,
             "rank": 1
+          },
+          {
+            "name": "Vuelta a Burgos Feminas - S1Stage 1 - Burgos › Poza de la Sal - Bonus",
+            "date": "22 May 2025",
+            "points": 8
           },
           {
             "name": "Amstel Gold Race Ladies Edition",
@@ -130,10 +135,20 @@
             "rank": 1
           },
           {
+            "name": "UAE Tour Women - S2Stage 2 - Al Dhafra Fort › Al Mirfa - Bonus",
+            "date": "7 Feb 2025",
+            "points": 8
+          },
+          {
             "name": "UAE Tour Women - S1Stage 1 - Dubai Police Officer's Club › Dubai Harbour",
             "date": "6 Feb 2025",
             "points": 50,
             "rank": 1
+          },
+          {
+            "name": "UAE Tour Women - S1Stage 1 - Dubai Police Officer's Club › Dubai Harbour - Bonus",
+            "date": "6 Feb 2025",
+            "points": 8
           }
         ]
       },
@@ -304,7 +319,7 @@
         "id": 347941,
         "team": "EFO",
         "country": "ch",
-        "totalPoints": 1419,
+        "totalPoints": 1427,
         "results": [
           {
             "name": "National Championships Switzerland WE - Road Race",
@@ -395,6 +410,11 @@
             "date": "18 Jan 2025",
             "points": 50,
             "rank": 1
+          },
+          {
+            "name": "Santos Tour Down Under - S2Stage 2 - Unley › Willunga Hill - Bonus",
+            "date": "18 Jan 2025",
+            "points": 8
           },
           {
             "name": "Santos Tour Down Under - S1Stage 1 - Brighton › Snapper Point",
