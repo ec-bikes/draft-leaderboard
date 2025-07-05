@@ -1,20 +1,31 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "4 July 2025 23:23 GMT",
+  "fetchedDate": "5 July 2025 23:24 GMT",
   "momentId": 191909,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 10041.57,
+    "totalPoints": 10276.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
         "id": 148275,
         "team": "ADC",
         "country": "be",
-        "totalPoints": 993,
+        "totalPoints": 1228,
         "results": [
+          {
+            "name": "Tour de France - S1Stage 1 - Lille Métropole › Lille Métropole",
+            "date": "5 Jul 2025",
+            "points": 210,
+            "rank": 1
+          },
+          {
+            "name": "Tour de France - S1Stage 1 - Lille Métropole › Lille Métropole - Bonus",
+            "date": "5 Jul 2025",
+            "points": 25
+          },
           {
             "name": "National Championships Belgium ME - Road Race",
             "date": "29 Jun 2025",

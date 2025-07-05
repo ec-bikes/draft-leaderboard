@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "4 July 2025 23:23 GMT",
+  "fetchedDate": "5 July 2025 23:24 GMT",
   "momentId": 191909,
   "teams": [
     {
@@ -241,14 +241,14 @@
     {
       "owner": "Dane Cash",
       "name": "Visma-Lease a Bike-Monster Energy",
-      "totalPoints": 10041.57,
+      "totalPoints": 10276.57,
       "riders": [
         {
           "name": "Jasper Philipsen",
           "id": 148275,
           "team": "ADC",
           "country": "be",
-          "totalPoints": 993
+          "totalPoints": 1228
         },
         {
           "name": "Primož Roglič",
@@ -319,7 +319,7 @@
     {
       "owner": "Abby Mickey",
       "name": "EF Education-Swift Nation",
-      "totalPoints": 7283.29,
+      "totalPoints": 7433.29,
       "riders": [
         {
           "name": "Wout van Aert",
@@ -333,7 +333,7 @@
           "id": 1707195,
           "team": "IWA",
           "country": "er",
-          "totalPoints": 775
+          "totalPoints": 925
         },
         {
           "name": "Maxim van Gils",
@@ -475,14 +475,14 @@
     {
       "owner": "Caley Fretz",
       "name": "US Postal Service Bald Eagles",
-      "totalPoints": 8813.46,
+      "totalPoints": 8853.46,
       "riders": [
         {
           "name": "Matteo Jorgenson",
           "id": 159567,
           "team": "TVL",
           "country": "us",
-          "totalPoints": 1188.57
+          "totalPoints": 1228.57
         },
         {
           "name": "Jonathan Milan",

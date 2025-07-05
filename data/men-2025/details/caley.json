@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "4 July 2025 23:23 GMT",
+  "fetchedDate": "5 July 2025 23:24 GMT",
   "momentId": 191909,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 8813.46,
+    "totalPoints": 8853.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
         "id": 159567,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 1188.57,
+        "totalPoints": 1228.57,
         "results": [
+          {
+            "name": "Tour de France - S1Stage 1 - Lille Métropole › Lille Métropole",
+            "date": "5 Jul 2025",
+            "points": 40,
+            "rank": 8
+          },
           {
             "name": "Critérium du Dauphiné - General classificationGeneral classification",
             "date": "15 Jun 2025",
