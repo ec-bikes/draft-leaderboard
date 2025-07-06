@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 July 2025 23:24 GMT",
+  "fetchedDate": "6 July 2025 23:23 GMT",
   "momentId": 191909,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 10276.57,
+    "totalPoints": 10366.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -729,8 +729,14 @@
         "id": 1759422,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 1045,
+        "totalPoints": 1135,
         "results": [
+          {
+            "name": "Tour de France - S2Stage 2 - Lauwin-Planque › Boulogne-sur-Mer",
+            "date": "6 Jul 2025",
+            "points": 90,
+            "rank": 4
+          },
           {
             "name": "National Championships France ME - Road Race",
             "date": "29 Jun 2025",

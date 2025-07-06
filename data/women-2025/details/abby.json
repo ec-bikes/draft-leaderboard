@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 July 2025 23:24 GMT",
+  "fetchedDate": "6 July 2025 23:23 GMT",
   "momentId": 191927,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 7394.71,
+    "totalPoints": 7573.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
         "id": 76149,
         "team": "UAD",
         "country": "it",
-        "totalPoints": 1835,
+        "totalPoints": 1865,
         "results": [
+          {
+            "name": "Giro d'Italia Women - S1 (ITT)Stage 1 (ITT) - Bergamo › Bergamo",
+            "date": "6 Jul 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "National Championships Italy WE - Road Race",
             "date": "28 Jun 2025",
@@ -453,8 +459,14 @@
         "id": 237690,
         "team": "LTK",
         "country": "gb",
-        "totalPoints": 515.14,
+        "totalPoints": 533.14,
         "results": [
+          {
+            "name": "Giro d'Italia Women - S1 (ITT)Stage 1 (ITT) - Bergamo › Bergamo",
+            "date": "6 Jul 2025",
+            "points": 18,
+            "rank": 6
+          },
           {
             "name": "National Championships Great Britain WE - Road Race",
             "date": "29 Jun 2025",
@@ -615,8 +627,14 @@
         "id": 228375,
         "team": "LTK",
         "country": "nl",
-        "totalPoints": 109.14,
+        "totalPoints": 115.14,
         "results": [
+          {
+            "name": "Giro d'Italia Women - S1 (ITT)Stage 1 (ITT) - Bergamo › Bergamo",
+            "date": "6 Jul 2025",
+            "points": 6,
+            "rank": 10
+          },
           {
             "name": "National Championships Netherlands WE - ITT",
             "date": "24 Jun 2025",
@@ -729,8 +747,14 @@
         "id": 233425,
         "team": "VWT",
         "country": "nl",
-        "totalPoints": 189,
+        "totalPoints": 314,
         "results": [
+          {
+            "name": "Argenta Classic - Deurne",
+            "date": "6 Jul 2025",
+            "points": 125,
+            "rank": 1
+          },
           {
             "name": "National Championships Netherlands WE - Road Race",
             "date": "28 Jun 2025",

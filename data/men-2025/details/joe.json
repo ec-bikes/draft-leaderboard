@@ -1,20 +1,31 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 July 2025 23:24 GMT",
+  "fetchedDate": "6 July 2025 23:23 GMT",
   "momentId": 191909,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 9928.42,
+    "totalPoints": 10163.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
         "id": 79462,
         "team": "ADC",
         "country": "nl",
-        "totalPoints": 2828,
+        "totalPoints": 3063,
         "results": [
+          {
+            "name": "Tour de France - S2Stage 2 - Lauwin-Planque › Boulogne-sur-Mer",
+            "date": "6 Jul 2025",
+            "points": 210,
+            "rank": 1
+          },
+          {
+            "name": "Tour de France - S2Stage 2 - Lauwin-Planque › Boulogne-sur-Mer - Bonus",
+            "date": "6 Jul 2025",
+            "points": 25
+          },
           {
             "name": "Critérium du Dauphiné - General classificationGeneral classification",
             "date": "15 Jun 2025",

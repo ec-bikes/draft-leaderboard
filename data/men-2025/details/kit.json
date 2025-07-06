@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 July 2025 23:24 GMT",
+  "fetchedDate": "6 July 2025 23:23 GMT",
   "momentId": 191909,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 11202,
+    "totalPoints": 11352,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "team": "UAD",
         "country": "si",
-        "totalPoints": 5150,
+        "totalPoints": 5300,
         "results": [
+          {
+            "name": "Tour de France - S2Stage 2 - Lauwin-Planque › Boulogne-sur-Mer",
+            "date": "6 Jul 2025",
+            "points": 150,
+            "rank": 2
+          },
           {
             "name": "Critérium du Dauphiné - General classificationGeneral classification",
             "date": "15 Jun 2025",

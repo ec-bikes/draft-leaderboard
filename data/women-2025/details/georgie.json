@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 July 2025 23:24 GMT",
+  "fetchedDate": "6 July 2025 23:23 GMT",
   "momentId": 191927,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 6374.85,
+    "totalPoints": 6434.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -430,8 +430,14 @@
         "id": 459694,
         "team": "HPH",
         "country": "us",
-        "totalPoints": 524.14,
+        "totalPoints": 584.14,
         "results": [
+          {
+            "name": "Argenta Classic - Deurne",
+            "date": "6 Jul 2025",
+            "points": 60,
+            "rank": 4
+          },
           {
             "name": "Copenhagen Sprint",
             "date": "21 Jun 2025",

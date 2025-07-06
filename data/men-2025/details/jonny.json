@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 July 2025 23:24 GMT",
+  "fetchedDate": "6 July 2025 23:23 GMT",
   "momentId": 191909,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 7246.14,
+    "totalPoints": 7446.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "team": "TVL",
         "country": "dk",
-        "totalPoints": 878.57,
+        "totalPoints": 988.57,
         "results": [
+          {
+            "name": "Tour de France - S2Stage 2 - Lauwin-Planque › Boulogne-sur-Mer",
+            "date": "6 Jul 2025",
+            "points": 110,
+            "rank": 3
+          },
           {
             "name": "Critérium du Dauphiné - General classificationGeneral classification",
             "date": "15 Jun 2025",
@@ -162,8 +168,14 @@
         "id": 109803,
         "team": "MOV",
         "country": "es",
-        "totalPoints": 956,
+        "totalPoints": 976,
         "results": [
+          {
+            "name": "Tour de France - S2Stage 2 - Lauwin-Planque › Boulogne-sur-Mer",
+            "date": "6 Jul 2025",
+            "points": 20,
+            "rank": 12
+          },
           {
             "name": "Andorra MoraBanc Clàssica",
             "date": "22 Jun 2025",
@@ -255,8 +267,14 @@
         "id": 1710249,
         "team": "TPP",
         "country": "gb",
-        "totalPoints": 1307,
+        "totalPoints": 1362,
         "results": [
+          {
+            "name": "Tour de France - S2Stage 2 - Lauwin-Planque › Boulogne-sur-Mer",
+            "date": "6 Jul 2025",
+            "points": 55,
+            "rank": 6
+          },
           {
             "name": "Tour de Suisse - General classificationGeneral classification",
             "date": "22 Jun 2025",
@@ -390,8 +408,14 @@
         "id": 353375,
         "team": "TBV",
         "country": "co",
-        "totalPoints": 675,
+        "totalPoints": 690,
         "results": [
+          {
+            "name": "Tour de France - S2Stage 2 - Lauwin-Planque › Boulogne-sur-Mer",
+            "date": "6 Jul 2025",
+            "points": 15,
+            "rank": 13
+          },
           {
             "name": "Liège-Bastogne-Liège",
             "date": "27 Apr 2025",

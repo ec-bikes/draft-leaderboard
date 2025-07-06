@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 July 2025 23:24 GMT",
+  "fetchedDate": "6 July 2025 23:23 GMT",
   "momentId": 191909,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 8272.28,
+    "totalPoints": 8317.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -94,8 +94,14 @@
         "id": 107840,
         "team": "UAD",
         "country": "pt",
-        "totalPoints": 2533.57,
+        "totalPoints": 2538.57,
         "results": [
+          {
+            "name": "Tour de France - S2Stage 2 - Lauwin-Planque › Boulogne-sur-Mer",
+            "date": "6 Jul 2025",
+            "points": 5,
+            "rank": 15
+          },
           {
             "name": "Tour de Suisse - General classificationGeneral classification",
             "date": "22 Jun 2025",
@@ -372,8 +378,14 @@
         "id": 1745291,
         "team": "ARK",
         "country": "fr",
-        "totalPoints": 1669,
+        "totalPoints": 1709,
         "results": [
+          {
+            "name": "Tour de France - S2Stage 2 - Lauwin-Planque › Boulogne-sur-Mer",
+            "date": "6 Jul 2025",
+            "points": 40,
+            "rank": 8
+          },
           {
             "name": "National Championships France ME - Road Race",
             "date": "29 Jun 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 July 2025 23:24 GMT",
+  "fetchedDate": "6 July 2025 23:23 GMT",
   "momentId": 191927,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 8466.14,
+    "totalPoints": 8549.14,
     "riders": [
       {
         "name": "Liane Lippert",
@@ -130,8 +130,14 @@
         "id": 59726,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 998.71,
+        "totalPoints": 1023.71,
         "results": [
+          {
+            "name": "Giro d'Italia Women - S1 (ITT)Stage 1 (ITT) - Bergamo › Bergamo",
+            "date": "6 Jul 2025",
+            "points": 25,
+            "rank": 4
+          },
           {
             "name": "Vuelta España Femenina  - general classificationgeneral classification",
             "date": "10 May 2025",
@@ -211,8 +217,19 @@
         "id": 1589305,
         "team": "MOV",
         "country": "ch",
-        "totalPoints": 2105.14,
+        "totalPoints": 2163.14,
         "results": [
+          {
+            "name": "Giro d'Italia Women - S1 (ITT)Stage 1 (ITT) - Bergamo › Bergamo",
+            "date": "6 Jul 2025",
+            "points": 50,
+            "rank": 1
+          },
+          {
+            "name": "Giro d'Italia Women - S1 (ITT)Stage 1 (ITT) - Bergamo › Bergamo - Bonus",
+            "date": "6 Jul 2025",
+            "points": 8
+          },
           {
             "name": "National Championships Switzerland WE - ITT",
             "date": "26 Jun 2025",

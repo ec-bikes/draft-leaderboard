@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 July 2025 23:24 GMT",
+  "fetchedDate": "6 July 2025 23:23 GMT",
   "momentId": 191927,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 11363.57,
+    "totalPoints": 11433.57,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -985,8 +985,14 @@
         "id": 98622,
         "team": "HPH",
         "country": "at",
-        "totalPoints": 550,
+        "totalPoints": 620,
         "results": [
+          {
+            "name": "Argenta Classic - Deurne",
+            "date": "6 Jul 2025",
+            "points": 70,
+            "rank": 3
+          },
           {
             "name": "National Championships Austria WE - Road Race",
             "date": "29 Jun 2025",
