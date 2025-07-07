@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 July 2025 23:23 GMT",
+  "fetchedDate": "7 July 2025 23:24 GMT",
   "momentId": 191909,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 11352,
+    "totalPoints": 11397,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -423,8 +423,14 @@
         "id": 111683,
         "team": "ADC",
         "country": "au",
-        "totalPoints": 975,
+        "totalPoints": 1020,
         "results": [
+          {
+            "name": "Tour de France - S3Stage 3 - Valenciennes › Dunkerque",
+            "date": "7 Jul 2025",
+            "points": 45,
+            "rank": 7
+          },
           {
             "name": "Giro d'Italia - S21Stage 21 - Roma › Roma",
             "date": "1 Jun 2025",

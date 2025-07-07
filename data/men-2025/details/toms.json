@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 July 2025 23:23 GMT",
+  "fetchedDate": "7 July 2025 23:24 GMT",
   "momentId": 191909,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 8894.25,
+    "totalPoints": 9104.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -134,8 +134,14 @@
         "id": 70962,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 1221.29,
+        "totalPoints": 1431.29,
         "results": [
+          {
+            "name": "Tour de France - S3Stage 3 - Valenciennes › Dunkerque",
+            "date": "7 Jul 2025",
+            "points": 210,
+            "rank": 1
+          },
           {
             "name": "National Championships Belgium ME - Road Race",
             "date": "29 Jun 2025",

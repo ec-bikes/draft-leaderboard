@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 July 2025 23:23 GMT",
+  "fetchedDate": "7 July 2025 23:24 GMT",
   "momentId": 191927,
   "teams": [
     {
@@ -85,14 +85,14 @@
     {
       "owner": "Abby Mickey",
       "name": "The Tortured Breakaway Department",
-      "totalPoints": 7573.71,
+      "totalPoints": 7655.71,
       "riders": [
         {
           "name": "Elisa Longo Borghini",
           "id": 76149,
           "team": "UAD",
           "country": "it",
-          "totalPoints": 1865
+          "totalPoints": 1883
         },
         {
           "name": "Marianne Vos",
@@ -127,7 +127,7 @@
           "id": 237690,
           "team": "LTK",
           "country": "gb",
-          "totalPoints": 533.14
+          "totalPoints": 591.14
         },
         {
           "name": "Chiara Consonni",
@@ -141,7 +141,7 @@
           "id": 228375,
           "team": "LTK",
           "country": "nl",
-          "totalPoints": 115.14
+          "totalPoints": 121.14
         },
         {
           "name": "Ingvild Gåskjenn",
@@ -319,7 +319,7 @@
     {
       "owner": "Georgie Howe",
       "name": "Specialized-Win-Collective Racing",
-      "totalPoints": 6434.85,
+      "totalPoints": 6444.85,
       "riders": [
         {
           "name": "Kasia Niewiadoma",
@@ -368,7 +368,7 @@
           "id": 97498,
           "team": "TFS",
           "country": "fr",
-          "totalPoints": 1231.57
+          "totalPoints": 1241.57
         },
         {
           "name": "Lucinda Brand",
@@ -397,7 +397,7 @@
     {
       "owner": "Tils Raynolds",
       "name": "The Suffragettes Collective",
-      "totalPoints": 8549.14,
+      "totalPoints": 8569.14,
       "riders": [
         {
           "name": "Liane Lippert",
@@ -418,7 +418,7 @@
           "id": 1589305,
           "team": "MOV",
           "country": "ch",
-          "totalPoints": 2163.14
+          "totalPoints": 2183.14
         },
         {
           "name": "Ally Wollaston",

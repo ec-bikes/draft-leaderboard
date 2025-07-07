@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 July 2025 23:23 GMT",
+  "fetchedDate": "7 July 2025 23:24 GMT",
   "momentId": 191909,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 8853.46,
+    "totalPoints": 9003.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -138,8 +138,14 @@
         "id": 301151,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 1058.86,
+        "totalPoints": 1208.86,
         "results": [
+          {
+            "name": "Tour de France - S3Stage 3 - Valenciennes › Dunkerque",
+            "date": "7 Jul 2025",
+            "points": 150,
+            "rank": 2
+          },
           {
             "name": "National Championships Italy ME - Road Race",
             "date": "29 Jun 2025",

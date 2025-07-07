@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 July 2025 23:23 GMT",
+  "fetchedDate": "7 July 2025 23:24 GMT",
   "momentId": 191909,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 7433.29,
+    "totalPoints": 7488.29,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -106,8 +106,14 @@
         "id": 1707195,
         "team": "IWA",
         "country": "er",
-        "totalPoints": 925,
+        "totalPoints": 980,
         "results": [
+          {
+            "name": "Tour de France - S3Stage 3 - Valenciennes › Dunkerque",
+            "date": "7 Jul 2025",
+            "points": 55,
+            "rank": 6
+          },
           {
             "name": "Tour de France - S1Stage 1 - Lille Métropole › Lille Métropole",
             "date": "5 Jul 2025",

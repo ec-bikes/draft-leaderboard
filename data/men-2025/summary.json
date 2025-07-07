@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 July 2025 23:23 GMT",
+  "fetchedDate": "7 July 2025 23:24 GMT",
   "momentId": 191909,
   "teams": [
     {
       "owner": "Kit Nicholson",
       "name": "Picnic-Letterboxd",
-      "totalPoints": 11352,
+      "totalPoints": 11397,
       "riders": [
         {
           "name": "Tadej Pogačar",
@@ -49,7 +49,7 @@
           "id": 111683,
           "team": "ADC",
           "country": "au",
-          "totalPoints": 975
+          "totalPoints": 1020
         },
         {
           "name": "Richard Carapaz",
@@ -158,12 +158,12 @@
           "totalPoints": 677
         }
       ],
-      "movement": 0
+      "movement": -1
     },
     {
       "owner": "Toms Skujiņš",
       "name": "Lidl-Trek-Bauer",
-      "totalPoints": 8894.25,
+      "totalPoints": 9104.25,
       "riders": [
         {
           "name": "Remco Evenepoel",
@@ -177,7 +177,7 @@
           "id": 70962,
           "team": "SOQ",
           "country": "be",
-          "totalPoints": 1221.29
+          "totalPoints": 1431.29
         },
         {
           "name": "Ben O'Connor",
@@ -319,7 +319,7 @@
     {
       "owner": "Abby Mickey",
       "name": "EF Education-Swift Nation",
-      "totalPoints": 7433.29,
+      "totalPoints": 7488.29,
       "riders": [
         {
           "name": "Wout van Aert",
@@ -333,7 +333,7 @@
           "id": 1707195,
           "team": "IWA",
           "country": "er",
-          "totalPoints": 925
+          "totalPoints": 980
         },
         {
           "name": "Maxim van Gils",
@@ -392,19 +392,19 @@
           "totalPoints": 250
         }
       ],
-      "movement": 0
+      "movement": 1
     },
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 10163.42,
+      "totalPoints": 10213.42,
       "riders": [
         {
           "name": "Mathieu van der Poel",
           "id": 79462,
           "team": "ADC",
           "country": "nl",
-          "totalPoints": 3063
+          "totalPoints": 3088
         },
         {
           "name": "Mads Pedersen",
@@ -446,7 +446,7 @@
           "id": 482927,
           "team": "TPP",
           "country": "dk",
-          "totalPoints": 751
+          "totalPoints": 776
         },
         {
           "name": "Diego Ulissi",
@@ -475,7 +475,7 @@
     {
       "owner": "Caley Fretz",
       "name": "US Postal Service Bald Eagles",
-      "totalPoints": 8853.46,
+      "totalPoints": 9003.46,
       "riders": [
         {
           "name": "Matteo Jorgenson",
@@ -489,7 +489,7 @@
           "id": 301151,
           "team": "LTK",
           "country": "it",
-          "totalPoints": 1058.86
+          "totalPoints": 1208.86
         },
         {
           "name": "Sepp Kuss",
@@ -631,14 +631,14 @@
     {
       "owner": "Discord Undrafted",
       "name": "Team Movistar easyJet",
-      "totalPoints": 6503.38,
+      "totalPoints": 6518.38,
       "riders": [
         {
           "name": "Dylan Groenewegen",
           "id": 72932,
           "team": "JAY",
           "country": "nl",
-          "totalPoints": 376
+          "totalPoints": 391
         },
         {
           "name": "Matej Mohorič",

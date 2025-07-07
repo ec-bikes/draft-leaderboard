@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 July 2025 23:23 GMT",
+  "fetchedDate": "7 July 2025 23:24 GMT",
   "momentId": 191927,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 6434.85,
+    "totalPoints": 6444.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -541,8 +541,14 @@
         "id": 97498,
         "team": "TFS",
         "country": "fr",
-        "totalPoints": 1231.57,
+        "totalPoints": 1241.57,
         "results": [
+          {
+            "name": "Giro d'Italia Women - S2Stage 2 - Clusone › Aprica",
+            "date": "7 Jul 2025",
+            "points": 10,
+            "rank": 8
+          },
           {
             "name": "National Championships France WE - ITT",
             "date": "26 Jun 2025",
