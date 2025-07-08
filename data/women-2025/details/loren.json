@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 July 2025 23:24 GMT",
-  "momentId": 191927,
+  "fetchedDate": "8 July 2025 23:25 GMT",
+  "momentId": 192088,
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women’s Cycling Team",
-    "totalPoints": 6664.58,
+    "totalPoints": 6694.58,
     "riders": [
       {
         "name": "Lotte Kopecky",
         "id": 73504,
         "team": "SDW",
         "country": "be",
-        "totalPoints": 1110,
+        "totalPoints": 1140,
         "results": [
+          {
+            "name": "Giro d'Italia Women - S3Stage 3 - Vezza d'Oglio › Trento",
+            "date": "8 Jul 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Giro d'Italia Women - S1 (ITT)Stage 1 (ITT) - Bergamo › Bergamo",
             "date": "6 Jul 2025",

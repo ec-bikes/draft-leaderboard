@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 July 2025 23:24 GMT",
-  "momentId": 191909,
+  "fetchedDate": "8 July 2025 23:25 GMT",
+  "momentId": 192070,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 9003.46,
+    "totalPoints": 9043.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
         "id": 159567,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 1228.57,
+        "totalPoints": 1268.57,
         "results": [
+          {
+            "name": "Tour de France - S4Stage 4 - Amiens Métropole › Rouen",
+            "date": "8 Jul 2025",
+            "points": 40,
+            "rank": 8
+          },
           {
             "name": "Tour de France - S1Stage 1 - Lille Métropole › Lille Métropole",
             "date": "5 Jul 2025",
