@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 July 2025 23:25 GMT",
+  "fetchedDate": "9 July 2025 23:25 GMT",
   "momentId": 192088,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 8569.14,
+    "totalPoints": 8607.14,
     "riders": [
       {
         "name": "Liane Lippert",
@@ -217,8 +217,19 @@
         "id": 1589305,
         "team": "MOV",
         "country": "ch",
-        "totalPoints": 2183.14,
+        "totalPoints": 2221.14,
         "results": [
+          {
+            "name": "Giro d'Italia Women - S4Stage 4 - Castello Tesino › Pianezze",
+            "date": "9 Jul 2025",
+            "points": 30,
+            "rank": 3
+          },
+          {
+            "name": "Giro d'Italia Women - S4Stage 4 - Castello Tesino › Pianezze - Bonus",
+            "date": "9 Jul 2025",
+            "points": 8
+          },
           {
             "name": "Giro d'Italia Women - S2Stage 2 - Clusone › Aprica",
             "date": "7 Jul 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 July 2025 23:25 GMT",
+  "fetchedDate": "9 July 2025 23:25 GMT",
   "momentId": 192088,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 6444.85,
+    "totalPoints": 6469.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -211,8 +211,14 @@
         "id": 2188959,
         "team": "CSZ",
         "country": "de",
-        "totalPoints": 437,
+        "totalPoints": 462,
         "results": [
+          {
+            "name": "Giro d'Italia Women - S4Stage 4 - Castello Tesino › Pianezze",
+            "date": "9 Jul 2025",
+            "points": 25,
+            "rank": 4
+          },
           {
             "name": "National Championships Germany WE - Road Race",
             "date": "28 Jun 2025",

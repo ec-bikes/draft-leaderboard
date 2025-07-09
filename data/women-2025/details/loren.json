@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 July 2025 23:25 GMT",
+  "fetchedDate": "9 July 2025 23:25 GMT",
   "momentId": 192088,
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women’s Cycling Team",
-    "totalPoints": 6694.58,
+    "totalPoints": 6704.58,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -437,8 +437,14 @@
         "id": 2096868,
         "team": "AGS",
         "country": "be",
-        "totalPoints": 40,
+        "totalPoints": 50,
         "results": [
+          {
+            "name": "Giro d'Italia Women - S4Stage 4 - Castello Tesino › Pianezze",
+            "date": "9 Jul 2025",
+            "points": 10,
+            "rank": 8
+          },
           {
             "name": "National Championships Belgium WE - ITT",
             "date": "27 Jun 2025",

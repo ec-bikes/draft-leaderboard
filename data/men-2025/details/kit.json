@@ -1,20 +1,31 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 July 2025 23:25 GMT",
+  "fetchedDate": "9 July 2025 23:25 GMT",
   "momentId": 192070,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 11607,
+    "totalPoints": 11782,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "team": "UAD",
         "country": "si",
-        "totalPoints": 5510,
+        "totalPoints": 5685,
         "results": [
+          {
+            "name": "Tour de France - S5 (ITT)Stage 5 (ITT) - Caen › Caen",
+            "date": "9 Jul 2025",
+            "points": 150,
+            "rank": 2
+          },
+          {
+            "name": "Tour de France - S5 (ITT)Stage 5 (ITT) - Caen › Caen - Bonus",
+            "date": "9 Jul 2025",
+            "points": 25
+          },
           {
             "name": "Tour de France - S4Stage 4 - Amiens Métropole › Rouen",
             "date": "8 Jul 2025",

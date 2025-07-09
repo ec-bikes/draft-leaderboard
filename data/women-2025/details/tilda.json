@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 July 2025 23:25 GMT",
+  "fetchedDate": "9 July 2025 23:25 GMT",
   "momentId": 192088,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 9094.72,
+    "totalPoints": 9114.72,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -435,8 +435,14 @@
         "id": 79690,
         "team": "FDC",
         "country": "nl",
-        "totalPoints": 182,
+        "totalPoints": 202,
         "results": [
+          {
+            "name": "Giro d'Italia Women - S4Stage 4 - Castello Tesino › Pianezze",
+            "date": "9 Jul 2025",
+            "points": 20,
+            "rank": 5
+          },
           {
             "name": "Itzulia Women - General classificationGeneral classification",
             "date": "18 May 2025",

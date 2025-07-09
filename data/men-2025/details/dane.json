@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 July 2025 23:25 GMT",
+  "fetchedDate": "9 July 2025 23:25 GMT",
   "momentId": 192070,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 10446.57,
+    "totalPoints": 10521.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -117,8 +117,14 @@
         "id": 88889,
         "team": "RBH",
         "country": "si",
-        "totalPoints": 930,
+        "totalPoints": 950,
         "results": [
+          {
+            "name": "Tour de France - S5 (ITT)Stage 5 (ITT) - Caen › Caen",
+            "date": "9 Jul 2025",
+            "points": 20,
+            "rank": 12
+          },
           {
             "name": "Giro d'Italia - S13Stage 13 - Rovigo › Vicenza",
             "date": "23 May 2025",
@@ -636,8 +642,14 @@
         "id": 2097255,
         "team": "RBH",
         "country": "de",
-        "totalPoints": 1159,
+        "totalPoints": 1214,
         "results": [
+          {
+            "name": "Tour de France - S5 (ITT)Stage 5 (ITT) - Caen › Caen",
+            "date": "9 Jul 2025",
+            "points": 55,
+            "rank": 6
+          },
           {
             "name": "Critérium du Dauphiné - General classificationGeneral classification",
             "date": "15 Jun 2025",
