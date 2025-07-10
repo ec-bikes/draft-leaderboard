@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 July 2025 23:25 GMT",
+  "fetchedDate": "10 July 2025 23:25 GMT",
   "momentId": 192070,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 10521.57,
+    "totalPoints": 10596.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -395,8 +395,14 @@
         "id": 1558112,
         "team": "TVL",
         "country": "gb",
-        "totalPoints": 1583,
+        "totalPoints": 1653,
         "results": [
+          {
+            "name": "Tour de France - S6Stage 6 - Bayeux › Vire Normandie",
+            "date": "10 Jul 2025",
+            "points": 70,
+            "rank": 5
+          },
           {
             "name": "Giro d'Italia - General ClassificationGeneral Classification",
             "date": "1 Jun 2025",
@@ -642,8 +648,14 @@
         "id": 2097255,
         "team": "RBH",
         "country": "de",
-        "totalPoints": 1214,
+        "totalPoints": 1219,
         "results": [
+          {
+            "name": "Tour de France - S6Stage 6 - Bayeux › Vire Normandie",
+            "date": "10 Jul 2025",
+            "points": 5,
+            "rank": 15
+          },
           {
             "name": "Tour de France - S5 (ITT)Stage 5 (ITT) - Caen › Caen",
             "date": "9 Jul 2025",

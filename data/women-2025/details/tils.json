@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 July 2025 23:25 GMT",
+  "fetchedDate": "10 July 2025 23:25 GMT",
   "momentId": 192088,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 8607.14,
+    "totalPoints": 8680.14,
     "riders": [
       {
         "name": "Liane Lippert",
         "id": 140495,
         "team": "MOV",
         "country": "de",
-        "totalPoints": 861.14,
+        "totalPoints": 891.14,
         "results": [
+          {
+            "name": "Giro d'Italia Women - S5Stage 5 - Mirano › Monselice",
+            "date": "10 Jul 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "National Championships Germany WE - Road Race",
             "date": "28 Jun 2025",
@@ -130,8 +136,14 @@
         "id": 59726,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 1023.71,
+        "totalPoints": 1038.71,
         "results": [
+          {
+            "name": "Giro d'Italia Women - S5Stage 5 - Mirano › Monselice",
+            "date": "10 Jul 2025",
+            "points": 15,
+            "rank": 7
+          },
           {
             "name": "Giro d'Italia Women - S1 (ITT)Stage 1 (ITT) - Bergamo › Bergamo",
             "date": "6 Jul 2025",
@@ -217,8 +229,19 @@
         "id": 1589305,
         "team": "MOV",
         "country": "ch",
-        "totalPoints": 2221.14,
+        "totalPoints": 2249.14,
         "results": [
+          {
+            "name": "Giro d'Italia Women - S5Stage 5 - Mirano › Monselice",
+            "date": "10 Jul 2025",
+            "points": 20,
+            "rank": 5
+          },
+          {
+            "name": "Giro d'Italia Women - S5Stage 5 - Mirano › Monselice - Bonus",
+            "date": "10 Jul 2025",
+            "points": 8
+          },
           {
             "name": "Giro d'Italia Women - S4Stage 4 - Castello Tesino › Pianezze",
             "date": "9 Jul 2025",

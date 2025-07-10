@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 July 2025 23:25 GMT",
+  "fetchedDate": "10 July 2025 23:25 GMT",
   "momentId": 192070,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 6518.38,
+    "totalPoints": 6728.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -156,8 +156,14 @@
         "id": 235075,
         "team": "EFE",
         "country": "ie",
-        "totalPoints": 1144,
+        "totalPoints": 1354,
         "results": [
+          {
+            "name": "Tour de France - S6Stage 6 - Bayeux › Vire Normandie",
+            "date": "10 Jul 2025",
+            "points": 210,
+            "rank": 1
+          },
           {
             "name": "Critérium du Dauphiné - General classificationGeneral classification",
             "date": "15 Jun 2025",

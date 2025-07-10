@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 July 2025 23:25 GMT",
+  "fetchedDate": "10 July 2025 23:25 GMT",
   "momentId": 192070,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 9359.25,
+    "totalPoints": 9379.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 1748,
+        "totalPoints": 1768,
         "results": [
+          {
+            "name": "Tour de France - S6Stage 6 - Bayeux › Vire Normandie",
+            "date": "10 Jul 2025",
+            "points": 20,
+            "rank": 12
+          },
           {
             "name": "Tour de France - S5 (ITT)Stage 5 (ITT) - Caen › Caen",
             "date": "9 Jul 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 July 2025 23:25 GMT",
+  "fetchedDate": "10 July 2025 23:25 GMT",
   "momentId": 192088,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 6469.85,
+    "totalPoints": 6475.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -136,8 +136,14 @@
         "id": 107539,
         "team": "UAD",
         "country": "it",
-        "totalPoints": 805,
+        "totalPoints": 811,
         "results": [
+          {
+            "name": "Giro d'Italia Women - S5Stage 5 - Mirano › Monselice",
+            "date": "10 Jul 2025",
+            "points": 6,
+            "rank": 10
+          },
           {
             "name": "National Championships Italy WE - ITT",
             "date": "26 Jun 2025",

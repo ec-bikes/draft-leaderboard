@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 July 2025 23:25 GMT",
+  "fetchedDate": "10 July 2025 23:25 GMT",
   "momentId": 192070,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 9103.46,
+    "totalPoints": 9142.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
         "id": 159567,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 1293.57,
+        "totalPoints": 1318.57,
         "results": [
+          {
+            "name": "Tour de France - S6Stage 6 - Bayeux › Vire Normandie",
+            "date": "10 Jul 2025",
+            "points": 25,
+            "rank": 11
+          },
           {
             "name": "Tour de France - S5 (ITT)Stage 5 (ITT) - Caen › Caen",
             "date": "9 Jul 2025",
@@ -379,8 +385,14 @@
         "id": 2002910,
         "team": "UAD",
         "country": "mx",
-        "totalPoints": 2534,
+        "totalPoints": 2548,
         "results": [
+          {
+            "name": "Tour of Austria - S2Stage 2 - Bischofshofen › St. Johann Alpendorf",
+            "date": "10 Jul 2025",
+            "points": 14,
+            "rank": 1
+          },
           {
             "name": "Giro d'Italia - General ClassificationGeneral Classification",
             "date": "1 Jun 2025",

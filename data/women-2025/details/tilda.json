@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 July 2025 23:25 GMT",
+  "fetchedDate": "10 July 2025 23:25 GMT",
   "momentId": 192088,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 9114.72,
+    "totalPoints": 9164.72,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 2988,
+        "totalPoints": 3038,
         "results": [
+          {
+            "name": "Giro d'Italia Women - S5Stage 5 - Mirano › Monselice",
+            "date": "10 Jul 2025",
+            "points": 50,
+            "rank": 1
+          },
           {
             "name": "Giro d'Italia Women - S3Stage 3 - Vezza d'Oglio › Trento",
             "date": "8 Jul 2025",

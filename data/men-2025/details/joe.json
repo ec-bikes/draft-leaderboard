@@ -1,20 +1,31 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 July 2025 23:25 GMT",
+  "fetchedDate": "10 July 2025 23:25 GMT",
   "momentId": 192070,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 10388.42,
+    "totalPoints": 10453.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
         "id": 79462,
         "team": "ADC",
         "country": "nl",
-        "totalPoints": 3263,
+        "totalPoints": 3328,
         "results": [
+          {
+            "name": "Tour de France - S6Stage 6 - Bayeux › Vire Normandie",
+            "date": "10 Jul 2025",
+            "points": 40,
+            "rank": 8
+          },
+          {
+            "name": "Tour de France - S6Stage 6 - Bayeux › Vire Normandie - Bonus",
+            "date": "10 Jul 2025",
+            "points": 25
+          },
           {
             "name": "Tour de France - S4Stage 4 - Amiens Métropole › Rouen",
             "date": "8 Jul 2025",
