@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 July 2025 23:25 GMT",
+  "fetchedDate": "11 July 2025 23:25 GMT",
   "momentId": 192088,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 7794.71,
+    "totalPoints": 7832.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
         "id": 76149,
         "team": "UAD",
         "country": "it",
-        "totalPoints": 1966,
+        "totalPoints": 1974,
         "results": [
+          {
+            "name": "Giro d'Italia Women - S6Stage 6 - Bellaria-Igea Marina › Terre Roveresche",
+            "date": "11 Jul 2025",
+            "points": 8,
+            "rank": 9
+          },
           {
             "name": "Giro d'Italia Women - S5Stage 5 - Mirano › Monselice",
             "date": "10 Jul 2025",
@@ -679,8 +685,14 @@
         "id": 228375,
         "team": "LTK",
         "country": "nl",
-        "totalPoints": 121.14,
+        "totalPoints": 151.14,
         "results": [
+          {
+            "name": "Giro d'Italia Women - S6Stage 6 - Bellaria-Igea Marina › Terre Roveresche",
+            "date": "11 Jul 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Giro d'Italia Women - S2Stage 2 - Clusone › Aprica",
             "date": "7 Jul 2025",

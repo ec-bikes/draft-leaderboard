@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 July 2025 23:25 GMT",
+  "fetchedDate": "11 July 2025 23:25 GMT",
   "momentId": 192088,
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women’s Cycling Team",
-    "totalPoints": 6729.58,
+    "totalPoints": 6754.58,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -347,8 +347,14 @@
         "id": 231378,
         "team": "LIV",
         "country": "nl",
-        "totalPoints": 733,
+        "totalPoints": 758,
         "results": [
+          {
+            "name": "Giro d'Italia Women - S6Stage 6 - Bellaria-Igea Marina › Terre Roveresche",
+            "date": "11 Jul 2025",
+            "points": 25,
+            "rank": 4
+          },
           {
             "name": "Vuelta a Burgos Feminas - General classificationGeneral classification",
             "date": "25 May 2025",

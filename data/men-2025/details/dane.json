@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 July 2025 23:25 GMT",
+  "fetchedDate": "11 July 2025 23:25 GMT",
   "momentId": 192070,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 10596.57,
+    "totalPoints": 10666.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -219,8 +219,14 @@
         "id": 428096,
         "team": "IGD",
         "country": "es",
-        "totalPoints": 385.43,
+        "totalPoints": 390.43,
         "results": [
+          {
+            "name": "Tour de France - S7Stage 7 - Saint-Malo › Mûr-de-Bretagne",
+            "date": "11 Jul 2025",
+            "points": 5,
+            "rank": 15
+          },
           {
             "name": "Critérium du Dauphiné - General classificationGeneral classification",
             "date": "15 Jun 2025",
@@ -487,8 +493,14 @@
         "id": 96372,
         "team": "UAD",
         "country": "ec",
-        "totalPoints": 781.14,
+        "totalPoints": 821.14,
         "results": [
+          {
+            "name": "Tour de France - S7Stage 7 - Saint-Malo › Mûr-de-Bretagne",
+            "date": "11 Jul 2025",
+            "points": 40,
+            "rank": 8
+          },
           {
             "name": "Tour de France - S4Stage 4 - Amiens Métropole › Rouen",
             "date": "8 Jul 2025",
@@ -648,8 +660,14 @@
         "id": 2097255,
         "team": "RBH",
         "country": "de",
-        "totalPoints": 1219,
+        "totalPoints": 1229,
         "results": [
+          {
+            "name": "Tour de France - S7Stage 7 - Saint-Malo › Mûr-de-Bretagne",
+            "date": "11 Jul 2025",
+            "points": 10,
+            "rank": 14
+          },
           {
             "name": "Tour de France - S6Stage 6 - Bayeux › Vire Normandie",
             "date": "10 Jul 2025",
@@ -759,8 +777,14 @@
         "id": 1759422,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 1205,
+        "totalPoints": 1220,
         "results": [
+          {
+            "name": "Tour de France - S7Stage 7 - Saint-Malo › Mûr-de-Bretagne",
+            "date": "11 Jul 2025",
+            "points": 15,
+            "rank": 13
+          },
           {
             "name": "Tour de France - S4Stage 4 - Amiens Métropole › Rouen",
             "date": "8 Jul 2025",

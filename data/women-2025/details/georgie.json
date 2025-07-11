@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 July 2025 23:25 GMT",
+  "fetchedDate": "11 July 2025 23:25 GMT",
   "momentId": 192088,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 6475.85,
+    "totalPoints": 6508.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -553,8 +553,14 @@
         "id": 97498,
         "team": "TFS",
         "country": "fr",
-        "totalPoints": 1241.57,
+        "totalPoints": 1256.57,
         "results": [
+          {
+            "name": "Giro d'Italia Women - S6Stage 6 - Bellaria-Igea Marina › Terre Roveresche",
+            "date": "11 Jul 2025",
+            "points": 15,
+            "rank": 7
+          },
           {
             "name": "Giro d'Italia Women - S2Stage 2 - Clusone › Aprica",
             "date": "7 Jul 2025",
@@ -697,8 +703,14 @@
         "id": 488553,
         "team": "CTC",
         "country": "ca",
-        "totalPoints": 989,
+        "totalPoints": 1007,
         "results": [
+          {
+            "name": "Giro d'Italia Women - S6Stage 6 - Bellaria-Igea Marina › Terre Roveresche",
+            "date": "11 Jul 2025",
+            "points": 18,
+            "rank": 6
+          },
           {
             "name": "Tour of Britain Women - General classificationGeneral classification",
             "date": "8 Jun 2025",

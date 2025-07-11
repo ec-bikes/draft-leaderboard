@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 July 2025 23:25 GMT",
+  "fetchedDate": "11 July 2025 23:25 GMT",
   "momentId": 192070,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 7741.14,
+    "totalPoints": 8021.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "team": "TVL",
         "country": "dk",
-        "totalPoints": 1143.57,
+        "totalPoints": 1293.57,
         "results": [
+          {
+            "name": "Tour de France - S7Stage 7 - Saint-Malo › Mûr-de-Bretagne",
+            "date": "11 Jul 2025",
+            "points": 150,
+            "rank": 2
+          },
           {
             "name": "Tour de France - S6Stage 6 - Bayeux › Vire Normandie",
             "date": "10 Jul 2025",
@@ -111,8 +117,14 @@
         "id": 365033,
         "team": "LTK",
         "country": "dk",
-        "totalPoints": 1134.57,
+        "totalPoints": 1154.57,
         "results": [
+          {
+            "name": "Tour de France - S7Stage 7 - Saint-Malo › Mûr-de-Bretagne",
+            "date": "11 Jul 2025",
+            "points": 20,
+            "rank": 12
+          },
           {
             "name": "Tour de France - S4Stage 4 - Amiens Métropole › Rouen",
             "date": "8 Jul 2025",
@@ -291,8 +303,14 @@
         "id": 1710249,
         "team": "TPP",
         "country": "gb",
-        "totalPoints": 1467,
+        "totalPoints": 1577,
         "results": [
+          {
+            "name": "Tour de France - S7Stage 7 - Saint-Malo › Mûr-de-Bretagne",
+            "date": "11 Jul 2025",
+            "points": 110,
+            "rank": 3
+          },
           {
             "name": "Tour de France - S6Stage 6 - Bayeux › Vire Normandie",
             "date": "10 Jul 2025",

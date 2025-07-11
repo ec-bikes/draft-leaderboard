@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 July 2025 23:25 GMT",
+  "fetchedDate": "11 July 2025 23:25 GMT",
   "momentId": 192070,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 9379.25,
+    "totalPoints": 9434.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 1768,
+        "totalPoints": 1823,
         "results": [
+          {
+            "name": "Tour de France - S7Stage 7 - Saint-Malo › Mûr-de-Bretagne",
+            "date": "11 Jul 2025",
+            "points": 55,
+            "rank": 6
+          },
           {
             "name": "Tour de France - S6Stage 6 - Bayeux › Vire Normandie",
             "date": "10 Jul 2025",

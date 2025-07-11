@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 July 2025 23:25 GMT",
+  "fetchedDate": "11 July 2025 23:25 GMT",
   "momentId": 192070,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 8552.28,
+    "totalPoints": 8687.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -390,8 +390,14 @@
         "id": 1745291,
         "team": "ARK",
         "country": "fr",
-        "totalPoints": 1819,
+        "totalPoints": 1864,
         "results": [
+          {
+            "name": "Tour de France - S7Stage 7 - Saint-Malo › Mûr-de-Bretagne",
+            "date": "11 Jul 2025",
+            "points": 45,
+            "rank": 7
+          },
           {
             "name": "Tour de France - S6Stage 6 - Bayeux › Vire Normandie",
             "date": "10 Jul 2025",
@@ -779,8 +785,14 @@
         "id": 150925,
         "team": "DAT",
         "country": "at",
-        "totalPoints": 621.43,
+        "totalPoints": 711.43,
         "results": [
+          {
+            "name": "Tour de France - S7Stage 7 - Saint-Malo › Mûr-de-Bretagne",
+            "date": "11 Jul 2025",
+            "points": 90,
+            "rank": 4
+          },
           {
             "name": "Tour de Suisse - General classificationGeneral classification",
             "date": "22 Jun 2025",
