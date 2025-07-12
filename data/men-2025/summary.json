@@ -1,20 +1,20 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 July 2025 23:25 GMT",
+  "fetchedDate": "12 July 2025 23:26 GMT",
   "momentId": 192070,
   "teams": [
     {
       "owner": "Kit Nicholson",
       "name": "Picnic-Letterboxd",
-      "totalPoints": 12052,
+      "totalPoints": 12187,
       "riders": [
         {
           "name": "Tadej Pogačar",
           "id": 149727,
           "team": "UAD",
           "country": "si",
-          "totalPoints": 5955
+          "totalPoints": 5980
         },
         {
           "name": "Thibau Nys",
@@ -49,7 +49,7 @@
           "id": 111683,
           "team": "ADC",
           "country": "au",
-          "totalPoints": 1020
+          "totalPoints": 1130
         },
         {
           "name": "Richard Carapaz",
@@ -236,7 +236,7 @@
           "totalPoints": 398
         }
       ],
-      "movement": 0
+      "movement": -1
     },
     {
       "owner": "Dane Cash",
@@ -319,14 +319,14 @@
     {
       "owner": "Abby Mickey",
       "name": "EF Education-Swift Nation",
-      "totalPoints": 7513.29,
+      "totalPoints": 7663.29,
       "riders": [
         {
           "name": "Wout van Aert",
           "id": 75859,
           "team": "TVL",
           "country": "be",
-          "totalPoints": 2202
+          "totalPoints": 2352
         },
         {
           "name": "Biniam Girmay",
@@ -397,7 +397,7 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 10453.42,
+      "totalPoints": 10508.42,
       "riders": [
         {
           "name": "Mathieu van der Poel",
@@ -446,7 +446,7 @@
           "id": 482927,
           "team": "TPP",
           "country": "dk",
-          "totalPoints": 776
+          "totalPoints": 831
         },
         {
           "name": "Diego Ulissi",
@@ -475,7 +475,7 @@
     {
       "owner": "Caley Fretz",
       "name": "US Postal Service Bald Eagles",
-      "totalPoints": 9226.46,
+      "totalPoints": 9453.46,
       "riders": [
         {
           "name": "Matteo Jorgenson",
@@ -489,7 +489,7 @@
           "id": 301151,
           "team": "LTK",
           "country": "it",
-          "totalPoints": 1208.86
+          "totalPoints": 1418.86
         },
         {
           "name": "Sepp Kuss",
@@ -510,7 +510,7 @@
           "id": 2002910,
           "team": "UAD",
           "country": "mx",
-          "totalPoints": 2562
+          "totalPoints": 2579
         },
         {
           "name": "Daniel Martínez",
@@ -548,7 +548,7 @@
           "totalPoints": 18
         }
       ],
-      "movement": 0
+      "movement": 1
     },
     {
       "owner": "Andrew (member)",

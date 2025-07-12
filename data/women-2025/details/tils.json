@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 July 2025 23:25 GMT",
+  "fetchedDate": "12 July 2025 23:26 GMT",
   "momentId": 192088,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 8738.14,
+    "totalPoints": 8769.14,
     "riders": [
       {
         "name": "Liane Lippert",
@@ -142,8 +142,14 @@
         "id": 59726,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 1038.71,
+        "totalPoints": 1044.71,
         "results": [
+          {
+            "name": "Giro d'Italia Women - S7Stage 7 - Fermignano › Monte Nerone",
+            "date": "12 Jul 2025",
+            "points": 6,
+            "rank": 10
+          },
           {
             "name": "Giro d'Italia Women - S5Stage 5 - Mirano › Monselice",
             "date": "10 Jul 2025",
@@ -235,8 +241,14 @@
         "id": 1589305,
         "team": "MOV",
         "country": "ch",
-        "totalPoints": 2257.14,
+        "totalPoints": 2282.14,
         "results": [
+          {
+            "name": "Giro d'Italia Women - S7Stage 7 - Fermignano › Monte Nerone",
+            "date": "12 Jul 2025",
+            "points": 25,
+            "rank": 4
+          },
           {
             "name": "Giro d'Italia Women - S6Stage 6 - Bellaria-Igea Marina › Terre Roveresche - Bonus",
             "date": "11 Jul 2025",

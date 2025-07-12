@@ -1,20 +1,25 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 July 2025 23:25 GMT",
+  "fetchedDate": "12 July 2025 23:26 GMT",
   "momentId": 192070,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 12052,
+    "totalPoints": 12187,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "team": "UAD",
         "country": "si",
-        "totalPoints": 5955,
+        "totalPoints": 5980,
         "results": [
+          {
+            "name": "Tour de France - S8Stage 8 - Saint-Méen-le-Grand › Laval - Bonus",
+            "date": "12 Jul 2025",
+            "points": 25
+          },
           {
             "name": "Tour de France - S7Stage 7 - Saint-Malo › Mûr-de-Bretagne",
             "date": "11 Jul 2025",
@@ -457,8 +462,14 @@
         "id": 111683,
         "team": "ADC",
         "country": "au",
-        "totalPoints": 1020,
+        "totalPoints": 1130,
         "results": [
+          {
+            "name": "Tour de France - S8Stage 8 - Saint-Méen-le-Grand › Laval",
+            "date": "12 Jul 2025",
+            "points": 110,
+            "rank": 3
+          },
           {
             "name": "Tour de France - S3Stage 3 - Valenciennes › Dunkerque",
             "date": "7 Jul 2025",

@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 July 2025 23:25 GMT",
+  "fetchedDate": "12 July 2025 23:26 GMT",
   "momentId": 192088,
   "teams": [
     {
@@ -85,14 +85,14 @@
     {
       "owner": "Abby Mickey",
       "name": "The Tortured Breakaway Department",
-      "totalPoints": 7832.71,
+      "totalPoints": 7880.71,
       "riders": [
         {
           "name": "Elisa Longo Borghini",
           "id": 76149,
           "team": "UAD",
           "country": "it",
-          "totalPoints": 1974
+          "totalPoints": 2022
         },
         {
           "name": "Marianne Vos",
@@ -241,7 +241,7 @@
     {
       "owner": "Tilda Price",
       "name": "Santa Cruz-Shimano",
-      "totalPoints": 9204.72,
+      "totalPoints": 9222.72,
       "riders": [
         {
           "name": "Lorena Wiebes",
@@ -255,7 +255,7 @@
           "id": 109412,
           "team": "TFS",
           "country": "fr",
-          "totalPoints": 506.57
+          "totalPoints": 514.57
         },
         {
           "name": "Puck Pieterse",
@@ -276,7 +276,7 @@
           "id": 79690,
           "team": "FDC",
           "country": "nl",
-          "totalPoints": 242
+          "totalPoints": 252
         },
         {
           "name": "Marion Bunel",
@@ -319,7 +319,7 @@
     {
       "owner": "Georgie Howe",
       "name": "Specialized-Win-Collective Racing",
-      "totalPoints": 6508.85,
+      "totalPoints": 6528.85,
       "riders": [
         {
           "name": "Kasia Niewiadoma",
@@ -340,7 +340,7 @@
           "id": 2188959,
           "team": "CSZ",
           "country": "de",
-          "totalPoints": 462
+          "totalPoints": 482
         },
         {
           "name": "Thalita de Jong",
@@ -397,7 +397,7 @@
     {
       "owner": "Tils Raynolds",
       "name": "The Suffragettes Collective",
-      "totalPoints": 8738.14,
+      "totalPoints": 8769.14,
       "riders": [
         {
           "name": "Liane Lippert",
@@ -411,14 +411,14 @@
           "id": 59726,
           "team": "SDW",
           "country": "nl",
-          "totalPoints": 1038.71
+          "totalPoints": 1044.71
         },
         {
           "name": "Marlen Reusser",
           "id": 1589305,
           "team": "MOV",
           "country": "ch",
-          "totalPoints": 2257.14
+          "totalPoints": 2282.14
         },
         {
           "name": "Ally Wollaston",

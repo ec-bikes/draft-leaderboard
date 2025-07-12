@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 July 2025 23:25 GMT",
+  "fetchedDate": "12 July 2025 23:26 GMT",
   "momentId": 192070,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 10453.42,
+    "totalPoints": 10508.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -711,8 +711,14 @@
         "id": 482927,
         "team": "TPP",
         "country": "dk",
-        "totalPoints": 776,
+        "totalPoints": 831,
         "results": [
+          {
+            "name": "Tour de France - S8Stage 8 - Saint-Méen-le-Grand › Laval",
+            "date": "12 Jul 2025",
+            "points": 55,
+            "rank": 6
+          },
           {
             "name": "Tour de France - S3Stage 3 - Valenciennes › Dunkerque",
             "date": "7 Jul 2025",

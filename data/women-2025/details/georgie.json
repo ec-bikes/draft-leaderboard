@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 July 2025 23:25 GMT",
+  "fetchedDate": "12 July 2025 23:26 GMT",
   "momentId": 192088,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 6508.85,
+    "totalPoints": 6528.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -217,8 +217,14 @@
         "id": 2188959,
         "team": "CSZ",
         "country": "de",
-        "totalPoints": 462,
+        "totalPoints": 482,
         "results": [
+          {
+            "name": "Giro d'Italia Women - S7Stage 7 - Fermignano › Monte Nerone",
+            "date": "12 Jul 2025",
+            "points": 20,
+            "rank": 5
+          },
           {
             "name": "Giro d'Italia Women - S4Stage 4 - Castello Tesino › Pianezze",
             "date": "9 Jul 2025",

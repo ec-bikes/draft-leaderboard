@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 July 2025 23:25 GMT",
+  "fetchedDate": "12 July 2025 23:26 GMT",
   "momentId": 192088,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 9204.72,
+    "totalPoints": 9222.72,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -169,8 +169,14 @@
         "id": 109412,
         "team": "TFS",
         "country": "fr",
-        "totalPoints": 506.57,
+        "totalPoints": 514.57,
         "results": [
+          {
+            "name": "Giro d'Italia Women - S7Stage 7 - Fermignano › Monte Nerone",
+            "date": "12 Jul 2025",
+            "points": 8,
+            "rank": 9
+          },
           {
             "name": "Durango Durango Emakumeen Saria",
             "date": "20 May 2025",
@@ -441,8 +447,14 @@
         "id": 79690,
         "team": "FDC",
         "country": "nl",
-        "totalPoints": 242,
+        "totalPoints": 252,
         "results": [
+          {
+            "name": "Giro d'Italia Women - S7Stage 7 - Fermignano › Monte Nerone",
+            "date": "12 Jul 2025",
+            "points": 10,
+            "rank": 8
+          },
           {
             "name": "Giro d'Italia Women - S6Stage 6 - Bellaria-Igea Marina › Terre Roveresche",
             "date": "11 Jul 2025",
