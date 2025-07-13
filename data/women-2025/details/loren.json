@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 July 2025 23:26 GMT",
+  "fetchedDate": "13 July 2025 23:26 GMT",
   "momentId": 192088,
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women’s Cycling Team",
-    "totalPoints": 6754.58,
+    "totalPoints": 6836.58,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -106,8 +106,14 @@
         "id": 86838,
         "team": "CSZ",
         "country": "dk",
-        "totalPoints": 221,
+        "totalPoints": 245,
         "results": [
+          {
+            "name": "Giro d'Italia Women - General classificationGeneral classification",
+            "date": "13 Jul 2025",
+            "points": 24,
+            "rank": 17
+          },
           {
             "name": "Tour of Britain Women - General classificationGeneral classification",
             "date": "8 Jun 2025",
@@ -347,8 +353,20 @@
         "id": 231378,
         "team": "LIV",
         "country": "nl",
-        "totalPoints": 758,
+        "totalPoints": 800,
         "results": [
+          {
+            "name": "Giro d'Italia Women - General classificationGeneral classification",
+            "date": "13 Jul 2025",
+            "points": 32,
+            "rank": 14
+          },
+          {
+            "name": "Giro d'Italia Women - S8Stage 8 - Forlì › Imola",
+            "date": "13 Jul 2025",
+            "points": 10,
+            "rank": 8
+          },
           {
             "name": "Giro d'Italia Women - S6Stage 6 - Bellaria-Igea Marina › Terre Roveresche",
             "date": "11 Jul 2025",
@@ -449,8 +467,14 @@
         "id": 2096868,
         "team": "AGS",
         "country": "be",
-        "totalPoints": 50,
+        "totalPoints": 66,
         "results": [
+          {
+            "name": "Giro d'Italia Women - General classificationGeneral classification",
+            "date": "13 Jul 2025",
+            "points": 16,
+            "rank": 22
+          },
           {
             "name": "Giro d'Italia Women - S4Stage 4 - Castello Tesino › Pianezze",
             "date": "9 Jul 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 July 2025 23:26 GMT",
+  "fetchedDate": "13 July 2025 23:26 GMT",
   "momentId": 192070,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 7663.29,
+    "totalPoints": 7721.29,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -118,8 +118,14 @@
         "id": 1707195,
         "team": "IWA",
         "country": "er",
-        "totalPoints": 980,
+        "totalPoints": 1035,
         "results": [
+          {
+            "name": "Tour de France - S9Stage 9 - Chinon › Châteauroux",
+            "date": "13 Jul 2025",
+            "points": 55,
+            "rank": 6
+          },
           {
             "name": "Tour de France - S3Stage 3 - Valenciennes › Dunkerque",
             "date": "7 Jul 2025",
@@ -781,8 +787,14 @@
         "id": 71677,
         "team": "LTK",
         "country": "at",
-        "totalPoints": 250,
+        "totalPoints": 253,
         "results": [
+          {
+            "name": "Tour of Austria - General classificationGeneral classification",
+            "date": "13 Jul 2025",
+            "points": 3,
+            "rank": 23
+          },
           {
             "name": "National Championships Austria ME - Road Race",
             "date": "29 Jun 2025",

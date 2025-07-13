@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 July 2025 23:26 GMT",
+  "fetchedDate": "13 July 2025 23:26 GMT",
   "momentId": 192088,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 6528.85,
+    "totalPoints": 6764.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -136,8 +136,14 @@
         "id": 107539,
         "team": "UAD",
         "country": "it",
-        "totalPoints": 811,
+        "totalPoints": 827,
         "results": [
+          {
+            "name": "Giro d'Italia Women - General classificationGeneral classification",
+            "date": "13 Jul 2025",
+            "points": 16,
+            "rank": 28
+          },
           {
             "name": "Giro d'Italia Women - S5Stage 5 - Mirano › Monselice",
             "date": "10 Jul 2025",
@@ -217,8 +223,20 @@
         "id": 2188959,
         "team": "CSZ",
         "country": "de",
-        "totalPoints": 482,
+        "totalPoints": 670,
         "results": [
+          {
+            "name": "Giro d'Italia Women - General classificationGeneral classification",
+            "date": "13 Jul 2025",
+            "points": 180,
+            "rank": 5
+          },
+          {
+            "name": "Giro d'Italia Women - S8Stage 8 - Forlì › Imola",
+            "date": "13 Jul 2025",
+            "points": 8,
+            "rank": 9
+          },
           {
             "name": "Giro d'Italia Women - S7Stage 7 - Fermignano › Monte Nerone",
             "date": "12 Jul 2025",
@@ -559,8 +577,14 @@
         "id": 97498,
         "team": "TFS",
         "country": "fr",
-        "totalPoints": 1256.57,
+        "totalPoints": 1272.57,
         "results": [
+          {
+            "name": "Giro d'Italia Women - General classificationGeneral classification",
+            "date": "13 Jul 2025",
+            "points": 16,
+            "rank": 29
+          },
           {
             "name": "Giro d'Italia Women - S6Stage 6 - Bellaria-Igea Marina › Terre Roveresche",
             "date": "11 Jul 2025",
@@ -709,8 +733,14 @@
         "id": 488553,
         "team": "CTC",
         "country": "ca",
-        "totalPoints": 1007,
+        "totalPoints": 1023,
         "results": [
+          {
+            "name": "Giro d'Italia Women - General classificationGeneral classification",
+            "date": "13 Jul 2025",
+            "points": 16,
+            "rank": 21
+          },
           {
             "name": "Giro d'Italia Women - S6Stage 6 - Bellaria-Igea Marina › Terre Roveresche",
             "date": "11 Jul 2025",

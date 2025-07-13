@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 July 2025 23:26 GMT",
+  "fetchedDate": "13 July 2025 23:26 GMT",
   "momentId": 192070,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 9434.25,
+    "totalPoints": 9644.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -158,8 +158,14 @@
         "id": 70962,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 1431.29,
+        "totalPoints": 1641.29,
         "results": [
+          {
+            "name": "Tour de France - S9Stage 9 - Chinon › Châteauroux",
+            "date": "13 Jul 2025",
+            "points": 210,
+            "rank": 1
+          },
           {
             "name": "Tour de France - S3Stage 3 - Valenciennes › Dunkerque",
             "date": "7 Jul 2025",

@@ -1,20 +1,32 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 July 2025 23:26 GMT",
+  "fetchedDate": "13 July 2025 23:26 GMT",
   "momentId": 192088,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 7880.71,
+    "totalPoints": 8366.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
         "id": 76149,
         "team": "UAD",
         "country": "it",
-        "totalPoints": 2022,
+        "totalPoints": 2447,
         "results": [
+          {
+            "name": "Giro d'Italia Women - General classificationGeneral classification",
+            "date": "13 Jul 2025",
+            "points": 400,
+            "rank": 1
+          },
+          {
+            "name": "Giro d'Italia Women - S8Stage 8 - Forlì › Imola",
+            "date": "13 Jul 2025",
+            "points": 25,
+            "rank": 4
+          },
           {
             "name": "Giro d'Italia Women - S7Stage 7 - Fermignano › Monte Nerone",
             "date": "12 Jul 2025",
@@ -696,8 +708,14 @@
         "id": 228375,
         "team": "LTK",
         "country": "nl",
-        "totalPoints": 151.14,
+        "totalPoints": 207.14,
         "results": [
+          {
+            "name": "Giro d'Italia Women - General classificationGeneral classification",
+            "date": "13 Jul 2025",
+            "points": 56,
+            "rank": 11
+          },
           {
             "name": "Giro d'Italia Women - S6Stage 6 - Bellaria-Igea Marina › Terre Roveresche",
             "date": "11 Jul 2025",
@@ -828,8 +846,14 @@
         "id": 233425,
         "team": "VWT",
         "country": "nl",
-        "totalPoints": 314,
+        "totalPoints": 319,
         "results": [
+          {
+            "name": "Grote Prijs CHW Beveren",
+            "date": "13 Jul 2025",
+            "points": 5,
+            "rank": 7
+          },
           {
             "name": "Argenta Classic - Deurne",
             "date": "6 Jul 2025",

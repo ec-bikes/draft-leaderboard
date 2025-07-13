@@ -1,20 +1,32 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 July 2025 23:26 GMT",
+  "fetchedDate": "13 July 2025 23:26 GMT",
   "momentId": 192088,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 8769.14,
+    "totalPoints": 9365.14,
     "riders": [
       {
         "name": "Liane Lippert",
         "id": 140495,
         "team": "MOV",
         "country": "de",
-        "totalPoints": 941.14,
+        "totalPoints": 1007.14,
         "results": [
+          {
+            "name": "Giro d'Italia Women - General classificationGeneral classification",
+            "date": "13 Jul 2025",
+            "points": 16,
+            "rank": 30
+          },
+          {
+            "name": "Giro d'Italia Women - S8Stage 8 - Forlì › Imola",
+            "date": "13 Jul 2025",
+            "points": 50,
+            "rank": 1
+          },
           {
             "name": "Giro d'Italia Women - S6Stage 6 - Bellaria-Igea Marina › Terre Roveresche",
             "date": "11 Jul 2025",
@@ -142,8 +154,20 @@
         "id": 59726,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 1044.71,
+        "totalPoints": 1224.71,
         "results": [
+          {
+            "name": "Giro d'Italia Women - General classificationGeneral classification",
+            "date": "13 Jul 2025",
+            "points": 140,
+            "rank": 6
+          },
+          {
+            "name": "Giro d'Italia Women - S8Stage 8 - Forlì › Imola",
+            "date": "13 Jul 2025",
+            "points": 40,
+            "rank": 2
+          },
           {
             "name": "Giro d'Italia Women - S7Stage 7 - Fermignano › Monte Nerone",
             "date": "12 Jul 2025",
@@ -241,8 +265,20 @@
         "id": 1589305,
         "team": "MOV",
         "country": "ch",
-        "totalPoints": 2282.14,
+        "totalPoints": 2632.14,
         "results": [
+          {
+            "name": "Giro d'Italia Women - General classificationGeneral classification",
+            "date": "13 Jul 2025",
+            "points": 320,
+            "rank": 2
+          },
+          {
+            "name": "Giro d'Italia Women - S8Stage 8 - Forlì › Imola",
+            "date": "13 Jul 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Giro d'Italia Women - S7Stage 7 - Fermignano › Monte Nerone",
             "date": "12 Jul 2025",

@@ -1,20 +1,25 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 July 2025 23:26 GMT",
+  "fetchedDate": "13 July 2025 23:26 GMT",
   "momentId": 192070,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 12187,
+    "totalPoints": 12282,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "team": "UAD",
         "country": "si",
-        "totalPoints": 5980,
+        "totalPoints": 6005,
         "results": [
+          {
+            "name": "Tour de France - S9Stage 9 - Chinon › Châteauroux - Bonus",
+            "date": "13 Jul 2025",
+            "points": 25
+          },
           {
             "name": "Tour de France - S8Stage 8 - Saint-Méen-le-Grand › Laval - Bonus",
             "date": "12 Jul 2025",
@@ -393,8 +398,14 @@
         "id": 148901,
         "team": "RBH",
         "country": "be",
-        "totalPoints": 570,
+        "totalPoints": 610,
         "results": [
+          {
+            "name": "Tour de France - S9Stage 9 - Chinon › Châteauroux",
+            "date": "13 Jul 2025",
+            "points": 40,
+            "rank": 8
+          },
           {
             "name": "Copenhagen Sprint",
             "date": "22 Jun 2025",
@@ -462,8 +473,14 @@
         "id": 111683,
         "team": "ADC",
         "country": "au",
-        "totalPoints": 1130,
+        "totalPoints": 1160,
         "results": [
+          {
+            "name": "Tour de France - S9Stage 9 - Chinon › Châteauroux",
+            "date": "13 Jul 2025",
+            "points": 30,
+            "rank": 10
+          },
           {
             "name": "Tour de France - S8Stage 8 - Saint-Méen-le-Grand › Laval",
             "date": "12 Jul 2025",
