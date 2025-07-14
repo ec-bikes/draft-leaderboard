@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "13 July 2025 23:26 GMT",
+  "fetchedDate": "14 July 2025 23:24 GMT",
   "momentId": 192070,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 6733.38,
+    "totalPoints": 6868.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -162,8 +162,19 @@
         "id": 235075,
         "team": "EFE",
         "country": "ie",
-        "totalPoints": 1354,
+        "totalPoints": 1489,
         "results": [
+          {
+            "name": "Tour de France - S10Stage 10 - Ennezat › Le Mont-Dore Puy de Sancy",
+            "date": "14 Jul 2025",
+            "points": 110,
+            "rank": 3
+          },
+          {
+            "name": "Tour de France - S10Stage 10 - Ennezat › Le Mont-Dore Puy de Sancy - Bonus",
+            "date": "14 Jul 2025",
+            "points": 25
+          },
           {
             "name": "Tour de France - S6Stage 6 - Bayeux › Vire Normandie",
             "date": "10 Jul 2025",
