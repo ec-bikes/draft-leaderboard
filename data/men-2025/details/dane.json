@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 July 2025 23:25 GMT",
+  "fetchedDate": "16 July 2025 23:26 GMT",
   "momentId": 192234,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 10901.57,
+    "totalPoints": 10911.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -789,8 +789,14 @@
         "id": 1759422,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 1220,
+        "totalPoints": 1230,
         "results": [
+          {
+            "name": "Tour de France - S11Stage 11 - Toulouse › Toulouse",
+            "date": "16 Jul 2025",
+            "points": 10,
+            "rank": 14
+          },
           {
             "name": "Tour de France - S7Stage 7 - Saint-Malo › Mûr-de-Bretagne",
             "date": "11 Jul 2025",

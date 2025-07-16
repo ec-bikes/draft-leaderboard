@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 July 2025 23:25 GMT",
+  "fetchedDate": "16 July 2025 23:26 GMT",
   "momentId": 192234,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 12317,
+    "totalPoints": 12342,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -479,8 +479,14 @@
         "id": 111683,
         "team": "ADC",
         "country": "au",
-        "totalPoints": 1160,
+        "totalPoints": 1185,
         "results": [
+          {
+            "name": "Tour de France - S11Stage 11 - Toulouse › Toulouse",
+            "date": "16 Jul 2025",
+            "points": 25,
+            "rank": 11
+          },
           {
             "name": "Tour de France - S9Stage 9 - Chinon › Châteauroux",
             "date": "13 Jul 2025",

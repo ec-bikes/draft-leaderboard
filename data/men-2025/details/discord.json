@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 July 2025 23:25 GMT",
+  "fetchedDate": "16 July 2025 23:26 GMT",
   "momentId": 192234,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 6868.38,
+    "totalPoints": 7043.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -162,8 +162,13 @@
         "id": 235075,
         "team": "EFE",
         "country": "ie",
-        "totalPoints": 1489,
+        "totalPoints": 1514,
         "results": [
+          {
+            "name": "Tour de France - S11Stage 11 - Toulouse › Toulouse - Bonus",
+            "date": "16 Jul 2025",
+            "points": 25
+          },
           {
             "name": "Tour de France - S10Stage 10 - Ennezat › Le Mont-Dore Puy de Sancy",
             "date": "14 Jul 2025",
@@ -640,8 +645,14 @@
         "id": 109483,
         "team": "JAY",
         "country": "ch",
-        "totalPoints": 754.67,
+        "totalPoints": 904.67,
         "results": [
+          {
+            "name": "Tour de France - S11Stage 11 - Toulouse › Toulouse",
+            "date": "16 Jul 2025",
+            "points": 150,
+            "rank": 2
+          },
           {
             "name": "National Championships Switzerland ME - Road Race",
             "date": "29 Jun 2025",

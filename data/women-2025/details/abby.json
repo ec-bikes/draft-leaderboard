@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 July 2025 23:24 GMT",
+  "fetchedDate": "16 July 2025 23:26 GMT",
   "momentId": 192252,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 8366.71,
+    "totalPoints": 8374.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -449,8 +449,14 @@
         "id": 157612,
         "team": "TPP",
         "country": "nl",
-        "totalPoints": 810,
+        "totalPoints": 818,
         "results": [
+          {
+            "name": "Baloise Ladies Tour - Prologue",
+            "date": "16 Jul 2025",
+            "points": 8,
+            "rank": 3
+          },
           {
             "name": "National Championships Netherlands WE - Road Race",
             "date": "28 Jun 2025",

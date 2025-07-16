@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 July 2025 23:25 GMT",
+  "fetchedDate": "16 July 2025 23:26 GMT",
   "momentId": 192234,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 7871.29,
+    "totalPoints": 7941.29,
     "riders": [
       {
         "name": "Wout van Aert",
         "id": 75859,
         "team": "TVL",
         "country": "be",
-        "totalPoints": 2352,
+        "totalPoints": 2422,
         "results": [
+          {
+            "name": "Tour de France - S11Stage 11 - Toulouse › Toulouse",
+            "date": "16 Jul 2025",
+            "points": 70,
+            "rank": 5
+          },
           {
             "name": "Tour de France - S8Stage 8 - Saint-Méen-le-Grand › Laval",
             "date": "12 Jul 2025",

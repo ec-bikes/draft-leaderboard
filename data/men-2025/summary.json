@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 July 2025 23:25 GMT",
+  "fetchedDate": "16 July 2025 23:26 GMT",
   "momentId": 192234,
   "teams": [
     {
       "owner": "Kit Nicholson",
       "name": "Picnic-Letterboxd",
-      "totalPoints": 12317,
+      "totalPoints": 12342,
       "riders": [
         {
           "name": "Tadej Pogačar",
@@ -49,7 +49,7 @@
           "id": 111683,
           "team": "ADC",
           "country": "au",
-          "totalPoints": 1160
+          "totalPoints": 1185
         },
         {
           "name": "Richard Carapaz",
@@ -241,7 +241,7 @@
     {
       "owner": "Dane Cash",
       "name": "Visma-Lease a Bike-Monster Energy",
-      "totalPoints": 10901.57,
+      "totalPoints": 10911.57,
       "riders": [
         {
           "name": "Jasper Philipsen",
@@ -304,7 +304,7 @@
           "id": 1759422,
           "team": "GFC",
           "country": "fr",
-          "totalPoints": 1220
+          "totalPoints": 1230
         },
         {
           "name": "Stefan Küng",
@@ -319,14 +319,14 @@
     {
       "owner": "Abby Mickey",
       "name": "EF Education-Swift Nation",
-      "totalPoints": 7871.29,
+      "totalPoints": 7941.29,
       "riders": [
         {
           "name": "Wout van Aert",
           "id": 75859,
           "team": "TVL",
           "country": "be",
-          "totalPoints": 2352
+          "totalPoints": 2422
         },
         {
           "name": "Biniam Girmay",
@@ -397,14 +397,14 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 10508.42,
+      "totalPoints": 10618.42,
       "riders": [
         {
           "name": "Mathieu van der Poel",
           "id": 79462,
           "team": "ADC",
           "country": "nl",
-          "totalPoints": 3328
+          "totalPoints": 3438
         },
         {
           "name": "Mads Pedersen",
@@ -631,7 +631,7 @@
     {
       "owner": "Discord Undrafted",
       "name": "Team Movistar easyJet",
-      "totalPoints": 6868.38,
+      "totalPoints": 7043.38,
       "riders": [
         {
           "name": "Dylan Groenewegen",
@@ -652,7 +652,7 @@
           "id": 235075,
           "team": "EFE",
           "country": "ie",
-          "totalPoints": 1489
+          "totalPoints": 1514
         },
         {
           "name": "Javier Romo",
@@ -687,7 +687,7 @@
           "id": 109483,
           "team": "JAY",
           "country": "ch",
-          "totalPoints": 754.67
+          "totalPoints": 904.67
         },
         {
           "name": "Jai Hindley",
