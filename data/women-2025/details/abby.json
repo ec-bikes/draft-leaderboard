@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 July 2025 23:26 GMT",
+  "fetchedDate": "17 July 2025 23:26 GMT",
   "momentId": 192252,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 8374.71,
+    "totalPoints": 8408.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -449,8 +449,19 @@
         "id": 157612,
         "team": "TPP",
         "country": "nl",
-        "totalPoints": 818,
+        "totalPoints": 837,
         "results": [
+          {
+            "name": "Baloise Ladies Tour - S1Stage 1 - Jabbeke › Knokke-Heist",
+            "date": "17 Jul 2025",
+            "points": 16,
+            "rank": 1
+          },
+          {
+            "name": "Baloise Ladies Tour - S1Stage 1 - Jabbeke › Knokke-Heist - Bonus",
+            "date": "17 Jul 2025",
+            "points": 3
+          },
           {
             "name": "Baloise Ladies Tour - Prologue",
             "date": "16 Jul 2025",
@@ -651,8 +662,14 @@
         "id": 156600,
         "team": "CSZ",
         "country": "it",
-        "totalPoints": 1148,
+        "totalPoints": 1160,
         "results": [
+          {
+            "name": "Baloise Ladies Tour - S1Stage 1 - Jabbeke › Knokke-Heist",
+            "date": "17 Jul 2025",
+            "points": 12,
+            "rank": 2
+          },
           {
             "name": "Copenhagen Sprint",
             "date": "21 Jun 2025",
@@ -852,8 +869,14 @@
         "id": 233425,
         "team": "VWT",
         "country": "nl",
-        "totalPoints": 319,
+        "totalPoints": 322,
         "results": [
+          {
+            "name": "Baloise Ladies Tour - S1Stage 1 - Jabbeke › Knokke-Heist",
+            "date": "17 Jul 2025",
+            "points": 3,
+            "rank": 7
+          },
           {
             "name": "Grote Prijs CHW Beveren",
             "date": "13 Jul 2025",

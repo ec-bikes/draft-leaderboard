@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 July 2025 23:26 GMT",
+  "fetchedDate": "17 July 2025 23:26 GMT",
   "momentId": 192252,
   "teams": [
     {
       "owner": "Loren Rowney",
       "name": "Super Lekker Pro Potato Women’s Cycling Team",
-      "totalPoints": 6836.58,
+      "totalPoints": 6840.58,
       "riders": [
         {
           "name": "Lotte Kopecky",
@@ -70,7 +70,7 @@
           "id": 153287,
           "team": "LTK",
           "country": "fr",
-          "totalPoints": 719
+          "totalPoints": 723
         },
         {
           "name": "Georgia Baker",
@@ -85,7 +85,7 @@
     {
       "owner": "Abby Mickey",
       "name": "The Tortured Breakaway Department",
-      "totalPoints": 8374.71,
+      "totalPoints": 8408.71,
       "riders": [
         {
           "name": "Elisa Longo Borghini",
@@ -120,7 +120,7 @@
           "id": 157612,
           "team": "TPP",
           "country": "nl",
-          "totalPoints": 818
+          "totalPoints": 837
         },
         {
           "name": "Anna Henderson",
@@ -134,7 +134,7 @@
           "id": 156600,
           "team": "CSZ",
           "country": "it",
-          "totalPoints": 1148
+          "totalPoints": 1160
         },
         {
           "name": "Shirin van Anrooij",
@@ -155,7 +155,7 @@
           "id": 233425,
           "team": "VWT",
           "country": "nl",
-          "totalPoints": 319
+          "totalPoints": 322
         }
       ],
       "movement": 0

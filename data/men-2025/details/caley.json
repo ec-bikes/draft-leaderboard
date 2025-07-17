@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 July 2025 23:26 GMT",
+  "fetchedDate": "17 July 2025 23:26 GMT",
   "momentId": 192234,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 9748.46,
+    "totalPoints": 9753.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
         "id": 159567,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 1408.57,
+        "totalPoints": 1413.57,
         "results": [
+          {
+            "name": "Tour de France - S12Stage 12 - Auch › Hautacam",
+            "date": "17 Jul 2025",
+            "points": 5,
+            "rank": 15
+          },
           {
             "name": "Tour de France - S10Stage 10 - Ennezat › Le Mont-Dore Puy de Sancy",
             "date": "14 Jul 2025",

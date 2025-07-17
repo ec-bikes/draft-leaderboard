@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 July 2025 23:26 GMT",
+  "fetchedDate": "17 July 2025 23:26 GMT",
   "momentId": 192234,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 7043.38,
+    "totalPoints": 7058.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -443,8 +443,14 @@
         "id": 75170,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 647,
+        "totalPoints": 662,
         "results": [
+          {
+            "name": "Tour de France - S12Stage 12 - Auch › Hautacam",
+            "date": "17 Jul 2025",
+            "points": 15,
+            "rank": 13
+          },
           {
             "name": "Critérium du Dauphiné - General classificationGeneral classification",
             "date": "15 Jun 2025",

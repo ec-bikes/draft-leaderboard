@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 July 2025 23:26 GMT",
+  "fetchedDate": "17 July 2025 23:26 GMT",
   "momentId": 192234,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 8687.28,
+    "totalPoints": 8782.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -390,8 +390,14 @@
         "id": 1745291,
         "team": "ARK",
         "country": "fr",
-        "totalPoints": 1864,
+        "totalPoints": 1919,
         "results": [
+          {
+            "name": "Tour de France - S12Stage 12 - Auch › Hautacam",
+            "date": "17 Jul 2025",
+            "points": 55,
+            "rank": 6
+          },
           {
             "name": "Tour de France - S7Stage 7 - Saint-Malo › Mûr-de-Bretagne",
             "date": "11 Jul 2025",
@@ -785,8 +791,14 @@
         "id": 150925,
         "team": "DAT",
         "country": "at",
-        "totalPoints": 711.43,
+        "totalPoints": 751.43,
         "results": [
+          {
+            "name": "Tour de France - S12Stage 12 - Auch › Hautacam",
+            "date": "17 Jul 2025",
+            "points": 40,
+            "rank": 8
+          },
           {
             "name": "Tour de France - S7Stage 7 - Saint-Malo › Mûr-de-Bretagne",
             "date": "11 Jul 2025",

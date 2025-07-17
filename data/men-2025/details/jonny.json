@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 July 2025 23:26 GMT",
+  "fetchedDate": "17 July 2025 23:26 GMT",
   "momentId": 192234,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 8061.14,
+    "totalPoints": 8281.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "team": "TVL",
         "country": "dk",
-        "totalPoints": 1323.57,
+        "totalPoints": 1473.57,
         "results": [
+          {
+            "name": "Tour de France - S12Stage 12 - Auch › Hautacam",
+            "date": "17 Jul 2025",
+            "points": 150,
+            "rank": 2
+          },
           {
             "name": "Tour de France - S10Stage 10 - Ennezat › Le Mont-Dore Puy de Sancy",
             "date": "14 Jul 2025",
@@ -309,8 +315,14 @@
         "id": 1710249,
         "team": "TPP",
         "country": "gb",
-        "totalPoints": 1587,
+        "totalPoints": 1657,
         "results": [
+          {
+            "name": "Tour de France - S12Stage 12 - Auch › Hautacam",
+            "date": "17 Jul 2025",
+            "points": 70,
+            "rank": 5
+          },
           {
             "name": "Tour de France - S10Stage 10 - Ennezat › Le Mont-Dore Puy de Sancy",
             "date": "14 Jul 2025",

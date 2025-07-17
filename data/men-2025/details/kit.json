@@ -1,20 +1,31 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 July 2025 23:26 GMT",
+  "fetchedDate": "17 July 2025 23:26 GMT",
   "momentId": 192234,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 12342,
+    "totalPoints": 12577,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "team": "UAD",
         "country": "si",
-        "totalPoints": 6040,
+        "totalPoints": 6275,
         "results": [
+          {
+            "name": "Tour de France - S12Stage 12 - Auch › Hautacam",
+            "date": "17 Jul 2025",
+            "points": 210,
+            "rank": 1
+          },
+          {
+            "name": "Tour de France - S12Stage 12 - Auch › Hautacam - Bonus",
+            "date": "17 Jul 2025",
+            "points": 25
+          },
           {
             "name": "Tour de France - S10Stage 10 - Ennezat › Le Mont-Dore Puy de Sancy",
             "date": "14 Jul 2025",
