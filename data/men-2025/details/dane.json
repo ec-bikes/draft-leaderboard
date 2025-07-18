@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "17 July 2025 23:26 GMT",
+  "fetchedDate": "18 July 2025 23:25 GMT",
   "momentId": 192234,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 11056.57,
+    "totalPoints": 11271.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -117,8 +117,14 @@
         "id": 88889,
         "team": "RBH",
         "country": "si",
-        "totalPoints": 985,
+        "totalPoints": 1095,
         "results": [
+          {
+            "name": "Tour de France - S13 (ITT)Stage 13 (ITT) - Loudenvielle › Peyragudes",
+            "date": "18 Jul 2025",
+            "points": 110,
+            "rank": 3
+          },
           {
             "name": "Tour de France - S12Stage 12 - Auch › Hautacam",
             "date": "17 Jul 2025",
@@ -225,8 +231,14 @@
         "id": 428096,
         "team": "IGD",
         "country": "es",
-        "totalPoints": 390.43,
+        "totalPoints": 405.43,
         "results": [
+          {
+            "name": "Tour de France - S13 (ITT)Stage 13 (ITT) - Loudenvielle › Peyragudes",
+            "date": "18 Jul 2025",
+            "points": 15,
+            "rank": 13
+          },
           {
             "name": "Tour de France - S7Stage 7 - Saint-Malo › Mûr-de-Bretagne",
             "date": "11 Jul 2025",
@@ -672,8 +684,14 @@
         "id": 2097255,
         "team": "RBH",
         "country": "de",
-        "totalPoints": 1364,
+        "totalPoints": 1454,
         "results": [
+          {
+            "name": "Tour de France - S13 (ITT)Stage 13 (ITT) - Loudenvielle › Peyragudes",
+            "date": "18 Jul 2025",
+            "points": 90,
+            "rank": 4
+          },
           {
             "name": "Tour de France - S12Stage 12 - Auch › Hautacam",
             "date": "17 Jul 2025",

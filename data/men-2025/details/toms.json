@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "17 July 2025 23:26 GMT",
+  "fetchedDate": "18 July 2025 23:25 GMT",
   "momentId": 192234,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 9834.25,
+    "totalPoints": 9889.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 1883,
+        "totalPoints": 1903,
         "results": [
+          {
+            "name": "Tour de France - S13 (ITT)Stage 13 (ITT) - Loudenvielle › Peyragudes",
+            "date": "18 Jul 2025",
+            "points": 20,
+            "rank": 12
+          },
           {
             "name": "Tour de France - S12Stage 12 - Auch › Hautacam",
             "date": "17 Jul 2025",
@@ -627,8 +633,14 @@
         "id": 1843476,
         "team": "TBV",
         "country": "fr",
-        "totalPoints": 1318,
+        "totalPoints": 1353,
         "results": [
+          {
+            "name": "Tour de France - S13 (ITT)Stage 13 (ITT) - Loudenvielle › Peyragudes",
+            "date": "18 Jul 2025",
+            "points": 35,
+            "rank": 9
+          },
           {
             "name": "Tour de France - S10Stage 10 - Ennezat › Le Mont-Dore Puy de Sancy",
             "date": "14 Jul 2025",

@@ -1,20 +1,31 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "17 July 2025 23:26 GMT",
+  "fetchedDate": "18 July 2025 23:25 GMT",
   "momentId": 192234,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 12577,
+    "totalPoints": 12812,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "team": "UAD",
         "country": "si",
-        "totalPoints": 6275,
+        "totalPoints": 6510,
         "results": [
+          {
+            "name": "Tour de France - S13 (ITT)Stage 13 (ITT) - Loudenvielle › Peyragudes",
+            "date": "18 Jul 2025",
+            "points": 210,
+            "rank": 1
+          },
+          {
+            "name": "Tour de France - S13 (ITT)Stage 13 (ITT) - Loudenvielle › Peyragudes - Bonus",
+            "date": "18 Jul 2025",
+            "points": 25
+          },
           {
             "name": "Tour de France - S12Stage 12 - Auch › Hautacam",
             "date": "17 Jul 2025",

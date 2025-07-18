@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "17 July 2025 23:26 GMT",
+  "fetchedDate": "18 July 2025 23:25 GMT",
   "momentId": 192252,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 8408.71,
+    "totalPoints": 8420.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -449,8 +449,19 @@
         "id": 157612,
         "team": "TPP",
         "country": "nl",
-        "totalPoints": 837,
+        "totalPoints": 843,
         "results": [
+          {
+            "name": "Baloise Ladies Tour - S2Stage 2 - Olsene › Olsene",
+            "date": "18 Jul 2025",
+            "points": 3,
+            "rank": 7
+          },
+          {
+            "name": "Baloise Ladies Tour - S2Stage 2 - Olsene › Olsene - Bonus",
+            "date": "18 Jul 2025",
+            "points": 3
+          },
           {
             "name": "Baloise Ladies Tour - S1Stage 1 - Jabbeke › Knokke-Heist",
             "date": "17 Jul 2025",
@@ -662,8 +673,14 @@
         "id": 156600,
         "team": "CSZ",
         "country": "it",
-        "totalPoints": 1160,
+        "totalPoints": 1166,
         "results": [
+          {
+            "name": "Baloise Ladies Tour - S2Stage 2 - Olsene › Olsene",
+            "date": "18 Jul 2025",
+            "points": 6,
+            "rank": 4
+          },
           {
             "name": "Baloise Ladies Tour - S1Stage 1 - Jabbeke › Knokke-Heist",
             "date": "17 Jul 2025",

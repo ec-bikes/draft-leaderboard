@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "17 July 2025 23:26 GMT",
+  "fetchedDate": "18 July 2025 23:25 GMT",
   "momentId": 192234,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 8782.28,
+    "totalPoints": 8877.28,
     "riders": [
       {
         "name": "Adam Yates",
         "id": 70590,
         "team": "UAD",
         "country": "gb",
-        "totalPoints": 537,
+        "totalPoints": 577,
         "results": [
+          {
+            "name": "Tour de France - S13 (ITT)Stage 13 (ITT) - Loudenvielle › Peyragudes",
+            "date": "18 Jul 2025",
+            "points": 40,
+            "rank": 8
+          },
           {
             "name": "Giro d'Italia - General ClassificationGeneral Classification",
             "date": "1 Jun 2025",
@@ -390,8 +396,14 @@
         "id": 1745291,
         "team": "ARK",
         "country": "fr",
-        "totalPoints": 1919,
+        "totalPoints": 1944,
         "results": [
+          {
+            "name": "Tour de France - S13 (ITT)Stage 13 (ITT) - Loudenvielle › Peyragudes",
+            "date": "18 Jul 2025",
+            "points": 25,
+            "rank": 11
+          },
           {
             "name": "Tour de France - S12Stage 12 - Auch › Hautacam",
             "date": "17 Jul 2025",
@@ -791,8 +803,14 @@
         "id": 150925,
         "team": "DAT",
         "country": "at",
-        "totalPoints": 751.43,
+        "totalPoints": 781.43,
         "results": [
+          {
+            "name": "Tour de France - S13 (ITT)Stage 13 (ITT) - Loudenvielle › Peyragudes",
+            "date": "18 Jul 2025",
+            "points": 30,
+            "rank": 10
+          },
           {
             "name": "Tour de France - S12Stage 12 - Auch › Hautacam",
             "date": "17 Jul 2025",
