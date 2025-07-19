@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 July 2025 23:25 GMT",
+  "fetchedDate": "19 July 2025 23:27 GMT",
   "momentId": 192234,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 11271.57,
+    "totalPoints": 11406.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -117,8 +117,14 @@
         "id": 88889,
         "team": "RBH",
         "country": "si",
-        "totalPoints": 1095,
+        "totalPoints": 1135,
         "results": [
+          {
+            "name": "Tour de France - S14Stage 14 - Pau › Luchon-Superbagnères",
+            "date": "19 Jul 2025",
+            "points": 40,
+            "rank": 8
+          },
           {
             "name": "Tour de France - S13 (ITT)Stage 13 (ITT) - Loudenvielle › Peyragudes",
             "date": "18 Jul 2025",
@@ -231,8 +237,14 @@
         "id": 428096,
         "team": "IGD",
         "country": "es",
-        "totalPoints": 405.43,
+        "totalPoints": 430.43,
         "results": [
+          {
+            "name": "Tour de France - S14Stage 14 - Pau › Luchon-Superbagnères",
+            "date": "19 Jul 2025",
+            "points": 25,
+            "rank": 11
+          },
           {
             "name": "Tour de France - S13 (ITT)Stage 13 (ITT) - Loudenvielle › Peyragudes",
             "date": "18 Jul 2025",
@@ -684,8 +696,14 @@
         "id": 2097255,
         "team": "RBH",
         "country": "de",
-        "totalPoints": 1454,
+        "totalPoints": 1524,
         "results": [
+          {
+            "name": "Tour de France - S14Stage 14 - Pau › Luchon-Superbagnères",
+            "date": "19 Jul 2025",
+            "points": 70,
+            "rank": 5
+          },
           {
             "name": "Tour de France - S13 (ITT)Stage 13 (ITT) - Loudenvielle › Peyragudes",
             "date": "18 Jul 2025",

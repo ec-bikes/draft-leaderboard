@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 July 2025 23:25 GMT",
+  "fetchedDate": "19 July 2025 23:27 GMT",
   "momentId": 192234,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 8476.14,
+    "totalPoints": 8641.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "team": "TVL",
         "country": "dk",
-        "totalPoints": 1623.57,
+        "totalPoints": 1733.57,
         "results": [
+          {
+            "name": "Tour de France - S14Stage 14 - Pau › Luchon-Superbagnères",
+            "date": "19 Jul 2025",
+            "points": 110,
+            "rank": 3
+          },
           {
             "name": "Tour de France - S13 (ITT)Stage 13 (ITT) - Loudenvielle › Peyragudes",
             "date": "18 Jul 2025",
@@ -321,8 +327,14 @@
         "id": 1710249,
         "team": "TPP",
         "country": "gb",
-        "totalPoints": 1702,
+        "totalPoints": 1757,
         "results": [
+          {
+            "name": "Tour de France - S14Stage 14 - Pau › Luchon-Superbagnères",
+            "date": "19 Jul 2025",
+            "points": 55,
+            "rank": 6
+          },
           {
             "name": "Tour de France - S13 (ITT)Stage 13 (ITT) - Loudenvielle › Peyragudes",
             "date": "18 Jul 2025",

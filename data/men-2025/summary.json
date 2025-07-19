@@ -1,20 +1,20 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 July 2025 23:25 GMT",
+  "fetchedDate": "19 July 2025 23:27 GMT",
   "momentId": 192234,
   "teams": [
     {
       "owner": "Kit Nicholson",
       "name": "Picnic-Letterboxd",
-      "totalPoints": 12812,
+      "totalPoints": 12962,
       "riders": [
         {
           "name": "Tadej Pogačar",
           "id": 149727,
           "team": "UAD",
           "country": "si",
-          "totalPoints": 6510
+          "totalPoints": 6660
         },
         {
           "name": "Thibau Nys",
@@ -85,14 +85,14 @@
     {
       "owner": "Jonny Long",
       "name": "Ineos Grenadiers-Greenpeace-Poundland",
-      "totalPoints": 8476.14,
+      "totalPoints": 8641.14,
       "riders": [
         {
           "name": "Jonas Vingegaard",
           "id": 112082,
           "team": "TVL",
           "country": "dk",
-          "totalPoints": 1623.57
+          "totalPoints": 1733.57
         },
         {
           "name": "Mattias Skjelmose",
@@ -113,7 +113,7 @@
           "id": 1710249,
           "team": "TPP",
           "country": "gb",
-          "totalPoints": 1702
+          "totalPoints": 1757
         },
         {
           "name": "Santiago Buitrago",
@@ -236,12 +236,12 @@
           "totalPoints": 398
         }
       ],
-      "movement": 0
+      "movement": 1
     },
     {
       "owner": "Dane Cash",
       "name": "Visma-Lease a Bike-Monster Energy",
-      "totalPoints": 11271.57,
+      "totalPoints": 11406.57,
       "riders": [
         {
           "name": "Jasper Philipsen",
@@ -255,14 +255,14 @@
           "id": 88889,
           "team": "RBH",
           "country": "si",
-          "totalPoints": 1095
+          "totalPoints": 1135
         },
         {
           "name": "Carlos Rodriguez",
           "id": 428096,
           "team": "IGD",
           "country": "es",
-          "totalPoints": 405.43
+          "totalPoints": 430.43
         },
         {
           "name": "Juan Ayuso",
@@ -297,7 +297,7 @@
           "id": 2097255,
           "team": "RBH",
           "country": "de",
-          "totalPoints": 1454
+          "totalPoints": 1524
         },
         {
           "name": "Romain Grégoire",
@@ -319,7 +319,7 @@
     {
       "owner": "Abby Mickey",
       "name": "EF Education-Swift Nation",
-      "totalPoints": 7941.29,
+      "totalPoints": 8151.29,
       "riders": [
         {
           "name": "Wout van Aert",
@@ -382,7 +382,7 @@
           "id": 109481,
           "team": "IGD",
           "country": "nl",
-          "totalPoints": 853.29
+          "totalPoints": 1063.29
         },
         {
           "name": "Patrick Konrad",
@@ -548,19 +548,19 @@
           "totalPoints": 18
         }
       ],
-      "movement": 0
+      "movement": -1
     },
     {
       "owner": "Andrew (member)",
       "name": "Groupama-FDJ-Tourtel Twist",
-      "totalPoints": 8877.28,
+      "totalPoints": 9007.28,
       "riders": [
         {
           "name": "Adam Yates",
           "id": 70590,
           "team": "UAD",
           "country": "gb",
-          "totalPoints": 577
+          "totalPoints": 587
         },
         {
           "name": "João Almeida",
@@ -581,7 +581,7 @@
           "id": 1745291,
           "team": "ARK",
           "country": "fr",
-          "totalPoints": 1944
+          "totalPoints": 1974
         },
         {
           "name": "Pavel Sivakov",
@@ -609,7 +609,7 @@
           "id": 150925,
           "team": "DAT",
           "country": "at",
-          "totalPoints": 781.43
+          "totalPoints": 871.43
         },
         {
           "name": "Pablo Castrillo",
@@ -631,7 +631,7 @@
     {
       "owner": "Discord Undrafted",
       "name": "Team Movistar easyJet",
-      "totalPoints": 7058.38,
+      "totalPoints": 7103.38,
       "riders": [
         {
           "name": "Dylan Groenewegen",
@@ -652,7 +652,7 @@
           "id": 235075,
           "team": "EFE",
           "country": "ie",
-          "totalPoints": 1514
+          "totalPoints": 1559
         },
         {
           "name": "Javier Romo",

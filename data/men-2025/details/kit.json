@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 July 2025 23:25 GMT",
+  "fetchedDate": "19 July 2025 23:27 GMT",
   "momentId": 192234,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 12812,
+    "totalPoints": 12962,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "team": "UAD",
         "country": "si",
-        "totalPoints": 6510,
+        "totalPoints": 6660,
         "results": [
+          {
+            "name": "Tour de France - S14Stage 14 - Pau › Luchon-Superbagnères",
+            "date": "19 Jul 2025",
+            "points": 150,
+            "rank": 2
+          },
           {
             "name": "Tour de France - S13 (ITT)Stage 13 (ITT) - Loudenvielle › Peyragudes",
             "date": "18 Jul 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 July 2025 23:25 GMT",
+  "fetchedDate": "19 July 2025 23:27 GMT",
   "momentId": 192234,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 7058.38,
+    "totalPoints": 7103.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -162,8 +162,14 @@
         "id": 235075,
         "team": "EFE",
         "country": "ie",
-        "totalPoints": 1514,
+        "totalPoints": 1559,
         "results": [
+          {
+            "name": "Tour de France - S14Stage 14 - Pau › Luchon-Superbagnères",
+            "date": "19 Jul 2025",
+            "points": 45,
+            "rank": 7
+          },
           {
             "name": "Tour de France - S11Stage 11 - Toulouse › Toulouse - Bonus",
             "date": "16 Jul 2025",

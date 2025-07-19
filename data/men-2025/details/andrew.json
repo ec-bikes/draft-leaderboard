@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 July 2025 23:25 GMT",
+  "fetchedDate": "19 July 2025 23:27 GMT",
   "momentId": 192234,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 8877.28,
+    "totalPoints": 9007.28,
     "riders": [
       {
         "name": "Adam Yates",
         "id": 70590,
         "team": "UAD",
         "country": "gb",
-        "totalPoints": 577,
+        "totalPoints": 587,
         "results": [
+          {
+            "name": "Tour de France - S14Stage 14 - Pau › Luchon-Superbagnères",
+            "date": "19 Jul 2025",
+            "points": 10,
+            "rank": 14
+          },
           {
             "name": "Tour de France - S13 (ITT)Stage 13 (ITT) - Loudenvielle › Peyragudes",
             "date": "18 Jul 2025",
@@ -396,8 +402,14 @@
         "id": 1745291,
         "team": "ARK",
         "country": "fr",
-        "totalPoints": 1944,
+        "totalPoints": 1974,
         "results": [
+          {
+            "name": "Tour de France - S14Stage 14 - Pau › Luchon-Superbagnères",
+            "date": "19 Jul 2025",
+            "points": 30,
+            "rank": 10
+          },
           {
             "name": "Tour de France - S13 (ITT)Stage 13 (ITT) - Loudenvielle › Peyragudes",
             "date": "18 Jul 2025",
@@ -803,8 +815,14 @@
         "id": 150925,
         "team": "DAT",
         "country": "at",
-        "totalPoints": 781.43,
+        "totalPoints": 871.43,
         "results": [
+          {
+            "name": "Tour de France - S14Stage 14 - Pau › Luchon-Superbagnères",
+            "date": "19 Jul 2025",
+            "points": 90,
+            "rank": 4
+          },
           {
             "name": "Tour de France - S13 (ITT)Stage 13 (ITT) - Loudenvielle › Peyragudes",
             "date": "18 Jul 2025",

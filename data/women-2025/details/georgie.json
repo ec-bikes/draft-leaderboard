@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 July 2025 23:25 GMT",
+  "fetchedDate": "19 July 2025 23:27 GMT",
   "momentId": 192252,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 6764.85,
+    "totalPoints": 6824.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -466,8 +466,14 @@
         "id": 459694,
         "team": "HPH",
         "country": "us",
-        "totalPoints": 584.14,
+        "totalPoints": 644.14,
         "results": [
+          {
+            "name": "La Périgord Ladies",
+            "date": "19 Jul 2025",
+            "points": 60,
+            "rank": 4
+          },
           {
             "name": "Argenta Classic - Deurne",
             "date": "6 Jul 2025",

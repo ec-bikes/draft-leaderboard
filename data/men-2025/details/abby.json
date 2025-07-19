@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 July 2025 23:25 GMT",
+  "fetchedDate": "19 July 2025 23:27 GMT",
   "momentId": 192234,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 7941.29,
+    "totalPoints": 8151.29,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -683,8 +683,14 @@
         "id": 109481,
         "team": "IGD",
         "country": "nl",
-        "totalPoints": 853.29,
+        "totalPoints": 1063.29,
         "results": [
+          {
+            "name": "Tour de France - S14Stage 14 - Pau › Luchon-Superbagnères",
+            "date": "19 Jul 2025",
+            "points": 210,
+            "rank": 1
+          },
           {
             "name": "Tour de France - S10Stage 10 - Ennezat › Le Mont-Dore Puy de Sancy",
             "date": "14 Jul 2025",

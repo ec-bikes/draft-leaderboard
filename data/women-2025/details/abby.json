@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 July 2025 23:25 GMT",
+  "fetchedDate": "19 July 2025 23:27 GMT",
   "momentId": 192252,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 8420.71,
+    "totalPoints": 8509.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -350,8 +350,14 @@
         "id": 98571,
         "team": "UAD",
         "country": "nl",
-        "totalPoints": 1141,
+        "totalPoints": 1226,
         "results": [
+          {
+            "name": "La Périgord Ladies",
+            "date": "19 Jul 2025",
+            "points": 85,
+            "rank": 2
+          },
           {
             "name": "Tour of Britain Women - General classificationGeneral classification",
             "date": "8 Jun 2025",
@@ -449,8 +455,14 @@
         "id": 157612,
         "team": "TPP",
         "country": "nl",
-        "totalPoints": 843,
+        "totalPoints": 847,
         "results": [
+          {
+            "name": "Baloise Ladies Tour - S3aStage 3a - Maldegem › Maldegem",
+            "date": "19 Jul 2025",
+            "points": 4,
+            "rank": 6
+          },
           {
             "name": "Baloise Ladies Tour - S2Stage 2 - Olsene › Olsene",
             "date": "18 Jul 2025",

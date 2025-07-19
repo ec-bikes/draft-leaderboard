@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 July 2025 23:25 GMT",
+  "fetchedDate": "19 July 2025 23:27 GMT",
   "momentId": 192252,
   "teams": [
     {
       "owner": "Loren Rowney",
       "name": "Super Lekker Pro Potato Women’s Cycling Team",
-      "totalPoints": 6845.58,
+      "totalPoints": 6850.58,
       "riders": [
         {
           "name": "Lotte Kopecky",
@@ -70,7 +70,7 @@
           "id": 153287,
           "team": "LTK",
           "country": "fr",
-          "totalPoints": 728
+          "totalPoints": 733
         },
         {
           "name": "Georgia Baker",
@@ -85,7 +85,7 @@
     {
       "owner": "Abby Mickey",
       "name": "The Tortured Breakaway Department",
-      "totalPoints": 8420.71,
+      "totalPoints": 8509.71,
       "riders": [
         {
           "name": "Elisa Longo Borghini",
@@ -113,14 +113,14 @@
           "id": 98571,
           "team": "UAD",
           "country": "nl",
-          "totalPoints": 1141
+          "totalPoints": 1226
         },
         {
           "name": "Charlotte Kool",
           "id": 157612,
           "team": "TPP",
           "country": "nl",
-          "totalPoints": 843
+          "totalPoints": 847
         },
         {
           "name": "Anna Henderson",
@@ -319,7 +319,7 @@
     {
       "owner": "Georgie Howe",
       "name": "Specialized-Win-Collective Racing",
-      "totalPoints": 6764.85,
+      "totalPoints": 6824.85,
       "riders": [
         {
           "name": "Kasia Niewiadoma",
@@ -361,7 +361,7 @@
           "id": 459694,
           "team": "HPH",
           "country": "us",
-          "totalPoints": 584.14
+          "totalPoints": 644.14
         },
         {
           "name": "Juliette Labous",
