@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 July 2025 23:27 GMT",
+  "fetchedDate": "20 July 2025 23:26 GMT",
   "momentId": 192252,
   "teams": [
     {
       "owner": "Loren Rowney",
       "name": "Super Lekker Pro Potato Women’s Cycling Team",
-      "totalPoints": 6850.58,
+      "totalPoints": 6861.58,
       "riders": [
         {
           "name": "Lotte Kopecky",
@@ -70,7 +70,7 @@
           "id": 153287,
           "team": "LTK",
           "country": "fr",
-          "totalPoints": 733
+          "totalPoints": 744
         },
         {
           "name": "Georgia Baker",
@@ -80,12 +80,12 @@
           "totalPoints": 529.29
         }
       ],
-      "movement": 0
+      "movement": -1
     },
     {
       "owner": "Abby Mickey",
       "name": "The Tortured Breakaway Department",
-      "totalPoints": 8509.71,
+      "totalPoints": 8608.71,
       "riders": [
         {
           "name": "Elisa Longo Borghini",
@@ -113,14 +113,14 @@
           "id": 98571,
           "team": "UAD",
           "country": "nl",
-          "totalPoints": 1226
+          "totalPoints": 1256
         },
         {
           "name": "Charlotte Kool",
           "id": 157612,
           "team": "TPP",
           "country": "nl",
-          "totalPoints": 847
+          "totalPoints": 890
         },
         {
           "name": "Anna Henderson",
@@ -134,7 +134,7 @@
           "id": 156600,
           "team": "CSZ",
           "country": "it",
-          "totalPoints": 1166
+          "totalPoints": 1189
         },
         {
           "name": "Shirin van Anrooij",
@@ -155,7 +155,7 @@
           "id": 233425,
           "team": "VWT",
           "country": "nl",
-          "totalPoints": 322
+          "totalPoints": 325
         }
       ],
       "movement": 0
@@ -319,7 +319,7 @@
     {
       "owner": "Georgie Howe",
       "name": "Specialized-Win-Collective Racing",
-      "totalPoints": 6824.85,
+      "totalPoints": 6874.85,
       "riders": [
         {
           "name": "Kasia Niewiadoma",
@@ -361,7 +361,7 @@
           "id": 459694,
           "team": "HPH",
           "country": "us",
-          "totalPoints": 644.14
+          "totalPoints": 694.14
         },
         {
           "name": "Juliette Labous",
@@ -392,7 +392,7 @@
           "totalPoints": 419.14
         }
       ],
-      "movement": 0
+      "movement": 1
     },
     {
       "owner": "Tils Raynolds",

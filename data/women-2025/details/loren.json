@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 July 2025 23:27 GMT",
+  "fetchedDate": "20 July 2025 23:26 GMT",
   "momentId": 192252,
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women’s Cycling Team",
-    "totalPoints": 6850.58,
+    "totalPoints": 6861.58,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -635,8 +635,20 @@
         "id": 153287,
         "team": "LTK",
         "country": "fr",
-        "totalPoints": 733,
+        "totalPoints": 744,
         "results": [
+          {
+            "name": "Baloise Ladies Tour - General classificationGeneral classification",
+            "date": "20 Jul 2025",
+            "points": 5,
+            "rank": 14
+          },
+          {
+            "name": "Baloise Ladies Tour - S4Stage 4 - Zwevegem › Zwevegem",
+            "date": "20 Jul 2025",
+            "points": 6,
+            "rank": 4
+          },
           {
             "name": "Baloise Ladies Tour - S3aStage 3a - Maldegem › Maldegem",
             "date": "19 Jul 2025",

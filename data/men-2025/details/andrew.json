@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 July 2025 23:27 GMT",
+  "fetchedDate": "20 July 2025 23:26 GMT",
   "momentId": 192234,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 9007.28,
+    "totalPoints": 9217.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -707,8 +707,14 @@
         "id": 64531,
         "team": "UAD",
         "country": "be",
-        "totalPoints": 635,
+        "totalPoints": 845,
         "results": [
+          {
+            "name": "Tour de France - S15Stage 15 - Muret › Carcassonne",
+            "date": "20 Jul 2025",
+            "points": 210,
+            "rank": 1
+          },
           {
             "name": "National Championships Belgium ME - Road Race",
             "date": "29 Jun 2025",

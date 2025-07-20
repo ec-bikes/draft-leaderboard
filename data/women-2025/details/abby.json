@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 July 2025 23:27 GMT",
+  "fetchedDate": "20 July 2025 23:26 GMT",
   "momentId": 192252,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 8509.71,
+    "totalPoints": 8608.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -350,8 +350,14 @@
         "id": 98571,
         "team": "UAD",
         "country": "nl",
-        "totalPoints": 1226,
+        "totalPoints": 1256,
         "results": [
+          {
+            "name": "La Picto - Charentaise",
+            "date": "20 Jul 2025",
+            "points": 30,
+            "rank": 8
+          },
           {
             "name": "La Périgord Ladies",
             "date": "19 Jul 2025",
@@ -455,13 +461,24 @@
         "id": 157612,
         "team": "TPP",
         "country": "nl",
-        "totalPoints": 847,
+        "totalPoints": 890,
         "results": [
+          {
+            "name": "Baloise Ladies Tour - General classificationGeneral classification",
+            "date": "20 Jul 2025",
+            "points": 40,
+            "rank": 6
+          },
           {
             "name": "Baloise Ladies Tour - S3aStage 3a - Maldegem › Maldegem",
             "date": "19 Jul 2025",
             "points": 4,
             "rank": 6
+          },
+          {
+            "name": "Baloise Ladies Tour - S3aStage 3a - Maldegem › Maldegem - Bonus",
+            "date": "19 Jul 2025",
+            "points": 3
           },
           {
             "name": "Baloise Ladies Tour - S2Stage 2 - Olsene › Olsene",
@@ -685,8 +702,20 @@
         "id": 156600,
         "team": "CSZ",
         "country": "it",
-        "totalPoints": 1166,
+        "totalPoints": 1189,
         "results": [
+          {
+            "name": "Baloise Ladies Tour - General classificationGeneral classification",
+            "date": "20 Jul 2025",
+            "points": 15,
+            "rank": 11
+          },
+          {
+            "name": "Baloise Ladies Tour - S4Stage 4 - Zwevegem › Zwevegem",
+            "date": "20 Jul 2025",
+            "points": 8,
+            "rank": 3
+          },
           {
             "name": "Baloise Ladies Tour - S2Stage 2 - Olsene › Olsene",
             "date": "18 Jul 2025",
@@ -898,8 +927,14 @@
         "id": 233425,
         "team": "VWT",
         "country": "nl",
-        "totalPoints": 322,
+        "totalPoints": 325,
         "results": [
+          {
+            "name": "Baloise Ladies Tour - General classificationGeneral classification",
+            "date": "20 Jul 2025",
+            "points": 3,
+            "rank": 24
+          },
           {
             "name": "Baloise Ladies Tour - S1Stage 1 - Jabbeke › Knokke-Heist",
             "date": "17 Jul 2025",

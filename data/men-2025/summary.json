@@ -1,27 +1,27 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 July 2025 23:27 GMT",
+  "fetchedDate": "20 July 2025 23:26 GMT",
   "momentId": 192234,
   "teams": [
     {
       "owner": "Kit Nicholson",
       "name": "Picnic-Letterboxd",
-      "totalPoints": 12962,
+      "totalPoints": 13032,
       "riders": [
         {
           "name": "Tadej Pogačar",
           "id": 149727,
           "team": "UAD",
           "country": "si",
-          "totalPoints": 6660
+          "totalPoints": 6710
         },
         {
           "name": "Thibau Nys",
           "id": 1721034,
           "team": "LTK",
           "country": "be",
-          "totalPoints": 818
+          "totalPoints": 838
         },
         {
           "name": "Toms Skujiņš",
@@ -85,7 +85,7 @@
     {
       "owner": "Jonny Long",
       "name": "Ineos Grenadiers-Greenpeace-Poundland",
-      "totalPoints": 8641.14,
+      "totalPoints": 8676.14,
       "riders": [
         {
           "name": "Jonas Vingegaard",
@@ -120,7 +120,7 @@
           "id": 353375,
           "team": "TBV",
           "country": "co",
-          "totalPoints": 690
+          "totalPoints": 695
         },
         {
           "name": "Christophe Laporte",
@@ -134,7 +134,7 @@
           "id": 91637,
           "team": "GFC",
           "country": "fr",
-          "totalPoints": 319
+          "totalPoints": 349
         },
         {
           "name": "Geraint Thomas",
@@ -319,14 +319,14 @@
     {
       "owner": "Abby Mickey",
       "name": "EF Education-Swift Nation",
-      "totalPoints": 8151.29,
+      "totalPoints": 8241.29,
       "riders": [
         {
           "name": "Wout van Aert",
           "id": 75859,
           "team": "TVL",
           "country": "be",
-          "totalPoints": 2422
+          "totalPoints": 2512
         },
         {
           "name": "Biniam Girmay",
@@ -397,7 +397,7 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 10618.42,
+      "totalPoints": 10673.42,
       "riders": [
         {
           "name": "Mathieu van der Poel",
@@ -425,7 +425,7 @@
           "id": 97280,
           "team": "RBH",
           "country": "ru",
-          "totalPoints": 126.71
+          "totalPoints": 181.71
         },
         {
           "name": "Jan Christen",
@@ -553,7 +553,7 @@
     {
       "owner": "Andrew (member)",
       "name": "Groupama-FDJ-Tourtel Twist",
-      "totalPoints": 9007.28,
+      "totalPoints": 9217.28,
       "riders": [
         {
           "name": "Adam Yates",
@@ -595,7 +595,7 @@
           "id": 64531,
           "team": "UAD",
           "country": "be",
-          "totalPoints": 635
+          "totalPoints": 845
         },
         {
           "name": "Dylan van Baarle",

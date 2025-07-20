@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 July 2025 23:27 GMT",
+  "fetchedDate": "20 July 2025 23:26 GMT",
   "momentId": 192234,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 10618.42,
+    "totalPoints": 10673.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -456,8 +456,14 @@
         "id": 97280,
         "team": "RBH",
         "country": "ru",
-        "totalPoints": 126.71,
+        "totalPoints": 181.71,
         "results": [
+          {
+            "name": "Tour de France - S15Stage 15 - Muret › Carcassonne",
+            "date": "20 Jul 2025",
+            "points": 55,
+            "rank": 6
+          },
           {
             "name": "Tour de Suisse - General classificationGeneral classification",
             "date": "22 Jun 2025",

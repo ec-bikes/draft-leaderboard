@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 July 2025 23:27 GMT",
+  "fetchedDate": "20 July 2025 23:26 GMT",
   "momentId": 192252,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 6824.85,
+    "totalPoints": 6874.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -466,8 +466,14 @@
         "id": 459694,
         "team": "HPH",
         "country": "us",
-        "totalPoints": 644.14,
+        "totalPoints": 694.14,
         "results": [
+          {
+            "name": "La Picto - Charentaise",
+            "date": "20 Jul 2025",
+            "points": 50,
+            "rank": 5
+          },
           {
             "name": "La Périgord Ladies",
             "date": "19 Jul 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 July 2025 23:27 GMT",
+  "fetchedDate": "20 July 2025 23:26 GMT",
   "momentId": 192234,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 8641.14,
+    "totalPoints": 8676.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -510,8 +510,14 @@
         "id": 353375,
         "team": "TBV",
         "country": "co",
-        "totalPoints": 690,
+        "totalPoints": 695,
         "results": [
+          {
+            "name": "Tour de France - S15Stage 15 - Muret › Carcassonne",
+            "date": "20 Jul 2025",
+            "points": 5,
+            "rank": 15
+          },
           {
             "name": "Tour de France - S2Stage 2 - Lauwin-Planque › Boulogne-sur-Mer",
             "date": "6 Jul 2025",
@@ -610,8 +616,14 @@
         "id": 91637,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 319,
+        "totalPoints": 349,
         "results": [
+          {
+            "name": "Tour de France - S15Stage 15 - Muret › Carcassonne",
+            "date": "20 Jul 2025",
+            "points": 30,
+            "rank": 10
+          },
           {
             "name": "National Championships France ME - Road Race",
             "date": "29 Jun 2025",
