@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 July 2025 23:26 GMT",
+  "fetchedDate": "21 July 2025 23:26 GMT",
   "momentId": 192234,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 10673.42,
+    "totalPoints": 10698.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -882,8 +882,14 @@
         "id": 54679,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 618,
+        "totalPoints": 643,
         "results": [
+          {
+            "name": "Clàssica Terres de l'Ebre",
+            "date": "21 Jul 2025",
+            "points": 25,
+            "rank": 9
+          },
           {
             "name": "Giro dell'Appennino",
             "date": "24 Jun 2025",

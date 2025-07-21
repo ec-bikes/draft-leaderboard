@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 July 2025 23:26 GMT",
+  "fetchedDate": "21 July 2025 23:26 GMT",
   "momentId": 192234,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 9878.46,
+    "totalPoints": 10003.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -421,8 +421,14 @@
         "id": 2002910,
         "team": "UAD",
         "country": "mx",
-        "totalPoints": 2704,
+        "totalPoints": 2829,
         "results": [
+          {
+            "name": "Clàssica Terres de l'Ebre",
+            "date": "21 Jul 2025",
+            "points": 125,
+            "rank": 1
+          },
           {
             "name": "Tour of Austria - General classificationGeneral classification",
             "date": "13 Jul 2025",

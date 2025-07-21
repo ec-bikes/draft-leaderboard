@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 July 2025 23:26 GMT",
+  "fetchedDate": "21 July 2025 23:26 GMT",
   "momentId": 192234,
   "teams": [
     {
@@ -85,7 +85,7 @@
     {
       "owner": "Jonny Long",
       "name": "Ineos Grenadiers-Greenpeace-Poundland",
-      "totalPoints": 8676.14,
+      "totalPoints": 8761.14,
       "riders": [
         {
           "name": "Jonas Vingegaard",
@@ -148,7 +148,7 @@
           "id": 144019,
           "team": "XAT",
           "country": "it",
-          "totalPoints": 1306
+          "totalPoints": 1391
         },
         {
           "name": "Antonio Tiberi",
@@ -236,7 +236,7 @@
           "totalPoints": 398
         }
       ],
-      "movement": 1
+      "movement": -1
     },
     {
       "owner": "Dane Cash",
@@ -397,7 +397,7 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 10673.42,
+      "totalPoints": 10698.42,
       "riders": [
         {
           "name": "Mathieu van der Poel",
@@ -453,7 +453,7 @@
           "id": 54679,
           "team": "XAT",
           "country": "it",
-          "totalPoints": 618
+          "totalPoints": 643
         },
         {
           "name": "Mauri Vansevenant",
@@ -475,7 +475,7 @@
     {
       "owner": "Caley Fretz",
       "name": "US Postal Service Bald Eagles",
-      "totalPoints": 9878.46,
+      "totalPoints": 10003.46,
       "riders": [
         {
           "name": "Matteo Jorgenson",
@@ -510,7 +510,7 @@
           "id": 2002910,
           "team": "UAD",
           "country": "mx",
-          "totalPoints": 2704
+          "totalPoints": 2829
         },
         {
           "name": "Daniel Martínez",
@@ -548,7 +548,7 @@
           "totalPoints": 18
         }
       ],
-      "movement": -1
+      "movement": 1
     },
     {
       "owner": "Andrew (member)",

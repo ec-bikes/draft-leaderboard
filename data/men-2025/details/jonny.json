@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 July 2025 23:26 GMT",
+  "fetchedDate": "21 July 2025 23:26 GMT",
   "momentId": 192234,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 8676.14,
+    "totalPoints": 8761.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -730,8 +730,14 @@
         "id": 144019,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 1306,
+        "totalPoints": 1391,
         "results": [
+          {
+            "name": "Clàssica Terres de l'Ebre",
+            "date": "21 Jul 2025",
+            "points": 85,
+            "rank": 2
+          },
           {
             "name": "Giro d'Italia - Mountains classificationMountains classification",
             "date": "1 Jun 2025",
