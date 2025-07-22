@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 July 2025 23:26 GMT",
-  "momentId": 192234,
+  "fetchedDate": "22 July 2025 23:26 GMT",
+  "momentId": 192408,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 11406.57,
+    "totalPoints": 11476.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -117,8 +117,14 @@
         "id": 88889,
         "team": "RBH",
         "country": "si",
-        "totalPoints": 1135,
+        "totalPoints": 1170,
         "results": [
+          {
+            "name": "Tour de France - S16Stage 16 - Montpellier › Mont Ventoux",
+            "date": "22 Jul 2025",
+            "points": 35,
+            "rank": 9
+          },
           {
             "name": "Tour de France - S14Stage 14 - Pau › Luchon-Superbagnères",
             "date": "19 Jul 2025",
@@ -237,8 +243,14 @@
         "id": 428096,
         "team": "IGD",
         "country": "es",
-        "totalPoints": 430.43,
+        "totalPoints": 435.43,
         "results": [
+          {
+            "name": "Tour de France - S16Stage 16 - Montpellier › Mont Ventoux",
+            "date": "22 Jul 2025",
+            "points": 5,
+            "rank": 15
+          },
           {
             "name": "Tour de France - S14Stage 14 - Pau › Luchon-Superbagnères",
             "date": "19 Jul 2025",
@@ -696,8 +708,14 @@
         "id": 2097255,
         "team": "RBH",
         "country": "de",
-        "totalPoints": 1524,
+        "totalPoints": 1554,
         "results": [
+          {
+            "name": "Tour de France - S16Stage 16 - Montpellier › Mont Ventoux",
+            "date": "22 Jul 2025",
+            "points": 30,
+            "rank": 10
+          },
           {
             "name": "Tour de France - S14Stage 14 - Pau › Luchon-Superbagnères",
             "date": "19 Jul 2025",

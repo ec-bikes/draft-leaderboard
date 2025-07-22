@@ -1,20 +1,31 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 July 2025 23:26 GMT",
-  "momentId": 192234,
+  "fetchedDate": "22 July 2025 23:26 GMT",
+  "momentId": 192408,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 13032,
+    "totalPoints": 13127,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "team": "UAD",
         "country": "si",
-        "totalPoints": 6710,
+        "totalPoints": 6805,
         "results": [
+          {
+            "name": "Tour de France - S16Stage 16 - Montpellier › Mont Ventoux",
+            "date": "22 Jul 2025",
+            "points": 70,
+            "rank": 5
+          },
+          {
+            "name": "Tour de France - S16Stage 16 - Montpellier › Mont Ventoux - Bonus",
+            "date": "22 Jul 2025",
+            "points": 25
+          },
           {
             "name": "Tour de France - S15Stage 15 - Muret › Carcassonne - Bonus",
             "date": "20 Jul 2025",
