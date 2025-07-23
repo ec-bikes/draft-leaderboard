@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "22 July 2025 23:26 GMT",
+  "fetchedDate": "23 July 2025 23:26 GMT",
   "momentId": 192408,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 10003.46,
+    "totalPoints": 10213.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -180,8 +180,14 @@
         "id": 301151,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 1568.86,
+        "totalPoints": 1778.86,
         "results": [
+          {
+            "name": "Tour de France - S17Stage 17 - Bollène › Valence",
+            "date": "23 Jul 2025",
+            "points": 210,
+            "rank": 1
+          },
           {
             "name": "Tour de France - S9Stage 9 - Chinon › Châteauroux",
             "date": "13 Jul 2025",

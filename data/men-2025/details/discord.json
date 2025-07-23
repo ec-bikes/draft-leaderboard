@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "22 July 2025 23:26 GMT",
+  "fetchedDate": "23 July 2025 23:26 GMT",
   "momentId": 192408,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 7253.38,
+    "totalPoints": 7263.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
         "id": 72932,
         "team": "JAY",
         "country": "nl",
-        "totalPoints": 396,
+        "totalPoints": 406,
         "results": [
+          {
+            "name": "Tour de France - S17Stage 17 - Bollène › Valence",
+            "date": "23 Jul 2025",
+            "points": 10,
+            "rank": 14
+          },
           {
             "name": "Tour de France - S9Stage 9 - Chinon › Châteauroux",
             "date": "13 Jul 2025",

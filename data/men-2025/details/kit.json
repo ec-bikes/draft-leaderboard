@@ -1,20 +1,25 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "22 July 2025 23:26 GMT",
+  "fetchedDate": "23 July 2025 23:26 GMT",
   "momentId": 192408,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 13127,
+    "totalPoints": 13302,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "team": "UAD",
         "country": "si",
-        "totalPoints": 6805,
+        "totalPoints": 6830,
         "results": [
+          {
+            "name": "Tour de France - S17Stage 17 - Bollène › Valence - Bonus",
+            "date": "23 Jul 2025",
+            "points": 25
+          },
           {
             "name": "Tour de France - S16Stage 16 - Montpellier › Mont Ventoux",
             "date": "22 Jul 2025",
@@ -459,8 +464,14 @@
         "id": 148901,
         "team": "RBH",
         "country": "be",
-        "totalPoints": 610,
+        "totalPoints": 760,
         "results": [
+          {
+            "name": "Tour de France - S17Stage 17 - Bollène › Valence",
+            "date": "23 Jul 2025",
+            "points": 150,
+            "rank": 2
+          },
           {
             "name": "Tour de France - S9Stage 9 - Chinon › Châteauroux",
             "date": "13 Jul 2025",

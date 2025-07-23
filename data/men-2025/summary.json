@@ -1,20 +1,20 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "22 July 2025 23:26 GMT",
+  "fetchedDate": "23 July 2025 23:26 GMT",
   "momentId": 192408,
   "teams": [
     {
       "owner": "Kit Nicholson",
       "name": "Picnic-Letterboxd",
-      "totalPoints": 13127,
+      "totalPoints": 13302,
       "riders": [
         {
           "name": "Tadej Pogačar",
           "id": 149727,
           "team": "UAD",
           "country": "si",
-          "totalPoints": 6805
+          "totalPoints": 6830
         },
         {
           "name": "Thibau Nys",
@@ -42,7 +42,7 @@
           "id": 148901,
           "team": "RBH",
           "country": "be",
-          "totalPoints": 610
+          "totalPoints": 760
         },
         {
           "name": "Kaden Groves",
@@ -397,7 +397,7 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 10698.42,
+      "totalPoints": 10808.42,
       "riders": [
         {
           "name": "Mathieu van der Poel",
@@ -446,7 +446,7 @@
           "id": 482927,
           "team": "TPP",
           "country": "dk",
-          "totalPoints": 831
+          "totalPoints": 941
         },
         {
           "name": "Diego Ulissi",
@@ -475,7 +475,7 @@
     {
       "owner": "Caley Fretz",
       "name": "US Postal Service Bald Eagles",
-      "totalPoints": 10003.46,
+      "totalPoints": 10213.46,
       "riders": [
         {
           "name": "Matteo Jorgenson",
@@ -489,7 +489,7 @@
           "id": 301151,
           "team": "LTK",
           "country": "it",
-          "totalPoints": 1568.86
+          "totalPoints": 1778.86
         },
         {
           "name": "Sepp Kuss",
@@ -631,14 +631,14 @@
     {
       "owner": "Discord Undrafted",
       "name": "Team Movistar easyJet",
-      "totalPoints": 7253.38,
+      "totalPoints": 7263.38,
       "riders": [
         {
           "name": "Dylan Groenewegen",
           "id": 72932,
           "team": "JAY",
           "country": "nl",
-          "totalPoints": 396
+          "totalPoints": 406
         },
         {
           "name": "Matej Mohorič",
