@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 July 2025 23:26 GMT",
+  "fetchedDate": "24 July 2025 23:26 GMT",
   "momentId": 192408,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 8981.14,
+    "totalPoints": 9181.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "team": "TVL",
         "country": "dk",
-        "totalPoints": 1788.57,
+        "totalPoints": 1898.57,
         "results": [
+          {
+            "name": "Tour de France - S18Stage 18 - Vif › Courchevel",
+            "date": "24 Jul 2025",
+            "points": 110,
+            "rank": 3
+          },
           {
             "name": "Tour de France - S16Stage 16 - Montpellier › Mont Ventoux",
             "date": "22 Jul 2025",
@@ -339,8 +345,14 @@
         "id": 1710249,
         "team": "TPP",
         "country": "gb",
-        "totalPoints": 1767,
+        "totalPoints": 1857,
         "results": [
+          {
+            "name": "Tour de France - S18Stage 18 - Vif › Courchevel",
+            "date": "24 Jul 2025",
+            "points": 90,
+            "rank": 4
+          },
           {
             "name": "Tour de France - S16Stage 16 - Montpellier › Mont Ventoux",
             "date": "22 Jul 2025",

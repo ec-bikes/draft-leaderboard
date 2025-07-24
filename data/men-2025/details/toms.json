@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 July 2025 23:26 GMT",
+  "fetchedDate": "24 July 2025 23:26 GMT",
   "momentId": 192408,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 9889.25,
+    "totalPoints": 10099.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -325,8 +325,14 @@
         "id": 97805,
         "team": "JAY",
         "country": "au",
-        "totalPoints": 454.81,
+        "totalPoints": 664.81,
         "results": [
+          {
+            "name": "Tour de France - S18Stage 18 - Vif › Courchevel",
+            "date": "24 Jul 2025",
+            "points": 210,
+            "rank": 1
+          },
           {
             "name": "Tour de France - S10Stage 10 - Ennezat › Le Mont-Dore Puy de Sancy",
             "date": "14 Jul 2025",

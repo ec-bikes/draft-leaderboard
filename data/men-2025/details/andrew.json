@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 July 2025 23:26 GMT",
+  "fetchedDate": "24 July 2025 23:26 GMT",
   "momentId": 192408,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 9217.28,
+    "totalPoints": 9332.28,
     "riders": [
       {
         "name": "Adam Yates",
         "id": 70590,
         "team": "UAD",
         "country": "gb",
-        "totalPoints": 587,
+        "totalPoints": 627,
         "results": [
+          {
+            "name": "Tour de France - S18Stage 18 - Vif › Courchevel",
+            "date": "24 Jul 2025",
+            "points": 40,
+            "rank": 8
+          },
           {
             "name": "Tour de France - S14Stage 14 - Pau › Luchon-Superbagnères",
             "date": "19 Jul 2025",
@@ -402,8 +408,14 @@
         "id": 1745291,
         "team": "ARK",
         "country": "fr",
-        "totalPoints": 1974,
+        "totalPoints": 1994,
         "results": [
+          {
+            "name": "Tour de France - S18Stage 18 - Vif › Courchevel",
+            "date": "24 Jul 2025",
+            "points": 20,
+            "rank": 12
+          },
           {
             "name": "Tour de France - S14Stage 14 - Pau › Luchon-Superbagnères",
             "date": "19 Jul 2025",
@@ -821,8 +833,14 @@
         "id": 150925,
         "team": "DAT",
         "country": "at",
-        "totalPoints": 871.43,
+        "totalPoints": 926.43,
         "results": [
+          {
+            "name": "Tour de France - S18Stage 18 - Vif › Courchevel",
+            "date": "24 Jul 2025",
+            "points": 55,
+            "rank": 6
+          },
           {
             "name": "Tour de France - S14Stage 14 - Pau › Luchon-Superbagnères",
             "date": "19 Jul 2025",

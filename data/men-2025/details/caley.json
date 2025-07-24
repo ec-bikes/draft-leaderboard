@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 July 2025 23:26 GMT",
+  "fetchedDate": "24 July 2025 23:26 GMT",
   "momentId": 192408,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 10213.46,
+    "totalPoints": 10243.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -319,8 +319,14 @@
         "id": 88346,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 71,
+        "totalPoints": 101,
         "results": [
+          {
+            "name": "Tour de France - S18Stage 18 - Vif › Courchevel",
+            "date": "24 Jul 2025",
+            "points": 30,
+            "rank": 10
+          },
           {
             "name": "Critérium du Dauphiné - General classificationGeneral classification",
             "date": "15 Jun 2025",

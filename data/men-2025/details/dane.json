@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 July 2025 23:26 GMT",
+  "fetchedDate": "24 July 2025 23:26 GMT",
   "momentId": 192408,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 11476.57,
+    "totalPoints": 11561.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -117,8 +117,14 @@
         "id": 88889,
         "team": "RBH",
         "country": "si",
-        "totalPoints": 1170,
+        "totalPoints": 1215,
         "results": [
+          {
+            "name": "Tour de France - S18Stage 18 - Vif › Courchevel",
+            "date": "24 Jul 2025",
+            "points": 45,
+            "rank": 7
+          },
           {
             "name": "Tour de France - S16Stage 16 - Montpellier › Mont Ventoux",
             "date": "22 Jul 2025",
@@ -541,8 +547,14 @@
         "id": 96372,
         "team": "UAD",
         "country": "ec",
-        "totalPoints": 821.14,
+        "totalPoints": 836.14,
         "results": [
+          {
+            "name": "Tour de France - S18Stage 18 - Vif › Courchevel",
+            "date": "24 Jul 2025",
+            "points": 15,
+            "rank": 13
+          },
           {
             "name": "Tour de France - S7Stage 7 - Saint-Malo › Mûr-de-Bretagne",
             "date": "11 Jul 2025",
@@ -708,8 +720,14 @@
         "id": 2097255,
         "team": "RBH",
         "country": "de",
-        "totalPoints": 1554,
+        "totalPoints": 1579,
         "results": [
+          {
+            "name": "Tour de France - S18Stage 18 - Vif › Courchevel",
+            "date": "24 Jul 2025",
+            "points": 25,
+            "rank": 11
+          },
           {
             "name": "Tour de France - S16Stage 16 - Montpellier › Mont Ventoux",
             "date": "22 Jul 2025",
