@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "24 July 2025 23:26 GMT",
+  "fetchedDate": "25 July 2025 23:26 GMT",
   "momentId": 192408,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 11561.57,
+    "totalPoints": 11681.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -449,8 +449,14 @@
         "id": 1558112,
         "team": "TVL",
         "country": "gb",
-        "totalPoints": 1863,
+        "totalPoints": 1893,
         "results": [
+          {
+            "name": "Tour de France - S19Stage 19 - Albertville › La Plagne",
+            "date": "25 Jul 2025",
+            "points": 30,
+            "rank": 10
+          },
           {
             "name": "Tour de France - S10Stage 10 - Ennezat › Le Mont-Dore Puy de Sancy",
             "date": "14 Jul 2025",
@@ -720,8 +726,14 @@
         "id": 2097255,
         "team": "RBH",
         "country": "de",
-        "totalPoints": 1579,
+        "totalPoints": 1669,
         "results": [
+          {
+            "name": "Tour de France - S19Stage 19 - Albertville › La Plagne",
+            "date": "25 Jul 2025",
+            "points": 90,
+            "rank": 4
+          },
           {
             "name": "Tour de France - S18Stage 18 - Vif › Courchevel",
             "date": "24 Jul 2025",

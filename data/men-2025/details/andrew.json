@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "24 July 2025 23:26 GMT",
+  "fetchedDate": "25 July 2025 23:26 GMT",
   "momentId": 192408,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 9332.28,
+    "totalPoints": 9387.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -833,8 +833,14 @@
         "id": 150925,
         "team": "DAT",
         "country": "at",
-        "totalPoints": 926.43,
+        "totalPoints": 981.43,
         "results": [
+          {
+            "name": "Tour de France - S19Stage 19 - Albertville › La Plagne",
+            "date": "25 Jul 2025",
+            "points": 55,
+            "rank": 6
+          },
           {
             "name": "Tour de France - S18Stage 18 - Vif › Courchevel",
             "date": "24 Jul 2025",

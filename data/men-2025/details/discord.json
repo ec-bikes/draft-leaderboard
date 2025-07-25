@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "24 July 2025 23:26 GMT",
+  "fetchedDate": "25 July 2025 23:26 GMT",
   "momentId": 192408,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 7263.38,
+    "totalPoints": 7373.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -168,8 +168,14 @@
         "id": 235075,
         "team": "EFE",
         "country": "ie",
-        "totalPoints": 1709,
+        "totalPoints": 1749,
         "results": [
+          {
+            "name": "Tour de France - S19Stage 19 - Albertville › La Plagne",
+            "date": "25 Jul 2025",
+            "points": 40,
+            "rank": 8
+          },
           {
             "name": "Tour de France - S16Stage 16 - Montpellier › Mont Ventoux",
             "date": "22 Jul 2025",
@@ -356,8 +362,14 @@
         "id": 442797,
         "team": "UAD",
         "country": "pt",
-        "totalPoints": 772,
+        "totalPoints": 842,
         "results": [
+          {
+            "name": "Prueba Villafranca - Ordiziako Klasika",
+            "date": "25 Jul 2025",
+            "points": 70,
+            "rank": 3
+          },
           {
             "name": "National Championships Portugal ME - ITT",
             "date": "27 Jun 2025",

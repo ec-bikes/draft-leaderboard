@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "24 July 2025 23:26 GMT",
+  "fetchedDate": "25 July 2025 23:26 GMT",
   "momentId": 192408,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 8261.29,
+    "totalPoints": 8471.29,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -689,8 +689,14 @@
         "id": 109481,
         "team": "IGD",
         "country": "nl",
-        "totalPoints": 1083.29,
+        "totalPoints": 1293.29,
         "results": [
+          {
+            "name": "Tour de France - S19Stage 19 - Albertville › La Plagne",
+            "date": "25 Jul 2025",
+            "points": 210,
+            "rank": 1
+          },
           {
             "name": "Tour de France - S16Stage 16 - Montpellier › Mont Ventoux",
             "date": "22 Jul 2025",

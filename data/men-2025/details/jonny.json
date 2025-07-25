@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "24 July 2025 23:26 GMT",
+  "fetchedDate": "25 July 2025 23:26 GMT",
   "momentId": 192408,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 9181.14,
+    "totalPoints": 9421.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "team": "TVL",
         "country": "dk",
-        "totalPoints": 1898.57,
+        "totalPoints": 2048.57,
         "results": [
+          {
+            "name": "Tour de France - S19Stage 19 - Albertville › La Plagne",
+            "date": "25 Jul 2025",
+            "points": 150,
+            "rank": 2
+          },
           {
             "name": "Tour de France - S18Stage 18 - Vif › Courchevel",
             "date": "24 Jul 2025",
@@ -345,8 +351,14 @@
         "id": 1710249,
         "team": "TPP",
         "country": "gb",
-        "totalPoints": 1857,
+        "totalPoints": 1927,
         "results": [
+          {
+            "name": "Tour de France - S19Stage 19 - Albertville › La Plagne",
+            "date": "25 Jul 2025",
+            "points": 70,
+            "rank": 5
+          },
           {
             "name": "Tour de France - S18Stage 18 - Vif › Courchevel",
             "date": "24 Jul 2025",
@@ -766,8 +778,14 @@
         "id": 144019,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 1391,
+        "totalPoints": 1411,
         "results": [
+          {
+            "name": "Prueba Villafranca - Ordiziako Klasika",
+            "date": "25 Jul 2025",
+            "points": 20,
+            "rank": 10
+          },
           {
             "name": "Clàssica Terres de l'Ebre",
             "date": "21 Jul 2025",

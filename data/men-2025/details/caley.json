@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "24 July 2025 23:26 GMT",
+  "fetchedDate": "25 July 2025 23:26 GMT",
   "momentId": 192408,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 10243.46,
+    "totalPoints": 10328.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -433,8 +433,14 @@
         "id": 2002910,
         "team": "UAD",
         "country": "mx",
-        "totalPoints": 2829,
+        "totalPoints": 2914,
         "results": [
+          {
+            "name": "Prueba Villafranca - Ordiziako Klasika",
+            "date": "25 Jul 2025",
+            "points": 85,
+            "rank": 2
+          },
           {
             "name": "Clàssica Terres de l'Ebre",
             "date": "21 Jul 2025",

@@ -1,20 +1,31 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "24 July 2025 23:26 GMT",
+  "fetchedDate": "25 July 2025 23:26 GMT",
   "momentId": 192408,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 13477,
+    "totalPoints": 13612,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "team": "UAD",
         "country": "si",
-        "totalPoints": 7005,
+        "totalPoints": 7140,
         "results": [
+          {
+            "name": "Tour de France - S19Stage 19 - Albertville › La Plagne",
+            "date": "25 Jul 2025",
+            "points": 110,
+            "rank": 3
+          },
+          {
+            "name": "Tour de France - S19Stage 19 - Albertville › La Plagne - Bonus",
+            "date": "25 Jul 2025",
+            "points": 25
+          },
           {
             "name": "Tour de France - S18Stage 18 - Vif › Courchevel",
             "date": "24 Jul 2025",
