@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "25 July 2025 23:26 GMT",
+  "fetchedDate": "26 July 2025 23:25 GMT",
   "momentId": 192426,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 11433.57,
+    "totalPoints": 11453.57,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
         "team": "TFS",
         "country": "nl",
-        "totalPoints": 3372.57,
+        "totalPoints": 3392.57,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - S1Stage 1 - Vannes › Plumelec",
+            "date": "26 Jul 2025",
+            "points": 20,
+            "rank": 5
+          },
           {
             "name": "Tour de Suisse Women - General classificationGeneral classification",
             "date": "15 Jun 2025",

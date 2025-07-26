@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "25 July 2025 23:26 GMT",
+  "fetchedDate": "26 July 2025 23:25 GMT",
   "momentId": 192426,
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women’s Cycling Team",
-    "totalPoints": 6861.58,
+    "totalPoints": 6901.58,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -175,8 +175,14 @@
         "id": 88660,
         "team": "AGS",
         "country": "mu",
-        "totalPoints": 1518,
+        "totalPoints": 1558,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - S1Stage 1 - Vannes › Plumelec",
+            "date": "26 Jul 2025",
+            "points": 40,
+            "rank": 2
+          },
           {
             "name": "National Championships Mauritius WE - Road Race",
             "date": "22 Jun 2025",

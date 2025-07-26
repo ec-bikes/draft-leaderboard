@@ -1,20 +1,25 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "25 July 2025 23:26 GMT",
+  "fetchedDate": "26 July 2025 23:25 GMT",
   "momentId": 192408,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 13612,
+    "totalPoints": 13847,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "team": "UAD",
         "country": "si",
-        "totalPoints": 7140,
+        "totalPoints": 7165,
         "results": [
+          {
+            "name": "Tour de France - S20Stage 20 - Nantua › Pontarlier - Bonus",
+            "date": "26 Jul 2025",
+            "points": 25
+          },
           {
             "name": "Tour de France - S19Stage 19 - Albertville › La Plagne",
             "date": "25 Jul 2025",
@@ -567,8 +572,14 @@
         "id": 111683,
         "team": "ADC",
         "country": "au",
-        "totalPoints": 1185,
+        "totalPoints": 1395,
         "results": [
+          {
+            "name": "Tour de France - S20Stage 20 - Nantua › Pontarlier",
+            "date": "26 Jul 2025",
+            "points": 210,
+            "rank": 1
+          },
           {
             "name": "Tour de France - S11Stage 11 - Toulouse › Toulouse",
             "date": "16 Jul 2025",

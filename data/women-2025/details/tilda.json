@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "25 July 2025 23:26 GMT",
+  "fetchedDate": "26 July 2025 23:25 GMT",
   "momentId": 192426,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 9517.72,
+    "totalPoints": 9543.72,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -274,8 +274,14 @@
         "id": 234336,
         "team": "FDC",
         "country": "nl",
-        "totalPoints": 1833,
+        "totalPoints": 1851,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - S1Stage 1 - Vannes › Plumelec",
+            "date": "26 Jul 2025",
+            "points": 18,
+            "rank": 6
+          },
           {
             "name": "Liège-Bastogne-Liège Femmes",
             "date": "27 Apr 2025",
@@ -459,8 +465,14 @@
         "id": 79690,
         "team": "FDC",
         "country": "nl",
-        "totalPoints": 487,
+        "totalPoints": 495,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - S1Stage 1 - Vannes › Plumelec",
+            "date": "26 Jul 2025",
+            "points": 8,
+            "rank": 9
+          },
           {
             "name": "Giro d'Italia Women - General classificationGeneral classification",
             "date": "13 Jul 2025",

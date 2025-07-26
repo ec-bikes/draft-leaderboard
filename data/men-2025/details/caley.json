@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "25 July 2025 23:26 GMT",
+  "fetchedDate": "26 July 2025 23:25 GMT",
   "momentId": 192408,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 10328.46,
+    "totalPoints": 10363.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
         "id": 159567,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 1468.57,
+        "totalPoints": 1503.57,
         "results": [
+          {
+            "name": "Tour de France - S20Stage 20 - Nantua › Pontarlier",
+            "date": "26 Jul 2025",
+            "points": 35,
+            "rank": 9
+          },
           {
             "name": "Tour de France - S13 (ITT)Stage 13 (ITT) - Loudenvielle › Peyragudes",
             "date": "18 Jul 2025",

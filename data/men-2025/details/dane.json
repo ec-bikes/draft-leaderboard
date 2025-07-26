@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "25 July 2025 23:26 GMT",
+  "fetchedDate": "26 July 2025 23:25 GMT",
   "momentId": 192408,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 11681.57,
+    "totalPoints": 11751.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -885,8 +885,14 @@
         "id": 1759422,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 1230,
+        "totalPoints": 1300,
         "results": [
+          {
+            "name": "Tour de France - S20Stage 20 - Nantua › Pontarlier",
+            "date": "26 Jul 2025",
+            "points": 70,
+            "rank": 5
+          },
           {
             "name": "Tour de France - S11Stage 11 - Toulouse › Toulouse",
             "date": "16 Jul 2025",

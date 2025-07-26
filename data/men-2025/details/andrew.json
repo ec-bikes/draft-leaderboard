@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "25 July 2025 23:26 GMT",
+  "fetchedDate": "26 July 2025 23:25 GMT",
   "momentId": 192408,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 9387.28,
+    "totalPoints": 9427.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -719,8 +719,14 @@
         "id": 64531,
         "team": "UAD",
         "country": "be",
-        "totalPoints": 845,
+        "totalPoints": 885,
         "results": [
+          {
+            "name": "Tour de France - S20Stage 20 - Nantua › Pontarlier",
+            "date": "26 Jul 2025",
+            "points": 40,
+            "rank": 8
+          },
           {
             "name": "Tour de France - S15Stage 15 - Muret › Carcassonne",
             "date": "20 Jul 2025",

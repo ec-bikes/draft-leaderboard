@@ -1,20 +1,20 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "25 July 2025 23:26 GMT",
+  "fetchedDate": "26 July 2025 23:25 GMT",
   "momentId": 192408,
   "teams": [
     {
       "owner": "Kit Nicholson",
       "name": "Picnic-Letterboxd",
-      "totalPoints": 13612,
+      "totalPoints": 13847,
       "riders": [
         {
           "name": "Tadej Pogačar",
           "id": 149727,
           "team": "UAD",
           "country": "si",
-          "totalPoints": 7140
+          "totalPoints": 7165
         },
         {
           "name": "Thibau Nys",
@@ -49,7 +49,7 @@
           "id": 111683,
           "team": "ADC",
           "country": "au",
-          "totalPoints": 1185
+          "totalPoints": 1395
         },
         {
           "name": "Richard Carapaz",
@@ -158,7 +158,7 @@
           "totalPoints": 677
         }
       ],
-      "movement": 1
+      "movement": 0
     },
     {
       "owner": "Toms Skujiņš",
@@ -241,7 +241,7 @@
     {
       "owner": "Dane Cash",
       "name": "Visma-Lease a Bike-Monster Energy",
-      "totalPoints": 11681.57,
+      "totalPoints": 11751.57,
       "riders": [
         {
           "name": "Jasper Philipsen",
@@ -304,7 +304,7 @@
           "id": 1759422,
           "team": "GFC",
           "country": "fr",
-          "totalPoints": 1230
+          "totalPoints": 1300
         },
         {
           "name": "Stefan Küng",
@@ -475,14 +475,14 @@
     {
       "owner": "Caley Fretz",
       "name": "US Postal Service Bald Eagles",
-      "totalPoints": 10328.46,
+      "totalPoints": 10363.46,
       "riders": [
         {
           "name": "Matteo Jorgenson",
           "id": 159567,
           "team": "TVL",
           "country": "us",
-          "totalPoints": 1468.57
+          "totalPoints": 1503.57
         },
         {
           "name": "Jonathan Milan",
@@ -553,7 +553,7 @@
     {
       "owner": "Andrew (member)",
       "name": "Groupama-FDJ-Tourtel Twist",
-      "totalPoints": 9387.28,
+      "totalPoints": 9427.28,
       "riders": [
         {
           "name": "Adam Yates",
@@ -595,7 +595,7 @@
           "id": 64531,
           "team": "UAD",
           "country": "be",
-          "totalPoints": 845
+          "totalPoints": 885
         },
         {
           "name": "Dylan van Baarle",
@@ -626,7 +626,7 @@
           "totalPoints": 247
         }
       ],
-      "movement": -1
+      "movement": 0
     },
     {
       "owner": "Discord Undrafted",

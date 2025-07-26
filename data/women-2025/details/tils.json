@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "25 July 2025 23:26 GMT",
+  "fetchedDate": "26 July 2025 23:25 GMT",
   "momentId": 192426,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 9365.14,
+    "totalPoints": 9410.14,
     "riders": [
       {
         "name": "Liane Lippert",
@@ -154,8 +154,14 @@
         "id": 59726,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 1224.71,
+        "totalPoints": 1239.71,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - S1Stage 1 - Vannes › Plumelec",
+            "date": "26 Jul 2025",
+            "points": 15,
+            "rank": 7
+          },
           {
             "name": "Giro d'Italia Women - General classificationGeneral classification",
             "date": "13 Jul 2025",
@@ -945,8 +951,14 @@
         "id": 66298,
         "team": "TVL",
         "country": "fr",
-        "totalPoints": 1138.86,
+        "totalPoints": 1168.86,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - S1Stage 1 - Vannes › Plumelec",
+            "date": "26 Jul 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Vuelta España Femenina  - S1 (TTT)Stage 1 (TTT) - Barcelona › Barcelona",
             "date": "4 May 2025",

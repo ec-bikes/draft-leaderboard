@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "25 July 2025 23:26 GMT",
+  "fetchedDate": "26 July 2025 23:25 GMT",
   "momentId": 192426,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 8608.71,
+    "totalPoints": 8672.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -182,8 +182,19 @@
         "id": 31144,
         "team": "TVL",
         "country": "nl",
-        "totalPoints": 1170.86,
+        "totalPoints": 1228.86,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - S1Stage 1 - Vannes › Plumelec",
+            "date": "26 Jul 2025",
+            "points": 50,
+            "rank": 1
+          },
+          {
+            "name": "Tour de France Femmes avec Zwift - S1Stage 1 - Vannes › Plumelec - Bonus",
+            "date": "26 Jul 2025",
+            "points": 8
+          },
           {
             "name": "Giro d'Italia Women - S5Stage 5 - Mirano › Monselice",
             "date": "10 Jul 2025",
@@ -275,8 +286,14 @@
         "id": 153350,
         "team": "TPP",
         "country": "gb",
-        "totalPoints": 421.57,
+        "totalPoints": 427.57,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - S1Stage 1 - Vannes › Plumelec",
+            "date": "26 Jul 2025",
+            "points": 6,
+            "rank": 10
+          },
           {
             "name": "National Championships Great Britain WE - Road Race",
             "date": "29 Jun 2025",
