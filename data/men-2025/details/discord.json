@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 July 2025 23:25 GMT",
+  "fetchedDate": "27 July 2025 23:26 GMT",
   "momentId": 192408,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 7373.38,
+    "totalPoints": 7888.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -135,8 +135,14 @@
         "id": 86863,
         "team": "TBV",
         "country": "si",
-        "totalPoints": 125,
+        "totalPoints": 235,
         "results": [
+          {
+            "name": "Tour de France - S21Stage 21 - Mantes-la-Ville › Paris",
+            "date": "27 Jul 2025",
+            "points": 110,
+            "rank": 3
+          },
           {
             "name": "Ronde van Vlaanderen - Tour des Flandres ME",
             "date": "6 Apr 2025",
@@ -168,8 +174,14 @@
         "id": 235075,
         "team": "EFE",
         "country": "ie",
-        "totalPoints": 1749,
+        "totalPoints": 2044,
         "results": [
+          {
+            "name": "Tour de France - General classificationGeneral classification",
+            "date": "27 Jul 2025",
+            "points": 295,
+            "rank": 9
+          },
           {
             "name": "Tour de France - S19Stage 19 - Albertville › La Plagne",
             "date": "25 Jul 2025",
@@ -362,8 +374,14 @@
         "id": 442797,
         "team": "UAD",
         "country": "pt",
-        "totalPoints": 842,
+        "totalPoints": 862,
         "results": [
+          {
+            "name": "Vuelta a Castilla y Leon",
+            "date": "27 Jul 2025",
+            "points": 20,
+            "rank": 10
+          },
           {
             "name": "Prueba Villafranca - Ordiziako Klasika",
             "date": "25 Jul 2025",
@@ -473,8 +491,14 @@
         "id": 75170,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 662,
+        "totalPoints": 752,
         "results": [
+          {
+            "name": "Tour de France - General classificationGeneral classification",
+            "date": "27 Jul 2025",
+            "points": 90,
+            "rank": 16
+          },
           {
             "name": "Tour de France - S12Stage 12 - Auch › Hautacam",
             "date": "17 Jul 2025",

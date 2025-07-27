@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 July 2025 23:25 GMT",
+  "fetchedDate": "27 July 2025 23:26 GMT",
   "momentId": 192426,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 9410.14,
+    "totalPoints": 9451.14,
     "riders": [
       {
         "name": "Liane Lippert",
         "id": 140495,
         "team": "MOV",
         "country": "de",
-        "totalPoints": 1007.14,
+        "totalPoints": 1032.14,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - S2Stage 2 - Brest › Quimper",
+            "date": "27 Jul 2025",
+            "points": 25,
+            "rank": 4
+          },
           {
             "name": "Giro d'Italia Women - General classificationGeneral classification",
             "date": "13 Jul 2025",
@@ -154,8 +160,14 @@
         "id": 59726,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 1239.71,
+        "totalPoints": 1245.71,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - S2Stage 2 - Brest › Quimper",
+            "date": "27 Jul 2025",
+            "points": 6,
+            "rank": 10
+          },
           {
             "name": "Tour de France Femmes avec Zwift - S1Stage 1 - Vannes › Plumelec",
             "date": "26 Jul 2025",
@@ -951,8 +963,14 @@
         "id": 66298,
         "team": "TVL",
         "country": "fr",
-        "totalPoints": 1168.86,
+        "totalPoints": 1178.86,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - S2Stage 2 - Brest › Quimper",
+            "date": "27 Jul 2025",
+            "points": 10,
+            "rank": 8
+          },
           {
             "name": "Tour de France Femmes avec Zwift - S1Stage 1 - Vannes › Plumelec",
             "date": "26 Jul 2025",

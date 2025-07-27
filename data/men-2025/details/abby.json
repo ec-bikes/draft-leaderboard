@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 July 2025 23:25 GMT",
+  "fetchedDate": "27 July 2025 23:26 GMT",
   "momentId": 192408,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 8471.29,
+    "totalPoints": 8971.29,
     "riders": [
       {
         "name": "Wout van Aert",
         "id": 75859,
         "team": "TVL",
         "country": "be",
-        "totalPoints": 2512,
+        "totalPoints": 2722,
         "results": [
+          {
+            "name": "Tour de France - S21Stage 21 - Mantes-la-Ville › Paris",
+            "date": "27 Jul 2025",
+            "points": 210,
+            "rank": 1
+          },
           {
             "name": "Tour de France - S15Stage 15 - Muret › Carcassonne",
             "date": "20 Jul 2025",
@@ -130,8 +136,20 @@
         "id": 1707195,
         "team": "IWA",
         "country": "er",
-        "totalPoints": 1035,
+        "totalPoints": 1160,
         "results": [
+          {
+            "name": "Tour de France - Points classificationPoints classification",
+            "date": "27 Jul 2025",
+            "points": 110,
+            "rank": 3
+          },
+          {
+            "name": "Tour de France - S21Stage 21 - Mantes-la-Ville › Paris",
+            "date": "27 Jul 2025",
+            "points": 15,
+            "rank": 13
+          },
           {
             "name": "Tour de France - S9Stage 9 - Chinon › Châteauroux",
             "date": "13 Jul 2025",
@@ -689,8 +707,14 @@
         "id": 109481,
         "team": "IGD",
         "country": "nl",
-        "totalPoints": 1293.29,
+        "totalPoints": 1458.29,
         "results": [
+          {
+            "name": "Tour de France - General classificationGeneral classification",
+            "date": "27 Jul 2025",
+            "points": 165,
+            "rank": 12
+          },
           {
             "name": "Tour de France - S19Stage 19 - Albertville › La Plagne",
             "date": "25 Jul 2025",

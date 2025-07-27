@@ -1,20 +1,44 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 July 2025 23:25 GMT",
+  "fetchedDate": "27 July 2025 23:26 GMT",
   "momentId": 192408,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 13847,
+    "totalPoints": 15632,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "team": "UAD",
         "country": "si",
-        "totalPoints": 7165,
+        "totalPoints": 8915,
         "results": [
+          {
+            "name": "Tour de France - Mountains classificationMountains classification",
+            "date": "27 Jul 2025",
+            "points": 210,
+            "rank": 1
+          },
+          {
+            "name": "Tour de France - Points classificationPoints classification",
+            "date": "27 Jul 2025",
+            "points": 150,
+            "rank": 2
+          },
+          {
+            "name": "Tour de France - General classificationGeneral classification",
+            "date": "27 Jul 2025",
+            "points": 1300,
+            "rank": 1
+          },
+          {
+            "name": "Tour de France - S21Stage 21 - Mantes-la-Ville › Paris",
+            "date": "27 Jul 2025",
+            "points": 90,
+            "rank": 4
+          },
           {
             "name": "Tour de France - S20Stage 20 - Nantua › Pontarlier - Bonus",
             "date": "26 Jul 2025",
@@ -572,8 +596,14 @@
         "id": 111683,
         "team": "ADC",
         "country": "au",
-        "totalPoints": 1395,
+        "totalPoints": 1420,
         "results": [
+          {
+            "name": "Tour de France - S21Stage 21 - Mantes-la-Ville › Paris",
+            "date": "27 Jul 2025",
+            "points": 25,
+            "rank": 11
+          },
           {
             "name": "Tour de France - S20Stage 20 - Nantua › Pontarlier",
             "date": "26 Jul 2025",
@@ -809,8 +839,14 @@
         "id": 422863,
         "team": "COF",
         "country": "es",
-        "totalPoints": 704,
+        "totalPoints": 714,
         "results": [
+          {
+            "name": "Tour de France - S21Stage 21 - Mantes-la-Ville › Paris",
+            "date": "27 Jul 2025",
+            "points": 10,
+            "rank": 14
+          },
           {
             "name": "Tour du Finistère Pays de Quimper",
             "date": "9 May 2025",

@@ -1,20 +1,32 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 July 2025 23:25 GMT",
+  "fetchedDate": "27 July 2025 23:26 GMT",
   "momentId": 192408,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 10363.46,
+    "totalPoints": 10828.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
         "id": 159567,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 1503.57,
+        "totalPoints": 1643.57,
         "results": [
+          {
+            "name": "Tour de France - General classificationGeneral classification",
+            "date": "27 Jul 2025",
+            "points": 70,
+            "rank": 19
+          },
+          {
+            "name": "Tour de France - S21Stage 21 - Mantes-la-Ville › Paris",
+            "date": "27 Jul 2025",
+            "points": 70,
+            "rank": 5
+          },
           {
             "name": "Tour de France - S20Stage 20 - Nantua › Pontarlier",
             "date": "26 Jul 2025",
@@ -186,8 +198,14 @@
         "id": 301151,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 1778.86,
+        "totalPoints": 1988.86,
         "results": [
+          {
+            "name": "Tour de France - Points classificationPoints classification",
+            "date": "27 Jul 2025",
+            "points": 210,
+            "rank": 1
+          },
           {
             "name": "Tour de France - S17Stage 17 - Bollène › Valence",
             "date": "23 Jul 2025",
@@ -325,8 +343,14 @@
         "id": 88346,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 101,
+        "totalPoints": 186,
         "results": [
+          {
+            "name": "Tour de France - General classificationGeneral classification",
+            "date": "27 Jul 2025",
+            "points": 85,
+            "rank": 17
+          },
           {
             "name": "Tour de France - S18Stage 18 - Vif › Courchevel",
             "date": "24 Jul 2025",
@@ -733,8 +757,20 @@
         "id": 88143,
         "team": "EFE",
         "country": "us",
-        "totalPoints": 1080.5,
+        "totalPoints": 1110.5,
         "results": [
+          {
+            "name": "Tour de France - General classificationGeneral classification",
+            "date": "27 Jul 2025",
+            "points": 25,
+            "rank": 47
+          },
+          {
+            "name": "Tour de France - S21Stage 21 - Mantes-la-Ville › Paris",
+            "date": "27 Jul 2025",
+            "points": 5,
+            "rank": 15
+          },
           {
             "name": "Tour de Suisse - General classificationGeneral classification",
             "date": "22 Jun 2025",

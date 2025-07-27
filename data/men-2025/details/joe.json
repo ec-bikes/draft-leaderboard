@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 July 2025 23:25 GMT",
+  "fetchedDate": "27 July 2025 23:26 GMT",
   "momentId": 192408,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 10868.42,
+    "totalPoints": 10931.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -456,8 +456,14 @@
         "id": 97280,
         "team": "RBH",
         "country": "ru",
-        "totalPoints": 181.71,
+        "totalPoints": 221.71,
         "results": [
+          {
+            "name": "Tour de France - General classificationGeneral classification",
+            "date": "27 Jul 2025",
+            "points": 40,
+            "rank": 27
+          },
           {
             "name": "Tour de France - S15Stage 15 - Muret › Carcassonne",
             "date": "20 Jul 2025",
@@ -723,8 +729,14 @@
         "id": 482927,
         "team": "TPP",
         "country": "dk",
-        "totalPoints": 941,
+        "totalPoints": 961,
         "results": [
+          {
+            "name": "Tour de France - S21Stage 21 - Mantes-la-Ville › Paris",
+            "date": "27 Jul 2025",
+            "points": 20,
+            "rank": 12
+          },
           {
             "name": "Tour de France - S17Stage 17 - Bollène › Valence",
             "date": "23 Jul 2025",
@@ -888,8 +900,14 @@
         "id": 54679,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 703,
+        "totalPoints": 706,
         "results": [
+          {
+            "name": "Vuelta a Castilla y Leon",
+            "date": "27 Jul 2025",
+            "points": 3,
+            "rank": 22
+          },
           {
             "name": "Prueba Villafranca - Ordiziako Klasika",
             "date": "25 Jul 2025",

@@ -1,20 +1,32 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 July 2025 23:25 GMT",
+  "fetchedDate": "27 July 2025 23:26 GMT",
   "momentId": 192408,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 9421.14,
+    "totalPoints": 11531.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "team": "TVL",
         "country": "dk",
-        "totalPoints": 2048.57,
+        "totalPoints": 3238.57,
         "results": [
+          {
+            "name": "Tour de France - Mountains classificationMountains classification",
+            "date": "27 Jul 2025",
+            "points": 150,
+            "rank": 2
+          },
+          {
+            "name": "Tour de France - General classificationGeneral classification",
+            "date": "27 Jul 2025",
+            "points": 1040,
+            "rank": 2
+          },
           {
             "name": "Tour de France - S19Stage 19 - Albertville › La Plagne",
             "date": "25 Jul 2025",
@@ -351,8 +363,14 @@
         "id": 1710249,
         "team": "TPP",
         "country": "gb",
-        "totalPoints": 1927,
+        "totalPoints": 2677,
         "results": [
+          {
+            "name": "Tour de France - General classificationGeneral classification",
+            "date": "27 Jul 2025",
+            "points": 750,
+            "rank": 4
+          },
           {
             "name": "Tour de France - S19Stage 19 - Albertville › La Plagne",
             "date": "25 Jul 2025",
@@ -552,8 +570,14 @@
         "id": 353375,
         "team": "TBV",
         "country": "co",
-        "totalPoints": 805,
+        "totalPoints": 840,
         "results": [
+          {
+            "name": "Tour de France - General classificationGeneral classification",
+            "date": "27 Jul 2025",
+            "points": 35,
+            "rank": 40
+          },
           {
             "name": "Tour de France - S16Stage 16 - Montpellier › Mont Ventoux",
             "date": "22 Jul 2025",
@@ -664,8 +688,14 @@
         "id": 91637,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 349,
+        "totalPoints": 399,
         "results": [
+          {
+            "name": "Tour de France - General classificationGeneral classification",
+            "date": "27 Jul 2025",
+            "points": 50,
+            "rank": 21
+          },
           {
             "name": "Tour de France - S15Stage 15 - Muret › Carcassonne",
             "date": "20 Jul 2025",
@@ -757,8 +787,14 @@
         "id": 32532,
         "team": "IGD",
         "country": "gb",
-        "totalPoints": 28,
+        "totalPoints": 43,
         "results": [
+          {
+            "name": "Tour de France - General classificationGeneral classification",
+            "date": "27 Jul 2025",
+            "points": 15,
+            "rank": 58
+          },
           {
             "name": "Tour de Romandie - General classificationGeneral classification",
             "date": "4 May 2025",
@@ -778,8 +814,14 @@
         "id": 144019,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 1411,
+        "totalPoints": 1481,
         "results": [
+          {
+            "name": "Vuelta a Castilla y Leon",
+            "date": "27 Jul 2025",
+            "points": 70,
+            "rank": 3
+          },
           {
             "name": "Prueba Villafranca - Ordiziako Klasika",
             "date": "25 Jul 2025",

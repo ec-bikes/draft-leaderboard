@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 July 2025 23:25 GMT",
+  "fetchedDate": "27 July 2025 23:26 GMT",
   "momentId": 192408,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 10144.25,
+    "totalPoints": 10444.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -325,8 +325,14 @@
         "id": 97805,
         "team": "JAY",
         "country": "au",
-        "totalPoints": 684.81,
+        "totalPoints": 874.81,
         "results": [
+          {
+            "name": "Tour de France - General classificationGeneral classification",
+            "date": "27 Jul 2025",
+            "points": 190,
+            "rank": 11
+          },
           {
             "name": "Tour de France - S19Stage 19 - Albertville › La Plagne",
             "date": "25 Jul 2025",
@@ -645,8 +651,14 @@
         "id": 1843476,
         "team": "TBV",
         "country": "fr",
-        "totalPoints": 1378,
+        "totalPoints": 1488,
         "results": [
+          {
+            "name": "Tour de France - Mountains classificationMountains classification",
+            "date": "27 Jul 2025",
+            "points": 110,
+            "rank": 3
+          },
           {
             "name": "Tour de France - S19Stage 19 - Albertville › La Plagne",
             "date": "25 Jul 2025",

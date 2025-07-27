@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 July 2025 23:25 GMT",
+  "fetchedDate": "27 July 2025 23:26 GMT",
   "momentId": 192408,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 9427.28,
+    "totalPoints": 10637.28,
     "riders": [
       {
         "name": "Adam Yates",
         "id": 70590,
         "team": "UAD",
         "country": "gb",
-        "totalPoints": 627,
+        "totalPoints": 677,
         "results": [
+          {
+            "name": "Tour de France - General classificationGeneral classification",
+            "date": "27 Jul 2025",
+            "points": 50,
+            "rank": 24
+          },
           {
             "name": "Tour de France - S18Stage 18 - Vif › Courchevel",
             "date": "24 Jul 2025",
@@ -408,8 +414,20 @@
         "id": 1745291,
         "team": "ARK",
         "country": "fr",
-        "totalPoints": 1994,
+        "totalPoints": 2459,
         "results": [
+          {
+            "name": "Tour de France - General classificationGeneral classification",
+            "date": "27 Jul 2025",
+            "points": 425,
+            "rank": 7
+          },
+          {
+            "name": "Tour de France - S21Stage 21 - Mantes-la-Ville › Paris",
+            "date": "27 Jul 2025",
+            "points": 40,
+            "rank": 8
+          },
           {
             "name": "Tour de France - S18Stage 18 - Vif › Courchevel",
             "date": "24 Jul 2025",
@@ -719,8 +737,14 @@
         "id": 64531,
         "team": "UAD",
         "country": "be",
-        "totalPoints": 885,
+        "totalPoints": 920,
         "results": [
+          {
+            "name": "Tour de France - General classificationGeneral classification",
+            "date": "27 Jul 2025",
+            "points": 35,
+            "rank": 37
+          },
           {
             "name": "Tour de France - S20Stage 20 - Nantua › Pontarlier",
             "date": "26 Jul 2025",
@@ -839,8 +863,14 @@
         "id": 150925,
         "team": "DAT",
         "country": "at",
-        "totalPoints": 981.43,
+        "totalPoints": 1601.43,
         "results": [
+          {
+            "name": "Tour de France - General classificationGeneral classification",
+            "date": "27 Jul 2025",
+            "points": 620,
+            "rank": 5
+          },
           {
             "name": "Tour de France - S19Stage 19 - Albertville › La Plagne",
             "date": "25 Jul 2025",
@@ -1055,8 +1085,14 @@
         "id": 89223,
         "team": "UAD",
         "country": "es",
-        "totalPoints": 247,
+        "totalPoints": 287,
         "results": [
+          {
+            "name": "Tour de France - General classificationGeneral classification",
+            "date": "27 Jul 2025",
+            "points": 40,
+            "rank": 29
+          },
           {
             "name": "Vuelta Asturias Julio Alvarez Mendo - General classificationGeneral classification",
             "date": "27 Apr 2025",

@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 July 2025 23:25 GMT",
+  "fetchedDate": "27 July 2025 23:26 GMT",
   "momentId": 192426,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 6899.85,
+    "totalPoints": 6917.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
         "id": 86824,
         "team": "CSZ",
         "country": "pl",
-        "totalPoints": 1180.86,
+        "totalPoints": 1198.86,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - S2Stage 2 - Brest › Quimper",
+            "date": "27 Jul 2025",
+            "points": 18,
+            "rank": 6
+          },
           {
             "name": "Tour de France Femmes avec Zwift - S1Stage 1 - Vannes › Plumelec",
             "date": "26 Jul 2025",
