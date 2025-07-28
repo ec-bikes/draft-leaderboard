@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "27 July 2025 23:26 GMT",
+  "fetchedDate": "28 July 2025 23:28 GMT",
   "momentId": 192426,
   "teams": [
     {
@@ -85,7 +85,7 @@
     {
       "owner": "Abby Mickey",
       "name": "The Tortured Breakaway Department",
-      "totalPoints": 8692.71,
+      "totalPoints": 8740.71,
       "riders": [
         {
           "name": "Elisa Longo Borghini",
@@ -99,7 +99,7 @@
           "id": 31144,
           "team": "TVL",
           "country": "nl",
-          "totalPoints": 1248.86
+          "totalPoints": 1296.86
         },
         {
           "name": "Pfeiffer Georgi",
@@ -241,14 +241,14 @@
     {
       "owner": "Tilda Price",
       "name": "Santa Cruz-Shimano",
-      "totalPoints": 9641.72,
+      "totalPoints": 9699.72,
       "riders": [
         {
           "name": "Lorena Wiebes",
           "id": 141733,
           "team": "SDW",
           "country": "nl",
-          "totalPoints": 3078
+          "totalPoints": 3128
         },
         {
           "name": "Evita Muzic",
@@ -269,7 +269,7 @@
           "id": 347941,
           "team": "EFO",
           "country": "ch",
-          "totalPoints": 1427
+          "totalPoints": 1435
         },
         {
           "name": "Pauliena Rooijakkers",
@@ -319,14 +319,14 @@
     {
       "owner": "Georgie Howe",
       "name": "Specialized-Win-Collective Racing",
-      "totalPoints": 6917.85,
+      "totalPoints": 6933.85,
       "riders": [
         {
           "name": "Kasia Niewiadoma",
           "id": 86824,
           "team": "CSZ",
           "country": "pl",
-          "totalPoints": 1198.86
+          "totalPoints": 1208.86
         },
         {
           "name": "Silvia Persico",
@@ -375,7 +375,7 @@
           "id": 66056,
           "team": "LTK",
           "country": "nl",
-          "totalPoints": 27
+          "totalPoints": 33
         },
         {
           "name": "Sarah van Dam",
@@ -397,14 +397,14 @@
     {
       "owner": "Tils Raynolds",
       "name": "The Suffragettes Collective",
-      "totalPoints": 9451.14,
+      "totalPoints": 9501.14,
       "riders": [
         {
           "name": "Liane Lippert",
           "id": 140495,
           "team": "MOV",
           "country": "de",
-          "totalPoints": 1032.14
+          "totalPoints": 1052.14
         },
         {
           "name": "Anna van der Breggen",
@@ -425,7 +425,7 @@
           "id": 220562,
           "team": "TFS",
           "country": "nz",
-          "totalPoints": 1525.57
+          "totalPoints": 1555.57
         },
         {
           "name": "Neve Bradbury",

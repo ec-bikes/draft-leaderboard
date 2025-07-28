@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "27 July 2025 23:26 GMT",
+  "fetchedDate": "28 July 2025 23:28 GMT",
   "momentId": 192408,
   "teams": [
     {
@@ -163,7 +163,7 @@
     {
       "owner": "Toms Skujiņš",
       "name": "Lidl-Trek-Bauer",
-      "totalPoints": 10444.25,
+      "totalPoints": 10459.25,
       "riders": [
         {
           "name": "Remco Evenepoel",
@@ -219,7 +219,7 @@
           "id": 1714193,
           "team": "COF",
           "country": "be",
-          "totalPoints": 937
+          "totalPoints": 952
         },
         {
           "name": "Max Schachmann",
@@ -236,7 +236,7 @@
           "totalPoints": 398
         }
       ],
-      "movement": -3
+      "movement": -2
     },
     {
       "owner": "Dane Cash",
@@ -548,7 +548,7 @@
           "totalPoints": 18
         }
       ],
-      "movement": 0
+      "movement": -1
     },
     {
       "owner": "Andrew (member)",

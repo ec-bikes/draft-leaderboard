@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "27 July 2025 23:26 GMT",
+  "fetchedDate": "28 July 2025 23:28 GMT",
   "momentId": 192426,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 9451.14,
+    "totalPoints": 9501.14,
     "riders": [
       {
         "name": "Liane Lippert",
         "id": 140495,
         "team": "MOV",
         "country": "de",
-        "totalPoints": 1032.14,
+        "totalPoints": 1052.14,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - S3Stage 3 - La Gacilly › Angers",
+            "date": "28 Jul 2025",
+            "points": 20,
+            "rank": 5
+          },
           {
             "name": "Tour de France Femmes avec Zwift - S2Stage 2 - Brest › Quimper",
             "date": "27 Jul 2025",
@@ -524,8 +530,14 @@
         "id": 220562,
         "team": "TFS",
         "country": "nz",
-        "totalPoints": 1525.57,
+        "totalPoints": 1555.57,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - S3Stage 3 - La Gacilly › Angers",
+            "date": "28 Jul 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Tour Féminin International des Pyrénées - S1Stage 1 - Arzacq-Arraziguet › Barbazan-Debat",
             "date": "13 Jun 2025",

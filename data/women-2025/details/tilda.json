@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "27 July 2025 23:26 GMT",
+  "fetchedDate": "28 July 2025 23:28 GMT",
   "momentId": 192426,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 9641.72,
+    "totalPoints": 9699.72,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 3078,
+        "totalPoints": 3128,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - S3Stage 3 - La Gacilly › Angers",
+            "date": "28 Jul 2025",
+            "points": 50,
+            "rank": 1
+          },
           {
             "name": "Tour de France Femmes avec Zwift - S2Stage 2 - Brest › Quimper",
             "date": "27 Jul 2025",
@@ -367,8 +373,14 @@
         "id": 347941,
         "team": "EFO",
         "country": "ch",
-        "totalPoints": 1427,
+        "totalPoints": 1435,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - S3Stage 3 - La Gacilly › Angers",
+            "date": "28 Jul 2025",
+            "points": 8,
+            "rank": 9
+          },
           {
             "name": "National Championships Switzerland WE - Road Race",
             "date": "28 Jun 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "27 July 2025 23:26 GMT",
+  "fetchedDate": "28 July 2025 23:28 GMT",
   "momentId": 192408,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 10444.25,
+    "totalPoints": 10459.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -864,8 +864,14 @@
         "id": 1714193,
         "team": "COF",
         "country": "be",
-        "totalPoints": 937,
+        "totalPoints": 952,
         "results": [
+          {
+            "name": "Ethias-Tour de Wallonie - S3Stage 3 - Estinnes › Antoing",
+            "date": "28 Jul 2025",
+            "points": 15,
+            "rank": 2
+          },
           {
             "name": "National Championships Belgium ME - Road Race",
             "date": "29 Jun 2025",
