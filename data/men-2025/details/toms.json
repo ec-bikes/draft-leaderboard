@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "28 July 2025 23:28 GMT",
-  "momentId": 192408,
+  "fetchedDate": "29 July 2025 23:26 GMT",
+  "momentId": 192573,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 10459.25,
+    "totalPoints": 10479.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -791,8 +791,14 @@
         "id": 472995,
         "team": "LTK",
         "country": "cz",
-        "totalPoints": 407.86,
+        "totalPoints": 427.86,
         "results": [
+          {
+            "name": "Ethias-Tour de Wallonie - S4Stage 4 - Welkenraedt › Seraing",
+            "date": "29 Jul 2025",
+            "points": 20,
+            "rank": 1
+          },
           {
             "name": "National Championships Czech Republic ME - Road Race",
             "date": "29 Jun 2025",

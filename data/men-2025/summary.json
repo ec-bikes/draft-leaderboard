@@ -1,8 +1,8 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "28 July 2025 23:28 GMT",
-  "momentId": 192408,
+  "fetchedDate": "29 July 2025 23:26 GMT",
+  "momentId": 192573,
   "teams": [
     {
       "owner": "Kit Nicholson",
@@ -163,7 +163,7 @@
     {
       "owner": "Toms Skujiņš",
       "name": "Lidl-Trek-Bauer",
-      "totalPoints": 10459.25,
+      "totalPoints": 10479.25,
       "riders": [
         {
           "name": "Remco Evenepoel",
@@ -212,7 +212,7 @@
           "id": 472995,
           "team": "LTK",
           "country": "cz",
-          "totalPoints": 407.86
+          "totalPoints": 427.86
         },
         {
           "name": "Milan Fretin",

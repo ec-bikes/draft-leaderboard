@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "28 July 2025 23:28 GMT",
-  "momentId": 192426,
+  "fetchedDate": "29 July 2025 23:26 GMT",
+  "momentId": 192591,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 9699.72,
+    "totalPoints": 9749.72,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 3128,
+        "totalPoints": 3178,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - S4Stage 4 - Saumur › Poitiers",
+            "date": "29 Jul 2025",
+            "points": 50,
+            "rank": 1
+          },
           {
             "name": "Tour de France Femmes avec Zwift - S3Stage 3 - La Gacilly › Angers",
             "date": "28 Jul 2025",

@@ -1,8 +1,8 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "28 July 2025 23:28 GMT",
-  "momentId": 192426,
+  "fetchedDate": "29 July 2025 23:26 GMT",
+  "momentId": 192591,
   "teams": [
     {
       "owner": "Loren Rowney",
@@ -80,12 +80,12 @@
           "totalPoints": 529.29
         }
       ],
-      "movement": 1
+      "movement": 0
     },
     {
       "owner": "Abby Mickey",
       "name": "The Tortured Breakaway Department",
-      "totalPoints": 8740.71,
+      "totalPoints": 8780.71,
       "riders": [
         {
           "name": "Elisa Longo Borghini",
@@ -99,7 +99,7 @@
           "id": 31144,
           "team": "TVL",
           "country": "nl",
-          "totalPoints": 1296.86
+          "totalPoints": 1336.86
         },
         {
           "name": "Pfeiffer Georgi",
@@ -163,7 +163,7 @@
     {
       "owner": "Gracie Elvin",
       "name": "Lamborghini p/b Tony's Chocolonely",
-      "totalPoints": 11468.57,
+      "totalPoints": 11488.57,
       "riders": [
         {
           "name": "Demi Vollering",
@@ -184,7 +184,7 @@
           "id": 109716,
           "team": "CSZ",
           "country": "us",
-          "totalPoints": 721.86
+          "totalPoints": 741.86
         },
         {
           "name": "Mischa Bredewold",
@@ -241,14 +241,14 @@
     {
       "owner": "Tilda Price",
       "name": "Santa Cruz-Shimano",
-      "totalPoints": 9699.72,
+      "totalPoints": 9749.72,
       "riders": [
         {
           "name": "Lorena Wiebes",
           "id": 141733,
           "team": "SDW",
           "country": "nl",
-          "totalPoints": 3128
+          "totalPoints": 3178
         },
         {
           "name": "Evita Muzic",
@@ -319,7 +319,7 @@
     {
       "owner": "Georgie Howe",
       "name": "Specialized-Win-Collective Racing",
-      "totalPoints": 6933.85,
+      "totalPoints": 6939.85,
       "riders": [
         {
           "name": "Kasia Niewiadoma",
@@ -382,7 +382,7 @@
           "id": 488553,
           "team": "CTC",
           "country": "ca",
-          "totalPoints": 1023
+          "totalPoints": 1029
         },
         {
           "name": "Riejanne Markus",
@@ -392,7 +392,7 @@
           "totalPoints": 419.14
         }
       ],
-      "movement": -1
+      "movement": 0
     },
     {
       "owner": "Tils Raynolds",

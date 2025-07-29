@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "28 July 2025 23:28 GMT",
-  "momentId": 192426,
+  "fetchedDate": "29 July 2025 23:26 GMT",
+  "momentId": 192591,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 6933.85,
+    "totalPoints": 6939.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -769,8 +769,14 @@
         "id": 488553,
         "team": "CTC",
         "country": "ca",
-        "totalPoints": 1023,
+        "totalPoints": 1029,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - S4Stage 4 - Saumur › Poitiers",
+            "date": "29 Jul 2025",
+            "points": 6,
+            "rank": 10
+          },
           {
             "name": "Giro d'Italia Women - General classificationGeneral classification",
             "date": "13 Jul 2025",

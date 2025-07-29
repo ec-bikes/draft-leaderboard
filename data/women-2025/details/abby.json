@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "28 July 2025 23:28 GMT",
-  "momentId": 192426,
+  "fetchedDate": "29 July 2025 23:26 GMT",
+  "momentId": 192591,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 8740.71,
+    "totalPoints": 8780.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -182,8 +182,14 @@
         "id": 31144,
         "team": "TVL",
         "country": "nl",
-        "totalPoints": 1296.86,
+        "totalPoints": 1336.86,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - S4Stage 4 - Saumur › Poitiers",
+            "date": "29 Jul 2025",
+            "points": 40,
+            "rank": 2
+          },
           {
             "name": "Tour de France Femmes avec Zwift - S3Stage 3 - La Gacilly › Angers",
             "date": "28 Jul 2025",
