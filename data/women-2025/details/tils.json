@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "29 July 2025 23:26 GMT",
+  "fetchedDate": "30 July 2025 23:26 GMT",
   "momentId": 192591,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 9501.14,
+    "totalPoints": 9551.14,
     "riders": [
       {
         "name": "Liane Lippert",
@@ -166,8 +166,14 @@
         "id": 59726,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 1245.71,
+        "totalPoints": 1275.71,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - S5Stage 5 - Chasseneuil-du-Poitou (Futuroscope) › Guéret",
+            "date": "30 Jul 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Tour de France Femmes avec Zwift - S2Stage 2 - Brest › Quimper",
             "date": "27 Jul 2025",
@@ -975,8 +981,14 @@
         "id": 66298,
         "team": "TVL",
         "country": "fr",
-        "totalPoints": 1178.86,
+        "totalPoints": 1198.86,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - S5Stage 5 - Chasseneuil-du-Poitou (Futuroscope) › Guéret",
+            "date": "30 Jul 2025",
+            "points": 20,
+            "rank": 5
+          },
           {
             "name": "Tour de France Femmes avec Zwift - S2Stage 2 - Brest › Quimper",
             "date": "27 Jul 2025",

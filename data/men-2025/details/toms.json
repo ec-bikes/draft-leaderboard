@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "29 July 2025 23:26 GMT",
+  "fetchedDate": "30 July 2025 23:27 GMT",
   "momentId": 192573,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 10479.25,
+    "totalPoints": 10629.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -791,8 +791,14 @@
         "id": 472995,
         "team": "LTK",
         "country": "cz",
-        "totalPoints": 427.86,
+        "totalPoints": 577.86,
         "results": [
+          {
+            "name": "Ethias-Tour de Wallonie - General classificationGeneral classification",
+            "date": "30 Jul 2025",
+            "points": 150,
+            "rank": 2
+          },
           {
             "name": "Ethias-Tour de Wallonie - S4Stage 4 - Welkenraedt › Seraing",
             "date": "29 Jul 2025",

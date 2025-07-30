@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "29 July 2025 23:26 GMT",
+  "fetchedDate": "30 July 2025 23:27 GMT",
   "momentId": 192573,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 7888.38,
+    "totalPoints": 7903.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -855,8 +855,14 @@
         "id": 407508,
         "team": "RBH",
         "country": "es",
-        "totalPoints": 295,
+        "totalPoints": 310,
         "results": [
+          {
+            "name": "Ethias-Tour de Wallonie - General classificationGeneral classification",
+            "date": "30 Jul 2025",
+            "points": 15,
+            "rank": 14
+          },
           {
             "name": "National Championships Spain ME - Road Race",
             "date": "29 Jun 2025",

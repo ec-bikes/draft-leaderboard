@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "29 July 2025 23:26 GMT",
+  "fetchedDate": "30 July 2025 23:27 GMT",
   "momentId": 192573,
   "teams": [
     {
@@ -163,7 +163,7 @@
     {
       "owner": "Toms Skujiņš",
       "name": "Lidl-Trek-Bauer",
-      "totalPoints": 10479.25,
+      "totalPoints": 10629.25,
       "riders": [
         {
           "name": "Remco Evenepoel",
@@ -212,7 +212,7 @@
           "id": 472995,
           "team": "LTK",
           "country": "cz",
-          "totalPoints": 427.86
+          "totalPoints": 577.86
         },
         {
           "name": "Milan Fretin",
@@ -631,7 +631,7 @@
     {
       "owner": "Discord Undrafted",
       "name": "Team Movistar easyJet",
-      "totalPoints": 7888.38,
+      "totalPoints": 7903.38,
       "riders": [
         {
           "name": "Dylan Groenewegen",
@@ -701,7 +701,7 @@
           "id": 407508,
           "team": "RBH",
           "country": "es",
-          "totalPoints": 295
+          "totalPoints": 310
         }
       ],
       "movement": 0

@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "29 July 2025 23:26 GMT",
+  "fetchedDate": "30 July 2025 23:26 GMT",
   "momentId": 192591,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 6939.85,
+    "totalPoints": 6964.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
         "id": 86824,
         "team": "CSZ",
         "country": "pl",
-        "totalPoints": 1208.86,
+        "totalPoints": 1233.86,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - S5Stage 5 - Chasseneuil-du-Poitou (Futuroscope) › Guéret",
+            "date": "30 Jul 2025",
+            "points": 25,
+            "rank": 4
+          },
           {
             "name": "Tour de France Femmes avec Zwift - S3Stage 3 - La Gacilly › Angers",
             "date": "28 Jul 2025",
