@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "30 July 2025 23:26 GMT",
+  "fetchedDate": "31 July 2025 23:26 GMT",
   "momentId": 192591,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 6964.85,
+    "totalPoints": 7004.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -613,8 +613,14 @@
         "id": 97498,
         "team": "TFS",
         "country": "fr",
-        "totalPoints": 1272.57,
+        "totalPoints": 1312.57,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - S6Stage 6 - Clermont-Ferrand › Ambert",
+            "date": "31 Jul 2025",
+            "points": 40,
+            "rank": 2
+          },
           {
             "name": "Giro d'Italia Women - General classificationGeneral classification",
             "date": "13 Jul 2025",

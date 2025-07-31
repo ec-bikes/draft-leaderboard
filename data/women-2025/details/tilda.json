@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "30 July 2025 23:26 GMT",
+  "fetchedDate": "31 July 2025 23:26 GMT",
   "momentId": 192591,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 9772.72,
+    "totalPoints": 9786.72,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -298,8 +298,14 @@
         "id": 234336,
         "team": "FDC",
         "country": "nl",
-        "totalPoints": 1859,
+        "totalPoints": 1865,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - S6Stage 6 - Clermont-Ferrand › Ambert",
+            "date": "31 Jul 2025",
+            "points": 6,
+            "rank": 10
+          },
           {
             "name": "Tour de France Femmes avec Zwift - S2Stage 2 - Brest › Quimper",
             "date": "27 Jul 2025",
@@ -501,8 +507,14 @@
         "id": 79690,
         "team": "FDC",
         "country": "nl",
-        "totalPoints": 510,
+        "totalPoints": 518,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - S6Stage 6 - Clermont-Ferrand › Ambert",
+            "date": "31 Jul 2025",
+            "points": 8,
+            "rank": 9
+          },
           {
             "name": "Tour de France Femmes avec Zwift - S5Stage 5 - Chasseneuil-du-Poitou (Futuroscope) › Guéret",
             "date": "30 Jul 2025",

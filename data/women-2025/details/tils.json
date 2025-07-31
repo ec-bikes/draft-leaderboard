@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "30 July 2025 23:26 GMT",
+  "fetchedDate": "31 July 2025 23:26 GMT",
   "momentId": 192591,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 9551.14,
+    "totalPoints": 9566.14,
     "riders": [
       {
         "name": "Liane Lippert",
@@ -981,8 +981,14 @@
         "id": 66298,
         "team": "TVL",
         "country": "fr",
-        "totalPoints": 1198.86,
+        "totalPoints": 1213.86,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - S6Stage 6 - Clermont-Ferrand › Ambert",
+            "date": "31 Jul 2025",
+            "points": 15,
+            "rank": 7
+          },
           {
             "name": "Tour de France Femmes avec Zwift - S5Stage 5 - Chasseneuil-du-Poitou (Futuroscope) › Guéret",
             "date": "30 Jul 2025",
