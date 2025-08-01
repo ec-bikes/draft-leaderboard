@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "31 July 2025 23:26 GMT",
+  "fetchedDate": "1 August 2025 23:26 GMT",
   "momentId": 192591,
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women’s Cycling Team",
-    "totalPoints": 7035.58,
+    "totalPoints": 7061.58,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -175,8 +175,19 @@
         "id": 88660,
         "team": "AGS",
         "country": "mu",
-        "totalPoints": 1692,
+        "totalPoints": 1718,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - S7Stage 7 - Bourg-en-Bresse › Chambéry",
+            "date": "1 Aug 2025",
+            "points": 18,
+            "rank": 6
+          },
+          {
+            "name": "Tour de France Femmes avec Zwift - S7Stage 7 - Bourg-en-Bresse › Chambéry - Bonus",
+            "date": "1 Aug 2025",
+            "points": 8
+          },
           {
             "name": "Tour de France Femmes avec Zwift - S6Stage 6 - Clermont-Ferrand › Ambert",
             "date": "31 Jul 2025",

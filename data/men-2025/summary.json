@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "31 July 2025 23:26 GMT",
+  "fetchedDate": "1 August 2025 23:26 GMT",
   "momentId": 192573,
   "teams": [
     {
@@ -158,7 +158,7 @@
           "totalPoints": 677
         }
       ],
-      "movement": 4
+      "movement": 3
     },
     {
       "owner": "Toms Skujiņš",
@@ -626,7 +626,7 @@
           "totalPoints": 287
         }
       ],
-      "movement": 0
+      "movement": 1
     },
     {
       "owner": "Discord Undrafted",

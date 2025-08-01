@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "31 July 2025 23:26 GMT",
+  "fetchedDate": "1 August 2025 23:26 GMT",
   "momentId": 192591,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 11559.57,
+    "totalPoints": 11615.57,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
         "team": "TFS",
         "country": "nl",
-        "totalPoints": 3472.57,
+        "totalPoints": 3482.57,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - S7Stage 7 - Bourg-en-Bresse › Chambéry",
+            "date": "1 Aug 2025",
+            "points": 10,
+            "rank": 8
+          },
           {
             "name": "Tour de France Femmes avec Zwift - S6Stage 6 - Clermont-Ferrand › Ambert",
             "date": "31 Jul 2025",
@@ -608,8 +614,14 @@
         "id": 1750054,
         "team": "EFO",
         "country": "fr",
-        "totalPoints": 896.43,
+        "totalPoints": 936.43,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - S7Stage 7 - Bourg-en-Bresse › Chambéry",
+            "date": "1 Aug 2025",
+            "points": 40,
+            "rank": 2
+          },
           {
             "name": "National Championships France WE - ITT",
             "date": "26 Jun 2025",
@@ -725,8 +737,14 @@
         "id": 217072,
         "team": "LTK",
         "country": "nz",
-        "totalPoints": 1020.14,
+        "totalPoints": 1026.14,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - S7Stage 7 - Bourg-en-Bresse › Chambéry",
+            "date": "1 Aug 2025",
+            "points": 6,
+            "rank": 10
+          },
           {
             "name": "Tour de Suisse Women - General classificationGeneral classification",
             "date": "15 Jun 2025",

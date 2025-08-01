@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "31 July 2025 23:26 GMT",
+  "fetchedDate": "1 August 2025 23:26 GMT",
   "momentId": 192591,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 8798.71,
+    "totalPoints": 8823.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -840,8 +840,14 @@
         "id": 228375,
         "team": "LTK",
         "country": "nl",
-        "totalPoints": 207.14,
+        "totalPoints": 232.14,
         "results": [
+          {
+            "name": "Tour de France Femmes avec Zwift - S7Stage 7 - Bourg-en-Bresse › Chambéry",
+            "date": "1 Aug 2025",
+            "points": 25,
+            "rank": 4
+          },
           {
             "name": "Giro d'Italia Women - General classificationGeneral classification",
             "date": "13 Jul 2025",
