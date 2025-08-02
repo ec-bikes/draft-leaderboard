@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 August 2025 23:26 GMT",
+  "fetchedDate": "2 August 2025 23:27 GMT",
   "momentId": 192573,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 10828.46,
+    "totalPoints": 11272.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -463,8 +463,14 @@
         "id": 2002910,
         "team": "UAD",
         "country": "mx",
-        "totalPoints": 2914,
+        "totalPoints": 3094,
         "results": [
+          {
+            "name": "Donostia San Sebastian Klasikoa",
+            "date": "2 Aug 2025",
+            "points": 180,
+            "rank": 5
+          },
           {
             "name": "Prueba Villafranca - Ordiziako Klasika",
             "date": "25 Jul 2025",
@@ -757,8 +763,14 @@
         "id": 88143,
         "team": "EFE",
         "country": "us",
-        "totalPoints": 1110.5,
+        "totalPoints": 1250.5,
         "results": [
+          {
+            "name": "Donostia San Sebastian Klasikoa",
+            "date": "2 Aug 2025",
+            "points": 140,
+            "rank": 6
+          },
           {
             "name": "Tour de France - General classificationGeneral classification",
             "date": "27 Jul 2025",
@@ -984,8 +996,14 @@
         "id": 1557079,
         "team": "JAY",
         "country": "au",
-        "totalPoints": 667,
+        "totalPoints": 787,
         "results": [
+          {
+            "name": "Donostia San Sebastian Klasikoa",
+            "date": "2 Aug 2025",
+            "points": 120,
+            "rank": 7
+          },
           {
             "name": "Tour de France - S13 (ITT)Stage 13 (ITT) - Loudenvielle › Peyragudes",
             "date": "18 Jul 2025",
@@ -1053,8 +1071,14 @@
         "id": 762315,
         "team": "TPP",
         "country": "us",
-        "totalPoints": 18,
+        "totalPoints": 22,
         "results": [
+          {
+            "name": "Donostia San Sebastian Klasikoa",
+            "date": "2 Aug 2025",
+            "points": 4,
+            "rank": 51
+          },
           {
             "name": "Baloise Belgium Tour - General classificationGeneral classification",
             "date": "22 Jun 2025",

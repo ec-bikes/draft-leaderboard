@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 August 2025 23:26 GMT",
+  "fetchedDate": "2 August 2025 23:27 GMT",
   "momentId": 192573,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 11531.14,
+    "totalPoints": 11679.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -363,8 +363,14 @@
         "id": 1710249,
         "team": "TPP",
         "country": "gb",
-        "totalPoints": 2677,
+        "totalPoints": 2717,
         "results": [
+          {
+            "name": "Donostia San Sebastian Klasikoa",
+            "date": "2 Aug 2025",
+            "points": 40,
+            "rank": 13
+          },
           {
             "name": "Tour de France - General classificationGeneral classification",
             "date": "27 Jul 2025",
@@ -814,8 +820,14 @@
         "id": 144019,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 1481,
+        "totalPoints": 1581,
         "results": [
+          {
+            "name": "Donostia San Sebastian Klasikoa",
+            "date": "2 Aug 2025",
+            "points": 100,
+            "rank": 8
+          },
           {
             "name": "Vuelta a Castilla y Leon",
             "date": "27 Jul 2025",
@@ -954,8 +966,14 @@
         "id": 308040,
         "team": "TBV",
         "country": "it",
-        "totalPoints": 677,
+        "totalPoints": 685,
         "results": [
+          {
+            "name": "Donostia San Sebastian Klasikoa",
+            "date": "2 Aug 2025",
+            "points": 8,
+            "rank": 40
+          },
           {
             "name": "Giro d'Italia - General ClassificationGeneral Classification",
             "date": "1 Jun 2025",

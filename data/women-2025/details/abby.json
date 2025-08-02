@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 August 2025 23:26 GMT",
+  "fetchedDate": "2 August 2025 23:27 GMT",
   "momentId": 192591,
   "team": {
     "owner": "Abby Mickey",
@@ -185,47 +185,47 @@
         "totalPoints": 1354.86,
         "results": [
           {
-            "name": "Tour de France Femmes avec Zwift - S5Stage 5 - Chasseneuil-du-Poitou (Futuroscope) › Guéret",
+            "name": "Tour de France Femmes - S5Stage 5 - Chasseneuil-du-Poitou (Futuroscope) › Guéret",
             "date": "30 Jul 2025",
             "points": 10,
             "rank": 8
           },
           {
-            "name": "Tour de France Femmes avec Zwift - S4Stage 4 - Saumur › Poitiers",
+            "name": "Tour de France Femmes - S4Stage 4 - Saumur › Poitiers",
             "date": "29 Jul 2025",
             "points": 40,
             "rank": 2
           },
           {
-            "name": "Tour de France Femmes avec Zwift - S4Stage 4 - Saumur › Poitiers - Bonus",
+            "name": "Tour de France Femmes - S4Stage 4 - Saumur › Poitiers - Bonus",
             "date": "29 Jul 2025",
             "points": 8
           },
           {
-            "name": "Tour de France Femmes avec Zwift - S3Stage 3 - La Gacilly › Angers",
+            "name": "Tour de France Femmes - S3Stage 3 - La Gacilly › Angers",
             "date": "28 Jul 2025",
             "points": 40,
             "rank": 2
           },
           {
-            "name": "Tour de France Femmes avec Zwift - S3Stage 3 - La Gacilly › Angers - Bonus",
+            "name": "Tour de France Femmes - S3Stage 3 - La Gacilly › Angers - Bonus",
             "date": "28 Jul 2025",
             "points": 8
           },
           {
-            "name": "Tour de France Femmes avec Zwift - S2Stage 2 - Brest › Quimper",
+            "name": "Tour de France Femmes - S2Stage 2 - Brest › Quimper",
             "date": "27 Jul 2025",
             "points": 20,
             "rank": 5
           },
           {
-            "name": "Tour de France Femmes avec Zwift - S1Stage 1 - Vannes › Plumelec",
+            "name": "Tour de France Femmes - S1Stage 1 - Vannes › Plumelec",
             "date": "26 Jul 2025",
             "points": 50,
             "rank": 1
           },
           {
-            "name": "Tour de France Femmes avec Zwift - S1Stage 1 - Vannes › Plumelec - Bonus",
+            "name": "Tour de France Femmes - S1Stage 1 - Vannes › Plumelec - Bonus",
             "date": "26 Jul 2025",
             "points": 8
           },
@@ -323,7 +323,7 @@
         "totalPoints": 427.57,
         "results": [
           {
-            "name": "Tour de France Femmes avec Zwift - S1Stage 1 - Vannes › Plumelec",
+            "name": "Tour de France Femmes - S1Stage 1 - Vannes › Plumelec",
             "date": "26 Jul 2025",
             "points": 6,
             "rank": 10
@@ -843,7 +843,7 @@
         "totalPoints": 232.14,
         "results": [
           {
-            "name": "Tour de France Femmes avec Zwift - S7Stage 7 - Bourg-en-Bresse › Chambéry",
+            "name": "Tour de France Femmes - S7Stage 7 - Bourg-en-Bresse › Chambéry",
             "date": "1 Aug 2025",
             "points": 25,
             "rank": 4

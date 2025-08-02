@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 August 2025 23:26 GMT",
+  "fetchedDate": "2 August 2025 23:27 GMT",
   "momentId": 192573,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 10637.28,
+    "totalPoints": 10645.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -1010,8 +1010,14 @@
         "id": 373832,
         "team": "MOV",
         "country": "es",
-        "totalPoints": 354.71,
+        "totalPoints": 362.71,
         "results": [
+          {
+            "name": "Donostia San Sebastian Klasikoa",
+            "date": "2 Aug 2025",
+            "points": 8,
+            "rank": 35
+          },
           {
             "name": "Tour de France - S5 (ITT)Stage 5 (ITT) - Caen › Caen",
             "date": "9 Jul 2025",

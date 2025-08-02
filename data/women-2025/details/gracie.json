@@ -1,46 +1,52 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 August 2025 23:26 GMT",
+  "fetchedDate": "2 August 2025 23:27 GMT",
   "momentId": 192591,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 11615.57,
+    "totalPoints": 11688.57,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
         "team": "TFS",
         "country": "nl",
-        "totalPoints": 3482.57,
+        "totalPoints": 3507.57,
         "results": [
           {
-            "name": "Tour de France Femmes avec Zwift - S7Stage 7 - Bourg-en-Bresse › Chambéry",
+            "name": "Tour de France Femmes - S8Stage 8 - Chambéry › Saint-François Longchamp",
+            "date": "2 Aug 2025",
+            "points": 25,
+            "rank": 4
+          },
+          {
+            "name": "Tour de France Femmes - S7Stage 7 - Bourg-en-Bresse › Chambéry",
             "date": "1 Aug 2025",
             "points": 10,
             "rank": 8
           },
           {
-            "name": "Tour de France Femmes avec Zwift - S6Stage 6 - Clermont-Ferrand › Ambert",
+            "name": "Tour de France Femmes - S6Stage 6 - Clermont-Ferrand › Ambert",
             "date": "31 Jul 2025",
             "points": 25,
             "rank": 4
           },
           {
-            "name": "Tour de France Femmes avec Zwift - S5Stage 5 - Chasseneuil-du-Poitou (Futuroscope) › Guéret",
+            "name": "Tour de France Femmes - S5Stage 5 - Chasseneuil-du-Poitou (Futuroscope) › Guéret",
             "date": "30 Jul 2025",
             "points": 40,
             "rank": 2
           },
           {
-            "name": "Tour de France Femmes avec Zwift - S2Stage 2 - Brest › Quimper",
+            "name": "Tour de France Femmes - S2Stage 2 - Brest › Quimper",
             "date": "27 Jul 2025",
             "points": 15,
             "rank": 7
           },
           {
-            "name": "Tour de France Femmes avec Zwift - S1Stage 1 - Vannes › Plumelec",
+            "name": "Tour de France Femmes - S1Stage 1 - Vannes › Plumelec",
             "date": "26 Jul 2025",
             "points": 20,
             "rank": 5
@@ -352,7 +358,7 @@
         "totalPoints": 741.86,
         "results": [
           {
-            "name": "Tour de France Femmes avec Zwift - S4Stage 4 - Saumur › Poitiers",
+            "name": "Tour de France Femmes - S4Stage 4 - Saumur › Poitiers",
             "date": "29 Jul 2025",
             "points": 20,
             "rank": 5
@@ -614,10 +620,16 @@
         "id": 1750054,
         "team": "EFO",
         "country": "fr",
-        "totalPoints": 936.43,
+        "totalPoints": 954.43,
         "results": [
           {
-            "name": "Tour de France Femmes avec Zwift - S7Stage 7 - Bourg-en-Bresse › Chambéry",
+            "name": "Tour de France Femmes - S8Stage 8 - Chambéry › Saint-François Longchamp",
+            "date": "2 Aug 2025",
+            "points": 18,
+            "rank": 6
+          },
+          {
+            "name": "Tour de France Femmes - S7Stage 7 - Bourg-en-Bresse › Chambéry",
             "date": "1 Aug 2025",
             "points": 40,
             "rank": 2
@@ -737,10 +749,16 @@
         "id": 217072,
         "team": "LTK",
         "country": "nz",
-        "totalPoints": 1026.14,
+        "totalPoints": 1056.14,
         "results": [
           {
-            "name": "Tour de France Femmes avec Zwift - S7Stage 7 - Bourg-en-Bresse › Chambéry",
+            "name": "Tour de France Femmes - S8Stage 8 - Chambéry › Saint-François Longchamp",
+            "date": "2 Aug 2025",
+            "points": 30,
+            "rank": 3
+          },
+          {
+            "name": "Tour de France Femmes - S7Stage 7 - Bourg-en-Bresse › Chambéry",
             "date": "1 Aug 2025",
             "points": 6,
             "rank": 10
@@ -884,7 +902,7 @@
         "totalPoints": 1203,
         "results": [
           {
-            "name": "Tour de France Femmes avec Zwift - S5Stage 5 - Chasseneuil-du-Poitou (Futuroscope) › Guéret",
+            "name": "Tour de France Femmes - S5Stage 5 - Chasseneuil-du-Poitou (Futuroscope) › Guéret",
             "date": "30 Jul 2025",
             "points": 6,
             "rank": 10

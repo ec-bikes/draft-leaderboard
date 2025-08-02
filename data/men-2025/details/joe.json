@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 August 2025 23:26 GMT",
+  "fetchedDate": "2 August 2025 23:27 GMT",
   "momentId": 192573,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 10931.42,
+    "totalPoints": 11255.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -543,8 +543,14 @@
         "id": 462394,
         "team": "UAD",
         "country": "ch",
-        "totalPoints": 560,
+        "totalPoints": 880,
         "results": [
+          {
+            "name": "Donostia San Sebastian Klasikoa",
+            "date": "2 Aug 2025",
+            "points": 320,
+            "rank": 2
+          },
           {
             "name": "National Championships Switzerland ME - Road Race",
             "date": "29 Jun 2025",
@@ -1034,8 +1040,14 @@
         "id": 154227,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 112,
+        "totalPoints": 116,
         "results": [
+          {
+            "name": "Donostia San Sebastian Klasikoa",
+            "date": "2 Aug 2025",
+            "points": 4,
+            "rank": 55
+          },
           {
             "name": "Tour de Suisse - General classificationGeneral classification",
             "date": "22 Jun 2025",

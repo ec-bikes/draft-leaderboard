@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 August 2025 23:26 GMT",
+  "fetchedDate": "2 August 2025 23:27 GMT",
   "momentId": 192573,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 15632,
+    "totalPoints": 15656,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -383,8 +383,14 @@
         "id": 68892,
         "team": "LTK",
         "country": "lv",
-        "totalPoints": 315,
+        "totalPoints": 323,
         "results": [
+          {
+            "name": "Donostia San Sebastian Klasikoa",
+            "date": "2 Aug 2025",
+            "points": 8,
+            "rank": 43
+          },
           {
             "name": "National Championships Latvia ME - Road Race",
             "date": "29 Jun 2025",
@@ -839,8 +845,14 @@
         "id": 422863,
         "team": "COF",
         "country": "es",
-        "totalPoints": 714,
+        "totalPoints": 730,
         "results": [
+          {
+            "name": "Donostia San Sebastian Klasikoa",
+            "date": "2 Aug 2025",
+            "points": 16,
+            "rank": 23
+          },
           {
             "name": "Tour de France - S21Stage 21 - Mantes-la-Ville › Paris",
             "date": "27 Jul 2025",

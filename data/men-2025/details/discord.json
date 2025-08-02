@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 August 2025 23:26 GMT",
+  "fetchedDate": "2 August 2025 23:27 GMT",
   "momentId": 192573,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 7903.38,
+    "totalPoints": 7959.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -705,8 +705,14 @@
         "id": 109483,
         "team": "JAY",
         "country": "ch",
-        "totalPoints": 904.67,
+        "totalPoints": 960.67,
         "results": [
+          {
+            "name": "Donostia San Sebastian Klasikoa",
+            "date": "2 Aug 2025",
+            "points": 56,
+            "rank": 11
+          },
           {
             "name": "Tour de France - S11Stage 11 - Toulouse › Toulouse",
             "date": "16 Jul 2025",

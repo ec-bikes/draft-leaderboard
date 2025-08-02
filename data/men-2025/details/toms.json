@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 August 2025 23:26 GMT",
+  "fetchedDate": "2 August 2025 23:27 GMT",
   "momentId": 192573,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 10629.25,
+    "totalPoints": 11029.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -529,8 +529,14 @@
         "id": 97091,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 1431,
+        "totalPoints": 1831,
         "results": [
+          {
+            "name": "Donostia San Sebastian Klasikoa",
+            "date": "2 Aug 2025",
+            "points": 400,
+            "rank": 1
+          },
           {
             "name": "Giro d'Italia - S13Stage 13 - Rovigo › Vicenza",
             "date": "23 May 2025",

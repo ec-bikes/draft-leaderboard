@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 August 2025 23:26 GMT",
+  "fetchedDate": "2 August 2025 23:27 GMT",
   "momentId": 192573,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 13266.57,
+    "totalPoints": 13318.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -117,8 +117,14 @@
         "id": 88889,
         "team": "RBH",
         "country": "si",
-        "totalPoints": 1575,
+        "totalPoints": 1591,
         "results": [
+          {
+            "name": "Donostia San Sebastian Klasikoa",
+            "date": "2 Aug 2025",
+            "points": 16,
+            "rank": 22
+          },
           {
             "name": "Tour de France - General classificationGeneral classification",
             "date": "27 Jul 2025",
@@ -330,8 +336,14 @@
         "id": 415141,
         "team": "UAD",
         "country": "es",
-        "totalPoints": 1777,
+        "totalPoints": 1785,
         "results": [
+          {
+            "name": "Donostia San Sebastian Klasikoa",
+            "date": "2 Aug 2025",
+            "points": 8,
+            "rank": 39
+          },
           {
             "name": "Giro d'Italia - S13Stage 13 - Rovigo › Vicenza",
             "date": "23 May 2025",
@@ -909,8 +921,14 @@
         "id": 1759422,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 1335,
+        "totalPoints": 1363,
         "results": [
+          {
+            "name": "Donostia San Sebastian Klasikoa",
+            "date": "2 Aug 2025",
+            "points": 28,
+            "rank": 15
+          },
           {
             "name": "Tour de France - General classificationGeneral classification",
             "date": "27 Jul 2025",

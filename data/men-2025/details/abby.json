@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 August 2025 23:26 GMT",
+  "fetchedDate": "2 August 2025 23:27 GMT",
   "momentId": 192573,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 8971.29,
+    "totalPoints": 9231.29,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -289,8 +289,14 @@
         "id": 154218,
         "team": "LOT",
         "country": "be",
-        "totalPoints": 267,
+        "totalPoints": 527,
         "results": [
+          {
+            "name": "Donostia San Sebastian Klasikoa",
+            "date": "2 Aug 2025",
+            "points": 260,
+            "rank": 3
+          },
           {
             "name": "Critérium du Dauphiné - General classificationGeneral classification",
             "date": "15 Jun 2025",
