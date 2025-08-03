@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 August 2025 23:27 GMT",
+  "fetchedDate": "3 August 2025 23:26 GMT",
   "momentId": 192591,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 8823.71,
+    "totalPoints": 8839.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -182,8 +182,14 @@
         "id": 31144,
         "team": "TVL",
         "country": "nl",
-        "totalPoints": 1354.86,
+        "totalPoints": 1362.86,
         "results": [
+          {
+            "name": "Tour de France Femmes - General classificationGeneral classification",
+            "date": "3 Aug 2025",
+            "points": 8,
+            "rank": 37
+          },
           {
             "name": "Tour de France Femmes - S5Stage 5 - Chasseneuil-du-Poitou (Futuroscope) › Guéret",
             "date": "30 Jul 2025",
@@ -840,8 +846,14 @@
         "id": 228375,
         "team": "LTK",
         "country": "nl",
-        "totalPoints": 232.14,
+        "totalPoints": 240.14,
         "results": [
+          {
+            "name": "Tour de France Femmes - General classificationGeneral classification",
+            "date": "3 Aug 2025",
+            "points": 8,
+            "rank": 36
+          },
           {
             "name": "Tour de France Femmes - S7Stage 7 - Bourg-en-Bresse › Chambéry",
             "date": "1 Aug 2025",

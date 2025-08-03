@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 August 2025 23:27 GMT",
+  "fetchedDate": "3 August 2025 23:26 GMT",
   "momentId": 192573,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 13318.57,
+    "totalPoints": 13403.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -336,8 +336,14 @@
         "id": 415141,
         "team": "UAD",
         "country": "es",
-        "totalPoints": 1785,
+        "totalPoints": 1870,
         "results": [
+          {
+            "name": "Circuito de Getxo - Memorial Hermanos Otxoa",
+            "date": "3 Aug 2025",
+            "points": 85,
+            "rank": 2
+          },
           {
             "name": "Donostia San Sebastian Klasikoa",
             "date": "2 Aug 2025",

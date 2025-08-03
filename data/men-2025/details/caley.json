@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 August 2025 23:27 GMT",
+  "fetchedDate": "3 August 2025 23:26 GMT",
   "momentId": 192573,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 11272.46,
+    "totalPoints": 11397.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -463,8 +463,14 @@
         "id": 2002910,
         "team": "UAD",
         "country": "mx",
-        "totalPoints": 3094,
+        "totalPoints": 3219,
         "results": [
+          {
+            "name": "Circuito de Getxo - Memorial Hermanos Otxoa",
+            "date": "3 Aug 2025",
+            "points": 125,
+            "rank": 1
+          },
           {
             "name": "Donostia San Sebastian Klasikoa",
             "date": "2 Aug 2025",

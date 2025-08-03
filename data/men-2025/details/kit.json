@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 August 2025 23:27 GMT",
+  "fetchedDate": "3 August 2025 23:26 GMT",
   "momentId": 192573,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 15656,
+    "totalPoints": 15756,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -383,8 +383,14 @@
         "id": 68892,
         "team": "LTK",
         "country": "lv",
-        "totalPoints": 323,
+        "totalPoints": 353,
         "results": [
+          {
+            "name": "Circuito de Getxo - Memorial Hermanos Otxoa",
+            "date": "3 Aug 2025",
+            "points": 30,
+            "rank": 8
+          },
           {
             "name": "Donostia San Sebastian Klasikoa",
             "date": "2 Aug 2025",
@@ -845,8 +851,14 @@
         "id": 422863,
         "team": "COF",
         "country": "es",
-        "totalPoints": 730,
+        "totalPoints": 800,
         "results": [
+          {
+            "name": "Circuito de Getxo - Memorial Hermanos Otxoa",
+            "date": "3 Aug 2025",
+            "points": 70,
+            "rank": 3
+          },
           {
             "name": "Donostia San Sebastian Klasikoa",
             "date": "2 Aug 2025",

@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 August 2025 23:27 GMT",
+  "fetchedDate": "3 August 2025 23:26 GMT",
   "momentId": 192573,
   "teams": [
     {
       "owner": "Kit Nicholson",
       "name": "Picnic-Letterboxd",
-      "totalPoints": 15656,
+      "totalPoints": 15756,
       "riders": [
         {
           "name": "Tadej Pogačar",
@@ -28,7 +28,7 @@
           "id": 68892,
           "team": "LTK",
           "country": "lv",
-          "totalPoints": 323
+          "totalPoints": 353
         },
         {
           "name": "Mikel Landa",
@@ -70,7 +70,7 @@
           "id": 422863,
           "team": "COF",
           "country": "es",
-          "totalPoints": 730
+          "totalPoints": 800
         },
         {
           "name": "Paul Lapeira",
@@ -158,7 +158,7 @@
           "totalPoints": 685
         }
       ],
-      "movement": 4
+      "movement": 0
     },
     {
       "owner": "Toms Skujiņš",
@@ -236,12 +236,12 @@
           "totalPoints": 398
         }
       ],
-      "movement": -1
+      "movement": 1
     },
     {
       "owner": "Dane Cash",
       "name": "Visma-Lease a Bike-Monster Energy",
-      "totalPoints": 13318.57,
+      "totalPoints": 13403.57,
       "riders": [
         {
           "name": "Jasper Philipsen",
@@ -269,7 +269,7 @@
           "id": 415141,
           "team": "UAD",
           "country": "es",
-          "totalPoints": 1785
+          "totalPoints": 1870
         },
         {
           "name": "Simon Yates",
@@ -470,12 +470,12 @@
           "totalPoints": 124
         }
       ],
-      "movement": -2
+      "movement": -1
     },
     {
       "owner": "Caley Fretz",
       "name": "US Postal Service Bald Eagles",
-      "totalPoints": 11272.46,
+      "totalPoints": 11397.46,
       "riders": [
         {
           "name": "Matteo Jorgenson",
@@ -510,7 +510,7 @@
           "id": 2002910,
           "team": "UAD",
           "country": "mx",
-          "totalPoints": 3094
+          "totalPoints": 3219
         },
         {
           "name": "Daniel Martínez",
@@ -548,7 +548,7 @@
           "totalPoints": 22
         }
       ],
-      "movement": 0
+      "movement": 1
     },
     {
       "owner": "Andrew (member)",

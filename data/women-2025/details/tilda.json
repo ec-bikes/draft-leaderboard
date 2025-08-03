@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 August 2025 23:27 GMT",
+  "fetchedDate": "3 August 2025 23:26 GMT",
   "momentId": 192591,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 9800.72,
+    "totalPoints": 9996.72,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -187,8 +187,14 @@
         "id": 109412,
         "team": "TFS",
         "country": "fr",
-        "totalPoints": 582.57,
+        "totalPoints": 650.57,
         "results": [
+          {
+            "name": "Tour de France Femmes - General classificationGeneral classification",
+            "date": "3 Aug 2025",
+            "points": 68,
+            "rank": 10
+          },
           {
             "name": "Tour de France Femmes - S5Stage 5 - Chasseneuil-du-Poitou (Futuroscope) › Guéret",
             "date": "30 Jul 2025",
@@ -298,8 +304,14 @@
         "id": 234336,
         "team": "FDC",
         "country": "nl",
-        "totalPoints": 1865,
+        "totalPoints": 1881,
         "results": [
+          {
+            "name": "Tour de France Femmes - General classificationGeneral classification",
+            "date": "3 Aug 2025",
+            "points": 16,
+            "rank": 24
+          },
           {
             "name": "Tour de France Femmes - S6Stage 6 - Clermont-Ferrand › Ambert",
             "date": "31 Jul 2025",
@@ -507,8 +519,20 @@
         "id": 79690,
         "team": "FDC",
         "country": "nl",
-        "totalPoints": 526,
+        "totalPoints": 614,
         "results": [
+          {
+            "name": "Tour de France Femmes - General classificationGeneral classification",
+            "date": "3 Aug 2025",
+            "points": 80,
+            "rank": 9
+          },
+          {
+            "name": "Tour de France Femmes - S9Stage 9 - Praz-sur-Arly › Châtel Les Portes du Soleil",
+            "date": "3 Aug 2025",
+            "points": 8,
+            "rank": 9
+          },
           {
             "name": "Tour de France Femmes - S8Stage 8 - Chambéry › Saint-François Longchamp",
             "date": "2 Aug 2025",
@@ -612,8 +636,14 @@
         "id": 1742562,
         "team": "TVL",
         "country": "fr",
-        "totalPoints": 280.86,
+        "totalPoints": 288.86,
         "results": [
+          {
+            "name": "Tour de France Femmes - General classificationGeneral classification",
+            "date": "3 Aug 2025",
+            "points": 8,
+            "rank": 39
+          },
           {
             "name": "Tour de France Femmes - S8Stage 8 - Chambéry › Saint-François Longchamp",
             "date": "2 Aug 2025",
@@ -825,8 +855,14 @@
         "id": 398547,
         "team": "LIV",
         "country": "es",
-        "totalPoints": 798.29,
+        "totalPoints": 814.29,
         "results": [
+          {
+            "name": "Tour de France Femmes - General classificationGeneral classification",
+            "date": "3 Aug 2025",
+            "points": 16,
+            "rank": 27
+          },
           {
             "name": "Tour de France Femmes - S2Stage 2 - Brest › Quimper",
             "date": "27 Jul 2025",

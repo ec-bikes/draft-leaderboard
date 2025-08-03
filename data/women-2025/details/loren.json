@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 August 2025 23:27 GMT",
+  "fetchedDate": "3 August 2025 23:26 GMT",
   "momentId": 192591,
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women’s Cycling Team",
-    "totalPoints": 7061.58,
+    "totalPoints": 7133.58,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -106,8 +106,14 @@
         "id": 86838,
         "team": "CSZ",
         "country": "dk",
-        "totalPoints": 245,
+        "totalPoints": 261,
         "results": [
+          {
+            "name": "Tour de France Femmes - General classificationGeneral classification",
+            "date": "3 Aug 2025",
+            "points": 16,
+            "rank": 21
+          },
           {
             "name": "Giro d'Italia Women - General classificationGeneral classification",
             "date": "13 Jul 2025",
@@ -175,8 +181,14 @@
         "id": 88660,
         "team": "AGS",
         "country": "mu",
-        "totalPoints": 1718,
+        "totalPoints": 1742,
         "results": [
+          {
+            "name": "Tour de France Femmes - General classificationGeneral classification",
+            "date": "3 Aug 2025",
+            "points": 24,
+            "rank": 16
+          },
           {
             "name": "Tour de France Femmes - S7Stage 7 - Bourg-en-Bresse › Chambéry",
             "date": "1 Aug 2025",
@@ -311,8 +323,14 @@
         "id": 2202121,
         "team": "AGS",
         "country": "be",
-        "totalPoints": 677,
+        "totalPoints": 709,
         "results": [
+          {
+            "name": "Tour de France Femmes - General classificationGeneral classification",
+            "date": "3 Aug 2025",
+            "points": 32,
+            "rank": 14
+          },
           {
             "name": "National Championships Belgium WE - Road Race",
             "date": "29 Jun 2025",

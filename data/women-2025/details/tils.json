@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 August 2025 23:27 GMT",
+  "fetchedDate": "3 August 2025 23:26 GMT",
   "momentId": 192591,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 9639.14,
+    "totalPoints": 10145.14,
     "riders": [
       {
         "name": "Liane Lippert",
@@ -166,8 +166,14 @@
         "id": 59726,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 1290.71,
+        "totalPoints": 1346.71,
         "results": [
+          {
+            "name": "Tour de France Femmes - General classificationGeneral classification",
+            "date": "3 Aug 2025",
+            "points": 56,
+            "rank": 11
+          },
           {
             "name": "Tour de France Femmes - S7Stage 7 - Bourg-en-Bresse › Chambéry",
             "date": "1 Aug 2025",
@@ -987,8 +993,20 @@
         "id": 66298,
         "team": "TVL",
         "country": "fr",
-        "totalPoints": 1271.86,
+        "totalPoints": 1721.86,
         "results": [
+          {
+            "name": "Tour de France Femmes - General classificationGeneral classification",
+            "date": "3 Aug 2025",
+            "points": 400,
+            "rank": 1
+          },
+          {
+            "name": "Tour de France Femmes - S9Stage 9 - Praz-sur-Arly › Châtel Les Portes du Soleil",
+            "date": "3 Aug 2025",
+            "points": 50,
+            "rank": 1
+          },
           {
             "name": "Tour de France Femmes - S8Stage 8 - Chambéry › Saint-François Longchamp",
             "date": "2 Aug 2025",
