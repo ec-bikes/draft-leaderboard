@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 August 2025 23:26 GMT",
+  "fetchedDate": "4 August 2025 23:27 GMT",
   "momentId": 192573,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 10645.28,
+    "totalPoints": 10703.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -316,8 +316,19 @@
         "id": 227110,
         "team": "TVL",
         "country": "nl",
-        "totalPoints": 1325,
+        "totalPoints": 1383,
         "results": [
+          {
+            "name": "Tour de Pologne - S1Stage 1 - Wrocław › Legnica",
+            "date": "4 Aug 2025",
+            "points": 50,
+            "rank": 1
+          },
+          {
+            "name": "Tour de Pologne - S1Stage 1 - Wrocław › Legnica - Bonus",
+            "date": "4 Aug 2025",
+            "points": 8
+          },
           {
             "name": "National Championships Netherlands ME - Road Race",
             "date": "28 Jun 2025",

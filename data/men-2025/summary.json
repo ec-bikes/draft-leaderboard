@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 August 2025 23:26 GMT",
+  "fetchedDate": "4 August 2025 23:27 GMT",
   "momentId": 192573,
   "teams": [
     {
@@ -553,7 +553,7 @@
     {
       "owner": "Andrew (member)",
       "name": "Groupama-FDJ-Tourtel Twist",
-      "totalPoints": 10645.28,
+      "totalPoints": 10703.28,
       "riders": [
         {
           "name": "Adam Yates",
@@ -574,7 +574,7 @@
           "id": 227110,
           "team": "TVL",
           "country": "nl",
-          "totalPoints": 1325
+          "totalPoints": 1383
         },
         {
           "name": "Kévin Vauquelin",
@@ -631,7 +631,7 @@
     {
       "owner": "Discord Undrafted",
       "name": "Team Movistar easyJet",
-      "totalPoints": 7959.38,
+      "totalPoints": 7989.38,
       "riders": [
         {
           "name": "Dylan Groenewegen",
@@ -680,7 +680,7 @@
           "id": 1759987,
           "team": "SOQ",
           "country": "fr",
-          "totalPoints": 1171
+          "totalPoints": 1201
         },
         {
           "name": "Mauro Schmid",
