@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "4 August 2025 23:27 GMT",
-  "momentId": 192573,
+  "fetchedDate": "5 August 2025 23:27 GMT",
+  "momentId": 192737,
   "teams": [
     {
       "owner": "Kit Nicholson",
       "name": "Picnic-Letterboxd",
-      "totalPoints": 15756,
+      "totalPoints": 15814,
       "riders": [
         {
           "name": "Tadej Pogačar",
@@ -77,7 +77,7 @@
           "id": 257361,
           "team": "DAT",
           "country": "fr",
-          "totalPoints": 229
+          "totalPoints": 287
         }
       ],
       "movement": 0
@@ -85,7 +85,7 @@
     {
       "owner": "Jonny Long",
       "name": "Ineos Grenadiers-Greenpeace-Poundland",
-      "totalPoints": 11679.14,
+      "totalPoints": 11699.14,
       "riders": [
         {
           "name": "Jonas Vingegaard",
@@ -155,7 +155,7 @@
           "id": 308040,
           "team": "TBV",
           "country": "it",
-          "totalPoints": 685
+          "totalPoints": 705
         }
       ],
       "movement": 0
@@ -163,7 +163,7 @@
     {
       "owner": "Toms Skujiņš",
       "name": "Lidl-Trek-Bauer",
-      "totalPoints": 11029.25,
+      "totalPoints": 11059.25,
       "riders": [
         {
           "name": "Remco Evenepoel",
@@ -212,7 +212,7 @@
           "id": 472995,
           "team": "LTK",
           "country": "cz",
-          "totalPoints": 577.86
+          "totalPoints": 607.86
         },
         {
           "name": "Milan Fretin",
@@ -319,7 +319,7 @@
     {
       "owner": "Abby Mickey",
       "name": "EF Education-Swift Nation",
-      "totalPoints": 9231.29,
+      "totalPoints": 9237.29,
       "riders": [
         {
           "name": "Wout van Aert",
@@ -375,7 +375,7 @@
           "id": 217083,
           "team": "RBH",
           "country": "nz",
-          "totalPoints": 663
+          "totalPoints": 669
         },
         {
           "name": "Thymen Arensman",
@@ -397,7 +397,7 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 11255.42,
+      "totalPoints": 11278.42,
       "riders": [
         {
           "name": "Mathieu van der Poel",
@@ -418,7 +418,7 @@
           "id": 150923,
           "team": "UAD",
           "country": "us",
-          "totalPoints": 664.57
+          "totalPoints": 672.57
         },
         {
           "name": "Aleksandr Vlasov",
@@ -432,7 +432,7 @@
           "id": 462394,
           "team": "UAD",
           "country": "ch",
-          "totalPoints": 880
+          "totalPoints": 895
         },
         {
           "name": "Axel Zingle",
@@ -631,7 +631,7 @@
     {
       "owner": "Discord Undrafted",
       "name": "Team Movistar easyJet",
-      "totalPoints": 7989.38,
+      "totalPoints": 8014.38,
       "riders": [
         {
           "name": "Dylan Groenewegen",
@@ -701,7 +701,7 @@
           "id": 407508,
           "team": "RBH",
           "country": "es",
-          "totalPoints": 310
+          "totalPoints": 335
         }
       ],
       "movement": 0

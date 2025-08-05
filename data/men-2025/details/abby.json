@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "4 August 2025 23:27 GMT",
-  "momentId": 192573,
+  "fetchedDate": "5 August 2025 23:27 GMT",
+  "momentId": 192737,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 9231.29,
+    "totalPoints": 9237.29,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -626,8 +626,14 @@
         "id": 217083,
         "team": "RBH",
         "country": "nz",
-        "totalPoints": 663,
+        "totalPoints": 669,
         "results": [
+          {
+            "name": "Tour de Pologne - S2Stage 2 - Hotel Gołębiewski Karpacz › Karpacz",
+            "date": "5 Aug 2025",
+            "points": 6,
+            "rank": 8
+          },
           {
             "name": "Critérium du Dauphiné - General classificationGeneral classification",
             "date": "15 Jun 2025",

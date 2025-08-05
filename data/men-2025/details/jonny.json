@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "4 August 2025 23:27 GMT",
-  "momentId": 192573,
+  "fetchedDate": "5 August 2025 23:27 GMT",
+  "momentId": 192737,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 11679.14,
+    "totalPoints": 11699.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -966,8 +966,14 @@
         "id": 308040,
         "team": "TBV",
         "country": "it",
-        "totalPoints": 685,
+        "totalPoints": 705,
         "results": [
+          {
+            "name": "Tour de Pologne - S2Stage 2 - Hotel Gołębiewski Karpacz › Karpacz",
+            "date": "5 Aug 2025",
+            "points": 20,
+            "rank": 4
+          },
           {
             "name": "Donostia San Sebastian Klasikoa",
             "date": "2 Aug 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "4 August 2025 23:27 GMT",
-  "momentId": 192573,
+  "fetchedDate": "5 August 2025 23:27 GMT",
+  "momentId": 192737,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 15756,
+    "totalPoints": 15814,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -1004,8 +1004,19 @@
         "id": 257361,
         "team": "DAT",
         "country": "fr",
-        "totalPoints": 229,
+        "totalPoints": 287,
         "results": [
+          {
+            "name": "Tour de Pologne - S2Stage 2 - Hotel Gołębiewski Karpacz › Karpacz",
+            "date": "5 Aug 2025",
+            "points": 50,
+            "rank": 1
+          },
+          {
+            "name": "Tour de Pologne - S2Stage 2 - Hotel Gołębiewski Karpacz › Karpacz - Bonus",
+            "date": "5 Aug 2025",
+            "points": 8
+          },
           {
             "name": "National Championships France ME - Road Race",
             "date": "29 Jun 2025",

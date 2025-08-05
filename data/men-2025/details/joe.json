@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "4 August 2025 23:27 GMT",
-  "momentId": 192573,
+  "fetchedDate": "5 August 2025 23:27 GMT",
+  "momentId": 192737,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 11255.42,
+    "totalPoints": 11278.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -339,8 +339,14 @@
         "id": 150923,
         "team": "UAD",
         "country": "us",
-        "totalPoints": 664.57,
+        "totalPoints": 672.57,
         "results": [
+          {
+            "name": "Tour de Pologne - S2Stage 2 - Hotel Gołębiewski Karpacz › Karpacz",
+            "date": "5 Aug 2025",
+            "points": 8,
+            "rank": 7
+          },
           {
             "name": "Giro d'Italia - General ClassificationGeneral Classification",
             "date": "1 Jun 2025",
@@ -543,8 +549,14 @@
         "id": 462394,
         "team": "UAD",
         "country": "ch",
-        "totalPoints": 880,
+        "totalPoints": 895,
         "results": [
+          {
+            "name": "Tour de Pologne - S2Stage 2 - Hotel Gołębiewski Karpacz › Karpacz",
+            "date": "5 Aug 2025",
+            "points": 15,
+            "rank": 5
+          },
           {
             "name": "Donostia San Sebastian Klasikoa",
             "date": "2 Aug 2025",

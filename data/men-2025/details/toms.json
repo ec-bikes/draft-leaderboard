@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "4 August 2025 23:27 GMT",
-  "momentId": 192573,
+  "fetchedDate": "5 August 2025 23:27 GMT",
+  "momentId": 192737,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 11029.25,
+    "totalPoints": 11059.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -797,8 +797,14 @@
         "id": 472995,
         "team": "LTK",
         "country": "cz",
-        "totalPoints": 577.86,
+        "totalPoints": 607.86,
         "results": [
+          {
+            "name": "Tour de Pologne - S2Stage 2 - Hotel Gołębiewski Karpacz › Karpacz",
+            "date": "5 Aug 2025",
+            "points": 30,
+            "rank": 2
+          },
           {
             "name": "Ethias-Tour de Wallonie - General classificationGeneral classification",
             "date": "30 Jul 2025",
