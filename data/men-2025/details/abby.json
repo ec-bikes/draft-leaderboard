@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 August 2025 23:27 GMT",
+  "fetchedDate": "6 August 2025 23:27 GMT",
   "momentId": 192737,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 9237.29,
+    "totalPoints": 9242.29,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -577,8 +577,14 @@
         "id": 112351,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 190,
+        "totalPoints": 195,
         "results": [
+          {
+            "name": "Tour de l'Ain - S1Stage 1 - Feillens › Lagnieu",
+            "date": "6 Aug 2025",
+            "points": 5,
+            "rank": 2
+          },
           {
             "name": "Tour de Romandie - General classificationGeneral classification",
             "date": "4 May 2025",

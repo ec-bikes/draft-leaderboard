@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 August 2025 23:27 GMT",
+  "fetchedDate": "6 August 2025 23:27 GMT",
   "momentId": 192737,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 15814,
+    "totalPoints": 15822,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -1004,8 +1004,13 @@
         "id": 257361,
         "team": "DAT",
         "country": "fr",
-        "totalPoints": 287,
+        "totalPoints": 295,
         "results": [
+          {
+            "name": "Tour de Pologne - S3Stage 3 - Wałbrzych › Wałbrzych - Bonus",
+            "date": "6 Aug 2025",
+            "points": 8
+          },
           {
             "name": "Tour de Pologne - S2Stage 2 - Hotel Gołębiewski Karpacz › Karpacz",
             "date": "5 Aug 2025",

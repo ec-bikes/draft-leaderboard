@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 August 2025 23:27 GMT",
+  "fetchedDate": "6 August 2025 23:27 GMT",
   "momentId": 192737,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 11278.42,
+    "totalPoints": 11298.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -549,8 +549,14 @@
         "id": 462394,
         "team": "UAD",
         "country": "ch",
-        "totalPoints": 895,
+        "totalPoints": 915,
         "results": [
+          {
+            "name": "Tour de Pologne - S3Stage 3 - Wałbrzych › Wałbrzych",
+            "date": "6 Aug 2025",
+            "points": 20,
+            "rank": 4
+          },
           {
             "name": "Tour de Pologne - S2Stage 2 - Hotel Gołębiewski Karpacz › Karpacz",
             "date": "5 Aug 2025",

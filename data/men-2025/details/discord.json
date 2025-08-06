@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 August 2025 23:27 GMT",
+  "fetchedDate": "6 August 2025 23:27 GMT",
   "momentId": 192737,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 8014.38,
+    "totalPoints": 8019.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -867,8 +867,13 @@
         "id": 407508,
         "team": "RBH",
         "country": "es",
-        "totalPoints": 335,
+        "totalPoints": 340,
         "results": [
+          {
+            "name": "Vuelta a Burgos - S2Stage 2 - Cilleruelo de Abajo › Buniel - Bonus",
+            "date": "6 Aug 2025",
+            "points": 5
+          },
           {
             "name": "Vuelta a Burgos - S1Stage 1 - Olmillos de Sasamón › Burgos",
             "date": "5 Aug 2025",

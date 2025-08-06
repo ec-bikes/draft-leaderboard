@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 August 2025 23:27 GMT",
+  "fetchedDate": "6 August 2025 23:27 GMT",
   "momentId": 192737,
   "teams": [
     {
       "owner": "Kit Nicholson",
       "name": "Picnic-Letterboxd",
-      "totalPoints": 15814,
+      "totalPoints": 15822,
       "riders": [
         {
           "name": "Tadej Pogačar",
@@ -77,7 +77,7 @@
           "id": 257361,
           "team": "DAT",
           "country": "fr",
-          "totalPoints": 287
+          "totalPoints": 295
         }
       ],
       "movement": 0
@@ -163,7 +163,7 @@
     {
       "owner": "Toms Skujiņš",
       "name": "Lidl-Trek-Bauer",
-      "totalPoints": 11059.25,
+      "totalPoints": 11089.25,
       "riders": [
         {
           "name": "Remco Evenepoel",
@@ -191,7 +191,7 @@
           "id": 76092,
           "team": "TBV",
           "country": "es",
-          "totalPoints": 771
+          "totalPoints": 801
         },
         {
           "name": "Giulio Ciccone",
@@ -319,7 +319,7 @@
     {
       "owner": "Abby Mickey",
       "name": "EF Education-Swift Nation",
-      "totalPoints": 9237.29,
+      "totalPoints": 9242.29,
       "riders": [
         {
           "name": "Wout van Aert",
@@ -368,7 +368,7 @@
           "id": 112351,
           "team": "GFC",
           "country": "fr",
-          "totalPoints": 190
+          "totalPoints": 195
         },
         {
           "name": "Finn Fisher-Black",
@@ -397,7 +397,7 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 11278.42,
+      "totalPoints": 11298.42,
       "riders": [
         {
           "name": "Mathieu van der Poel",
@@ -432,7 +432,7 @@
           "id": 462394,
           "team": "UAD",
           "country": "ch",
-          "totalPoints": 895
+          "totalPoints": 915
         },
         {
           "name": "Axel Zingle",
@@ -631,7 +631,7 @@
     {
       "owner": "Discord Undrafted",
       "name": "Team Movistar easyJet",
-      "totalPoints": 8014.38,
+      "totalPoints": 8019.38,
       "riders": [
         {
           "name": "Dylan Groenewegen",
@@ -701,7 +701,7 @@
           "id": 407508,
           "team": "RBH",
           "country": "es",
-          "totalPoints": 335
+          "totalPoints": 340
         }
       ],
       "movement": 0

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 August 2025 23:27 GMT",
+  "fetchedDate": "6 August 2025 23:27 GMT",
   "momentId": 192737,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 11059.25,
+    "totalPoints": 11089.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -424,8 +424,14 @@
         "id": 76092,
         "team": "TBV",
         "country": "es",
-        "totalPoints": 771,
+        "totalPoints": 801,
         "results": [
+          {
+            "name": "Tour de Pologne - S3Stage 3 - Wałbrzych › Wałbrzych",
+            "date": "6 Aug 2025",
+            "points": 30,
+            "rank": 2
+          },
           {
             "name": "Tour de Suisse - General classificationGeneral classification",
             "date": "22 Jun 2025",
