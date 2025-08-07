@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 August 2025 23:27 GMT",
+  "fetchedDate": "7 August 2025 23:27 GMT",
   "momentId": 192737,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 15822,
+    "totalPoints": 15830,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -1004,8 +1004,13 @@
         "id": 257361,
         "team": "DAT",
         "country": "fr",
-        "totalPoints": 295,
+        "totalPoints": 303,
         "results": [
+          {
+            "name": "Tour de Pologne - S4Stage 4 - Rybnik › Cieszyn - Bonus",
+            "date": "7 Aug 2025",
+            "points": 8
+          },
           {
             "name": "Tour de Pologne - S3Stage 3 - Wałbrzych › Wałbrzych - Bonus",
             "date": "6 Aug 2025",

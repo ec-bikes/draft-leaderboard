@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 August 2025 23:27 GMT",
+  "fetchedDate": "7 August 2025 23:27 GMT",
   "momentId": 192737,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 8019.38,
+    "totalPoints": 8069.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -596,8 +596,14 @@
         "id": 1759987,
         "team": "SOQ",
         "country": "fr",
-        "totalPoints": 1201,
+        "totalPoints": 1251,
         "results": [
+          {
+            "name": "Tour de Pologne - S4Stage 4 - Rybnik › Cieszyn",
+            "date": "7 Aug 2025",
+            "points": 50,
+            "rank": 1
+          },
           {
             "name": "Tour de Pologne - S1Stage 1 - Wrocław › Legnica",
             "date": "4 Aug 2025",

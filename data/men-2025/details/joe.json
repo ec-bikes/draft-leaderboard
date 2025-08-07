@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 August 2025 23:27 GMT",
+  "fetchedDate": "7 August 2025 23:27 GMT",
   "momentId": 192737,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 11298.42,
+    "totalPoints": 11299.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -549,8 +549,14 @@
         "id": 462394,
         "team": "UAD",
         "country": "ch",
-        "totalPoints": 915,
+        "totalPoints": 916,
         "results": [
+          {
+            "name": "Tour de Pologne - S4Stage 4 - Rybnik › Cieszyn",
+            "date": "7 Aug 2025",
+            "points": 1,
+            "rank": 10
+          },
           {
             "name": "Tour de Pologne - S3Stage 3 - Wałbrzych › Wałbrzych",
             "date": "6 Aug 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 August 2025 23:27 GMT",
+  "fetchedDate": "7 August 2025 23:27 GMT",
   "momentId": 192737,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 11089.25,
+    "totalPoints": 11104.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -535,8 +535,14 @@
         "id": 97091,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 1831,
+        "totalPoints": 1846,
         "results": [
+          {
+            "name": "Vuelta a Burgos - S3Stage 3 - Monasterio de San Pedro de Cardeña › Valpuesta",
+            "date": "7 Aug 2025",
+            "points": 15,
+            "rank": 2
+          },
           {
             "name": "Donostia San Sebastian Klasikoa",
             "date": "2 Aug 2025",

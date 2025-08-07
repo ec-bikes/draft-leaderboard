@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 August 2025 23:27 GMT",
+  "fetchedDate": "7 August 2025 23:27 GMT",
   "momentId": 192737,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 11397.46,
+    "totalPoints": 11402.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -463,8 +463,14 @@
         "id": 2002910,
         "team": "UAD",
         "country": "mx",
-        "totalPoints": 3219,
+        "totalPoints": 3224,
         "results": [
+          {
+            "name": "Vuelta a Burgos - S3Stage 3 - Monasterio de San Pedro de Cardeña › Valpuesta",
+            "date": "7 Aug 2025",
+            "points": 5,
+            "rank": 4
+          },
           {
             "name": "Circuito de Getxo - Memorial Hermanos Otxoa",
             "date": "3 Aug 2025",
