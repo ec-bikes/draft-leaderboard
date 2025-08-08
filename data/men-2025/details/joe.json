@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 August 2025 23:27 GMT",
+  "fetchedDate": "8 August 2025 23:25 GMT",
   "momentId": 192737,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 11299.42,
+    "totalPoints": 11305.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -1133,8 +1133,14 @@
         "id": 86630,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 124,
+        "totalPoints": 130,
         "results": [
+          {
+            "name": "Tour de Pologne - S5Stage 5 - Katowice › Zakopane",
+            "date": "8 Aug 2025",
+            "points": 6,
+            "rank": 8
+          },
           {
             "name": "National Championships Italy ME - ITT",
             "date": "26 Jun 2025",

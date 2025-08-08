@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 August 2025 23:27 GMT",
+  "fetchedDate": "8 August 2025 23:25 GMT",
   "momentId": 192737,
   "teams": [
     {
       "owner": "Kit Nicholson",
       "name": "Picnic-Letterboxd",
-      "totalPoints": 15830,
+      "totalPoints": 15838,
       "riders": [
         {
           "name": "Tadej Pogačar",
@@ -77,7 +77,7 @@
           "id": 257361,
           "team": "DAT",
           "country": "fr",
-          "totalPoints": 303
+          "totalPoints": 311
         }
       ],
       "movement": 0
@@ -85,7 +85,7 @@
     {
       "owner": "Jonny Long",
       "name": "Ineos Grenadiers-Greenpeace-Poundland",
-      "totalPoints": 11699.14,
+      "totalPoints": 11709.14,
       "riders": [
         {
           "name": "Jonas Vingegaard",
@@ -155,7 +155,7 @@
           "id": 308040,
           "team": "TBV",
           "country": "it",
-          "totalPoints": 705
+          "totalPoints": 715
         }
       ],
       "movement": 0
@@ -319,7 +319,7 @@
     {
       "owner": "Abby Mickey",
       "name": "EF Education-Swift Nation",
-      "totalPoints": 9245.29,
+      "totalPoints": 9253.29,
       "riders": [
         {
           "name": "Wout van Aert",
@@ -375,7 +375,7 @@
           "id": 217083,
           "team": "RBH",
           "country": "nz",
-          "totalPoints": 672
+          "totalPoints": 680
         },
         {
           "name": "Thymen Arensman",
@@ -397,7 +397,7 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 11299.42,
+      "totalPoints": 11305.42,
       "riders": [
         {
           "name": "Mathieu van der Poel",
@@ -467,7 +467,7 @@
           "id": 86630,
           "team": "XAT",
           "country": "it",
-          "totalPoints": 124
+          "totalPoints": 130
         }
       ],
       "movement": -1

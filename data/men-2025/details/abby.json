@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 August 2025 23:27 GMT",
+  "fetchedDate": "8 August 2025 23:25 GMT",
   "momentId": 192737,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 9245.29,
+    "totalPoints": 9253.29,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -632,8 +632,14 @@
         "id": 217083,
         "team": "RBH",
         "country": "nz",
-        "totalPoints": 672,
+        "totalPoints": 680,
         "results": [
+          {
+            "name": "Tour de Pologne - S5Stage 5 - Katowice › Zakopane",
+            "date": "8 Aug 2025",
+            "points": 8,
+            "rank": 7
+          },
           {
             "name": "Tour de Pologne - S4Stage 4 - Rybnik › Cieszyn",
             "date": "7 Aug 2025",

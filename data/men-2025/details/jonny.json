@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "7 August 2025 23:27 GMT",
+  "fetchedDate": "8 August 2025 23:25 GMT",
   "momentId": 192737,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 11699.14,
+    "totalPoints": 11709.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -966,8 +966,14 @@
         "id": 308040,
         "team": "TBV",
         "country": "it",
-        "totalPoints": 705,
+        "totalPoints": 715,
         "results": [
+          {
+            "name": "Tour de Pologne - S5Stage 5 - Katowice › Zakopane",
+            "date": "8 Aug 2025",
+            "points": 10,
+            "rank": 6
+          },
           {
             "name": "Tour de Pologne - S2Stage 2 - Hotel Gołębiewski Karpacz › Karpacz",
             "date": "5 Aug 2025",
