@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 August 2025 23:25 GMT",
+  "fetchedDate": "9 August 2025 23:24 GMT",
   "momentId": 192755,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 9996.72,
+    "totalPoints": 10046.72,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -636,8 +636,14 @@
         "id": 1742562,
         "team": "TVL",
         "country": "fr",
-        "totalPoints": 288.86,
+        "totalPoints": 338.86,
         "results": [
+          {
+            "name": "National Championships France WU - Road Race",
+            "date": "9 Aug 2025",
+            "points": 50,
+            "rank": 1
+          },
           {
             "name": "Tour de France Femmes - General classificationGeneral classification",
             "date": "3 Aug 2025",

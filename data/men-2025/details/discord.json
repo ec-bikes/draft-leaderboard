@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 August 2025 23:25 GMT",
+  "fetchedDate": "9 August 2025 23:24 GMT",
   "momentId": 192737,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 8069.38,
+    "totalPoints": 8074.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -822,8 +822,14 @@
         "id": 109829,
         "team": "RBH",
         "country": "au",
-        "totalPoints": 365.71,
+        "totalPoints": 370.71,
         "results": [
+          {
+            "name": "Vuelta a Burgos - General classificationGeneral classification",
+            "date": "9 Aug 2025",
+            "points": 5,
+            "rank": 25
+          },
           {
             "name": "Tour of the Alps - General classificationGeneral classification",
             "date": "25 Apr 2025",
