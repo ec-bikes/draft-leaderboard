@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 August 2025 23:24 GMT",
+  "fetchedDate": "10 August 2025 23:24 GMT",
   "momentId": 192737,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 15843,
+    "totalPoints": 15851,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -1010,8 +1010,14 @@
         "id": 257361,
         "team": "DAT",
         "country": "fr",
-        "totalPoints": 311,
+        "totalPoints": 319,
         "results": [
+          {
+            "name": "Tour de Pologne - General classificationGeneral classification",
+            "date": "10 Aug 2025",
+            "points": 8,
+            "rank": 34
+          },
           {
             "name": "Tour de Pologne - S5Stage 5 - Katowice › Zakopane - Bonus",
             "date": "8 Aug 2025",

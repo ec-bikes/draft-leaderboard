@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 August 2025 23:24 GMT",
+  "fetchedDate": "10 August 2025 23:24 GMT",
   "momentId": 192755,
   "teams": [
     {
@@ -80,7 +80,7 @@
           "totalPoints": 529.29
         }
       ],
-      "movement": -1
+      "movement": 0
     },
     {
       "owner": "Abby Mickey",
@@ -314,7 +314,7 @@
           "totalPoints": 436
         }
       ],
-      "movement": -1
+      "movement": 0
     },
     {
       "owner": "Georgie Howe",
@@ -392,7 +392,7 @@
           "totalPoints": 435.14
         }
       ],
-      "movement": 1
+      "movement": 0
     },
     {
       "owner": "Tils Raynolds",
@@ -470,7 +470,7 @@
           "totalPoints": 1721.86
         }
       ],
-      "movement": 1
+      "movement": 0
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 August 2025 23:24 GMT",
+  "fetchedDate": "10 August 2025 23:24 GMT",
   "momentId": 192737,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 11336.42,
+    "totalPoints": 12177.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -339,8 +339,20 @@
         "id": 150923,
         "team": "UAD",
         "country": "us",
-        "totalPoints": 702.57,
+        "totalPoints": 1152.57,
         "results": [
+          {
+            "name": "Tour de Pologne - General classificationGeneral classification",
+            "date": "10 Aug 2025",
+            "points": 400,
+            "rank": 1
+          },
+          {
+            "name": "Tour de Pologne - S7 (ITT)Stage 7 (ITT) - Wieliczka › Wieliczka",
+            "date": "10 Aug 2025",
+            "points": 50,
+            "rank": 1
+          },
           {
             "name": "Tour de Pologne - S6Stage 6 - Bukowina Resort › Bukowina Tatrzańska",
             "date": "9 Aug 2025",
@@ -555,8 +567,20 @@
         "id": 462394,
         "team": "UAD",
         "country": "ch",
-        "totalPoints": 917,
+        "totalPoints": 1143,
         "results": [
+          {
+            "name": "Tour de Pologne - General classificationGeneral classification",
+            "date": "10 Aug 2025",
+            "points": 220,
+            "rank": 4
+          },
+          {
+            "name": "Tour de Pologne - S7 (ITT)Stage 7 (ITT) - Wieliczka › Wieliczka",
+            "date": "10 Aug 2025",
+            "points": 6,
+            "rank": 8
+          },
           {
             "name": "Tour de Pologne - S6Stage 6 - Bukowina Resort › Bukowina Tatrzańska",
             "date": "9 Aug 2025",
@@ -942,8 +966,14 @@
         "id": 54679,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 706,
+        "totalPoints": 730,
         "results": [
+          {
+            "name": "Tour de Pologne - General classificationGeneral classification",
+            "date": "10 Aug 2025",
+            "points": 24,
+            "rank": 19
+          },
           {
             "name": "Vuelta a Castilla y Leon",
             "date": "27 Jul 2025",
@@ -1145,8 +1175,20 @@
         "id": 86630,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 130,
+        "totalPoints": 271,
         "results": [
+          {
+            "name": "Tour de Pologne - General classificationGeneral classification",
+            "date": "10 Aug 2025",
+            "points": 140,
+            "rank": 6
+          },
+          {
+            "name": "Tour de Pologne - S7 (ITT)Stage 7 (ITT) - Wieliczka › Wieliczka",
+            "date": "10 Aug 2025",
+            "points": 1,
+            "rank": 10
+          },
           {
             "name": "Tour de Pologne - S5Stage 5 - Katowice › Zakopane",
             "date": "8 Aug 2025",

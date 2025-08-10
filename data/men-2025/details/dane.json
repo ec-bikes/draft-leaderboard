@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 August 2025 23:24 GMT",
+  "fetchedDate": "10 August 2025 23:24 GMT",
   "momentId": 192737,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 13473.57,
+    "totalPoints": 13491.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -1118,8 +1118,20 @@
         "id": 74994,
         "team": "GFC",
         "country": "ch",
-        "totalPoints": 490,
+        "totalPoints": 508,
         "results": [
+          {
+            "name": "Tour de Pologne - General classificationGeneral classification",
+            "date": "10 Aug 2025",
+            "points": 8,
+            "rank": 40
+          },
+          {
+            "name": "Tour de Pologne - S7 (ITT)Stage 7 (ITT) - Wieliczka › Wieliczka",
+            "date": "10 Aug 2025",
+            "points": 10,
+            "rank": 6
+          },
           {
             "name": "Tour de Suisse - General classificationGeneral classification",
             "date": "22 Jun 2025",
