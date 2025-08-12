@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 August 2025 23:24 GMT",
-  "momentId": 192755,
+  "fetchedDate": "12 August 2025 23:24 GMT",
+  "momentId": 192919,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 12379.57,
+    "totalPoints": 12387.57,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -1099,8 +1099,14 @@
         "id": 98622,
         "team": "HPH",
         "country": "at",
-        "totalPoints": 620,
+        "totalPoints": 628,
         "results": [
+          {
+            "name": "Tour de Pologne Women - S1Stage 1 - Zamosc › Zamosc",
+            "date": "12 Aug 2025",
+            "points": 8,
+            "rank": 3
+          },
           {
             "name": "Argenta Classic - Deurne",
             "date": "6 Jul 2025",

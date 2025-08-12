@@ -1,8 +1,8 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 August 2025 23:24 GMT",
-  "momentId": 192737,
+  "fetchedDate": "12 August 2025 23:25 GMT",
+  "momentId": 192901,
   "teams": [
     {
       "owner": "Kit Nicholson",
@@ -158,7 +158,7 @@
           "totalPoints": 1070
         }
       ],
-      "movement": 0
+      "movement": -1
     },
     {
       "owner": "Toms Skujiņš",
@@ -397,7 +397,7 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 12177.42,
+      "totalPoints": 12202.42,
       "riders": [
         {
           "name": "Mathieu van der Poel",
@@ -411,7 +411,7 @@
           "id": 86895,
           "team": "LTK",
           "country": "dk",
-          "totalPoints": 4007.57
+          "totalPoints": 4032.57
         },
         {
           "name": "Brandon McNulty",
@@ -470,7 +470,7 @@
           "totalPoints": 271
         }
       ],
-      "movement": 1
+      "movement": 2
     },
     {
       "owner": "Caley Fretz",

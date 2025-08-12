@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 August 2025 23:24 GMT",
-  "momentId": 192755,
+  "fetchedDate": "12 August 2025 23:24 GMT",
+  "momentId": 192919,
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women’s Cycling Team",
-    "totalPoints": 7133.58,
+    "totalPoints": 7145.58,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -703,8 +703,14 @@
         "id": 153287,
         "team": "LTK",
         "country": "fr",
-        "totalPoints": 744,
+        "totalPoints": 756,
         "results": [
+          {
+            "name": "Tour de Pologne Women - S1Stage 1 - Zamosc › Zamosc",
+            "date": "12 Aug 2025",
+            "points": 12,
+            "rank": 2
+          },
           {
             "name": "Baloise Ladies Tour - General classificationGeneral classification",
             "date": "20 Jul 2025",
