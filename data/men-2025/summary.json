@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 August 2025 23:25 GMT",
+  "fetchedDate": "13 August 2025 23:25 GMT",
   "momentId": 192901,
   "teams": [
     {
@@ -241,14 +241,14 @@
     {
       "owner": "Dane Cash",
       "name": "Visma-Lease a Bike-Monster Energy",
-      "totalPoints": 13491.57,
+      "totalPoints": 13496.57,
       "riders": [
         {
           "name": "Jasper Philipsen",
           "id": 148275,
           "team": "ADC",
           "country": "be",
-          "totalPoints": 1228
+          "totalPoints": 1233
         },
         {
           "name": "Primož Roglič",
@@ -397,7 +397,7 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 12202.42,
+      "totalPoints": 12217.42,
       "riders": [
         {
           "name": "Mathieu van der Poel",
@@ -411,7 +411,7 @@
           "id": 86895,
           "team": "LTK",
           "country": "dk",
-          "totalPoints": 4032.57
+          "totalPoints": 4037.57
         },
         {
           "name": "Brandon McNulty",
@@ -439,7 +439,7 @@
           "id": 101278,
           "team": "TVL",
           "country": "fr",
-          "totalPoints": 136.57
+          "totalPoints": 146.57
         },
         {
           "name": "Tobias Andresen",

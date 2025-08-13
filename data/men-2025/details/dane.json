@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 August 2025 23:25 GMT",
+  "fetchedDate": "13 August 2025 23:25 GMT",
   "momentId": 192901,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 13491.57,
+    "totalPoints": 13496.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
         "id": 148275,
         "team": "ADC",
         "country": "be",
-        "totalPoints": 1228,
+        "totalPoints": 1233,
         "results": [
+          {
+            "name": "PostNord Tour of Denmark - S2Stage 2 - Rødovre › Gladsaxe",
+            "date": "13 Aug 2025",
+            "points": 5,
+            "rank": 4
+          },
           {
             "name": "Tour de France - S1Stage 1 - Lille Métropole › Lille Métropole",
             "date": "5 Jul 2025",
