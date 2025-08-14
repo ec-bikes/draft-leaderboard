@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "13 August 2025 23:25 GMT",
+  "fetchedDate": "14 August 2025 23:24 GMT",
   "momentId": 192901,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 12217.42,
+    "totalPoints": 12232.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -150,8 +150,19 @@
         "id": 86895,
         "team": "LTK",
         "country": "dk",
-        "totalPoints": 4037.57,
+        "totalPoints": 4052.57,
         "results": [
+          {
+            "name": "PostNord Tour of Denmark - S3 (ITT)Stage 3 (ITT) - Kerteminde › Kerteminde",
+            "date": "14 Aug 2025",
+            "points": 10,
+            "rank": 3
+          },
+          {
+            "name": "PostNord Tour of Denmark - S3 (ITT)Stage 3 (ITT) - Kerteminde › Kerteminde - Bonus",
+            "date": "14 Aug 2025",
+            "points": 5
+          },
           {
             "name": "PostNord Tour of Denmark - S2Stage 2 - Rødovre › Gladsaxe - Bonus",
             "date": "13 Aug 2025",

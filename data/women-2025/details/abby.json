@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "13 August 2025 23:24 GMT",
+  "fetchedDate": "14 August 2025 23:24 GMT",
   "momentId": 192919,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 8863.71,
+    "totalPoints": 9007.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -759,8 +759,20 @@
         "id": 156600,
         "team": "CSZ",
         "country": "it",
-        "totalPoints": 1213,
+        "totalPoints": 1354,
         "results": [
+          {
+            "name": "Tour de Pologne Women - General classificationGeneral classification",
+            "date": "14 Aug 2025",
+            "points": 125,
+            "rank": 1
+          },
+          {
+            "name": "Tour de Pologne Women - S3Stage 3 - Naleczow › Krasnik",
+            "date": "14 Aug 2025",
+            "points": 16,
+            "rank": 1
+          },
           {
             "name": "Tour de Pologne Women - S2Stage 2 - Chełm › Chełm",
             "date": "13 Aug 2025",
@@ -1018,8 +1030,14 @@
         "id": 233425,
         "team": "VWT",
         "country": "nl",
-        "totalPoints": 325,
+        "totalPoints": 328,
         "results": [
+          {
+            "name": "Tour de Pologne Women - General classificationGeneral classification",
+            "date": "14 Aug 2025",
+            "points": 3,
+            "rank": 23
+          },
           {
             "name": "Baloise Ladies Tour - General classificationGeneral classification",
             "date": "20 Jul 2025",

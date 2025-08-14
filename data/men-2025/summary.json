@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "13 August 2025 23:25 GMT",
+  "fetchedDate": "14 August 2025 23:24 GMT",
   "momentId": 192901,
   "teams": [
     {
@@ -397,7 +397,7 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 12217.42,
+      "totalPoints": 12232.42,
       "riders": [
         {
           "name": "Mathieu van der Poel",
@@ -411,7 +411,7 @@
           "id": 86895,
           "team": "LTK",
           "country": "dk",
-          "totalPoints": 4037.57
+          "totalPoints": 4052.57
         },
         {
           "name": "Brandon McNulty",
