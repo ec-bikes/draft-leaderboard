@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 August 2025 23:24 GMT",
+  "fetchedDate": "15 August 2025 23:24 GMT",
   "momentId": 192919,
   "teams": [
     {
@@ -163,7 +163,7 @@
     {
       "owner": "Gracie Elvin",
       "name": "Lamborghini p/b Tony's Chocolonely",
-      "totalPoints": 12459.57,
+      "totalPoints": 12467.57,
       "riders": [
         {
           "name": "Demi Vollering",
@@ -226,7 +226,7 @@
           "id": 1638135,
           "team": "TFS",
           "country": "ch",
-          "totalPoints": 1219
+          "totalPoints": 1227
         },
         {
           "name": "Kathrin Schweinberger",
@@ -319,7 +319,7 @@
     {
       "owner": "Georgie Howe",
       "name": "Specialized-Win-Collective Racing",
-      "totalPoints": 7466.85,
+      "totalPoints": 7496.85,
       "riders": [
         {
           "name": "Kasia Niewiadoma",
@@ -368,7 +368,7 @@
           "id": 97498,
           "team": "TFS",
           "country": "fr",
-          "totalPoints": 1450.57
+          "totalPoints": 1480.57
         },
         {
           "name": "Lucinda Brand",

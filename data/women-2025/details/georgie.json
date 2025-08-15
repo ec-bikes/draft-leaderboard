@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 August 2025 23:24 GMT",
+  "fetchedDate": "15 August 2025 23:24 GMT",
   "momentId": 192919,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 7466.85,
+    "totalPoints": 7496.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -637,8 +637,14 @@
         "id": 97498,
         "team": "TFS",
         "country": "fr",
-        "totalPoints": 1450.57,
+        "totalPoints": 1480.57,
         "results": [
+          {
+            "name": "Tour de Romandie Féminin - S1 (ITT)Stage 1 (ITT) - Huémoz › Villars-sur-Ollon",
+            "date": "15 Aug 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Tour de France Femmes - General classificationGeneral classification",
             "date": "3 Aug 2025",

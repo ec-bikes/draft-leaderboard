@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 August 2025 23:24 GMT",
+  "fetchedDate": "15 August 2025 23:24 GMT",
   "momentId": 192901,
   "teams": [
     {
       "owner": "Kit Nicholson",
       "name": "Picnic-Letterboxd",
-      "totalPoints": 15851,
+      "totalPoints": 15936,
       "riders": [
         {
           "name": "Tadej Pogačar",
@@ -70,7 +70,7 @@
           "id": 422863,
           "team": "COF",
           "country": "es",
-          "totalPoints": 800
+          "totalPoints": 885
         },
         {
           "name": "Paul Lapeira",
@@ -397,7 +397,7 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 12232.42,
+      "totalPoints": 12257.42,
       "riders": [
         {
           "name": "Mathieu van der Poel",
@@ -411,7 +411,7 @@
           "id": 86895,
           "team": "LTK",
           "country": "dk",
-          "totalPoints": 4052.57
+          "totalPoints": 4077.57
         },
         {
           "name": "Brandon McNulty",

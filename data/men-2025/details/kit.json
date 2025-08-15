@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 August 2025 23:24 GMT",
+  "fetchedDate": "15 August 2025 23:24 GMT",
   "momentId": 192901,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 15851,
+    "totalPoints": 15936,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -857,8 +857,14 @@
         "id": 422863,
         "team": "COF",
         "country": "es",
-        "totalPoints": 800,
+        "totalPoints": 885,
         "results": [
+          {
+            "name": "Circuit Franco-Belge",
+            "date": "15 Aug 2025",
+            "points": 85,
+            "rank": 5
+          },
           {
             "name": "Circuito de Getxo - Memorial Hermanos Otxoa",
             "date": "3 Aug 2025",
