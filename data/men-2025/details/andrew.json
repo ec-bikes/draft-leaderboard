@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 August 2025 23:24 GMT",
+  "fetchedDate": "16 August 2025 23:22 GMT",
   "momentId": 192901,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 10703.28,
+    "totalPoints": 10733.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -835,8 +835,14 @@
         "id": 68844,
         "team": "TVL",
         "country": "nl",
-        "totalPoints": 92,
+        "totalPoints": 122,
         "results": [
+          {
+            "name": "PostNord Tour of Denmark - General classificationGeneral classification",
+            "date": "16 Aug 2025",
+            "points": 30,
+            "rank": 11
+          },
           {
             "name": "National Championships Netherlands ME - ITT",
             "date": "24 Jun 2025",

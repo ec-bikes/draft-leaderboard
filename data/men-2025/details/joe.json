@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 August 2025 23:24 GMT",
+  "fetchedDate": "16 August 2025 23:22 GMT",
   "momentId": 192901,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 12257.42,
+    "totalPoints": 12497.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -150,8 +150,20 @@
         "id": 86895,
         "team": "LTK",
         "country": "dk",
-        "totalPoints": 4077.57,
+        "totalPoints": 4297.57,
         "results": [
+          {
+            "name": "PostNord Tour of Denmark - General classificationGeneral classification",
+            "date": "16 Aug 2025",
+            "points": 200,
+            "rank": 1
+          },
+          {
+            "name": "PostNord Tour of Denmark - S5Stage 5 - Hobro › Silkeborg",
+            "date": "16 Aug 2025",
+            "points": 20,
+            "rank": 1
+          },
           {
             "name": "PostNord Tour of Denmark - S4Stage 4 - Svendborg › Vejle",
             "date": "15 Aug 2025",
@@ -749,8 +761,20 @@
         "id": 101278,
         "team": "TVL",
         "country": "fr",
-        "totalPoints": 146.57,
+        "totalPoints": 166.57,
         "results": [
+          {
+            "name": "PostNord Tour of Denmark - General classificationGeneral classification",
+            "date": "16 Aug 2025",
+            "points": 5,
+            "rank": 18
+          },
+          {
+            "name": "PostNord Tour of Denmark - S5Stage 5 - Hobro › Silkeborg",
+            "date": "16 Aug 2025",
+            "points": 15,
+            "rank": 2
+          },
           {
             "name": "PostNord Tour of Denmark - S2Stage 2 - Rødovre › Gladsaxe",
             "date": "13 Aug 2025",

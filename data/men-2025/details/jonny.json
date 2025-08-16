@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 August 2025 23:24 GMT",
+  "fetchedDate": "16 August 2025 23:22 GMT",
   "momentId": 192901,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 12199.14,
+    "totalPoints": 12249.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -171,8 +171,14 @@
         "id": 365033,
         "team": "LTK",
         "country": "dk",
-        "totalPoints": 1154.57,
+        "totalPoints": 1204.57,
         "results": [
+          {
+            "name": "PostNord Tour of Denmark - General classificationGeneral classification",
+            "date": "16 Aug 2025",
+            "points": 50,
+            "rank": 8
+          },
           {
             "name": "Tour de France - S7Stage 7 - Saint-Malo › Mûr-de-Bretagne",
             "date": "11 Jul 2025",
