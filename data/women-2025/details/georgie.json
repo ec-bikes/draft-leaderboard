@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 August 2025 23:22 GMT",
+  "fetchedDate": "17 August 2025 23:24 GMT",
   "momentId": 192919,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 7506.85,
+    "totalPoints": 7634.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -184,8 +184,14 @@
         "id": 107539,
         "team": "UAD",
         "country": "it",
-        "totalPoints": 827,
+        "totalPoints": 835,
         "results": [
+          {
+            "name": "Tour de Romandie Féminin - General classificationGeneral classification",
+            "date": "17 Aug 2025",
+            "points": 8,
+            "rank": 34
+          },
           {
             "name": "Giro d'Italia Women - General classificationGeneral classification",
             "date": "13 Jul 2025",
@@ -637,8 +643,14 @@
         "id": 97498,
         "team": "TFS",
         "country": "fr",
-        "totalPoints": 1490.57,
+        "totalPoints": 1610.57,
         "results": [
+          {
+            "name": "Tour de Romandie Féminin - General classificationGeneral classification",
+            "date": "17 Aug 2025",
+            "points": 120,
+            "rank": 7
+          },
           {
             "name": "Tour de Romandie Féminin - S2Stage 2 - Conthey › La Tzoumaz",
             "date": "16 Aug 2025",

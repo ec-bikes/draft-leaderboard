@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 August 2025 23:22 GMT",
+  "fetchedDate": "17 August 2025 23:24 GMT",
   "momentId": 192901,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 11314.25,
+    "totalPoints": 11330.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -833,8 +833,14 @@
         "id": 472995,
         "team": "LTK",
         "country": "cz",
-        "totalPoints": 607.86,
+        "totalPoints": 615.86,
         "results": [
+          {
+            "name": "ADAC Cyclassics",
+            "date": "17 Aug 2025",
+            "points": 8,
+            "rank": 38
+          },
           {
             "name": "Tour de Pologne - S2Stage 2 - Hotel Gołębiewski Karpacz › Karpacz",
             "date": "5 Aug 2025",
@@ -1143,8 +1149,14 @@
         "id": 221617,
         "team": "RBH",
         "country": "nz",
-        "totalPoints": 398,
+        "totalPoints": 406,
         "results": [
+          {
+            "name": "ADAC Cyclassics",
+            "date": "17 Aug 2025",
+            "points": 8,
+            "rank": 36
+          },
           {
             "name": "Critérium du Dauphiné - General classificationGeneral classification",
             "date": "15 Jun 2025",

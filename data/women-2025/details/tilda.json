@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 August 2025 23:22 GMT",
+  "fetchedDate": "17 August 2025 23:24 GMT",
   "momentId": 192919,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 10046.72,
+    "totalPoints": 10120.72,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -861,8 +861,14 @@
         "id": 398547,
         "team": "LIV",
         "country": "es",
-        "totalPoints": 814.29,
+        "totalPoints": 838.29,
         "results": [
+          {
+            "name": "Tour de Romandie Féminin - General classificationGeneral classification",
+            "date": "17 Aug 2025",
+            "points": 24,
+            "rank": 16
+          },
           {
             "name": "Tour de France Femmes - General classificationGeneral classification",
             "date": "3 Aug 2025",
@@ -978,8 +984,14 @@
         "id": 236562,
         "team": "SDW",
         "country": "hu",
-        "totalPoints": 436,
+        "totalPoints": 486,
         "results": [
+          {
+            "name": "Tour de Romandie Féminin - S3Stage 3 - Aigle › Aigle",
+            "date": "17 Aug 2025",
+            "points": 50,
+            "rank": 1
+          },
           {
             "name": "National Championships Hungary WE - Road Race",
             "date": "29 Jun 2025",

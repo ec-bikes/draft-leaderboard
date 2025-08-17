@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 August 2025 23:22 GMT",
+  "fetchedDate": "17 August 2025 23:24 GMT",
   "momentId": 192901,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 13496.57,
+    "totalPoints": 13716.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
         "id": 148275,
         "team": "ADC",
         "country": "be",
-        "totalPoints": 1233,
+        "totalPoints": 1453,
         "results": [
+          {
+            "name": "ADAC Cyclassics",
+            "date": "17 Aug 2025",
+            "points": 220,
+            "rank": 4
+          },
           {
             "name": "PostNord Tour of Denmark - S2Stage 2 - Rødovre › Gladsaxe",
             "date": "13 Aug 2025",

@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 August 2025 23:22 GMT",
+  "fetchedDate": "17 August 2025 23:24 GMT",
   "momentId": 192919,
   "teams": [
     {
@@ -163,7 +163,7 @@
     {
       "owner": "Gracie Elvin",
       "name": "Lamborghini p/b Tony's Chocolonely",
-      "totalPoints": 12517.57,
+      "totalPoints": 12957.57,
       "riders": [
         {
           "name": "Demi Vollering",
@@ -191,7 +191,7 @@
           "id": 227721,
           "team": "SDW",
           "country": "nl",
-          "totalPoints": 1250.71
+          "totalPoints": 1260.71
         },
         {
           "name": "Maike van der Duin",
@@ -226,7 +226,7 @@
           "id": 1638135,
           "team": "TFS",
           "country": "ch",
-          "totalPoints": 1277
+          "totalPoints": 1707
         },
         {
           "name": "Kathrin Schweinberger",
@@ -241,7 +241,7 @@
     {
       "owner": "Tilda Price",
       "name": "Santa Cruz-Shimano",
-      "totalPoints": 10046.72,
+      "totalPoints": 10120.72,
       "riders": [
         {
           "name": "Lorena Wiebes",
@@ -304,14 +304,14 @@
           "id": 398547,
           "team": "LIV",
           "country": "es",
-          "totalPoints": 814.29
+          "totalPoints": 838.29
         },
         {
           "name": "Blanka Vas",
           "id": 236562,
           "team": "SDW",
           "country": "hu",
-          "totalPoints": 436
+          "totalPoints": 486
         }
       ],
       "movement": 0
@@ -319,7 +319,7 @@
     {
       "owner": "Georgie Howe",
       "name": "Specialized-Win-Collective Racing",
-      "totalPoints": 7506.85,
+      "totalPoints": 7634.85,
       "riders": [
         {
           "name": "Kasia Niewiadoma",
@@ -333,7 +333,7 @@
           "id": 107539,
           "team": "UAD",
           "country": "it",
-          "totalPoints": 827
+          "totalPoints": 835
         },
         {
           "name": "Antonia Niedermaier",
@@ -368,7 +368,7 @@
           "id": 97498,
           "team": "TFS",
           "country": "fr",
-          "totalPoints": 1490.57
+          "totalPoints": 1610.57
         },
         {
           "name": "Lucinda Brand",

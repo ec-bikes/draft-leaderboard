@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 August 2025 23:22 GMT",
+  "fetchedDate": "17 August 2025 23:24 GMT",
   "momentId": 192901,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 12497.42,
+    "totalPoints": 12561.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -389,8 +389,14 @@
         "id": 150923,
         "team": "UAD",
         "country": "us",
-        "totalPoints": 1152.57,
+        "totalPoints": 1160.57,
         "results": [
+          {
+            "name": "ADAC Cyclassics",
+            "date": "17 Aug 2025",
+            "points": 8,
+            "rank": 31
+          },
           {
             "name": "Tour de Pologne - General classificationGeneral classification",
             "date": "10 Aug 2025",
@@ -617,8 +623,14 @@
         "id": 462394,
         "team": "UAD",
         "country": "ch",
-        "totalPoints": 1143,
+        "totalPoints": 1159,
         "results": [
+          {
+            "name": "ADAC Cyclassics",
+            "date": "17 Aug 2025",
+            "points": 16,
+            "rank": 29
+          },
           {
             "name": "Tour de Pologne - General classificationGeneral classification",
             "date": "10 Aug 2025",
@@ -863,8 +875,14 @@
         "id": 482927,
         "team": "TPP",
         "country": "dk",
-        "totalPoints": 961,
+        "totalPoints": 1001,
         "results": [
+          {
+            "name": "ADAC Cyclassics",
+            "date": "17 Aug 2025",
+            "points": 40,
+            "rank": 13
+          },
           {
             "name": "Tour de France - S21Stage 21 - Mantes-la-Ville › Paris",
             "date": "27 Jul 2025",

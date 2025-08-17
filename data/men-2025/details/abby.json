@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 August 2025 23:22 GMT",
+  "fetchedDate": "17 August 2025 23:24 GMT",
   "momentId": 192901,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 9253.29,
+    "totalPoints": 9421.29,
     "riders": [
       {
         "name": "Wout van Aert",
         "id": 75859,
         "team": "TVL",
         "country": "be",
-        "totalPoints": 2722,
+        "totalPoints": 2790,
         "results": [
+          {
+            "name": "ADAC Cyclassics",
+            "date": "17 Aug 2025",
+            "points": 68,
+            "rank": 10
+          },
           {
             "name": "Tour de France - S21Stage 21 - Mantes-la-Ville › Paris",
             "date": "27 Jul 2025",
@@ -136,8 +142,14 @@
         "id": 1707195,
         "team": "IWA",
         "country": "er",
-        "totalPoints": 1160,
+        "totalPoints": 1260,
         "results": [
+          {
+            "name": "ADAC Cyclassics",
+            "date": "17 Aug 2025",
+            "points": 100,
+            "rank": 8
+          },
           {
             "name": "Tour de France - Points classificationPoints classification",
             "date": "27 Jul 2025",

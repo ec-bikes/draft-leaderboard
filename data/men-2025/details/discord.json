@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 August 2025 23:22 GMT",
+  "fetchedDate": "17 August 2025 23:24 GMT",
   "momentId": 192901,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 8082.38,
+    "totalPoints": 8462.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -374,8 +374,14 @@
         "id": 442797,
         "team": "UAD",
         "country": "pt",
-        "totalPoints": 862,
+        "totalPoints": 982,
         "results": [
+          {
+            "name": "ADAC Cyclassics",
+            "date": "17 Aug 2025",
+            "points": 120,
+            "rank": 7
+          },
           {
             "name": "Vuelta a Castilla y Leon",
             "date": "27 Jul 2025",
@@ -596,8 +602,14 @@
         "id": 1759987,
         "team": "SOQ",
         "country": "fr",
-        "totalPoints": 1259,
+        "totalPoints": 1519,
         "results": [
+          {
+            "name": "ADAC Cyclassics",
+            "date": "17 Aug 2025",
+            "points": 260,
+            "rank": 3
+          },
           {
             "name": "Tour de Pologne - General classificationGeneral classification",
             "date": "10 Aug 2025",

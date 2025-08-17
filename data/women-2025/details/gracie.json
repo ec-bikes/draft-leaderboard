@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 August 2025 23:22 GMT",
+  "fetchedDate": "17 August 2025 23:24 GMT",
   "momentId": 192919,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 12517.57,
+    "totalPoints": 12957.57,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -436,8 +436,14 @@
         "id": 227721,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 1250.71,
+        "totalPoints": 1260.71,
         "results": [
+          {
+            "name": "Tour de Romandie Féminin - S3Stage 3 - Aigle › Aigle",
+            "date": "17 Aug 2025",
+            "points": 10,
+            "rank": 8
+          },
           {
             "name": "National Championships Netherlands WE - ITT",
             "date": "24 Jun 2025",
@@ -935,8 +941,20 @@
         "id": 1638135,
         "team": "TFS",
         "country": "ch",
-        "totalPoints": 1277,
+        "totalPoints": 1707,
         "results": [
+          {
+            "name": "Tour de Romandie Féminin - General classificationGeneral classification",
+            "date": "17 Aug 2025",
+            "points": 400,
+            "rank": 1
+          },
+          {
+            "name": "Tour de Romandie Féminin - S3Stage 3 - Aigle › Aigle",
+            "date": "17 Aug 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Tour de Romandie Féminin - S2Stage 2 - Conthey › La Tzoumaz",
             "date": "16 Aug 2025",

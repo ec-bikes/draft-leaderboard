@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 August 2025 23:22 GMT",
+  "fetchedDate": "17 August 2025 23:24 GMT",
   "momentId": 192901,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 12249.14,
+    "totalPoints": 12252.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -700,8 +700,14 @@
         "id": 91637,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 399,
+        "totalPoints": 402,
         "results": [
+          {
+            "name": "La Polynormande",
+            "date": "17 Aug 2025",
+            "points": 3,
+            "rank": 21
+          },
           {
             "name": "Tour de France - General classificationGeneral classification",
             "date": "27 Jul 2025",
