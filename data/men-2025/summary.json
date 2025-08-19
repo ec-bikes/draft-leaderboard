@@ -1,8 +1,8 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 August 2025 23:23 GMT",
-  "momentId": 192901,
+  "fetchedDate": "19 August 2025 23:22 GMT",
+  "momentId": 193238,
   "teams": [
     {
       "owner": "Kit Nicholson",
@@ -158,7 +158,7 @@
           "totalPoints": 1070
         }
       ],
-      "movement": -1
+      "movement": 0
     },
     {
       "owner": "Toms Skujiņš",
@@ -470,7 +470,7 @@
           "totalPoints": 271
         }
       ],
-      "movement": 1
+      "movement": 0
     },
     {
       "owner": "Caley Fretz",
