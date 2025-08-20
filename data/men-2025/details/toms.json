@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 August 2025 23:22 GMT",
+  "fetchedDate": "20 August 2025 23:22 GMT",
   "momentId": 193238,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 11330.25,
+    "totalPoints": 11393.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -176,8 +176,19 @@
         "id": 70962,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 1641.29,
+        "totalPoints": 1699.29,
         "results": [
+          {
+            "name": "Renewi Tour - S1Stage 1 - Terneuzen › Breskens",
+            "date": "20 Aug 2025",
+            "points": 50,
+            "rank": 1
+          },
+          {
+            "name": "Renewi Tour - S1Stage 1 - Terneuzen › Breskens - Bonus",
+            "date": "20 Aug 2025",
+            "points": 8
+          },
           {
             "name": "Tour de France - S9Stage 9 - Chinon › Châteauroux",
             "date": "13 Jul 2025",
@@ -1149,8 +1160,14 @@
         "id": 221617,
         "team": "RBH",
         "country": "nz",
-        "totalPoints": 406,
+        "totalPoints": 411,
         "results": [
+          {
+            "name": "Deutschland Tour - Prologue",
+            "date": "20 Aug 2025",
+            "points": 5,
+            "rank": 4
+          },
           {
             "name": "ADAC Cyclassics",
             "date": "17 Aug 2025",

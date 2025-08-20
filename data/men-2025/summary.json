@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 August 2025 23:22 GMT",
+  "fetchedDate": "20 August 2025 23:22 GMT",
   "momentId": 193238,
   "teams": [
     {
@@ -163,7 +163,7 @@
     {
       "owner": "Toms Skujiņš",
       "name": "Lidl-Trek-Bauer",
-      "totalPoints": 11330.25,
+      "totalPoints": 11393.25,
       "riders": [
         {
           "name": "Remco Evenepoel",
@@ -177,7 +177,7 @@
           "id": 70962,
           "team": "SOQ",
           "country": "be",
-          "totalPoints": 1641.29
+          "totalPoints": 1699.29
         },
         {
           "name": "Ben O'Connor",
@@ -233,7 +233,7 @@
           "id": 221617,
           "team": "RBH",
           "country": "nz",
-          "totalPoints": 406
+          "totalPoints": 411
         }
       ],
       "movement": 0
@@ -319,21 +319,21 @@
     {
       "owner": "Abby Mickey",
       "name": "EF Education-Swift Nation",
-      "totalPoints": 9421.29,
+      "totalPoints": 9439.29,
       "riders": [
         {
           "name": "Wout van Aert",
           "id": 75859,
           "team": "TVL",
           "country": "be",
-          "totalPoints": 2790
+          "totalPoints": 2793
         },
         {
           "name": "Biniam Girmay",
           "id": 1707195,
           "team": "IWA",
           "country": "er",
-          "totalPoints": 1260
+          "totalPoints": 1275
         },
         {
           "name": "Maxim van Gils",
@@ -553,7 +553,7 @@
     {
       "owner": "Andrew (member)",
       "name": "Groupama-FDJ-Tourtel Twist",
-      "totalPoints": 10733.28,
+      "totalPoints": 10741.28,
       "riders": [
         {
           "name": "Adam Yates",
@@ -574,7 +574,7 @@
           "id": 227110,
           "team": "TVL",
           "country": "nl",
-          "totalPoints": 1383
+          "totalPoints": 1391
         },
         {
           "name": "Kévin Vauquelin",
