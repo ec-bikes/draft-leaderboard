@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 August 2025 23:22 GMT",
+  "fetchedDate": "21 August 2025 23:22 GMT",
   "momentId": 193244,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 12957.57,
+    "totalPoints": 12962.57,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -1129,8 +1129,14 @@
         "id": 98622,
         "team": "HPH",
         "country": "at",
-        "totalPoints": 700,
+        "totalPoints": 705,
         "results": [
+          {
+            "name": "GP Lucien Van Impe",
+            "date": "21 Aug 2025",
+            "points": 5,
+            "rank": 15
+          },
           {
             "name": "Tour de Pologne Women - General classificationGeneral classification",
             "date": "14 Aug 2025",

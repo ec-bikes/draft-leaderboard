@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 August 2025 23:22 GMT",
+  "fetchedDate": "21 August 2025 23:22 GMT",
   "momentId": 193238,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 16017,
+    "totalPoints": 16031,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -1022,8 +1022,14 @@
         "id": 257361,
         "team": "DAT",
         "country": "fr",
-        "totalPoints": 344,
+        "totalPoints": 358,
         "results": [
+          {
+            "name": "Tour du Limousin-Périgord - Nouvelle Aquitaine - S3Stage 3 - Saint-Jal › Masseret",
+            "date": "21 Aug 2025",
+            "points": 14,
+            "rank": 1
+          },
           {
             "name": "La Polynormande",
             "date": "17 Aug 2025",

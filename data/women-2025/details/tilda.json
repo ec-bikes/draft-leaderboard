@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 August 2025 23:22 GMT",
+  "fetchedDate": "21 August 2025 23:22 GMT",
   "momentId": 193244,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 10120.72,
+    "totalPoints": 10245.72,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 3178,
+        "totalPoints": 3303,
         "results": [
+          {
+            "name": "GP Lucien Van Impe",
+            "date": "21 Aug 2025",
+            "points": 125,
+            "rank": 1
+          },
           {
             "name": "Tour de France Femmes - S4Stage 4 - Saumur › Poitiers",
             "date": "29 Jul 2025",

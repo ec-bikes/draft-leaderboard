@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 August 2025 23:22 GMT",
+  "fetchedDate": "21 August 2025 23:22 GMT",
   "momentId": 193238,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 8462.38,
+    "totalPoints": 8477.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
         "id": 72932,
         "team": "JAY",
         "country": "nl",
-        "totalPoints": 406,
+        "totalPoints": 421,
         "results": [
+          {
+            "name": "Renewi Tour - S2Stage 2 - Blankenberge › Ardooie",
+            "date": "21 Aug 2025",
+            "points": 15,
+            "rank": 5
+          },
           {
             "name": "Tour de France - S17Stage 17 - Bollène › Valence",
             "date": "23 Jul 2025",

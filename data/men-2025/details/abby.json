@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 August 2025 23:22 GMT",
+  "fetchedDate": "21 August 2025 23:22 GMT",
   "momentId": 193238,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 9439.29,
+    "totalPoints": 9459.29,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -16,7 +16,7 @@
         "totalPoints": 2793,
         "results": [
           {
-            "name": "Deutschland Tour - Prologue",
+            "name": "Lidl Deutschland Tour - Prologue",
             "date": "20 Aug 2025",
             "points": 3,
             "rank": 5
@@ -148,8 +148,14 @@
         "id": 1707195,
         "team": "IWA",
         "country": "er",
-        "totalPoints": 1275,
+        "totalPoints": 1295,
         "results": [
+          {
+            "name": "Renewi Tour - S2Stage 2 - Blankenberge › Ardooie",
+            "date": "21 Aug 2025",
+            "points": 20,
+            "rank": 4
+          },
           {
             "name": "Renewi Tour - S1Stage 1 - Terneuzen › Breskens",
             "date": "20 Aug 2025",

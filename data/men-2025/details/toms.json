@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 August 2025 23:22 GMT",
+  "fetchedDate": "21 August 2025 23:22 GMT",
   "momentId": 193238,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 11393.25,
+    "totalPoints": 11411.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -176,8 +176,19 @@
         "id": 70962,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 1699.29,
+        "totalPoints": 1717.29,
         "results": [
+          {
+            "name": "Renewi Tour - S2Stage 2 - Blankenberge › Ardooie",
+            "date": "21 Aug 2025",
+            "points": 10,
+            "rank": 6
+          },
+          {
+            "name": "Renewi Tour - S2Stage 2 - Blankenberge › Ardooie - Bonus",
+            "date": "21 Aug 2025",
+            "points": 8
+          },
           {
             "name": "Renewi Tour - S1Stage 1 - Terneuzen › Breskens",
             "date": "20 Aug 2025",
@@ -1163,7 +1174,7 @@
         "totalPoints": 411,
         "results": [
           {
-            "name": "Deutschland Tour - Prologue",
+            "name": "Lidl Deutschland Tour - Prologue",
             "date": "20 Aug 2025",
             "points": 5,
             "rank": 4
