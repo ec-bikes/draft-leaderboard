@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 August 2025 23:22 GMT",
+  "fetchedDate": "22 August 2025 23:22 GMT",
   "momentId": 193238,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 11721.46,
+    "totalPoints": 11724.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -198,8 +198,14 @@
         "id": 301151,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 2003.86,
+        "totalPoints": 2006.86,
         "results": [
+          {
+            "name": "Lidl Deutschland Tour - S2Stage 2 - Herford › Arnsberg",
+            "date": "22 Aug 2025",
+            "points": 3,
+            "rank": 5
+          },
           {
             "name": "Lidl Deutschland Tour - S1Stage 1 - Essen › Herford",
             "date": "21 Aug 2025",

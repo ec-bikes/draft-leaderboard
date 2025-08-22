@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 August 2025 23:22 GMT",
+  "fetchedDate": "22 August 2025 23:22 GMT",
   "momentId": 193238,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 12561.42,
+    "totalPoints": 12626.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
         "id": 79462,
         "team": "ADC",
         "country": "nl",
-        "totalPoints": 3438,
+        "totalPoints": 3488,
         "results": [
+          {
+            "name": "Renewi Tour - S3Stage 3 - Aalter › Geraardsbergen",
+            "date": "22 Aug 2025",
+            "points": 50,
+            "rank": 1
+          },
           {
             "name": "Tour de France - S11Stage 11 - Toulouse › Toulouse",
             "date": "16 Jul 2025",
@@ -1261,8 +1267,14 @@
         "id": 86630,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 271,
+        "totalPoints": 286,
         "results": [
+          {
+            "name": "Renewi Tour - S3Stage 3 - Aalter › Geraardsbergen",
+            "date": "22 Aug 2025",
+            "points": 15,
+            "rank": 5
+          },
           {
             "name": "Tour de Pologne - General classificationGeneral classification",
             "date": "10 Aug 2025",

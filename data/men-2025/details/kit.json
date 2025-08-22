@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 August 2025 23:22 GMT",
+  "fetchedDate": "22 August 2025 23:22 GMT",
   "momentId": 193238,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 16031,
+    "totalPoints": 16096,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -1022,8 +1022,20 @@
         "id": 257361,
         "team": "DAT",
         "country": "fr",
-        "totalPoints": 358,
+        "totalPoints": 423,
         "results": [
+          {
+            "name": "Tour du Limousin-Périgord - Nouvelle Aquitaine - General classificationGeneral classification",
+            "date": "22 Aug 2025",
+            "points": 60,
+            "rank": 4
+          },
+          {
+            "name": "Tour du Limousin-Périgord - Nouvelle Aquitaine - S4Stage 4 - Saint-Hilaire-Bonneval › Limoges",
+            "date": "22 Aug 2025",
+            "points": 5,
+            "rank": 2
+          },
           {
             "name": "Tour du Limousin-Périgord - Nouvelle Aquitaine - S3Stage 3 - Saint-Jal › Masseret",
             "date": "21 Aug 2025",

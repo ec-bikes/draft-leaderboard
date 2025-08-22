@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "21 August 2025 23:22 GMT",
+  "fetchedDate": "22 August 2025 23:22 GMT",
   "momentId": 193238,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 10791.28,
+    "totalPoints": 10817.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -316,8 +316,14 @@
         "id": 227110,
         "team": "TVL",
         "country": "nl",
-        "totalPoints": 1441,
+        "totalPoints": 1442,
         "results": [
+          {
+            "name": "Renewi Tour - S3Stage 3 - Aalter › Geraardsbergen",
+            "date": "22 Aug 2025",
+            "points": 1,
+            "rank": 10
+          },
           {
             "name": "Renewi Tour - S2Stage 2 - Blankenberge › Ardooie",
             "date": "21 Aug 2025",
@@ -760,8 +766,14 @@
         "id": 64531,
         "team": "UAD",
         "country": "be",
-        "totalPoints": 920,
+        "totalPoints": 945,
         "results": [
+          {
+            "name": "Renewi Tour - S3Stage 3 - Aalter › Geraardsbergen",
+            "date": "22 Aug 2025",
+            "points": 25,
+            "rank": 3
+          },
           {
             "name": "Tour de France - General classificationGeneral classification",
             "date": "27 Jul 2025",
