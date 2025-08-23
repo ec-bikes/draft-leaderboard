@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "22 August 2025 23:22 GMT",
+  "fetchedDate": "23 August 2025 23:22 GMT",
   "momentId": 193238,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 11411.25,
+    "totalPoints": 11461.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -176,8 +176,14 @@
         "id": 70962,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 1717.29,
+        "totalPoints": 1767.29,
         "results": [
+          {
+            "name": "Renewi Tour - S4Stage 4 - Riemst › Bilzen-Hoeselt",
+            "date": "23 Aug 2025",
+            "points": 50,
+            "rank": 1
+          },
           {
             "name": "Renewi Tour - S2Stage 2 - Blankenberge › Ardooie",
             "date": "21 Aug 2025",

@@ -1,20 +1,31 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "22 August 2025 23:22 GMT",
+  "fetchedDate": "23 August 2025 23:22 GMT",
   "momentId": 193238,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 13736.57,
+    "totalPoints": 13936.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
         "id": 148275,
         "team": "ADC",
         "country": "be",
-        "totalPoints": 1453,
+        "totalPoints": 1653,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S1Stage 1 - Torino-Reggia di Venaria › Novara",
+            "date": "23 Aug 2025",
+            "points": 180,
+            "rank": 1
+          },
+          {
+            "name": "La Vuelta Ciclista a España - S1Stage 1 - Torino-Reggia di Venaria › Novara - Bonus",
+            "date": "23 Aug 2025",
+            "points": 20
+          },
           {
             "name": "ADAC Cyclassics",
             "date": "17 Aug 2025",

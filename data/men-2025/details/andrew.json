@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "22 August 2025 23:22 GMT",
+  "fetchedDate": "23 August 2025 23:22 GMT",
   "momentId": 193238,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 10817.28,
+    "totalPoints": 10842.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -316,8 +316,14 @@
         "id": 227110,
         "team": "TVL",
         "country": "nl",
-        "totalPoints": 1442,
+        "totalPoints": 1467,
         "results": [
+          {
+            "name": "Renewi Tour - S4Stage 4 - Riemst › Bilzen-Hoeselt",
+            "date": "23 Aug 2025",
+            "points": 25,
+            "rank": 3
+          },
           {
             "name": "Renewi Tour - S3Stage 3 - Aalter › Geraardsbergen",
             "date": "22 Aug 2025",
