@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 August 2025 23:22 GMT",
+  "fetchedDate": "24 August 2025 23:22 GMT",
   "momentId": 193238,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 11724.46,
+    "totalPoints": 11782.46,
     "riders": [
       {
         "name": "Matteo Jorgenson",
         "id": 159567,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 1643.57,
+        "totalPoints": 1673.57,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S2Stage 2 - Alba › Limone Piemonte",
+            "date": "24 Aug 2025",
+            "points": 30,
+            "rank": 9
+          },
           {
             "name": "Tour de France - General classificationGeneral classification",
             "date": "27 Jul 2025",
@@ -198,8 +204,20 @@
         "id": 301151,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 2006.86,
+        "totalPoints": 2019.86,
         "results": [
+          {
+            "name": "Lidl Deutschland Tour - General classificationGeneral classification",
+            "date": "24 Aug 2025",
+            "points": 3,
+            "rank": 38
+          },
+          {
+            "name": "Lidl Deutschland Tour - S4Stage 4 - Halle (Saale) › Magdeburg",
+            "date": "24 Aug 2025",
+            "points": 10,
+            "rank": 3
+          },
           {
             "name": "Lidl Deutschland Tour - S2Stage 2 - Herford › Arnsberg",
             "date": "22 Aug 2025",
@@ -355,8 +373,14 @@
         "id": 88346,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 186,
+        "totalPoints": 201,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S2Stage 2 - Alba › Limone Piemonte",
+            "date": "24 Aug 2025",
+            "points": 15,
+            "rank": 12
+          },
           {
             "name": "Tour de France - General classificationGeneral classification",
             "date": "27 Jul 2025",

@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 August 2025 23:22 GMT",
+  "fetchedDate": "24 August 2025 23:22 GMT",
   "momentId": 193238,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 9469.29,
+    "totalPoints": 9658.29,
     "riders": [
       {
         "name": "Wout van Aert",
         "id": 75859,
         "team": "TVL",
         "country": "be",
-        "totalPoints": 2793,
+        "totalPoints": 2863,
         "results": [
+          {
+            "name": "Lidl Deutschland Tour - General classificationGeneral classification",
+            "date": "24 Aug 2025",
+            "points": 70,
+            "rank": 6
+          },
           {
             "name": "Lidl Deutschland Tour - Prologue",
             "date": "20 Aug 2025",
@@ -148,8 +154,14 @@
         "id": 1707195,
         "team": "IWA",
         "country": "er",
-        "totalPoints": 1305,
+        "totalPoints": 1321,
         "results": [
+          {
+            "name": "Renewi Tour - General classificationGeneral classification",
+            "date": "24 Aug 2025",
+            "points": 16,
+            "rank": 29
+          },
           {
             "name": "Renewi Tour - S4Stage 4 - Riemst › Bilzen-Hoeselt",
             "date": "23 Aug 2025",
@@ -325,8 +337,14 @@
         "id": 154218,
         "team": "LOT",
         "country": "be",
-        "totalPoints": 527,
+        "totalPoints": 535,
         "results": [
+          {
+            "name": "Renewi Tour - General classificationGeneral classification",
+            "date": "24 Aug 2025",
+            "points": 8,
+            "rank": 44
+          },
           {
             "name": "Donostia San Sebastian Klasikoa",
             "date": "2 Aug 2025",
@@ -613,8 +631,14 @@
         "id": 112351,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 195,
+        "totalPoints": 290,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S2Stage 2 - Alba › Limone Piemonte",
+            "date": "24 Aug 2025",
+            "points": 95,
+            "rank": 3
+          },
           {
             "name": "Tour de l'Ain - S1Stage 1 - Feillens › Lagnieu",
             "date": "6 Aug 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 August 2025 23:22 GMT",
+  "fetchedDate": "24 August 2025 23:22 GMT",
   "momentId": 193238,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 10842.28,
+    "totalPoints": 11390.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -118,8 +118,14 @@
         "id": 107840,
         "team": "UAD",
         "country": "pt",
-        "totalPoints": 2633.57,
+        "totalPoints": 2693.57,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S2Stage 2 - Alba › Limone Piemonte",
+            "date": "24 Aug 2025",
+            "points": 60,
+            "rank": 5
+          },
           {
             "name": "Tour de France - S5 (ITT)Stage 5 (ITT) - Caen › Caen",
             "date": "9 Jul 2025",
@@ -316,8 +322,20 @@
         "id": 227110,
         "team": "TVL",
         "country": "nl",
-        "totalPoints": 1467,
+        "totalPoints": 1650,
         "results": [
+          {
+            "name": "Renewi Tour - General classificationGeneral classification",
+            "date": "24 Aug 2025",
+            "points": 180,
+            "rank": 5
+          },
+          {
+            "name": "Renewi Tour - S5Stage 5 - Leuven › Leuven",
+            "date": "24 Aug 2025",
+            "points": 3,
+            "rank": 9
+          },
           {
             "name": "Renewi Tour - S4Stage 4 - Riemst › Bilzen-Hoeselt",
             "date": "23 Aug 2025",
@@ -772,8 +790,14 @@
         "id": 64531,
         "team": "UAD",
         "country": "be",
-        "totalPoints": 945,
+        "totalPoints": 1205,
         "results": [
+          {
+            "name": "Renewi Tour - General classificationGeneral classification",
+            "date": "24 Aug 2025",
+            "points": 260,
+            "rank": 3
+          },
           {
             "name": "Renewi Tour - S3Stage 3 - Aalter › Geraardsbergen",
             "date": "22 Aug 2025",
@@ -910,8 +934,14 @@
         "id": 150925,
         "team": "DAT",
         "country": "at",
-        "totalPoints": 1601.43,
+        "totalPoints": 1646.43,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S2Stage 2 - Alba › Limone Piemonte",
+            "date": "24 Aug 2025",
+            "points": 45,
+            "rank": 6
+          },
           {
             "name": "Tour de France - General classificationGeneral classification",
             "date": "27 Jul 2025",

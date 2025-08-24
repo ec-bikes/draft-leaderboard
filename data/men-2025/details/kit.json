@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 August 2025 23:22 GMT",
+  "fetchedDate": "24 August 2025 23:22 GMT",
   "momentId": 193238,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 16096,
+    "totalPoints": 16177,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -326,8 +326,14 @@
         "id": 1721034,
         "team": "LTK",
         "country": "be",
-        "totalPoints": 838,
+        "totalPoints": 846,
         "results": [
+          {
+            "name": "Renewi Tour - General classificationGeneral classification",
+            "date": "24 Aug 2025",
+            "points": 8,
+            "rank": 37
+          },
           {
             "name": "Tour de France - S15Stage 15 - Muret › Carcassonne",
             "date": "20 Jul 2025",
@@ -383,8 +389,14 @@
         "id": 68892,
         "team": "LTK",
         "country": "lv",
-        "totalPoints": 353,
+        "totalPoints": 421,
         "results": [
+          {
+            "name": "Renewi Tour - General classificationGeneral classification",
+            "date": "24 Aug 2025",
+            "points": 68,
+            "rank": 10
+          },
           {
             "name": "Circuito de Getxo - Memorial Hermanos Otxoa",
             "date": "3 Aug 2025",
@@ -533,8 +545,14 @@
         "id": 148901,
         "team": "RBH",
         "country": "be",
-        "totalPoints": 760,
+        "totalPoints": 765,
         "results": [
+          {
+            "name": "Lidl Deutschland Tour - S4Stage 4 - Halle (Saale) › Magdeburg",
+            "date": "24 Aug 2025",
+            "points": 5,
+            "rank": 4
+          },
           {
             "name": "Tour de France - S17Stage 17 - Bollène › Valence",
             "date": "23 Jul 2025",

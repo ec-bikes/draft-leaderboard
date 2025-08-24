@@ -1,20 +1,32 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 August 2025 23:22 GMT",
+  "fetchedDate": "24 August 2025 23:22 GMT",
   "momentId": 193238,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 8477.38,
+    "totalPoints": 8600.38,
     "riders": [
       {
         "name": "Dylan Groenewegen",
         "id": 72932,
         "team": "JAY",
         "country": "nl",
-        "totalPoints": 421,
+        "totalPoints": 440,
         "results": [
+          {
+            "name": "Renewi Tour - General classificationGeneral classification",
+            "date": "24 Aug 2025",
+            "points": 4,
+            "rank": 52
+          },
+          {
+            "name": "Renewi Tour - S5Stage 5 - Leuven › Leuven",
+            "date": "24 Aug 2025",
+            "points": 15,
+            "rank": 5
+          },
           {
             "name": "Renewi Tour - S2Stage 2 - Blankenberge › Ardooie",
             "date": "21 Aug 2025",
@@ -141,8 +153,14 @@
         "id": 86863,
         "team": "TBV",
         "country": "si",
-        "totalPoints": 235,
+        "totalPoints": 243,
         "results": [
+          {
+            "name": "Renewi Tour - General classificationGeneral classification",
+            "date": "24 Aug 2025",
+            "points": 8,
+            "rank": 32
+          },
           {
             "name": "Tour de France - S21Stage 21 - Mantes-la-Ville › Paris",
             "date": "27 Jul 2025",
@@ -608,8 +626,14 @@
         "id": 1759987,
         "team": "SOQ",
         "country": "fr",
-        "totalPoints": 1519,
+        "totalPoints": 1551,
         "results": [
+          {
+            "name": "Renewi Tour - General classificationGeneral classification",
+            "date": "24 Aug 2025",
+            "points": 32,
+            "rank": 14
+          },
           {
             "name": "ADAC Cyclassics",
             "date": "17 Aug 2025",
@@ -846,8 +870,14 @@
         "id": 109829,
         "team": "RBH",
         "country": "au",
-        "totalPoints": 370.71,
+        "totalPoints": 410.71,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S2Stage 2 - Alba › Limone Piemonte",
+            "date": "24 Aug 2025",
+            "points": 40,
+            "rank": 7
+          },
           {
             "name": "Vuelta a Burgos - General classificationGeneral classification",
             "date": "9 Aug 2025",
@@ -903,8 +933,14 @@
         "id": 407508,
         "team": "RBH",
         "country": "es",
-        "totalPoints": 340,
+        "totalPoints": 364,
         "results": [
+          {
+            "name": "Renewi Tour - General classificationGeneral classification",
+            "date": "24 Aug 2025",
+            "points": 24,
+            "rank": 17
+          },
           {
             "name": "Vuelta a Burgos - S2Stage 2 - Cilleruelo de Abajo › Buniel - Bonus",
             "date": "6 Aug 2025",

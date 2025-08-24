@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 August 2025 23:22 GMT",
+  "fetchedDate": "24 August 2025 23:22 GMT",
   "momentId": 193238,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 13936.57,
+    "totalPoints": 14204.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -359,8 +359,14 @@
         "id": 415141,
         "team": "UAD",
         "country": "es",
-        "totalPoints": 1870,
+        "totalPoints": 1905,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S2Stage 2 - Alba › Limone Piemonte",
+            "date": "24 Aug 2025",
+            "points": 35,
+            "rank": 8
+          },
           {
             "name": "Circuito de Getxo - Memorial Hermanos Otxoa",
             "date": "3 Aug 2025",
@@ -606,8 +612,14 @@
         "id": 96372,
         "team": "UAD",
         "country": "ec",
-        "totalPoints": 996.14,
+        "totalPoints": 1146.14,
         "results": [
+          {
+            "name": "Lidl Deutschland Tour - General classificationGeneral classification",
+            "date": "24 Aug 2025",
+            "points": 150,
+            "rank": 2
+          },
           {
             "name": "Lidl Deutschland Tour - S2Stage 2 - Herford › Arnsberg",
             "date": "22 Aug 2025",
@@ -710,8 +722,14 @@
         "id": 95844,
         "team": "IGD",
         "country": "co",
-        "totalPoints": 978,
+        "totalPoints": 1058,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S2Stage 2 - Alba › Limone Piemonte",
+            "date": "24 Aug 2025",
+            "points": 80,
+            "rank": 4
+          },
           {
             "name": "Vuelta a Burgos - General classificationGeneral classification",
             "date": "9 Aug 2025",
@@ -797,8 +815,14 @@
         "id": 2097255,
         "team": "RBH",
         "country": "de",
-        "totalPoints": 2549,
+        "totalPoints": 2552,
         "results": [
+          {
+            "name": "Lidl Deutschland Tour - General classificationGeneral classification",
+            "date": "24 Aug 2025",
+            "points": 3,
+            "rank": 35
+          },
           {
             "name": "Tour de France - General classificationGeneral classification",
             "date": "27 Jul 2025",

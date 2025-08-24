@@ -1,20 +1,31 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 August 2025 23:22 GMT",
+  "fetchedDate": "24 August 2025 23:22 GMT",
   "momentId": 193238,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 12252.14,
+    "totalPoints": 12510.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "team": "TVL",
         "country": "dk",
-        "totalPoints": 3238.57,
+        "totalPoints": 3438.57,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S2Stage 2 - Alba › Limone Piemonte",
+            "date": "24 Aug 2025",
+            "points": 180,
+            "rank": 1
+          },
+          {
+            "name": "La Vuelta Ciclista a España - S2Stage 2 - Alba › Limone Piemonte - Bonus",
+            "date": "24 Aug 2025",
+            "points": 20
+          },
           {
             "name": "Tour de France - Mountains classificationMountains classification",
             "date": "27 Jul 2025",
@@ -692,16 +703,29 @@
         "id": 81980,
         "team": "TVL",
         "country": "fr",
-        "totalPoints": 0,
-        "results": []
+        "totalPoints": 2,
+        "results": [
+          {
+            "name": "Renewi Tour - General classificationGeneral classification",
+            "date": "24 Aug 2025",
+            "points": 2,
+            "rank": 56
+          }
+        ]
       },
       {
         "name": "Valentin Madouas",
         "id": 91637,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 402,
+        "totalPoints": 458,
         "results": [
+          {
+            "name": "Renewi Tour - General classificationGeneral classification",
+            "date": "24 Aug 2025",
+            "points": 56,
+            "rank": 11
+          },
           {
             "name": "La Polynormande",
             "date": "17 Aug 2025",

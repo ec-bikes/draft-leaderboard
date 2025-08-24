@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 August 2025 23:22 GMT",
+  "fetchedDate": "24 August 2025 23:22 GMT",
   "momentId": 193238,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 11461.25,
+    "totalPoints": 11612.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -353,8 +353,14 @@
         "id": 97805,
         "team": "JAY",
         "country": "au",
-        "totalPoints": 874.81,
+        "totalPoints": 884.81,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S2Stage 2 - Alba › Limone Piemonte",
+            "date": "24 Aug 2025",
+            "points": 10,
+            "rank": 13
+          },
           {
             "name": "Tour de France - General classificationGeneral classification",
             "date": "27 Jul 2025",
@@ -575,8 +581,14 @@
         "id": 97091,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 1951,
+        "totalPoints": 2081,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S2Stage 2 - Alba › Limone Piemonte",
+            "date": "24 Aug 2025",
+            "points": 130,
+            "rank": 2
+          },
           {
             "name": "Vuelta a Burgos - General classificationGeneral classification",
             "date": "9 Aug 2025",
@@ -861,8 +873,14 @@
         "id": 472995,
         "team": "LTK",
         "country": "cz",
-        "totalPoints": 615.86,
+        "totalPoints": 623.86,
         "results": [
+          {
+            "name": "Renewi Tour - General classificationGeneral classification",
+            "date": "24 Aug 2025",
+            "points": 8,
+            "rank": 31
+          },
           {
             "name": "ADAC Cyclassics",
             "date": "17 Aug 2025",
@@ -1177,8 +1195,14 @@
         "id": 221617,
         "team": "RBH",
         "country": "nz",
-        "totalPoints": 411,
+        "totalPoints": 414,
         "results": [
+          {
+            "name": "Lidl Deutschland Tour - General classificationGeneral classification",
+            "date": "24 Aug 2025",
+            "points": 3,
+            "rank": 39
+          },
           {
             "name": "Lidl Deutschland Tour - Prologue",
             "date": "20 Aug 2025",
