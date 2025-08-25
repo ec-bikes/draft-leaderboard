@@ -1,20 +1,31 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "24 August 2025 23:22 GMT",
+  "fetchedDate": "25 August 2025 23:23 GMT",
   "momentId": 193238,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 12510.14,
+    "totalPoints": 12665.14,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "team": "TVL",
         "country": "dk",
-        "totalPoints": 3438.57,
+        "totalPoints": 3553.57,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S3Stage 3 - San Maurizio Canavese › Ceres",
+            "date": "25 Aug 2025",
+            "points": 95,
+            "rank": 3
+          },
+          {
+            "name": "La Vuelta Ciclista a España - S3Stage 3 - San Maurizio Canavese › Ceres - Bonus",
+            "date": "25 Aug 2025",
+            "points": 20
+          },
           {
             "name": "La Vuelta Ciclista a España - S2Stage 2 - Alba › Limone Piemonte",
             "date": "24 Aug 2025",
@@ -593,8 +604,14 @@
         "id": 353375,
         "team": "TBV",
         "country": "co",
-        "totalPoints": 840,
+        "totalPoints": 880,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S3Stage 3 - San Maurizio Canavese › Ceres",
+            "date": "25 Aug 2025",
+            "points": 40,
+            "rank": 7
+          },
           {
             "name": "Tour de France - General classificationGeneral classification",
             "date": "27 Jul 2025",

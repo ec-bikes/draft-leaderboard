@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "24 August 2025 23:22 GMT",
+  "fetchedDate": "25 August 2025 23:23 GMT",
   "momentId": 193244,
   "teams": [
     {
@@ -85,7 +85,7 @@
     {
       "owner": "Abby Mickey",
       "name": "The Tortured Breakaway Department",
-      "totalPoints": 9007.71,
+      "totalPoints": 9012.71,
       "riders": [
         {
           "name": "Elisa Longo Borghini",
@@ -155,7 +155,7 @@
           "id": 233425,
           "team": "VWT",
           "country": "nl",
-          "totalPoints": 328
+          "totalPoints": 333
         }
       ],
       "movement": 0

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "24 August 2025 23:22 GMT",
+  "fetchedDate": "25 August 2025 23:23 GMT",
   "momentId": 193238,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 14204.57,
+    "totalPoints": 14239.57,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -722,8 +722,14 @@
         "id": 95844,
         "team": "IGD",
         "country": "co",
-        "totalPoints": 1058,
+        "totalPoints": 1093,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S3Stage 3 - San Maurizio Canavese › Ceres",
+            "date": "25 Aug 2025",
+            "points": 35,
+            "rank": 8
+          },
           {
             "name": "La Vuelta Ciclista a España - S2Stage 2 - Alba › Limone Piemonte",
             "date": "24 Aug 2025",

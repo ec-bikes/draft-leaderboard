@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "24 August 2025 23:22 GMT",
+  "fetchedDate": "25 August 2025 23:23 GMT",
   "momentId": 193238,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 11612.25,
+    "totalPoints": 11692.25,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -581,8 +581,14 @@
         "id": 97091,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 2081,
+        "totalPoints": 2161,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S3Stage 3 - San Maurizio Canavese › Ceres",
+            "date": "25 Aug 2025",
+            "points": 80,
+            "rank": 4
+          },
           {
             "name": "La Vuelta Ciclista a España - S2Stage 2 - Alba › Limone Piemonte",
             "date": "24 Aug 2025",

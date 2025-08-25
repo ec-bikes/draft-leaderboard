@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "24 August 2025 23:22 GMT",
+  "fetchedDate": "25 August 2025 23:23 GMT",
   "momentId": 193238,
   "teams": [
     {
@@ -85,14 +85,14 @@
     {
       "owner": "Jonny Long",
       "name": "Ineos Grenadiers-Greenpeace-Poundland",
-      "totalPoints": 12510.14,
+      "totalPoints": 12665.14,
       "riders": [
         {
           "name": "Jonas Vingegaard",
           "id": 112082,
           "team": "TVL",
           "country": "dk",
-          "totalPoints": 3438.57
+          "totalPoints": 3553.57
         },
         {
           "name": "Mattias Skjelmose",
@@ -120,7 +120,7 @@
           "id": 353375,
           "team": "TBV",
           "country": "co",
-          "totalPoints": 840
+          "totalPoints": 880
         },
         {
           "name": "Christophe Laporte",
@@ -163,7 +163,7 @@
     {
       "owner": "Toms Skujiņš",
       "name": "Lidl-Trek-Bauer",
-      "totalPoints": 11612.25,
+      "totalPoints": 11692.25,
       "riders": [
         {
           "name": "Remco Evenepoel",
@@ -198,7 +198,7 @@
           "id": 97091,
           "team": "LTK",
           "country": "it",
-          "totalPoints": 2081
+          "totalPoints": 2161
         },
         {
           "name": "Lenny Martinez",
@@ -241,7 +241,7 @@
     {
       "owner": "Dane Cash",
       "name": "Visma-Lease a Bike-Monster Energy",
-      "totalPoints": 14204.57,
+      "totalPoints": 14239.57,
       "riders": [
         {
           "name": "Jasper Philipsen",
@@ -290,7 +290,7 @@
           "id": 95844,
           "team": "IGD",
           "country": "co",
-          "totalPoints": 1058
+          "totalPoints": 1093
         },
         {
           "name": "Florian Lipowitz",
@@ -319,7 +319,7 @@
     {
       "owner": "Abby Mickey",
       "name": "EF Education-Swift Nation",
-      "totalPoints": 9658.29,
+      "totalPoints": 9853.29,
       "riders": [
         {
           "name": "Wout van Aert",
@@ -368,14 +368,14 @@
           "id": 112351,
           "team": "GFC",
           "country": "fr",
-          "totalPoints": 290
+          "totalPoints": 470
         },
         {
           "name": "Finn Fisher-Black",
           "id": 217083,
           "team": "RBH",
           "country": "nz",
-          "totalPoints": 680
+          "totalPoints": 695
         },
         {
           "name": "Thymen Arensman",
@@ -397,7 +397,7 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 13089.42,
+      "totalPoints": 13219.42,
       "riders": [
         {
           "name": "Mathieu van der Poel",
@@ -411,7 +411,7 @@
           "id": 86895,
           "team": "LTK",
           "country": "dk",
-          "totalPoints": 4302.57
+          "totalPoints": 4432.57
         },
         {
           "name": "Brandon McNulty",
@@ -631,7 +631,7 @@
     {
       "owner": "Discord Undrafted",
       "name": "Team Movistar easyJet",
-      "totalPoints": 8600.38,
+      "totalPoints": 8625.38,
       "riders": [
         {
           "name": "Dylan Groenewegen",
@@ -694,7 +694,7 @@
           "id": 109829,
           "team": "RBH",
           "country": "au",
-          "totalPoints": 410.71
+          "totalPoints": 435.71
         },
         {
           "name": "Roger Adrià",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "24 August 2025 23:22 GMT",
+  "fetchedDate": "25 August 2025 23:23 GMT",
   "momentId": 193238,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 9658.29,
+    "totalPoints": 9853.29,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -631,8 +631,14 @@
         "id": 112351,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 290,
+        "totalPoints": 470,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S3Stage 3 - San Maurizio Canavese › Ceres",
+            "date": "25 Aug 2025",
+            "points": 180,
+            "rank": 1
+          },
           {
             "name": "La Vuelta Ciclista a España - S2Stage 2 - Alba › Limone Piemonte",
             "date": "24 Aug 2025",
@@ -692,8 +698,14 @@
         "id": 217083,
         "team": "RBH",
         "country": "nz",
-        "totalPoints": 680,
+        "totalPoints": 695,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S3Stage 3 - San Maurizio Canavese › Ceres",
+            "date": "25 Aug 2025",
+            "points": 15,
+            "rank": 12
+          },
           {
             "name": "Tour de Pologne - S5Stage 5 - Katowice › Zakopane",
             "date": "8 Aug 2025",
