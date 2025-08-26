@@ -1,8 +1,8 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "25 August 2025 23:23 GMT",
-  "momentId": 193238,
+  "fetchedDate": "26 August 2025 23:21 GMT",
+  "momentId": 193282,
   "teams": [
     {
       "owner": "Kit Nicholson",
@@ -241,14 +241,14 @@
     {
       "owner": "Dane Cash",
       "name": "Visma-Lease a Bike-Monster Energy",
-      "totalPoints": 14239.57,
+      "totalPoints": 14369.57,
       "riders": [
         {
           "name": "Jasper Philipsen",
           "id": 148275,
           "team": "ADC",
           "country": "be",
-          "totalPoints": 1653
+          "totalPoints": 1783
         },
         {
           "name": "Primož Roglič",
@@ -319,7 +319,7 @@
     {
       "owner": "Abby Mickey",
       "name": "EF Education-Swift Nation",
-      "totalPoints": 9853.29,
+      "totalPoints": 9873.29,
       "riders": [
         {
           "name": "Wout van Aert",
@@ -368,7 +368,7 @@
           "id": 112351,
           "team": "GFC",
           "country": "fr",
-          "totalPoints": 470
+          "totalPoints": 490
         },
         {
           "name": "Finn Fisher-Black",
@@ -397,7 +397,7 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 13219.42,
+      "totalPoints": 13264.42,
       "riders": [
         {
           "name": "Mathieu van der Poel",
@@ -411,7 +411,7 @@
           "id": 86895,
           "team": "LTK",
           "country": "dk",
-          "totalPoints": 4432.57
+          "totalPoints": 4477.57
         },
         {
           "name": "Brandon McNulty",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "25 August 2025 23:23 GMT",
-  "momentId": 193238,
+  "fetchedDate": "26 August 2025 23:21 GMT",
+  "momentId": 193282,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 13219.42,
+    "totalPoints": 13264.42,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -168,8 +168,14 @@
         "id": 86895,
         "team": "LTK",
         "country": "dk",
-        "totalPoints": 4432.57,
+        "totalPoints": 4477.57,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S4Stage 4 - Susa › Voiron",
+            "date": "26 Aug 2025",
+            "points": 45,
+            "rank": 6
+          },
           {
             "name": "La Vuelta Ciclista a España - S3Stage 3 - San Maurizio Canavese › Ceres",
             "date": "25 Aug 2025",

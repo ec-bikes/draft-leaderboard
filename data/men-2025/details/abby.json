@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "25 August 2025 23:23 GMT",
-  "momentId": 193238,
+  "fetchedDate": "26 August 2025 23:21 GMT",
+  "momentId": 193282,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 9853.29,
+    "totalPoints": 9873.29,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -631,8 +631,13 @@
         "id": 112351,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 470,
+        "totalPoints": 490,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S4Stage 4 - Susa › Voiron - Bonus",
+            "date": "26 Aug 2025",
+            "points": 20
+          },
           {
             "name": "La Vuelta Ciclista a España - S3Stage 3 - San Maurizio Canavese › Ceres",
             "date": "25 Aug 2025",
