@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 August 2025 23:21 GMT",
+  "fetchedDate": "27 August 2025 23:21 GMT",
   "momentId": 193282,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 11782.46,
+    "totalPoints": 11827.1,
     "riders": [
       {
         "name": "Matteo Jorgenson",
         "id": 159567,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 1673.57,
+        "totalPoints": 1692.14,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S5 (TTT)Stage 5 (TTT) - Figueres › Figueres",
+            "date": "27 Aug 2025",
+            "points": 18.57,
+            "rank": 2
+          },
           {
             "name": "La Vuelta Ciclista a España - S2Stage 2 - Alba › Limone Piemonte",
             "date": "24 Aug 2025",
@@ -373,8 +379,14 @@
         "id": 88346,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 201,
+        "totalPoints": 219.57,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S5 (TTT)Stage 5 (TTT) - Figueres › Figueres",
+            "date": "27 Aug 2025",
+            "points": 18.57,
+            "rank": 2
+          },
           {
             "name": "La Vuelta Ciclista a España - S2Stage 2 - Alba › Limone Piemonte",
             "date": "24 Aug 2025",
@@ -952,8 +964,14 @@
         "id": 361433,
         "team": "IGD",
         "country": "us",
-        "totalPoints": 816.86,
+        "totalPoints": 824.36,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S5 (TTT)Stage 5 (TTT) - Figueres › Figueres",
+            "date": "27 Aug 2025",
+            "points": 7.5,
+            "rank": 5
+          },
           {
             "name": "Liège-Bastogne-Liège",
             "date": "27 Apr 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 August 2025 23:21 GMT",
+  "fetchedDate": "27 August 2025 23:21 GMT",
   "momentId": 193282,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 14369.57,
+    "totalPoints": 14403.86,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -365,8 +365,14 @@
         "id": 415141,
         "team": "UAD",
         "country": "es",
-        "totalPoints": 1905,
+        "totalPoints": 1927.5,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S5 (TTT)Stage 5 (TTT) - Figueres › Figueres",
+            "date": "27 Aug 2025",
+            "points": 22.5,
+            "rank": 1
+          },
           {
             "name": "La Vuelta Ciclista a España - S2Stage 2 - Alba › Limone Piemonte",
             "date": "24 Aug 2025",
@@ -728,8 +734,14 @@
         "id": 95844,
         "team": "IGD",
         "country": "co",
-        "totalPoints": 1093,
+        "totalPoints": 1100.5,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S5 (TTT)Stage 5 (TTT) - Figueres › Figueres",
+            "date": "27 Aug 2025",
+            "points": 7.5,
+            "rank": 5
+          },
           {
             "name": "La Vuelta Ciclista a España - S3Stage 3 - San Maurizio Canavese › Ceres",
             "date": "25 Aug 2025",
@@ -1183,8 +1195,14 @@
         "id": 74994,
         "team": "GFC",
         "country": "ch",
-        "totalPoints": 508,
+        "totalPoints": 512.29,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S5 (TTT)Stage 5 (TTT) - Figueres › Figueres",
+            "date": "27 Aug 2025",
+            "points": 4.29,
+            "rank": 9
+          },
           {
             "name": "Tour de Pologne - General classificationGeneral classification",
             "date": "10 Aug 2025",

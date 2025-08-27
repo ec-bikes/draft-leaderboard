@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 August 2025 23:21 GMT",
+  "fetchedDate": "27 August 2025 23:21 GMT",
   "momentId": 193282,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 8625.38,
+    "totalPoints": 8641.81,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -325,8 +325,14 @@
         "id": 2178033,
         "team": "MOV",
         "country": "es",
-        "totalPoints": 853,
+        "totalPoints": 859.43,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S5 (TTT)Stage 5 (TTT) - Figueres › Figueres",
+            "date": "27 Aug 2025",
+            "points": 6.43,
+            "rank": 6
+          },
           {
             "name": "Tour de Suisse - General classificationGeneral classification",
             "date": "22 Jun 2025",
@@ -870,8 +876,14 @@
         "id": 109829,
         "team": "RBH",
         "country": "au",
-        "totalPoints": 435.71,
+        "totalPoints": 445.71,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S5 (TTT)Stage 5 (TTT) - Figueres › Figueres",
+            "date": "27 Aug 2025",
+            "points": 10,
+            "rank": 4
+          },
           {
             "name": "La Vuelta Ciclista a España - S3Stage 3 - San Maurizio Canavese › Ceres",
             "date": "25 Aug 2025",

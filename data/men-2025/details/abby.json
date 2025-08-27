@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 August 2025 23:21 GMT",
+  "fetchedDate": "27 August 2025 23:21 GMT",
   "momentId": 193282,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 9873.29,
+    "totalPoints": 9902.58,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -429,8 +429,14 @@
         "id": 58528,
         "team": "IGD",
         "country": "pl",
-        "totalPoints": 165,
+        "totalPoints": 172.5,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S5 (TTT)Stage 5 (TTT) - Figueres › Figueres",
+            "date": "27 Aug 2025",
+            "points": 7.5,
+            "rank": 5
+          },
           {
             "name": "Trofeo Laigueglia",
             "date": "5 Mar 2025",
@@ -468,8 +474,14 @@
         "id": 91640,
         "team": "IGD",
         "country": "it",
-        "totalPoints": 1887,
+        "totalPoints": 1894.5,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S5 (TTT)Stage 5 (TTT) - Figueres › Figueres",
+            "date": "27 Aug 2025",
+            "points": 7.5,
+            "rank": 5
+          },
           {
             "name": "National Championships Italy ME - ITT",
             "date": "26 Jun 2025",
@@ -631,8 +643,14 @@
         "id": 112351,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 490,
+        "totalPoints": 494.29,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S5 (TTT)Stage 5 (TTT) - Figueres › Figueres",
+            "date": "27 Aug 2025",
+            "points": 4.29,
+            "rank": 9
+          },
           {
             "name": "La Vuelta Ciclista a España - S4Stage 4 - Susa › Voiron - Bonus",
             "date": "26 Aug 2025",
@@ -703,8 +721,14 @@
         "id": 217083,
         "team": "RBH",
         "country": "nz",
-        "totalPoints": 695,
+        "totalPoints": 705,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S5 (TTT)Stage 5 (TTT) - Figueres › Figueres",
+            "date": "27 Aug 2025",
+            "points": 10,
+            "rank": 4
+          },
           {
             "name": "La Vuelta Ciclista a España - S3Stage 3 - San Maurizio Canavese › Ceres",
             "date": "25 Aug 2025",
