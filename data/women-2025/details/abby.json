@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "27 August 2025 23:21 GMT",
+  "fetchedDate": "28 August 2025 23:21 GMT",
   "momentId": 193300,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 9012.71,
+    "totalPoints": 9165.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
         "id": 76149,
         "team": "UAD",
         "country": "it",
-        "totalPoints": 2447,
+        "totalPoints": 2572,
         "results": [
+          {
+            "name": "Kreiz Breizh Elites Féminin",
+            "date": "28 Aug 2025",
+            "points": 125,
+            "rank": 1
+          },
           {
             "name": "Giro d'Italia Women - General classificationGeneral classification",
             "date": "13 Jul 2025",
@@ -638,8 +644,14 @@
         "id": 237690,
         "team": "LTK",
         "country": "gb",
-        "totalPoints": 599.14,
+        "totalPoints": 602.14,
         "results": [
+          {
+            "name": "Kreiz Breizh Elites Féminin",
+            "date": "28 Aug 2025",
+            "points": 3,
+            "rank": 24
+          },
           {
             "name": "Giro d'Italia Women - S3Stage 3 - Vezza d'Oglio › Trento - Bonus",
             "date": "8 Jul 2025",
@@ -880,8 +892,14 @@
         "id": 228375,
         "team": "LTK",
         "country": "nl",
-        "totalPoints": 240.14,
+        "totalPoints": 265.14,
         "results": [
+          {
+            "name": "Kreiz Breizh Elites Féminin",
+            "date": "28 Aug 2025",
+            "points": 25,
+            "rank": 9
+          },
           {
             "name": "Tour de France Femmes - General classificationGeneral classification",
             "date": "3 Aug 2025",

@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "27 August 2025 23:21 GMT",
+  "fetchedDate": "28 August 2025 23:22 GMT",
   "momentId": 193282,
   "teams": [
     {
@@ -85,14 +85,14 @@
     {
       "owner": "Jonny Long",
       "name": "Ineos Grenadiers-Greenpeace-Poundland",
-      "totalPoints": 12708.71,
+      "totalPoints": 12730.71,
       "riders": [
         {
           "name": "Jonas Vingegaard",
           "id": 112082,
           "team": "TVL",
           "country": "dk",
-          "totalPoints": 3592.14
+          "totalPoints": 3612.14
         },
         {
           "name": "Mattias Skjelmose",
@@ -155,7 +155,7 @@
           "id": 308040,
           "team": "TBV",
           "country": "it",
-          "totalPoints": 1072.5
+          "totalPoints": 1074.5
         }
       ],
       "movement": 0
@@ -163,7 +163,7 @@
     {
       "owner": "Toms Skujiņš",
       "name": "Lidl-Trek-Bauer",
-      "totalPoints": 11704.13,
+      "totalPoints": 11719.13,
       "riders": [
         {
           "name": "Remco Evenepoel",
@@ -198,7 +198,7 @@
           "id": 97091,
           "team": "LTK",
           "country": "it",
-          "totalPoints": 2172.88
+          "totalPoints": 2187.88
         },
         {
           "name": "Lenny Martinez",
@@ -241,7 +241,7 @@
     {
       "owner": "Dane Cash",
       "name": "Visma-Lease a Bike-Monster Energy",
-      "totalPoints": 14403.86,
+      "totalPoints": 14408.86,
       "riders": [
         {
           "name": "Jasper Philipsen",
@@ -290,7 +290,7 @@
           "id": 95844,
           "team": "IGD",
           "country": "co",
-          "totalPoints": 1100.5
+          "totalPoints": 1105.5
         },
         {
           "name": "Florian Lipowitz",
@@ -553,7 +553,7 @@
     {
       "owner": "Andrew (member)",
       "name": "Groupama-FDJ-Tourtel Twist",
-      "totalPoints": 11465.28,
+      "totalPoints": 11560.28,
       "riders": [
         {
           "name": "Adam Yates",
@@ -567,7 +567,7 @@
           "id": 107840,
           "team": "UAD",
           "country": "pt",
-          "totalPoints": 2716.07
+          "totalPoints": 2741.07
         },
         {
           "name": "Olav Kooij",
@@ -609,14 +609,14 @@
           "id": 150925,
           "team": "DAT",
           "country": "at",
-          "totalPoints": 1651.43
+          "totalPoints": 1661.43
         },
         {
           "name": "Pablo Castrillo",
           "id": 373832,
           "team": "MOV",
           "country": "es",
-          "totalPoints": 369.14
+          "totalPoints": 429.14
         },
         {
           "name": "Marc Soler",

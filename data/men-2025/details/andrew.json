@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "27 August 2025 23:21 GMT",
+  "fetchedDate": "28 August 2025 23:22 GMT",
   "momentId": 193282,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 11465.28,
+    "totalPoints": 11560.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -118,8 +118,14 @@
         "id": 107840,
         "team": "UAD",
         "country": "pt",
-        "totalPoints": 2716.07,
+        "totalPoints": 2741.07,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S6Stage 6 - Olot › Pal. Andorra",
+            "date": "28 Aug 2025",
+            "points": 25,
+            "rank": 10
+          },
           {
             "name": "La Vuelta Ciclista a España - S5 (TTT)Stage 5 (TTT) - Figueres › Figueres",
             "date": "27 Aug 2025",
@@ -946,8 +952,14 @@
         "id": 150925,
         "team": "DAT",
         "country": "at",
-        "totalPoints": 1651.43,
+        "totalPoints": 1661.43,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S6Stage 6 - Olot › Pal. Andorra",
+            "date": "28 Aug 2025",
+            "points": 10,
+            "rank": 13
+          },
           {
             "name": "La Vuelta Ciclista a España - S5 (TTT)Stage 5 (TTT) - Figueres › Figueres",
             "date": "27 Aug 2025",
@@ -1105,8 +1117,14 @@
         "id": 373832,
         "team": "MOV",
         "country": "es",
-        "totalPoints": 369.14,
+        "totalPoints": 429.14,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S6Stage 6 - Olot › Pal. Andorra",
+            "date": "28 Aug 2025",
+            "points": 60,
+            "rank": 5
+          },
           {
             "name": "La Vuelta Ciclista a España - S5 (TTT)Stage 5 (TTT) - Figueres › Figueres",
             "date": "27 Aug 2025",

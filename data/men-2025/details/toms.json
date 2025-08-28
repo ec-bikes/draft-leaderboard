@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "27 August 2025 23:21 GMT",
+  "fetchedDate": "28 August 2025 23:22 GMT",
   "momentId": 193282,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 11704.13,
+    "totalPoints": 11719.13,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -581,8 +581,14 @@
         "id": 97091,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 2172.88,
+        "totalPoints": 2187.88,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S6Stage 6 - Olot › Pal. Andorra",
+            "date": "28 Aug 2025",
+            "points": 15,
+            "rank": 12
+          },
           {
             "name": "La Vuelta Ciclista a España - S5 (TTT)Stage 5 (TTT) - Figueres › Figueres",
             "date": "27 Aug 2025",

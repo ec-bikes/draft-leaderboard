@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "27 August 2025 23:21 GMT",
+  "fetchedDate": "28 August 2025 23:22 GMT",
   "momentId": 193282,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 12708.71,
+    "totalPoints": 12730.71,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "team": "TVL",
         "country": "dk",
-        "totalPoints": 3592.14,
+        "totalPoints": 3612.14,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S6Stage 6 - Olot › Pal. Andorra",
+            "date": "28 Aug 2025",
+            "points": 20,
+            "rank": 11
+          },
           {
             "name": "La Vuelta Ciclista a España - S5 (TTT)Stage 5 (TTT) - Figueres › Figueres",
             "date": "27 Aug 2025",
@@ -1048,8 +1054,14 @@
         "id": 308040,
         "team": "TBV",
         "country": "it",
-        "totalPoints": 1072.5,
+        "totalPoints": 1074.5,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S6Stage 6 - Olot › Pal. Andorra",
+            "date": "28 Aug 2025",
+            "points": 2,
+            "rank": 15
+          },
           {
             "name": "La Vuelta Ciclista a España - S5 (TTT)Stage 5 (TTT) - Figueres › Figueres",
             "date": "27 Aug 2025",

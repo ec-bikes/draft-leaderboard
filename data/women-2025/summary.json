@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "27 August 2025 23:21 GMT",
+  "fetchedDate": "28 August 2025 23:21 GMT",
   "momentId": 193300,
   "teams": [
     {
@@ -85,14 +85,14 @@
     {
       "owner": "Abby Mickey",
       "name": "The Tortured Breakaway Department",
-      "totalPoints": 9012.71,
+      "totalPoints": 9165.71,
       "riders": [
         {
           "name": "Elisa Longo Borghini",
           "id": 76149,
           "team": "UAD",
           "country": "it",
-          "totalPoints": 2447
+          "totalPoints": 2572
         },
         {
           "name": "Marianne Vos",
@@ -127,7 +127,7 @@
           "id": 237690,
           "team": "LTK",
           "country": "gb",
-          "totalPoints": 599.14
+          "totalPoints": 602.14
         },
         {
           "name": "Chiara Consonni",
@@ -141,7 +141,7 @@
           "id": 228375,
           "team": "LTK",
           "country": "nl",
-          "totalPoints": 240.14
+          "totalPoints": 265.14
         },
         {
           "name": "Ingvild Gåskjenn",
@@ -314,12 +314,12 @@
           "totalPoints": 486
         }
       ],
-      "movement": 1
+      "movement": 0
     },
     {
       "owner": "Georgie Howe",
       "name": "Specialized-Win-Collective Racing",
-      "totalPoints": 7634.85,
+      "totalPoints": 7642.85,
       "riders": [
         {
           "name": "Kasia Niewiadoma",
@@ -354,14 +354,14 @@
           "id": 106168,
           "team": "UAD",
           "country": "au",
-          "totalPoints": 197
+          "totalPoints": 200
         },
         {
           "name": "Lily Williams",
           "id": 459694,
           "team": "HPH",
           "country": "us",
-          "totalPoints": 694.14
+          "totalPoints": 699.14
         },
         {
           "name": "Juliette Labous",
@@ -470,7 +470,7 @@
           "totalPoints": 1721.86
         }
       ],
-      "movement": -1
+      "movement": 0
     }
   ]
 }
