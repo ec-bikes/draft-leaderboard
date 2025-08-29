@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "28 August 2025 23:22 GMT",
+  "fetchedDate": "29 August 2025 23:21 GMT",
   "momentId": 193282,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 11827.1,
+    "totalPoints": 11874.1,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -379,8 +379,14 @@
         "id": 88346,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 219.57,
+        "totalPoints": 221.57,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S7Stage 7 - Andorra la Vella › Cerler. Huesca La Magia",
+            "date": "29 Aug 2025",
+            "points": 2,
+            "rank": 15
+          },
           {
             "name": "La Vuelta Ciclista a España - S5 (TTT)Stage 5 (TTT) - Figueres › Figueres",
             "date": "27 Aug 2025",
@@ -1161,8 +1167,14 @@
         "id": 762315,
         "team": "TPP",
         "country": "us",
-        "totalPoints": 95,
+        "totalPoints": 140,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S7Stage 7 - Andorra la Vella › Cerler. Huesca La Magia",
+            "date": "29 Aug 2025",
+            "points": 45,
+            "rank": 6
+          },
           {
             "name": "Arctic Race of Norway - General classificationGeneral classification",
             "date": "10 Aug 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "28 August 2025 23:21 GMT",
+  "fetchedDate": "29 August 2025 23:21 GMT",
   "momentId": 193300,
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women’s Cycling Team",
-    "totalPoints": 7145.58,
+    "totalPoints": 7160.58,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -535,8 +535,14 @@
         "id": 2096868,
         "team": "AGS",
         "country": "be",
-        "totalPoints": 66,
+        "totalPoints": 81,
         "results": [
+          {
+            "name": "Tour de l'Avenir Femmes - General classificationGeneral classification",
+            "date": "29 Aug 2025",
+            "points": 15,
+            "rank": 4
+          },
           {
             "name": "Giro d'Italia Women - General classificationGeneral classification",
             "date": "13 Jul 2025",

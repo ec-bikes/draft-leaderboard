@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "28 August 2025 23:22 GMT",
+  "fetchedDate": "29 August 2025 23:21 GMT",
   "momentId": 193282,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 11560.28,
+    "totalPoints": 11610.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -952,8 +952,14 @@
         "id": 150925,
         "team": "DAT",
         "country": "at",
-        "totalPoints": 1661.43,
+        "totalPoints": 1681.43,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S7Stage 7 - Andorra la Vella › Cerler. Huesca La Magia",
+            "date": "29 Aug 2025",
+            "points": 20,
+            "rank": 11
+          },
           {
             "name": "La Vuelta Ciclista a España - S6Stage 6 - Olot › Pal. Andorra",
             "date": "28 Aug 2025",
@@ -1210,8 +1216,14 @@
         "id": 89223,
         "team": "UAD",
         "country": "es",
-        "totalPoints": 309.5,
+        "totalPoints": 339.5,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S7Stage 7 - Andorra la Vella › Cerler. Huesca La Magia",
+            "date": "29 Aug 2025",
+            "points": 30,
+            "rank": 9
+          },
           {
             "name": "La Vuelta Ciclista a España - S5 (TTT)Stage 5 (TTT) - Figueres › Figueres",
             "date": "27 Aug 2025",

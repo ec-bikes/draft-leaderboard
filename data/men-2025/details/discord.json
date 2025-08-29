@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "28 August 2025 23:22 GMT",
+  "fetchedDate": "29 August 2025 23:21 GMT",
   "momentId": 193282,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 8641.81,
+    "totalPoints": 8651.81,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -876,8 +876,14 @@
         "id": 109829,
         "team": "RBH",
         "country": "au",
-        "totalPoints": 445.71,
+        "totalPoints": 455.71,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S7Stage 7 - Andorra la Vella › Cerler. Huesca La Magia",
+            "date": "29 Aug 2025",
+            "points": 10,
+            "rank": 13
+          },
           {
             "name": "La Vuelta Ciclista a España - S5 (TTT)Stage 5 (TTT) - Figueres › Figueres",
             "date": "27 Aug 2025",

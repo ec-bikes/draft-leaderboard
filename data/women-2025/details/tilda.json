@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "28 August 2025 23:21 GMT",
+  "fetchedDate": "29 August 2025 23:21 GMT",
   "momentId": 193300,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 10245.72,
+    "totalPoints": 10271.72,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -642,8 +642,20 @@
         "id": 1742562,
         "team": "TVL",
         "country": "fr",
-        "totalPoints": 338.86,
+        "totalPoints": 364.86,
         "results": [
+          {
+            "name": "Tour de l'Avenir Femmes - General classificationGeneral classification",
+            "date": "29 Aug 2025",
+            "points": 25,
+            "rank": 2
+          },
+          {
+            "name": "Tour de l'Avenir Femmes - S5aStage 5a - La Rosière › La Rosière",
+            "date": "29 Aug 2025",
+            "points": 1,
+            "rank": 2
+          },
           {
             "name": "National Championships France WU - Road Race",
             "date": "9 Aug 2025",

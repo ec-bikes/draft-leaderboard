@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "28 August 2025 23:22 GMT",
+  "fetchedDate": "29 August 2025 23:21 GMT",
   "momentId": 193282,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 14408.86,
+    "totalPoints": 14588.86,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -365,8 +365,14 @@
         "id": 415141,
         "team": "UAD",
         "country": "es",
-        "totalPoints": 1927.5,
+        "totalPoints": 2107.5,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S7Stage 7 - Andorra la Vella › Cerler. Huesca La Magia",
+            "date": "29 Aug 2025",
+            "points": 180,
+            "rank": 1
+          },
           {
             "name": "La Vuelta Ciclista a España - S5 (TTT)Stage 5 (TTT) - Figueres › Figueres",
             "date": "27 Aug 2025",

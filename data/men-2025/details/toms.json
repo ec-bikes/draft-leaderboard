@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "28 August 2025 23:22 GMT",
+  "fetchedDate": "29 August 2025 23:21 GMT",
   "momentId": 193282,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 11719.13,
+    "totalPoints": 11737.13,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -581,8 +581,14 @@
         "id": 97091,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 2187.88,
+        "totalPoints": 2202.88,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S7Stage 7 - Andorra la Vella › Cerler. Huesca La Magia",
+            "date": "29 Aug 2025",
+            "points": 15,
+            "rank": 12
+          },
           {
             "name": "La Vuelta Ciclista a España - S6Stage 6 - Olot › Pal. Andorra",
             "date": "28 Aug 2025",
@@ -994,8 +1000,14 @@
         "id": 1714193,
         "team": "COF",
         "country": "be",
-        "totalPoints": 952,
+        "totalPoints": 955,
         "results": [
+          {
+            "name": "Tour Poitou - Charentes en Nouvelle Aquitaine - General classificationGeneral classification",
+            "date": "29 Aug 2025",
+            "points": 3,
+            "rank": 23
+          },
           {
             "name": "Ethias-Tour de Wallonie - S3Stage 3 - Estinnes › Antoing",
             "date": "28 Jul 2025",
