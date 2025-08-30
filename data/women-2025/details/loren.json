@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "29 August 2025 23:21 GMT",
+  "fetchedDate": "30 August 2025 23:20 GMT",
   "momentId": 193300,
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women’s Cycling Team",
-    "totalPoints": 7160.58,
+    "totalPoints": 7240.58,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -323,8 +323,14 @@
         "id": 2202121,
         "team": "AGS",
         "country": "be",
-        "totalPoints": 709,
+        "totalPoints": 757,
         "results": [
+          {
+            "name": "Classic Lorient Agglomération - CERATIZIT",
+            "date": "30 Aug 2025",
+            "points": 48,
+            "rank": 12
+          },
           {
             "name": "Tour de France Femmes - General classificationGeneral classification",
             "date": "3 Aug 2025",
@@ -421,8 +427,14 @@
         "id": 231378,
         "team": "LIV",
         "country": "nl",
-        "totalPoints": 800,
+        "totalPoints": 832,
         "results": [
+          {
+            "name": "Classic Lorient Agglomération - CERATIZIT",
+            "date": "30 Aug 2025",
+            "points": 32,
+            "rank": 14
+          },
           {
             "name": "Giro d'Italia Women - General classificationGeneral classification",
             "date": "13 Jul 2025",

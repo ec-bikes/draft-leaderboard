@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "29 August 2025 23:21 GMT",
+  "fetchedDate": "30 August 2025 23:20 GMT",
   "momentId": 193300,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 7642.85,
+    "totalPoints": 7758.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -184,8 +184,14 @@
         "id": 107539,
         "team": "UAD",
         "country": "it",
-        "totalPoints": 835,
+        "totalPoints": 843,
         "results": [
+          {
+            "name": "Classic Lorient Agglomération - CERATIZIT",
+            "date": "30 Aug 2025",
+            "points": 8,
+            "rank": 34
+          },
           {
             "name": "Tour de Romandie Féminin - General classificationGeneral classification",
             "date": "17 Aug 2025",
@@ -526,8 +532,14 @@
         "id": 459694,
         "team": "HPH",
         "country": "us",
-        "totalPoints": 699.14,
+        "totalPoints": 715.14,
         "results": [
+          {
+            "name": "Classic Lorient Agglomération - CERATIZIT",
+            "date": "30 Aug 2025",
+            "points": 16,
+            "rank": 23
+          },
           {
             "name": "Kreiz Breizh Elites Féminin",
             "date": "28 Aug 2025",
@@ -655,8 +667,14 @@
         "id": 97498,
         "team": "TFS",
         "country": "fr",
-        "totalPoints": 1610.57,
+        "totalPoints": 1678.57,
         "results": [
+          {
+            "name": "Classic Lorient Agglomération - CERATIZIT",
+            "date": "30 Aug 2025",
+            "points": 68,
+            "rank": 10
+          },
           {
             "name": "Tour de Romandie Féminin - General classificationGeneral classification",
             "date": "17 Aug 2025",
@@ -814,8 +832,14 @@
         "id": 66056,
         "team": "LTK",
         "country": "nl",
-        "totalPoints": 33,
+        "totalPoints": 49,
         "results": [
+          {
+            "name": "Classic Lorient Agglomération - CERATIZIT",
+            "date": "30 Aug 2025",
+            "points": 16,
+            "rank": 22
+          },
           {
             "name": "Tour de France Femmes - S3Stage 3 - La Gacilly › Angers",
             "date": "28 Jul 2025",
@@ -853,8 +877,14 @@
         "id": 488553,
         "team": "CTC",
         "country": "ca",
-        "totalPoints": 1029,
+        "totalPoints": 1037,
         "results": [
+          {
+            "name": "Classic Lorient Agglomération - CERATIZIT",
+            "date": "30 Aug 2025",
+            "points": 8,
+            "rank": 36
+          },
           {
             "name": "Tour de France Femmes - S4Stage 4 - Saumur › Poitiers",
             "date": "29 Jul 2025",

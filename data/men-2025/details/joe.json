@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "29 August 2025 23:21 GMT",
+  "fetchedDate": "30 August 2025 23:21 GMT",
   "momentId": 193282,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 13276.3,
+    "totalPoints": 13306.3,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -168,8 +168,14 @@
         "id": 86895,
         "team": "LTK",
         "country": "dk",
-        "totalPoints": 4489.45,
+        "totalPoints": 4519.45,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S8Stage 8 - Monzón Templario › Zaragoza",
+            "date": "30 Aug 2025",
+            "points": 30,
+            "rank": 9
+          },
           {
             "name": "La Vuelta Ciclista a España - S5 (TTT)Stage 5 (TTT) - Figueres › Figueres",
             "date": "27 Aug 2025",

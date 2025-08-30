@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "29 August 2025 23:21 GMT",
+  "fetchedDate": "30 August 2025 23:20 GMT",
   "momentId": 193300,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 10150.14,
+    "totalPoints": 10222.14,
     "riders": [
       {
         "name": "Liane Lippert",
         "id": 140495,
         "team": "MOV",
         "country": "de",
-        "totalPoints": 1052.14,
+        "totalPoints": 1076.14,
         "results": [
+          {
+            "name": "Classic Lorient Agglomération - CERATIZIT",
+            "date": "30 Aug 2025",
+            "points": 24,
+            "rank": 19
+          },
           {
             "name": "Tour de France Femmes - S3Stage 3 - La Gacilly › Angers",
             "date": "28 Jul 2025",
@@ -548,8 +554,14 @@
         "id": 220562,
         "team": "TFS",
         "country": "nz",
-        "totalPoints": 1555.57,
+        "totalPoints": 1571.57,
         "results": [
+          {
+            "name": "Classic Lorient Agglomération - CERATIZIT",
+            "date": "30 Aug 2025",
+            "points": 16,
+            "rank": 29
+          },
           {
             "name": "Tour de France Femmes - S3Stage 3 - La Gacilly › Angers",
             "date": "28 Jul 2025",
@@ -745,8 +757,14 @@
         "id": 2317617,
         "team": "MOV",
         "country": "gb",
-        "totalPoints": 1034.14,
+        "totalPoints": 1042.14,
         "results": [
+          {
+            "name": "Classic Lorient Agglomération - CERATIZIT",
+            "date": "30 Aug 2025",
+            "points": 8,
+            "rank": 33
+          },
           {
             "name": "GP Lucien Van Impe",
             "date": "21 Aug 2025",
@@ -999,8 +1017,14 @@
         "id": 66298,
         "team": "TVL",
         "country": "fr",
-        "totalPoints": 1721.86,
+        "totalPoints": 1745.86,
         "results": [
+          {
+            "name": "Classic Lorient Agglomération - CERATIZIT",
+            "date": "30 Aug 2025",
+            "points": 24,
+            "rank": 20
+          },
           {
             "name": "Tour de France Femmes - General classificationGeneral classification",
             "date": "3 Aug 2025",

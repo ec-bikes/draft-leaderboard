@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "29 August 2025 23:21 GMT",
+  "fetchedDate": "30 August 2025 23:20 GMT",
   "momentId": 193300,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 9165.71,
+    "totalPoints": 9645.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
         "id": 76149,
         "team": "UAD",
         "country": "it",
-        "totalPoints": 2572,
+        "totalPoints": 2588,
         "results": [
+          {
+            "name": "Classic Lorient Agglomération - CERATIZIT",
+            "date": "30 Aug 2025",
+            "points": 16,
+            "rank": 21
+          },
           {
             "name": "Kreiz Breizh Elites Féminin",
             "date": "28 Aug 2025",
@@ -188,8 +194,14 @@
         "id": 31144,
         "team": "TVL",
         "country": "nl",
-        "totalPoints": 1362.86,
+        "totalPoints": 1682.86,
         "results": [
+          {
+            "name": "Classic Lorient Agglomération - CERATIZIT",
+            "date": "30 Aug 2025",
+            "points": 320,
+            "rank": 2
+          },
           {
             "name": "Tour de France Femmes - General classificationGeneral classification",
             "date": "3 Aug 2025",
@@ -332,8 +344,14 @@
         "id": 153350,
         "team": "TPP",
         "country": "gb",
-        "totalPoints": 427.57,
+        "totalPoints": 547.57,
         "results": [
+          {
+            "name": "Classic Lorient Agglomération - CERATIZIT",
+            "date": "30 Aug 2025",
+            "points": 120,
+            "rank": 7
+          },
           {
             "name": "Tour de France Femmes - S1Stage 1 - Vannes › Plumelec",
             "date": "26 Jul 2025",
@@ -892,8 +910,14 @@
         "id": 228375,
         "team": "LTK",
         "country": "nl",
-        "totalPoints": 265.14,
+        "totalPoints": 289.14,
         "results": [
+          {
+            "name": "Classic Lorient Agglomération - CERATIZIT",
+            "date": "30 Aug 2025",
+            "points": 24,
+            "rank": 17
+          },
           {
             "name": "Kreiz Breizh Elites Féminin",
             "date": "28 Aug 2025",

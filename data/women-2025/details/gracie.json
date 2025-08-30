@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "29 August 2025 23:21 GMT",
+  "fetchedDate": "30 August 2025 23:20 GMT",
   "momentId": 193300,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 12962.57,
+    "totalPoints": 13698.57,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -250,8 +250,14 @@
         "id": 101826,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 2063,
+        "totalPoints": 2079,
         "results": [
+          {
+            "name": "Classic Lorient Agglomération - CERATIZIT",
+            "date": "30 Aug 2025",
+            "points": 16,
+            "rank": 25
+          },
           {
             "name": "Copenhagen Sprint",
             "date": "21 Jun 2025",
@@ -367,8 +373,14 @@
         "id": 109716,
         "team": "CSZ",
         "country": "us",
-        "totalPoints": 741.86,
+        "totalPoints": 881.86,
         "results": [
+          {
+            "name": "Classic Lorient Agglomération - CERATIZIT",
+            "date": "30 Aug 2025",
+            "points": 140,
+            "rank": 6
+          },
           {
             "name": "Tour de France Femmes - S4Stage 4 - Saumur › Poitiers",
             "date": "29 Jul 2025",
@@ -436,8 +448,14 @@
         "id": 227721,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 1260.71,
+        "totalPoints": 1660.71,
         "results": [
+          {
+            "name": "Classic Lorient Agglomération - CERATIZIT",
+            "date": "30 Aug 2025",
+            "points": 400,
+            "rank": 1
+          },
           {
             "name": "Tour de Romandie Féminin - S3Stage 3 - Aigle › Aigle",
             "date": "17 Aug 2025",
@@ -638,8 +656,14 @@
         "id": 1750054,
         "team": "EFO",
         "country": "fr",
-        "totalPoints": 1064.43,
+        "totalPoints": 1244.43,
         "results": [
+          {
+            "name": "Classic Lorient Agglomération - CERATIZIT",
+            "date": "30 Aug 2025",
+            "points": 180,
+            "rank": 5
+          },
           {
             "name": "Tour de France Femmes - General classificationGeneral classification",
             "date": "3 Aug 2025",

@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "29 August 2025 23:21 GMT",
+  "fetchedDate": "30 August 2025 23:21 GMT",
   "momentId": 193282,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 14588.86,
+    "totalPoints": 14768.86,
     "riders": [
       {
         "name": "Jasper Philipsen",
         "id": 148275,
         "team": "ADC",
         "country": "be",
-        "totalPoints": 1783,
+        "totalPoints": 1963,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S8Stage 8 - Monzón Templario › Zaragoza",
+            "date": "30 Aug 2025",
+            "points": 180,
+            "rank": 1
+          },
           {
             "name": "La Vuelta Ciclista a España - S4Stage 4 - Susa › Voiron",
             "date": "26 Aug 2025",
