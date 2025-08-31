@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "30 August 2025 23:21 GMT",
+  "fetchedDate": "31 August 2025 23:21 GMT",
   "momentId": 193282,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 13306.3,
+    "totalPoints": 13406.3,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -590,8 +590,14 @@
         "id": 97280,
         "team": "RBH",
         "country": "ru",
-        "totalPoints": 221.71,
+        "totalPoints": 229.71,
         "results": [
+          {
+            "name": "Bretagne Classic - Ouest-France",
+            "date": "31 Aug 2025",
+            "points": 8,
+            "rank": 34
+          },
           {
             "name": "Tour de France - General classificationGeneral classification",
             "date": "27 Jul 2025",
@@ -677,8 +683,14 @@
         "id": 462394,
         "team": "UAD",
         "country": "ch",
-        "totalPoints": 1164,
+        "totalPoints": 1172,
         "results": [
+          {
+            "name": "Bretagne Classic - Ouest-France",
+            "date": "31 Aug 2025",
+            "points": 8,
+            "rank": 35
+          },
           {
             "name": "Lidl Deutschland Tour - General classificationGeneral classification",
             "date": "24 Aug 2025",
@@ -935,8 +947,14 @@
         "id": 482927,
         "team": "TPP",
         "country": "dk",
-        "totalPoints": 1001,
+        "totalPoints": 1081,
         "results": [
+          {
+            "name": "Bretagne Classic - Ouest-France",
+            "date": "31 Aug 2025",
+            "points": 80,
+            "rank": 9
+          },
           {
             "name": "ADAC Cyclassics",
             "date": "17 Aug 2025",
@@ -1112,8 +1130,14 @@
         "id": 54679,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 730,
+        "totalPoints": 734,
         "results": [
+          {
+            "name": "Bretagne Classic - Ouest-France",
+            "date": "31 Aug 2025",
+            "points": 4,
+            "rank": 54
+          },
           {
             "name": "Tour de Pologne - General classificationGeneral classification",
             "date": "10 Aug 2025",

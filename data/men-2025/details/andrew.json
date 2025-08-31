@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "30 August 2025 23:21 GMT",
+  "fetchedDate": "31 August 2025 23:21 GMT",
   "momentId": 193282,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 11610.28,
+    "totalPoints": 12090.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -118,8 +118,14 @@
         "id": 107840,
         "team": "UAD",
         "country": "pt",
-        "totalPoints": 2741.07,
+        "totalPoints": 2836.07,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S9Stage 9 - Alfaro › Estación de Esquí de Valdezcaray",
+            "date": "31 Aug 2025",
+            "points": 95,
+            "rank": 3
+          },
           {
             "name": "La Vuelta Ciclista a España - S6Stage 6 - Olot › Pal. Andorra",
             "date": "28 Aug 2025",
@@ -334,8 +340,14 @@
         "id": 227110,
         "team": "TVL",
         "country": "nl",
-        "totalPoints": 1650,
+        "totalPoints": 1910,
         "results": [
+          {
+            "name": "Bretagne Classic - Ouest-France",
+            "date": "31 Aug 2025",
+            "points": 260,
+            "rank": 3
+          },
           {
             "name": "Renewi Tour - General classificationGeneral classification",
             "date": "24 Aug 2025",
@@ -952,8 +964,14 @@
         "id": 150925,
         "team": "DAT",
         "country": "at",
-        "totalPoints": 1681.43,
+        "totalPoints": 1761.43,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S9Stage 9 - Alfaro › Estación de Esquí de Valdezcaray",
+            "date": "31 Aug 2025",
+            "points": 80,
+            "rank": 4
+          },
           {
             "name": "La Vuelta Ciclista a España - S7Stage 7 - Andorra la Vella › Cerler. Huesca La Magia",
             "date": "29 Aug 2025",
@@ -1216,8 +1234,14 @@
         "id": 89223,
         "team": "UAD",
         "country": "es",
-        "totalPoints": 339.5,
+        "totalPoints": 384.5,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S9Stage 9 - Alfaro › Estación de Esquí de Valdezcaray",
+            "date": "31 Aug 2025",
+            "points": 45,
+            "rank": 6
+          },
           {
             "name": "La Vuelta Ciclista a España - S7Stage 7 - Andorra la Vella › Cerler. Huesca La Magia",
             "date": "29 Aug 2025",

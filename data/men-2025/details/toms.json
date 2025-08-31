@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "30 August 2025 23:21 GMT",
+  "fetchedDate": "31 August 2025 23:21 GMT",
   "momentId": 193282,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 11737.13,
+    "totalPoints": 11798.13,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -353,8 +353,14 @@
         "id": 97805,
         "team": "JAY",
         "country": "au",
-        "totalPoints": 884.81,
+        "totalPoints": 889.81,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S9Stage 9 - Alfaro › Estación de Esquí de Valdezcaray",
+            "date": "31 Aug 2025",
+            "points": 5,
+            "rank": 14
+          },
           {
             "name": "La Vuelta Ciclista a España - S2Stage 2 - Alba › Limone Piemonte",
             "date": "24 Aug 2025",
@@ -458,8 +464,14 @@
         "id": 76092,
         "team": "TBV",
         "country": "es",
-        "totalPoints": 906,
+        "totalPoints": 922,
         "results": [
+          {
+            "name": "Bretagne Classic - Ouest-France",
+            "date": "31 Aug 2025",
+            "points": 16,
+            "rank": 30
+          },
           {
             "name": "Tour de Pologne - General classificationGeneral classification",
             "date": "10 Aug 2025",
@@ -581,8 +593,14 @@
         "id": 97091,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 2202.88,
+        "totalPoints": 2242.88,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S9Stage 9 - Alfaro › Estación de Esquí de Valdezcaray",
+            "date": "31 Aug 2025",
+            "points": 40,
+            "rank": 7
+          },
           {
             "name": "La Vuelta Ciclista a España - S7Stage 7 - Andorra la Vella › Cerler. Huesca La Magia",
             "date": "29 Aug 2025",

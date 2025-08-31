@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "30 August 2025 23:21 GMT",
+  "fetchedDate": "31 August 2025 23:21 GMT",
   "momentId": 193282,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 11874.1,
+    "totalPoints": 11991.1,
     "riders": [
       {
         "name": "Matteo Jorgenson",
         "id": 159567,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 1692.14,
+        "totalPoints": 1707.14,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S9Stage 9 - Alfaro › Estación de Esquí de Valdezcaray",
+            "date": "31 Aug 2025",
+            "points": 15,
+            "rank": 12
+          },
           {
             "name": "La Vuelta Ciclista a España - S5 (TTT)Stage 5 (TTT) - Figueres › Figueres",
             "date": "27 Aug 2025",
@@ -442,8 +448,14 @@
         "id": 62919,
         "team": "JAY",
         "country": "au",
-        "totalPoints": 1215.67,
+        "totalPoints": 1315.67,
         "results": [
+          {
+            "name": "Bretagne Classic - Ouest-France",
+            "date": "31 Aug 2025",
+            "points": 100,
+            "rank": 8
+          },
           {
             "name": "Eschborn-Frankfurt",
             "date": "1 May 2025",
@@ -517,8 +529,14 @@
         "id": 2002910,
         "team": "UAD",
         "country": "mx",
-        "totalPoints": 3447,
+        "totalPoints": 3449,
         "results": [
+          {
+            "name": "Bretagne Classic - Ouest-France",
+            "date": "31 Aug 2025",
+            "points": 2,
+            "rank": 58
+          },
           {
             "name": "ADAC Cyclassics",
             "date": "17 Aug 2025",

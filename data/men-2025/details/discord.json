@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "30 August 2025 23:21 GMT",
+  "fetchedDate": "31 August 2025 23:21 GMT",
   "momentId": 193282,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 8651.81,
+    "totalPoints": 8925.81,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -153,8 +153,14 @@
         "id": 86863,
         "team": "TBV",
         "country": "si",
-        "totalPoints": 243,
+        "totalPoints": 259,
         "results": [
+          {
+            "name": "Bretagne Classic - Ouest-France",
+            "date": "31 Aug 2025",
+            "points": 16,
+            "rank": 29
+          },
           {
             "name": "Renewi Tour - General classificationGeneral classification",
             "date": "24 Aug 2025",
@@ -632,8 +638,14 @@
         "id": 1759987,
         "team": "SOQ",
         "country": "fr",
-        "totalPoints": 1551,
+        "totalPoints": 1771,
         "results": [
+          {
+            "name": "Bretagne Classic - Ouest-France",
+            "date": "31 Aug 2025",
+            "points": 220,
+            "rank": 4
+          },
           {
             "name": "Renewi Tour - General classificationGeneral classification",
             "date": "24 Aug 2025",
@@ -771,8 +783,14 @@
         "id": 109483,
         "team": "JAY",
         "country": "ch",
-        "totalPoints": 960.67,
+        "totalPoints": 968.67,
         "results": [
+          {
+            "name": "Bretagne Classic - Ouest-France",
+            "date": "31 Aug 2025",
+            "points": 8,
+            "rank": 47
+          },
           {
             "name": "Donostia San Sebastian Klasikoa",
             "date": "2 Aug 2025",
@@ -876,8 +894,14 @@
         "id": 109829,
         "team": "RBH",
         "country": "au",
-        "totalPoints": 455.71,
+        "totalPoints": 485.71,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S9Stage 9 - Alfaro › Estación de Esquí de Valdezcaray",
+            "date": "31 Aug 2025",
+            "points": 30,
+            "rank": 9
+          },
           {
             "name": "La Vuelta Ciclista a España - S7Stage 7 - Andorra la Vella › Cerler. Huesca La Magia",
             "date": "29 Aug 2025",

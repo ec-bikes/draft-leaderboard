@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "30 August 2025 23:21 GMT",
+  "fetchedDate": "31 August 2025 23:21 GMT",
   "momentId": 193282,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 14768.86,
+    "totalPoints": 14802.86,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -636,8 +636,14 @@
         "id": 96372,
         "team": "UAD",
         "country": "ec",
-        "totalPoints": 1146.14,
+        "totalPoints": 1154.14,
         "results": [
+          {
+            "name": "Bretagne Classic - Ouest-France",
+            "date": "31 Aug 2025",
+            "points": 8,
+            "rank": 39
+          },
           {
             "name": "Lidl Deutschland Tour - General classificationGeneral classification",
             "date": "24 Aug 2025",
@@ -746,8 +752,14 @@
         "id": 95844,
         "team": "IGD",
         "country": "co",
-        "totalPoints": 1105.5,
+        "totalPoints": 1107.5,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S9Stage 9 - Alfaro › Estación de Esquí de Valdezcaray",
+            "date": "31 Aug 2025",
+            "points": 2,
+            "rank": 15
+          },
           {
             "name": "La Vuelta Ciclista a España - S6Stage 6 - Olot › Pal. Andorra",
             "date": "28 Aug 2025",
@@ -1028,8 +1040,14 @@
         "id": 1759422,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 1363,
+        "totalPoints": 1387,
         "results": [
+          {
+            "name": "Bretagne Classic - Ouest-France",
+            "date": "31 Aug 2025",
+            "points": 24,
+            "rank": 19
+          },
           {
             "name": "Donostia San Sebastian Klasikoa",
             "date": "2 Aug 2025",
