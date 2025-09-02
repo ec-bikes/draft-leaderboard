@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 September 2025 23:21 GMT",
-  "momentId": 193300,
+  "fetchedDate": "2 September 2025 23:19 GMT",
+  "momentId": 193495,
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women’s Cycling Team",
-    "totalPoints": 7240.58,
+    "totalPoints": 7270.58,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -721,8 +721,14 @@
         "id": 153287,
         "team": "LTK",
         "country": "fr",
-        "totalPoints": 756,
+        "totalPoints": 786,
         "results": [
+          {
+            "name": "Simac Ladies Tour - S1 Stage 1  - Leuven › Leuven",
+            "date": "2 Sep 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Tour de Pologne Women - S1Stage 1 - Zamosc › Zamosc",
             "date": "12 Aug 2025",

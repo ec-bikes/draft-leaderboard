@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 September 2025 23:22 GMT",
-  "momentId": 193282,
+  "fetchedDate": "2 September 2025 23:20 GMT",
+  "momentId": 193477,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 11991.1,
+    "totalPoints": 12026.1,
     "riders": [
       {
         "name": "Matteo Jorgenson",
         "id": 159567,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 1707.14,
+        "totalPoints": 1742.14,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S10Stage 10 - Parque de la Naturaleza Sendaviva › El Ferial Larra Belagua",
+            "date": "2 Sep 2025",
+            "points": 35,
+            "rank": 8
+          },
           {
             "name": "La Vuelta Ciclista a España - S9Stage 9 - Alfaro › Estación de Esquí de Valdezcaray",
             "date": "31 Aug 2025",

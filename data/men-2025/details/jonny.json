@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 September 2025 23:22 GMT",
-  "momentId": 193282,
+  "fetchedDate": "2 September 2025 23:20 GMT",
+  "momentId": 193477,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 12910.71,
+    "totalPoints": 12930.71,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "team": "TVL",
         "country": "dk",
-        "totalPoints": 3792.14,
+        "totalPoints": 3812.14,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S10Stage 10 - Parque de la Naturaleza Sendaviva › El Ferial Larra Belagua",
+            "date": "2 Sep 2025",
+            "points": 20,
+            "rank": 11
+          },
           {
             "name": "La Vuelta Ciclista a España - S9Stage 9 - Alfaro › Estación de Esquí de Valdezcaray",
             "date": "31 Aug 2025",

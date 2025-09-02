@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 September 2025 23:21 GMT",
-  "momentId": 193300,
+  "fetchedDate": "2 September 2025 23:19 GMT",
+  "momentId": 193495,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 13698.57,
+    "totalPoints": 13738.57,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -250,8 +250,14 @@
         "id": 101826,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 2079,
+        "totalPoints": 2119,
         "results": [
+          {
+            "name": "Simac Ladies Tour - S1 Stage 1  - Leuven › Leuven",
+            "date": "2 Sep 2025",
+            "points": 40,
+            "rank": 2
+          },
           {
             "name": "Classic Lorient Agglomération - CERATIZIT",
             "date": "30 Aug 2025",

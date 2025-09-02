@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 September 2025 23:22 GMT",
-  "momentId": 193282,
+  "fetchedDate": "2 September 2025 23:20 GMT",
+  "momentId": 193477,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 8925.81,
+    "totalPoints": 9052.81,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -331,8 +331,14 @@
         "id": 2178033,
         "team": "MOV",
         "country": "es",
-        "totalPoints": 859.43,
+        "totalPoints": 954.43,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S10Stage 10 - Parque de la Naturaleza Sendaviva › El Ferial Larra Belagua",
+            "date": "2 Sep 2025",
+            "points": 95,
+            "rank": 3
+          },
           {
             "name": "La Vuelta Ciclista a España - S5 (TTT)Stage 5 (TTT) - Figueres › Figueres",
             "date": "27 Aug 2025",
@@ -638,7 +644,7 @@
         "id": 1759987,
         "team": "SOQ",
         "country": "fr",
-        "totalPoints": 1771,
+        "totalPoints": 1763,
         "results": [
           {
             "name": "Bretagne Classic - Ouest-France",
@@ -649,8 +655,8 @@
           {
             "name": "Renewi Tour - General classificationGeneral classification",
             "date": "24 Aug 2025",
-            "points": 32,
-            "rank": 14
+            "points": 24,
+            "rank": 19
           },
           {
             "name": "ADAC Cyclassics",
@@ -894,8 +900,14 @@
         "id": 109829,
         "team": "RBH",
         "country": "au",
-        "totalPoints": 485.71,
+        "totalPoints": 525.71,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S10Stage 10 - Parque de la Naturaleza Sendaviva › El Ferial Larra Belagua",
+            "date": "2 Sep 2025",
+            "points": 40,
+            "rank": 7
+          },
           {
             "name": "La Vuelta Ciclista a España - S9Stage 9 - Alfaro › Estación de Esquí de Valdezcaray",
             "date": "31 Aug 2025",
@@ -987,7 +999,7 @@
             "name": "Renewi Tour - General classificationGeneral classification",
             "date": "24 Aug 2025",
             "points": 24,
-            "rank": 17
+            "rank": 18
           },
           {
             "name": "Vuelta a Burgos - S2Stage 2 - Cilleruelo de Abajo › Buniel - Bonus",
