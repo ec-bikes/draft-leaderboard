@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 September 2025 23:19 GMT",
+  "fetchedDate": "3 September 2025 23:20 GMT",
   "momentId": 193495,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 7768.85,
+    "totalPoints": 7778.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -1030,8 +1030,14 @@
         "id": 86854,
         "team": "LTK",
         "country": "nl",
-        "totalPoints": 435.14,
+        "totalPoints": 445.14,
         "results": [
+          {
+            "name": "Simac Ladies Tour - S2Stage 2 - Gennep › Gennep",
+            "date": "3 Sep 2025",
+            "points": 10,
+            "rank": 8
+          },
           {
             "name": "Tour de France Femmes - General classificationGeneral classification",
             "date": "3 Aug 2025",

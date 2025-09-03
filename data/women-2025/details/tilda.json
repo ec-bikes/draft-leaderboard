@@ -1,20 +1,31 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 September 2025 23:19 GMT",
+  "fetchedDate": "3 September 2025 23:20 GMT",
   "momentId": 193495,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 10329.72,
+    "totalPoints": 10387.72,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 3361,
+        "totalPoints": 3419,
         "results": [
+          {
+            "name": "Simac Ladies Tour - S2Stage 2 - Gennep › Gennep",
+            "date": "3 Sep 2025",
+            "points": 50,
+            "rank": 1
+          },
+          {
+            "name": "Simac Ladies Tour - S2Stage 2 - Gennep › Gennep - Bonus",
+            "date": "3 Sep 2025",
+            "points": 8
+          },
           {
             "name": "Simac Ladies Tour - S1 Stage 1  - Leuven › Leuven",
             "date": "2 Sep 2025",
