@@ -1,20 +1,36 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 September 2025 23:20 GMT",
+  "fetchedDate": "5 September 2025 23:21 GMT",
   "momentId": 193477,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 12970.71,
+    "totalPoints": 13175.71,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "team": "TVL",
         "country": "dk",
-        "totalPoints": 3852.14,
+        "totalPoints": 4022.14,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S13Stage 13 - Cabezón de la Sal › L'Angliru",
+            "date": "5 Sep 2025",
+            "points": 130,
+            "rank": 2
+          },
+          {
+            "name": "La Vuelta Ciclista a España - S13Stage 13 - Cabezón de la Sal › L'Angliru - Bonus",
+            "date": "5 Sep 2025",
+            "points": 20
+          },
+          {
+            "name": "La Vuelta Ciclista a España - S12Stage 12 - Laredo › Los Corrales de Buelna - Bonus",
+            "date": "4 Sep 2025",
+            "points": 20
+          },
           {
             "name": "La Vuelta Ciclista a España - S11Stage 11 - Bilbao › Bilbao - Bonus",
             "date": "3 Sep 2025",
@@ -643,8 +659,14 @@
         "id": 353375,
         "team": "TBV",
         "country": "co",
-        "totalPoints": 882.5,
+        "totalPoints": 917.5,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S12Stage 12 - Laredo › Los Corrales de Buelna",
+            "date": "4 Sep 2025",
+            "points": 35,
+            "rank": 8
+          },
           {
             "name": "La Vuelta Ciclista a España - S5 (TTT)Stage 5 (TTT) - Figueres › Figueres",
             "date": "27 Aug 2025",

@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 September 2025 23:20 GMT",
+  "fetchedDate": "5 September 2025 23:20 GMT",
   "momentId": 193495,
   "teams": [
     {
@@ -85,7 +85,7 @@
     {
       "owner": "Abby Mickey",
       "name": "The Tortured Breakaway Department",
-      "totalPoints": 9670.71,
+      "totalPoints": 9710.71,
       "riders": [
         {
           "name": "Elisa Longo Borghini",
@@ -134,7 +134,7 @@
           "id": 156600,
           "team": "CSZ",
           "country": "it",
-          "totalPoints": 1354
+          "totalPoints": 1394
         },
         {
           "name": "Shirin van Anrooij",
@@ -163,7 +163,7 @@
     {
       "owner": "Gracie Elvin",
       "name": "Lamborghini p/b Tony's Chocolonely",
-      "totalPoints": 13756.57,
+      "totalPoints": 13787.57,
       "riders": [
         {
           "name": "Demi Vollering",
@@ -177,7 +177,7 @@
           "id": 101826,
           "team": "LTK",
           "country": "it",
-          "totalPoints": 2137
+          "totalPoints": 2168
         },
         {
           "name": "Chloe Dygert",
@@ -241,14 +241,14 @@
     {
       "owner": "Tilda Price",
       "name": "Santa Cruz-Shimano",
-      "totalPoints": 10387.72,
+      "totalPoints": 10503.72,
       "riders": [
         {
           "name": "Lorena Wiebes",
           "id": 141733,
           "team": "SDW",
           "country": "nl",
-          "totalPoints": 3419
+          "totalPoints": 3535
         },
         {
           "name": "Evita Muzic",
@@ -319,7 +319,7 @@
     {
       "owner": "Georgie Howe",
       "name": "Specialized-Win-Collective Racing",
-      "totalPoints": 7778.85,
+      "totalPoints": 7796.85,
       "riders": [
         {
           "name": "Kasia Niewiadoma",
@@ -361,7 +361,7 @@
           "id": 459694,
           "team": "HPH",
           "country": "us",
-          "totalPoints": 725.14
+          "totalPoints": 743.14
         },
         {
           "name": "Juliette Labous",
@@ -397,7 +397,7 @@
     {
       "owner": "Tils Raynolds",
       "name": "The Suffragettes Collective",
-      "totalPoints": 10228.14,
+      "totalPoints": 10258.14,
       "riders": [
         {
           "name": "Liane Lippert",
@@ -439,7 +439,7 @@
           "id": 2317617,
           "team": "MOV",
           "country": "gb",
-          "totalPoints": 1048.14
+          "totalPoints": 1078.14
         },
         {
           "name": "Gaia Realini",

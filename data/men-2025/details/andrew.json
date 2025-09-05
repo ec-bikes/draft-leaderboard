@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 September 2025 23:20 GMT",
+  "fetchedDate": "5 September 2025 23:21 GMT",
   "momentId": 193477,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 12295.28,
+    "totalPoints": 12565.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -118,8 +118,14 @@
         "id": 107840,
         "team": "UAD",
         "country": "pt",
-        "totalPoints": 2861.07,
+        "totalPoints": 3041.07,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S13Stage 13 - Cabezón de la Sal › L'Angliru",
+            "date": "5 Sep 2025",
+            "points": 180,
+            "rank": 1
+          },
           {
             "name": "La Vuelta Ciclista a España - S10Stage 10 - Parque de la Naturaleza Sendaviva › El Ferial Larra Belagua",
             "date": "2 Sep 2025",
@@ -346,8 +352,13 @@
         "id": 227110,
         "team": "TVL",
         "country": "nl",
-        "totalPoints": 1960,
+        "totalPoints": 1965,
         "results": [
+          {
+            "name": "Lloyds Bank Tour of Britain Men - S3Stage 3 - Milton Keynes › Ampthill - Bonus",
+            "date": "4 Sep 2025",
+            "points": 5
+          },
           {
             "name": "Lloyds Bank Tour of Britain Men - S2Stage 2 - Stowmarket › Stowmarket",
             "date": "3 Sep 2025",
@@ -992,8 +1003,14 @@
         "id": 150925,
         "team": "DAT",
         "country": "at",
-        "totalPoints": 1761.43,
+        "totalPoints": 1821.43,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S13Stage 13 - Cabezón de la Sal › L'Angliru",
+            "date": "5 Sep 2025",
+            "points": 60,
+            "rank": 5
+          },
           {
             "name": "La Vuelta Ciclista a España - S9Stage 9 - Alfaro › Estación de Esquí de Valdezcaray",
             "date": "31 Aug 2025",
@@ -1169,8 +1186,14 @@
         "id": 373832,
         "team": "MOV",
         "country": "es",
-        "totalPoints": 559.14,
+        "totalPoints": 584.14,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S12Stage 12 - Laredo › Los Corrales de Buelna",
+            "date": "4 Sep 2025",
+            "points": 25,
+            "rank": 10
+          },
           {
             "name": "La Vuelta Ciclista a España - S10Stage 10 - Parque de la Naturaleza Sendaviva › El Ferial Larra Belagua",
             "date": "2 Sep 2025",

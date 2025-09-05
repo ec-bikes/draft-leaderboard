@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 September 2025 23:20 GMT",
+  "fetchedDate": "5 September 2025 23:21 GMT",
   "momentId": 193477,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 11851.13,
+    "totalPoints": 11881.13,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -593,8 +593,14 @@
         "id": 97091,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 2287.88,
+        "totalPoints": 2317.88,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S13Stage 13 - Cabezón de la Sal › L'Angliru",
+            "date": "5 Sep 2025",
+            "points": 30,
+            "rank": 9
+          },
           {
             "name": "La Vuelta Ciclista a España - S10Stage 10 - Parque de la Naturaleza Sendaviva › El Ferial Larra Belagua",
             "date": "2 Sep 2025",

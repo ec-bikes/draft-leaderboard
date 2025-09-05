@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 September 2025 23:20 GMT",
+  "fetchedDate": "5 September 2025 23:21 GMT",
   "momentId": 193477,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 12026.1,
+    "totalPoints": 12106.1,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -391,8 +391,14 @@
         "id": 88346,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 221.57,
+        "totalPoints": 301.57,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S13Stage 13 - Cabezón de la Sal › L'Angliru",
+            "date": "5 Sep 2025",
+            "points": 80,
+            "rank": 4
+          },
           {
             "name": "La Vuelta Ciclista a España - S7Stage 7 - Andorra la Vella › Cerler. Huesca La Magia",
             "date": "29 Aug 2025",

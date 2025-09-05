@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 September 2025 23:20 GMT",
+  "fetchedDate": "5 September 2025 23:21 GMT",
   "momentId": 193477,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 14802.86,
+    "totalPoints": 15007.86,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -371,8 +371,14 @@
         "id": 415141,
         "team": "UAD",
         "country": "es",
-        "totalPoints": 2107.5,
+        "totalPoints": 2287.5,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S12Stage 12 - Laredo › Los Corrales de Buelna",
+            "date": "4 Sep 2025",
+            "points": 180,
+            "rank": 1
+          },
           {
             "name": "La Vuelta Ciclista a España - S7Stage 7 - Andorra la Vella › Cerler. Huesca La Magia",
             "date": "29 Aug 2025",
@@ -1040,8 +1046,19 @@
         "id": 1759422,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 1387,
+        "totalPoints": 1412,
         "results": [
+          {
+            "name": "Lloyds Bank Tour of Britain Men - S4Stage 4 - Atherstone › Burton Dassett",
+            "date": "5 Sep 2025",
+            "points": 20,
+            "rank": 1
+          },
+          {
+            "name": "Lloyds Bank Tour of Britain Men - S4Stage 4 - Atherstone › Burton Dassett - Bonus",
+            "date": "5 Sep 2025",
+            "points": 5
+          },
           {
             "name": "Bretagne Classic - Ouest-France",
             "date": "31 Aug 2025",

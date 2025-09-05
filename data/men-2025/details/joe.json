@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 September 2025 23:20 GMT",
+  "fetchedDate": "5 September 2025 23:21 GMT",
   "momentId": 193477,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 13406.3,
+    "totalPoints": 13466.3,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -168,8 +168,14 @@
         "id": 86895,
         "team": "LTK",
         "country": "dk",
-        "totalPoints": 4519.45,
+        "totalPoints": 4579.45,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S12Stage 12 - Laredo › Los Corrales de Buelna",
+            "date": "4 Sep 2025",
+            "points": 60,
+            "rank": 5
+          },
           {
             "name": "La Vuelta Ciclista a España - S8Stage 8 - Monzón Templario › Zaragoza",
             "date": "30 Aug 2025",

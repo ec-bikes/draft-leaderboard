@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 September 2025 23:20 GMT",
+  "fetchedDate": "5 September 2025 23:20 GMT",
   "momentId": 193495,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 10228.14,
+    "totalPoints": 10258.14,
     "riders": [
       {
         "name": "Liane Lippert",
@@ -757,8 +757,20 @@
         "id": 2317617,
         "team": "MOV",
         "country": "gb",
-        "totalPoints": 1048.14,
+        "totalPoints": 1078.14,
         "results": [
+          {
+            "name": "Simac Ladies Tour - S4Stage 4 - Alkmaar › Alkmaar",
+            "date": "5 Sep 2025",
+            "points": 15,
+            "rank": 7
+          },
+          {
+            "name": "Simac Ladies Tour - S3Stage 3 - Zeewolde › Zeewolde",
+            "date": "4 Sep 2025",
+            "points": 15,
+            "rank": 7
+          },
           {
             "name": "Simac Ladies Tour - S1 Stage 1  - Leuven › Leuven",
             "date": "2 Sep 2025",

@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 September 2025 23:20 GMT",
+  "fetchedDate": "5 September 2025 23:21 GMT",
   "momentId": 193477,
   "teams": [
     {
@@ -85,14 +85,14 @@
     {
       "owner": "Jonny Long",
       "name": "Ineos Grenadiers-Greenpeace-Poundland",
-      "totalPoints": 12970.71,
+      "totalPoints": 13175.71,
       "riders": [
         {
           "name": "Jonas Vingegaard",
           "id": 112082,
           "team": "TVL",
           "country": "dk",
-          "totalPoints": 3852.14
+          "totalPoints": 4022.14
         },
         {
           "name": "Mattias Skjelmose",
@@ -120,7 +120,7 @@
           "id": 353375,
           "team": "TBV",
           "country": "co",
-          "totalPoints": 882.5
+          "totalPoints": 917.5
         },
         {
           "name": "Christophe Laporte",
@@ -163,7 +163,7 @@
     {
       "owner": "Toms Skujiņš",
       "name": "Lidl-Trek-Bauer",
-      "totalPoints": 11851.13,
+      "totalPoints": 11881.13,
       "riders": [
         {
           "name": "Remco Evenepoel",
@@ -198,7 +198,7 @@
           "id": 97091,
           "team": "LTK",
           "country": "it",
-          "totalPoints": 2287.88
+          "totalPoints": 2317.88
         },
         {
           "name": "Lenny Martinez",
@@ -241,7 +241,7 @@
     {
       "owner": "Dane Cash",
       "name": "Visma-Lease a Bike-Monster Energy",
-      "totalPoints": 14802.86,
+      "totalPoints": 15007.86,
       "riders": [
         {
           "name": "Jasper Philipsen",
@@ -269,7 +269,7 @@
           "id": 415141,
           "team": "UAD",
           "country": "es",
-          "totalPoints": 2107.5
+          "totalPoints": 2287.5
         },
         {
           "name": "Simon Yates",
@@ -304,7 +304,7 @@
           "id": 1759422,
           "team": "GFC",
           "country": "fr",
-          "totalPoints": 1387
+          "totalPoints": 1412
         },
         {
           "name": "Stefan Küng",
@@ -397,7 +397,7 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 13406.3,
+      "totalPoints": 13466.3,
       "riders": [
         {
           "name": "Mathieu van der Poel",
@@ -411,7 +411,7 @@
           "id": 86895,
           "team": "LTK",
           "country": "dk",
-          "totalPoints": 4519.45
+          "totalPoints": 4579.45
         },
         {
           "name": "Brandon McNulty",
@@ -475,7 +475,7 @@
     {
       "owner": "Caley Fretz",
       "name": "US Postal Service Bald Eagles",
-      "totalPoints": 12026.1,
+      "totalPoints": 12106.1,
       "riders": [
         {
           "name": "Matteo Jorgenson",
@@ -496,7 +496,7 @@
           "id": 88346,
           "team": "TVL",
           "country": "us",
-          "totalPoints": 221.57
+          "totalPoints": 301.57
         },
         {
           "name": "Michael Matthews",
@@ -553,7 +553,7 @@
     {
       "owner": "Andrew (member)",
       "name": "Groupama-FDJ-Tourtel Twist",
-      "totalPoints": 12295.28,
+      "totalPoints": 12565.28,
       "riders": [
         {
           "name": "Adam Yates",
@@ -567,14 +567,14 @@
           "id": 107840,
           "team": "UAD",
           "country": "pt",
-          "totalPoints": 2861.07
+          "totalPoints": 3041.07
         },
         {
           "name": "Olav Kooij",
           "id": 227110,
           "team": "TVL",
           "country": "nl",
-          "totalPoints": 1960
+          "totalPoints": 1965
         },
         {
           "name": "Kévin Vauquelin",
@@ -609,14 +609,14 @@
           "id": 150925,
           "team": "DAT",
           "country": "at",
-          "totalPoints": 1761.43
+          "totalPoints": 1821.43
         },
         {
           "name": "Pablo Castrillo",
           "id": 373832,
           "team": "MOV",
           "country": "es",
-          "totalPoints": 559.14
+          "totalPoints": 584.14
         },
         {
           "name": "Marc Soler",
@@ -631,7 +631,7 @@
     {
       "owner": "Discord Undrafted",
       "name": "Team Movistar easyJet",
-      "totalPoints": 9052.81,
+      "totalPoints": 9277.81,
       "riders": [
         {
           "name": "Dylan Groenewegen",
@@ -659,7 +659,7 @@
           "id": 2178033,
           "team": "MOV",
           "country": "es",
-          "totalPoints": 954.43
+          "totalPoints": 1084.43
         },
         {
           "name": "António Morgado",
@@ -694,7 +694,7 @@
           "id": 109829,
           "team": "RBH",
           "country": "au",
-          "totalPoints": 525.71
+          "totalPoints": 620.71
         },
         {
           "name": "Roger Adrià",
