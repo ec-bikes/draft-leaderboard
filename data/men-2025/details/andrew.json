@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 September 2025 23:21 GMT",
+  "fetchedDate": "6 September 2025 23:20 GMT",
   "momentId": 193477,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 12565.28,
+    "totalPoints": 12900.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -118,8 +118,14 @@
         "id": 107840,
         "team": "UAD",
         "country": "pt",
-        "totalPoints": 3041.07,
+        "totalPoints": 3136.07,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S14Stage 14 - Avilés › La Farrapona. Lagos de Somiedo",
+            "date": "6 Sep 2025",
+            "points": 95,
+            "rank": 3
+          },
           {
             "name": "La Vuelta Ciclista a España - S13Stage 13 - Cabezón de la Sal › L'Angliru",
             "date": "5 Sep 2025",
@@ -1003,8 +1009,14 @@
         "id": 150925,
         "team": "DAT",
         "country": "at",
-        "totalPoints": 1821.43,
+        "totalPoints": 1881.43,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S14Stage 14 - Avilés › La Farrapona. Lagos de Somiedo",
+            "date": "6 Sep 2025",
+            "points": 60,
+            "rank": 5
+          },
           {
             "name": "La Vuelta Ciclista a España - S13Stage 13 - Cabezón de la Sal › L'Angliru",
             "date": "5 Sep 2025",
@@ -1291,8 +1303,14 @@
         "id": 89223,
         "team": "UAD",
         "country": "es",
-        "totalPoints": 384.5,
+        "totalPoints": 564.5,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S14Stage 14 - Avilés › La Farrapona. Lagos de Somiedo",
+            "date": "6 Sep 2025",
+            "points": 180,
+            "rank": 1
+          },
           {
             "name": "La Vuelta Ciclista a España - S9Stage 9 - Alfaro › Estación de Esquí de Valdezcaray",
             "date": "31 Aug 2025",

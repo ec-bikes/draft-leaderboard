@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 September 2025 23:21 GMT",
+  "fetchedDate": "6 September 2025 23:20 GMT",
   "momentId": 193477,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 11881.13,
+    "totalPoints": 11901.13,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 1903,
+        "totalPoints": 1923,
         "results": [
+          {
+            "name": "Lloyds Bank Tour of Britain Men - S5Stage 5 - Pontypool › The Tumble",
+            "date": "6 Sep 2025",
+            "points": 20,
+            "rank": 1
+          },
           {
             "name": "Tour de France - S13 (ITT)Stage 13 (ITT) - Loudenvielle › Peyragudes",
             "date": "18 Jul 2025",

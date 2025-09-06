@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 September 2025 23:20 GMT",
+  "fetchedDate": "6 September 2025 23:19 GMT",
   "momentId": 193495,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 7796.85,
+    "totalPoints": 7802.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -532,8 +532,14 @@
         "id": 459694,
         "team": "HPH",
         "country": "us",
-        "totalPoints": 743.14,
+        "totalPoints": 749.14,
         "results": [
+          {
+            "name": "Simac Ladies Tour - S5 (ITT)Stage 5 (ITT) - Doetinchem › Westendorp",
+            "date": "6 Sep 2025",
+            "points": 6,
+            "rank": 10
+          },
           {
             "name": "Simac Ladies Tour - S3Stage 3 - Zeewolde › Zeewolde",
             "date": "4 Sep 2025",

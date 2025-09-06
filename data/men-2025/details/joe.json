@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 September 2025 23:21 GMT",
+  "fetchedDate": "6 September 2025 23:20 GMT",
   "momentId": 193477,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 13466.3,
+    "totalPoints": 13566.3,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -443,8 +443,14 @@
         "id": 150923,
         "team": "UAD",
         "country": "us",
-        "totalPoints": 1163.57,
+        "totalPoints": 1263.57,
         "results": [
+          {
+            "name": "Maryland Cycling Classic",
+            "date": "6 Sep 2025",
+            "points": 100,
+            "rank": 4
+          },
           {
             "name": "Lidl Deutschland Tour - General classificationGeneral classification",
             "date": "24 Aug 2025",

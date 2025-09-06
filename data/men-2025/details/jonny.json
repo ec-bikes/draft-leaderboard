@@ -1,20 +1,31 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 September 2025 23:21 GMT",
+  "fetchedDate": "6 September 2025 23:20 GMT",
   "momentId": 193477,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 13175.71,
+    "totalPoints": 13335.71,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "team": "TVL",
         "country": "dk",
-        "totalPoints": 4022.14,
+        "totalPoints": 4172.14,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S14Stage 14 - Avilés › La Farrapona. Lagos de Somiedo",
+            "date": "6 Sep 2025",
+            "points": 130,
+            "rank": 2
+          },
+          {
+            "name": "La Vuelta Ciclista a España - S14Stage 14 - Avilés › La Farrapona. Lagos de Somiedo - Bonus",
+            "date": "6 Sep 2025",
+            "points": 20
+          },
           {
             "name": "La Vuelta Ciclista a España - S13Stage 13 - Cabezón de la Sal › L'Angliru",
             "date": "5 Sep 2025",
@@ -446,8 +457,14 @@
         "id": 1710249,
         "team": "TPP",
         "country": "gb",
-        "totalPoints": 2717,
+        "totalPoints": 2727,
         "results": [
+          {
+            "name": "Lloyds Bank Tour of Britain Men - S5Stage 5 - Pontypool › The Tumble",
+            "date": "6 Sep 2025",
+            "points": 10,
+            "rank": 3
+          },
           {
             "name": "Donostia San Sebastian Klasikoa",
             "date": "2 Aug 2025",
