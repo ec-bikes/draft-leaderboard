@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 September 2025 23:20 GMT",
+  "fetchedDate": "7 September 2025 23:20 GMT",
   "momentId": 193477,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 12161.1,
+    "totalPoints": 12391.1,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -553,8 +553,14 @@
         "id": 2002910,
         "team": "UAD",
         "country": "mx",
-        "totalPoints": 3449,
+        "totalPoints": 3649,
         "results": [
+          {
+            "name": "GP Industria & Artigianato",
+            "date": "7 Sep 2025",
+            "points": 200,
+            "rank": 1
+          },
           {
             "name": "Bretagne Classic - Ouest-France",
             "date": "31 Aug 2025",
@@ -1018,8 +1024,14 @@
         "id": 361433,
         "team": "IGD",
         "country": "us",
-        "totalPoints": 824.36,
+        "totalPoints": 854.36,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S15Stage 15 - A Veiga/Vegadeo › Monforte de Lemos",
+            "date": "7 Sep 2025",
+            "points": 30,
+            "rank": 9
+          },
           {
             "name": "La Vuelta Ciclista a España - S5 (TTT)Stage 5 (TTT) - Figueres › Figueres",
             "date": "27 Aug 2025",

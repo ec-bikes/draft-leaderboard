@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 September 2025 23:19 GMT",
+  "fetchedDate": "7 September 2025 23:20 GMT",
   "momentId": 193495,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 7802.85,
+    "totalPoints": 7914.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -532,8 +532,14 @@
         "id": 459694,
         "team": "HPH",
         "country": "us",
-        "totalPoints": 749.14,
+        "totalPoints": 829.14,
         "results": [
+          {
+            "name": "Simac Ladies Tour - General classificationGeneral classification",
+            "date": "7 Sep 2025",
+            "points": 80,
+            "rank": 9
+          },
           {
             "name": "Simac Ladies Tour - S5 (ITT)Stage 5 (ITT) - Doetinchem › Westendorp",
             "date": "6 Sep 2025",
@@ -850,8 +856,14 @@
         "id": 66056,
         "team": "LTK",
         "country": "nl",
-        "totalPoints": 49,
+        "totalPoints": 57,
         "results": [
+          {
+            "name": "Simac Ladies Tour - General classificationGeneral classification",
+            "date": "7 Sep 2025",
+            "points": 8,
+            "rank": 33
+          },
           {
             "name": "Classic Lorient Agglomération - CERATIZIT",
             "date": "30 Aug 2025",
@@ -1042,8 +1054,14 @@
         "id": 86854,
         "team": "LTK",
         "country": "nl",
-        "totalPoints": 445.14,
+        "totalPoints": 469.14,
         "results": [
+          {
+            "name": "Simac Ladies Tour - General classificationGeneral classification",
+            "date": "7 Sep 2025",
+            "points": 24,
+            "rank": 20
+          },
           {
             "name": "Simac Ladies Tour - S2Stage 2 - Gennep › Gennep",
             "date": "3 Sep 2025",

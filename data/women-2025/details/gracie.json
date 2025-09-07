@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 September 2025 23:19 GMT",
+  "fetchedDate": "7 September 2025 23:20 GMT",
   "momentId": 193495,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 13787.57,
+    "totalPoints": 14137.57,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -250,8 +250,20 @@
         "id": 101826,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 2168,
+        "totalPoints": 2518,
         "results": [
+          {
+            "name": "Simac Ladies Tour - General classificationGeneral classification",
+            "date": "7 Sep 2025",
+            "points": 320,
+            "rank": 2
+          },
+          {
+            "name": "Simac Ladies Tour - S6Stage 6 - Lichtenvoorde › Lichtenvoorde",
+            "date": "7 Sep 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Simac Ladies Tour - S4Stage 4 - Alkmaar › Alkmaar",
             "date": "5 Sep 2025",

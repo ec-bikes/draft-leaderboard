@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 September 2025 23:19 GMT",
+  "fetchedDate": "7 September 2025 23:20 GMT",
   "momentId": 193495,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 9728.71,
+    "totalPoints": 9877.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -437,8 +437,14 @@
         "id": 98571,
         "team": "UAD",
         "country": "nl",
-        "totalPoints": 1274,
+        "totalPoints": 1374,
         "results": [
+          {
+            "name": "Simac Ladies Tour - General classificationGeneral classification",
+            "date": "7 Sep 2025",
+            "points": 100,
+            "rank": 8
+          },
           {
             "name": "Simac Ladies Tour - S5 (ITT)Stage 5 (ITT) - Doetinchem › Westendorp",
             "date": "6 Sep 2025",
@@ -801,8 +807,20 @@
         "id": 156600,
         "team": "CSZ",
         "country": "it",
-        "totalPoints": 1394,
+        "totalPoints": 1427,
         "results": [
+          {
+            "name": "Simac Ladies Tour - General classificationGeneral classification",
+            "date": "7 Sep 2025",
+            "points": 8,
+            "rank": 40
+          },
+          {
+            "name": "Simac Ladies Tour - S6Stage 6 - Lichtenvoorde › Lichtenvoorde",
+            "date": "7 Sep 2025",
+            "points": 25,
+            "rank": 4
+          },
           {
             "name": "Simac Ladies Tour - S4Stage 4 - Alkmaar › Alkmaar",
             "date": "5 Sep 2025",
@@ -1090,8 +1108,14 @@
         "id": 233425,
         "team": "VWT",
         "country": "nl",
-        "totalPoints": 333,
+        "totalPoints": 349,
         "results": [
+          {
+            "name": "Simac Ladies Tour - General classificationGeneral classification",
+            "date": "7 Sep 2025",
+            "points": 16,
+            "rank": 30
+          },
           {
             "name": "Tour de l'Avenir Femmes - S2Stage 2 - Saint-Symphorien-sur-Coise › Vitry-en-Charollais",
             "date": "25 Aug 2025",

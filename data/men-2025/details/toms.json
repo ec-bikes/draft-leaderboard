@@ -1,22 +1,28 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 September 2025 23:20 GMT",
+  "fetchedDate": "7 September 2025 23:20 GMT",
   "momentId": 193477,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 11901.13,
+    "totalPoints": 12091.13,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 1923,
+        "totalPoints": 2073,
         "results": [
           {
-            "name": "Lloyds Bank Tour of Britain Men - S5Stage 5 - Pontypool › The Tumble",
+            "name": "Tour of Britain Men - General classificationGeneral classification",
+            "date": "7 Sep 2025",
+            "points": 150,
+            "rank": 2
+          },
+          {
+            "name": "Tour of Britain Men - S5Stage 5 - Pontypool › The Tumble",
             "date": "6 Sep 2025",
             "points": 20,
             "rank": 1
@@ -470,8 +476,14 @@
         "id": 76092,
         "team": "TBV",
         "country": "es",
-        "totalPoints": 922,
+        "totalPoints": 962,
         "results": [
+          {
+            "name": "Tour of Britain Men - General classificationGeneral classification",
+            "date": "7 Sep 2025",
+            "points": 40,
+            "rank": 9
+          },
           {
             "name": "Bretagne Classic - Ouest-France",
             "date": "31 Aug 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 September 2025 23:19 GMT",
+  "fetchedDate": "7 September 2025 23:20 GMT",
   "momentId": 193495,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 10258.14,
+    "totalPoints": 10373.14,
     "riders": [
       {
         "name": "Liane Lippert",
@@ -554,8 +554,14 @@
         "id": 220562,
         "team": "TFS",
         "country": "nz",
-        "totalPoints": 1571.57,
+        "totalPoints": 1587.57,
         "results": [
+          {
+            "name": "Simac Ladies Tour - General classificationGeneral classification",
+            "date": "7 Sep 2025",
+            "points": 16,
+            "rank": 22
+          },
           {
             "name": "Classic Lorient Agglomération - CERATIZIT",
             "date": "30 Aug 2025",
@@ -757,8 +763,14 @@
         "id": 2317617,
         "team": "MOV",
         "country": "gb",
-        "totalPoints": 1078.14,
+        "totalPoints": 1146.14,
         "results": [
+          {
+            "name": "Simac Ladies Tour - General classificationGeneral classification",
+            "date": "7 Sep 2025",
+            "points": 68,
+            "rank": 10
+          },
           {
             "name": "Simac Ladies Tour - S4Stage 4 - Alkmaar › Alkmaar",
             "date": "5 Sep 2025",
@@ -961,8 +973,20 @@
         "id": 153363,
         "team": "LIV",
         "country": "it",
-        "totalPoints": 368.29,
+        "totalPoints": 399.29,
         "results": [
+          {
+            "name": "Simac Ladies Tour - General classificationGeneral classification",
+            "date": "7 Sep 2025",
+            "points": 16,
+            "rank": 25
+          },
+          {
+            "name": "Simac Ladies Tour - S6Stage 6 - Lichtenvoorde › Lichtenvoorde",
+            "date": "7 Sep 2025",
+            "points": 15,
+            "rank": 7
+          },
           {
             "name": "Vuelta España Femenina  - S3Stage 3 - Barbastro › Huesca",
             "date": "6 May 2025",

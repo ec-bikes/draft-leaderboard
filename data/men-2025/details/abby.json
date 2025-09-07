@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 September 2025 23:20 GMT",
+  "fetchedDate": "7 September 2025 23:20 GMT",
   "momentId": 193477,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 10090.58,
+    "totalPoints": 10100.58,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -604,8 +604,14 @@
         "id": 86735,
         "team": "LTK",
         "country": "gb",
-        "totalPoints": 206,
+        "totalPoints": 211,
         "results": [
+          {
+            "name": "Tour of Britain Men - General classificationGeneral classification",
+            "date": "7 Sep 2025",
+            "points": 5,
+            "rank": 17
+          },
           {
             "name": "Tour de Suisse - General classificationGeneral classification",
             "date": "22 Jun 2025",
@@ -850,8 +856,14 @@
         "id": 109481,
         "team": "IGD",
         "country": "nl",
-        "totalPoints": 1458.29,
+        "totalPoints": 1463.29,
         "results": [
+          {
+            "name": "Tour of Britain Men - General classificationGeneral classification",
+            "date": "7 Sep 2025",
+            "points": 5,
+            "rank": 19
+          },
           {
             "name": "Tour de France - General classificationGeneral classification",
             "date": "27 Jul 2025",

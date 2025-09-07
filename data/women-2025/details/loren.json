@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 September 2025 23:19 GMT",
+  "fetchedDate": "7 September 2025 23:20 GMT",
   "momentId": 193495,
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women’s Cycling Team",
-    "totalPoints": 7310.58,
+    "totalPoints": 7326.58,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -856,8 +856,14 @@
         "id": 78086,
         "team": "LIV",
         "country": "au",
-        "totalPoints": 529.29,
+        "totalPoints": 545.29,
         "results": [
+          {
+            "name": "Simac Ladies Tour - General classificationGeneral classification",
+            "date": "7 Sep 2025",
+            "points": 16,
+            "rank": 27
+          },
           {
             "name": "Vuelta España Femenina  - S1 (TTT)Stage 1 (TTT) - Barcelona › Barcelona",
             "date": "4 May 2025",

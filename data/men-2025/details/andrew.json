@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 September 2025 23:20 GMT",
+  "fetchedDate": "7 September 2025 23:20 GMT",
   "momentId": 193477,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 12900.28,
+    "totalPoints": 12955.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -358,32 +358,38 @@
         "id": 227110,
         "team": "TVL",
         "country": "nl",
-        "totalPoints": 1965,
+        "totalPoints": 1985,
         "results": [
           {
-            "name": "Lloyds Bank Tour of Britain Men - S3Stage 3 - Milton Keynes › Ampthill - Bonus",
+            "name": "Tour of Britain Men - S6Stage 6 - Newport › Cardiff",
+            "date": "7 Sep 2025",
+            "points": 20,
+            "rank": 1
+          },
+          {
+            "name": "Tour of Britain Men - S3Stage 3 - Milton Keynes › Ampthill - Bonus",
             "date": "4 Sep 2025",
             "points": 5
           },
           {
-            "name": "Lloyds Bank Tour of Britain Men - S2Stage 2 - Stowmarket › Stowmarket",
+            "name": "Tour of Britain Men - S2Stage 2 - Stowmarket › Stowmarket",
             "date": "3 Sep 2025",
             "points": 20,
             "rank": 1
           },
           {
-            "name": "Lloyds Bank Tour of Britain Men - S2Stage 2 - Stowmarket › Stowmarket - Bonus",
+            "name": "Tour of Britain Men - S2Stage 2 - Stowmarket › Stowmarket - Bonus",
             "date": "3 Sep 2025",
             "points": 5
           },
           {
-            "name": "Lloyds Bank Tour of Britain Men - S1Stage 1 - Woodbridge › Southwold",
+            "name": "Tour of Britain Men - S1Stage 1 - Woodbridge › Southwold",
             "date": "2 Sep 2025",
             "points": 20,
             "rank": 1
           },
           {
-            "name": "Lloyds Bank Tour of Britain Men - S1Stage 1 - Woodbridge › Southwold - Bonus",
+            "name": "Tour of Britain Men - S1Stage 1 - Woodbridge › Southwold - Bonus",
             "date": "2 Sep 2025",
             "points": 5
           },
@@ -781,8 +787,14 @@
         "id": 111343,
         "team": "UAD",
         "country": "fr",
-        "totalPoints": 287.57,
+        "totalPoints": 322.57,
         "results": [
+          {
+            "name": "Tour of Britain Men - General classificationGeneral classification",
+            "date": "7 Sep 2025",
+            "points": 35,
+            "rank": 10
+          },
           {
             "name": "Critérium du Dauphiné - General classificationGeneral classification",
             "date": "15 Jun 2025",

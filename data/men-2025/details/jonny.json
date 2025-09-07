@@ -1,20 +1,25 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 September 2025 23:20 GMT",
+  "fetchedDate": "7 September 2025 23:20 GMT",
   "momentId": 193477,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 13335.71,
+    "totalPoints": 13685.71,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "team": "TVL",
         "country": "dk",
-        "totalPoints": 4172.14,
+        "totalPoints": 4192.14,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S15Stage 15 - A Veiga/Vegadeo › Monforte de Lemos - Bonus",
+            "date": "7 Sep 2025",
+            "points": 20
+          },
           {
             "name": "La Vuelta Ciclista a España - S14Stage 14 - Avilés › La Farrapona. Lagos de Somiedo",
             "date": "6 Sep 2025",
@@ -457,10 +462,16 @@
         "id": 1710249,
         "team": "TPP",
         "country": "gb",
-        "totalPoints": 2727,
+        "totalPoints": 2827,
         "results": [
           {
-            "name": "Lloyds Bank Tour of Britain Men - S5Stage 5 - Pontypool › The Tumble",
+            "name": "Tour of Britain Men - General classificationGeneral classification",
+            "date": "7 Sep 2025",
+            "points": 100,
+            "rank": 4
+          },
+          {
+            "name": "Tour of Britain Men - S5Stage 5 - Pontypool › The Tumble",
             "date": "6 Sep 2025",
             "points": 10,
             "rank": 3
@@ -676,8 +687,14 @@
         "id": 353375,
         "team": "TBV",
         "country": "co",
-        "totalPoints": 917.5,
+        "totalPoints": 997.5,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S15Stage 15 - A Veiga/Vegadeo › Monforte de Lemos",
+            "date": "7 Sep 2025",
+            "points": 80,
+            "rank": 4
+          },
           {
             "name": "La Vuelta Ciclista a España - S12Stage 12 - Laredo › Los Corrales de Buelna",
             "date": "4 Sep 2025",
@@ -957,8 +974,14 @@
         "id": 144019,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 1716,
+        "totalPoints": 1866,
         "results": [
+          {
+            "name": "GP Industria & Artigianato",
+            "date": "7 Sep 2025",
+            "points": 150,
+            "rank": 2
+          },
           {
             "name": "Arctic Race of Norway - General classificationGeneral classification",
             "date": "10 Aug 2025",
