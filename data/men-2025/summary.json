@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 September 2025 23:22 GMT",
-  "momentId": 193477,
+  "fetchedDate": "9 September 2025 23:20 GMT",
+  "momentId": 193642,
   "teams": [
     {
       "owner": "Kit Nicholson",
       "name": "Picnic-Letterboxd",
-      "totalPoints": 16193,
+      "totalPoints": 16323,
       "riders": [
         {
           "name": "Tadej Pogačar",
@@ -35,7 +35,7 @@
           "id": 68367,
           "team": "SOQ",
           "country": "es",
-          "totalPoints": 502
+          "totalPoints": 632
         },
         {
           "name": "Jordi Meeus",
@@ -85,14 +85,14 @@
     {
       "owner": "Jonny Long",
       "name": "Ineos Grenadiers-Greenpeace-Poundland",
-      "totalPoints": 13685.71,
+      "totalPoints": 13687.71,
       "riders": [
         {
           "name": "Jonas Vingegaard",
           "id": 112082,
           "team": "TVL",
           "country": "dk",
-          "totalPoints": 4192.14
+          "totalPoints": 4194.14
         },
         {
           "name": "Mattias Skjelmose",
@@ -241,7 +241,7 @@
     {
       "owner": "Dane Cash",
       "name": "Visma-Lease a Bike-Monster Energy",
-      "totalPoints": 15260.86,
+      "totalPoints": 15440.86,
       "riders": [
         {
           "name": "Jasper Philipsen",
@@ -290,7 +290,7 @@
           "id": 95844,
           "team": "IGD",
           "country": "co",
-          "totalPoints": 1152.5
+          "totalPoints": 1332.5
         },
         {
           "name": "Florian Lipowitz",
@@ -475,7 +475,7 @@
     {
       "owner": "Caley Fretz",
       "name": "US Postal Service Bald Eagles",
-      "totalPoints": 12391.1,
+      "totalPoints": 12431.1,
       "riders": [
         {
           "name": "Matteo Jorgenson",
@@ -545,7 +545,7 @@
           "id": 762315,
           "team": "TPP",
           "country": "us",
-          "totalPoints": 155
+          "totalPoints": 195
         }
       ],
       "movement": 0

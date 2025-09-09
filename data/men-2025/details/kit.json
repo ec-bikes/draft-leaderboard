@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 September 2025 23:22 GMT",
-  "momentId": 193477,
+  "fetchedDate": "9 September 2025 23:20 GMT",
+  "momentId": 193642,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 16193,
+    "totalPoints": 16323,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -488,8 +488,14 @@
         "id": 68367,
         "team": "SOQ",
         "country": "es",
-        "totalPoints": 502,
+        "totalPoints": 632,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S16Stage 16 - Poio › Mos. Castro de Herville",
+            "date": "9 Sep 2025",
+            "points": 130,
+            "rank": 2
+          },
           {
             "name": "Vuelta a Burgos - General classificationGeneral classification",
             "date": "9 Aug 2025",

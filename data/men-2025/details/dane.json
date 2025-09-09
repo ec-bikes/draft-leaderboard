@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 September 2025 23:22 GMT",
-  "momentId": 193477,
+  "fetchedDate": "9 September 2025 23:20 GMT",
+  "momentId": 193642,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 15260.86,
+    "totalPoints": 15440.86,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -758,8 +758,14 @@
         "id": 95844,
         "team": "IGD",
         "country": "co",
-        "totalPoints": 1152.5,
+        "totalPoints": 1332.5,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S16Stage 16 - Poio › Mos. Castro de Herville",
+            "date": "9 Sep 2025",
+            "points": 180,
+            "rank": 1
+          },
           {
             "name": "La Vuelta Ciclista a España - S15Stage 15 - A Veiga/Vegadeo › Monforte de Lemos",
             "date": "7 Sep 2025",

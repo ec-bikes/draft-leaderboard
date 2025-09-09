@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 September 2025 23:22 GMT",
-  "momentId": 193495,
+  "fetchedDate": "9 September 2025 23:20 GMT",
+  "momentId": 193660,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 14137.57,
+    "totalPoints": 14145.57,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -484,8 +484,14 @@
         "id": 227721,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 1660.71,
+        "totalPoints": 1668.71,
         "results": [
+          {
+            "name": "Tour Cycliste Féminin International de l'Ardèche - S1Stage 1 - Laudun-l’Ardoise › Laudun-l’Ardoise",
+            "date": "9 Sep 2025",
+            "points": 8,
+            "rank": 3
+          },
           {
             "name": "Classic Lorient Agglomération - CERATIZIT",
             "date": "30 Aug 2025",

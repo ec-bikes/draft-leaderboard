@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 September 2025 23:22 GMT",
-  "momentId": 193477,
+  "fetchedDate": "9 September 2025 23:20 GMT",
+  "momentId": 193642,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 12391.1,
+    "totalPoints": 12431.1,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -1227,8 +1227,14 @@
         "id": 762315,
         "team": "TPP",
         "country": "us",
-        "totalPoints": 155,
+        "totalPoints": 195,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S16Stage 16 - Poio › Mos. Castro de Herville",
+            "date": "9 Sep 2025",
+            "points": 40,
+            "rank": 7
+          },
           {
             "name": "La Vuelta Ciclista a España - S14Stage 14 - Avilés › La Farrapona. Lagos de Somiedo",
             "date": "6 Sep 2025",
