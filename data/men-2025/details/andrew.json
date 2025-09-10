@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 September 2025 23:20 GMT",
+  "fetchedDate": "10 September 2025 23:21 GMT",
   "momentId": 193642,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 12955.28,
+    "totalPoints": 13055.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -118,8 +118,14 @@
         "id": 107840,
         "team": "UAD",
         "country": "pt",
-        "totalPoints": 3136.07,
+        "totalPoints": 3196.07,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S17Stage 17 - O Barco de Valdeorras › Alto de El Morredero",
+            "date": "10 Sep 2025",
+            "points": 60,
+            "rank": 5
+          },
           {
             "name": "La Vuelta Ciclista a España - S14Stage 14 - Avilés › La Farrapona. Lagos de Somiedo",
             "date": "6 Sep 2025",
@@ -1021,8 +1027,14 @@
         "id": 150925,
         "team": "DAT",
         "country": "at",
-        "totalPoints": 1881.43,
+        "totalPoints": 1921.43,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S17Stage 17 - O Barco de Valdeorras › Alto de El Morredero",
+            "date": "10 Sep 2025",
+            "points": 40,
+            "rank": 7
+          },
           {
             "name": "La Vuelta Ciclista a España - S14Stage 14 - Avilés › La Farrapona. Lagos de Somiedo",
             "date": "6 Sep 2025",

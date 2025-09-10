@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 September 2025 23:20 GMT",
+  "fetchedDate": "10 September 2025 23:21 GMT",
   "momentId": 193642,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 12431.1,
+    "totalPoints": 12611.1,
     "riders": [
       {
         "name": "Matteo Jorgenson",
         "id": 159567,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 1747.14,
+        "totalPoints": 1772.14,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S17Stage 17 - O Barco de Valdeorras › Alto de El Morredero",
+            "date": "10 Sep 2025",
+            "points": 25,
+            "rank": 10
+          },
           {
             "name": "La Vuelta Ciclista a España - S14Stage 14 - Avilés › La Farrapona. Lagos de Somiedo",
             "date": "6 Sep 2025",
@@ -397,8 +403,14 @@
         "id": 88346,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 331.57,
+        "totalPoints": 361.57,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S17Stage 17 - O Barco de Valdeorras › Alto de El Morredero",
+            "date": "10 Sep 2025",
+            "points": 30,
+            "rank": 9
+          },
           {
             "name": "La Vuelta Ciclista a España - S14Stage 14 - Avilés › La Farrapona. Lagos de Somiedo",
             "date": "6 Sep 2025",
@@ -553,8 +565,14 @@
         "id": 2002910,
         "team": "UAD",
         "country": "mx",
-        "totalPoints": 3649,
+        "totalPoints": 3774,
         "results": [
+          {
+            "name": "Giro della Toscana - Memorial Alfredo Martini",
+            "date": "10 Sep 2025",
+            "points": 125,
+            "rank": 1
+          },
           {
             "name": "GP Industria & Artigianato",
             "date": "7 Sep 2025",

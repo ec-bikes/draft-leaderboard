@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 September 2025 23:20 GMT",
+  "fetchedDate": "10 September 2025 23:21 GMT",
   "momentId": 193642,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 9442.81,
+    "totalPoints": 9537.81,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -912,8 +912,14 @@
         "id": 109829,
         "team": "RBH",
         "country": "au",
-        "totalPoints": 700.71,
+        "totalPoints": 795.71,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S17Stage 17 - O Barco de Valdeorras › Alto de El Morredero",
+            "date": "10 Sep 2025",
+            "points": 95,
+            "rank": 3
+          },
           {
             "name": "La Vuelta Ciclista a España - S14Stage 14 - Avilés › La Farrapona. Lagos de Somiedo",
             "date": "6 Sep 2025",

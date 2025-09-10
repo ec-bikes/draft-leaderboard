@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "9 September 2025 23:20 GMT",
+  "fetchedDate": "10 September 2025 23:21 GMT",
   "momentId": 193642,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 13687.71,
+    "totalPoints": 13807.71,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "team": "TVL",
         "country": "dk",
-        "totalPoints": 4194.14,
+        "totalPoints": 4274.14,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S17Stage 17 - O Barco de Valdeorras › Alto de El Morredero",
+            "date": "10 Sep 2025",
+            "points": 80,
+            "rank": 4
+          },
           {
             "name": "La Vuelta Ciclista a España - S16Stage 16 - Poio › Mos. Castro de Herville",
             "date": "9 Sep 2025",
@@ -980,8 +986,14 @@
         "id": 144019,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 1866,
+        "totalPoints": 1906,
         "results": [
+          {
+            "name": "Giro della Toscana - Memorial Alfredo Martini",
+            "date": "10 Sep 2025",
+            "points": 40,
+            "rank": 6
+          },
           {
             "name": "GP Industria & Artigianato",
             "date": "7 Sep 2025",
