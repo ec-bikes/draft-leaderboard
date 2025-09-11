@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 September 2025 23:21 GMT",
+  "fetchedDate": "11 September 2025 23:21 GMT",
   "momentId": 193642,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 13055.28,
+    "totalPoints": 13150.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -118,8 +118,14 @@
         "id": 107840,
         "team": "UAD",
         "country": "pt",
-        "totalPoints": 3196.07,
+        "totalPoints": 3291.07,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S18 (ITT)Stage 18 (ITT) - Valladolid › Valladolid",
+            "date": "11 Sep 2025",
+            "points": 95,
+            "rank": 3
+          },
           {
             "name": "La Vuelta Ciclista a España - S17Stage 17 - O Barco de Valdeorras › Alto de El Morredero",
             "date": "10 Sep 2025",

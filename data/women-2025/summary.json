@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 September 2025 23:21 GMT",
+  "fetchedDate": "11 September 2025 23:21 GMT",
   "momentId": 193660,
   "teams": [
     {
@@ -163,7 +163,7 @@
     {
       "owner": "Gracie Elvin",
       "name": "Lamborghini p/b Tony's Chocolonely",
-      "totalPoints": 14145.57,
+      "totalPoints": 14161.57,
       "riders": [
         {
           "name": "Demi Vollering",
@@ -191,7 +191,7 @@
           "id": 227721,
           "team": "SDW",
           "country": "nl",
-          "totalPoints": 1668.71
+          "totalPoints": 1684.71
         },
         {
           "name": "Maike van der Duin",
@@ -241,7 +241,7 @@
     {
       "owner": "Tilda Price",
       "name": "Santa Cruz-Shimano",
-      "totalPoints": 10969.72,
+      "totalPoints": 10977.72,
       "riders": [
         {
           "name": "Lorena Wiebes",
@@ -297,7 +297,7 @@
           "id": 96399,
           "team": "SDW",
           "country": "pl",
-          "totalPoints": 585
+          "totalPoints": 593
         },
         {
           "name": "Mavi Garcia",

@@ -1,20 +1,31 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 September 2025 23:21 GMT",
+  "fetchedDate": "11 September 2025 23:21 GMT",
   "momentId": 193642,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 13807.71,
+    "totalPoints": 13997.71,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "team": "TVL",
         "country": "dk",
-        "totalPoints": 4274.14,
+        "totalPoints": 4364.14,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S18 (ITT)Stage 18 (ITT) - Valladolid › Valladolid",
+            "date": "11 Sep 2025",
+            "points": 30,
+            "rank": 9
+          },
+          {
+            "name": "La Vuelta Ciclista a España - S18 (ITT)Stage 18 (ITT) - Valladolid › Valladolid - Bonus",
+            "date": "11 Sep 2025",
+            "points": 20
+          },
           {
             "name": "La Vuelta Ciclista a España - S17Stage 17 - O Barco de Valdeorras › Alto de El Morredero",
             "date": "10 Sep 2025",
@@ -22,10 +33,20 @@
             "rank": 4
           },
           {
+            "name": "La Vuelta Ciclista a España - S17Stage 17 - O Barco de Valdeorras › Alto de El Morredero - Bonus",
+            "date": "10 Sep 2025",
+            "points": 20
+          },
+          {
             "name": "La Vuelta Ciclista a España - S16Stage 16 - Poio › Mos. Castro de Herville",
             "date": "9 Sep 2025",
             "points": 2,
             "rank": 15
+          },
+          {
+            "name": "La Vuelta Ciclista a España - S16Stage 16 - Poio › Mos. Castro de Herville - Bonus",
+            "date": "9 Sep 2025",
+            "points": 20
           },
           {
             "name": "La Vuelta Ciclista a España - S15Stage 15 - A Veiga/Vegadeo › Monforte de Lemos - Bonus",
@@ -986,8 +1007,14 @@
         "id": 144019,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 1906,
+        "totalPoints": 2006,
         "results": [
+          {
+            "name": "Gran Premio città di Peccioli - Coppa Sabatini",
+            "date": "11 Sep 2025",
+            "points": 100,
+            "rank": 4
+          },
           {
             "name": "Giro della Toscana - Memorial Alfredo Martini",
             "date": "10 Sep 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 September 2025 23:21 GMT",
+  "fetchedDate": "11 September 2025 23:21 GMT",
   "momentId": 193642,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 10100.58,
+    "totalPoints": 10280.58,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -486,8 +486,14 @@
         "id": 91640,
         "team": "IGD",
         "country": "it",
-        "totalPoints": 1894.5,
+        "totalPoints": 2074.5,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S18 (ITT)Stage 18 (ITT) - Valladolid › Valladolid",
+            "date": "11 Sep 2025",
+            "points": 180,
+            "rank": 1
+          },
           {
             "name": "La Vuelta Ciclista a España - S5 (TTT)Stage 5 (TTT) - Figueres › Figueres",
             "date": "27 Aug 2025",

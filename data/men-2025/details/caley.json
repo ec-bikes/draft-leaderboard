@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 September 2025 23:21 GMT",
+  "fetchedDate": "11 September 2025 23:21 GMT",
   "momentId": 193642,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 12611.1,
+    "totalPoints": 12826.1,
     "riders": [
       {
         "name": "Matteo Jorgenson",
         "id": 159567,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 1772.14,
+        "totalPoints": 1787.14,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S18 (ITT)Stage 18 (ITT) - Valladolid › Valladolid",
+            "date": "11 Sep 2025",
+            "points": 15,
+            "rank": 12
+          },
           {
             "name": "La Vuelta Ciclista a España - S17Stage 17 - O Barco de Valdeorras › Alto de El Morredero",
             "date": "10 Sep 2025",
@@ -565,8 +571,14 @@
         "id": 2002910,
         "team": "UAD",
         "country": "mx",
-        "totalPoints": 3774,
+        "totalPoints": 3974,
         "results": [
+          {
+            "name": "Gran Premio città di Peccioli - Coppa Sabatini",
+            "date": "11 Sep 2025",
+            "points": 200,
+            "rank": 1
+          },
           {
             "name": "Giro della Toscana - Memorial Alfredo Martini",
             "date": "10 Sep 2025",

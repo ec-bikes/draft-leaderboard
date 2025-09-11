@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 September 2025 23:21 GMT",
+  "fetchedDate": "11 September 2025 23:21 GMT",
   "momentId": 193642,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 15440.86,
+    "totalPoints": 15485.86,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -1277,8 +1277,14 @@
         "id": 74994,
         "team": "GFC",
         "country": "ch",
-        "totalPoints": 512.29,
+        "totalPoints": 557.29,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S18 (ITT)Stage 18 (ITT) - Valladolid › Valladolid",
+            "date": "11 Sep 2025",
+            "points": 45,
+            "rank": 6
+          },
           {
             "name": "La Vuelta Ciclista a España - S5 (TTT)Stage 5 (TTT) - Figueres › Figueres",
             "date": "27 Aug 2025",

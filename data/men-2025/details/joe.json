@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 September 2025 23:21 GMT",
+  "fetchedDate": "11 September 2025 23:21 GMT",
   "momentId": 193642,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 13777.3,
+    "totalPoints": 13845.3,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -168,8 +168,14 @@
         "id": 86895,
         "team": "LTK",
         "country": "dk",
-        "totalPoints": 4759.45,
+        "totalPoints": 4764.45,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S18 (ITT)Stage 18 (ITT) - Valladolid › Valladolid",
+            "date": "11 Sep 2025",
+            "points": 5,
+            "rank": 14
+          },
           {
             "name": "La Vuelta Ciclista a España - S15Stage 15 - A Veiga/Vegadeo › Monforte de Lemos",
             "date": "7 Sep 2025",
@@ -608,8 +614,14 @@
         "id": 97280,
         "team": "RBH",
         "country": "ru",
-        "totalPoints": 232.71,
+        "totalPoints": 235.71,
         "results": [
+          {
+            "name": "Gran Premio città di Peccioli - Coppa Sabatini",
+            "date": "11 Sep 2025",
+            "points": 3,
+            "rank": 31
+          },
           {
             "name": "Giro della Toscana - Memorial Alfredo Martini",
             "date": "10 Sep 2025",
@@ -707,8 +719,14 @@
         "id": 462394,
         "team": "UAD",
         "country": "ch",
-        "totalPoints": 1172,
+        "totalPoints": 1212,
         "results": [
+          {
+            "name": "Gran Premio città di Peccioli - Coppa Sabatini",
+            "date": "11 Sep 2025",
+            "points": 40,
+            "rank": 9
+          },
           {
             "name": "Bretagne Classic - Ouest-France",
             "date": "31 Aug 2025",
@@ -1154,8 +1172,14 @@
         "id": 54679,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 759,
+        "totalPoints": 779,
         "results": [
+          {
+            "name": "Gran Premio città di Peccioli - Coppa Sabatini",
+            "date": "11 Sep 2025",
+            "points": 20,
+            "rank": 13
+          },
           {
             "name": "GP Industria & Artigianato",
             "date": "7 Sep 2025",
