@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 September 2025 23:21 GMT",
+  "fetchedDate": "12 September 2025 23:20 GMT",
   "momentId": 193642,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 15485.86,
+    "totalPoints": 15695.86,
     "riders": [
       {
         "name": "Jasper Philipsen",
         "id": 148275,
         "team": "ADC",
         "country": "be",
-        "totalPoints": 1963,
+        "totalPoints": 2143,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S19Stage 19 - Rueda › Guijuelo",
+            "date": "12 Sep 2025",
+            "points": 180,
+            "rank": 1
+          },
           {
             "name": "La Vuelta Ciclista a España - S8Stage 8 - Monzón Templario › Zaragoza",
             "date": "30 Aug 2025",
@@ -642,8 +648,14 @@
         "id": 96372,
         "team": "UAD",
         "country": "ec",
-        "totalPoints": 1154.14,
+        "totalPoints": 1184.14,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "12 Sep 2025",
+            "points": 30,
+            "rank": 20
+          },
           {
             "name": "Bretagne Classic - Ouest-France",
             "date": "31 Aug 2025",

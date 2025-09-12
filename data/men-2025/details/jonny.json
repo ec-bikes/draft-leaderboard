@@ -1,20 +1,25 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 September 2025 23:21 GMT",
+  "fetchedDate": "12 September 2025 23:20 GMT",
   "momentId": 193642,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 13997.71,
+    "totalPoints": 14325.71,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "team": "TVL",
         "country": "dk",
-        "totalPoints": 4364.14,
+        "totalPoints": 4384.14,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S19Stage 19 - Rueda › Guijuelo - Bonus",
+            "date": "12 Sep 2025",
+            "points": 20
+          },
           {
             "name": "La Vuelta Ciclista a España - S18 (ITT)Stage 18 (ITT) - Valladolid › Valladolid",
             "date": "11 Sep 2025",
@@ -297,8 +302,14 @@
         "id": 365033,
         "team": "LTK",
         "country": "dk",
-        "totalPoints": 1204.57,
+        "totalPoints": 1479.57,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "12 Sep 2025",
+            "points": 275,
+            "rank": 4
+          },
           {
             "name": "PostNord Tour of Denmark - General classificationGeneral classification",
             "date": "16 Aug 2025",
@@ -854,8 +865,14 @@
         "id": 81980,
         "team": "TVL",
         "country": "fr",
-        "totalPoints": 2,
+        "totalPoints": 5,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "12 Sep 2025",
+            "points": 3,
+            "rank": 57
+          },
           {
             "name": "Renewi Tour - General classificationGeneral classification",
             "date": "24 Aug 2025",
@@ -869,8 +886,14 @@
         "id": 91637,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 458,
+        "totalPoints": 488,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "12 Sep 2025",
+            "points": 30,
+            "rank": 17
+          },
           {
             "name": "Renewi Tour - General classificationGeneral classification",
             "date": "24 Aug 2025",

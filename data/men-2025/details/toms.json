@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 September 2025 23:21 GMT",
+  "fetchedDate": "12 September 2025 23:20 GMT",
   "momentId": 193642,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 12091.13,
+    "totalPoints": 12111.13,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -476,8 +476,14 @@
         "id": 76092,
         "team": "TBV",
         "country": "es",
-        "totalPoints": 962,
+        "totalPoints": 982,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "12 Sep 2025",
+            "points": 20,
+            "rank": 22
+          },
           {
             "name": "Tour of Britain Men - General classificationGeneral classification",
             "date": "7 Sep 2025",

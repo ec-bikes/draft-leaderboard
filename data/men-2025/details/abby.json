@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 September 2025 23:21 GMT",
+  "fetchedDate": "12 September 2025 23:20 GMT",
   "momentId": 193642,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 10280.58,
+    "totalPoints": 10350.58,
     "riders": [
       {
         "name": "Wout van Aert",
         "id": 75859,
         "team": "TVL",
         "country": "be",
-        "totalPoints": 2863,
+        "totalPoints": 2903,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "12 Sep 2025",
+            "points": 40,
+            "rank": 14
+          },
           {
             "name": "Lidl Deutschland Tour - General classificationGeneral classification",
             "date": "24 Aug 2025",
@@ -154,8 +160,14 @@
         "id": 1707195,
         "team": "IWA",
         "country": "er",
-        "totalPoints": 1501,
+        "totalPoints": 1521,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "12 Sep 2025",
+            "points": 20,
+            "rank": 23
+          },
           {
             "name": "Bretagne Classic - Ouest-France",
             "date": "31 Aug 2025",
@@ -1008,8 +1020,14 @@
         "id": 71677,
         "team": "LTK",
         "country": "at",
-        "totalPoints": 253,
+        "totalPoints": 263,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "12 Sep 2025",
+            "points": 10,
+            "rank": 50
+          },
           {
             "name": "Tour of Austria - General classificationGeneral classification",
             "date": "13 Jul 2025",

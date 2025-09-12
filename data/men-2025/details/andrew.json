@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 September 2025 23:21 GMT",
+  "fetchedDate": "12 September 2025 23:20 GMT",
   "momentId": 193642,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 13150.28,
+    "totalPoints": 13570.28,
     "riders": [
       {
         "name": "Adam Yates",
         "id": 70590,
         "team": "UAD",
         "country": "gb",
-        "totalPoints": 677,
+        "totalPoints": 697,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "12 Sep 2025",
+            "points": 20,
+            "rank": 28
+          },
           {
             "name": "Tour de France - General classificationGeneral classification",
             "date": "27 Jul 2025",
@@ -799,8 +805,14 @@
         "id": 111343,
         "team": "UAD",
         "country": "fr",
-        "totalPoints": 322.57,
+        "totalPoints": 722.57,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "12 Sep 2025",
+            "points": 400,
+            "rank": 2
+          },
           {
             "name": "Tour of Britain Men - General classificationGeneral classification",
             "date": "7 Sep 2025",

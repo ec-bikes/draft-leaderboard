@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 September 2025 23:21 GMT",
+  "fetchedDate": "12 September 2025 23:19 GMT",
   "momentId": 193660,
   "teams": [
     {
       "owner": "Loren Rowney",
       "name": "Super Lekker Pro Potato Women’s Cycling Team",
-      "totalPoints": 7345.58,
+      "totalPoints": 7353.58,
       "riders": [
         {
           "name": "Lotte Kopecky",
@@ -63,7 +63,7 @@
           "id": 1897613,
           "team": "LIV",
           "country": "it",
-          "totalPoints": 932.29
+          "totalPoints": 940.29
         },
         {
           "name": "Clara Copponi",
@@ -163,7 +163,7 @@
     {
       "owner": "Gracie Elvin",
       "name": "Lamborghini p/b Tony's Chocolonely",
-      "totalPoints": 14161.57,
+      "totalPoints": 14180.57,
       "riders": [
         {
           "name": "Demi Vollering",
@@ -191,7 +191,7 @@
           "id": 227721,
           "team": "SDW",
           "country": "nl",
-          "totalPoints": 1684.71
+          "totalPoints": 1703.71
         },
         {
           "name": "Maike van der Duin",

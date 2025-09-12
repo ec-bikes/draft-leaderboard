@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 September 2025 23:21 GMT",
+  "fetchedDate": "12 September 2025 23:20 GMT",
   "momentId": 193642,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 13845.3,
+    "totalPoints": 14310.3,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -168,8 +168,14 @@
         "id": 86895,
         "team": "LTK",
         "country": "dk",
-        "totalPoints": 4764.45,
+        "totalPoints": 4894.45,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - S19Stage 19 - Rueda › Guijuelo",
+            "date": "12 Sep 2025",
+            "points": 130,
+            "rank": 2
+          },
           {
             "name": "La Vuelta Ciclista a España - S18 (ITT)Stage 18 (ITT) - Valladolid › Valladolid",
             "date": "11 Sep 2025",
@@ -455,8 +461,14 @@
         "id": 150923,
         "team": "UAD",
         "country": "us",
-        "totalPoints": 1263.57,
+        "totalPoints": 1273.57,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "12 Sep 2025",
+            "points": 10,
+            "rank": 49
+          },
           {
             "name": "Maryland Cycling Classic",
             "date": "6 Sep 2025",
@@ -1399,8 +1411,14 @@
         "id": 86630,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 389,
+        "totalPoints": 714,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "12 Sep 2025",
+            "points": 325,
+            "rank": 3
+          },
           {
             "name": "GP Industria & Artigianato",
             "date": "7 Sep 2025",

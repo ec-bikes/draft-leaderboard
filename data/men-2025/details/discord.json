@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 September 2025 23:21 GMT",
+  "fetchedDate": "12 September 2025 23:20 GMT",
   "momentId": 193642,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 9537.81,
+    "totalPoints": 9792.81,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -153,8 +153,14 @@
         "id": 86863,
         "team": "TBV",
         "country": "si",
-        "totalPoints": 259,
+        "totalPoints": 484,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "12 Sep 2025",
+            "points": 225,
+            "rank": 5
+          },
           {
             "name": "Bretagne Classic - Ouest-France",
             "date": "31 Aug 2025",
@@ -795,8 +801,14 @@
         "id": 109483,
         "team": "JAY",
         "country": "ch",
-        "totalPoints": 1053.67,
+        "totalPoints": 1063.67,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "12 Sep 2025",
+            "points": 10,
+            "rank": 32
+          },
           {
             "name": "Maryland Cycling Classic",
             "date": "6 Sep 2025",
@@ -1023,8 +1035,14 @@
         "id": 407508,
         "team": "RBH",
         "country": "es",
-        "totalPoints": 364,
+        "totalPoints": 384,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "12 Sep 2025",
+            "points": 20,
+            "rank": 21
+          },
           {
             "name": "Renewi Tour - General classificationGeneral classification",
             "date": "24 Aug 2025",

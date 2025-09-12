@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 September 2025 23:21 GMT",
+  "fetchedDate": "12 September 2025 23:19 GMT",
   "momentId": 193660,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 14161.57,
+    "totalPoints": 14180.57,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -484,8 +484,19 @@
         "id": 227721,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 1684.71,
+        "totalPoints": 1703.71,
         "results": [
+          {
+            "name": "Tour Cycliste Féminin International de l'Ardèche - S4 (ITT)Stage 4 (ITT) - Vals-les-Bains › Vals-les-Bains",
+            "date": "12 Sep 2025",
+            "points": 16,
+            "rank": 1
+          },
+          {
+            "name": "Tour Cycliste Féminin International de l'Ardèche - S4 (ITT)Stage 4 (ITT) - Vals-les-Bains › Vals-les-Bains - Bonus",
+            "date": "12 Sep 2025",
+            "points": 3
+          },
           {
             "name": "Tour Cycliste Féminin International de l'Ardèche - S3Stage 3 - Avignon  › Pernes-les-Fontaines",
             "date": "11 Sep 2025",

@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 September 2025 23:21 GMT",
+  "fetchedDate": "12 September 2025 23:20 GMT",
   "momentId": 193642,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 16408,
+    "totalPoints": 16508,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "team": "UAD",
         "country": "si",
-        "totalPoints": 8915,
+        "totalPoints": 8935,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "12 Sep 2025",
+            "points": 20,
+            "rank": 29
+          },
           {
             "name": "Tour de France - Mountains classificationMountains classification",
             "date": "27 Jul 2025",
@@ -893,8 +899,14 @@
         "id": 422863,
         "team": "COF",
         "country": "es",
-        "totalPoints": 957,
+        "totalPoints": 977,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "12 Sep 2025",
+            "points": 20,
+            "rank": 24
+          },
           {
             "name": "Bretagne Classic - Ouest-France",
             "date": "31 Aug 2025",
@@ -1064,8 +1076,14 @@
         "id": 257361,
         "team": "DAT",
         "country": "fr",
-        "totalPoints": 423,
+        "totalPoints": 483,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "12 Sep 2025",
+            "points": 60,
+            "rank": 12
+          },
           {
             "name": "Tour du Limousin-Périgord - Nouvelle Aquitaine - General classificationGeneral classification",
             "date": "22 Aug 2025",

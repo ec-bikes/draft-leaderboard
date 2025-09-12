@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 September 2025 23:21 GMT",
+  "fetchedDate": "12 September 2025 23:20 GMT",
   "momentId": 193642,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 12826.1,
+    "totalPoints": 12946.1,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -490,8 +490,14 @@
         "id": 62919,
         "team": "JAY",
         "country": "au",
-        "totalPoints": 1315.67,
+        "totalPoints": 1415.67,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "12 Sep 2025",
+            "points": 100,
+            "rank": 9
+          },
           {
             "name": "Bretagne Classic - Ouest-France",
             "date": "31 Aug 2025",
@@ -931,8 +937,14 @@
         "id": 88143,
         "team": "EFE",
         "country": "us",
-        "totalPoints": 1255.5,
+        "totalPoints": 1275.5,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Québec",
+            "date": "12 Sep 2025",
+            "points": 20,
+            "rank": 25
+          },
           {
             "name": "Maryland Cycling Classic",
             "date": "6 Sep 2025",
