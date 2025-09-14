@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 September 2025 23:19 GMT",
+  "fetchedDate": "14 September 2025 23:19 GMT",
   "momentId": 193660,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 10373.14,
+    "totalPoints": 10618.14,
     "riders": [
       {
         "name": "Liane Lippert",
         "id": 140495,
         "team": "MOV",
         "country": "de",
-        "totalPoints": 1076.14,
+        "totalPoints": 1136.14,
         "results": [
+          {
+            "name": "Women's Cycling Grand Prix Stuttgart & Region",
+            "date": "14 Sep 2025",
+            "points": 60,
+            "rank": 7
+          },
           {
             "name": "Classic Lorient Agglomération - CERATIZIT",
             "date": "30 Aug 2025",
@@ -554,8 +560,20 @@
         "id": 220562,
         "team": "TFS",
         "country": "nz",
-        "totalPoints": 1587.57,
+        "totalPoints": 1607.57,
         "results": [
+          {
+            "name": "La Choralis Fourmies Féminine",
+            "date": "14 Sep 2025",
+            "points": 5,
+            "rank": 21
+          },
+          {
+            "name": "A Travers les Hauts de France",
+            "date": "13 Sep 2025",
+            "points": 15,
+            "rank": 11
+          },
           {
             "name": "Simac Ladies Tour - General classificationGeneral classification",
             "date": "7 Sep 2025",
@@ -763,8 +781,14 @@
         "id": 2317617,
         "team": "MOV",
         "country": "gb",
-        "totalPoints": 1146.14,
+        "totalPoints": 1296.14,
         "results": [
+          {
+            "name": "Women's Cycling Grand Prix Stuttgart & Region",
+            "date": "14 Sep 2025",
+            "points": 150,
+            "rank": 2
+          },
           {
             "name": "Simac Ladies Tour - General classificationGeneral classification",
             "date": "7 Sep 2025",
@@ -973,8 +997,14 @@
         "id": 153363,
         "team": "LIV",
         "country": "it",
-        "totalPoints": 399.29,
+        "totalPoints": 414.29,
         "results": [
+          {
+            "name": "Women's Cycling Grand Prix Stuttgart & Region",
+            "date": "14 Sep 2025",
+            "points": 15,
+            "rank": 14
+          },
           {
             "name": "Simac Ladies Tour - General classificationGeneral classification",
             "date": "7 Sep 2025",

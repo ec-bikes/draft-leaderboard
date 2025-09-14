@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 September 2025 23:20 GMT",
+  "fetchedDate": "14 September 2025 23:20 GMT",
   "momentId": 193642,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 13570.28,
+    "totalPoints": 15190.28,
     "riders": [
       {
         "name": "Adam Yates",
         "id": 70590,
         "team": "UAD",
         "country": "gb",
-        "totalPoints": 697,
+        "totalPoints": 922,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Montréal",
+            "date": "14 Sep 2025",
+            "points": 225,
+            "rank": 5
+          },
           {
             "name": "Grand Prix Cycliste de Québec",
             "date": "12 Sep 2025",
@@ -124,8 +130,26 @@
         "id": 107840,
         "team": "UAD",
         "country": "pt",
-        "totalPoints": 3291.07,
+        "totalPoints": 4331.07,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - Mountains classificationMountains classification",
+            "date": "14 Sep 2025",
+            "points": 95,
+            "rank": 3
+          },
+          {
+            "name": "La Vuelta Ciclista a España - General classificationGeneral classification",
+            "date": "14 Sep 2025",
+            "points": 885,
+            "rank": 2
+          },
+          {
+            "name": "La Vuelta Ciclista a España - S20Stage 20 - Robledo de Chavela › Bola del Mundo. Puerto de Navacerrada",
+            "date": "13 Sep 2025",
+            "points": 60,
+            "rank": 5
+          },
           {
             "name": "La Vuelta Ciclista a España - S18 (ITT)Stage 18 (ITT) - Valladolid › Valladolid",
             "date": "11 Sep 2025",
@@ -805,8 +829,14 @@
         "id": 111343,
         "team": "UAD",
         "country": "fr",
-        "totalPoints": 722.57,
+        "totalPoints": 752.57,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Montréal",
+            "date": "14 Sep 2025",
+            "points": 30,
+            "rank": 20
+          },
           {
             "name": "Grand Prix Cycliste de Québec",
             "date": "12 Sep 2025",
@@ -1045,8 +1075,20 @@
         "id": 150925,
         "team": "DAT",
         "country": "at",
-        "totalPoints": 1921.43,
+        "totalPoints": 2216.43,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - General classificationGeneral classification",
+            "date": "14 Sep 2025",
+            "points": 285,
+            "rank": 8
+          },
+          {
+            "name": "La Vuelta Ciclista a España - S20Stage 20 - Robledo de Chavela › Bola del Mundo. Puerto de Navacerrada",
+            "date": "13 Sep 2025",
+            "points": 10,
+            "rank": 13
+          },
           {
             "name": "La Vuelta Ciclista a España - S17Stage 17 - O Barco de Valdeorras › Alto de El Morredero",
             "date": "10 Sep 2025",
@@ -1345,8 +1387,14 @@
         "id": 89223,
         "team": "UAD",
         "country": "es",
-        "totalPoints": 564.5,
+        "totalPoints": 594.5,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - General classificationGeneral classification",
+            "date": "14 Sep 2025",
+            "points": 30,
+            "rank": 26
+          },
           {
             "name": "La Vuelta Ciclista a España - S14Stage 14 - Avilés › La Farrapona. Lagos de Somiedo",
             "date": "6 Sep 2025",

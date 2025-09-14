@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 September 2025 23:19 GMT",
+  "fetchedDate": "14 September 2025 23:19 GMT",
   "momentId": 193660,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 14180.57,
+    "totalPoints": 14348.57,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -484,8 +484,20 @@
         "id": 227721,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 1703.71,
+        "totalPoints": 1756.71,
         "results": [
+          {
+            "name": "Tour Cycliste Féminin International de l'Ardèche - General classificationGeneral classification",
+            "date": "14 Sep 2025",
+            "points": 50,
+            "rank": 5
+          },
+          {
+            "name": "Tour Cycliste Féminin International de l'Ardèche - S5Stage 5 - Mende › Le Mont Lozère",
+            "date": "13 Sep 2025",
+            "points": 3,
+            "rank": 7
+          },
           {
             "name": "Tour Cycliste Féminin International de l'Ardèche - S4 (ITT)Stage 4 (ITT) - Vals-les-Bains › Vals-les-Bains",
             "date": "12 Sep 2025",
@@ -1212,8 +1224,20 @@
         "id": 98622,
         "team": "HPH",
         "country": "at",
-        "totalPoints": 705,
+        "totalPoints": 820,
         "results": [
+          {
+            "name": "La Choralis Fourmies Féminine",
+            "date": "14 Sep 2025",
+            "points": 85,
+            "rank": 5
+          },
+          {
+            "name": "A Travers les Hauts de France",
+            "date": "13 Sep 2025",
+            "points": 30,
+            "rank": 8
+          },
           {
             "name": "GP Lucien Van Impe",
             "date": "21 Aug 2025",

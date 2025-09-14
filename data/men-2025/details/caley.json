@@ -1,20 +1,32 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 September 2025 23:20 GMT",
+  "fetchedDate": "14 September 2025 23:20 GMT",
   "momentId": 193642,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 12946.1,
+    "totalPoints": 14066.1,
     "riders": [
       {
         "name": "Matteo Jorgenson",
         "id": 159567,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 1787.14,
+        "totalPoints": 1987.14,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - General classificationGeneral classification",
+            "date": "14 Sep 2025",
+            "points": 180,
+            "rank": 10
+          },
+          {
+            "name": "La Vuelta Ciclista a España - S20Stage 20 - Robledo de Chavela › Bola del Mundo. Puerto de Navacerrada",
+            "date": "13 Sep 2025",
+            "points": 20,
+            "rank": 11
+          },
           {
             "name": "La Vuelta Ciclista a España - S18 (ITT)Stage 18 (ITT) - Valladolid › Valladolid",
             "date": "11 Sep 2025",
@@ -409,8 +421,20 @@
         "id": 88346,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 361.57,
+        "totalPoints": 831.57,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - General classificationGeneral classification",
+            "date": "14 Sep 2025",
+            "points": 340,
+            "rank": 7
+          },
+          {
+            "name": "La Vuelta Ciclista a España - S20Stage 20 - Robledo de Chavela › Bola del Mundo. Puerto de Navacerrada",
+            "date": "13 Sep 2025",
+            "points": 130,
+            "rank": 2
+          },
           {
             "name": "La Vuelta Ciclista a España - S17Stage 17 - O Barco de Valdeorras › Alto de El Morredero",
             "date": "10 Sep 2025",
@@ -577,8 +601,14 @@
         "id": 2002910,
         "team": "UAD",
         "country": "mx",
-        "totalPoints": 3974,
+        "totalPoints": 4099,
         "results": [
+          {
+            "name": "Trofeo Matteotti",
+            "date": "14 Sep 2025",
+            "points": 125,
+            "rank": 1
+          },
           {
             "name": "Gran Premio città di Peccioli - Coppa Sabatini",
             "date": "11 Sep 2025",
@@ -937,8 +967,14 @@
         "id": 88143,
         "team": "EFE",
         "country": "us",
-        "totalPoints": 1275.5,
+        "totalPoints": 1550.5,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Montréal",
+            "date": "14 Sep 2025",
+            "points": 275,
+            "rank": 4
+          },
           {
             "name": "Grand Prix Cycliste de Québec",
             "date": "12 Sep 2025",
@@ -1269,8 +1305,14 @@
         "id": 762315,
         "team": "TPP",
         "country": "us",
-        "totalPoints": 195,
+        "totalPoints": 245,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - General classificationGeneral classification",
+            "date": "14 Sep 2025",
+            "points": 50,
+            "rank": 20
+          },
           {
             "name": "La Vuelta Ciclista a España - S16Stage 16 - Poio › Mos. Castro de Herville",
             "date": "9 Sep 2025",

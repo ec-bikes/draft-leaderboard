@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 September 2025 23:19 GMT",
+  "fetchedDate": "14 September 2025 23:19 GMT",
   "momentId": 193660,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 10977.72,
+    "totalPoints": 11295.72,
     "riders": [
       {
         "name": "Lorena Wiebes",
         "id": 141733,
         "team": "SDW",
         "country": "nl",
-        "totalPoints": 4001,
+        "totalPoints": 4201,
         "results": [
+          {
+            "name": "La Choralis Fourmies Féminine",
+            "date": "14 Sep 2025",
+            "points": 200,
+            "rank": 1
+          },
           {
             "name": "Simac Ladies Tour - General classificationGeneral classification",
             "date": "7 Sep 2025",
@@ -260,8 +266,20 @@
         "id": 109412,
         "team": "TFS",
         "country": "fr",
-        "totalPoints": 650.57,
+        "totalPoints": 687.57,
         "results": [
+          {
+            "name": "Tour Cycliste Féminin International de l'Ardèche - General classificationGeneral classification",
+            "date": "14 Sep 2025",
+            "points": 25,
+            "rank": 9
+          },
+          {
+            "name": "Tour Cycliste Féminin International de l'Ardèche - S6Stage 6 - Beauchastel › Privas",
+            "date": "14 Sep 2025",
+            "points": 12,
+            "rank": 2
+          },
           {
             "name": "Tour de France Femmes - General classificationGeneral classification",
             "date": "3 Aug 2025",
@@ -709,8 +727,26 @@
         "id": 1742562,
         "team": "TVL",
         "country": "fr",
-        "totalPoints": 364.86,
+        "totalPoints": 445.86,
         "results": [
+          {
+            "name": "Tour Cycliste Féminin International de l'Ardèche - General classificationGeneral classification",
+            "date": "14 Sep 2025",
+            "points": 60,
+            "rank": 4
+          },
+          {
+            "name": "Tour Cycliste Féminin International de l'Ardèche - S6Stage 6 - Beauchastel › Privas",
+            "date": "14 Sep 2025",
+            "points": 5,
+            "rank": 5
+          },
+          {
+            "name": "Tour Cycliste Féminin International de l'Ardèche - S5Stage 5 - Mende › Le Mont Lozère",
+            "date": "13 Sep 2025",
+            "points": 16,
+            "rank": 1
+          },
           {
             "name": "Tour de l'Avenir Femmes - General classificationGeneral classification",
             "date": "29 Aug 2025",

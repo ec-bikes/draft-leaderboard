@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 September 2025 23:19 GMT",
+  "fetchedDate": "14 September 2025 23:19 GMT",
   "momentId": 193660,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 9877.71,
+    "totalPoints": 9957.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -437,8 +437,14 @@
         "id": 98571,
         "team": "UAD",
         "country": "nl",
-        "totalPoints": 1374,
+        "totalPoints": 1379,
         "results": [
+          {
+            "name": "Women's Cycling Grand Prix Stuttgart & Region",
+            "date": "14 Sep 2025",
+            "points": 5,
+            "rank": 19
+          },
           {
             "name": "Simac Ladies Tour - General classificationGeneral classification",
             "date": "7 Sep 2025",
@@ -807,8 +813,14 @@
         "id": 156600,
         "team": "CSZ",
         "country": "it",
-        "totalPoints": 1427,
+        "totalPoints": 1452,
         "results": [
+          {
+            "name": "Women's Cycling Grand Prix Stuttgart & Region",
+            "date": "14 Sep 2025",
+            "points": 25,
+            "rank": 12
+          },
           {
             "name": "Simac Ladies Tour - General classificationGeneral classification",
             "date": "7 Sep 2025",
@@ -1108,8 +1120,20 @@
         "id": 233425,
         "team": "VWT",
         "country": "nl",
-        "totalPoints": 349,
+        "totalPoints": 399,
         "results": [
+          {
+            "name": "La Choralis Fourmies Féminine",
+            "date": "14 Sep 2025",
+            "points": 25,
+            "rank": 12
+          },
+          {
+            "name": "A Travers les Hauts de France",
+            "date": "13 Sep 2025",
+            "points": 25,
+            "rank": 9
+          },
           {
             "name": "Simac Ladies Tour - General classificationGeneral classification",
             "date": "7 Sep 2025",

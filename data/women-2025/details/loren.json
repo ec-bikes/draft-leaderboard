@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 September 2025 23:19 GMT",
+  "fetchedDate": "14 September 2025 23:19 GMT",
   "momentId": 193660,
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women’s Cycling Team",
-    "totalPoints": 7353.58,
+    "totalPoints": 7502.58,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -609,8 +609,26 @@
         "id": 1897613,
         "team": "LIV",
         "country": "it",
-        "totalPoints": 940.29,
+        "totalPoints": 1089.29,
         "results": [
+          {
+            "name": "Tour Cycliste Féminin International de l'Ardèche - General classificationGeneral classification",
+            "date": "14 Sep 2025",
+            "points": 125,
+            "rank": 1
+          },
+          {
+            "name": "Tour Cycliste Féminin International de l'Ardèche - S6Stage 6 - Beauchastel › Privas",
+            "date": "14 Sep 2025",
+            "points": 16,
+            "rank": 1
+          },
+          {
+            "name": "Tour Cycliste Féminin International de l'Ardèche - S5Stage 5 - Mende › Le Mont Lozère",
+            "date": "13 Sep 2025",
+            "points": 8,
+            "rank": 3
+          },
           {
             "name": "Tour Cycliste Féminin International de l'Ardèche - S4 (ITT)Stage 4 (ITT) - Vals-les-Bains › Vals-les-Bains",
             "date": "12 Sep 2025",

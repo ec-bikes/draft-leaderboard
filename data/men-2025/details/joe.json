@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 September 2025 23:20 GMT",
+  "fetchedDate": "14 September 2025 23:20 GMT",
   "momentId": 193642,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 14310.3,
+    "totalPoints": 15120.3,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -168,8 +168,14 @@
         "id": 86895,
         "team": "LTK",
         "country": "dk",
-        "totalPoints": 4894.45,
+        "totalPoints": 5074.45,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - Points classificationPoints classification",
+            "date": "14 Sep 2025",
+            "points": 180,
+            "rank": 1
+          },
           {
             "name": "La Vuelta Ciclista a España - S19Stage 19 - Rueda › Guijuelo",
             "date": "12 Sep 2025",
@@ -461,8 +467,14 @@
         "id": 150923,
         "team": "UAD",
         "country": "us",
-        "totalPoints": 1273.57,
+        "totalPoints": 1773.57,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Montréal",
+            "date": "14 Sep 2025",
+            "points": 500,
+            "rank": 1
+          },
           {
             "name": "Grand Prix Cycliste de Québec",
             "date": "12 Sep 2025",
@@ -731,8 +743,14 @@
         "id": 462394,
         "team": "UAD",
         "country": "ch",
-        "totalPoints": 1212,
+        "totalPoints": 1217,
         "results": [
+          {
+            "name": "Memorial Marco Pantani",
+            "date": "13 Sep 2025",
+            "points": 5,
+            "rank": 13
+          },
           {
             "name": "Gran Premio città di Peccioli - Coppa Sabatini",
             "date": "11 Sep 2025",
@@ -1184,8 +1202,14 @@
         "id": 54679,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 779,
+        "totalPoints": 819,
         "results": [
+          {
+            "name": "Memorial Marco Pantani",
+            "date": "13 Sep 2025",
+            "points": 40,
+            "rank": 6
+          },
           {
             "name": "Gran Premio città di Peccioli - Coppa Sabatini",
             "date": "11 Sep 2025",
@@ -1411,8 +1435,14 @@
         "id": 86630,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 714,
+        "totalPoints": 799,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Montréal",
+            "date": "14 Sep 2025",
+            "points": 85,
+            "rank": 10
+          },
           {
             "name": "Grand Prix Cycliste de Québec",
             "date": "12 Sep 2025",

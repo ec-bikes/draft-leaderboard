@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 September 2025 23:19 GMT",
+  "fetchedDate": "14 September 2025 23:19 GMT",
   "momentId": 193660,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 7914.85,
+    "totalPoints": 8027.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
         "id": 86824,
         "team": "CSZ",
         "country": "pl",
-        "totalPoints": 1541.86,
+        "totalPoints": 1626.86,
         "results": [
+          {
+            "name": "Women's Cycling Grand Prix Stuttgart & Region",
+            "date": "14 Sep 2025",
+            "points": 85,
+            "rank": 5
+          },
           {
             "name": "Tour de France Femmes - General classificationGeneral classification",
             "date": "3 Aug 2025",
@@ -184,8 +190,14 @@
         "id": 107539,
         "team": "UAD",
         "country": "it",
-        "totalPoints": 843,
+        "totalPoints": 863,
         "results": [
+          {
+            "name": "Women's Cycling Grand Prix Stuttgart & Region",
+            "date": "14 Sep 2025",
+            "points": 20,
+            "rank": 13
+          },
           {
             "name": "Classic Lorient Agglomération - CERATIZIT",
             "date": "30 Aug 2025",
@@ -532,8 +544,20 @@
         "id": 459694,
         "team": "HPH",
         "country": "us",
-        "totalPoints": 829.14,
+        "totalPoints": 837.14,
         "results": [
+          {
+            "name": "La Choralis Fourmies Féminine",
+            "date": "14 Sep 2025",
+            "points": 5,
+            "rank": 19
+          },
+          {
+            "name": "A Travers les Hauts de France",
+            "date": "13 Sep 2025",
+            "points": 3,
+            "rank": 24
+          },
           {
             "name": "Simac Ladies Tour - General classificationGeneral classification",
             "date": "7 Sep 2025",

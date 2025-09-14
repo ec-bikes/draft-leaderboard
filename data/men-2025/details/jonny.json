@@ -1,20 +1,49 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "12 September 2025 23:20 GMT",
+  "fetchedDate": "14 September 2025 23:20 GMT",
   "momentId": 193642,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 14325.71,
+    "totalPoints": 16095.71,
     "riders": [
       {
         "name": "Jonas Vingegaard",
         "id": 112082,
         "team": "TVL",
         "country": "dk",
-        "totalPoints": 4384.14,
+        "totalPoints": 5944.14,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - Mountains classificationMountains classification",
+            "date": "14 Sep 2025",
+            "points": 130,
+            "rank": 2
+          },
+          {
+            "name": "La Vuelta Ciclista a España - Points classificationPoints classification",
+            "date": "14 Sep 2025",
+            "points": 130,
+            "rank": 2
+          },
+          {
+            "name": "La Vuelta Ciclista a España - General classificationGeneral classification",
+            "date": "14 Sep 2025",
+            "points": 1100,
+            "rank": 1
+          },
+          {
+            "name": "La Vuelta Ciclista a España - S20Stage 20 - Robledo de Chavela › Bola del Mundo. Puerto de Navacerrada",
+            "date": "13 Sep 2025",
+            "points": 180,
+            "rank": 1
+          },
+          {
+            "name": "La Vuelta Ciclista a España - S20Stage 20 - Robledo de Chavela › Bola del Mundo. Puerto de Navacerrada - Bonus",
+            "date": "13 Sep 2025",
+            "points": 20
+          },
           {
             "name": "La Vuelta Ciclista a España - S19Stage 19 - Rueda › Guijuelo - Bonus",
             "date": "12 Sep 2025",
@@ -302,8 +331,14 @@
         "id": 365033,
         "team": "LTK",
         "country": "dk",
-        "totalPoints": 1479.57,
+        "totalPoints": 1509.57,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Montréal",
+            "date": "14 Sep 2025",
+            "points": 30,
+            "rank": 17
+          },
           {
             "name": "Grand Prix Cycliste de Québec",
             "date": "12 Sep 2025",
@@ -506,8 +541,14 @@
         "id": 1710249,
         "team": "TPP",
         "country": "gb",
-        "totalPoints": 2827,
+        "totalPoints": 2857,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Montréal",
+            "date": "14 Sep 2025",
+            "points": 30,
+            "rank": 19
+          },
           {
             "name": "Tour of Britain Men - General classificationGeneral classification",
             "date": "7 Sep 2025",
@@ -731,8 +772,14 @@
         "id": 353375,
         "team": "TBV",
         "country": "co",
-        "totalPoints": 997.5,
+        "totalPoints": 1077.5,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - General classificationGeneral classification",
+            "date": "14 Sep 2025",
+            "points": 80,
+            "rank": 15
+          },
           {
             "name": "La Vuelta Ciclista a España - S15Stage 15 - A Veiga/Vegadeo › Monforte de Lemos",
             "date": "7 Sep 2025",
@@ -886,8 +933,14 @@
         "id": 91637,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 488,
+        "totalPoints": 523,
         "results": [
+          {
+            "name": "Grand Prix Cycliste de Montréal",
+            "date": "14 Sep 2025",
+            "points": 35,
+            "rank": 15
+          },
           {
             "name": "Grand Prix Cycliste de Québec",
             "date": "12 Sep 2025",
@@ -1030,8 +1083,14 @@
         "id": 144019,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 2006,
+        "totalPoints": 2021,
         "results": [
+          {
+            "name": "Trofeo Matteotti",
+            "date": "14 Sep 2025",
+            "points": 15,
+            "rank": 11
+          },
           {
             "name": "Gran Premio città di Peccioli - Coppa Sabatini",
             "date": "11 Sep 2025",
@@ -1206,8 +1265,14 @@
         "id": 308040,
         "team": "TBV",
         "country": "it",
-        "totalPoints": 1074.5,
+        "totalPoints": 1094.5,
         "results": [
+          {
+            "name": "La Vuelta Ciclista a España - General classificationGeneral classification",
+            "date": "14 Sep 2025",
+            "points": 20,
+            "rank": 41
+          },
           {
             "name": "La Vuelta Ciclista a España - S6Stage 6 - Olot › Pal. Andorra",
             "date": "28 Aug 2025",
