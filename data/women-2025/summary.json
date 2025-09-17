@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 September 2025 23:17 GMT",
+  "fetchedDate": "17 September 2025 23:20 GMT",
   "momentId": 193976,
   "teams": [
     {
@@ -85,7 +85,7 @@
     {
       "owner": "Abby Mickey",
       "name": "The Tortured Breakaway Department",
-      "totalPoints": 9957.71,
+      "totalPoints": 10042.71,
       "riders": [
         {
           "name": "Elisa Longo Borghini",
@@ -113,7 +113,7 @@
           "id": 98571,
           "team": "UAD",
           "country": "nl",
-          "totalPoints": 1379
+          "totalPoints": 1464
         },
         {
           "name": "Charlotte Kool",
@@ -163,7 +163,7 @@
     {
       "owner": "Gracie Elvin",
       "name": "Lamborghini p/b Tony's Chocolonely",
-      "totalPoints": 14348.57,
+      "totalPoints": 14433.57,
       "riders": [
         {
           "name": "Demi Vollering",
@@ -177,7 +177,7 @@
           "id": 101826,
           "team": "LTK",
           "country": "it",
-          "totalPoints": 2518
+          "totalPoints": 2588
         },
         {
           "name": "Chloe Dygert",
@@ -212,7 +212,7 @@
           "id": 217072,
           "team": "LTK",
           "country": "nz",
-          "totalPoints": 1261.14
+          "totalPoints": 1276.14
         },
         {
           "name": "Kim Cadzow",
@@ -319,7 +319,7 @@
     {
       "owner": "Georgie Howe",
       "name": "Specialized-Win-Collective Racing",
-      "totalPoints": 8027.85,
+      "totalPoints": 8030.85,
       "riders": [
         {
           "name": "Kasia Niewiadoma",
@@ -333,7 +333,7 @@
           "id": 107539,
           "team": "UAD",
           "country": "it",
-          "totalPoints": 863
+          "totalPoints": 866
         },
         {
           "name": "Antonia Niedermaier",
@@ -397,14 +397,14 @@
     {
       "owner": "Tils Raynolds",
       "name": "The Suffragettes Collective",
-      "totalPoints": 10618.14,
+      "totalPoints": 10681.14,
       "riders": [
         {
           "name": "Liane Lippert",
           "id": 140495,
           "team": "MOV",
           "country": "de",
-          "totalPoints": 1136.14
+          "totalPoints": 1196.14
         },
         {
           "name": "Anna van der Breggen",
@@ -460,7 +460,7 @@
           "id": 153363,
           "team": "LIV",
           "country": "it",
-          "totalPoints": 414.29
+          "totalPoints": 417.29
         },
         {
           "name": "Pauline Ferrand-Prévot",

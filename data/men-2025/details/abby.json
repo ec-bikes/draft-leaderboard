@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 September 2025 23:17 GMT",
+  "fetchedDate": "17 September 2025 23:20 GMT",
   "momentId": 193970,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 10350.58,
+    "totalPoints": 10480.58,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -160,8 +160,14 @@
         "id": 1707195,
         "team": "IWA",
         "country": "er",
-        "totalPoints": 1521,
+        "totalPoints": 1646,
         "results": [
+          {
+            "name": "Grand Prix de Wallonie",
+            "date": "17 Sep 2025",
+            "points": 125,
+            "rank": 3
+          },
           {
             "name": "Grand Prix Cycliste de Québec",
             "date": "12 Sep 2025",
@@ -453,8 +459,14 @@
         "id": 58528,
         "team": "IGD",
         "country": "pl",
-        "totalPoints": 172.5,
+        "totalPoints": 177.5,
         "results": [
+          {
+            "name": "Grand Prix de Wallonie",
+            "date": "17 Sep 2025",
+            "points": 5,
+            "rank": 16
+          },
           {
             "name": "La Vuelta Ciclista a España - S5 (TTT)Stage 5 (TTT) - Figueres › Figueres",
             "date": "27 Aug 2025",

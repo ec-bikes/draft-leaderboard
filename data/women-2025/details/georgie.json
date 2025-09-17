@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 September 2025 23:17 GMT",
+  "fetchedDate": "17 September 2025 23:20 GMT",
   "momentId": 193976,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 8027.85,
+    "totalPoints": 8030.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -190,8 +190,14 @@
         "id": 107539,
         "team": "UAD",
         "country": "it",
-        "totalPoints": 863,
+        "totalPoints": 866,
         "results": [
+          {
+            "name": "Grand Prix de Wallonie Dames",
+            "date": "17 Sep 2025",
+            "points": 3,
+            "rank": 24
+          },
           {
             "name": "Women's Cycling Grand Prix Stuttgart & Region",
             "date": "14 Sep 2025",

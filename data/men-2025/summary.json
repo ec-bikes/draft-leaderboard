@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 September 2025 23:17 GMT",
+  "fetchedDate": "17 September 2025 23:20 GMT",
   "momentId": 193970,
   "teams": [
     {
       "owner": "Kit Nicholson",
       "name": "Picnic-Letterboxd",
-      "totalPoints": 17073,
+      "totalPoints": 17148,
       "riders": [
         {
           "name": "Tadej Pogačar",
@@ -70,14 +70,14 @@
           "id": 422863,
           "team": "COF",
           "country": "es",
-          "totalPoints": 1102
+          "totalPoints": 1142
         },
         {
           "name": "Paul Lapeira",
           "id": 257361,
           "team": "DAT",
           "country": "fr",
-          "totalPoints": 483
+          "totalPoints": 518
         }
       ],
       "movement": 0
@@ -158,7 +158,7 @@
           "totalPoints": 1094.5
         }
       ],
-      "movement": 2
+      "movement": 1
     },
     {
       "owner": "Toms Skujiņš",
@@ -241,7 +241,7 @@
     {
       "owner": "Dane Cash",
       "name": "Visma-Lease a Bike-Monster Energy",
-      "totalPoints": 15930.86,
+      "totalPoints": 15955.86,
       "riders": [
         {
           "name": "Jasper Philipsen",
@@ -304,7 +304,7 @@
           "id": 1759422,
           "team": "GFC",
           "country": "fr",
-          "totalPoints": 1620
+          "totalPoints": 1645
         },
         {
           "name": "Stefan Küng",
@@ -319,7 +319,7 @@
     {
       "owner": "Abby Mickey",
       "name": "EF Education-Swift Nation",
-      "totalPoints": 10350.58,
+      "totalPoints": 10480.58,
       "riders": [
         {
           "name": "Wout van Aert",
@@ -333,7 +333,7 @@
           "id": 1707195,
           "team": "IWA",
           "country": "er",
-          "totalPoints": 1521
+          "totalPoints": 1646
         },
         {
           "name": "Maxim van Gils",
@@ -347,7 +347,7 @@
           "id": 58528,
           "team": "IGD",
           "country": "pl",
-          "totalPoints": 172.5
+          "totalPoints": 177.5
         },
         {
           "name": "Filippo Ganna",
@@ -470,7 +470,7 @@
           "totalPoints": 799
         }
       ],
-      "movement": -2
+      "movement": -1
     },
     {
       "owner": "Caley Fretz",
@@ -631,7 +631,7 @@
     {
       "owner": "Discord Undrafted",
       "name": "Team Movistar easyJet",
-      "totalPoints": 10792.81,
+      "totalPoints": 10909.81,
       "riders": [
         {
           "name": "Dylan Groenewegen",
@@ -680,7 +680,7 @@
           "id": 1759987,
           "team": "SOQ",
           "country": "fr",
-          "totalPoints": 1963
+          "totalPoints": 1980
         },
         {
           "name": "Mauro Schmid",
@@ -701,7 +701,7 @@
           "id": 407508,
           "team": "RBH",
           "country": "es",
-          "totalPoints": 384
+          "totalPoints": 484
         }
       ],
       "movement": 1

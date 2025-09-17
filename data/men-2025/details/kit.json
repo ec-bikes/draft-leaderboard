@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 September 2025 23:17 GMT",
+  "fetchedDate": "17 September 2025 23:20 GMT",
   "momentId": 193970,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 17073,
+    "totalPoints": 17148,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -923,8 +923,14 @@
         "id": 422863,
         "team": "COF",
         "country": "es",
-        "totalPoints": 1102,
+        "totalPoints": 1142,
         "results": [
+          {
+            "name": "Grand Prix de Wallonie",
+            "date": "17 Sep 2025",
+            "points": 40,
+            "rank": 9
+          },
           {
             "name": "Grand Prix Cycliste de Montréal",
             "date": "14 Sep 2025",
@@ -1106,8 +1112,14 @@
         "id": 257361,
         "team": "DAT",
         "country": "fr",
-        "totalPoints": 483,
+        "totalPoints": 518,
         "results": [
+          {
+            "name": "Grand Prix de Wallonie",
+            "date": "17 Sep 2025",
+            "points": 35,
+            "rank": 10
+          },
           {
             "name": "Grand Prix Cycliste de Québec",
             "date": "12 Sep 2025",

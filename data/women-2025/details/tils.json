@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 September 2025 23:17 GMT",
+  "fetchedDate": "17 September 2025 23:20 GMT",
   "momentId": 193976,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 10618.14,
+    "totalPoints": 10681.14,
     "riders": [
       {
         "name": "Liane Lippert",
         "id": 140495,
         "team": "MOV",
         "country": "de",
-        "totalPoints": 1136.14,
+        "totalPoints": 1196.14,
         "results": [
+          {
+            "name": "Grand Prix de Wallonie Dames",
+            "date": "17 Sep 2025",
+            "points": 60,
+            "rank": 4
+          },
           {
             "name": "Women's Cycling Grand Prix Stuttgart & Region",
             "date": "14 Sep 2025",
@@ -997,8 +1003,14 @@
         "id": 153363,
         "team": "LIV",
         "country": "it",
-        "totalPoints": 414.29,
+        "totalPoints": 417.29,
         "results": [
+          {
+            "name": "Grand Prix de Wallonie Dames",
+            "date": "17 Sep 2025",
+            "points": 3,
+            "rank": 22
+          },
           {
             "name": "Women's Cycling Grand Prix Stuttgart & Region",
             "date": "14 Sep 2025",

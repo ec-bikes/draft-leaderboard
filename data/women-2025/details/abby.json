@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 September 2025 23:17 GMT",
+  "fetchedDate": "17 September 2025 23:20 GMT",
   "momentId": 193976,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 9957.71,
+    "totalPoints": 10042.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -437,8 +437,14 @@
         "id": 98571,
         "team": "UAD",
         "country": "nl",
-        "totalPoints": 1379,
+        "totalPoints": 1464,
         "results": [
+          {
+            "name": "Grand Prix de Wallonie Dames",
+            "date": "17 Sep 2025",
+            "points": 85,
+            "rank": 2
+          },
           {
             "name": "Women's Cycling Grand Prix Stuttgart & Region",
             "date": "14 Sep 2025",

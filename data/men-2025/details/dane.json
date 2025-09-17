@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 September 2025 23:17 GMT",
+  "fetchedDate": "17 September 2025 23:20 GMT",
   "momentId": 193970,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 15930.86,
+    "totalPoints": 15955.86,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -1088,8 +1088,19 @@
         "id": 1759422,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 1620,
+        "totalPoints": 1645,
         "results": [
+          {
+            "name": "Skoda Tour de Luxembourg - S1Stage 1 - Luxembourg › Luxembourg",
+            "date": "17 Sep 2025",
+            "points": 20,
+            "rank": 1
+          },
+          {
+            "name": "Skoda Tour de Luxembourg - S1Stage 1 - Luxembourg › Luxembourg - Bonus",
+            "date": "17 Sep 2025",
+            "points": 5
+          },
           {
             "name": "Tour of Britain Men - General classificationGeneral classification",
             "date": "7 Sep 2025",

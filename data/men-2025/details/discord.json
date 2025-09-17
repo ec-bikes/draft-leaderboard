@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 September 2025 23:17 GMT",
+  "fetchedDate": "17 September 2025 23:20 GMT",
   "momentId": 193970,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 10792.81,
+    "totalPoints": 10909.81,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -662,8 +662,19 @@
         "id": 1759987,
         "team": "SOQ",
         "country": "fr",
-        "totalPoints": 1963,
+        "totalPoints": 1980,
         "results": [
+          {
+            "name": "Okolo Slovenska / Tour de Slovaquie - S1Stage 1 - Bardejov › Bardejov",
+            "date": "17 Sep 2025",
+            "points": 14,
+            "rank": 1
+          },
+          {
+            "name": "Okolo Slovenska / Tour de Slovaquie - S1Stage 1 - Bardejov › Bardejov - Bonus",
+            "date": "17 Sep 2025",
+            "points": 3
+          },
           {
             "name": "GP de Fourmies / La Voix du Nord",
             "date": "14 Sep 2025",
@@ -1065,8 +1076,14 @@
         "id": 407508,
         "team": "RBH",
         "country": "es",
-        "totalPoints": 384,
+        "totalPoints": 484,
         "results": [
+          {
+            "name": "Grand Prix de Wallonie",
+            "date": "17 Sep 2025",
+            "points": 100,
+            "rank": 4
+          },
           {
             "name": "Grand Prix Cycliste de Québec",
             "date": "12 Sep 2025",

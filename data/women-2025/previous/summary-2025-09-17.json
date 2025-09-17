@@ -1,20 +1,20 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 August 2025 23:22 GMT",
-  "momentId": 192919,
+  "fetchedDate": "17 September 2025 23:20 GMT",
+  "momentId": 193976,
   "teams": [
     {
       "owner": "Loren Rowney",
       "name": "Super Lekker Pro Potato Women’s Cycling Team",
-      "totalPoints": 7145.58,
+      "totalPoints": 7502.58,
       "riders": [
         {
           "name": "Lotte Kopecky",
           "id": 73504,
           "team": "SDW",
           "country": "be",
-          "totalPoints": 1165
+          "totalPoints": 1184
         },
         {
           "name": "Cecilie Uttrup Ludwig",
@@ -35,14 +35,14 @@
           "id": 2202121,
           "team": "AGS",
           "country": "be",
-          "totalPoints": 709
+          "totalPoints": 757
         },
         {
           "name": "Silke Smulders",
           "id": 231378,
           "team": "LIV",
           "country": "nl",
-          "totalPoints": 800
+          "totalPoints": 832
         },
         {
           "name": "Daria Pikulik",
@@ -56,28 +56,28 @@
           "id": 2096868,
           "team": "AGS",
           "country": "be",
-          "totalPoints": 66
+          "totalPoints": 81
         },
         {
           "name": "Monica Trinca Colonel",
           "id": 1897613,
           "team": "LIV",
           "country": "it",
-          "totalPoints": 932.29
+          "totalPoints": 1089.29
         },
         {
           "name": "Clara Copponi",
           "id": 153287,
           "team": "LTK",
           "country": "fr",
-          "totalPoints": 756
+          "totalPoints": 826
         },
         {
           "name": "Georgia Baker",
           "id": 78086,
           "team": "LIV",
           "country": "au",
-          "totalPoints": 529.29
+          "totalPoints": 545.29
         }
       ],
       "movement": 0
@@ -85,35 +85,35 @@
     {
       "owner": "Abby Mickey",
       "name": "The Tortured Breakaway Department",
-      "totalPoints": 9007.71,
+      "totalPoints": 10042.71,
       "riders": [
         {
           "name": "Elisa Longo Borghini",
           "id": 76149,
           "team": "UAD",
           "country": "it",
-          "totalPoints": 2447
+          "totalPoints": 2588
         },
         {
           "name": "Marianne Vos",
           "id": 31144,
           "team": "TVL",
           "country": "nl",
-          "totalPoints": 1362.86
+          "totalPoints": 1682.86
         },
         {
           "name": "Pfeiffer Georgi",
           "id": 153350,
           "team": "TPP",
           "country": "gb",
-          "totalPoints": 427.57
+          "totalPoints": 572.57
         },
         {
           "name": "Karlijn Swinkels",
           "id": 98571,
           "team": "UAD",
           "country": "nl",
-          "totalPoints": 1256
+          "totalPoints": 1464
         },
         {
           "name": "Charlotte Kool",
@@ -127,21 +127,21 @@
           "id": 237690,
           "team": "LTK",
           "country": "gb",
-          "totalPoints": 599.14
+          "totalPoints": 602.14
         },
         {
           "name": "Chiara Consonni",
           "id": 156600,
           "team": "CSZ",
           "country": "it",
-          "totalPoints": 1354
+          "totalPoints": 1452
         },
         {
           "name": "Shirin van Anrooij",
           "id": 228375,
           "team": "LTK",
           "country": "nl",
-          "totalPoints": 240.14
+          "totalPoints": 289.14
         },
         {
           "name": "Ingvild Gåskjenn",
@@ -155,7 +155,7 @@
           "id": 233425,
           "team": "VWT",
           "country": "nl",
-          "totalPoints": 328
+          "totalPoints": 399
         }
       ],
       "movement": 0
@@ -163,7 +163,7 @@
     {
       "owner": "Gracie Elvin",
       "name": "Lamborghini p/b Tony's Chocolonely",
-      "totalPoints": 12517.57,
+      "totalPoints": 14433.57,
       "riders": [
         {
           "name": "Demi Vollering",
@@ -177,21 +177,21 @@
           "id": 101826,
           "team": "LTK",
           "country": "it",
-          "totalPoints": 2063
+          "totalPoints": 2588
         },
         {
           "name": "Chloe Dygert",
           "id": 109716,
           "team": "CSZ",
           "country": "us",
-          "totalPoints": 741.86
+          "totalPoints": 881.86
         },
         {
           "name": "Mischa Bredewold",
           "id": 227721,
           "team": "SDW",
           "country": "nl",
-          "totalPoints": 1250.71
+          "totalPoints": 1756.71
         },
         {
           "name": "Maike van der Duin",
@@ -205,14 +205,14 @@
           "id": 1750054,
           "team": "EFO",
           "country": "fr",
-          "totalPoints": 1064.43
+          "totalPoints": 1244.43
         },
         {
           "name": "Niamh Fisher-Black",
           "id": 217072,
           "team": "LTK",
           "country": "nz",
-          "totalPoints": 1261.14
+          "totalPoints": 1276.14
         },
         {
           "name": "Kim Cadzow",
@@ -226,14 +226,14 @@
           "id": 1638135,
           "team": "TFS",
           "country": "ch",
-          "totalPoints": 1277
+          "totalPoints": 1707
         },
         {
           "name": "Kathrin Schweinberger",
           "id": 98622,
           "team": "HPH",
           "country": "at",
-          "totalPoints": 700
+          "totalPoints": 820
         }
       ],
       "movement": 0
@@ -241,21 +241,21 @@
     {
       "owner": "Tilda Price",
       "name": "Santa Cruz-Shimano",
-      "totalPoints": 10046.72,
+      "totalPoints": 11295.72,
       "riders": [
         {
           "name": "Lorena Wiebes",
           "id": 141733,
           "team": "SDW",
           "country": "nl",
-          "totalPoints": 3178
+          "totalPoints": 4201
         },
         {
           "name": "Evita Muzic",
           "id": 109412,
           "team": "TFS",
           "country": "fr",
-          "totalPoints": 650.57
+          "totalPoints": 687.57
         },
         {
           "name": "Puck Pieterse",
@@ -283,7 +283,7 @@
           "id": 1742562,
           "team": "TVL",
           "country": "fr",
-          "totalPoints": 338.86
+          "totalPoints": 445.86
         },
         {
           "name": "Sofie van Rooijen",
@@ -297,21 +297,21 @@
           "id": 96399,
           "team": "SDW",
           "country": "pl",
-          "totalPoints": 585
+          "totalPoints": 593
         },
         {
           "name": "Mavi Garcia",
           "id": 398547,
           "team": "LIV",
           "country": "es",
-          "totalPoints": 814.29
+          "totalPoints": 838.29
         },
         {
           "name": "Blanka Vas",
           "id": 236562,
           "team": "SDW",
           "country": "hu",
-          "totalPoints": 436
+          "totalPoints": 486
         }
       ],
       "movement": 0
@@ -319,21 +319,21 @@
     {
       "owner": "Georgie Howe",
       "name": "Specialized-Win-Collective Racing",
-      "totalPoints": 7506.85,
+      "totalPoints": 8030.85,
       "riders": [
         {
           "name": "Kasia Niewiadoma",
           "id": 86824,
           "team": "CSZ",
           "country": "pl",
-          "totalPoints": 1541.86
+          "totalPoints": 1626.86
         },
         {
           "name": "Silvia Persico",
           "id": 107539,
           "team": "UAD",
           "country": "it",
-          "totalPoints": 827
+          "totalPoints": 866
         },
         {
           "name": "Antonia Niedermaier",
@@ -354,42 +354,42 @@
           "id": 106168,
           "team": "UAD",
           "country": "au",
-          "totalPoints": 197
+          "totalPoints": 200
         },
         {
           "name": "Lily Williams",
           "id": 459694,
           "team": "HPH",
           "country": "us",
-          "totalPoints": 694.14
+          "totalPoints": 837.14
         },
         {
           "name": "Juliette Labous",
           "id": 97498,
           "team": "TFS",
           "country": "fr",
-          "totalPoints": 1490.57
+          "totalPoints": 1678.57
         },
         {
           "name": "Lucinda Brand",
           "id": 66056,
           "team": "LTK",
           "country": "nl",
-          "totalPoints": 33
+          "totalPoints": 57
         },
         {
           "name": "Sarah van Dam",
           "id": 488553,
           "team": "CTC",
           "country": "ca",
-          "totalPoints": 1029
+          "totalPoints": 1037
         },
         {
           "name": "Riejanne Markus",
           "id": 86854,
           "team": "LTK",
           "country": "nl",
-          "totalPoints": 435.14
+          "totalPoints": 469.14
         }
       ],
       "movement": 0
@@ -397,14 +397,14 @@
     {
       "owner": "Tils Raynolds",
       "name": "The Suffragettes Collective",
-      "totalPoints": 10145.14,
+      "totalPoints": 10681.14,
       "riders": [
         {
           "name": "Liane Lippert",
           "id": 140495,
           "team": "MOV",
           "country": "de",
-          "totalPoints": 1052.14
+          "totalPoints": 1196.14
         },
         {
           "name": "Anna van der Breggen",
@@ -425,7 +425,7 @@
           "id": 220562,
           "team": "TFS",
           "country": "nz",
-          "totalPoints": 1555.57
+          "totalPoints": 1607.57
         },
         {
           "name": "Neve Bradbury",
@@ -439,7 +439,7 @@
           "id": 2317617,
           "team": "MOV",
           "country": "gb",
-          "totalPoints": 1029.14
+          "totalPoints": 1296.14
         },
         {
           "name": "Gaia Realini",
@@ -460,14 +460,14 @@
           "id": 153363,
           "team": "LIV",
           "country": "it",
-          "totalPoints": 368.29
+          "totalPoints": 417.29
         },
         {
           "name": "Pauline Ferrand-Prévot",
           "id": 66298,
           "team": "TVL",
           "country": "fr",
-          "totalPoints": 1721.86
+          "totalPoints": 1745.86
         }
       ],
       "movement": 0

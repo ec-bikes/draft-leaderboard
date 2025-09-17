@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 September 2025 23:17 GMT",
+  "fetchedDate": "17 September 2025 23:20 GMT",
   "momentId": 193976,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 14348.57,
+    "totalPoints": 14433.57,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -250,8 +250,14 @@
         "id": 101826,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 2518,
+        "totalPoints": 2588,
         "results": [
+          {
+            "name": "Grand Prix de Wallonie Dames",
+            "date": "17 Sep 2025",
+            "points": 70,
+            "rank": 3
+          },
           {
             "name": "Simac Ladies Tour - General classificationGeneral classification",
             "date": "7 Sep 2025",
@@ -874,8 +880,14 @@
         "id": 217072,
         "team": "LTK",
         "country": "nz",
-        "totalPoints": 1261.14,
+        "totalPoints": 1276.14,
         "results": [
+          {
+            "name": "Grand Prix de Wallonie Dames",
+            "date": "17 Sep 2025",
+            "points": 15,
+            "rank": 11
+          },
           {
             "name": "Tour de France Femmes - General classificationGeneral classification",
             "date": "3 Aug 2025",
