@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "17 September 2025 23:20 GMT",
+  "fetchedDate": "18 September 2025 23:21 GMT",
   "momentId": 193970,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 10909.81,
+    "totalPoints": 10926.81,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -662,8 +662,19 @@
         "id": 1759987,
         "team": "SOQ",
         "country": "fr",
-        "totalPoints": 1980,
+        "totalPoints": 1997,
         "results": [
+          {
+            "name": "Okolo Slovenska / Tour de Slovaquie - S2Stage 2 - Svidník › Košice",
+            "date": "18 Sep 2025",
+            "points": 14,
+            "rank": 1
+          },
+          {
+            "name": "Okolo Slovenska / Tour de Slovaquie - S2Stage 2 - Svidník › Košice - Bonus",
+            "date": "18 Sep 2025",
+            "points": 3
+          },
           {
             "name": "Okolo Slovenska / Tour de Slovaquie - S1Stage 1 - Bardejov › Bardejov",
             "date": "17 Sep 2025",
