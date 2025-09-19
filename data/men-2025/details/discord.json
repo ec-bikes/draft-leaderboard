@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 September 2025 23:21 GMT",
+  "fetchedDate": "19 September 2025 23:20 GMT",
   "momentId": 193970,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 10926.81,
+    "totalPoints": 11028.81,
     "riders": [
       {
         "name": "Dylan Groenewegen",
         "id": 72932,
         "team": "JAY",
         "country": "nl",
-        "totalPoints": 525,
+        "totalPoints": 610,
         "results": [
+          {
+            "name": "Kampioenschap van Vlaanderen",
+            "date": "19 Sep 2025",
+            "points": 85,
+            "rank": 2
+          },
           {
             "name": "GP de Fourmies / La Voix du Nord",
             "date": "14 Sep 2025",
@@ -662,8 +668,19 @@
         "id": 1759987,
         "team": "SOQ",
         "country": "fr",
-        "totalPoints": 1997,
+        "totalPoints": 2014,
         "results": [
+          {
+            "name": "Okolo Slovenska / Tour de Slovaquie - S3Stage 3 - Kežmarok › Banská Bystrica",
+            "date": "19 Sep 2025",
+            "points": 14,
+            "rank": 1
+          },
+          {
+            "name": "Okolo Slovenska / Tour de Slovaquie - S3Stage 3 - Kežmarok › Banská Bystrica - Bonus",
+            "date": "19 Sep 2025",
+            "points": 3
+          },
           {
             "name": "Okolo Slovenska / Tour de Slovaquie - S2Stage 2 - Svidník › Košice",
             "date": "18 Sep 2025",

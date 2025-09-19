@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 September 2025 23:21 GMT",
+  "fetchedDate": "19 September 2025 23:20 GMT",
   "momentId": 193970,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 12326.13,
+    "totalPoints": 12396.13,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -188,8 +188,14 @@
         "id": 70962,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 1767.29,
+        "totalPoints": 1837.29,
         "results": [
+          {
+            "name": "Kampioenschap van Vlaanderen",
+            "date": "19 Sep 2025",
+            "points": 70,
+            "rank": 3
+          },
           {
             "name": "Renewi Tour - S4Stage 4 - Riemst › Bilzen-Hoeselt",
             "date": "23 Aug 2025",

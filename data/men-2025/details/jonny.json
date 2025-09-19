@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 September 2025 23:21 GMT",
+  "fetchedDate": "19 September 2025 23:20 GMT",
   "momentId": 193970,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 16095.71,
+    "totalPoints": 16120.71,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -331,8 +331,19 @@
         "id": 365033,
         "team": "LTK",
         "country": "dk",
-        "totalPoints": 1509.57,
+        "totalPoints": 1534.57,
         "results": [
+          {
+            "name": "Skoda Tour de Luxembourg - S3Stage 3 - Mertert › Vianden",
+            "date": "19 Sep 2025",
+            "points": 20,
+            "rank": 1
+          },
+          {
+            "name": "Skoda Tour de Luxembourg - S3Stage 3 - Mertert › Vianden - Bonus",
+            "date": "19 Sep 2025",
+            "points": 5
+          },
           {
             "name": "Grand Prix Cycliste de Montréal",
             "date": "14 Sep 2025",

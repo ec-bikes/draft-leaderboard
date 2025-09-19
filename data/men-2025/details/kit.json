@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 September 2025 23:21 GMT",
+  "fetchedDate": "19 September 2025 23:20 GMT",
   "momentId": 193970,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 17148,
+    "totalPoints": 17151,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -575,8 +575,14 @@
         "id": 148901,
         "team": "RBH",
         "country": "be",
-        "totalPoints": 765,
+        "totalPoints": 768,
         "results": [
+          {
+            "name": "Kampioenschap van Vlaanderen",
+            "date": "19 Sep 2025",
+            "points": 3,
+            "rank": 18
+          },
           {
             "name": "Lidl Deutschland Tour - S4Stage 4 - Halle (Saale) › Magdeburg",
             "date": "24 Aug 2025",
