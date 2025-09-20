@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 September 2025 23:20 GMT",
+  "fetchedDate": "20 September 2025 23:20 GMT",
   "momentId": 193970,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 11028.81,
+    "totalPoints": 11055.81,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -222,8 +222,14 @@
         "id": 235075,
         "team": "EFE",
         "country": "ie",
-        "totalPoints": 2044,
+        "totalPoints": 2054,
         "results": [
+          {
+            "name": "Skoda Tour de Luxembourg - S4 (ITT)Stage 4 (ITT) - Niederanven › Niederanven",
+            "date": "20 Sep 2025",
+            "points": 10,
+            "rank": 3
+          },
           {
             "name": "Tour de France - General classificationGeneral classification",
             "date": "27 Jul 2025",
@@ -668,8 +674,19 @@
         "id": 1759987,
         "team": "SOQ",
         "country": "fr",
-        "totalPoints": 2014,
+        "totalPoints": 2031,
         "results": [
+          {
+            "name": "Okolo Slovenska / Tour de Slovaquie - S4Stage 4 - Vráble › Sládkovičovo",
+            "date": "20 Sep 2025",
+            "points": 14,
+            "rank": 1
+          },
+          {
+            "name": "Okolo Slovenska / Tour de Slovaquie - S4Stage 4 - Vráble › Sládkovičovo - Bonus",
+            "date": "20 Sep 2025",
+            "points": 3
+          },
           {
             "name": "Okolo Slovenska / Tour de Slovaquie - S3Stage 3 - Kežmarok › Banská Bystrica",
             "date": "19 Sep 2025",

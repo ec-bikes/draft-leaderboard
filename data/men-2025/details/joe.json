@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 September 2025 23:20 GMT",
+  "fetchedDate": "20 September 2025 23:20 GMT",
   "momentId": 193970,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 15130.3,
+    "totalPoints": 15150.3,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -467,8 +467,19 @@
         "id": 150923,
         "team": "UAD",
         "country": "us",
-        "totalPoints": 1783.57,
+        "totalPoints": 1803.57,
         "results": [
+          {
+            "name": "Skoda Tour de Luxembourg - S4 (ITT)Stage 4 (ITT) - Niederanven › Niederanven",
+            "date": "20 Sep 2025",
+            "points": 15,
+            "rank": 2
+          },
+          {
+            "name": "Skoda Tour de Luxembourg - S4 (ITT)Stage 4 (ITT) - Niederanven › Niederanven - Bonus",
+            "date": "20 Sep 2025",
+            "points": 5
+          },
           {
             "name": "Skoda Tour de Luxembourg - S3Stage 3 - Mertert › Vianden",
             "date": "19 Sep 2025",

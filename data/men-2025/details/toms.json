@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "19 September 2025 23:20 GMT",
+  "fetchedDate": "20 September 2025 23:20 GMT",
   "momentId": 193970,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 12396.13,
+    "totalPoints": 12421.13,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -975,8 +975,14 @@
         "id": 472995,
         "team": "LTK",
         "country": "cz",
-        "totalPoints": 631.86,
+        "totalPoints": 656.86,
         "results": [
+          {
+            "name": "SUPER 8 Classic",
+            "date": "20 Sep 2025",
+            "points": 25,
+            "rank": 12
+          },
           {
             "name": "Renewi Tour - General classificationGeneral classification",
             "date": "24 Aug 2025",
