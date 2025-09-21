@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 September 2025 23:20 GMT",
+  "fetchedDate": "21 September 2025 23:21 GMT",
   "momentId": 193970,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 15150.3,
+    "totalPoints": 15358.3,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -467,8 +467,20 @@
         "id": 150923,
         "team": "UAD",
         "country": "us",
-        "totalPoints": 1803.57,
+        "totalPoints": 2008.57,
         "results": [
+          {
+            "name": "Skoda Tour de Luxembourg - General classificationGeneral classification",
+            "date": "21 Sep 2025",
+            "points": 200,
+            "rank": 1
+          },
+          {
+            "name": "Skoda Tour de Luxembourg - S5Stage 5 - Mersch › Luxembourg",
+            "date": "21 Sep 2025",
+            "points": 5,
+            "rank": 4
+          },
           {
             "name": "Skoda Tour de Luxembourg - S4 (ITT)Stage 4 (ITT) - Niederanven › Niederanven",
             "date": "20 Sep 2025",
@@ -1219,8 +1231,14 @@
         "id": 54679,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 819,
+        "totalPoints": 822,
         "results": [
+          {
+            "name": "Giro della Romagna",
+            "date": "21 Sep 2025",
+            "points": 3,
+            "rank": 17
+          },
           {
             "name": "Memorial Marco Pantani",
             "date": "13 Sep 2025",

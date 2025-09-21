@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 September 2025 23:20 GMT",
+  "fetchedDate": "21 September 2025 23:21 GMT",
   "momentId": 193970,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 17276,
+    "totalPoints": 17719,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "team": "UAD",
         "country": "si",
-        "totalPoints": 9335,
+        "totalPoints": 9530,
         "results": [
+          {
+            "name": "World Championships ME - ITT",
+            "date": "21 Sep 2025",
+            "points": 195,
+            "rank": 4
+          },
           {
             "name": "Grand Prix Cycliste de Montréal",
             "date": "14 Sep 2025",
@@ -401,8 +407,14 @@
         "id": 68892,
         "team": "LTK",
         "country": "lv",
-        "totalPoints": 421,
+        "totalPoints": 481,
         "results": [
+          {
+            "name": "Skoda Tour de Luxembourg - General classificationGeneral classification",
+            "date": "21 Sep 2025",
+            "points": 60,
+            "rank": 7
+          },
           {
             "name": "Renewi Tour - General classificationGeneral classification",
             "date": "24 Aug 2025",
@@ -575,8 +587,14 @@
         "id": 148901,
         "team": "RBH",
         "country": "be",
-        "totalPoints": 893,
+        "totalPoints": 953,
         "results": [
+          {
+            "name": "Gooikse Pijl",
+            "date": "21 Sep 2025",
+            "points": 60,
+            "rank": 4
+          },
           {
             "name": "SUPER 8 Classic",
             "date": "20 Sep 2025",
@@ -767,8 +785,20 @@
         "id": 91656,
         "team": "EFE",
         "country": "ec",
-        "totalPoints": 1649,
+        "totalPoints": 1777,
         "results": [
+          {
+            "name": "Skoda Tour de Luxembourg - General classificationGeneral classification",
+            "date": "21 Sep 2025",
+            "points": 125,
+            "rank": 3
+          },
+          {
+            "name": "Skoda Tour de Luxembourg - S5Stage 5 - Mersch › Luxembourg",
+            "date": "21 Sep 2025",
+            "points": 3,
+            "rank": 5
+          },
           {
             "name": "Memorial Marco Pantani",
             "date": "13 Sep 2025",

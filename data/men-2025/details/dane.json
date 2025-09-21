@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 September 2025 23:20 GMT",
+  "fetchedDate": "21 September 2025 23:21 GMT",
   "momentId": 193970,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 15965.86,
+    "totalPoints": 16095.86,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -654,8 +654,14 @@
         "id": 96372,
         "team": "UAD",
         "country": "ec",
-        "totalPoints": 1259.14,
+        "totalPoints": 1299.14,
         "results": [
+          {
+            "name": "Skoda Tour de Luxembourg - General classificationGeneral classification",
+            "date": "21 Sep 2025",
+            "points": 40,
+            "rank": 9
+          },
           {
             "name": "Skoda Tour de Luxembourg - S3Stage 3 - Mertert › Vianden",
             "date": "19 Sep 2025",
@@ -1094,8 +1100,20 @@
         "id": 1759422,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 1650,
+        "totalPoints": 1675,
         "results": [
+          {
+            "name": "Skoda Tour de Luxembourg - General classificationGeneral classification",
+            "date": "21 Sep 2025",
+            "points": 5,
+            "rank": 18
+          },
+          {
+            "name": "Skoda Tour de Luxembourg - S5Stage 5 - Mersch › Luxembourg",
+            "date": "21 Sep 2025",
+            "points": 20,
+            "rank": 1
+          },
           {
             "name": "Skoda Tour de Luxembourg - S2Stage 2 - Remich › Mamer - Bonus",
             "date": "18 Sep 2025",
@@ -1329,8 +1347,14 @@
         "id": 74994,
         "team": "GFC",
         "country": "ch",
-        "totalPoints": 557.29,
+        "totalPoints": 622.29,
         "results": [
+          {
+            "name": "World Championships ME - ITT",
+            "date": "21 Sep 2025",
+            "points": 65,
+            "rank": 10
+          },
           {
             "name": "La Vuelta Ciclista a España - S18 (ITT)Stage 18 (ITT) - Valladolid › Valladolid",
             "date": "11 Sep 2025",

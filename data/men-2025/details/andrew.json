@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 September 2025 23:20 GMT",
+  "fetchedDate": "21 September 2025 23:21 GMT",
   "momentId": 193970,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 15190.28,
+    "totalPoints": 15315.28,
     "riders": [
       {
         "name": "Adam Yates",
@@ -400,8 +400,14 @@
         "id": 227110,
         "team": "TVL",
         "country": "nl",
-        "totalPoints": 1985,
+        "totalPoints": 2110,
         "results": [
+          {
+            "name": "Grand Prix d'Isbergues - Pas de Calais",
+            "date": "21 Sep 2025",
+            "points": 125,
+            "rank": 1
+          },
           {
             "name": "Tour of Britain Men - S6Stage 6 - Newport › Cardiff",
             "date": "7 Sep 2025",

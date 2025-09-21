@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 September 2025 23:20 GMT",
+  "fetchedDate": "21 September 2025 23:20 GMT",
   "momentId": 193976,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 8030.85,
+    "totalPoints": 8385.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
         "id": 86824,
         "team": "CSZ",
         "country": "pl",
-        "totalPoints": 1626.86,
+        "totalPoints": 1646.86,
         "results": [
+          {
+            "name": "World Championships WE - ITT",
+            "date": "21 Sep 2025",
+            "points": 20,
+            "rank": 14
+          },
           {
             "name": "Women's Cycling Grand Prix Stuttgart & Region",
             "date": "14 Sep 2025",
@@ -301,8 +307,14 @@
         "id": 2188959,
         "team": "CSZ",
         "country": "de",
-        "totalPoints": 670,
+        "totalPoints": 770,
         "results": [
+          {
+            "name": "World Championships WE - ITT",
+            "date": "21 Sep 2025",
+            "points": 100,
+            "rank": 6
+          },
           {
             "name": "Giro d'Italia Women - General classificationGeneral classification",
             "date": "13 Jul 2025",
@@ -481,8 +493,14 @@
         "id": 106168,
         "team": "UAD",
         "country": "au",
-        "totalPoints": 200,
+        "totalPoints": 350,
         "results": [
+          {
+            "name": "World Championships WE - ITT",
+            "date": "21 Sep 2025",
+            "points": 150,
+            "rank": 4
+          },
           {
             "name": "Kreiz Breizh Elites Féminin",
             "date": "28 Aug 2025",
@@ -721,8 +739,14 @@
         "id": 97498,
         "team": "TFS",
         "country": "fr",
-        "totalPoints": 1678.57,
+        "totalPoints": 1763.57,
         "results": [
+          {
+            "name": "World Championships WE - ITT",
+            "date": "21 Sep 2025",
+            "points": 85,
+            "rank": 7
+          },
           {
             "name": "Classic Lorient Agglomération - CERATIZIT",
             "date": "30 Aug 2025",

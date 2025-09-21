@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "20 September 2025 23:20 GMT",
+  "fetchedDate": "21 September 2025 23:21 GMT",
   "momentId": 193970,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 16125.71,
+    "totalPoints": 16400.71,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -331,8 +331,14 @@
         "id": 365033,
         "team": "LTK",
         "country": "dk",
-        "totalPoints": 1534.57,
+        "totalPoints": 1684.57,
         "results": [
+          {
+            "name": "Skoda Tour de Luxembourg - General classificationGeneral classification",
+            "date": "21 Sep 2025",
+            "points": 150,
+            "rank": 2
+          },
           {
             "name": "Skoda Tour de Luxembourg - S3Stage 3 - Mertert › Vianden",
             "date": "19 Sep 2025",
@@ -1100,8 +1106,14 @@
         "id": 144019,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 2021,
+        "totalPoints": 2146,
         "results": [
+          {
+            "name": "Giro della Romagna",
+            "date": "21 Sep 2025",
+            "points": 125,
+            "rank": 1
+          },
           {
             "name": "Trofeo Matteotti",
             "date": "14 Sep 2025",
