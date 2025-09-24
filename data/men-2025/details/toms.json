@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 September 2025 23:20 GMT",
+  "fetchedDate": "24 September 2025 23:21 GMT",
   "momentId": 194022,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 12906.13,
+    "totalPoints": 13071.13,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -194,8 +194,14 @@
         "id": 70962,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 1837.29,
+        "totalPoints": 1962.29,
         "results": [
+          {
+            "name": "Omloop van het Houtland",
+            "date": "24 Sep 2025",
+            "points": 125,
+            "rank": 1
+          },
           {
             "name": "Kampioenschap van Vlaanderen",
             "date": "19 Sep 2025",
@@ -1090,8 +1096,14 @@
         "id": 1714193,
         "team": "COF",
         "country": "be",
-        "totalPoints": 1085,
+        "totalPoints": 1125,
         "results": [
+          {
+            "name": "Omloop van het Houtland",
+            "date": "24 Sep 2025",
+            "points": 40,
+            "rank": 6
+          },
           {
             "name": "Gooikse Pijl",
             "date": "21 Sep 2025",

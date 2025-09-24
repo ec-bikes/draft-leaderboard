@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 September 2025 23:20 GMT",
+  "fetchedDate": "24 September 2025 23:21 GMT",
   "momentId": 194022,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 15358.3,
+    "totalPoints": 15424.97,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -772,8 +772,14 @@
         "id": 462394,
         "team": "UAD",
         "country": "ch",
-        "totalPoints": 1217,
+        "totalPoints": 1283.67,
         "results": [
+          {
+            "name": "World Championships - Mixed Relay TTT",
+            "date": "24 Sep 2025",
+            "points": 66.67,
+            "rank": 3
+          },
           {
             "name": "Memorial Marco Pantani",
             "date": "13 Sep 2025",

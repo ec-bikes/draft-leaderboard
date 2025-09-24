@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 September 2025 23:20 GMT",
+  "fetchedDate": "24 September 2025 23:21 GMT",
   "momentId": 194022,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 11225.81,
+    "totalPoints": 11295.48,
     "riders": [
       {
         "name": "Dylan Groenewegen",
         "id": 72932,
         "team": "JAY",
         "country": "nl",
-        "totalPoints": 695,
+        "totalPoints": 698,
         "results": [
+          {
+            "name": "Omloop van het Houtland",
+            "date": "24 Sep 2025",
+            "points": 3,
+            "rank": 23
+          },
           {
             "name": "Gooikse Pijl",
             "date": "21 Sep 2025",
@@ -887,8 +893,14 @@
         "id": 109483,
         "team": "JAY",
         "country": "ch",
-        "totalPoints": 1083.67,
+        "totalPoints": 1150.34,
         "results": [
+          {
+            "name": "World Championships - Mixed Relay TTT",
+            "date": "24 Sep 2025",
+            "points": 66.67,
+            "rank": 3
+          },
           {
             "name": "Grand Prix Cycliste de Montréal",
             "date": "14 Sep 2025",

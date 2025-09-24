@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "23 September 2025 23:20 GMT",
+  "fetchedDate": "24 September 2025 23:21 GMT",
   "momentId": 194040,
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women’s Cycling Team",
-    "totalPoints": 7557.58,
+    "totalPoints": 7617.58,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -192,8 +192,14 @@
         "id": 88660,
         "team": "AGS",
         "country": "mu",
-        "totalPoints": 1742,
+        "totalPoints": 1752,
         "results": [
+          {
+            "name": "World Championships - Mixed Relay TTT",
+            "date": "24 Sep 2025",
+            "points": 10,
+            "rank": 12
+          },
           {
             "name": "Tour de France Femmes - General classificationGeneral classification",
             "date": "3 Aug 2025",
@@ -615,8 +621,14 @@
         "id": 1897613,
         "team": "LIV",
         "country": "it",
-        "totalPoints": 1129.29,
+        "totalPoints": 1179.29,
         "results": [
+          {
+            "name": "World Championships - Mixed Relay TTT",
+            "date": "24 Sep 2025",
+            "points": 50,
+            "rank": 4
+          },
           {
             "name": "World Championships WE - ITT",
             "date": "21 Sep 2025",
