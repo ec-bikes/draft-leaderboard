@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "24 September 2025 23:21 GMT",
+  "fetchedDate": "25 September 2025 23:20 GMT",
   "momentId": 194040,
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women’s Cycling Team",
-    "totalPoints": 7617.58,
+    "totalPoints": 7667.58,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -564,8 +564,14 @@
         "id": 2096868,
         "team": "AGS",
         "country": "be",
-        "totalPoints": 96,
+        "totalPoints": 146,
         "results": [
+          {
+            "name": "World Championships WU - Road Race",
+            "date": "25 Sep 2025",
+            "points": 50,
+            "rank": 8
+          },
           {
             "name": "World Championships WU - ITT",
             "date": "22 Sep 2025",
