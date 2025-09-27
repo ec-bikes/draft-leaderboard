@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 September 2025 23:20 GMT",
+  "fetchedDate": "27 September 2025 23:20 GMT",
   "momentId": 194040,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 8610.85,
+    "totalPoints": 9300.85,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
         "id": 86824,
         "team": "CSZ",
         "country": "pl",
-        "totalPoints": 1646.86,
+        "totalPoints": 1746.86,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "27 Sep 2025",
+            "points": 100,
+            "rank": 10
+          },
           {
             "name": "World Championships WE - ITT",
             "date": "21 Sep 2025",
@@ -307,8 +313,14 @@
         "id": 2188959,
         "team": "CSZ",
         "country": "de",
-        "totalPoints": 811.67,
+        "totalPoints": 1036.67,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "27 Sep 2025",
+            "points": 225,
+            "rank": 6
+          },
           {
             "name": "World Championships - Mixed Relay TTT",
             "date": "24 Sep 2025",
@@ -499,8 +511,14 @@
         "id": 106168,
         "team": "UAD",
         "country": "au",
-        "totalPoints": 450,
+        "totalPoints": 480,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "27 Sep 2025",
+            "points": 30,
+            "rank": 19
+          },
           {
             "name": "World Championships - Mixed Relay TTT",
             "date": "24 Sep 2025",
@@ -751,8 +769,14 @@
         "id": 97498,
         "team": "TFS",
         "country": "fr",
-        "totalPoints": 1846.9,
+        "totalPoints": 1906.9,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "27 Sep 2025",
+            "points": 60,
+            "rank": 13
+          },
           {
             "name": "World Championships - Mixed Relay TTT",
             "date": "24 Sep 2025",
@@ -1126,8 +1150,14 @@
         "id": 86854,
         "team": "LTK",
         "country": "nl",
-        "totalPoints": 469.14,
+        "totalPoints": 744.14,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "27 Sep 2025",
+            "points": 275,
+            "rank": 5
+          },
           {
             "name": "Simac Ladies Tour - General classificationGeneral classification",
             "date": "7 Sep 2025",

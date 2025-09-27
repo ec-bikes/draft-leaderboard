@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 September 2025 23:20 GMT",
+  "fetchedDate": "27 September 2025 23:20 GMT",
   "momentId": 194040,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 11447.39,
+    "totalPoints": 11927.39,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -266,8 +266,14 @@
         "id": 109412,
         "team": "TFS",
         "country": "fr",
-        "totalPoints": 687.57,
+        "totalPoints": 707.57,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "27 Sep 2025",
+            "points": 20,
+            "rank": 26
+          },
           {
             "name": "Tour Cycliste Féminin International de l'Ardèche - General classificationGeneral classification",
             "date": "14 Sep 2025",
@@ -494,8 +500,14 @@
         "id": 347941,
         "team": "EFO",
         "country": "ch",
-        "totalPoints": 1501.67,
+        "totalPoints": 1531.67,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "27 Sep 2025",
+            "points": 30,
+            "rank": 20
+          },
           {
             "name": "World Championships - Mixed Relay TTT",
             "date": "24 Sep 2025",
@@ -616,8 +628,14 @@
         "id": 79690,
         "team": "FDC",
         "country": "nl",
-        "totalPoints": 614,
+        "totalPoints": 624,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "27 Sep 2025",
+            "points": 10,
+            "rank": 34
+          },
           {
             "name": "Tour de France Femmes - General classificationGeneral classification",
             "date": "3 Aug 2025",
@@ -919,8 +937,14 @@
         "id": 96399,
         "team": "SDW",
         "country": "pl",
-        "totalPoints": 593,
+        "totalPoints": 603,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "27 Sep 2025",
+            "points": 10,
+            "rank": 40
+          },
           {
             "name": "Tour Cycliste Féminin International de l'Ardèche - S3Stage 3 - Avignon  › Pernes-les-Fontaines",
             "date": "11 Sep 2025",
@@ -1000,8 +1024,14 @@
         "id": 398547,
         "team": "LIV",
         "country": "es",
-        "totalPoints": 838.29,
+        "totalPoints": 1238.29,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "27 Sep 2025",
+            "points": 400,
+            "rank": 3
+          },
           {
             "name": "Tour de Romandie Féminin - General classificationGeneral classification",
             "date": "17 Aug 2025",
@@ -1123,8 +1153,14 @@
         "id": 236562,
         "team": "SDW",
         "country": "hu",
-        "totalPoints": 486,
+        "totalPoints": 496,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "27 Sep 2025",
+            "points": 10,
+            "rank": 37
+          },
           {
             "name": "Tour de Romandie Féminin - S3Stage 3 - Aigle › Aigle",
             "date": "17 Aug 2025",

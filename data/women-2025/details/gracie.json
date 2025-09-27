@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "26 September 2025 23:20 GMT",
+  "fetchedDate": "27 September 2025 23:20 GMT",
   "momentId": 194040,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 14801.9,
+    "totalPoints": 15826.9,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
         "team": "TFS",
         "country": "nl",
-        "totalPoints": 4067.57,
+        "totalPoints": 4242.57,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "27 Sep 2025",
+            "points": 175,
+            "rank": 7
+          },
           {
             "name": "World Championships WE - ITT",
             "date": "21 Sep 2025",
@@ -421,8 +427,14 @@
         "id": 109716,
         "team": "CSZ",
         "country": "us",
-        "totalPoints": 941.86,
+        "totalPoints": 971.86,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "27 Sep 2025",
+            "points": 30,
+            "rank": 17
+          },
           {
             "name": "World Championships WE - ITT",
             "date": "21 Sep 2025",
@@ -745,8 +757,14 @@
         "id": 1750054,
         "team": "EFO",
         "country": "fr",
-        "totalPoints": 1352.76,
+        "totalPoints": 1372.76,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "27 Sep 2025",
+            "points": 20,
+            "rank": 31
+          },
           {
             "name": "World Championships - Mixed Relay TTT",
             "date": "24 Sep 2025",
@@ -904,8 +922,14 @@
         "id": 217072,
         "team": "LTK",
         "country": "nz",
-        "totalPoints": 1276.14,
+        "totalPoints": 1751.14,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "27 Sep 2025",
+            "points": 475,
+            "rank": 2
+          },
           {
             "name": "Grand Prix de Wallonie Dames",
             "date": "17 Sep 2025",
@@ -1072,8 +1096,14 @@
         "id": 1638135,
         "team": "TFS",
         "country": "ch",
-        "totalPoints": 1707,
+        "totalPoints": 2032,
         "results": [
+          {
+            "name": "World Championships WE - Road Race",
+            "date": "27 Sep 2025",
+            "points": 325,
+            "rank": 4
+          },
           {
             "name": "Tour de Romandie Féminin - General classificationGeneral classification",
             "date": "17 Aug 2025",
