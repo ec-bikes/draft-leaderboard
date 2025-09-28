@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "27 September 2025 23:20 GMT",
+  "fetchedDate": "28 September 2025 23:20 GMT",
   "momentId": 194022,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 15424.97,
+    "totalPoints": 15469.97,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -772,8 +772,14 @@
         "id": 462394,
         "team": "UAD",
         "country": "ch",
-        "totalPoints": 1283.67,
+        "totalPoints": 1313.67,
         "results": [
+          {
+            "name": "World Championships ME - Road Race",
+            "date": "28 Sep 2025",
+            "points": 30,
+            "rank": 29
+          },
           {
             "name": "World Championships - Mixed Relay TTT",
             "date": "24 Sep 2025",
@@ -1054,8 +1060,14 @@
         "id": 482927,
         "team": "TPP",
         "country": "dk",
-        "totalPoints": 1081,
+        "totalPoints": 1096,
         "results": [
+          {
+            "name": "Paris-Chauny",
+            "date": "28 Sep 2025",
+            "points": 15,
+            "rank": 11
+          },
           {
             "name": "Bretagne Classic - Ouest-France",
             "date": "31 Aug 2025",

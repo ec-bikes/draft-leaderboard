@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "27 September 2025 23:20 GMT",
+  "fetchedDate": "28 September 2025 23:20 GMT",
   "momentId": 194022,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 16162.53,
+    "totalPoints": 16517.53,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -164,8 +164,14 @@
         "id": 88889,
         "team": "RBH",
         "country": "si",
-        "totalPoints": 1591,
+        "totalPoints": 1721,
         "results": [
+          {
+            "name": "World Championships ME - Road Race",
+            "date": "28 Sep 2025",
+            "points": 130,
+            "rank": 11
+          },
           {
             "name": "Donostia San Sebastian Klasikoa",
             "date": "2 Aug 2025",
@@ -383,8 +389,14 @@
         "id": 415141,
         "team": "UAD",
         "country": "es",
-        "totalPoints": 2287.5,
+        "totalPoints": 2512.5,
         "results": [
+          {
+            "name": "World Championships ME - Road Race",
+            "date": "28 Sep 2025",
+            "points": 225,
+            "rank": 8
+          },
           {
             "name": "La Vuelta Ciclista a España - S12Stage 12 - Laredo › Los Corrales de Buelna",
             "date": "4 Sep 2025",
