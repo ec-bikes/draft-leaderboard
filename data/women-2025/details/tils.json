@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "30 September 2025 23:20 GMT",
+  "fetchedDate": "1 October 2025 23:20 GMT",
   "momentId": 194221,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 11517.81,
+    "totalPoints": 11587.81,
     "riders": [
       {
         "name": "Liane Lippert",
@@ -337,8 +337,14 @@
         "id": 1589305,
         "team": "MOV",
         "country": "ch",
-        "totalPoints": 3173.81,
+        "totalPoints": 3243.81,
         "results": [
+          {
+            "name": "European Continental Championships WE - ITT",
+            "date": "1 Oct 2025",
+            "points": 70,
+            "rank": 1
+          },
           {
             "name": "World Championships WE - Road Race",
             "date": "27 Sep 2025",

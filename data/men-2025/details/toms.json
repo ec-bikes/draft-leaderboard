@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "30 September 2025 23:20 GMT",
+  "fetchedDate": "1 October 2025 23:20 GMT",
   "momentId": 194203,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 14126.13,
+    "totalPoints": 14211.13,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 3243,
+        "totalPoints": 3313,
         "results": [
+          {
+            "name": "European Continental Championships ME - ITT",
+            "date": "1 Oct 2025",
+            "points": 70,
+            "rank": 1
+          },
           {
             "name": "World Championships ME - Road Race",
             "date": "28 Sep 2025",
@@ -999,8 +1005,14 @@
         "id": 472995,
         "team": "LTK",
         "country": "cz",
-        "totalPoints": 656.86,
+        "totalPoints": 671.86,
         "results": [
+          {
+            "name": "European Continental Championships ME - ITT",
+            "date": "1 Oct 2025",
+            "points": 15,
+            "rank": 7
+          },
           {
             "name": "SUPER 8 Classic",
             "date": "20 Sep 2025",
