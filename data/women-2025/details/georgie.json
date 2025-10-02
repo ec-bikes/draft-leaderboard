@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 October 2025 23:20 GMT",
+  "fetchedDate": "2 October 2025 23:20 GMT",
   "momentId": 194221,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 9320.85,
+    "totalPoints": 9344.18,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -769,8 +769,14 @@
         "id": 97498,
         "team": "TFS",
         "country": "fr",
-        "totalPoints": 1926.9,
+        "totalPoints": 1950.23,
         "results": [
+          {
+            "name": "European Continental Championships - Mixed Relay TTT",
+            "date": "2 Oct 2025",
+            "points": 23.33,
+            "rank": 1
+          },
           {
             "name": "European Continental Championships WE - ITT",
             "date": "1 Oct 2025",

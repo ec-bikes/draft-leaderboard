@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 October 2025 23:20 GMT",
+  "fetchedDate": "2 October 2025 23:21 GMT",
   "momentId": 194203,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 16527.53,
+    "totalPoints": 16540.86,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -1359,8 +1359,14 @@
         "id": 74994,
         "team": "GFC",
         "country": "ch",
-        "totalPoints": 698.96,
+        "totalPoints": 712.29,
         "results": [
+          {
+            "name": "European Continental Championships - Mixed Relay TTT",
+            "date": "2 Oct 2025",
+            "points": 13.33,
+            "rank": 3
+          },
           {
             "name": "European Continental Championships ME - ITT",
             "date": "1 Oct 2025",

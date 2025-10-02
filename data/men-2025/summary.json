@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 October 2025 23:20 GMT",
+  "fetchedDate": "2 October 2025 23:21 GMT",
   "momentId": 194203,
   "teams": [
     {
@@ -241,7 +241,7 @@
     {
       "owner": "Dane Cash",
       "name": "Visma-Lease a Bike-Monster Energy",
-      "totalPoints": 16527.53,
+      "totalPoints": 16540.86,
       "riders": [
         {
           "name": "Jasper Philipsen",
@@ -311,7 +311,7 @@
           "id": 74994,
           "team": "GFC",
           "country": "ch",
-          "totalPoints": 698.96
+          "totalPoints": 712.29
         }
       ],
       "movement": 0
@@ -319,7 +319,7 @@
     {
       "owner": "Abby Mickey",
       "name": "EF Education-Swift Nation",
-      "totalPoints": 10628.58,
+      "totalPoints": 10646.91,
       "riders": [
         {
           "name": "Wout van Aert",
@@ -354,7 +354,7 @@
           "id": 91640,
           "team": "IGD",
           "country": "it",
-          "totalPoints": 2129.5
+          "totalPoints": 2147.83
         },
         {
           "name": "Tao Geoghegan Hart",
@@ -397,7 +397,7 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 15469.97,
+      "totalPoints": 15483.3,
       "riders": [
         {
           "name": "Mathieu van der Poel",
@@ -432,7 +432,7 @@
           "id": 462394,
           "team": "UAD",
           "country": "ch",
-          "totalPoints": 1313.67
+          "totalPoints": 1327
         },
         {
           "name": "Axel Zingle",
@@ -631,7 +631,7 @@
     {
       "owner": "Discord Undrafted",
       "name": "Team Movistar easyJet",
-      "totalPoints": 11979.48,
+      "totalPoints": 12006.81,
       "riders": [
         {
           "name": "Dylan Groenewegen",
@@ -680,14 +680,14 @@
           "id": 1759987,
           "team": "SOQ",
           "country": "fr",
-          "totalPoints": 2065
+          "totalPoints": 2079
         },
         {
           "name": "Mauro Schmid",
           "id": 109483,
           "team": "JAY",
           "country": "ch",
-          "totalPoints": 1150.34
+          "totalPoints": 1163.67
         },
         {
           "name": "Jai Hindley",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "1 October 2025 23:20 GMT",
+  "fetchedDate": "2 October 2025 23:21 GMT",
   "momentId": 194203,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 10628.58,
+    "totalPoints": 10646.91,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -522,8 +522,14 @@
         "id": 91640,
         "team": "IGD",
         "country": "it",
-        "totalPoints": 2129.5,
+        "totalPoints": 2147.83,
         "results": [
+          {
+            "name": "European Continental Championships - Mixed Relay TTT",
+            "date": "2 Oct 2025",
+            "points": 18.33,
+            "rank": 2
+          },
           {
             "name": "European Continental Championships ME - ITT",
             "date": "1 Oct 2025",
