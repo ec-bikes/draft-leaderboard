@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 October 2025 23:21 GMT",
+  "fetchedDate": "3 October 2025 23:20 GMT",
   "momentId": 194203,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 19029,
+    "totalPoints": 19129,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -599,8 +599,14 @@
         "id": 148901,
         "team": "RBH",
         "country": "be",
-        "totalPoints": 953,
+        "totalPoints": 1053,
         "results": [
+          {
+            "name": "Sparkassen Münsterland Giro",
+            "date": "3 Oct 2025",
+            "points": 100,
+            "rank": 4
+          },
           {
             "name": "Gooikse Pijl",
             "date": "21 Sep 2025",

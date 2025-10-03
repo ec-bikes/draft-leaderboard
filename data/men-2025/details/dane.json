@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 October 2025 23:21 GMT",
+  "fetchedDate": "3 October 2025 23:20 GMT",
   "momentId": 194203,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 16540.86,
+    "totalPoints": 16740.86,
     "riders": [
       {
         "name": "Jasper Philipsen",
         "id": 148275,
         "team": "ADC",
         "country": "be",
-        "totalPoints": 2238,
+        "totalPoints": 2438,
         "results": [
+          {
+            "name": "Sparkassen Münsterland Giro",
+            "date": "3 Oct 2025",
+            "points": 200,
+            "rank": 1
+          },
           {
             "name": "La Vuelta Ciclista a España - Points classificationPoints classification",
             "date": "14 Sep 2025",

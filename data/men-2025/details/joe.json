@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "2 October 2025 23:21 GMT",
+  "fetchedDate": "3 October 2025 23:20 GMT",
   "momentId": 194203,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 15483.3,
+    "totalPoints": 15500.3,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -467,8 +467,19 @@
         "id": 150923,
         "team": "UAD",
         "country": "us",
-        "totalPoints": 2008.57,
+        "totalPoints": 2025.57,
         "results": [
+          {
+            "name": "CRO Race - S4Stage 4 - Krk › Labin",
+            "date": "3 Oct 2025",
+            "points": 14,
+            "rank": 1
+          },
+          {
+            "name": "CRO Race - S4Stage 4 - Krk › Labin - Bonus",
+            "date": "3 Oct 2025",
+            "points": 3
+          },
           {
             "name": "Skoda Tour de Luxembourg - General classificationGeneral classification",
             "date": "21 Sep 2025",
