@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 October 2025 23:20 GMT",
+  "fetchedDate": "4 October 2025 23:20 GMT",
   "momentId": 194203,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 16893.71,
+    "totalPoints": 16898.71,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -1306,8 +1306,14 @@
         "id": 308040,
         "team": "TBV",
         "country": "it",
-        "totalPoints": 1094.5,
+        "totalPoints": 1099.5,
         "results": [
+          {
+            "name": "Giro dell'Emilia",
+            "date": "4 Oct 2025",
+            "points": 5,
+            "rank": 26
+          },
           {
             "name": "La Vuelta Ciclista a España - General classificationGeneral classification",
             "date": "14 Sep 2025",

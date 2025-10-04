@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 October 2025 23:20 GMT",
+  "fetchedDate": "4 October 2025 23:20 GMT",
   "momentId": 194203,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 16740.86,
+    "totalPoints": 16925.86,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -170,8 +170,14 @@
         "id": 88889,
         "team": "RBH",
         "country": "si",
-        "totalPoints": 1721,
+        "totalPoints": 1806,
         "results": [
+          {
+            "name": "Giro dell'Emilia",
+            "date": "4 Oct 2025",
+            "points": 85,
+            "rank": 5
+          },
           {
             "name": "World Championships ME - Road Race",
             "date": "28 Sep 2025",
@@ -812,8 +818,14 @@
         "id": 95844,
         "team": "IGD",
         "country": "co",
-        "totalPoints": 1402.5,
+        "totalPoints": 1502.5,
         "results": [
+          {
+            "name": "Giro dell'Emilia",
+            "date": "4 Oct 2025",
+            "points": 100,
+            "rank": 4
+          },
           {
             "name": "La Vuelta Ciclista a España - General classificationGeneral classification",
             "date": "14 Sep 2025",

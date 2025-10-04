@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 October 2025 23:20 GMT",
+  "fetchedDate": "4 October 2025 23:20 GMT",
   "momentId": 194203,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 14966.1,
+    "totalPoints": 15166.1,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -619,8 +619,14 @@
         "id": 2002910,
         "team": "UAD",
         "country": "mx",
-        "totalPoints": 4529,
+        "totalPoints": 4729,
         "results": [
+          {
+            "name": "Giro dell'Emilia",
+            "date": "4 Oct 2025",
+            "points": 200,
+            "rank": 1
+          },
           {
             "name": "World Championships ME - Road Race",
             "date": "28 Sep 2025",

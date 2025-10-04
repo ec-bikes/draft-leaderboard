@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 October 2025 23:20 GMT",
+  "fetchedDate": "4 October 2025 23:20 GMT",
   "momentId": 194203,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 12009.81,
+    "totalPoints": 12023.81,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -704,8 +704,14 @@
         "id": 1759987,
         "team": "SOQ",
         "country": "fr",
-        "totalPoints": 2082,
+        "totalPoints": 2096,
         "results": [
+          {
+            "name": "CRO Race - S5Stage 5 - Karlovac › Sveta Nedelja",
+            "date": "4 Oct 2025",
+            "points": 14,
+            "rank": 1
+          },
           {
             "name": "CRO Race - S3Stage 3 - Gospić › Rijeka",
             "date": "2 Oct 2025",

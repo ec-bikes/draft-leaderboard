@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 October 2025 23:20 GMT",
+  "fetchedDate": "4 October 2025 23:20 GMT",
   "momentId": 194203,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 10649.91,
+    "totalPoints": 10654.91,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -922,8 +922,14 @@
         "id": 109481,
         "team": "IGD",
         "country": "nl",
-        "totalPoints": 1543.29,
+        "totalPoints": 1548.29,
         "results": [
+          {
+            "name": "Giro dell'Emilia",
+            "date": "4 Oct 2025",
+            "points": 5,
+            "rank": 30
+          },
           {
             "name": "World Championships ME - ITT",
             "date": "21 Sep 2025",

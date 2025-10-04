@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 October 2025 23:20 GMT",
+  "fetchedDate": "4 October 2025 23:20 GMT",
   "momentId": 194221,
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women’s Cycling Team",
-    "totalPoints": 7862.58,
+    "totalPoints": 8080.58,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -117,8 +117,14 @@
         "id": 86838,
         "team": "CSZ",
         "country": "dk",
-        "totalPoints": 261,
+        "totalPoints": 264,
         "results": [
+          {
+            "name": "European Continental Championships WE - Road Race",
+            "date": "4 Oct 2025",
+            "points": 3,
+            "rank": 29
+          },
           {
             "name": "Tour de France Femmes - General classificationGeneral classification",
             "date": "3 Aug 2025",
@@ -192,8 +198,14 @@
         "id": 88660,
         "team": "AGS",
         "country": "mu",
-        "totalPoints": 1902,
+        "totalPoints": 2102,
         "results": [
+          {
+            "name": "Giro dell'Emilia Internazionale Donne Elite",
+            "date": "4 Oct 2025",
+            "points": 200,
+            "rank": 1
+          },
           {
             "name": "World Championships WE - Road Race",
             "date": "27 Sep 2025",
@@ -450,8 +462,14 @@
         "id": 231378,
         "team": "LIV",
         "country": "nl",
-        "totalPoints": 832,
+        "totalPoints": 847,
         "results": [
+          {
+            "name": "Giro dell'Emilia Internazionale Donne Elite",
+            "date": "4 Oct 2025",
+            "points": 15,
+            "rank": 14
+          },
           {
             "name": "Classic Lorient Agglomération - CERATIZIT",
             "date": "30 Aug 2025",

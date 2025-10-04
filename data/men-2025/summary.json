@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "3 October 2025 23:20 GMT",
+  "fetchedDate": "4 October 2025 23:20 GMT",
   "momentId": 194203,
   "teams": [
     {
       "owner": "Kit Nicholson",
       "name": "Picnic-Letterboxd",
-      "totalPoints": 19129,
+      "totalPoints": 19179,
       "riders": [
         {
           "name": "Tadej Pogačar",
@@ -35,7 +35,7 @@
           "id": 68367,
           "team": "SOQ",
           "country": "es",
-          "totalPoints": 667
+          "totalPoints": 687
         },
         {
           "name": "Jordi Meeus",
@@ -56,7 +56,7 @@
           "id": 91656,
           "team": "EFE",
           "country": "ec",
-          "totalPoints": 1777
+          "totalPoints": 1807
         },
         {
           "name": "Benoît Cosnefroy",
@@ -85,7 +85,7 @@
     {
       "owner": "Jonny Long",
       "name": "Ineos Grenadiers-Greenpeace-Poundland",
-      "totalPoints": 16893.71,
+      "totalPoints": 16898.71,
       "riders": [
         {
           "name": "Jonas Vingegaard",
@@ -155,15 +155,15 @@
           "id": 308040,
           "team": "TBV",
           "country": "it",
-          "totalPoints": 1094.5
+          "totalPoints": 1099.5
         }
       ],
-      "movement": 0
+      "movement": -1
     },
     {
       "owner": "Toms Skujiņš",
       "name": "Lidl-Trek-Bauer",
-      "totalPoints": 14216.13,
+      "totalPoints": 14341.13,
       "riders": [
         {
           "name": "Remco Evenepoel",
@@ -205,7 +205,7 @@
           "id": 1843476,
           "team": "TBV",
           "country": "fr",
-          "totalPoints": 1488
+          "totalPoints": 1613
         },
         {
           "name": "Mathias Vacek",
@@ -241,7 +241,7 @@
     {
       "owner": "Dane Cash",
       "name": "Visma-Lease a Bike-Monster Energy",
-      "totalPoints": 16740.86,
+      "totalPoints": 16925.86,
       "riders": [
         {
           "name": "Jasper Philipsen",
@@ -255,7 +255,7 @@
           "id": 88889,
           "team": "RBH",
           "country": "si",
-          "totalPoints": 1721
+          "totalPoints": 1806
         },
         {
           "name": "Carlos Rodriguez",
@@ -290,7 +290,7 @@
           "id": 95844,
           "team": "IGD",
           "country": "co",
-          "totalPoints": 1402.5
+          "totalPoints": 1502.5
         },
         {
           "name": "Florian Lipowitz",
@@ -314,12 +314,12 @@
           "totalPoints": 712.29
         }
       ],
-      "movement": 0
+      "movement": 1
     },
     {
       "owner": "Abby Mickey",
       "name": "EF Education-Swift Nation",
-      "totalPoints": 10649.91,
+      "totalPoints": 10654.91,
       "riders": [
         {
           "name": "Wout van Aert",
@@ -382,7 +382,7 @@
           "id": 109481,
           "team": "IGD",
           "country": "nl",
-          "totalPoints": 1543.29
+          "totalPoints": 1548.29
         },
         {
           "name": "Patrick Konrad",
@@ -397,7 +397,7 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 15500.3,
+      "totalPoints": 15503.3,
       "riders": [
         {
           "name": "Mathieu van der Poel",
@@ -418,7 +418,7 @@
           "id": 150923,
           "team": "UAD",
           "country": "us",
-          "totalPoints": 2025.57
+          "totalPoints": 2028.57
         },
         {
           "name": "Aleksandr Vlasov",
@@ -470,12 +470,12 @@
           "totalPoints": 799
         }
       ],
-      "movement": 0
+      "movement": -1
     },
     {
       "owner": "Caley Fretz",
       "name": "US Postal Service Bald Eagles",
-      "totalPoints": 14966.1,
+      "totalPoints": 15166.1,
       "riders": [
         {
           "name": "Matteo Jorgenson",
@@ -510,7 +510,7 @@
           "id": 2002910,
           "team": "UAD",
           "country": "mx",
-          "totalPoints": 4529
+          "totalPoints": 4729
         },
         {
           "name": "Daniel Martínez",
@@ -553,14 +553,14 @@
     {
       "owner": "Andrew (member)",
       "name": "Groupama-FDJ-Tourtel Twist",
-      "totalPoints": 15463.61,
+      "totalPoints": 15503.61,
       "riders": [
         {
           "name": "Adam Yates",
           "id": 70590,
           "team": "UAD",
           "country": "gb",
-          "totalPoints": 922
+          "totalPoints": 962
         },
         {
           "name": "João Almeida",
@@ -626,12 +626,12 @@
           "totalPoints": 594.5
         }
       ],
-      "movement": 0
+      "movement": 1
     },
     {
       "owner": "Discord Undrafted",
       "name": "Team Movistar easyJet",
-      "totalPoints": 12009.81,
+      "totalPoints": 12023.81,
       "riders": [
         {
           "name": "Dylan Groenewegen",
@@ -680,7 +680,7 @@
           "id": 1759987,
           "team": "SOQ",
           "country": "fr",
-          "totalPoints": 2082
+          "totalPoints": 2096
         },
         {
           "name": "Mauro Schmid",
