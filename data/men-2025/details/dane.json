@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "4 October 2025 23:20 GMT",
+  "fetchedDate": "5 October 2025 23:19 GMT",
   "momentId": 194203,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 16925.86,
+    "totalPoints": 17065.86,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -401,8 +401,14 @@
         "id": 415141,
         "team": "UAD",
         "country": "es",
-        "totalPoints": 2512.5,
+        "totalPoints": 2602.5,
         "results": [
+          {
+            "name": "European Continental Championships ME - Road Race",
+            "date": "5 Oct 2025",
+            "points": 90,
+            "rank": 6
+          },
           {
             "name": "World Championships ME - Road Race",
             "date": "28 Sep 2025",
@@ -1130,8 +1136,14 @@
         "id": 1759422,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 1675,
+        "totalPoints": 1725,
         "results": [
+          {
+            "name": "European Continental Championships ME - Road Race",
+            "date": "5 Oct 2025",
+            "points": 50,
+            "rank": 10
+          },
           {
             "name": "Skoda Tour de Luxembourg - General classificationGeneral classification",
             "date": "21 Sep 2025",

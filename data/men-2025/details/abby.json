@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "4 October 2025 23:20 GMT",
+  "fetchedDate": "5 October 2025 23:19 GMT",
   "momentId": 194203,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 10654.91,
+    "totalPoints": 10724.91,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -465,8 +465,14 @@
         "id": 58528,
         "team": "IGD",
         "country": "pl",
-        "totalPoints": 185.5,
+        "totalPoints": 255.5,
         "results": [
+          {
+            "name": "CRO Race - General classificationGeneral classification",
+            "date": "5 Oct 2025",
+            "points": 70,
+            "rank": 3
+          },
           {
             "name": "CRO Race - S4Stage 4 - Krk › Labin",
             "date": "3 Oct 2025",
