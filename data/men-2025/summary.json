@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 October 2025 23:19 GMT",
+  "fetchedDate": "6 October 2025 23:21 GMT",
   "momentId": 194203,
   "teams": [
     {
       "owner": "Kit Nicholson",
       "name": "Picnic-Letterboxd",
-      "totalPoints": 19589,
+      "totalPoints": 19594,
       "riders": [
         {
           "name": "Tadej Pogačar",
@@ -70,7 +70,7 @@
           "id": 422863,
           "team": "COF",
           "country": "es",
-          "totalPoints": 1142
+          "totalPoints": 1147
         },
         {
           "name": "Paul Lapeira",
@@ -397,7 +397,7 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 15631.3,
+      "totalPoints": 15786.3,
       "riders": [
         {
           "name": "Mathieu van der Poel",
@@ -425,7 +425,7 @@
           "id": 97280,
           "team": "RBH",
           "country": "ru",
-          "totalPoints": 235.71
+          "totalPoints": 240.71
         },
         {
           "name": "Jan Christen",
@@ -446,7 +446,7 @@
           "id": 482927,
           "team": "TPP",
           "country": "dk",
-          "totalPoints": 1096
+          "totalPoints": 1246
         },
         {
           "name": "Diego Ulissi",
@@ -470,12 +470,12 @@
           "totalPoints": 799
         }
       ],
-      "movement": -1
+      "movement": 0
     },
     {
       "owner": "Caley Fretz",
       "name": "US Postal Service Bald Eagles",
-      "totalPoints": 15216.1,
+      "totalPoints": 15301.1,
       "riders": [
         {
           "name": "Matteo Jorgenson",
@@ -503,7 +503,7 @@
           "id": 62919,
           "team": "JAY",
           "country": "au",
-          "totalPoints": 1520.67
+          "totalPoints": 1605.67
         },
         {
           "name": "Isaac del Toro",
@@ -626,7 +626,7 @@
           "totalPoints": 594.5
         }
       ],
-      "movement": 1
+      "movement": 0
     },
     {
       "owner": "Discord Undrafted",

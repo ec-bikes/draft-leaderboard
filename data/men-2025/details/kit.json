@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "5 October 2025 23:19 GMT",
+  "fetchedDate": "6 October 2025 23:21 GMT",
   "momentId": 194203,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 19589,
+    "totalPoints": 19594,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -1007,8 +1007,14 @@
         "id": 422863,
         "team": "COF",
         "country": "es",
-        "totalPoints": 1142,
+        "totalPoints": 1147,
         "results": [
+          {
+            "name": "Coppa Bernocchi - GP Banco BPM",
+            "date": "6 Oct 2025",
+            "points": 5,
+            "rank": 21
+          },
           {
             "name": "Grand Prix de Wallonie",
             "date": "17 Sep 2025",
