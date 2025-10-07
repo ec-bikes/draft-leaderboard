@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 October 2025 23:21 GMT",
-  "momentId": 194203,
+  "fetchedDate": "7 October 2025 23:21 GMT",
+  "momentId": 194384,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 19594,
+    "totalPoints": 20092,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "team": "UAD",
         "country": "si",
-        "totalPoints": 10680,
+        "totalPoints": 10880,
         "results": [
+          {
+            "name": "Tre Valli Varesine",
+            "date": "7 Oct 2025",
+            "points": 200,
+            "rank": 1
+          },
           {
             "name": "European Continental Championships ME - Road Race",
             "date": "5 Oct 2025",
@@ -419,8 +425,14 @@
         "id": 68892,
         "team": "LTK",
         "country": "lv",
-        "totalPoints": 991,
+        "totalPoints": 1061,
         "results": [
+          {
+            "name": "Tre Valli Varesine",
+            "date": "7 Oct 2025",
+            "points": 70,
+            "rank": 6
+          },
           {
             "name": "European Continental Championships ME - Road Race",
             "date": "5 Oct 2025",
@@ -536,8 +548,14 @@
         "id": 68367,
         "team": "SOQ",
         "country": "es",
-        "totalPoints": 687,
+        "totalPoints": 690,
         "results": [
+          {
+            "name": "Tre Valli Varesine",
+            "date": "7 Oct 2025",
+            "points": 3,
+            "rank": 31
+          },
           {
             "name": "Giro dell'Emilia",
             "date": "4 Oct 2025",
@@ -617,8 +635,14 @@
         "id": 148901,
         "team": "RBH",
         "country": "be",
-        "totalPoints": 1053,
+        "totalPoints": 1178,
         "results": [
+          {
+            "name": "Binche - Chimay - Binche / Mémorial Frank Vandenbroucke",
+            "date": "7 Oct 2025",
+            "points": 125,
+            "rank": 1
+          },
           {
             "name": "Sparkassen Münsterland Giro",
             "date": "3 Oct 2025",
@@ -1202,8 +1226,14 @@
         "id": 257361,
         "team": "DAT",
         "country": "fr",
-        "totalPoints": 578,
+        "totalPoints": 678,
         "results": [
+          {
+            "name": "Tre Valli Varesine",
+            "date": "7 Oct 2025",
+            "points": 100,
+            "rank": 4
+          },
           {
             "name": "Coppa Agostoni - Giro delle Brianze",
             "date": "5 Oct 2025",

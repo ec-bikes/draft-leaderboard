@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 October 2025 23:21 GMT",
-  "momentId": 194221,
+  "fetchedDate": "7 October 2025 23:21 GMT",
+  "momentId": 194402,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 9774.18,
+    "totalPoints": 9864.18,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -799,8 +799,14 @@
         "id": 97498,
         "team": "TFS",
         "country": "fr",
-        "totalPoints": 2040.23,
+        "totalPoints": 2125.23,
         "results": [
+          {
+            "name": "Tre Valli Varesine Women's Race",
+            "date": "7 Oct 2025",
+            "points": 85,
+            "rank": 5
+          },
           {
             "name": "European Continental Championships WE - Road Race",
             "date": "4 Oct 2025",
@@ -1198,8 +1204,14 @@
         "id": 86854,
         "team": "LTK",
         "country": "nl",
-        "totalPoints": 759.14,
+        "totalPoints": 764.14,
         "results": [
+          {
+            "name": "Tre Valli Varesine Women's Race",
+            "date": "7 Oct 2025",
+            "points": 5,
+            "rank": 18
+          },
           {
             "name": "European Continental Championships WE - Road Race",
             "date": "4 Oct 2025",

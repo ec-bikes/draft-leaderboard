@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 October 2025 23:21 GMT",
-  "momentId": 194221,
+  "fetchedDate": "7 October 2025 23:21 GMT",
+  "momentId": 194402,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 11781.14,
+    "totalPoints": 11809.14,
     "riders": [
       {
         "name": "Liane Lippert",
@@ -784,8 +784,14 @@
         "id": 1987823,
         "team": "CSZ",
         "country": "au",
-        "totalPoints": 231.86,
+        "totalPoints": 234.86,
         "results": [
+          {
+            "name": "Tre Valli Varesine Women's Race",
+            "date": "7 Oct 2025",
+            "points": 3,
+            "rank": 29
+          },
           {
             "name": "Giro dell'Emilia Internazionale Donne Elite",
             "date": "4 Oct 2025",
@@ -841,8 +847,14 @@
         "id": 2317617,
         "team": "MOV",
         "country": "gb",
-        "totalPoints": 1296.14,
+        "totalPoints": 1321.14,
         "results": [
+          {
+            "name": "Tre Valli Varesine Women's Race",
+            "date": "7 Oct 2025",
+            "points": 25,
+            "rank": 12
+          },
           {
             "name": "Women's Cycling Grand Prix Stuttgart & Region",
             "date": "14 Sep 2025",

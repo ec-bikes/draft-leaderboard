@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 October 2025 23:21 GMT",
-  "momentId": 194203,
+  "fetchedDate": "7 October 2025 23:21 GMT",
+  "momentId": 194384,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 15786.3,
+    "totalPoints": 15796.3,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -689,8 +689,14 @@
         "id": 97280,
         "team": "RBH",
         "country": "ru",
-        "totalPoints": 240.71,
+        "totalPoints": 245.71,
         "results": [
+          {
+            "name": "Tre Valli Varesine",
+            "date": "7 Oct 2025",
+            "points": 5,
+            "rank": 23
+          },
           {
             "name": "Coppa Bernocchi - GP Banco BPM",
             "date": "6 Oct 2025",
@@ -1459,8 +1465,14 @@
         "id": 154227,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 119,
+        "totalPoints": 124,
         "results": [
+          {
+            "name": "Tre Valli Varesine",
+            "date": "7 Oct 2025",
+            "points": 5,
+            "rank": 21
+          },
           {
             "name": "Coppa Agostoni - Giro delle Brianze",
             "date": "5 Oct 2025",

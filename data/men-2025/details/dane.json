@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 October 2025 23:21 GMT",
-  "momentId": 194203,
+  "fetchedDate": "7 October 2025 23:21 GMT",
+  "momentId": 194384,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 17065.86,
+    "totalPoints": 17085.86,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -170,8 +170,14 @@
         "id": 88889,
         "team": "RBH",
         "country": "si",
-        "totalPoints": 1806,
+        "totalPoints": 1826,
         "results": [
+          {
+            "name": "Tre Valli Varesine",
+            "date": "7 Oct 2025",
+            "points": 20,
+            "rank": 13
+          },
           {
             "name": "Giro dell'Emilia",
             "date": "4 Oct 2025",

@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 October 2025 23:21 GMT",
-  "momentId": 194221,
+  "fetchedDate": "7 October 2025 23:21 GMT",
+  "momentId": 194402,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 16505.23,
+    "totalPoints": 16715.23,
     "riders": [
       {
         "name": "Demi Vollering",
         "id": 151466,
         "team": "TFS",
         "country": "nl",
-        "totalPoints": 4492.57,
+        "totalPoints": 4642.57,
         "results": [
+          {
+            "name": "Tre Valli Varesine Women's Race",
+            "date": "7 Oct 2025",
+            "points": 150,
+            "rank": 2
+          },
           {
             "name": "European Continental Championships WE - Road Race",
             "date": "4 Oct 2025",
@@ -775,8 +781,14 @@
         "id": 1750054,
         "team": "EFO",
         "country": "fr",
-        "totalPoints": 1461.09,
+        "totalPoints": 1466.09,
         "results": [
+          {
+            "name": "Tre Valli Varesine Women's Race",
+            "date": "7 Oct 2025",
+            "points": 5,
+            "rank": 16
+          },
           {
             "name": "European Continental Championships WE - Road Race",
             "date": "4 Oct 2025",
@@ -958,8 +970,14 @@
         "id": 217072,
         "team": "LTK",
         "country": "nz",
-        "totalPoints": 1901.14,
+        "totalPoints": 1941.14,
         "results": [
+          {
+            "name": "Tre Valli Varesine Women's Race",
+            "date": "7 Oct 2025",
+            "points": 40,
+            "rank": 9
+          },
           {
             "name": "Giro dell'Emilia Internazionale Donne Elite",
             "date": "4 Oct 2025",
@@ -1138,8 +1156,14 @@
         "id": 1638135,
         "team": "TFS",
         "country": "ch",
-        "totalPoints": 2157,
+        "totalPoints": 2167,
         "results": [
+          {
+            "name": "Tre Valli Varesine Women's Race",
+            "date": "7 Oct 2025",
+            "points": 10,
+            "rank": 15
+          },
           {
             "name": "European Continental Championships WE - Road Race",
             "date": "4 Oct 2025",
@@ -1338,8 +1362,14 @@
         "id": 98622,
         "team": "HPH",
         "country": "at",
-        "totalPoints": 820,
+        "totalPoints": 825,
         "results": [
+          {
+            "name": "Binche Chimay Binche pour Dames",
+            "date": "7 Oct 2025",
+            "points": 5,
+            "rank": 13
+          },
           {
             "name": "La Choralis Fourmies Féminine",
             "date": "14 Sep 2025",

@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 October 2025 23:21 GMT",
-  "momentId": 194221,
+  "fetchedDate": "7 October 2025 23:21 GMT",
+  "momentId": 194402,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 10342.71,
+    "totalPoints": 10642.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
         "id": 76149,
         "team": "UAD",
         "country": "it",
-        "totalPoints": 2678,
+        "totalPoints": 2878,
         "results": [
+          {
+            "name": "Tre Valli Varesine Women's Race",
+            "date": "7 Oct 2025",
+            "points": 200,
+            "rank": 1
+          },
           {
             "name": "European Continental Championships WE - Road Race",
             "date": "4 Oct 2025",
@@ -449,8 +455,14 @@
         "id": 98571,
         "team": "UAD",
         "country": "nl",
-        "totalPoints": 1549,
+        "totalPoints": 1579,
         "results": [
+          {
+            "name": "Tre Valli Varesine Women's Race",
+            "date": "7 Oct 2025",
+            "points": 30,
+            "rank": 11
+          },
           {
             "name": "Giro dell'Emilia Internazionale Donne Elite",
             "date": "4 Oct 2025",
@@ -590,8 +602,14 @@
         "id": 157612,
         "team": "TPP",
         "country": "nl",
-        "totalPoints": 890,
+        "totalPoints": 950,
         "results": [
+          {
+            "name": "Binche Chimay Binche pour Dames",
+            "date": "7 Oct 2025",
+            "points": 60,
+            "rank": 4
+          },
           {
             "name": "Baloise Ladies Tour - General classificationGeneral classification",
             "date": "20 Jul 2025",
@@ -1162,8 +1180,14 @@
         "id": 233425,
         "team": "VWT",
         "country": "nl",
-        "totalPoints": 419,
+        "totalPoints": 429,
         "results": [
+          {
+            "name": "Binche Chimay Binche pour Dames",
+            "date": "7 Oct 2025",
+            "points": 10,
+            "rank": 12
+          },
           {
             "name": "Mirabelle Classic",
             "date": "27 Sep 2025",

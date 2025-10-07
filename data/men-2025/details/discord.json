@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 October 2025 23:21 GMT",
-  "momentId": 194203,
+  "fetchedDate": "7 October 2025 23:21 GMT",
+  "momentId": 194384,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 12028.81,
+    "totalPoints": 12037.81,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -234,8 +234,14 @@
         "id": 235075,
         "team": "EFE",
         "country": "ie",
-        "totalPoints": 2739,
+        "totalPoints": 2742,
         "results": [
+          {
+            "name": "Tre Valli Varesine",
+            "date": "7 Oct 2025",
+            "points": 3,
+            "rank": 34
+          },
           {
             "name": "World Championships ME - Road Race",
             "date": "28 Sep 2025",
@@ -476,8 +482,14 @@
         "id": 442797,
         "team": "UAD",
         "country": "pt",
-        "totalPoints": 982,
+        "totalPoints": 985,
         "results": [
+          {
+            "name": "Binche - Chimay - Binche / Mémorial Frank Vandenbroucke",
+            "date": "7 Oct 2025",
+            "points": 3,
+            "rank": 22
+          },
           {
             "name": "ADAC Cyclassics",
             "date": "17 Aug 2025",
@@ -599,8 +611,14 @@
         "id": 75170,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 752,
+        "totalPoints": 755,
         "results": [
+          {
+            "name": "Tre Valli Varesine",
+            "date": "7 Oct 2025",
+            "points": 3,
+            "rank": 37
+          },
           {
             "name": "Tour de France - General classificationGeneral classification",
             "date": "27 Jul 2025",

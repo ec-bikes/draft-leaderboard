@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 October 2025 23:21 GMT",
-  "momentId": 194203,
+  "fetchedDate": "7 October 2025 23:21 GMT",
+  "momentId": 194384,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 14541.13,
+    "totalPoints": 14546.13,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -401,8 +401,14 @@
         "id": 97805,
         "team": "JAY",
         "country": "au",
-        "totalPoints": 889.81,
+        "totalPoints": 894.81,
         "results": [
+          {
+            "name": "Tre Valli Varesine",
+            "date": "7 Oct 2025",
+            "points": 5,
+            "rank": 28
+          },
           {
             "name": "La Vuelta Ciclista a España - S9Stage 9 - Alfaro › Estación de Esquí de Valdezcaray",
             "date": "31 Aug 2025",

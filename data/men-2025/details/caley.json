@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "6 October 2025 23:21 GMT",
-  "momentId": 194203,
+  "fetchedDate": "7 October 2025 23:21 GMT",
+  "momentId": 194384,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 15301.1,
+    "totalPoints": 15351.1,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -625,8 +625,14 @@
         "id": 2002910,
         "team": "UAD",
         "country": "mx",
-        "totalPoints": 4729,
+        "totalPoints": 4779,
         "results": [
+          {
+            "name": "Tre Valli Varesine",
+            "date": "7 Oct 2025",
+            "points": 50,
+            "rank": 8
+          },
           {
             "name": "Giro dell'Emilia",
             "date": "4 Oct 2025",
