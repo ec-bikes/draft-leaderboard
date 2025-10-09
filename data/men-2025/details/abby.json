@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 October 2025 23:21 GMT",
+  "fetchedDate": "9 October 2025 23:21 GMT",
   "momentId": 194384,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 10724.91,
+    "totalPoints": 10749.91,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -367,8 +367,14 @@
         "id": 154218,
         "team": "LOT",
         "country": "be",
-        "totalPoints": 543,
+        "totalPoints": 563,
         "results": [
+          {
+            "name": "Gran Piemonte",
+            "date": "9 Oct 2025",
+            "points": 20,
+            "rank": 13
+          },
           {
             "name": "Bretagne Classic - Ouest-France",
             "date": "31 Aug 2025",
@@ -534,8 +540,14 @@
         "id": 91640,
         "team": "IGD",
         "country": "it",
-        "totalPoints": 2147.83,
+        "totalPoints": 2152.83,
         "results": [
+          {
+            "name": "Gran Piemonte",
+            "date": "9 Oct 2025",
+            "points": 5,
+            "rank": 27
+          },
           {
             "name": "European Continental Championships - Mixed Relay TTT",
             "date": "2 Oct 2025",

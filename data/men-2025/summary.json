@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 October 2025 23:21 GMT",
+  "fetchedDate": "9 October 2025 23:21 GMT",
   "momentId": 194384,
   "teams": [
     {
       "owner": "Kit Nicholson",
       "name": "Picnic-Letterboxd",
-      "totalPoints": 20092,
+      "totalPoints": 20097,
       "riders": [
         {
           "name": "Tadej Pogačar",
@@ -70,7 +70,7 @@
           "id": 422863,
           "team": "COF",
           "country": "es",
-          "totalPoints": 1147
+          "totalPoints": 1152
         },
         {
           "name": "Paul Lapeira",
@@ -85,7 +85,7 @@
     {
       "owner": "Jonny Long",
       "name": "Ineos Grenadiers-Greenpeace-Poundland",
-      "totalPoints": 17179.71,
+      "totalPoints": 17182.71,
       "riders": [
         {
           "name": "Jonas Vingegaard",
@@ -148,7 +148,7 @@
           "id": 144019,
           "team": "XAT",
           "country": "it",
-          "totalPoints": 2271
+          "totalPoints": 2274
         },
         {
           "name": "Antonio Tiberi",
@@ -163,7 +163,7 @@
     {
       "owner": "Toms Skujiņš",
       "name": "Lidl-Trek-Bauer",
-      "totalPoints": 14546.13,
+      "totalPoints": 14551.13,
       "riders": [
         {
           "name": "Remco Evenepoel",
@@ -205,7 +205,7 @@
           "id": 1843476,
           "team": "TBV",
           "country": "fr",
-          "totalPoints": 1613
+          "totalPoints": 1618
         },
         {
           "name": "Mathias Vacek",
@@ -241,7 +241,7 @@
     {
       "owner": "Dane Cash",
       "name": "Visma-Lease a Bike-Monster Energy",
-      "totalPoints": 17085.86,
+      "totalPoints": 17125.86,
       "riders": [
         {
           "name": "Jasper Philipsen",
@@ -290,7 +290,7 @@
           "id": 95844,
           "team": "IGD",
           "country": "co",
-          "totalPoints": 1502.5
+          "totalPoints": 1542.5
         },
         {
           "name": "Florian Lipowitz",
@@ -319,7 +319,7 @@
     {
       "owner": "Abby Mickey",
       "name": "EF Education-Swift Nation",
-      "totalPoints": 10724.91,
+      "totalPoints": 10749.91,
       "riders": [
         {
           "name": "Wout van Aert",
@@ -340,7 +340,7 @@
           "id": 154218,
           "team": "LOT",
           "country": "be",
-          "totalPoints": 543
+          "totalPoints": 563
         },
         {
           "name": "Michal Kwiatkowski",
@@ -354,7 +354,7 @@
           "id": 91640,
           "team": "IGD",
           "country": "it",
-          "totalPoints": 2147.83
+          "totalPoints": 2152.83
         },
         {
           "name": "Tao Geoghegan Hart",
@@ -397,7 +397,7 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 15796.3,
+      "totalPoints": 15801.3,
       "riders": [
         {
           "name": "Mathieu van der Poel",
@@ -453,7 +453,7 @@
           "id": 54679,
           "team": "XAT",
           "country": "it",
-          "totalPoints": 822
+          "totalPoints": 827
         },
         {
           "name": "Mauri Vansevenant",
@@ -475,7 +475,7 @@
     {
       "owner": "Caley Fretz",
       "name": "US Postal Service Bald Eagles",
-      "totalPoints": 15351.1,
+      "totalPoints": 15699.1,
       "riders": [
         {
           "name": "Matteo Jorgenson",
@@ -503,14 +503,14 @@
           "id": 62919,
           "team": "JAY",
           "country": "au",
-          "totalPoints": 1605.67
+          "totalPoints": 1690.67
         },
         {
           "name": "Isaac del Toro",
           "id": 2002910,
           "team": "UAD",
           "country": "mx",
-          "totalPoints": 4779
+          "totalPoints": 4979
         },
         {
           "name": "Daniel Martínez",
@@ -524,7 +524,7 @@
           "id": 88143,
           "team": "EFE",
           "country": "us",
-          "totalPoints": 1550.5
+          "totalPoints": 1610.5
         },
         {
           "name": "Magnus Sheffield",
@@ -545,7 +545,7 @@
           "id": 762315,
           "team": "TPP",
           "country": "us",
-          "totalPoints": 275
+          "totalPoints": 278
         }
       ],
       "movement": 0

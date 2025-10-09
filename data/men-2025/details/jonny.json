@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 October 2025 23:21 GMT",
+  "fetchedDate": "9 October 2025 23:21 GMT",
   "momentId": 194384,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 17179.71,
+    "totalPoints": 17182.71,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -1142,8 +1142,14 @@
         "id": 144019,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 2271,
+        "totalPoints": 2274,
         "results": [
+          {
+            "name": "Gran Piemonte",
+            "date": "9 Oct 2025",
+            "points": 3,
+            "rank": 40
+          },
           {
             "name": "European Continental Championships ME - Road Race",
             "date": "5 Oct 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 October 2025 23:21 GMT",
+  "fetchedDate": "9 October 2025 23:21 GMT",
   "momentId": 194384,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 15351.1,
+    "totalPoints": 15699.1,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -520,8 +520,14 @@
         "id": 62919,
         "team": "JAY",
         "country": "au",
-        "totalPoints": 1605.67,
+        "totalPoints": 1690.67,
         "results": [
+          {
+            "name": "Gran Piemonte",
+            "date": "9 Oct 2025",
+            "points": 85,
+            "rank": 5
+          },
           {
             "name": "Coppa Bernocchi - GP Banco BPM",
             "date": "6 Oct 2025",
@@ -625,8 +631,14 @@
         "id": 2002910,
         "team": "UAD",
         "country": "mx",
-        "totalPoints": 4779,
+        "totalPoints": 4979,
         "results": [
+          {
+            "name": "Gran Piemonte",
+            "date": "9 Oct 2025",
+            "points": 200,
+            "rank": 1
+          },
           {
             "name": "Tre Valli Varesine",
             "date": "7 Oct 2025",
@@ -1015,8 +1027,14 @@
         "id": 88143,
         "team": "EFE",
         "country": "us",
-        "totalPoints": 1550.5,
+        "totalPoints": 1610.5,
         "results": [
+          {
+            "name": "Gran Piemonte",
+            "date": "9 Oct 2025",
+            "points": 60,
+            "rank": 7
+          },
           {
             "name": "Grand Prix Cycliste de Montréal",
             "date": "14 Sep 2025",
@@ -1371,8 +1389,14 @@
         "id": 762315,
         "team": "TPP",
         "country": "us",
-        "totalPoints": 275,
+        "totalPoints": 278,
         "results": [
+          {
+            "name": "Gran Piemonte",
+            "date": "9 Oct 2025",
+            "points": 3,
+            "rank": 33
+          },
           {
             "name": "World Championships ME - Road Race",
             "date": "28 Sep 2025",

@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "8 October 2025 23:21 GMT",
+  "fetchedDate": "9 October 2025 23:21 GMT",
   "momentId": 194384,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 17085.86,
+    "totalPoints": 17125.86,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -830,8 +830,14 @@
         "id": 95844,
         "team": "IGD",
         "country": "co",
-        "totalPoints": 1502.5,
+        "totalPoints": 1542.5,
         "results": [
+          {
+            "name": "Gran Piemonte",
+            "date": "9 Oct 2025",
+            "points": 40,
+            "rank": 9
+          },
           {
             "name": "Giro dell'Emilia",
             "date": "4 Oct 2025",
