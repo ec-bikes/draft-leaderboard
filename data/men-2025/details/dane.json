@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 October 2025 23:21 GMT",
+  "fetchedDate": "11 October 2025 23:20 GMT",
   "momentId": 194384,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 17125.86,
+    "totalPoints": 17355.86,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -170,8 +170,14 @@
         "id": 88889,
         "team": "RBH",
         "country": "si",
-        "totalPoints": 1826,
+        "totalPoints": 1856,
         "results": [
+          {
+            "name": "Il Lombardia",
+            "date": "11 Oct 2025",
+            "points": 30,
+            "rank": 22
+          },
           {
             "name": "Tre Valli Varesine",
             "date": "7 Oct 2025",
@@ -830,8 +836,14 @@
         "id": 95844,
         "team": "IGD",
         "country": "co",
-        "totalPoints": 1542.5,
+        "totalPoints": 1742.5,
         "results": [
+          {
+            "name": "Il Lombardia",
+            "date": "11 Oct 2025",
+            "points": 200,
+            "rank": 8
+          },
           {
             "name": "Gran Piemonte",
             "date": "9 Oct 2025",

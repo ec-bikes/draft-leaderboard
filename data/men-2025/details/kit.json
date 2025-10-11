@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 October 2025 23:21 GMT",
+  "fetchedDate": "11 October 2025 23:20 GMT",
   "momentId": 194384,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 20097,
+    "totalPoints": 20987,
     "riders": [
       {
         "name": "Tadej Pogačar",
         "id": 149727,
         "team": "UAD",
         "country": "si",
-        "totalPoints": 10880,
+        "totalPoints": 11680,
         "results": [
+          {
+            "name": "Il Lombardia",
+            "date": "11 Oct 2025",
+            "points": 800,
+            "rank": 1
+          },
           {
             "name": "Tre Valli Varesine",
             "date": "7 Oct 2025",
@@ -425,8 +431,14 @@
         "id": 68892,
         "team": "LTK",
         "country": "lv",
-        "totalPoints": 1061,
+        "totalPoints": 1091,
         "results": [
+          {
+            "name": "Il Lombardia",
+            "date": "11 Oct 2025",
+            "points": 30,
+            "rank": 28
+          },
           {
             "name": "Tre Valli Varesine",
             "date": "7 Oct 2025",
@@ -548,8 +560,14 @@
         "id": 68367,
         "team": "SOQ",
         "country": "es",
-        "totalPoints": 690,
+        "totalPoints": 740,
         "results": [
+          {
+            "name": "Il Lombardia",
+            "date": "11 Oct 2025",
+            "points": 50,
+            "rank": 19
+          },
           {
             "name": "Tre Valli Varesine",
             "date": "7 Oct 2025",
@@ -1031,8 +1049,14 @@
         "id": 422863,
         "team": "COF",
         "country": "es",
-        "totalPoints": 1152,
+        "totalPoints": 1162,
         "results": [
+          {
+            "name": "Il Lombardia",
+            "date": "11 Oct 2025",
+            "points": 10,
+            "rank": 55
+          },
           {
             "name": "Gran Piemonte",
             "date": "9 Oct 2025",

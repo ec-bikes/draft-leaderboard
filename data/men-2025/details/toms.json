@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 October 2025 23:21 GMT",
+  "fetchedDate": "11 October 2025 23:20 GMT",
   "momentId": 194384,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 14551.13,
+    "totalPoints": 15336.13,
     "riders": [
       {
         "name": "Remco Evenepoel",
         "id": 1596046,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 3513,
+        "totalPoints": 4153,
         "results": [
+          {
+            "name": "Il Lombardia",
+            "date": "11 Oct 2025",
+            "points": 640,
+            "rank": 2
+          },
           {
             "name": "European Continental Championships ME - Road Race",
             "date": "5 Oct 2025",
@@ -401,8 +407,14 @@
         "id": 97805,
         "team": "JAY",
         "country": "au",
-        "totalPoints": 894.81,
+        "totalPoints": 944.81,
         "results": [
+          {
+            "name": "Il Lombardia",
+            "date": "11 Oct 2025",
+            "points": 50,
+            "rank": 18
+          },
           {
             "name": "Tre Valli Varesine",
             "date": "7 Oct 2025",
@@ -877,8 +889,14 @@
         "id": 1843476,
         "team": "TBV",
         "country": "fr",
-        "totalPoints": 1618,
+        "totalPoints": 1713,
         "results": [
+          {
+            "name": "Il Lombardia",
+            "date": "11 Oct 2025",
+            "points": 95,
+            "rank": 12
+          },
           {
             "name": "Gran Piemonte",
             "date": "9 Oct 2025",

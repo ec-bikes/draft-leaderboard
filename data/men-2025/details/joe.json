@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 October 2025 23:21 GMT",
+  "fetchedDate": "11 October 2025 23:20 GMT",
   "momentId": 194384,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 15801.3,
+    "totalPoints": 15831.3,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -689,8 +689,14 @@
         "id": 97280,
         "team": "RBH",
         "country": "ru",
-        "totalPoints": 245.71,
+        "totalPoints": 260.71,
         "results": [
+          {
+            "name": "Il Lombardia",
+            "date": "11 Oct 2025",
+            "points": 15,
+            "rank": 33
+          },
           {
             "name": "Tre Valli Varesine",
             "date": "7 Oct 2025",
@@ -1295,8 +1301,14 @@
         "id": 54679,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 827,
+        "totalPoints": 842,
         "results": [
+          {
+            "name": "Il Lombardia",
+            "date": "11 Oct 2025",
+            "points": 15,
+            "rank": 43
+          },
           {
             "name": "Gran Piemonte",
             "date": "9 Oct 2025",

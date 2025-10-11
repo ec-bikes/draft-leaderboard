@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 October 2025 23:20 GMT",
+  "fetchedDate": "11 October 2025 23:20 GMT",
   "momentId": 194402,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 11809.14,
+    "totalPoints": 11934.14,
     "riders": [
       {
         "name": "Liane Lippert",
@@ -847,8 +847,14 @@
         "id": 2317617,
         "team": "MOV",
         "country": "gb",
-        "totalPoints": 1321.14,
+        "totalPoints": 1446.14,
         "results": [
+          {
+            "name": "Vuelta Ciclista Andalucia Elite women",
+            "date": "11 Oct 2025",
+            "points": 125,
+            "rank": 1
+          },
           {
             "name": "Tre Valli Varesine Women's Race",
             "date": "7 Oct 2025",

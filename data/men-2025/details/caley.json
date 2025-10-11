@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 October 2025 23:21 GMT",
+  "fetchedDate": "11 October 2025 23:20 GMT",
   "momentId": 194384,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 15699.1,
+    "totalPoints": 16124.1,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -427,8 +427,14 @@
         "id": 88346,
         "team": "TVL",
         "country": "us",
-        "totalPoints": 831.57,
+        "totalPoints": 861.57,
         "results": [
+          {
+            "name": "Il Lombardia",
+            "date": "11 Oct 2025",
+            "points": 30,
+            "rank": 26
+          },
           {
             "name": "La Vuelta Ciclista a España - General classificationGeneral classification",
             "date": "14 Sep 2025",
@@ -520,8 +526,14 @@
         "id": 62919,
         "team": "JAY",
         "country": "au",
-        "totalPoints": 1690.67,
+        "totalPoints": 1720.67,
         "results": [
+          {
+            "name": "Il Lombardia",
+            "date": "11 Oct 2025",
+            "points": 30,
+            "rank": 21
+          },
           {
             "name": "Gran Piemonte",
             "date": "9 Oct 2025",
@@ -631,8 +643,14 @@
         "id": 2002910,
         "team": "UAD",
         "country": "mx",
-        "totalPoints": 4979,
+        "totalPoints": 5339,
         "results": [
+          {
+            "name": "Il Lombardia",
+            "date": "11 Oct 2025",
+            "points": 360,
+            "rank": 5
+          },
           {
             "name": "Gran Piemonte",
             "date": "9 Oct 2025",
@@ -1389,8 +1407,14 @@
         "id": 762315,
         "team": "TPP",
         "country": "us",
-        "totalPoints": 278,
+        "totalPoints": 283,
         "results": [
+          {
+            "name": "Il Lombardia",
+            "date": "11 Oct 2025",
+            "points": 5,
+            "rank": 56
+          },
           {
             "name": "Gran Piemonte",
             "date": "9 Oct 2025",

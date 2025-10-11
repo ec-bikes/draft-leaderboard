@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 October 2025 23:21 GMT",
+  "fetchedDate": "11 October 2025 23:20 GMT",
   "momentId": 194384,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 17182.71,
+    "totalPoints": 17297.71,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -570,8 +570,14 @@
         "id": 1710249,
         "team": "TPP",
         "country": "gb",
-        "totalPoints": 2860,
+        "totalPoints": 2910,
         "results": [
+          {
+            "name": "Il Lombardia",
+            "date": "11 Oct 2025",
+            "points": 50,
+            "rank": 17
+          },
           {
             "name": "Tre Valli Varesine",
             "date": "7 Oct 2025",
@@ -1142,8 +1148,14 @@
         "id": 144019,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 2274,
+        "totalPoints": 2329,
         "results": [
+          {
+            "name": "Il Lombardia",
+            "date": "11 Oct 2025",
+            "points": 55,
+            "rank": 15
+          },
           {
             "name": "Gran Piemonte",
             "date": "9 Oct 2025",
@@ -1342,8 +1354,14 @@
         "id": 308040,
         "team": "TBV",
         "country": "it",
-        "totalPoints": 1099.5,
+        "totalPoints": 1109.5,
         "results": [
+          {
+            "name": "Il Lombardia",
+            "date": "11 Oct 2025",
+            "points": 10,
+            "rank": 51
+          },
           {
             "name": "Giro dell'Emilia",
             "date": "4 Oct 2025",

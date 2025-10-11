@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "10 October 2025 23:21 GMT",
+  "fetchedDate": "11 October 2025 23:20 GMT",
   "momentId": 194384,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 12037.81,
+    "totalPoints": 12052.81,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -391,8 +391,14 @@
         "id": 2178033,
         "team": "MOV",
         "country": "es",
-        "totalPoints": 1084.43,
+        "totalPoints": 1099.43,
         "results": [
+          {
+            "name": "Il Lombardia",
+            "date": "11 Oct 2025",
+            "points": 15,
+            "rank": 40
+          },
           {
             "name": "La Vuelta Ciclista a España - S12Stage 12 - Laredo › Los Corrales de Buelna",
             "date": "4 Sep 2025",
