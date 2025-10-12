@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "11 October 2025 23:20 GMT",
+  "fetchedDate": "12 October 2025 23:20 GMT",
   "momentId": 194384,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 15813.61,
+    "totalPoints": 15978.61,
     "riders": [
       {
         "name": "Adam Yates",
         "id": 70590,
         "team": "UAD",
         "country": "gb",
-        "totalPoints": 1197,
+        "totalPoints": 1322,
         "results": [
+          {
+            "name": "Trofeo Tessile & Moda - Valdengo Oropa",
+            "date": "12 Oct 2025",
+            "points": 125,
+            "rank": 1
+          },
           {
             "name": "Il Lombardia",
             "date": "11 Oct 2025",
@@ -859,8 +865,14 @@
         "id": 111343,
         "team": "UAD",
         "country": "fr",
-        "totalPoints": 965.9,
+        "totalPoints": 1005.9,
         "results": [
+          {
+            "name": "Trofeo Tessile & Moda - Valdengo Oropa",
+            "date": "12 Oct 2025",
+            "points": 40,
+            "rank": 6
+          },
           {
             "name": "European Continental Championships ME - Road Race",
             "date": "5 Oct 2025",
