@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "13 October 2025 23:21 GMT",
-  "momentId": 194384,
+  "fetchedDate": "14 October 2025 23:22 GMT",
+  "momentId": 194562,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 12052.81,
+    "totalPoints": 12098.81,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -728,8 +728,19 @@
         "id": 1759987,
         "team": "SOQ",
         "country": "fr",
-        "totalPoints": 2101,
+        "totalPoints": 2147,
         "results": [
+          {
+            "name": "Tour of Guangxi - S1Stage 1 - Fangchenggang › Fangchenggang",
+            "date": "14 Oct 2025",
+            "points": 40,
+            "rank": 1
+          },
+          {
+            "name": "Tour of Guangxi - S1Stage 1 - Fangchenggang › Fangchenggang - Bonus",
+            "date": "14 Oct 2025",
+            "points": 6
+          },
           {
             "name": "CRO Race - S6Stage 6 - Samobor › Zagreb",
             "date": "5 Oct 2025",

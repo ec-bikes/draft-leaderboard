@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "13 October 2025 23:21 GMT",
-  "momentId": 194402,
+  "fetchedDate": "14 October 2025 23:21 GMT",
+  "momentId": 194580,
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women’s Cycling Team",
-    "totalPoints": 8230.58,
+    "totalPoints": 8288.58,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -981,8 +981,19 @@
         "id": 78086,
         "team": "LIV",
         "country": "au",
-        "totalPoints": 545.29,
+        "totalPoints": 603.29,
         "results": [
+          {
+            "name": "Tour of Chongming Island - S1Stage 1 - Chongming › Chongming",
+            "date": "14 Oct 2025",
+            "points": 50,
+            "rank": 1
+          },
+          {
+            "name": "Tour of Chongming Island - S1Stage 1 - Chongming › Chongming - Bonus",
+            "date": "14 Oct 2025",
+            "points": 8
+          },
           {
             "name": "Simac Ladies Tour - General classificationGeneral classification",
             "date": "7 Sep 2025",
