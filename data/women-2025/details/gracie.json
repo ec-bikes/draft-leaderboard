@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 October 2025 23:21 GMT",
+  "fetchedDate": "15 October 2025 23:21 GMT",
   "momentId": 194580,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 16730.23,
+    "totalPoints": 16775.23,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -274,8 +274,14 @@
         "id": 101826,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 2603,
+        "totalPoints": 2633,
         "results": [
+          {
+            "name": "Tour of Chongming Island - S2Stage 2 - Shanghai › Chongming",
+            "date": "15 Oct 2025",
+            "points": 30,
+            "rank": 3
+          },
           {
             "name": "Tour of Chongming Island - S1Stage 1 - Chongming › Chongming",
             "date": "14 Oct 2025",
@@ -1368,8 +1374,14 @@
         "id": 98622,
         "team": "HPH",
         "country": "at",
-        "totalPoints": 825,
+        "totalPoints": 840,
         "results": [
+          {
+            "name": "Tour of Chongming Island - S2Stage 2 - Shanghai › Chongming",
+            "date": "15 Oct 2025",
+            "points": 15,
+            "rank": 7
+          },
           {
             "name": "Binche Chimay Binche pour Dames",
             "date": "7 Oct 2025",

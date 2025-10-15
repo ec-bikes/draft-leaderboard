@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 October 2025 23:21 GMT",
+  "fetchedDate": "15 October 2025 23:21 GMT",
   "momentId": 194580,
   "team": {
     "owner": "Tils Raynolds",
     "name": "The Suffragettes Collective",
-    "totalPoints": 12022.14,
+    "totalPoints": 12147.14,
     "riders": [
       {
         "name": "Liane Lippert",
@@ -343,8 +343,14 @@
         "id": 1589305,
         "team": "MOV",
         "country": "ch",
-        "totalPoints": 3342.14,
+        "totalPoints": 3427.14,
         "results": [
+          {
+            "name": "Veneto Women",
+            "date": "15 Oct 2025",
+            "points": 85,
+            "rank": 2
+          },
           {
             "name": "Trofeo Tessile & Moda Donne - Comune di Valdengo e Biella",
             "date": "12 Oct 2025",
@@ -790,8 +796,14 @@
         "id": 1987823,
         "team": "CSZ",
         "country": "au",
-        "totalPoints": 237.86,
+        "totalPoints": 277.86,
         "results": [
+          {
+            "name": "Veneto Women",
+            "date": "15 Oct 2025",
+            "points": 40,
+            "rank": 6
+          },
           {
             "name": "Trofeo Tessile & Moda Donne - Comune di Valdengo e Biella",
             "date": "12 Oct 2025",

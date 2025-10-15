@@ -1,13 +1,13 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 October 2025 23:22 GMT",
+  "fetchedDate": "15 October 2025 23:21 GMT",
   "momentId": 194562,
   "teams": [
     {
       "owner": "Kit Nicholson",
       "name": "Picnic-Letterboxd",
-      "totalPoints": 21107,
+      "totalPoints": 21109,
       "riders": [
         {
           "name": "Tadej Pogačar",
@@ -42,7 +42,7 @@
           "id": 148901,
           "team": "RBH",
           "country": "be",
-          "totalPoints": 1198
+          "totalPoints": 1200
         },
         {
           "name": "Kaden Groves",
@@ -85,7 +85,7 @@
     {
       "owner": "Jonny Long",
       "name": "Ineos Grenadiers-Greenpeace-Poundland",
-      "totalPoints": 17532.71,
+      "totalPoints": 17537.71,
       "riders": [
         {
           "name": "Jonas Vingegaard",
@@ -148,7 +148,7 @@
           "id": 144019,
           "team": "XAT",
           "country": "it",
-          "totalPoints": 2389
+          "totalPoints": 2394
         },
         {
           "name": "Antonio Tiberi",
@@ -163,7 +163,7 @@
     {
       "owner": "Toms Skujiņš",
       "name": "Lidl-Trek-Bauer",
-      "totalPoints": 15396.13,
+      "totalPoints": 15410.13,
       "riders": [
         {
           "name": "Remco Evenepoel",
@@ -177,7 +177,7 @@
           "id": 70962,
           "team": "SOQ",
           "country": "be",
-          "totalPoints": 1962.29
+          "totalPoints": 1976.29
         },
         {
           "name": "Ben O'Connor",
@@ -241,7 +241,7 @@
     {
       "owner": "Dane Cash",
       "name": "Visma-Lease a Bike-Monster Energy",
-      "totalPoints": 17355.86,
+      "totalPoints": 17415.86,
       "riders": [
         {
           "name": "Jasper Philipsen",
@@ -304,7 +304,7 @@
           "id": 1759422,
           "team": "GFC",
           "country": "fr",
-          "totalPoints": 1725
+          "totalPoints": 1785
         },
         {
           "name": "Stefan Küng",
@@ -397,7 +397,7 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 15831.3,
+      "totalPoints": 15839.3,
       "riders": [
         {
           "name": "Mathieu van der Poel",
@@ -446,14 +446,14 @@
           "id": 482927,
           "team": "TPP",
           "country": "dk",
-          "totalPoints": 1246
+          "totalPoints": 1249
         },
         {
           "name": "Diego Ulissi",
           "id": 54679,
           "team": "XAT",
           "country": "it",
-          "totalPoints": 842
+          "totalPoints": 847
         },
         {
           "name": "Mauri Vansevenant",
@@ -475,7 +475,7 @@
     {
       "owner": "Caley Fretz",
       "name": "US Postal Service Bald Eagles",
-      "totalPoints": 16124.1,
+      "totalPoints": 16324.1,
       "riders": [
         {
           "name": "Matteo Jorgenson",
@@ -510,7 +510,7 @@
           "id": 2002910,
           "team": "UAD",
           "country": "mx",
-          "totalPoints": 5339
+          "totalPoints": 5539
         },
         {
           "name": "Daniel Martínez",
@@ -553,7 +553,7 @@
     {
       "owner": "Andrew (member)",
       "name": "Groupama-FDJ-Tourtel Twist",
-      "totalPoints": 15978.61,
+      "totalPoints": 16133.61,
       "riders": [
         {
           "name": "Adam Yates",
@@ -574,7 +574,7 @@
           "id": 227110,
           "team": "TVL",
           "country": "nl",
-          "totalPoints": 2115
+          "totalPoints": 2120
         },
         {
           "name": "Kévin Vauquelin",
@@ -588,7 +588,7 @@
           "id": 111343,
           "team": "UAD",
           "country": "fr",
-          "totalPoints": 1005.9
+          "totalPoints": 1155.9
         },
         {
           "name": "Tim Wellens",
@@ -631,7 +631,7 @@
     {
       "owner": "Discord Undrafted",
       "name": "Team Movistar easyJet",
-      "totalPoints": 12098.81,
+      "totalPoints": 12144.81,
       "riders": [
         {
           "name": "Dylan Groenewegen",
@@ -680,7 +680,7 @@
           "id": 1759987,
           "team": "SOQ",
           "country": "fr",
-          "totalPoints": 2147
+          "totalPoints": 2193
         },
         {
           "name": "Mauro Schmid",

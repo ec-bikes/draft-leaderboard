@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 October 2025 23:21 GMT",
+  "fetchedDate": "15 October 2025 23:21 GMT",
   "momentId": 194580,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 9924.18,
+    "totalPoints": 10049.18,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -208,8 +208,14 @@
         "id": 107539,
         "team": "UAD",
         "country": "it",
-        "totalPoints": 871,
+        "totalPoints": 996,
         "results": [
+          {
+            "name": "Veneto Women",
+            "date": "15 Oct 2025",
+            "points": 125,
+            "rank": 1
+          },
           {
             "name": "European Continental Championships WE - Road Race",
             "date": "4 Oct 2025",

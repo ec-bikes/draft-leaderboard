@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 October 2025 23:22 GMT",
+  "fetchedDate": "15 October 2025 23:21 GMT",
   "momentId": 194562,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 15396.13,
+    "totalPoints": 15410.13,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -218,8 +218,14 @@
         "id": 70962,
         "team": "SOQ",
         "country": "be",
-        "totalPoints": 1962.29,
+        "totalPoints": 1976.29,
         "results": [
+          {
+            "name": "NIBC Tour of Holland - S1Stage 1 - Dordrecht › Dordrecht",
+            "date": "15 Oct 2025",
+            "points": 14,
+            "rank": 1
+          },
           {
             "name": "Omloop van het Houtland",
             "date": "24 Sep 2025",

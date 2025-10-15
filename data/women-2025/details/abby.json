@@ -1,20 +1,26 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 October 2025 23:21 GMT",
+  "fetchedDate": "15 October 2025 23:21 GMT",
   "momentId": 194580,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 10767.71,
+    "totalPoints": 10817.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
         "id": 76149,
         "team": "UAD",
         "country": "it",
-        "totalPoints": 3003,
+        "totalPoints": 3053,
         "results": [
+          {
+            "name": "Veneto Women",
+            "date": "15 Oct 2025",
+            "points": 50,
+            "rank": 5
+          },
           {
             "name": "Trofeo Tessile & Moda Donne - Comune di Valdengo e Biella",
             "date": "12 Oct 2025",

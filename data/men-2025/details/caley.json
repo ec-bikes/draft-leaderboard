@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 October 2025 23:22 GMT",
+  "fetchedDate": "15 October 2025 23:21 GMT",
   "momentId": 194562,
   "team": {
     "owner": "Caley Fretz",
     "name": "US Postal Service Bald Eagles",
-    "totalPoints": 16124.1,
+    "totalPoints": 16324.1,
     "riders": [
       {
         "name": "Matteo Jorgenson",
@@ -643,8 +643,14 @@
         "id": 2002910,
         "team": "UAD",
         "country": "mx",
-        "totalPoints": 5339,
+        "totalPoints": 5539,
         "results": [
+          {
+            "name": "Giro del Veneto",
+            "date": "15 Oct 2025",
+            "points": 200,
+            "rank": 1
+          },
           {
             "name": "Il Lombardia",
             "date": "11 Oct 2025",

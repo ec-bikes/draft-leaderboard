@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 October 2025 23:22 GMT",
+  "fetchedDate": "15 October 2025 23:21 GMT",
   "momentId": 194562,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 15831.3,
+    "totalPoints": 15839.3,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -1106,8 +1106,14 @@
         "id": 482927,
         "team": "TPP",
         "country": "dk",
-        "totalPoints": 1246,
+        "totalPoints": 1249,
         "results": [
+          {
+            "name": "NIBC Tour of Holland - S1Stage 1 - Dordrecht › Dordrecht",
+            "date": "15 Oct 2025",
+            "points": 3,
+            "rank": 3
+          },
           {
             "name": "Coppa Bernocchi - GP Banco BPM",
             "date": "6 Oct 2025",
@@ -1301,8 +1307,14 @@
         "id": 54679,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 842,
+        "totalPoints": 847,
         "results": [
+          {
+            "name": "Giro del Veneto",
+            "date": "15 Oct 2025",
+            "points": 5,
+            "rank": 21
+          },
           {
             "name": "Il Lombardia",
             "date": "11 Oct 2025",

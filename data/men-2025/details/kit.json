@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 October 2025 23:22 GMT",
+  "fetchedDate": "15 October 2025 23:21 GMT",
   "momentId": 194562,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 21107,
+    "totalPoints": 21109,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -653,8 +653,14 @@
         "id": 148901,
         "team": "RBH",
         "country": "be",
-        "totalPoints": 1198,
+        "totalPoints": 1200,
         "results": [
+          {
+            "name": "Tour of Guangxi - S2Stage 2 - Chongzuo › Jingxi",
+            "date": "15 Oct 2025",
+            "points": 2,
+            "rank": 9
+          },
           {
             "name": "Tour of Guangxi - S1Stage 1 - Fangchenggang › Fangchenggang",
             "date": "14 Oct 2025",

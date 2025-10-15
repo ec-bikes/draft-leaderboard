@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 October 2025 23:21 GMT",
+  "fetchedDate": "15 October 2025 23:21 GMT",
   "momentId": 194580,
   "team": {
     "owner": "Tilda Price",
     "name": "Santa Cruz-Shimano",
-    "totalPoints": 12365.72,
+    "totalPoints": 12415.72,
     "riders": [
       {
         "name": "Lorena Wiebes",
@@ -928,8 +928,14 @@
         "id": 228141,
         "team": "UAD",
         "country": "nl",
-        "totalPoints": 154,
+        "totalPoints": 204,
         "results": [
+          {
+            "name": "Tour of Chongming Island - S2Stage 2 - Shanghai › Chongming",
+            "date": "15 Oct 2025",
+            "points": 50,
+            "rank": 1
+          },
           {
             "name": "Tour of Chongming Island - S1Stage 1 - Chongming › Chongming",
             "date": "14 Oct 2025",

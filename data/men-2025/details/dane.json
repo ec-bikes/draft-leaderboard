@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 October 2025 23:22 GMT",
+  "fetchedDate": "15 October 2025 23:21 GMT",
   "momentId": 194562,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 17355.86,
+    "totalPoints": 17415.86,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -1160,8 +1160,14 @@
         "id": 1759422,
         "team": "GFC",
         "country": "fr",
-        "totalPoints": 1725,
+        "totalPoints": 1785,
         "results": [
+          {
+            "name": "Giro del Veneto",
+            "date": "15 Oct 2025",
+            "points": 60,
+            "rank": 7
+          },
           {
             "name": "European Continental Championships ME - Road Race",
             "date": "5 Oct 2025",

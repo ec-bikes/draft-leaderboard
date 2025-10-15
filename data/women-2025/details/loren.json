@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "14 October 2025 23:21 GMT",
+  "fetchedDate": "15 October 2025 23:21 GMT",
   "momentId": 194580,
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women’s Cycling Team",
-    "totalPoints": 8288.58,
+    "totalPoints": 8323.58,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -600,8 +600,14 @@
         "id": 2096868,
         "team": "AGS",
         "country": "be",
-        "totalPoints": 196,
+        "totalPoints": 211,
         "results": [
+          {
+            "name": "Veneto Women",
+            "date": "15 Oct 2025",
+            "points": 15,
+            "rank": 11
+          },
           {
             "name": "Trofeo Tessile & Moda Donne - Comune di Valdengo e Biella",
             "date": "12 Oct 2025",
@@ -981,8 +987,14 @@
         "id": 78086,
         "team": "LIV",
         "country": "au",
-        "totalPoints": 603.29,
+        "totalPoints": 623.29,
         "results": [
+          {
+            "name": "Tour of Chongming Island - S2Stage 2 - Shanghai › Chongming",
+            "date": "15 Oct 2025",
+            "points": 20,
+            "rank": 5
+          },
           {
             "name": "Tour of Chongming Island - S1Stage 1 - Chongming › Chongming",
             "date": "14 Oct 2025",
