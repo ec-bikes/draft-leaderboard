@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 October 2025 23:21 GMT",
+  "fetchedDate": "16 October 2025 23:19 GMT",
   "momentId": 194562,
   "team": {
     "owner": "Discord Undrafted",
     "name": "Team Movistar easyJet",
-    "totalPoints": 12144.81,
+    "totalPoints": 12190.81,
     "riders": [
       {
         "name": "Dylan Groenewegen",
@@ -728,8 +728,19 @@
         "id": 1759987,
         "team": "SOQ",
         "country": "fr",
-        "totalPoints": 2193,
+        "totalPoints": 2239,
         "results": [
+          {
+            "name": "Tour of Guangxi - S3Stage 3 - Jingxi › Bama",
+            "date": "16 Oct 2025",
+            "points": 40,
+            "rank": 1
+          },
+          {
+            "name": "Tour of Guangxi - S3Stage 3 - Jingxi › Bama - Bonus",
+            "date": "16 Oct 2025",
+            "points": 6
+          },
           {
             "name": "Tour of Guangxi - S2Stage 2 - Chongzuo › Jingxi",
             "date": "15 Oct 2025",

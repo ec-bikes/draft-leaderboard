@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 October 2025 23:21 GMT",
+  "fetchedDate": "16 October 2025 23:19 GMT",
   "momentId": 194580,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 10049.18,
+    "totalPoints": 10309.18,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -1216,8 +1216,20 @@
         "id": 86854,
         "team": "LTK",
         "country": "nl",
-        "totalPoints": 764.14,
+        "totalPoints": 1024.14,
         "results": [
+          {
+            "name": "Tour of Chongming Island - General classificationGeneral classification",
+            "date": "16 Oct 2025",
+            "points": 220,
+            "rank": 4
+          },
+          {
+            "name": "Tour of Chongming Island - S3Stage 3 - Chongming › Chongming",
+            "date": "16 Oct 2025",
+            "points": 40,
+            "rank": 2
+          },
           {
             "name": "Tre Valli Varesine Women's Race",
             "date": "7 Oct 2025",

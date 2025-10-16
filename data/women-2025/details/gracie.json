@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 October 2025 23:21 GMT",
+  "fetchedDate": "16 October 2025 23:19 GMT",
   "momentId": 194580,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 16775.23,
+    "totalPoints": 16895.23,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -274,8 +274,14 @@
         "id": 101826,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 2633,
+        "totalPoints": 2713,
         "results": [
+          {
+            "name": "Tour of Chongming Island - General classificationGeneral classification",
+            "date": "16 Oct 2025",
+            "points": 80,
+            "rank": 9
+          },
           {
             "name": "Tour of Chongming Island - S2Stage 2 - Shanghai › Chongming",
             "date": "15 Oct 2025",
@@ -1374,8 +1380,14 @@
         "id": 98622,
         "team": "HPH",
         "country": "at",
-        "totalPoints": 840,
+        "totalPoints": 880,
         "results": [
+          {
+            "name": "Tour of Chongming Island - General classificationGeneral classification",
+            "date": "16 Oct 2025",
+            "points": 40,
+            "rank": 13
+          },
           {
             "name": "Tour of Chongming Island - S2Stage 2 - Shanghai › Chongming",
             "date": "15 Oct 2025",

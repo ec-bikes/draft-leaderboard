@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "15 October 2025 23:21 GMT",
+  "fetchedDate": "16 October 2025 23:19 GMT",
   "momentId": 194580,
   "team": {
     "owner": "Loren Rowney",
     "name": "Super Lekker Pro Potato Women’s Cycling Team",
-    "totalPoints": 8323.58,
+    "totalPoints": 8397.58,
     "riders": [
       {
         "name": "Lotte Kopecky",
@@ -987,8 +987,20 @@
         "id": 78086,
         "team": "LIV",
         "country": "au",
-        "totalPoints": 623.29,
+        "totalPoints": 697.29,
         "results": [
+          {
+            "name": "Tour of Chongming Island - General classificationGeneral classification",
+            "date": "16 Oct 2025",
+            "points": 68,
+            "rank": 10
+          },
+          {
+            "name": "Tour of Chongming Island - S3Stage 3 - Chongming › Chongming",
+            "date": "16 Oct 2025",
+            "points": 6,
+            "rank": 10
+          },
           {
             "name": "Tour of Chongming Island - S2Stage 2 - Shanghai › Chongming",
             "date": "15 Oct 2025",
