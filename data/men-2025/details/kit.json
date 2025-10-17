@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "16 October 2025 23:19 GMT",
+  "fetchedDate": "17 October 2025 23:21 GMT",
   "momentId": 194562,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 21134,
+    "totalPoints": 21154,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -653,8 +653,14 @@
         "id": 148901,
         "team": "RBH",
         "country": "be",
-        "totalPoints": 1225,
+        "totalPoints": 1245,
         "results": [
+          {
+            "name": "Tour of Guangxi - S4Stage 4 - Bama › Jinchengjiang",
+            "date": "17 Oct 2025",
+            "points": 20,
+            "rank": 3
+          },
           {
             "name": "Tour of Guangxi - S3Stage 3 - Jingxi › Bama",
             "date": "16 Oct 2025",
