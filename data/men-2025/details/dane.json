@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "17 October 2025 23:21 GMT",
+  "fetchedDate": "18 October 2025 23:21 GMT",
   "momentId": 194562,
   "team": {
     "owner": "Dane Cash",
     "name": "Visma-Lease a Bike-Monster Energy",
-    "totalPoints": 17415.86,
+    "totalPoints": 17423.86,
     "riders": [
       {
         "name": "Jasper Philipsen",
@@ -696,8 +696,14 @@
         "id": 96372,
         "team": "UAD",
         "country": "ec",
-        "totalPoints": 1299.14,
+        "totalPoints": 1307.14,
         "results": [
+          {
+            "name": "Tour of Guangxi - S5Stage 5 - Yizhou › Nongla",
+            "date": "18 Oct 2025",
+            "points": 8,
+            "rank": 6
+          },
           {
             "name": "Skoda Tour de Luxembourg - General classificationGeneral classification",
             "date": "21 Sep 2025",
