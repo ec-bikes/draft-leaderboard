@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 October 2025 23:21 GMT",
+  "fetchedDate": "19 October 2025 23:21 GMT",
   "momentId": 194562,
   "team": {
     "owner": "Andrew (member)",
     "name": "Groupama-FDJ-Tourtel Twist",
-    "totalPoints": 16133.61,
+    "totalPoints": 16176.61,
     "riders": [
       {
         "name": "Adam Yates",
@@ -424,8 +424,14 @@
         "id": 227110,
         "team": "TVL",
         "country": "nl",
-        "totalPoints": 2120,
+        "totalPoints": 2123,
         "results": [
+          {
+            "name": "NIBC Tour of Holland - General classificationGeneral classification",
+            "date": "19 Oct 2025",
+            "points": 3,
+            "rank": 19
+          },
           {
             "name": "NIBC Tour of Holland - S1Stage 1 - Dordrecht › Dordrecht",
             "date": "15 Oct 2025",
@@ -997,8 +1003,14 @@
         "id": 64531,
         "team": "UAD",
         "country": "be",
-        "totalPoints": 1210,
+        "totalPoints": 1250,
         "results": [
+          {
+            "name": "Veneto Classic",
+            "date": "19 Oct 2025",
+            "points": 40,
+            "rank": 9
+          },
           {
             "name": "CRO Race - General classificationGeneral classification",
             "date": "5 Oct 2025",

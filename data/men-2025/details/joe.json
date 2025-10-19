@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 October 2025 23:21 GMT",
+  "fetchedDate": "19 October 2025 23:21 GMT",
   "momentId": 194562,
   "team": {
     "owner": "Joe Lindsey",
     "name": "AlUla-Palantir",
-    "totalPoints": 15839.3,
+    "totalPoints": 15987.3,
     "riders": [
       {
         "name": "Mathieu van der Poel",
@@ -812,8 +812,14 @@
         "id": 462394,
         "team": "UAD",
         "country": "ch",
-        "totalPoints": 1327,
+        "totalPoints": 1347,
         "results": [
+          {
+            "name": "Tour of Guangxi - General classificationGeneral classification",
+            "date": "19 Oct 2025",
+            "points": 20,
+            "rank": 18
+          },
           {
             "name": "European Continental Championships - Mixed Relay TTT",
             "date": "2 Oct 2025",
@@ -1106,8 +1112,14 @@
         "id": 482927,
         "team": "TPP",
         "country": "dk",
-        "totalPoints": 1249,
+        "totalPoints": 1252,
         "results": [
+          {
+            "name": "NIBC Tour of Holland - General classificationGeneral classification",
+            "date": "19 Oct 2025",
+            "points": 3,
+            "rank": 16
+          },
           {
             "name": "NIBC Tour of Holland - S1Stage 1 - Dordrecht › Dordrecht",
             "date": "15 Oct 2025",
@@ -1307,8 +1319,14 @@
         "id": 54679,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 847,
+        "totalPoints": 972,
         "results": [
+          {
+            "name": "Veneto Classic",
+            "date": "19 Oct 2025",
+            "points": 125,
+            "rank": 3
+          },
           {
             "name": "Giro del Veneto",
             "date": "15 Oct 2025",

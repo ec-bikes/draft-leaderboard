@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 October 2025 23:21 GMT",
+  "fetchedDate": "19 October 2025 23:21 GMT",
   "momentId": 194580,
   "team": {
     "owner": "Gracie Elvin",
     "name": "Lamborghini p/b Tony's Chocolonely",
-    "totalPoints": 16895.23,
+    "totalPoints": 16903.23,
     "riders": [
       {
         "name": "Demi Vollering",
@@ -274,8 +274,14 @@
         "id": 101826,
         "team": "LTK",
         "country": "it",
-        "totalPoints": 2713,
+        "totalPoints": 2721,
         "results": [
+          {
+            "name": "Tour of Guangxi Women's WorldTour",
+            "date": "19 Oct 2025",
+            "points": 8,
+            "rank": 34
+          },
           {
             "name": "Tour of Chongming Island - General classificationGeneral classification",
             "date": "16 Oct 2025",

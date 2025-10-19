@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 October 2025 23:21 GMT",
+  "fetchedDate": "19 October 2025 23:21 GMT",
   "momentId": 194580,
   "team": {
     "owner": "Abby Mickey",
     "name": "The Tortured Breakaway Department",
-    "totalPoints": 10982.71,
+    "totalPoints": 11382.71,
     "riders": [
       {
         "name": "Elisa Longo Borghini",
@@ -752,8 +752,14 @@
         "id": 237690,
         "team": "LTK",
         "country": "gb",
-        "totalPoints": 687.14,
+        "totalPoints": 1087.14,
         "results": [
+          {
+            "name": "Tour of Guangxi Women's WorldTour",
+            "date": "19 Oct 2025",
+            "points": 400,
+            "rank": 1
+          },
           {
             "name": "European Continental Championships WE - ITT",
             "date": "1 Oct 2025",

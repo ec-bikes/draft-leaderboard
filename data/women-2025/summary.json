@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 October 2025 23:21 GMT",
+  "fetchedDate": "19 October 2025 23:21 GMT",
   "momentId": 194580,
   "teams": [
     {
@@ -85,7 +85,7 @@
     {
       "owner": "Abby Mickey",
       "name": "The Tortured Breakaway Department",
-      "totalPoints": 10982.71,
+      "totalPoints": 11382.71,
       "riders": [
         {
           "name": "Elisa Longo Borghini",
@@ -127,7 +127,7 @@
           "id": 237690,
           "team": "LTK",
           "country": "gb",
-          "totalPoints": 687.14
+          "totalPoints": 1087.14
         },
         {
           "name": "Chiara Consonni",
@@ -163,7 +163,7 @@
     {
       "owner": "Gracie Elvin",
       "name": "Lamborghini p/b Tony's Chocolonely",
-      "totalPoints": 16895.23,
+      "totalPoints": 16903.23,
       "riders": [
         {
           "name": "Demi Vollering",
@@ -177,7 +177,7 @@
           "id": 101826,
           "team": "LTK",
           "country": "it",
-          "totalPoints": 2713
+          "totalPoints": 2721
         },
         {
           "name": "Chloe Dygert",
@@ -319,7 +319,7 @@
     {
       "owner": "Georgie Howe",
       "name": "Specialized-Win-Collective Racing",
-      "totalPoints": 10309.18,
+      "totalPoints": 10449.18,
       "riders": [
         {
           "name": "Kasia Niewiadoma",
@@ -389,7 +389,7 @@
           "id": 86854,
           "team": "LTK",
           "country": "nl",
-          "totalPoints": 1024.14
+          "totalPoints": 1164.14
         }
       ],
       "movement": 0

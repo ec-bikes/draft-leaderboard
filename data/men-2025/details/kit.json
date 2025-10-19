@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 October 2025 23:21 GMT",
+  "fetchedDate": "19 October 2025 23:21 GMT",
   "momentId": 194562,
   "team": {
     "owner": "Kit Nicholson",
     "name": "Picnic-Letterboxd",
-    "totalPoints": 21154,
+    "totalPoints": 21174,
     "riders": [
       {
         "name": "Tadej Pogačar",
@@ -653,8 +653,14 @@
         "id": 148901,
         "team": "RBH",
         "country": "be",
-        "totalPoints": 1245,
+        "totalPoints": 1260,
         "results": [
+          {
+            "name": "Tour of Guangxi - S6Stage 6 - Nanning › Nanning",
+            "date": "19 Oct 2025",
+            "points": 15,
+            "rank": 4
+          },
           {
             "name": "Tour of Guangxi - S4Stage 4 - Bama › Jinchengjiang",
             "date": "17 Oct 2025",
@@ -1073,8 +1079,14 @@
         "id": 422863,
         "team": "COF",
         "country": "es",
-        "totalPoints": 1162,
+        "totalPoints": 1167,
         "results": [
+          {
+            "name": "Veneto Classic",
+            "date": "19 Oct 2025",
+            "points": 5,
+            "rank": 17
+          },
           {
             "name": "Il Lombardia",
             "date": "11 Oct 2025",

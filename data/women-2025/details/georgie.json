@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 October 2025 23:21 GMT",
+  "fetchedDate": "19 October 2025 23:21 GMT",
   "momentId": 194580,
   "team": {
     "owner": "Georgie Howe",
     "name": "Specialized-Win-Collective Racing",
-    "totalPoints": 10309.18,
+    "totalPoints": 10449.18,
     "riders": [
       {
         "name": "Kasia Niewiadoma",
@@ -1216,8 +1216,14 @@
         "id": 86854,
         "team": "LTK",
         "country": "nl",
-        "totalPoints": 1024.14,
+        "totalPoints": 1164.14,
         "results": [
+          {
+            "name": "Tour of Guangxi Women's WorldTour",
+            "date": "19 Oct 2025",
+            "points": 140,
+            "rank": 6
+          },
           {
             "name": "Tour of Chongming Island - General classificationGeneral classification",
             "date": "16 Oct 2025",

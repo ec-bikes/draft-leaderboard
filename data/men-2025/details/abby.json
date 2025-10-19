@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 October 2025 23:21 GMT",
+  "fetchedDate": "19 October 2025 23:21 GMT",
   "momentId": 194562,
   "team": {
     "owner": "Abby Mickey",
     "name": "EF Education-Swift Nation",
-    "totalPoints": 10751.91,
+    "totalPoints": 10791.91,
     "riders": [
       {
         "name": "Wout van Aert",
@@ -682,8 +682,14 @@
         "id": 86735,
         "team": "LTK",
         "country": "gb",
-        "totalPoints": 216,
+        "totalPoints": 256,
         "results": [
+          {
+            "name": "Tour of Guangxi - General classificationGeneral classification",
+            "date": "19 Oct 2025",
+            "points": 40,
+            "rank": 11
+          },
           {
             "name": "Tour of Guangxi - S5Stage 5 - Yizhou › Nongla",
             "date": "18 Oct 2025",

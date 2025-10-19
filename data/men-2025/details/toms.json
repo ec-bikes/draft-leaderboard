@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 October 2025 23:21 GMT",
+  "fetchedDate": "19 October 2025 23:21 GMT",
   "momentId": 194562,
   "team": {
     "owner": "Toms Skujiņš",
     "name": "Lidl-Trek-Bauer",
-    "totalPoints": 15411.13,
+    "totalPoints": 15691.13,
     "riders": [
       {
         "name": "Remco Evenepoel",
@@ -536,8 +536,14 @@
         "id": 76092,
         "team": "TBV",
         "country": "es",
-        "totalPoints": 1003,
+        "totalPoints": 1078,
         "results": [
+          {
+            "name": "Tour of Guangxi - General classificationGeneral classification",
+            "date": "19 Oct 2025",
+            "points": 75,
+            "rank": 8
+          },
           {
             "name": "Tour of Guangxi - S5Stage 5 - Yizhou › Nongla",
             "date": "18 Oct 2025",
@@ -901,8 +907,14 @@
         "id": 1843476,
         "team": "TBV",
         "country": "fr",
-        "totalPoints": 1713,
+        "totalPoints": 1913,
         "results": [
+          {
+            "name": "Utsunomiya Japan Cup Road Race",
+            "date": "19 Oct 2025",
+            "points": 200,
+            "rank": 1
+          },
           {
             "name": "Il Lombardia",
             "date": "11 Oct 2025",
@@ -1059,8 +1071,14 @@
         "id": 472995,
         "team": "LTK",
         "country": "cz",
-        "totalPoints": 731.86,
+        "totalPoints": 736.86,
         "results": [
+          {
+            "name": "Utsunomiya Japan Cup Road Race",
+            "date": "19 Oct 2025",
+            "points": 5,
+            "rank": 23
+          },
           {
             "name": "Paris - Tours Elite",
             "date": "12 Oct 2025",

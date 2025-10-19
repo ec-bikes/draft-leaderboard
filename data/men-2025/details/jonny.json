@@ -1,12 +1,12 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "18 October 2025 23:21 GMT",
+  "fetchedDate": "19 October 2025 23:21 GMT",
   "momentId": 194562,
   "team": {
     "owner": "Jonny Long",
     "name": "Ineos Grenadiers-Greenpeace-Poundland",
-    "totalPoints": 17548.71,
+    "totalPoints": 17678.71,
     "riders": [
       {
         "name": "Jonas Vingegaard",
@@ -953,8 +953,14 @@
         "id": 81980,
         "team": "TVL",
         "country": "fr",
-        "totalPoints": 244,
+        "totalPoints": 369,
         "results": [
+          {
+            "name": "NIBC Tour of Holland - General classificationGeneral classification",
+            "date": "19 Oct 2025",
+            "points": 125,
+            "rank": 1
+          },
           {
             "name": "NIBC Tour of Holland - S4Stage 4 - Emmen › VAM-Berg",
             "date": "18 Oct 2025",
@@ -1177,8 +1183,14 @@
         "id": 144019,
         "team": "XAT",
         "country": "it",
-        "totalPoints": 2394,
+        "totalPoints": 2399,
         "results": [
+          {
+            "name": "Veneto Classic",
+            "date": "19 Oct 2025",
+            "points": 5,
+            "rank": 16
+          },
           {
             "name": "Giro del Veneto",
             "date": "15 Oct 2025",
