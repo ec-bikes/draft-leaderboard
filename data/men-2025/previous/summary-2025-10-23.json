@@ -1,20 +1,20 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "22 September 2025 23:21 GMT",
-  "momentId": 193970,
+  "fetchedDate": "23 October 2025 23:21 GMT",
+  "momentId": 195007,
   "teams": [
     {
       "owner": "Kit Nicholson",
       "name": "Picnic-Letterboxd",
-      "totalPoints": 17719,
+      "totalPoints": 21174,
       "riders": [
         {
           "name": "Tadej Pogačar",
           "id": 149727,
           "team": "UAD",
           "country": "si",
-          "totalPoints": 9530
+          "totalPoints": 11680
         },
         {
           "name": "Thibau Nys",
@@ -28,21 +28,21 @@
           "id": 68892,
           "team": "LTK",
           "country": "lv",
-          "totalPoints": 481
+          "totalPoints": 1091
         },
         {
           "name": "Mikel Landa",
           "id": 68367,
           "team": "SOQ",
           "country": "es",
-          "totalPoints": 667
+          "totalPoints": 740
         },
         {
           "name": "Jordi Meeus",
           "id": 148901,
           "team": "RBH",
           "country": "be",
-          "totalPoints": 953
+          "totalPoints": 1260
         },
         {
           "name": "Kaden Groves",
@@ -56,7 +56,7 @@
           "id": 91656,
           "team": "EFE",
           "country": "ec",
-          "totalPoints": 1777
+          "totalPoints": 1807
         },
         {
           "name": "Benoît Cosnefroy",
@@ -70,14 +70,14 @@
           "id": 422863,
           "team": "COF",
           "country": "es",
-          "totalPoints": 1142
+          "totalPoints": 1167
         },
         {
           "name": "Paul Lapeira",
           "id": 257361,
           "team": "DAT",
           "country": "fr",
-          "totalPoints": 518
+          "totalPoints": 778
         }
       ],
       "movement": 0
@@ -85,7 +85,7 @@
     {
       "owner": "Jonny Long",
       "name": "Ineos Grenadiers-Greenpeace-Poundland",
-      "totalPoints": 16400.71,
+      "totalPoints": 17678.71,
       "riders": [
         {
           "name": "Jonas Vingegaard",
@@ -99,7 +99,7 @@
           "id": 365033,
           "team": "LTK",
           "country": "dk",
-          "totalPoints": 1684.57
+          "totalPoints": 2254.57
         },
         {
           "name": "Enric Mas",
@@ -113,7 +113,7 @@
           "id": 1710249,
           "team": "TPP",
           "country": "gb",
-          "totalPoints": 2857
+          "totalPoints": 2910
         },
         {
           "name": "Santiago Buitrago",
@@ -127,14 +127,14 @@
           "id": 81980,
           "team": "TVL",
           "country": "fr",
-          "totalPoints": 10
+          "totalPoints": 369
         },
         {
           "name": "Valentin Madouas",
           "id": 91637,
           "team": "GFC",
           "country": "fr",
-          "totalPoints": 523
+          "totalPoints": 551
         },
         {
           "name": "Geraint Thomas",
@@ -148,78 +148,78 @@
           "id": 144019,
           "team": "XAT",
           "country": "it",
-          "totalPoints": 2146
+          "totalPoints": 2399
         },
         {
           "name": "Antonio Tiberi",
           "id": 308040,
           "team": "TBV",
           "country": "it",
-          "totalPoints": 1094.5
+          "totalPoints": 1109.5
         }
       ],
-      "movement": 0
+      "movement": -1
     },
     {
       "owner": "Toms Skujiņš",
       "name": "Lidl-Trek-Bauer",
-      "totalPoints": 12906.13,
+      "totalPoints": 15691.13,
       "riders": [
         {
           "name": "Remco Evenepoel",
           "id": 1596046,
           "team": "SOQ",
           "country": "be",
-          "totalPoints": 2528
+          "totalPoints": 4153
         },
         {
           "name": "Tim Merlier",
           "id": 70962,
           "team": "SOQ",
           "country": "be",
-          "totalPoints": 1837.29
+          "totalPoints": 1976.29
         },
         {
           "name": "Ben O'Connor",
           "id": 97805,
           "team": "JAY",
           "country": "au",
-          "totalPoints": 889.81
+          "totalPoints": 944.81
         },
         {
           "name": "Pello Bilbao",
           "id": 76092,
           "team": "TBV",
           "country": "es",
-          "totalPoints": 1002
+          "totalPoints": 1078
         },
         {
           "name": "Giulio Ciccone",
           "id": 97091,
           "team": "LTK",
           "country": "it",
-          "totalPoints": 2412.88
+          "totalPoints": 2752.88
         },
         {
           "name": "Lenny Martinez",
           "id": 1843476,
           "team": "TBV",
           "country": "fr",
-          "totalPoints": 1488
+          "totalPoints": 1913
         },
         {
           "name": "Mathias Vacek",
           "id": 472995,
           "team": "LTK",
           "country": "cz",
-          "totalPoints": 656.86
+          "totalPoints": 736.86
         },
         {
           "name": "Milan Fretin",
           "id": 1714193,
           "team": "COF",
           "country": "be",
-          "totalPoints": 1085
+          "totalPoints": 1130
         },
         {
           "name": "Max Schachmann",
@@ -241,21 +241,21 @@
     {
       "owner": "Dane Cash",
       "name": "Visma-Lease a Bike-Monster Energy",
-      "totalPoints": 16095.86,
+      "totalPoints": 17713.86,
       "riders": [
         {
           "name": "Jasper Philipsen",
           "id": 148275,
           "team": "ADC",
           "country": "be",
-          "totalPoints": 2238
+          "totalPoints": 2438
         },
         {
           "name": "Primož Roglič",
           "id": 88889,
           "team": "RBH",
           "country": "si",
-          "totalPoints": 1591
+          "totalPoints": 1856
         },
         {
           "name": "Carlos Rodriguez",
@@ -269,7 +269,7 @@
           "id": 415141,
           "team": "UAD",
           "country": "es",
-          "totalPoints": 2287.5
+          "totalPoints": 2602.5
         },
         {
           "name": "Simon Yates",
@@ -283,14 +283,14 @@
           "id": 96372,
           "team": "UAD",
           "country": "ec",
-          "totalPoints": 1299.14
+          "totalPoints": 1522.14
         },
         {
           "name": "Egan Bernal",
           "id": 95844,
           "team": "IGD",
           "country": "co",
-          "totalPoints": 1402.5
+          "totalPoints": 1742.5
         },
         {
           "name": "Florian Lipowitz",
@@ -304,22 +304,22 @@
           "id": 1759422,
           "team": "GFC",
           "country": "fr",
-          "totalPoints": 1675
+          "totalPoints": 1790
         },
         {
           "name": "Stefan Küng",
           "id": 74994,
           "team": "GFC",
           "country": "ch",
-          "totalPoints": 622.29
+          "totalPoints": 782.29
         }
       ],
-      "movement": 0
+      "movement": 1
     },
     {
       "owner": "Abby Mickey",
       "name": "EF Education-Swift Nation",
-      "totalPoints": 10573.58,
+      "totalPoints": 10791.91,
       "riders": [
         {
           "name": "Wout van Aert",
@@ -340,28 +340,28 @@
           "id": 154218,
           "team": "LOT",
           "country": "be",
-          "totalPoints": 543
+          "totalPoints": 563
         },
         {
           "name": "Michal Kwiatkowski",
           "id": 58528,
           "team": "IGD",
           "country": "pl",
-          "totalPoints": 182.5
+          "totalPoints": 255.5
         },
         {
           "name": "Filippo Ganna",
           "id": 91640,
           "team": "IGD",
           "country": "it",
-          "totalPoints": 2074.5
+          "totalPoints": 2152.83
         },
         {
           "name": "Tao Geoghegan Hart",
           "id": 86735,
           "team": "LTK",
           "country": "gb",
-          "totalPoints": 214
+          "totalPoints": 256
         },
         {
           "name": "David Gaudu",
@@ -382,7 +382,7 @@
           "id": 109481,
           "team": "IGD",
           "country": "nl",
-          "totalPoints": 1543.29
+          "totalPoints": 1548.29
         },
         {
           "name": "Patrick Konrad",
@@ -397,7 +397,7 @@
     {
       "owner": "Joe Lindsey",
       "name": "AlUla-Palantir",
-      "totalPoints": 15358.3,
+      "totalPoints": 15987.3,
       "riders": [
         {
           "name": "Mathieu van der Poel",
@@ -418,21 +418,21 @@
           "id": 150923,
           "team": "UAD",
           "country": "us",
-          "totalPoints": 2008.57
+          "totalPoints": 2153.57
         },
         {
           "name": "Aleksandr Vlasov",
           "id": 97280,
           "team": "RBH",
           "country": "ru",
-          "totalPoints": 235.71
+          "totalPoints": 260.71
         },
         {
           "name": "Jan Christen",
           "id": 462394,
           "team": "UAD",
           "country": "ch",
-          "totalPoints": 1217
+          "totalPoints": 1347
         },
         {
           "name": "Axel Zingle",
@@ -446,21 +446,21 @@
           "id": 482927,
           "team": "TPP",
           "country": "dk",
-          "totalPoints": 1081
+          "totalPoints": 1252
         },
         {
           "name": "Diego Ulissi",
           "id": 54679,
           "team": "XAT",
           "country": "it",
-          "totalPoints": 822
+          "totalPoints": 972
         },
         {
           "name": "Mauri Vansevenant",
           "id": 154227,
           "team": "SOQ",
           "country": "be",
-          "totalPoints": 116
+          "totalPoints": 124
         },
         {
           "name": "Alberto Bettiol",
@@ -470,12 +470,12 @@
           "totalPoints": 799
         }
       ],
-      "movement": 1
+      "movement": 0
     },
     {
       "owner": "Caley Fretz",
       "name": "US Postal Service Bald Eagles",
-      "totalPoints": 14471.1,
+      "totalPoints": 16434.1,
       "riders": [
         {
           "name": "Matteo Jorgenson",
@@ -496,21 +496,21 @@
           "id": 88346,
           "team": "TVL",
           "country": "us",
-          "totalPoints": 831.57
+          "totalPoints": 861.57
         },
         {
           "name": "Michael Matthews",
           "id": 62919,
           "team": "JAY",
           "country": "au",
-          "totalPoints": 1420.67
+          "totalPoints": 1780.67
         },
         {
           "name": "Isaac del Toro",
           "id": 2002910,
           "team": "UAD",
           "country": "mx",
-          "totalPoints": 4264
+          "totalPoints": 5589
         },
         {
           "name": "Daniel Martínez",
@@ -524,28 +524,28 @@
           "id": 88143,
           "team": "EFE",
           "country": "us",
-          "totalPoints": 1550.5
+          "totalPoints": 1610.5
         },
         {
           "name": "Magnus Sheffield",
           "id": 361433,
           "team": "IGD",
           "country": "us",
-          "totalPoints": 854.36
+          "totalPoints": 904.36
         },
         {
           "name": "Luke Plapp",
           "id": 1557079,
           "team": "JAY",
           "country": "au",
-          "totalPoints": 897
+          "totalPoints": 997
         },
         {
           "name": "Kevin Vermaerke",
           "id": 762315,
           "team": "TPP",
           "country": "us",
-          "totalPoints": 245
+          "totalPoints": 283
         }
       ],
       "movement": 0
@@ -553,14 +553,14 @@
     {
       "owner": "Andrew (member)",
       "name": "Groupama-FDJ-Tourtel Twist",
-      "totalPoints": 15315.28,
+      "totalPoints": 16176.61,
       "riders": [
         {
           "name": "Adam Yates",
           "id": 70590,
           "team": "UAD",
           "country": "gb",
-          "totalPoints": 922
+          "totalPoints": 1322
         },
         {
           "name": "João Almeida",
@@ -574,7 +574,7 @@
           "id": 227110,
           "team": "TVL",
           "country": "nl",
-          "totalPoints": 2110
+          "totalPoints": 2123
         },
         {
           "name": "Kévin Vauquelin",
@@ -588,14 +588,14 @@
           "id": 111343,
           "team": "UAD",
           "country": "fr",
-          "totalPoints": 752.57
+          "totalPoints": 1155.9
         },
         {
           "name": "Tim Wellens",
           "id": 64531,
           "team": "UAD",
           "country": "be",
-          "totalPoints": 1205
+          "totalPoints": 1250
         },
         {
           "name": "Dylan van Baarle",
@@ -626,19 +626,19 @@
           "totalPoints": 594.5
         }
       ],
-      "movement": -1
+      "movement": 0
     },
     {
       "owner": "Discord Undrafted",
       "name": "Team Movistar easyJet",
-      "totalPoints": 11225.81,
+      "totalPoints": 12313.81,
       "riders": [
         {
           "name": "Dylan Groenewegen",
           "id": 72932,
           "team": "JAY",
           "country": "nl",
-          "totalPoints": 695
+          "totalPoints": 698
         },
         {
           "name": "Matej Mohorič",
@@ -652,56 +652,56 @@
           "id": 235075,
           "team": "EFE",
           "country": "ie",
-          "totalPoints": 2139
+          "totalPoints": 2742
         },
         {
           "name": "Javier Romo",
           "id": 2178033,
           "team": "MOV",
           "country": "es",
-          "totalPoints": 1084.43
+          "totalPoints": 1099.43
         },
         {
           "name": "António Morgado",
           "id": 442797,
           "team": "UAD",
           "country": "pt",
-          "totalPoints": 982
+          "totalPoints": 985
         },
         {
           "name": "Guillaume Martin",
           "id": 75170,
           "team": "GFC",
           "country": "fr",
-          "totalPoints": 752
+          "totalPoints": 755
         },
         {
           "name": "Paul Magnier",
           "id": 1759987,
           "team": "SOQ",
           "country": "fr",
-          "totalPoints": 2031
+          "totalPoints": 2327
         },
         {
           "name": "Mauro Schmid",
           "id": 109483,
           "team": "JAY",
           "country": "ch",
-          "totalPoints": 1083.67
+          "totalPoints": 1193.67
         },
         {
           "name": "Jai Hindley",
           "id": 109829,
           "team": "RBH",
           "country": "au",
-          "totalPoints": 1490.71
+          "totalPoints": 1540.71
         },
         {
           "name": "Roger Adrià",
           "id": 407508,
           "team": "RBH",
           "country": "es",
-          "totalPoints": 484
+          "totalPoints": 489
         }
       ],
       "movement": 0
