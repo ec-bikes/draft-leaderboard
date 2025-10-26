@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "25 October 2025 23:20 GMT",
+  "fetchedDate": "26 October 2025 23:22 GMT",
   "momentId": 195007,
   "teams": [
     {
@@ -158,7 +158,7 @@
           "totalPoints": 1109.5
         }
       ],
-      "movement": -1
+      "movement": 0
     },
     {
       "owner": "Toms Skujiņš",
@@ -314,7 +314,7 @@
           "totalPoints": 782.29
         }
       ],
-      "movement": 1
+      "movement": 0
     },
     {
       "owner": "Abby Mickey",
