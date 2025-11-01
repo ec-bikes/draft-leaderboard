@@ -1,7 +1,7 @@
 {
   "source": "pcs",
   "schemaVersion": 1,
-  "fetchedDate": "31 October 2025 23:22 GMT",
+  "fetchedDate": "1 November 2025 23:21 GMT",
   "momentId": 195013,
   "team": {
     "owner": "Tils Raynolds",
@@ -28,7 +28,7 @@
             "rank": 7
           },
           {
-            "name": "Classic Lorient Agglomération - CERATIZIT",
+            "name": "Classic Lorient Agglomeration",
             "date": "30 Aug 2025",
             "points": 24,
             "rank": 19
@@ -647,7 +647,7 @@
             "rank": 22
           },
           {
-            "name": "Classic Lorient Agglomération - CERATIZIT",
+            "name": "Classic Lorient Agglomeration",
             "date": "30 Aug 2025",
             "points": 16,
             "rank": 29
@@ -916,7 +916,7 @@
             "rank": 10
           },
           {
-            "name": "Classic Lorient Agglomération - CERATIZIT",
+            "name": "Classic Lorient Agglomeration",
             "date": "30 Aug 2025",
             "points": 8,
             "rank": 33
@@ -1213,7 +1213,7 @@
             "rank": 16
           },
           {
-            "name": "Classic Lorient Agglomération - CERATIZIT",
+            "name": "Classic Lorient Agglomeration",
             "date": "30 Aug 2025",
             "points": 24,
             "rank": 20
